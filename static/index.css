@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Eagle+Lake&family=Work+Sans&display=swap");
+:root {
+  --colour-accent: #043565;
+  --colour-fg: #342627;
+  --colour-bg: #f5f3eb;
+  --colour-error: #c81d25;
+  --colour-success: #34876f;
+  --font-body: "Work Sans", sans-serif;
+  --font-header: "Eagle Lake", cursive;
+  --border-radius: 4px;
+  --space-wide: 0.8em;
+  --space-narrow: 0.4em;
+  --shadow-base: rgba(0, 0, 0, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  --shadow-emphasis: rgba(0, 0, 0, 0.19) 0px 10px 20px,
+    rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 105%;
+  }
+  :root {
+    --space-wide: 2em;
+    --space-narrow: 1em;
+  }
+  h1 {
+    font-size: 4em;
+  }
+}
+
+body {
+  max-width: min(1000px, 100%);
+  margin: auto;
+  font-family: var(--font-body);
+  color: var(--colour-fg);
+  background-color: var(--colour-bg);
+  line-height: 1.5em;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 var(--space-wide) var(--space-wide) var(--space-wide);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-header);
+}
+
+a {
+  color: var(--colour-accent);
+}
+
+a:hover,
+a:focus {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+}
+img {
+  max-width: min(50vw, 150px);
+}
+
+section {
+  box-shadow: var(--shadow-base);
+  margin: var(--space-narrow) 0;
+  padding: var(--space-narrow) var(--space-narrow) 0 var(--space-narrow);
+  border-radius: var(--border-radius);
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+article {
+  background-color: rgba(52, 38, 39, 0.1);
+  padding: var(--space-wide) var(--space-narrow);
+  margin: var(--space-wide) 0;
+  border-radius: var(--border-radius);
+}
+
+.dim {
+  font-size: smaller;
+  color: rgba(52, 38, 39, 0.8);
+}
+.gh {
+  display: flex;
+  align-items: center;
+  font-size: smaller;
+}
+.gh > img {
+  padding: 0 var(--space-narrow);
+}

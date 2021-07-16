@@ -1,6 +1,27 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://codexfelis.github.io/flumen/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: http://acrl.ala.org/dh/feed/
+  - href: http://blogs.ucl.ac.uk/dh/feed/
+  - href: http://dhnb.eu/feed
+  - href: http://www.dh.uni-leipzig.de/wo/feed/
+  - href: https://aa-dh.org/feed/
+  - href: https://ach.org/feed/
+  - href: https://adho.org/rss.xml # this one calls itself "News", but is  Alliance of Digital Humanities Organizations
+  - href: https://blogs.kcl.ac.uk/ddh/feed
+  - href: https://csdh-schn.org/feed
+  - href: https://dh.rutgers.edu/feed/
+  - href: https://dhcenternet.org/rss.xml
+  - href: https://dhnetwork.org/feed
+  - href: https://dig-hum.de/aktuelles/feed
+  - href: https://digital.humanities.ox.ac.uk/rss.xml
+  - href: https://digitalhumanities.stanford.edu/rss.xml
+  - href: https://dslab.lib.rochester.edu/category/blog/feed
+  - href: https://eadh.org/feed
+  - href: https://medium.com/@metalabharvard/feed
+  - href: https://openmethods.dariah.eu/feed/
+  - href: https://sites.tufts.edu/digitalhumanities/feed/
+  - href: https://tei-c.org/feed
+  - href: https://www.cdh.cam.ac.uk/rss.xml
+  - href: https://www.neh.gov/rss.xml
+cacheMaxDays: 180
+siteTitle: "Flumen: Digital Humanities News Aggregator"

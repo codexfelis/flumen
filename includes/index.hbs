@@ -1,0 +1,51 @@
+<html lang="en">
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>{{siteTitle}}</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
+  <link href="index.css" rel="stylesheet" />
+</head>
+
+
+<body>
+  <header>
+    <a href="https://codexfelis.dev">
+      <img src="Logo.png" alt="the Codex Felis logo" />
+    </a>
+    <a class="gh" href="https://github.com/codexfelis/flumen" target="_blank" rel="noopener noreferrer"><span>Find us on
+        GitHub</span><img src="GitHub.png"></a>
+  </header>
+
+  <h1>Flumen</h1>
+  <p>News Aggregator for Digital Humanities by <a href="https://codexfelis.dev">Codex Felis</a></p>
+
+  {{#each dates}}
+  <section>
+    <h2>{{isoPublishDate}}</h2>
+    {{#each articles}}
+    <article>
+      <h3><a href={{link}} target="_blank" rel="noopener noreferrer">{{title}}</a></h3>
+      <p class="dim">Source: <a href={{source.siteUrl}}>{{source.title}}</a> |
+        Reading time: {{readingTimeInMin}} minutes </p>
+      <p>{{description}}</p>
+    </article>
+    {{/each}}
+  </section>
+  {{/each}}
+  <footer>
+    <a class="gh" href="https://github.com/codexfelis/flumen" target="_blank" rel="noopener noreferrer"><img
+        src="GitHub.png"><span>Find us on GitHub</span></a>
+    <p class="dim">Last updated {{siteBuildTimestamp}}</p>
+  </footer>
+</body>
+
+
+</html>
