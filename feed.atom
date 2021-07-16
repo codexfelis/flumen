@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-07-16T14:13:21.464Z</updated>
+    <updated>2021-07-16T16:43:52.042Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mit dem Hochschulverband Informationswissenschaft schließt sich ein weiterer Verband unserem WissZeitG Statement an]]></title>
+        <id>node/702</id>
+        <link href="https://dig-hum.de/aktuelles/dem-hochschulverband-informationswissenschaft-schlie%C3%9Ft-sich-ein-weiterer-verband-unserem"/>
+        <updated>2021-07-16T15:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Wir freuen uns, dass mit dem Hochschulverband Informationswissenschaft ein weiterer Fachverband unsere Stellungnahme zur Befristungspraxis an Hochschulen und außeruniversitären…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neue DHd-Community auf Zenodo: DHd-Verbandsaktivitäten]]></title>
+        <id>node/701</id>
+        <link href="https://dig-hum.de/aktuelles/neue-dhd-community-zenodo-dhd-verbandsaktivit%C3%A4ten"/>
+        <updated>2021-07-16T15:08:24.000Z</updated>
+        <summary type="html"><![CDATA[Bereits seit 2019 wird auf Zenodo eine DHd-Community betrieben und kuratiert (https://zenodo.org/communities/dhd/). Sie ist eine zentrale Sammelstelle für Materialien rund um die…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stellenangebot: Digital Humanist, Brahms-Gesamtausgabe Kiel]]></title>
         <id>node/700</id>
