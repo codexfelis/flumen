@@ -1,581 +1,1034 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T10:59:32.791Z</id>
-    <title>osmos::feed</title>
-    <updated>2021-07-16T10:59:32.791Z</updated>
+    <id>https://codexfelis.github.io/flumen/index.html</id>
+    <title>Flumen: Digital Humanities News Aggregator</title>
+    <updated>2021-07-16T14:13:21.464Z</updated>
     <generator>osmosfeed 1.11.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
+    <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How to Get a Pixel-Perfect, Linearly Scaled UI]]></title>
-        <id>https://css-tricks.com/?p=344273</id>
-        <link href="https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/"/>
-        <updated>2021-07-15T14:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.
-Most of those examples, though, use …
-The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Stellenangebot: Digital Humanist, Brahms-Gesamtausgabe Kiel]]></title>
+        <id>node/700</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-digital-humanist-brahms-gesamtausgabe-kiel"/>
+        <updated>2021-07-14T17:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Das Akademievorhaben Brahms-Gesamtausgabe Kiel sucht zum 1. Oktober 2021 eine:n Wissenschaftliche:n Mitarbeiter:in / Digital Humanist (50%).
+Bewerbungsfrist: 06.08.2021
+Die…]]></summary>
         <author>
-            <name>Georgi Nikoloff</name>
+            <name>406</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ISR vs DPR: Big Words, Quick Explanation]]></title>
-        <id>https://smashingmagazine.com/2021/07/isr-dpr-explained/</id>
-        <link href="https://smashingmagazine.com/2021/07/isr-dpr-explained/"/>
-        <updated>2021-07-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.]]></summary>
+        <title type="html"><![CDATA[Creative AI: Models of Artistic Practice]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3070</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/07/12/creative-ai-models-of-artistic-practice/"/>
+        <updated>2021-07-12T08:16:32.000Z</updated>
+        <summary type="html"><![CDATA[How do artists use the backend of machine learning in their artworks? How is Machine Learning transforming the making of meaning? These were the questions brought about in the Creative AI Lab’s presentation during the National College of Art and Design, Dublin (NCAD) Digital Culture Webinar Series hosted by Elaine Hoey (New Media Artist) and … 
+Continue reading "Creative AI: Models of Artistic Practice"]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cassidy Williams)</name>
+            <name>Shuprima Guha</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Can Do That With A JavaScript Data Grid?]]></title>
-        <id>https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/</id>
-        <link href="https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/"/>
-        <updated>2021-07-15T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
+        <title type="html"><![CDATA[Humanities-Centred AI (CHAI) : Call for Papers (Verlängerung bis 30.07.21)]]></title>
+        <id>node/699</id>
+        <link href="https://dig-hum.de/aktuelles/humanities-centred-ai-chai-call-for-papers-verl%C3%A4ngerung-300721"/>
+        <updated>2021-07-11T15:56:01.000Z</updated>
+        <summary type="html"><![CDATA[44th German Conference on Artificial Intelligence (KI2021)
+Der Call for Papers ist eröffnet und die Deadline für die Einreichung von Beiträgen wurde bis zum 30.07.2021 verlängert…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+            <name>406</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn the FARM Stack! (FastAPI, React, MongoDB)]]></title>
-        <id>60e74160134ad707be00f23f</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/"/>
-        <updated>2021-07-15T13:43:01.000Z</updated>
-        <summary type="html"><![CDATA[The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where]]></summary>
+        <title type="html"><![CDATA[Rahtz Prize – Call for Nominations and Submissions 2021]]></title>
+        <id>https://tei-c.org/?p=31163</id>
+        <link href="https://tei-c.org/2021/07/09/rahtz-prize-call-for-nominations-and-submissions-2021/"/>
+        <updated>2021-07-09T18:57:25.000Z</updated>
+        <summary type="html"><![CDATA[The TEI Consortium created the Rahtz Prize for TEI Ingenuity in memory of Sebastian Rahtz, who contributed significantly to the TEI infrastructure. The award is intended to honour Sebastian’s noteworthy technical and philosophical contributions to the TEI, and to encourage innovation in the TEI community. The Rahtz Prize for TEI Ingenuity is awarded to an […]]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Martina Scholger</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Apache Cassandra Beginner Tutorial]]></title>
-        <id>60ead07ee8ee9b08300ed387</id>
-        <link href="https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/"/>
-        <updated>2021-07-15T13:13:02.000Z</updated>
-        <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
+        <title type="html"><![CDATA[What Counts as Culture? Part I: Sentiment Analysis of The Times Music Reviews, 1950-2009 – train in the distance]]></title>
+        <id>https://traininthedistance.wordpress.com/2021/05/07/what-counts-as-culture-part-i-sentiment-analysis-of-the-times-music-reviews-1950-2009/</id>
+        <link href="https://openmethods.dariah.eu/2021/07/08/what-counts-as-culture-part-i-sentiment-analysis-of-the-times-music-reviews-1950-2009-train-in-the-distance/"/>
+        <updated>2021-07-08T14:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: This blog post by Lucy Havens presents a sentiment analysis of over 2000 Times Music Reviews using freely available tools: defoe for building the corpus of reviews, VADER for sentiment analysis and Jupiter Notebooks to provide a rich documentation and to connect the different components of the analysis. The description of the workflow comes with tool and method criticism reflections, including an outlook how to improve and continue to get better and more results.]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Lucy Havens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
-        <id>60d4e7596e1a1407b6b0bb56</id>
-        <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
-        <updated>2021-07-14T17:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
+        <title type="html"><![CDATA[Reminder: CfP DHd2022 endet am 15.07.2021]]></title>
+        <id>node/698</id>
+        <link href="https://dig-hum.de/aktuelles/reminder-cfp-dhd2022-endet-am-15072021"/>
+        <updated>2021-07-08T10:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Die 8. Jahrestagung des Verbands »Digital Humanities im deutschsprachigen Raum e.V.« (DHd) findet vom 7. bis zum 11. März 2022 in Postdam statt.
+Die DHd2022 hat das Thema »…]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>406</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning]]></title>
-        <id>5ff5461e7af2371468bb7ece</id>
-        <link href="https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/"/>
-        <updated>2021-07-14T16:27:00.000Z</updated>
-        <summary type="html"><![CDATA[We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts that data scientists use in the]]></summary>
+        <title type="html"><![CDATA[Welcome to new Lecturers at the Department of Digital Humanities 🎊]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3080</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/07/07/welcome-to-new-lecturers/"/>
+        <updated>2021-07-07T15:14:37.000Z</updated>
+        <summary type="html"><![CDATA[A very warm welcome to all of our new members of staff at the Department of Digital Humanities! Joining us ahead of the next academic year we have: Andrea Ballatore, Lecturer in Social and Cultural Informatics Barbara McGillivray, Lecturer in Digital Humanities and Cultural Computation Daniel Chavez Heras, Lecturer in Humanistic and Social Computing Education … 
+Continue reading "Welcome to new Lecturers at the Department of Digital Humanities 🎊"]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Jonathan Gray</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build Complex CSS Transitions using Custom Properties and cubic-bezier()]]></title>
-        <id>https://css-tricks.com/?p=344249</id>
-        <link href="https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/"/>
-        <updated>2021-07-14T14:31:02.000Z</updated>
-        <summary type="html"><![CDATA[I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …
-The post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Neue DH-Projekte im DHd-Projekteschaufenster]]></title>
+        <id>node/697</id>
+        <link href="https://dig-hum.de/aktuelles/neue-dh-projekte-im-dhd-projekteschaufenster"/>
+        <updated>2021-07-06T15:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Wir freuen uns, vier neue DH-Forschungsprojekte im DHd-Projekteschaufenster präsentieren zu dürfen:
+Peter Handke Notizbücher. Digitale Edition
+DARIAH-DE Repository
+DARIAH-DE Geo-…]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>406</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Bashful Button Worth $8 Million]]></title>
-        <id>https://css-tricks.com/?p=344407</id>
-        <link href="https://cloudfour.com/thinks/a-bashful-button-worth-8-million/"/>
-        <updated>2021-07-14T14:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …
-The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Stellenangebot: WMA für die Online-Plattform Digital Benin]]></title>
+        <id>node/695</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-wma-f%C3%BCr-die-online-plattform-digital-benin"/>
+        <updated>2021-07-04T08:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Die Stiftung Museum am Rothenbaum sucht baldmöglichst für 12 Monate eine:n Wissenschaftliche:n Mitarbeiter:in für die Schaffung der Online-Plattform Digital Benin in Vollzeit.…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>406</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
-        <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
-        <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
-        <updated>2021-07-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
+        <title type="html"><![CDATA[CfP: Virtual Summer School: Deep Learning for Language Analysis (30.8.-3.9.2021)]]></title>
+        <id>node/694</id>
+        <link href="https://dig-hum.de/aktuelles/cfp-virtual-summer-school-deep-learning-for-language-analysis-308-392021"/>
+        <updated>2021-07-02T20:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Das Institut für Digital Humanities (IDH), das Cologne Center for eHumanities (CCeH) und das Data Center for the Humanities (DCH) richten mit Unterstützung der Competence Area III…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>406</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Server Scanning With Nikto – A Beginner&#x27;s Guide]]></title>
-        <id>60ebb55be8ee9b08300ed731</id>
-        <link href="https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/"/>
-        <updated>2021-07-14T07:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since]]></summary>
+        <title type="html"><![CDATA[CFP TEI 2021: Next Gen TEI]]></title>
+        <id>https://tei-c.org/?p=31131</id>
+        <link href="https://tei-c.org/2021/07/02/cfp-tei-2021-next-gen-tei/"/>
+        <updated>2021-07-02T14:33:05.000Z</updated>
+        <summary type="html"><![CDATA[At DH 2017 in Montreal, the Text Encoding Initiative received the Antonio Zampolli Prize in recognition of our thirtieth anniversary. Four years and a pandemic later, the TEI Guidelines remain a significant part of the digital humanities toolkit, with a strong focus on internationalization, both linguistic and geographic. From Japan to Argentina, Austria to Cameroon, […]]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Hugh Cayless</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Redis? How to Install and Basic Commands]]></title>
-        <id>60eb2a69e8ee9b08300ed5b3</id>
-        <link href="https://www.freecodecamp.org/news/redis-crash-course/"/>
-        <updated>2021-07-14T06:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Redis is a type of database that you can add to your production level applicaiton to make it more performant.  In this article, I'll go over some Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype]]></summary>
+        <title type="html"><![CDATA[DHA2021 Call For Proposals]]></title>
+        <id>https://aa-dh.org/?p=414</id>
+        <link href="https://aa-dh.org/2021/07/02/dha2021-call-for-proposals/"/>
+        <updated>2021-07-02T03:23:44.000Z</updated>
+        <summary type="html"><![CDATA[The Australasian Association for Digital Humanities (aaDH) is pleased to invite proposals for DHA2021 (our COVID-delayed conference formerly known as DHA2020). DHA 2021 will take place from 22-25 November 2021. To allow for COVID-19 uncertainty, it will be a hybrid ‘In-person’ / ‘On-line’ conference held simultaneously in the city of Ōtautahi Christchurch, Aotearoa New Zealand, … Continue reading "DHA2021 Call For Proposals"]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Tully Barnett</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Links on React and JavaScript]]></title>
-        <id>https://css-tricks.com/?p=344316</id>
-        <link href="https://css-tricks.com/links-on-react-and-javascript/"/>
-        <updated>2021-07-13T19:57:10.000Z</updated>
-        <summary type="html"><![CDATA[As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …
-The post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[UCLDH research activity June 2021]]></title>
+        <id>https://blogs.ucl.ac.uk/dh/?p=8192</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/06/30/ucldh-research-june21/"/>
+        <updated>2021-06-30T12:44:01.000Z</updated>
+        <summary type="html"><![CDATA[The UCLDH team have been busy as ever, despite continuing COVID-19 restrictions. Here’s just a few examples of recent activity: Adam Crymble has published a monograph, Technology & the Historian: Transformations in the Digital Age (University of Illinois press, 2021) and a co-authored piece with Maria José Afanador-Llach (‘The Globally Unequal Promise of Digital Tools […]]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Lucy Stagg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Theme Color and Trickery]]></title>
-        <id>https://css-tricks.com/?p=343850</id>
-        <link href="https://css-tricks.com/meta-theme-color-and-trickery/"/>
-        <updated>2021-07-13T14:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…
-The post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Introduction to IIIF]]></title>
+        <id>https://dh.rutgers.edu/?p=77332</id>
+        <link href="https://dh.rutgers.edu/introduction-to-iiif/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introduction-to-iiif"/>
+        <updated>2021-06-29T21:03:51.000Z</updated>
+        <summary type="html"><![CDATA[By Ben Bakelaar and Caterina Agostini   IIIF is an acronym that stands for International Image Interoperability Format. An easy way to think of IIIF is like a webpage. A webpage is built with HTML, via hypertext markup language. It pulls together text, images, and other multimedia into a single view. In the same way, a IIIF object is built using JSON, and links together metadata and powerful image capabilities which allow institutions to deliver ultra-high resolution images quickly and efficiently to a IIIF viewer. Any image (and even audio and video) can become a IIIF object by building a manifest that uses the IIIF standard to describe its]]></summary>
         <author>
-            <name>Manuel Matuzovic</name>
+            <name>Caterina Agostini</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jamstack Community Survey 2021]]></title>
-        <id>https://css-tricks.com/?p=344542</id>
-        <link href="https://www.surveymonkey.com/r/jamstack-survey-css-tricks"/>
-        <updated>2021-07-13T14:34:48.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-The folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …
-The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Visualizando libros difundidos y censurados durante la Guerra Fría: 1956-1971. El caso Alfred Reisch]]></title>
+        <id>http://revistas.uned.es/index.php/RHD/article/view/27247</id>
+        <link href="https://openmethods.dariah.eu/2021/06/28/visualizando-libros-difundidos-y-censurados-durante-la-guerra-fria-1956-1971-el-caso-alfred-reisch/"/>
+        <updated>2021-06-28T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: This article explores the potential use of data-driven methods to visualise and interpret the impact of Western efforts to influence Cold War dynamics using a covert book distribution programme. Based on a documentary corpus connected to the 2013 book by Alfred Reisch, which documented efforts by the CIA to disseminate books in the Soviet Bloc in the period 1956-1971, the authors use the Tableau Public platform to re-assess information science methods for researching historical events. Their analysis suggests that books distributed did not tend to have a more obvious political slant, but were more likely to have a broader universalist outlook. While it skirts around some of the limitations of visualization (highlighted elsewhere by Drucker and others) it offers a solid introduction to the benefits of a data-driven approach to a general audience.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Author on Source</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Git Branches Work]]></title>
-        <id>60e73db9134ad707be00f206</id>
-        <link href="https://www.freecodecamp.org/news/how-git-branches-work/"/>
-        <updated>2021-07-13T13:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -]]></summary>
+        <title type="html"><![CDATA[Stellungnahme des DHd-Verbands zur Befristungspraxis an Hochschulen und außeruniversitären Forschungseinrichtungen in Deutschland]]></title>
+        <id>node/693</id>
+        <link href="https://dig-hum.de/aktuelles/stellungnahme-des-dhd-verbands-zur-befristungspraxis-hochschulen-und-au%C3%9Feruniversit%C3%A4ren"/>
+        <updated>2021-06-28T08:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Der Vorstand des DHd-Verbands, dem Wissenschaftler:innen auf befristeten ebenso wie auf unbefristeten Stellen angehören, möchte mit der vorliegenden Stellungnahme Position in der…]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>406</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building A Dynamic Header With Intersection Observer]]></title>
-        <id>https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</id>
-        <link href="https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/"/>
-        <updated>2021-07-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.]]></summary>
+        <title type="html"><![CDATA[Ihre User-Experience ist gefragt! (remote)]]></title>
+        <id>node/691</id>
+        <link href="https://dig-hum.de/aktuelles/ihre-user-experience-ist-gefragt-remote"/>
+        <updated>2021-06-27T19:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Im Rahmen eines User-Experience-Tests wird ein Service im Bereich digitaler Forschungsinfrastrukturen untersucht. Hierfür suchen wir Sie als Proband*innen mit und ohne…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+            <name>406</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Migrate From jQuery To Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/"/>
-        <updated>2021-07-13T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.]]></summary>
+        <title type="html"><![CDATA[»DHd2022: Kulturen des digitalen Gedächtnisses« (Potsdam, März 2022). Endspurt: Noch 2,5 Wochen bis zur Deadline!]]></title>
+        <id>node/690</id>
+        <link href="https://dig-hum.de/aktuelles/%C2%BBdhd2022-kulturen-des-digitalen-ged%C3%A4chtnisses%C2%AB-potsdam-m%C3%A4rz-2022-endspurt-noch-25-wochen"/>
+        <updated>2021-06-27T19:05:15.000Z</updated>
+        <summary type="html"><![CDATA[In zweieinhalb Wochen, am 15. Juli, endet der Call for Papers der DHd2022: »Kulturen des digitalen Gedächtnisses« (hier ist der Call zu finden: https://www.dhd2022.de/cfp/).
+Die 8…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+            <name>406</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman]]></title>
-        <id>609692d82cd0545b5e9441ab</id>
-        <link href="https://www.freecodecamp.org/news/build-graphql-server-with-laravel/"/>
-        <updated>2021-07-13T07:54:34.000Z</updated>
-        <summary type="html"><![CDATA[GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Axios With React: The Definitive Guide (2021)]]></title>
-        <id>60e9c888e8ee9b08300ed212</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-axios-with-react/"/>
-        <updated>2021-07-13T07:36:28.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?]]></title>
-        <id>60e5b284134ad707be00e5e0</id>
-        <link href="https://www.freecodecamp.org/news/ui-ux-design-guide/"/>
-        <updated>2021-07-13T02:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Have you noticed how User Interface and User Experience design are considered different topics nowadays?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining increased momentum, with more and more developers getting involved]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet `:has`, A Native CSS Parent Selector]]></title>
-        <id>https://css-tricks.com/?p=344355</id>
-        <link href="https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
-        <updated>2021-07-12T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …
-The post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the Specificity of :where() as a CSS Reset]]></title>
-        <id>https://css-tricks.com/?p=343613</id>
-        <link href="https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/"/>
-        <updated>2021-07-12T14:30:34.000Z</updated>
-        <summary type="html"><![CDATA[I don’t know about you, but I write these three declarations many times in my CSS:
-ul {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-}
-You might yell at me and say I can just put those in my CSS …
-The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refactoring CSS: Introduction (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</id>
-        <link href="https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/"/>
-        <updated>2021-07-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:focus-visible in WebKit]]></title>
-        <id>https://css-tricks.com/?p=344334</id>
-        <link href="https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/"/>
-        <updated>2021-07-09T18:53:51.000Z</updated>
-        <summary type="html"><![CDATA[This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …
-The post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Favicons in Action]]></title>
-        <id>https://css-tricks.com/?p=343598</id>
-        <link href="https://css-tricks.com/svg-favicons-in-action/"/>
-        <updated>2021-07-09T14:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?
-The task is more non-trivial than you might think. As we will see in this …
-The post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Philippe Bernard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making A Strong Case For Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/strong-case-for-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/strong-case-for-accessibility/"/>
-        <updated>2021-07-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Todd Libby)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
-        <id>https://css-tricks.com/?p=344024</id>
-        <link href="https://wesbos.com/javascript"/>
-        <updated>2021-07-08T22:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …
-The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Struggle to Use and Animate a Conic Gradient in SVG]]></title>
-        <id>https://css-tricks.com/?p=343623</id>
-        <link href="https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/"/>
-        <updated>2021-07-08T14:35:38.000Z</updated>
-        <summary type="html"><![CDATA[The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …
-The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Command Line Tool with Nodejs and Fauna]]></title>
-        <id>https://css-tricks.com/?p=343574</id>
-        <link href="https://css-tricks.com/building-a-command-line-tool-with-nodejs-and-fauna/"/>
-        <updated>2021-07-08T14:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Command line tools are one of the most popular applications we have today. We use command line tools every day, and they range from git, npm or yarn. Command line tools are very fast and useful for automating applications and …
-The post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Fortune Ikechi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
-        <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
-        <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
-        <updated>2021-07-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Uma Victor)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Look at Building with Astro]]></title>
-        <id>https://css-tricks.com/?p=343495</id>
-        <link href="https://css-tricks.com/a-look-at-building-with-astro/"/>
-        <updated>2021-07-07T21:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …
-The post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Web’s Worst Default]]></title>
-        <id>https://css-tricks.com/?p=343388</id>
-        <link href="https://css-tricks.com/the-webs-worst-default/"/>
-        <updated>2021-07-07T14:30:34.000Z</updated>
-        <summary type="html"><![CDATA[There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…
-The post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
-        <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
-        <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
-        <updated>2021-07-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Choose A Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/</id>
-        <link href="https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/"/>
-        <updated>2021-07-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
-        <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
-        <updated>2021-07-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
-        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
-        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
-        <updated>2021-07-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
-        <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
-        <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
-        <updated>2021-07-01T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
-        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
-        <updated>2021-06-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Surma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/"/>
-        <updated>2021-06-30T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
-        <updated>2021-06-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
-        <updated>2021-06-29T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Custom Emmet Snippets In VS Code]]></title>
-        <id>https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/</id>
-        <link href="https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/"/>
-        <updated>2021-06-28T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
-        <updated>2021-06-25T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Dom Habersack)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
-        <updated>2021-06-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
-        <id>https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
-        <link href="https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/"/>
-        <updated>2021-06-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Josh Singer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Online Workshops (July-October 2021)]]></title>
-        <id>https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/</id>
-        <link href="https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/"/>
-        <updated>2021-06-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating Screen Reader Testing On macOS Using Auto VO]]></title>
-        <id>https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/</id>
-        <link href="https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/"/>
-        <updated>2021-06-23T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cameron Cundiff)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
-        <updated>2021-06-23T05:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
+        <title type="html"><![CDATA[Call for Nominations to EADH Executive Committee]]></title>
+        <id>1319 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/06/22/call-nominations-eadh-executive-committee"/>
+        <updated>2021-06-22T17:32:43.000Z</updated>
+        <summary type="html"><![CDATA[21 Jul 2021 - 00:00
 
-Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
-Videos are embedded via iframe and loading accelerated by youtube-lite-embed
-Ads are reduced thanks to YouTube's policy for embedded videos 🙃
-Works on mobile devices with butter smooth horizontal scroll.
-Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
-Changed: Default HTML template meta tag adjusted to match convention
-Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
-Thank you @PiyushLosalka]]></summary>
+
+
+Call for Nominations to EADH Executive Committee
+
+
+
+Dear EADH members, 
+The European Association for Digital Humanities (EADH) seeks to elect two (2) new board members for its Executive Committee for the term 2021-2024 and now opens its Call for Nominations. 
+EADH highlights the importance of a diverse and representative Executive Committee, and welcomes candidates from all backgrounds. For further information, please see our diversity and inclusivity statement <https://eadh.org/about/diversity-and-inclusivity>. 
+For each person wishing to be nominated for election, the EADH Elections Committee must receive the following three documents:
+a) two nomination statements by EADH members (here, the proposers), stating the name of the person they wish to nominate (that is, …]]></summary>
         <author>
-            <name>Release notes from osmosfeed</name>
+            <name>Communication Fellow</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
-        <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
-        <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
-        <updated>2021-06-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
+        <title type="html"><![CDATA[OpenMethods Spotlights #3 Keeping a smart diary of research processes with NeMO and the Scholarly Ontology]]></title>
+        <id>http://openmethods.dariah.eu/?p=3052</id>
+        <link href="https://openmethods.dariah.eu/2021/06/22/openmethods-spotlights-3-keeping-a-smart-diary-of-research-processes-with-nemo-and-the-scholarly-ontology/"/>
+        <updated>2021-06-22T14:13:19.000Z</updated>
+        <summary type="html"><![CDATA[In the next episode, we are looking behind the scenes of two ontologies: NeMO and the Scholarly Ontology (SO) with Panos Constantopoulos and Vayianos Pertsas who tell us the story behind these ontologies and explain how they can be used to ease or upcycle your daily works as a researcher. We discuss the value of knowledge graphs, how NeMO and SO connect with the emerging DH ontology landscape and beyond, why Open Access is a precondition of populating them, the Greek DH landscape …and many more!]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+            <name>Erzsebet Tóth-Czifra</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Image To Text Conversion With React And Tesseract.js (OCR)]]></title>
-        <id>https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</id>
-        <link href="https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/"/>
-        <updated>2021-06-21T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
+        <title type="html"><![CDATA[Special Interest Group on IIIF]]></title>
+        <id>https://dh.rutgers.edu/?p=77319</id>
+        <link href="https://dh.rutgers.edu/special-interest-group-on-iiif/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=special-interest-group-on-iiif"/>
+        <updated>2021-06-21T22:04:15.000Z</updated>
+        <summary type="html"><![CDATA[By Caterina Agostini and Ben Bakelaar   Digital images and tools are attracting the interest of scholars in the humanities. In particular, the International Image Interoperability Framework (IIIF) allows for high quality images and supports a variety of uses and applications including deep zoom, comparison, annotation, and transcription of digital images. With the current pandemic limiting travel and access to libraries and museums, in the Spring 2021 we founded a new DH Special Interest Group at Rutgers focused on IIIF. In the first meeting, we shared our work and research interests and connected with members of the Rutgers community, from Rutgers University Libraries, the Office]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
+            <name>Caterina Agostini</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Alternative Voice UI To Voice Assistants]]></title>
-        <id>https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/</id>
-        <link href="https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/"/>
-        <updated>2021-06-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.]]></summary>
+        <title type="html"><![CDATA[Community Open Principles: Before, During and After the Global Pandemic]]></title>
+        <id>1318 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/06/21/community-open-principles-during-and-after-global-pandemic-0"/>
+        <updated>2021-06-21T09:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Community Open Principles: Before, During and After the Global Pandemic
+
+
+
+The Force11 Working Group Reimagining Educational Practices for Open (REPO) will be hosting its second webinar on Jun 30, 2021 at 13:00 UTC.
+Community Open Principles: Before, During and After the Global Pandemic
+Dr. Ana Persic, UNESCO,
+Dr. Arianna Becerril García, AmeliCA,
+Dr. Johanna Havemann, Open Science MOOC,
+Osman Aldirdiri, AfricArXiv
+When we talk about Open (Open Science, Open Data, Open Access) what do we mean? How can we navigate the different definitions of what it means to be a community and to be Open? How do we engage with communities and train members around Open? What evidence are we using of how we are addressing Open? How can we be more inclusive and align our Open principles to foster norms, incentives, and recognition? Have our understandings around Open shifted during the pandemic? 
+This online webinar will address these questions via the experiences of invited open science communities, how they have designed and applied their open (science) principles before and during the pandemic, particularly with regard to outreach and training, while also looking out at the horizon, at a future beyond the pandemic. The webinar aims to include open (science) perspectives from a diverse group of communities, learn from their approaches, how they have evolved, and identify possible next steps that all, in our global community can consider.
+Register now]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ottomatias Peura)</name>
+            <name>Communication Fellow</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Client-Side Routing In Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/client-side-routing-next-js/</id>
-        <link href="https://smashingmagazine.com/2021/06/client-side-routing-next-js/"/>
-        <updated>2021-06-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.]]></summary>
+        <title type="html"><![CDATA[Community Open Principles: Before, During and After the Global Pandemic]]></title>
+        <id>1317 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/06/21/community-open-principles-during-and-after-global-pandemic"/>
+        <updated>2021-06-21T09:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Community Open Principles: Before, During and After the Global Pandemic
+
+
+
+The Force11 Working Group Reimagining Educational Practices for Open (REPO) will be hosting its second webinar on Jun 30, 2021 at 13:00 UTC.
+Community Open Principles: Before, During and After the Global Pandemic
+Dr. Ana Persic, UNESCO,
+Dr. Arianna Becerril García, AmeliCA,
+Dr. Johanna Havemann, Open Science MOOC,
+Osman Aldirdiri, AfricArXiv
+When we talk about Open (Open Science, Open Data, Open Access) what do we mean? How can we navigate the different definitions of what it means to be a community and to be Open? How do we engage with communities and train members around Open? What evidence are we using of how we are addressing Open? How can we be more inclusive and align our Open principles to foster norms, incentives, and recognition? Have our understandings around Open shifted during the pandemic? 
+This online webinar will address these questions via the experiences of invited open science communities, how they have designed and applied their open (science) principles before and during the pandemic, particularly with regard to outreach and training, while also looking out at the horizon, at a future beyond the pandemic. The webinar aims to include open (science) perspectives from a diverse group of communities, learn from their approaches, how they have evolved, and identify possible next steps that all, in our global community can consider.
+Register now]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Adebiyi Adedotun)</name>
+            <name>Communication Fellow</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
-        <id>https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
-        <link href="https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
-        <updated>2021-06-17T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
+        <title type="html"><![CDATA[Visiting Professor David Berry on Explainability and Interpretability as Critical Infrastructure Practice]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3063</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/06/21/david-berry-on-explainability/"/>
+        <updated>2021-06-21T08:20:48.000Z</updated>
+        <summary type="html"><![CDATA[David Berry is currently visiting the Department of Digital Humanities as Visiting Professor of Critical Theory and Digital Humanities. The following post from David introduces some of his current research on explainability and interpretability. He is giving a talk about this work at the Infrastructural Interventions workshop on Tuesday 22nd June. I am very excited … 
+Continue reading "Visiting Professor David Berry on Explainability and Interpretability as Critical Infrastructure Practice"]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+            <name>Jonathan Gray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: WMA im Projekt Burchards Dekret Digital (Mainz, 50%, EG 13 TV-L)]]></title>
+        <id>node/689</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-wma-im-projekt-burchards-dekret-digital-mainz-50-eg-13-tv-l"/>
+        <updated>2021-06-20T17:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Die Johannes Gutenberg-Universität Mainz (JGU) gehört zu den großen Universitäten in Deutschland. In der Wissenschaftsregion Rhein-Main entfaltet sie ihre Leistungsstärke,…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome 2021 Communications Fellows]]></title>
+        <id>588779 at https://adho.org</id>
+        <link href="https://adho.org/announcements/2021/welcome-2021-communications-fellows"/>
+        <updated>2021-06-18T16:28:18.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to welcome Erdal Ayan and Anna Sofia Lippolis as ADHO's 2021 Communications Fellows:
+Erdal Ayan is currently a PhD candidate in the department of English and American Studies at University of Kassel and a part-time master student in the Web Science Master Program at TH-Koeln. He is holding two bachelors (English Language and Literature and Sociology) and two masters degrees (English Language Teaching (ELT) & Computer Education and Instructional Technologies). He has got a broad research interest and/but his main focus is on data/text mining, sentiment analysis (opinion mining), topic modeling, network analysis (community detection), web development. He worked as teacher and lecturer for English before moving to Germany in 2017. He completed his voluntary internship in the C…]]></summary>
+        <author>
+            <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New ERC Project Exploring the Intersection between Surveillance and Morality]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3061</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/06/17/new-erc-project-exploring-the-intersection-between-surveillance-and-morality/"/>
+        <updated>2021-06-17T08:37:32.000Z</updated>
+        <summary type="html"><![CDATA[‘Smart cities’, ‘employee assistance programmes’, the pervasive language of ‘security’ – the implementation of surveillance technologies has consistently been framed in relation to moral ideas. This ambiguity has been observed by surveillance scholars for many years, David Lyon once describing the alternating ends of ‘care’ and ‘control’ which these technologies serve. Yet the study of … 
+Continue reading "New ERC Project Exploring the Intersection between Surveillance and Morality"]]></summary>
+        <author>
+            <name>Vita Peacock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report on ACH Racial Justice Project]]></title>
+        <id>https://ach.org/?p=2213</id>
+        <link href="https://ach.org/blog/2021/06/16/report-on-ach-racial-justice-project/"/>
+        <updated>2021-06-16T18:07:13.000Z</updated>
+        <summary type="html"><![CDATA[As a key step toward meeting the goals described in our Statement on Black LIves Matter, Structural Racism, and Our Organization, the officers and members of the ACH Executive Council have worked during the first half of 2021 with consultants from DeEtta Jones and Associates on a review of the organization’s policies, procedures, and governance…Continue reading.]]></summary>
+        <author>
+            <name>Kathleen Fitzpatrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#CfP LaTeCH-CLfL 2021]]></title>
+        <id>1316 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/06/14/cfp-latech-clfl-2021"/>
+        <updated>2021-06-14T13:55:47.000Z</updated>
+        <summary type="html"><![CDATA[5 Aug 2021 - 00:00
+
+
+
+#CfP LaTeCH-CLfL 2021
+
+
+
+The 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature
+to be held on-line on 11 November 2021 in conjunction with EMNLP 2021
+https://sighum.wordpress.com/events/latech-clfl-2021/
+Second Call for Papers (with apologies for cross-posting)
+Organisers: Stefania Degaetano-Ortlieb, Anna Kazantseva, Nils Reiter, Stan Szpakowicz
+LaTeCH-CLfL 2021 is the fifth in a series of meetings for NLP researchers who work with data from the broadly understood arts, humanities and social sciences, and for specialists in those disciplines who apply NLP techniques in their work. The workshop continues a long tradition of annual meetings. The SIGHUM Workshops on Language Technology for Cultural Her…]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day of Digital Humanities 2021]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3055</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/06/10/day-of-digital-humanities-2021/"/>
+        <updated>2021-06-10T15:46:06.000Z</updated>
+        <summary type="html"><![CDATA[This is a collection of blog posts members of the department contributed to the annual Day of Digital Humanities, a global online event which was this year themed on ‘multilingual digital humanities’. These were originally published on the Language Acts & Worldmaking website at https://languageacts.org/blog/day-of-digital-humanities-part-1/ and https://languageacts.org/blog/day-of-digital-humanities-part-2/ Introduction by Paul Spence This year’s Day of … 
+Continue reading "Day of Digital Humanities 2021"]]></summary>
+        <author>
+            <name>Paul Spence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CfP: DHd 2022, 7.- 11.03.2022, Potsdam, Germany]]></title>
+        <id>1313 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/06/09/cfp-dhd-2022-7-11032022-potsdam-germany"/>
+        <updated>2021-06-09T10:25:05.000Z</updated>
+        <summary type="html"><![CDATA[15 Jul 2021 - 00:00
+
+
+
+CfP: DHd 2022, 7.- 11.03.2022, Potsdam, Germany
+
+
+
+Dear all,
+ 
+We would like to inform you that submissons are welcome for DHd 2022, 7.- 11.03.2022, at Potsdam, Germany.
+DHd 2022 "Kulturen des digitalen Gedächtnisses" is the annual conference of the Verband Digital Humanities im deutschsprachigen Raum, an associative member of the European Association of Digital Humanities (EADH). 
+Check out the website (https://www.dhd2022.de) for the Call for Papers (in German) and details about the submission procedure. Please notice that the deadline is 15.07.2021. You can also follow us on Twitter @dhd2022!
+Looking forward to welcome you at Potsdam,
+ 
+Ulrike Wuttke
+on behalf of the Local Organisers of DHd 2022]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Offer: Professorship (W2-S) for “Historical Educational Research with a Focus on Digital Humanities” at Humboldt-Universität zu Berlin and DIPF]]></title>
+        <id>1312 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/06/05/job-offer-professorship-w2-s-historical-educational-research-focus-digital"/>
+        <updated>2021-06-05T13:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Job Offer: Professorship (W2-S) for “Historical Educational Research with a Focus on Digital Humanities” at Humboldt-Universität zu Berlin and DIPF
+
+
+
+The Faculty of Humanities and Social Sciences, Institute for Educational Sciences, of Humboldt-Universität zu Berlin, and Leibniz Institute for Research and Information in Education (DIPF) invite applications for a
+Professorship (W2-S) for “Historical Educational Research with a Focus on Digital Humanities”
+limited to 5 years, starting as soon as possible.
+Applicants should be experienced researchers in the field of German and/or transnational history of education with a focus on or documented interest in epistemological questions and methods of the Digital Humanities. The task of the successful applicant is to develop new uses of Digital Hu…]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blowing the doors off debt: mapping global interactions of a community project]]></title>
+        <id>http://blogs.ucl.ac.uk/dh/?p=8178</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/05/27/blowing-the-doors-off-debt-mapping-global-interactions-of-a-community-project/"/>
+        <updated>2021-05-27T16:44:30.000Z</updated>
+        <summary type="html"><![CDATA[The film Bank Job by Daniel Edelstyn and Hilary Powell is an exploration of the world of credit and of capital creation, and the buying and selling of debt. The film follows a community project in which artists Edelstyn and Powell create their own currency, set up as a bank, and sell bank notes in […]]]></summary>
+        <author>
+            <name>Oliver W Duke-Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Infrastructural Interventions”: Digital Humanities & Critical Infrastructure Studies Workshop, 21-22nd June 2021]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3047</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/05/27/infrastructural-interventions/"/>
+        <updated>2021-05-27T15:21:39.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Digital Humanities, King’s Digital Lab and the Critical Infrastructures Studies Initiative (cistudies.org) are co-hosting an event on “Infrastructural Interventions” on 21-22nd June 2021, organised by Urszula Pawlicka-Deger, Marie Curie Research Fellow at King’s. The event includes talks and discussions with Urszula Pawlicka-Deger, Alan Liu, Laura Mandell, Matthew K. Gold, Susan Brown, Lauren … 
+Continue reading "“Infrastructural Interventions”: Digital Humanities & Critical Infrastructure Studies Workshop, 21-22nd June 2021"]]></summary>
+        <author>
+            <name>Jonathan Gray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHN2020 Post-Proceedings published]]></title>
+        <id>http://dig-hum-nord.eu/?p=1905</id>
+        <link href="http://dhnb.eu/dhn2020-post-proceedings/"/>
+        <updated>2021-05-26T12:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Post-Proceedings of the 5th Conference Digital Humanities in the Nordic Countries (DHN 2020)  are published in CEUR Workshop Proceedings. It is an open-access publication service where already four volumes of DHN conference proceedings have been published. DHN2020 Post-Proceedings contain 26 papers presented in an online conference in Riga/Zoom in October 2020. Editors: Sanita Reinsone (Institute […]]]></summary>
+        <author>
+            <name>Sanita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDH Webinar: ‘Mediating sustainable cities: a methodological approach’, presented by Paola Monachesi]]></title>
+        <id>1311 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/05/26/cdh-webinar-mediating-sustainable-cities-methodological-approach-presented-paola"/>
+        <updated>2021-05-26T07:18:21.000Z</updated>
+        <summary type="html"><![CDATA[28 May 2021 - 00:00
+
+
+
+CDH Webinar: ‘Mediating sustainable cities: a methodological approach’, presented by Paola Monachesi
+
+
+
+Date/Time
+Date(s) - 28-05-2021
+15:00 - 16:15
+Location
+Online
+Registration through the following link: Centre for Digital Humanities | CDH Webinar: 'Mediating sustainable cities: a methodological approach', presented by Paola Monachesi (uu.nl)
+On 28 May, the Utrecht Centre for Digital Humanities organises a webinar in which Dr Paola Monachesi (Languages, Literature and Communication, Utrecht University) presents a podcast series under development focusing on her research on urban sustainable development.
+Environmental sustainability
+In her research, Monachesi takes a communication approach to urban sustainable development. She focuses on social behaviour analysed on the basis of communication arising from social media data. She claims that data ownership is key to digital and environmental sustainability.
+Social media data
+In this webinar Monachesi presents the computational methodology she developed to analyse social media data that exploits the linguistic, communicative and relational characteristics of the users. She focuses on two communities: creative migrants and elderly. In order to reveal the more implicit meaning of the data, she combines her quantitative analysis with a qualitative, thematic analysis in a novel mixed-method approach based on an explanatory sequential emergent design.
+Podcast and debate
+Attendants will listen to 3 podcasts of about 10-15 mins addressing the methodology. There will be space to ask questions and have a debate about the approach, results of the analysis and the relation between digital and environmental sustainability. Furthermore, there will be the possibility to comment and give feedback on the podcast series.]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEI-C 2021 elections: call for nominations]]></title>
+        <id>https://tei-c.org/?p=31043</id>
+        <link href="https://tei-c.org/2021/05/25/tei-c-2021-elections-call-for-nominations/"/>
+        <updated>2021-05-25T07:44:30.000Z</updated>
+        <summary type="html"><![CDATA[The Text Encoding Initiative Consortium (TEI-C) invites nominations for election to the TEI-C Board and the Technical Council. The following positions are vacant and up for election: TEI-C Board 2 members (for 3-year term) TEI-C Council 4 members (for 3-year term) 2 members (for 1-year term) Please submit your nominations to the TEI-C Board Nominating […]]]></summary>
+        <author>
+            <name>Martina Scholger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Association for Documentary Editing (ADE) virtual conference]]></title>
+        <id>1310 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/05/24/upcoming-association-documentary-editing-ade-virtual-conference"/>
+        <updated>2021-05-24T16:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Upcoming Association for Documentary Editing (ADE) virtual conference
+
+
+
+Registration is now open for the Association for Documentary Editing’s 2021 Virtual Conference “Representation and Recovery.” To promote a wide range of conversations, this year’s program will be held in two portions, with an “annual meeting” on 24-27 June, and “conference/networking sessions” on 6, 13, 20, and 27 July. All events will be held virtually. Live sessions will be made available on Zoom, and recordings (where permitted) will be made available on the ADE’s YouTube channel.
+Learn more about registration details and see the full schedule of events here. Access the shareable program flyer here.]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La poética dramática desde una perspectiva cuantitativa: la obra de Calderón de la Barca]]></title>
+        <id>http://revistas.uned.es/index.php/RHD/article/view/27716</id>
+        <link href="https://openmethods.dariah.eu/2021/05/24/la-poetica-dramatica-desde-una-perspectiva-cuantitativa-la-obra-de-calderon-de-la-barca/"/>
+        <updated>2021-05-24T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: In this paper, Ehrlicher et al. follow a quantitative approach to unveil possible structural parallelisms between 13 comedies and 10 autos sacramentales written by Calderón de la Barca. Comedies are analyzed within a comparative framework, setting them against Spanish comedia nueva and French comedie precepts. Authors employ tool DramaAnalysis and statistics for their examination, focusing on: word frequency per subgenre, average number of characters, their variation and discourse distribution, etc. Autos sacramentales are also evaluated through these indicators. Regarding comedies, Ehrlicher et al.’s results show that Calderón: a) plays with units of space and time depending on creative and dramatic needs, b) does not follow French comedie conventions of character intervention or linkage, but c) does abide by its concept of structural symmetry. As for autos sacramentales, their findings brought forth that these have a similar length and character variation to comedies. However, they also identified the next difference: Calderón uses character co-presence in them to reinforce the message conveyed. Considering all this, authors confirm that Calderón’s comedies disassociate from classical notions of theatre – both Aristotelian and French –ideals. With respect to autos sacramentales, they believe further evaluation would be needed to verify ideas put forward and identify other structural patterns.]]></summary>
+        <author>
+            <name>Author on Source</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join us for an (en)coding Heritage Seminar Series!]]></title>
+        <id>1308 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/05/18/join-us-encoding-heritage-seminar-series"/>
+        <updated>2021-05-18T17:47:10.000Z</updated>
+        <summary type="html"><![CDATA[Join us for an (en)coding Heritage Seminar Series! 
+
+
+
+The (en)coding Heritage Seminar Series brings together researchers who are working at the cutting edge of digital technologies, humanities and heritage science. Each session will consist of several presentations describing ongoing projects in the field. Topics include digital mapping projects, data visualisation, digital art history/digital visual studies, digital restorations, and new mobile applications for the recoding of architecture and cultural heritage.
+The seminar will take place on the following dates:
+New Directions in Digital Visual Studies, 27 May 2021, 5 pm (BST)
+Mapping Real and Imagined Sites, 10 June 2021, 5pm (BST)
+Immersive Technologies in Education, 17 June 2021, 5pm (BST).
+The full programme will be published here in due course.
+Register for one event or the entire series using the following form:
+https://durhamuniversity.zoom.us/webinar/register/WN_To6vV0NBR3Wq_T4Ejbslwg
+Organised by the (en)coding Heritage in collaboration with Leonardo Impett (Durham University).]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Book: ’Yesterday’s News: The Future of Long-form Journalism and Archives’]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3028</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/05/18/yesterdays-news-the-future-of-long-form-journalism-and-archives/"/>
+        <updated>2021-05-18T14:15:49.000Z</updated>
+        <summary type="html"><![CDATA[A new book by Marco Braghieri entitled ‘Yesterday’s News – The future of long-form journalism and archives’ has been published by Peter Lang. The book focuses on two entities (long-form journalism and archives) which sit at the intersection between journalistic production and the digital. While framed within digital humanities, this book deploys a number of … 
+Continue reading "New Book: ’Yesterday’s News: The Future of Long-form Journalism and Archives’"]]></summary>
+        <author>
+            <name>Marco Braghieri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undogmatic Literary Annotation with CATMA in: Annotations in Scholarly Editions and Research]]></title>
+        <id>https://www.degruyter.com/view/book/9783110689112/10.1515/9783110689112-008.xml</id>
+        <link href="https://openmethods.dariah.eu/2021/05/17/undogmatic-literary-annotation-with-catma-in-annotations-in-scholarly-editions-and-research/"/>
+        <updated>2021-05-17T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Digital Literary Studies has long engaged with the challenges in representing ambiguity, contradiction and polyvocal readings of literary texts. This book chapter describes a web-based tool called CATMA which  promises a "low-threshold" approach to digitally encoded text interpretation. CATMA has a long trajectory based on a 'standoff' approach to markup, somewhat provocatively described by its creators as "undogmatic", which stands in contrast to more established systems for text representation in digital scholarly editing and publishing such as XML markup, or the Text Encoding Initiative (TEI). Standoff markup involves applying numbers to each character of a text and then using those numbers as identifiers to store interpretation externally. This approach allows for "multip…]]></summary>
+        <author>
+            <name>Author on Source</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EADH Elections 2021 - Participation Requirements]]></title>
+        <id>1307 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/05/14/eadh-elections-2021-participation-requirements"/>
+        <updated>2021-05-14T16:29:33.000Z</updated>
+        <summary type="html"><![CDATA[11 Jun 2021 - 00:00
+
+
+
+EADH Elections 2021 - Participation Requirements
+
+
+
+Dear colleagues,
+This message concerns the forthcoming EADH Elections.
+Thank you for your continued support of EADH and its Associate Organisations. This is to remind you that elections for new members of the EADH Executive Committee will be held prior to the EADH AGM 2021.
+Those wishing to take part in the elections as voters or candidates must be Members in Good Standing (i.e. have paid their membership fees) by June 11th, whether as a direct or joint member of EADH, or through one of its Associate Organizations:
+
+AIUCD (Associazione Informatica Umanistica e Cultura Digitale)
+CzADH (Česká asociace pro digitální humanitní vědy)
+DHd (Digital Humanities im deutschsprachigen Raum)
+DHNB (Digital Humanities in the Northern and Baltic countries)
+DHRussia (Российская ассоциация цифровых гуманитарных наук)
+For information on renewing membership fees, please see https://eadh.org/membership or consult the website of your Association. Each member must assure that the email address used  is not already in use for another registration in the realm of EADH (AOs and DSH subscription).
+We will circulate more information about the election process later in the year.
+ In the meantime, if you are interested in standing as an Executive Committee member please don't hesitate to contact us at <nominations@eadh.org>.
+ 
+Best regards,
+On behalf of the EADH Elections committee
+Anna-Maria Sichani 
+Marieke van Erp
+Joris van Zundert
+Barbara Bordalejo
+Mikko Tolonen]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Executive Board and Committee Chair Applications]]></title>
+        <id>588762 at https://adho.org</id>
+        <link href="https://adho.org/2021-cfa-eb-chairs"/>
+        <updated>2021-05-12T16:29:12.000Z</updated>
+        <summary type="html"><![CDATA[**UPDATE: The application/nomination deadline has been extended to 15 June 2021.**
+The Alliance of Digital Humanities Organizations (ADHO) seeks applications for the following positions from committed individuals who would like to participate in Digital Humanities leadership on a global scale:
+Awards Committee Chair
+Conference Coordinating Committee Adjunct Chair-Elect
+Executive Board Chair-Elect
+Treasurer-Elect
+All positions begin 1 July 2021. Term lengths vary by position. Selected applicants will be appointed to only one position.
+Background
+ADHO is a formal alliance of independent Digital Humanities (DH) organizations that operate in diverse scholarly, cultural, and legal circumstances. Its primary remit is to support DH community activity at a global level and in regions that are not …]]></summary>
+        <author>
+            <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Registration OPEN for CSDH-SCHN 2021: Making the Net Work / Les inscriptions sont OUVERTES pour CSDH-SCHN 2021]]></title>
+        <id>https://csdh-schn.org/?p=707</id>
+        <link href="https://csdh-schn.org/conference2021/"/>
+        <updated>2021-05-12T03:49:07.000Z</updated>
+        <summary type="html"><![CDATA[La version française suit Registration is now OPEN for CSDH-SCHN 2021: Making the Net Work ⏰  Peruse the schedule ⏰📝 Renew your membership 📝🎉 Register now 🎉 This year, CSDH-SCHN features plenty of intellectual stimulation and fun!  Morning ...]]></summary>
+        <author>
+            <name>Matt Huculak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novels in distant reading: the European Literary Text Collection (ELTeC).]]></title>
+        <id>http://openmethods.dariah.eu/?p=2967</id>
+        <link href="https://openmethods.dariah.eu/2021/05/11/novels-in-distant-reading-the-european-literary-text-collection-eltec/"/>
+        <updated>2021-05-11T10:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Among the most recent, currently ongoing, projects exploiting distant techniques reading there is the European Literary Text Collection (ELTeC), which is one of the main elements of the Distant Reading for European Literary History (COST Action CA16204, https://www.distant-reading.net/). Thanks to the contribution provided by four Working Groups (respectively dealing with Scholarly Resources, Methods and Tools, Literary Theory and History, and Dissemination: https://www.distant-reading.net/working-groups/ ), the project aims at providing at least 2,500 novels written in ten European languages with a range of Distant Reading computational tools and methodological strategies to approach them from various perspectives (textual, stylistic, topical, et similia). A full description of the objectives of the Action and of ELTeC can be found and read in the Memorandum of Understanding for the implementation of the COST Action “Distant Reading for European Literary History” (DISTANT-READING) CA 16204”, available at the link  https://e-services.cost.eu/files/domain_files/CA/Action_CA16204/mou/CA16204-e.pdf
+
+[Click ‘Read more’ for the full post!]]]></summary>
+        <author>
+            <name>Marinella Testori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models]]></title>
+        <id>https://arxiv.org/abs/2008.05122v1</id>
+        <link href="https://openmethods.dariah.eu/2021/04/29/2008-05122-the-language-interpretability-tool-extensible-interactive-visualizations-and-analysis-for-nlp-models/"/>
+        <updated>2021-04-29T09:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: NLP modelling and tasks performed by them are becoming an integral part of our daily realities (everyday or research). A central concern of NLP research is that for many of their users, these models still largely operate as black boxes with limited reflections on why the model makes certain predictions, how their usage is skewed towards certain content types, what are the underlying social, cultural biases etc.  The open source Language Interoperability Tool  aim to change this for the better and brings transparency to the visualization and understanding of NLP models. The pre-print describing the tool comes with rich documentation and description of the tool (including case studies of different kinds) and gives us an honest SWOT analysis of it.]]></summary>
+        <author>
+            <name>Author on Source</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portraits in DH: Dr. Sylvia Fernández]]></title>
+        <id>https://ach.org/?p=2207</id>
+        <link href="https://ach.org/blog/2021/04/25/portraits-in-dh-dr-sylvia-fernandez/"/>
+        <updated>2021-04-25T13:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Interviewed on March 9, 2021 by Anna E. Kijas Sylvia A. Fernández, Ph.D is currently a Public and Digital Humanities Postdoctoral Fellow at the Hall Center for the Humanities, University of Kansas. She is a co-founder of Borderlands Archives Cartography, a member of Torn Apart / Separados, and team member and coordinator of the ongoing initiative of United Fronteras, as well…Continue reading.]]></summary>
+        <author>
+            <name>jwoowinter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Technology & the Historian: Transformations of the Digital Age’ Workshop & Book Launch]]></title>
+        <id>http://blogs.ucl.ac.uk/dh/?p=8172</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/04/23/technology-the-historian-transformations-of-the-digital-age-workshop-book-launch/"/>
+        <updated>2021-04-23T09:27:29.000Z</updated>
+        <summary type="html"><![CDATA[Lessons from history, options for today. Thursday 29 April 2021 – 12pm-1pm (Zoom) Register for free. Join Dr. Adam Crymble for a free Programming Historian Teaching Workshop to celebrate the launch of his new book, Technology & the Historian: Transformations of the Digital Age, the first comprehensive history of historical studies in the digital age. […]]]></summary>
+        <author>
+            <name>uczcrym</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day of DH 2021; Mid-Atlantic Edition]]></title>
+        <id>https://dh.rutgers.edu/?p=77252</id>
+        <link href="https://dh.rutgers.edu/day-of-dh-2021/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=day-of-dh-2021"/>
+        <updated>2021-04-21T19:47:12.000Z</updated>
+        <summary type="html"><![CDATA[#dayofDH2021 is finally here, hosted by @LUCTSDH, @UCLA_DH, University of Guelph, and the Università del Piedmont Orientale. Date: April 29. Theme: Multilingual DH. Head over to https://t.co/78PFzqGDlL for details and stay tuned for more! https://t.co/LYTfwjNE2h — Day of DH (@DayofDH) April 4, 2021 Attention digital humanists of Princeton, Rutgers, Bryn Mawr, Haverford, Swarthmore, and the Mid-Atlantic. Join us for Day of Digital Humanities 2021 by tweeting about your multilingual DH. The aim of this year’s Day of DH is to “open up conversation about projects being undertaken in the various languages and put together a list of non-English tools, libraries, software products, tips, hacks, and]]></summary>
+        <author>
+            <name>Francesca Giannetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New release: Guidelines 4.2.2 / Stylesheets 7.51.2]]></title>
+        <id>https://tei-c.org/?p=30971</id>
+        <link href="https://tei-c.org/2021/04/19/new-release-guidelines-4-2-2-stylesheets-7-51-2/"/>
+        <updated>2021-04-19T13:55:43.000Z</updated>
+        <summary type="html"><![CDATA[The TEI Consortium has released version 4.2.2 of the TEI P5 Guidelines and version 7.51.2 of Styelsheets, a follow-up version of the TEI P5 Guidelines version 4.2.1 and Stylesheets version 7.51.1, where an issue was noticed concerning the controlled value lists of certain type attributes. For more details, please see the release notes.]]></summary>
+        <author>
+            <name>Martina Scholger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Georgian and Hungarian speaking data assistants needed on the DH project at King’s]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3018</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/04/14/georgian-and-hungarian-speaking-data-assistants-needed-on-the-dh-project-at-kings/"/>
+        <updated>2021-04-14T11:35:09.000Z</updated>
+        <summary type="html"><![CDATA[We are hiring Georgian and Hungarian speaking data assistants for short-term positions to work on the cross-linguistic project ‘Distant Reading across Languages’ (https://www.kdl.kcl.ac.uk/our-work/distant-reading/). The deadline of applying is 15th May 2021. Please apply via King’s Talent Bank here: https://www.kingstalentbank.com/jobs/show/11217/georgian-speaking-data-assistant-on-dh-project https://www.kingstalentbank.com/jobs/show/11218/hungarian-speaking-data-assistant-on-dh-project If you have any questions about the positions, do not hesitate to contact Dr Gabriele … 
+Continue reading "Georgian and Hungarian speaking data assistants needed on the DH project at King’s"]]></summary>
+        <author>
+            <name>Gabriele Salciute Civiliene</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marking work available at KCL in digital media & technology + digital culture]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3008</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/04/13/marking-work-available-at-kcl-in-digital-media-technology-digital-culture/"/>
+        <updated>2021-04-13T09:42:31.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Digital Humanities at King’s College London is looking for hourly paid lecturers to mark essay assignments in the areas of: digital societies and platforms digital economy & innovation internet culture social media and marketing games and virtual realities digital content management digital curation in cultural institutions. Most assignments are generally 4,000 words … 
+Continue reading "Marking work available at KCL in digital media & technology + digital culture"]]></summary>
+        <author>
+            <name>Mercedes Bunz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHNB2022]]></title>
+        <id>http://dig-hum-nord.eu/?p=1885</id>
+        <link href="http://dhnb.eu/dhnb2022/"/>
+        <updated>2021-04-06T08:57:23.000Z</updated>
+        <summary type="html"><![CDATA[The 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022) will be held at Uppsala University, in Sweden, on 15–18 March 2022. DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond. DHNB 2022 highlights the two way relationship between digital humanities […]]]></summary>
+        <author>
+            <name>Olga Holownia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities 2021]]></title>
+        <id>588746 at https://adho.org</id>
+        <link href="https://adho.org/announcements/2021/digital-humanities-2021"/>
+        <updated>2021-03-30T22:50:11.000Z</updated>
+        <summary type="html"><![CDATA[The annual Digital Humanities conference coordinated by ADHO will not be held in 2021. ADHO’s Constituent Organizations Board has voted to focus efforts on supporting regional conferences currently coordinated by ADHO’s Constituent Organizations and their Associate Organizations and partners. To this end, we have dedicated dh2021.adho.org to providing information about the various virtual and in-person events being hosted throughout the year.
+Stay tuned for more information about DH2022, to be held in Tokyo, Japan.
+
+
+Post Date: 
+
+Tuesday, March 30, 2021]]></summary>
+        <author>
+            <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The international Martha Cheung Award for research excellence in the paper on cross-linguistic modelling and computing received by Dr Gabriele Salciute Civiliene]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3003</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/03/29/the-international-martha-cheung-award-for-research-excellence-in-the-paper-on-cross-linguistic-modelling-and-computing-received-by-dr-gabriele-salciute-civiliene/"/>
+        <updated>2021-03-29T21:20:57.000Z</updated>
+        <summary type="html"><![CDATA[Dr Gabriele Salciute Civiliene, Lecturer in Digital Humanities Education at the Department of Digital Humanities, King’s College London, has been announced the winner of the 2021 Martha Cheung Award for Best English Article in Translation Studies by the SISU Baker Centre for Translation and Intercultural Studies, Shanghai International Studies University. The Award is established in … 
+Continue reading "The international Martha Cheung Award for research excellence in the paper on cross-linguistic modelling and computing received by Dr Gabriele Salciute Civiliene"]]></summary>
+        <author>
+            <name>Gabriele Salciute Civiliene</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACH Executive Council 2021 Elections Results and Bylaws Updates]]></title>
+        <id>https://ach.org/?p=2190</id>
+        <link href="https://ach.org/blog/2021/03/26/ach-executive-council-2021-elections-results-and-bylaws-updates/"/>
+        <updated>2021-03-26T15:33:02.000Z</updated>
+        <summary type="html"><![CDATA[The Association for Computers and the Humanities is pleased to announce the results of our 2021 elections. We had a slate of stellar candidates, and we are grateful to all the digital humanities practitioners for rising to the occasion of being nominees and willing to work at this organizational level. The 2021-25 ACH Executive Council…Continue reading.]]></summary>
+        <author>
+            <name>paigecm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DLCL ATS round-up, winter 2021]]></title>
+        <id>831 at https://digitalhumanities.stanford.edu</id>
+        <link href="https://digitalhumanities.stanford.edu/dlcl-ats-round-winter-2021"/>
+        <updated>2021-03-24T23:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Winter quarter was a time of consolidation and slow progress, without much to share by way of exciting new developments. I worked on a lot of things that I expect will bear fruit down the road, but I can't point to anything concrete yet. Here's where things stand as of spring break 2021.
+Existing Projects
+With some advice from Matthew Lincoln at Carnegie Mellon, I'm close to finishing the migration of the Global Medieval Sourcebook into a Jekyll site fashioned after CMU's DH Literacy Guidebook. It's been a multi-step process, including some XSLT, some Python, some OpenRefine, and I've kept notes along the way. I'm planning to write it all up during the spring, if only as a set of tips for people considering migrating from Drupal to a static website.
+Thanks to the tireless nights-and-weeken…]]></summary>
+        <author>
+            <name>Quinn Dombrowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Réponse de la SCHN/CSDH à la déclaration de la Black Canadian Studies Association]]></title>
+        <id>https://csdh-schn.org/?p=702</id>
+        <link href="https://csdh-schn.org/reponse-de-la-schn-csdh-a-la-declaration-de-la-black-canadian-studies-association/"/>
+        <updated>2021-03-23T16:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Le comité exécutif et le comité de programme de la Société canadienne des humanités numériques/Canadian Society for Digital Humanities (SCHN/CSDH) sont solidaires avec la Black Canadian Studies Association (BCSA) et ...]]></summary>
+        <author>
+            <name>Kim Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSDH/SCHN Withdrawal From Congress 2021]]></title>
+        <id>https://csdh-schn.org/?p=700</id>
+        <link href="https://csdh-schn.org/csdh-schn-withdrawal-from-congress-2021/"/>
+        <updated>2021-03-23T16:28:24.000Z</updated>
+        <summary type="html"><![CDATA[The Executive and the Programme Committee of the Canadian Society for Digital Humanities/société canadienne des humanités numériques (CSDH/SCHN) stand in solidarity with the Black Canadian Studies Association (BCSA) and their ...]]></summary>
+        <author>
+            <name>Kim Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Janelle Jenstad wins the 2021 Outstanding Achievement Award for Computing in the Arts and Humanities]]></title>
+        <id>https://csdh-schn.org/?p=691</id>
+        <link href="https://csdh-schn.org/janelle-jenstad-wins-the-2021-outstanding-achievement-award-for-computing-in-the-arts-and-humanities/"/>
+        <updated>2021-03-18T13:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Janelle Jenstad is an Associate Professor in the Department of English at the University of Victoria. Her longest running project, the Map of Early Modern London, which she started in ...]]></summary>
+        <author>
+            <name>Constance Crompton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Janelle Jenstad gagne le prix de contribution exceptionnelle de la Société canadienne des humanités numériques 2021]]></title>
+        <id>https://csdh-schn.org/?p=688</id>
+        <link href="https://csdh-schn.org/janelle-jenstad-gagne-le-prix-de-contribution-exceptionnelle-de-la-societe-canadienne-des-humanites-numeriques-2021/"/>
+        <updated>2021-03-18T13:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Janelle Jenstad est professeure agrégée au département d’anglais de l’Université de Victoria. Son projet de plus longue durée, la Map of Early Modern London (MoEML), qu’elle a lancé en 1999, ...]]></summary>
+        <author>
+            <name>Constance Crompton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RomaJS release 0.3.1 out now!]]></title>
+        <id>https://tei-c.org/?p=30957</id>
+        <link href="https://tei-c.org/2021/03/16/romajs-release-0-3-1-out-now/"/>
+        <updated>2021-03-16T19:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Raff Viglianti released RomaJS 0.3.1. For more details on bug fixes and enhancements see the release notes.]]></summary>
+        <author>
+            <name>Martina Scholger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Applications: 2021 ADHO Communications Fellowships]]></title>
+        <id>588742 at https://adho.org</id>
+        <link href="https://adho.org/announcements/2021/call-applications-2021-adho-communications-fellowships"/>
+        <updated>2021-03-15T11:35:45.000Z</updated>
+        <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for its two 2021 Communications Fellowships, each of which comes with a stipend of €500 (Euros).
+Each year, Communications Fellows work with ADHO’s Communications Officer to manage ADHO’s public communications activities. The fellowship is well suited for graduate students, young scholars, and academic professionals who wish to develop a deeper knowledge of digital humanities and its global communities, contribute to an important digital humanities scholarly and professional organization, and gain professional experience in social media and communications.
+In 2021, Communications Fellows will contribute to the development of a new multilingual website for ADHO; will follow and disseminate conference information; will …]]></summary>
+        <author>
+            <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cultural Ontologies: the ArCo Knowledge Graph.]]></title>
+        <id>http://openmethods.dariah.eu/?p=2878</id>
+        <link href="https://openmethods.dariah.eu/2021/03/11/cultural-ontologies-the-arco-knowledge-graph/"/>
+        <updated>2021-03-11T11:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Standing for 'Architecture of Knowledge', ArCo is an open set of resources developed and managed by some Italian institutions, like the MiBAC (Minister for the Italian Cultural Heritage) and, within it, the ICCD - Institute of the General Catalogue and Documentation), and the CNR - Italian National Research Council. Through the application of eXtreme Design (XD), ArCO basically consists in an ontology network comprising seven modules (the arco, the core, the catalogue, the location, the denotative description, the context description, and the cultural event) and a set of LOD data comprising a huge amount of linked entities referring to the national Italian cultural resources, properties and events. Under constant refinement, ArCo represents an example of a "robust Semantic Web resource" (Carriero et al., 11) in the field of cultural heritage, along with other projects like, just to mention a couple of them, the Google Arts&Culture (https://artsandculture.google.com/) or the Smithsonian American Art Museum (https://americanart.si.edu/about/lod).
+
+[Click ‘Read more’ for the full post!]]]></summary>
+        <author>
+            <name>Marinella Testori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Nominations: 2022 Antonio Zampolli Prize]]></title>
+        <id>588738 at https://adho.org</id>
+        <link href="https://adho.org/announcements/2021/call-nominations-2022-antonio-zampolli-prize"/>
+        <updated>2021-03-10T14:55:37.000Z</updated>
+        <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) Awards Committee is seeking nominations for the 2022 Antonio Zampolli Prize.
+The Zampolli Prize is a triennial award that recognizes a single output in the field of Digital Humanities by any scholar or scholars at any stage of their career(s). As such, it offers a unique opportunity to reward individual projects that either have been formative or had a decisive impact on the field as a whole. Because the prize is awarded to the overall project, the recipients can be a single individual or a collaborative group of scholars, researchers, and/or practitioners. The output recognized can take any form: published research, developed resources, an established initiative, and/or center or tool(s) for research, for example. To be eligible for the prize, the nominated project must involve the innovative scholarly use of information and communications technologies.
+We urge you, as members of the field, to take this opportunity to offer recommendations for outstanding work that you feel deserves recognition. Nominations will be accepted until 23:59 UTC on 01 September 2021. A winner will be announced during the winter of 2021-2022 and the prize will be awarded at the 2022 DH conference.
+Nominations should consist of a document (1500-2000 words) describing the work to be nominated and the individual(s) involved, paying special attention to the relevance and importance of this work to the field as a whole. Please include a brief description of the work, a discussion of its innovative use of information technology and, particularly, the importance of this project to the Digital Humanities. Self-nominations will not be accepted. Please address nominations to the ADHO Awards Committee and send electronic copies to awards [at] adho [dot] org.
+Note: Any previous nominations should be resubmitted.
+For further information, including the terms of the award and protocols for its selection, please visit ADHO’s Zampolli Prize web page.
+
+
+Post Date: 
+
+Wednesday, March 10, 2021]]></summary>
+        <author>
+            <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHNB Board 2021]]></title>
+        <id>http://dig-hum-nord.eu/?p=1891</id>
+        <link href="http://dhnb.eu/dhnb-board-2021/"/>
+        <updated>2021-03-06T03:59:15.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the results of the DHNB Board Election. Three nominated candidates Annika Rockenberger (Norway), Mikko Tolonen (Finland), and Andres Karjus (Estonia) have been elected to serve on the DHNB Board for the period 2021–2024 starting from 10 March 2021 (full nomination statements and bios attached). The 2021 Board consist of nine […]]]></summary>
+        <author>
+            <name>Olga Holownia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHNB AGM 2021]]></title>
+        <id>http://dig-hum-nord.eu/?p=1893</id>
+        <link href="http://dhnb.eu/agm-2021/"/>
+        <updated>2021-03-06T03:02:25.000Z</updated>
+        <summary type="html"><![CDATA[The Annual General Assembly (AGM) will be held online on on Monday, May 31 at 5 pm CET. AGM agenda will be published on our website closer to the meeting.]]></summary>
+        <author>
+            <name>Olga Holownia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEI P5 Guidelines version 4.2.1 and Stylesheets version 7.51.1 released]]></title>
+        <id>https://tei-c.org/?p=30943</id>
+        <link href="https://tei-c.org/2021/03/02/tei-p5-guidelines-version-4-2-1-and-stylesheets-version-7-51-1-released/"/>
+        <updated>2021-03-02T08:30:25.000Z</updated>
+        <summary type="html"><![CDATA[The TEI Consortium has released version 4.2.1 of the TEI P5 Guidelines and version 7.51.1 of Styelsheets, a follow-up version of the TEI P5 Guidelines version 4.2.0 and Stylesheets version 7.51.0, where we surfaced an issue with the conversion of the constraints on attributes to XHTML. This problem did not effect the schemas, but made […]]]></summary>
+        <author>
+            <name>Martina Scholger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release: TEI Guidelines 4.2.0 / Stylesheets 7.51.0]]></title>
+        <id>https://tei-c.org/?p=30939</id>
+        <link href="https://tei-c.org/2021/02/25/new-release-tei-guidelines-4-2-0-stylesheets-7-51-0/"/>
+        <updated>2021-02-25T16:48:12.000Z</updated>
+        <summary type="html"><![CDATA[The TEI Consortium has released version 4.2.0 of the TEI Guidelines, the “Ruby” release, and version 7.51.0 of the TEI Stylesheets. For more details, please see the release notes.]]></summary>
+        <author>
+            <name>Martina Scholger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opening the ‘black box’ of digital cultural heritage processes: feminist digital humanities and critical heritage studies]]></title>
+        <id>http://blogs.ucl.ac.uk/dh/?p=8160</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/02/22/digital-cultural-heritage/"/>
+        <updated>2021-02-22T12:41:42.000Z</updated>
+        <summary type="html"><![CDATA[Published on behalf of Hannah Smyth. This post introduces a book chapter co-authored by myself, Julianne Nyhan, and Andrew Flinn. It was published as part of the Routledge Handbook of Research Methods in Digital Humanities in August 2020 and edited by Kristen Schuster and Stuart Dunn (Kings College London). This edited volume seeks to address […]]]></summary>
+        <author>
+            <name>Lucy Stagg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portraits in DH: Marisa Parham and AADHum]]></title>
+        <id>http://ach.org/?p=2165</id>
+        <link href="https://ach.org/blog/2021/02/16/portraits-in-dh-marisa-parham-and-aadhum/"/>
+        <updated>2021-02-16T19:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Interviewed by Caitlin Pollock and Jewon Woo This past summer, in the wake of nationwide protests against police brutality and the murder of George Floyd, the ACH Executive Council published a statement expressing our solidarity with the #BlackLivesMatter movement.  We are committed to strengthening our anti-racist practices in Association governance, in the activities that we…Continue reading.]]></summary>
+        <author>
+            <name>jwoowinter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenMethods Spotlights #2 : Interview with Luise Borek and Canan Hastik about TaDiRAH]]></title>
+        <id>http://openmethods.dariah.eu/?p=2934</id>
+        <link href="https://openmethods.dariah.eu/2021/02/10/openmethods-spotlights-2-interview-with-luise-borek-and-canan-hastik-about-tadirah/"/>
+        <updated>2021-02-10T19:31:13.000Z</updated>
+        <summary type="html"><![CDATA[In the next Spotlights episode, we are looking behind the scenes of TaDiRAH with Dr. Luise Borek and Dr. Canan Hastic who give us a rich  introduction to the new version of it. We discuss communities around TaDiRAH,  the evolution of DH, open data culture, linking with Wikidata...and many more!]]></summary>
+        <author>
+            <name>Erzsebet Tóth-Czifra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Digital Research Infrastructure Organization: Nation-Wide Survey]]></title>
+        <id>https://csdh-schn.org/?p=682</id>
+        <link href="https://csdh-schn.org/new-digital-research-infrastructure-organization-nation-wide-survey/"/>
+        <updated>2021-02-10T16:58:24.000Z</updated>
+        <summary type="html"><![CDATA[The New Digital Research Infrastructure Organization (NDRIO) is pleased to announce the launch of a nation-wide survey, as part of our Canadian Digital Research Infrastructure Needs Assessment. This survey is open to ...]]></summary>
+        <author>
+            <name>arcadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama]]></title>
+        <id>http://openmethods.dariah.eu/?p=2921</id>
+        <link href="https://openmethods.dariah.eu/2021/02/08/programmable-corpora-introducing-dracor-an-infrastructure-for-the-research-on-european-drama/"/>
+        <updated>2021-02-08T15:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: The DraCor ecosystem encourages various approaches to the browsing and consultation of the data collected in the corpora, like those detailed in the Tools section: the Shiny DraCor app (https://shiny.dracor.org/), along with the SPARQL queries and the Easy Linavis interfaces (https://dracor.org/sparql and https://ezlinavis.dracor.org/ respectively). The project, thus, aims at creating a suitable digital environment for the development of an innovative way to approach literary corpora, potentially open to collaborations and interactions with other initiatives thanks to its ontology and Linked Open data-based nature.  
+[Click ‘Read more’ for the full post!]]]></summary>
+        <author>
+            <name>Marinella Testori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MA / MSc Digital Humanities Applications Open for 2021-22]]></title>
+        <id>http://blogs.ucl.ac.uk/dh/?p=8141</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/02/03/ma-msc-digital-humanities-applications-open-for-2021-22/"/>
+        <updated>2021-02-03T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[UCL’s Department of Information Studies is currently accepting applications for the 2021-22 cohort of its MA in Digital Humanities and MSc in Digital Humanities programmes. Programme lead, Dr. Julianne Nyhan writes, ‘this exciting, interdisciplinary programme offers students a unique opportunity to explore and analyse the application of digital technologies to the cultural record of humankind […]]]></summary>
+        <author>
+            <name>uczcrym</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stock Illustrations, Free to Reuse]]></title>
+        <id>http://blogs.ucl.ac.uk/dh/?p=8124</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/02/02/stock-illustrations-free-reuse/"/>
+        <updated>2021-02-02T12:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of illustrations by UCLDH designer Rudolf Ammann are now available to download and reuse, with licensing that lets you take, remix, and play, for free!]]></summary>
+        <author>
+            <name>Rudolf Ammann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semantic Web for Cultural Heritage special issue now published]]></title>
+        <id>http://blogs.ucl.ac.uk/dh/?p=8118</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/02/01/semantic-web/"/>
+        <updated>2021-02-01T10:01:27.000Z</updated>
+        <summary type="html"><![CDATA[UCLDH member, Antonis Bikakis, has co-edited (along with four other colleagues from France, Italy and Finland) the Semantic Web for Cultural Heritage special issue, which is now published and freely available to read in Semantic Web- Interoperability, Usability, Applicability, volume 12(2), 2021. The papers cover a wide spectrum of modelled topics related to language, reading […]]]></summary>
+        <author>
+            <name>Lucy Stagg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minutes of the 2020 Constituent Organization Board & Executive Board Meetings]]></title>
+        <id>588676 at https://adho.org</id>
+        <link href="https://adho.org/announcements/2020/2020-cob-eb-minutes"/>
+        <updated>2021-01-27T18:44:17.000Z</updated>
+        <summary type="html"><![CDATA[The minutes from ADHO's 2020 Constituent Organization Board & Executive Board meetings have been published. The meetings were held virtually in conjunction with the 2020 virtual Digital Humanities Conference. A PDF version is available here.
+
+
+Post Date: 
+
+Wednesday, January 27, 2021]]></summary>
+        <author>
+            <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New DH Special Interest Group: International Image Interoperability Framework (IIIF)]]></title>
+        <id>https://dh.rutgers.edu/?p=77167</id>
+        <link href="https://dh.rutgers.edu/iiif-sig/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=iiif-sig"/>
+        <updated>2021-01-26T19:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in learning how to use, work with, and even create IIIF manifests and images? Join a new DH group on February 3, 6:00-7:00 pm (online). No prior knowledge required. We will share links and demos for anyone interested in IIIF projects. Practice is a priority in the interests of this informal group, in a Rutgers digital-oriented community. Organized by Ben Bakelaar (bakelaar AT rutgers.edu) and Caterina Agostini (caterina.agostini AT rutgers.edu). Register in advance for this meeting: https://rutgers.zoom.us/meeting/register/tJwoceusqD4uH9GVibU3b_OOz2QRS2phjVBU After registering, you will receive a confirmation email containing information about joining the meeting. Image source: Marii Nyrop, “Static IIIF Annotations.”]]></summary>
+        <author>
+            <name>Francesca Giannetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring 2021 Events]]></title>
+        <id>https://dh.rutgers.edu/?p=77132</id>
+        <link href="https://dh.rutgers.edu/spring-2021-events/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=spring-2021-events"/>
+        <updated>2021-01-25T14:10:41.000Z</updated>
+        <summary type="html"><![CDATA[We are back for the next pandemic installment of digital humanities programming. This online-only schedule of events includes several new offerings based on feedback from our past workshops, for which we are grateful. We continue to use the LibCal reservation system together with the rest of the New Brunswick Libraries Graduate Specialist Program. Please go to dh.rutgers.edu/calendar or to libcal.rutgers.edu/calendar/nblworkshops to reserve your spot (the information is the same in both places). The digital humanities workshops will be taught by Wafa Isfahani and Caterina Agostini, Digital Humanities Graduate Specialists, and Francesca Giannetti, Digital Humanities Librarian. Watch this list for newer additions later in February. Note]]></summary>
+        <author>
+            <name>Francesca Giannetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grab a discount on ‘One Origin of Digital Humanities’]]></title>
+        <id>http://blogs.ucl.ac.uk/dh/?p=8113</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/01/22/one-origin/"/>
+        <updated>2021-01-22T10:26:48.000Z</updated>
+        <summary type="html"><![CDATA[Following a highly successful book launch on 20th January, we are pleased to be able to offer everyone a 20% discount off the book, One Origin of Digital Humanities: Fr Roberto Busa S.J. in His Own Words, edited by Julianne Nyhan and Marco Passarotti ( Springer 2020). Roberto Busa S.J. is often described as one of […]]]></summary>
+        <author>
+            <name>Lucy Stagg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Nominations to the DHNB Board]]></title>
+        <id>http://dig-hum-nord.eu/?p=1817</id>
+        <link href="http://dhnb.eu/call-for-nominations-dhn-board-2021/"/>
+        <updated>2021-01-20T13:26:35.000Z</updated>
+        <summary type="html"><![CDATA[The nomination committee of DHNB opens the call for nominations for three positions for the next election period which starts on 15 February 2021. Board members are elected for a 3-year period.  The term of three of the current Board members, Koraljka Golub (Sweden), Annika Rockenberger (Norway), and Mikko Tolonen (Finland), runs out. Koraljka Golub […]]]></summary>
+        <author>
+            <name>Sanita</name>
         </author>
     </entry>
 </feed>

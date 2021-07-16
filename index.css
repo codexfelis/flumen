@@ -1,194 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Eagle+Lake&family=Work+Sans&display=swap");
 :root {
-  /**
-   * Palette
-   * Gruvbox dark, medium
-   * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
-   */
-  --base00: #282828; /* ---- */
-  --base01: #3c3836; /* --- */
-  --base02: #504945; /* -- */
-  --base03: #665c54; /* - */
-  --base04: #bdae93; /* + */
-  --base05: #d5c4a1; /* ++ */
-  --base06: #ebdbb2; /* +++ */
-  --base07: #fbf1c7; /* ++++ */
-  --base08: #fb4934; /* red */
-  --base09: #fe8019; /* orange */
-  --base0A: #fabd2f; /* yellow */
-  --base0B: #b8bb26; /* green */
-  --base0C: #8ec07c; /* aqua/cyan */
-  --base0D: #83a598; /* blue */
-  --base0E: #d3869b; /* purple */
-  --base0F: #d65d0e; /* brown */
-
-  /**
-   * Typograph
-   */
-  --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
-    "Helvetica Neue", sans-serif;
-  --font-size-scaler: 62.5%; /* 1rem = 10px */
-  --font-size-m: 1.4rem;
-  --font-size-s: 1.2rem;
-
-  /**
-   * Components
-   */
-  --body-color: var(--base04);
-  --body-bg: var(--base00);
-
-  --daily-heading-color: var(--base04);
-
-  --source-name-color: var(--base0A);
-  --source-name-hover-color: var(--base0A);
-
-  --article-title-color: var(--base05);
-  --article-title-hover-color: var(--base07);
-  --article-summary-color: var(--base04);
-  --article-summary-hover-color: var(--base07);
-
-  --accordion-content-rail-color: var(--base03);
-  --accordion-content-hover-rail-color: var(--base04);
-  --accordion-title-marker-color: var(--base03);
-  --accordion-title-hover-marker-color: var(--base04);
-
-  --card-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
-  --card-bg: var(--base01);
-  --card-radius: 4px;
-
-  --footer-color: var(--base04);
-  --footer-link-hover-color: var(--base07);
+  --colour-accent: #043565;
+  --colour-fg: #342627;
+  --colour-bg: #f5f3eb;
+  --colour-error: #c81d25;
+  --colour-success: #34876f;
+  --font-body: "Work Sans", sans-serif;
+  --font-header: "Eagle Lake", cursive;
+  --border-radius: 4px;
+  --space-wide: 0.8em;
+  --space-narrow: 0.4em;
+  --shadow-base: rgba(0, 0, 0, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  --shadow-emphasis: rgba(0, 0, 0, 0.19) 0px 10px 20px,
+    rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
-/**
- * Internals below
- *
- * If you can't create a specific look and feel with the configuration above,
- * you might have reached the customization limit of the template.
- *
- * Options:
- * 1. File an issue with the template.
- * 2. Target specific elements and write your own CSS. A future change in HTML may break your style.
- * 3. (Coming soon...) Write your own template with Template Extensibility API.
- */
-html {
-  font-size: var(--font-size-scaler);
+h1 {
+  font-size: 2.5em;
+}
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 105%;
+  }
+  :root {
+    --space-wide: 2em;
+    --space-narrow: 1em;
+  }
+  h1 {
+    font-size: 4em;
+  }
 }
 
 body {
-  background-color: var(--body-bg);
-  font-family: var(--font-family-default);
-  color: var(--body-color);
-  margin: 0;
-  gap: 24px;
-  padding: 16px;
-  display: grid;
-}
-
-:not(:focus-visible) {
-  outline: none;
-}
-
-.card {
-  border-radius: var(--card-radius);
-  box-shadow: var(--card-shadow);
-  background: var(--card-bg);
-}
-
-.sources {
-  padding: 12px 16px;
-  list-style: none;
-  margin: 0;
-  display: grid;
-  gap: 16px;
-}
-
-.daily-heading {
-  font-size: var(--font-size-s);
-  font-weight: 600;
-  margin: 0 0 8px 0;
-  padding-left: 16px;
-  color: var(--daily-heading-color);
-}
-
-.source {
-  display: grid;
-  gap: 4px;
-}
-
-.source-name {
-  font-size: var(--font-size-s);
-  font-weight: 400;
-  margin: 0;
-}
-.source-name__link {
-  color: var(--source-name-color);
-  text-decoration: none;
-}
-.source-name__link:hover {
-  color: var(--source-name-hover-color);
-  text-decoration: underline;
-}
-
-.article-expander {
-  padding: 2px 4px;
-  border-radius: 4px;
-}
-
-.article-expander__title {
-  color: var(--article-title-color);
-  font-size: var(--font-size-m);
-  font-weight: 600;
-}
-.article-expander__title:hover {
-  cursor: pointer;
-  color: var(--article-title-hover-color);
-}
-.article-expander__title::marker {
-  color: var(--accordion-title-marker-color);
-}
-.article-expander__title:hover::marker {
-  color: var(--accordion-title-hover-marker-color);
-}
-
-.article-summary-link {
-  color: var(--article-summary-color);
-  font-size: var(--font-size-m);
-  text-decoration: none;
-}
-
-.article-summary-link:hover {
-  color: var(--article-summary-hover-color);
-  --accordion-content-rail-color: var(--accordion-content-hover-rail-color);
-}
-
-.article-summary-box-outer {
-  display: block;
-  padding: 4px 8px 8px 4px;
-}
-
-.article-summary-box-inner {
-  padding-left: 8px;
-  border-left: 1px solid var(--accordion-content-rail-color);
-}
-
-.article-reading-time {
-  font-weight: 600;
-}
-
-footer {
-  color: var(--footer-color);
-  font-size: var(--font-size-s);
+  max-width: min(1000px, 100%);
+  margin: auto;
+  font-family: var(--font-body);
+  color: var(--colour-fg);
+  background-color: var(--colour-bg);
+  line-height: 1.5em;
+  min-height: 100vh;
   display: flex;
-  padding: 0 16px;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 var(--space-wide) var(--space-wide) var(--space-wide);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-header);
+}
+
+a {
+  color: var(--colour-accent);
+}
+
+a:hover,
+a:focus {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  align-content: center;
   justify-content: space-between;
 }
-
-.footer-link {
-  color: var(--footer-link-text);
-  text-decoration: none;
+img {
+  max-width: min(50vw, 150px);
 }
 
-.footer-link:hover {
-  color: var(--footer-link-hover-color);
-  text-decoration: underline;
+section {
+  box-shadow: var(--shadow-base);
+  margin: var(--space-narrow) 0;
+  padding: var(--space-narrow) var(--space-narrow) 0 var(--space-narrow);
+  border-radius: var(--border-radius);
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+article {
+  background-color: rgba(52, 38, 39, 0.1);
+  padding: var(--space-wide) var(--space-narrow);
+  margin: var(--space-wide) 0;
+  border-radius: var(--border-radius);
+}
+
+.dim {
+  font-size: smaller;
+  color: rgba(52, 38, 39, 0.8);
+}
+.gh {
+  display: flex;
+  align-items: center;
+  font-size: smaller;
+}
+.gh > img {
+  padding: 0 var(--space-narrow);
 }
