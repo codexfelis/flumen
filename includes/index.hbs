@@ -1,31 +1,39 @@
-<html lang="en">
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <title>{{siteTitle}}</title>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <title>{{siteTitle}}</title>
+  <meta name="description" content="A newsfeed and aggregator for the digital humanities.">
+  <meta name="author" content="Codex Felis">
+
   <meta name="robots" content="noindex, nofollow" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+  <meta property="og:title" content="Flumen: Digital Humanities News Aggregator">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://flumen.codexfelis.dev/">
+  <meta property="og:description" content="A newsfeed and aggregator for the digital humanities.">
+  <meta property="og:image" content="flumenCover.png">
+
   <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
   <link href="index.css" rel="stylesheet" />
 </head>
 
-
 <body>
   <header>
-    <a href="https://codexfelis.dev">
+    <a href="https://codexfelis.dev" rel="noopener noreferrer">
       <img src="Logo.png" alt="the Codex Felis logo" />
     </a>
-    <a class="gh" href="https://github.com/codexfelis/flumen" target="_blank" rel="noopener noreferrer"><span>Find us on
-        GitHub</span><img src="GitHub.png"></a>
-  </header>
+    <img src="flumenLogo.svg" alt="A person sitting down and reading a newspaper">
 
+    <a class="gh" href="https://github.com/codexfelis/flumen" target="_blank" rel="noopener noreferrer"><img
+        src="GitHub.png" alt="GitHub logo"></a>
+  </header>
   <h1>Flumen</h1>
-  <p>News Aggregator for Digital Humanities by <a href="https://codexfelis.dev">Codex Felis</a></p>
+  <p>A newsfeed and aggregator for the digital humanities by <a href="https://codexfelis.dev">Codex Felis</a></p>
 
   {{#each dates}}
   <section>
@@ -41,9 +49,13 @@
   </section>
   {{/each}}
   <footer>
-    <a class="gh" href="https://github.com/codexfelis/flumen" target="_blank" rel="noopener noreferrer"><img
-        src="GitHub.png"><span>Find us on GitHub</span></a>
+    <a class="gh-words" href="https://github.com/codexfelis/flumen" target="_blank" rel="noopener noreferrer"><img
+        src="GitHub.png" alt="GitHub logo"><span>Find us on GitHub</span></a>
+    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+    <script
+      type='text/javascript'>kofiwidget2.init('Buy us coffee', '#043565', 'D1D35CFF1'); kofiwidget2.draw();</script>
     <p class="dim">Last updated {{siteBuildTimestamp}}</p>
+
   </footer>
 </body>
 

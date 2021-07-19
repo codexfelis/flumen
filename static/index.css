@@ -63,13 +63,17 @@ a:focus {
 }
 
 header {
+  padding-top: var(--space-wide);
   width: 100%;
-  display: flex;
-  align-content: center;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  justify-items: center;
+  align-items: center;
 }
+
 img {
-  max-width: min(50vw, 150px);
+  max-width: min(100%, 150px);
+  max-height: min(30vw, 100px);
 }
 
 section {
@@ -93,11 +97,25 @@ article {
   font-size: smaller;
   color: rgba(52, 38, 39, 0.8);
 }
-.gh {
+.gh > img {
+  height: 32px;
+  width: 32px;
+}
+
+.gh-words {
   display: flex;
   align-items: center;
   font-size: smaller;
+  padding-bottom: 1em;
 }
-.gh > img {
+.gh-words > img {
   padding: 0 var(--space-narrow);
+  height: 32px;
+  width: 32px;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
