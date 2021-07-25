@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-07-25T11:08:56.669Z</updated>
+    <updated>2021-07-25T19:02:16.190Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -455,6 +455,16 @@ Applicants should be experienced researchers in the field of German and/or trans
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RECAP: Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza]]></title>
+        <id>https://judaicadh.github.io//blog/2021-05-31-scribes-recap/</id>
+        <link href="https://judaicadh.github.io//blog/2021-05-31-scribes-recap/"/>
+        <updated>2021-05-31T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Center for Research Data and Digital Scholarship at University of Pennsylvania Libraries, The Center for Digital Humanities at Princeton University Library, the Princeton Geniza Lab, and the Zooniverse present a series of conversations on project management and development, creation and use of data, and crowdsourcing platforms and research possibilities.]]></summary>
+        <author>
+            <name>Judaica DH at the Penn Libraries</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Blowing the doors off debt: mapping global interactions of a community project]]></title>
         <id>http://blogs.ucl.ac.uk/dh/?p=8178</id>
         <link href="https://blogs.ucl.ac.uk/dh/2021/05/27/blowing-the-doors-off-debt-mapping-global-interactions-of-a-community-project/"/>
@@ -709,6 +719,16 @@ ADHO is a formal alliance of independent Digital Humanities (DH) organizations t
         <summary type="html"><![CDATA[#dayofDH2021 is finally here, hosted by @LUCTSDH, @UCLA_DH, University of Guelph, and the Università del Piedmont Orientale. Date: April 29. Theme: Multilingual DH. Head over to https://t.co/78PFzqGDlL for details and stay tuned for more! https://t.co/LYTfwjNE2h — Day of DH (@DayofDH) April 4, 2021 Attention digital humanists of Princeton, Rutgers, Bryn Mawr, Haverford, Swarthmore, and the Mid-Atlantic. Join us for Day of Digital Humanities 2021 by tweeting about your multilingual DH. The aim of this year’s Day of DH is to “open up conversation about projects being undertaken in the various languages and put together a list of non-English tools, libraries, software products, tips, hacks, and]]></summary>
         <author>
             <name>Francesca Giannetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza]]></title>
+        <id>https://judaicadh.github.io//blog/2021-04-21-celebrating-scribes/</id>
+        <link href="https://judaicadh.github.io//blog/2021-04-21-celebrating-scribes/"/>
+        <updated>2021-04-21T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Center for Research Data and Digital Scholarship at University of Pennsylvania Libraries, The Center for Digital Humanities at Princeton University Library, the Princeton Geniza Lab, and the Zooniverse present a series of conversations on project management and development, creation and use of data, and crowdsourcing platforms and research possibilities.]]></summary>
+        <author>
+            <name>Judaica DH at the Penn Libraries</name>
         </author>
     </entry>
     <entry>
