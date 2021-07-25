@@ -7,23 +7,27 @@ sources:
   - href: https://aa-dh.org/feed/
   - href: https://ach.org/feed/
   - href: https://adho.org/rss.xml # this one calls itself "News", but is  Alliance of Digital Humanities Organizations
+  - href: https://archive.mith.umd.edu/mith-2020/feed/index.html
   - href: https://blogs.kcl.ac.uk/ddh/feed
   - href: https://csdh-schn.org/feed
   - href: https://cunydhi.commons.gc.cuny.edu/feed
   - href: https://dh.rutgers.edu/feed/
   - href: https://dhcenternet.org/rss.xml
+  - href: https://dhcommons.hypotheses.org/feed
   - href: https://dhnetwork.org/feed
+  - href: https://dhsi.org/feed
   - href: https://dig-hum.de/aktuelles/feed
   - href: https://digital.humanities.ox.ac.uk/rss.xml
   - href: https://digitalhumanities.stanford.edu/rss.xml
   - href: https://dslab.lib.rochester.edu/category/blog/feed
   - href: https://eadh.org/feed
+  - href: https://judaicadh.github.io/feed.xml
   - href: https://medium.com/@metalabharvard/feed
+  - href: https://medium.com/feed/digital-linguistics
   - href: https://openmethods.dariah.eu/feed/
   - href: https://sites.tufts.edu/digitalhumanities/feed/
   - href: https://tei-c.org/feed
   - href: https://www.cdh.cam.ac.uk/rss.xml
   - href: https://www.neh.gov/rss.xml
-  - href: https://judaicadh.github.io/feed.xml
 cacheMaxDays: 180
 siteTitle: "Flumen: Digital Humanities News Aggregator"
