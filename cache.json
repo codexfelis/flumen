@@ -246,6 +246,12 @@
       ]
     },
     {
+      "title": "Maryland Institute for Technology in the Humanities",
+      "feedUrl": "https://archive.mith.umd.edu/mith-2020/feed/index.html",
+      "siteUrl": "https://mith.umd.edu",
+      "articles": []
+    },
+    {
       "title": "KCL Digital Humanities",
       "feedUrl": "https://blogs.kcl.ac.uk/ddh/feed",
       "siteUrl": "https://blogs.kcl.ac.uk/ddh",
@@ -450,9 +456,112 @@
       "articles": []
     },
     {
+      "title": "The Digital Humanities Commons",
+      "feedUrl": "https://dhcommons.hypotheses.org/feed",
+      "siteUrl": "https://dhcommons.hypotheses.org",
+      "articles": [
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=775",
+          "author": "Merisa Martinez",
+          "description": "The Austro-German philosopher Edmund Husserl (born in Proßnitz, today Prostějov in 1859, died in Freiburg in 1938) remains one of the most influential philosophers of our time. He is considered the founder of phenomenology, which became one of the most significant origins of what has come to be called ‘continental philosophy’.  An astonishingly diverse range of philosophers have been directly influenced by Husserl’s works. The phenomenological method continues to be one of the richest methodological resources for philosophical thinking and scientific research, also in interdisciplinary settings […]",
+          "link": "https://dhcommons.hypotheses.org/775",
+          "publishedOn": "2021-05-27T10:34:19.000Z",
+          "wordCount": 949,
+          "title": "digitalHusserl is now LIVE!"
+        },
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=773",
+          "author": "Merisa Martinez",
+          "description": "Tomorrow will be the final instalment of this academic year’s DH Virtual Discussion Groups for Early Career Researchers working in Belgium. The topic of tomorrow’s discussion will be lightning pitches from researchers in our community who will be giving long-form presentations at DH Benelux 2021. While DH Benelux is hosted by the University of Leiden this year, it will be happening entirely online from 2 – 4 June 2021 (a.k.a. next week!). You can register for tomorrow’s discussion session, which will take place on […]",
+          "link": "https://dhcommons.hypotheses.org/773",
+          "publishedOn": "2021-05-26T15:06:47.000Z",
+          "wordCount": 610,
+          "title": "Last DH Virtual Discussion Group for Belgian ECRs Tomorrow from 15-16h30 CET!"
+        },
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=756",
+          "author": "Maria Dermentzi",
+          "description": "During the past couple of months, I have been trying to come up with an efficient way of constructing synonym rings for query expansion in a library discovery system (i.e., the online search interface of a library). I am doing this because I was given a list of e-books on the subject of Digital Humanities (DH) with the purpose of making them more discoverable on KU Leuven Libraries’ discovery platform. In my previous blogpost, I described what synonym rings are, but simply put, you […]",
+          "link": "https://dhcommons.hypotheses.org/756",
+          "publishedOn": "2021-04-22T16:39:43.000Z",
+          "wordCount": 1486,
+          "title": "Word Embeddings and Their Role in Synonym Ring Construction"
+        },
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=750",
+          "author": "Merisa Martinez",
+          "description": "On 6 and 7 May 2021, the Royal Library of Belgium (KBR) – together with several institutions including KU Leuven – will hold an international webinar on Old Books and New Technologies: Medieval Books and the Digital Humanities in the Low Countries. It will bring together researchers from libraries, archives, and museums, and university faculties with an interest in how the medieval book is contextualized by new technologies, with particular emphasis placed on the intersection of the medieval book and Digital Humanities. The languages […]",
+          "link": "https://dhcommons.hypotheses.org/750",
+          "publishedOn": "2021-04-19T12:21:44.000Z",
+          "wordCount": 969,
+          "title": "Event – Old Books and New Technologies: Medieval Books and the Digital Humanities in the Low Countries"
+        },
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=747",
+          "author": "Merisa Martinez",
+          "description": "This hybrid round-table and workshop is co-organized between LECTIO, KU Leuven, and the University of Utrecht. Event dates: 11-12 May. Registration deadline: 30 April 2021. Over two days, participants will have the chance to try a hands-on approach to network analysis, with a mix of practical workshops and presentations of ongoing projects (by LECTIO members). The keynote speakers will be prof. Dirk Van Miert (University of Utrecht), presenting the ERC project “Sharing Knowledge in Learned and Literary Networks – The Republic of Letters as […]",
+          "link": "https://dhcommons.hypotheses.org/747",
+          "publishedOn": "2021-04-01T16:27:58.000Z",
+          "wordCount": 730,
+          "title": "Event: Linking People: Network Analysis and Intellectual History"
+        },
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=745",
+          "author": "Merisa Martinez",
+          "description": "The Leibniz Institute of European History (IEG) in Mainz has one fellowship open for a a period of six to eight months for international doctoral students in the field of Digital Humanities. The fellowship will begin in July 2021 or later. The monthly stipend is € 1,350. Additionally, you can apply for family or child allowance. Applications are due 19 April 2021. More information below! AIMS The fellowship supports international doctoral students who wish to carry out their own research project using Digital Humanities […]",
+          "link": "https://dhcommons.hypotheses.org/745",
+          "publishedOn": "2021-04-01T16:02:40.000Z",
+          "wordCount": 817,
+          "title": "Fellowship Alert: Leibniz Institute of European History (for international PhD students)"
+        },
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=743",
+          "author": "Merisa Martinez",
+          "description": "The Vrije Universiteit Brussel and the Université Libre de Bruxelles have teamed up to create the Brussels DH seminars series! The next seminar will take place from 12:00 to 13:30 on 21 April 2021. The registration deadline is 15 April 2021. For more information keep reading! Ludovica Marinucci (Italian CNR): “Implicit biases in human and artificial intelligence”  The focus of the talk is to investigate the presence of the so-called “implicit biases” (Devine et al. 2009) in both human and artificial intelligence, especially encoded […]",
+          "link": "https://dhcommons.hypotheses.org/743",
+          "publishedOn": "2021-04-01T15:39:30.000Z",
+          "wordCount": 1201,
+          "title": "Event: Brussels DH Online Seminar Series!"
+        },
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=741",
+          "author": "Merisa Martinez",
+          "description": "The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for two Communications Fellowships, each of which will last from May – December 2021 and comes with a stipend of €500 Euros. The deadline for applications is 23:59 UTC on 15 April 2021. Each year, Communications Fellows work with ADHO’s Communications Officer to manage ADHO’s public communications activities. The fellowship is well suited for graduate students, young scholars, and academic professionals who wish to develop a deeper knowledge of digital humanities and its global communities, […]",
+          "link": "https://dhcommons.hypotheses.org/741",
+          "publishedOn": "2021-04-01T15:26:53.000Z",
+          "wordCount": 642,
+          "title": "Fellowship Opportunity: Two Communications Fellowships for the Alliance of Digital Humanities Organizations (ADHO)"
+        },
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=739",
+          "author": "Merisa Martinez",
+          "description": "The Royal Library of Belgium (KBR) is hosting an online series of three lectures given by Digital Humanities experts from across Belgium! This series is co-organized by KBR’s two labs: Camille (Center for Archives on the Media and Information) and the Digital Research Lab, in cooperation with Université Libre de Bruxelles and Ghent University. Dealing with a variety of topics, periods and methods, these talks will be held in English, with questions in French, Dutch or English. More information about each of the lectures […]",
+          "link": "https://dhcommons.hypotheses.org/739",
+          "publishedOn": "2021-04-01T15:04:55.000Z",
+          "wordCount": 1329,
+          "title": "Event: KBR Digital Humanities Online Series"
+        },
+        {
+          "id": "http://dhcommons.hypotheses.org/?p=736",
+          "author": "Merisa Martinez",
+          "description": "Big news! We have an opening at KU Leuven Libraries Artes on the Artes Research Team for an Information Specialist – Digital Scholarship in the Humanities. This position would report to our Artes Research Team Leader, Laura Mesotten, and work alongside Nele Noppe, our Data Librarian! The job would be a temporary to start with, and moving to permanent. It would be a full time, 1.0 FTE position (it can also be 80% if necessary). The ideal applicant would already know Dutch or be […]",
+          "link": "https://dhcommons.hypotheses.org/736",
+          "publishedOn": "2021-03-22T17:04:56.000Z",
+          "wordCount": 881,
+          "title": "Job Alert: Information Specialist – Digital Scholarship in the Humanities at Artes"
+        }
+      ]
+    },
+    {
       "title": "UK-Ireland Digital Humanities Network",
       "feedUrl": "https://dhnetwork.org/feed",
       "siteUrl": "https://dhnetwork.org",
+      "articles": []
+    },
+    {
+      "title": "Digital Humanities Summer Institute",
+      "feedUrl": "https://dhsi.org/feed",
+      "siteUrl": "https://dhsi.org",
       "articles": []
     },
     {
@@ -705,9 +814,40 @@
       ]
     },
     {
+      "title": "Judaica DH at the Penn Libraries",
+      "feedUrl": "https://judaicadh.github.io/feed.xml",
+      "siteUrl": "https://judaicadh.github.io//",
+      "articles": [
+        {
+          "id": "https://judaicadh.github.io//blog/2021-05-31-scribes-recap/",
+          "author": null,
+          "description": "The Center for Research Data and Digital Scholarship at University of Pennsylvania Libraries, The Center for Digital Humanities at Princeton University Library, the Princeton Geniza Lab, and the Zooniverse present a series of conversations on project management and development, creation and use of data, and crowdsourcing platforms and research possibilities.",
+          "link": "https://judaicadh.github.io//blog/2021-05-31-scribes-recap/",
+          "publishedOn": "2021-05-31T04:00:00.000Z",
+          "wordCount": 465,
+          "title": "RECAP: Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza"
+        },
+        {
+          "id": "https://judaicadh.github.io//blog/2021-04-21-celebrating-scribes/",
+          "author": null,
+          "description": "The Center for Research Data and Digital Scholarship at University of Pennsylvania Libraries, The Center for Digital Humanities at Princeton University Library, the Princeton Geniza Lab, and the Zooniverse present a series of conversations on project management and development, creation and use of data, and crowdsourcing platforms and research possibilities.",
+          "link": "https://judaicadh.github.io//blog/2021-04-21-celebrating-scribes/",
+          "publishedOn": "2021-04-21T04:00:00.000Z",
+          "wordCount": 569,
+          "title": "EVENT: Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza"
+        }
+      ]
+    },
+    {
       "title": "Stories by metaLAB (at) Harvard on Medium",
       "feedUrl": "https://medium.com/@metalabharvard/feed",
       "siteUrl": "https://medium.com/@metalabharvard?source=rss-db3c64260dfa------2",
+      "articles": []
+    },
+    {
+      "title": "Digital Linguistics - Medium",
+      "feedUrl": "https://medium.com/feed/digital-linguistics",
+      "siteUrl": "https://medium.com/digital-linguistics?source=rss----40d4e45e70ab---4",
       "articles": []
     },
     {
@@ -894,31 +1034,6 @@
       "feedUrl": "https://www.neh.gov/rss.xml",
       "siteUrl": "https://www.neh.gov/",
       "articles": []
-    },
-    {
-      "title": "Judaica DH at the Penn Libraries",
-      "feedUrl": "https://judaicadh.github.io/feed.xml",
-      "siteUrl": "https://judaicadh.github.io//",
-      "articles": [
-        {
-          "id": "https://judaicadh.github.io//blog/2021-05-31-scribes-recap/",
-          "author": null,
-          "description": "The Center for Research Data and Digital Scholarship at University of Pennsylvania Libraries, The Center for Digital Humanities at Princeton University Library, the Princeton Geniza Lab, and the Zooniverse present a series of conversations on project management and development, creation and use of data, and crowdsourcing platforms and research possibilities.",
-          "link": "https://judaicadh.github.io//blog/2021-05-31-scribes-recap/",
-          "publishedOn": "2021-05-31T04:00:00.000Z",
-          "wordCount": 465,
-          "title": "RECAP: Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza"
-        },
-        {
-          "id": "https://judaicadh.github.io//blog/2021-04-21-celebrating-scribes/",
-          "author": null,
-          "description": "The Center for Research Data and Digital Scholarship at University of Pennsylvania Libraries, The Center for Digital Humanities at Princeton University Library, the Princeton Geniza Lab, and the Zooniverse present a series of conversations on project management and development, creation and use of data, and crowdsourcing platforms and research possibilities.",
-          "link": "https://judaicadh.github.io//blog/2021-04-21-celebrating-scribes/",
-          "publishedOn": "2021-04-21T04:00:00.000Z",
-          "wordCount": 569,
-          "title": "EVENT: Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza"
-        }
-      ]
     }
   ],
   "cliVersion": "1.11.0"

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-07-25T19:02:16.190Z</updated>
+    <updated>2021-07-25T23:13:06.084Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -486,6 +486,26 @@ Continue reading "“Infrastructural Interventions”: Digital Humanities & Crit
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[digitalHusserl is now LIVE!]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=775</id>
+        <link href="https://dhcommons.hypotheses.org/775"/>
+        <updated>2021-05-27T10:34:19.000Z</updated>
+        <summary type="html"><![CDATA[The Austro-German philosopher Edmund Husserl (born in Proßnitz, today Prostějov in 1859, died in Freiburg in 1938) remains one of the most influential philosophers of our time. He is considered the founder of phenomenology, which became one of the most significant origins of what has come to be called ‘continental philosophy’.  An astonishingly diverse range of philosophers have been directly influenced by Husserl’s works. The phenomenological method continues to be one of the richest methodological resources for philosophical thinking and scientific research, also in interdisciplinary settings […]]]></summary>
+        <author>
+            <name>Merisa Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last DH Virtual Discussion Group for Belgian ECRs Tomorrow from 15-16h30 CET!]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=773</id>
+        <link href="https://dhcommons.hypotheses.org/773"/>
+        <updated>2021-05-26T15:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Tomorrow will be the final instalment of this academic year’s DH Virtual Discussion Groups for Early Career Researchers working in Belgium. The topic of tomorrow’s discussion will be lightning pitches from researchers in our community who will be giving long-form presentations at DH Benelux 2021. While DH Benelux is hosted by the University of Leiden this year, it will be happening entirely online from 2 – 4 June 2021 (a.k.a. next week!). You can register for tomorrow’s discussion session, which will take place on […]]]></summary>
+        <author>
+            <name>Merisa Martinez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DHN2020 Post-Proceedings published]]></title>
         <id>http://dig-hum-nord.eu/?p=1905</id>
         <link href="http://dhnb.eu/dhn2020-post-proceedings/"/>
@@ -712,6 +732,16 @@ ADHO is a formal alliance of independent Digital Humanities (DH) organizations t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Word Embeddings and Their Role in Synonym Ring Construction]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=756</id>
+        <link href="https://dhcommons.hypotheses.org/756"/>
+        <updated>2021-04-22T16:39:43.000Z</updated>
+        <summary type="html"><![CDATA[During the past couple of months, I have been trying to come up with an efficient way of constructing synonym rings for query expansion in a library discovery system (i.e., the online search interface of a library). I am doing this because I was given a list of e-books on the subject of Digital Humanities (DH) with the purpose of making them more discoverable on KU Leuven Libraries’ discovery platform. In my previous blogpost, I described what synonym rings are, but simply put, you […]]]></summary>
+        <author>
+            <name>Maria Dermentzi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Day of DH 2021; Mid-Atlantic Edition]]></title>
         <id>https://dh.rutgers.edu/?p=77252</id>
         <link href="https://dh.rutgers.edu/day-of-dh-2021/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=day-of-dh-2021"/>
@@ -739,6 +769,16 @@ ADHO is a formal alliance of independent Digital Humanities (DH) organizations t
         <summary type="html"><![CDATA[The TEI Consortium has released version 4.2.2 of the TEI P5 Guidelines and version 7.51.2 of Styelsheets, a follow-up version of the TEI P5 Guidelines version 4.2.1 and Stylesheets version 7.51.1, where an issue was noticed concerning the controlled value lists of certain type attributes. For more details, please see the release notes.]]></summary>
         <author>
             <name>Martina Scholger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event – Old Books and New Technologies: Medieval Books and the Digital Humanities in the Low Countries]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=750</id>
+        <link href="https://dhcommons.hypotheses.org/750"/>
+        <updated>2021-04-19T12:21:44.000Z</updated>
+        <summary type="html"><![CDATA[On 6 and 7 May 2021, the Royal Library of Belgium (KBR) – together with several institutions including KU Leuven – will hold an international webinar on Old Books and New Technologies: Medieval Books and the Digital Humanities in the Low Countries. It will bring together researchers from libraries, archives, and museums, and university faculties with an interest in how the medieval book is contextualized by new technologies, with particular emphasis placed on the intersection of the medieval book and Digital Humanities. The languages […]]]></summary>
+        <author>
+            <name>Merisa Martinez</name>
         </author>
     </entry>
     <entry>
@@ -771,6 +811,56 @@ Continue reading "Marking work available at KCL in digital media & technology + 
         <summary type="html"><![CDATA[The 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022) will be held at Uppsala University, in Sweden, on 15–18 March 2022. DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond. DHNB 2022 highlights the two way relationship between digital humanities […]]]></summary>
         <author>
             <name>Olga Holownia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event: Linking People: Network Analysis and Intellectual History]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=747</id>
+        <link href="https://dhcommons.hypotheses.org/747"/>
+        <updated>2021-04-01T16:27:58.000Z</updated>
+        <summary type="html"><![CDATA[This hybrid round-table and workshop is co-organized between LECTIO, KU Leuven, and the University of Utrecht. Event dates: 11-12 May. Registration deadline: 30 April 2021. Over two days, participants will have the chance to try a hands-on approach to network analysis, with a mix of practical workshops and presentations of ongoing projects (by LECTIO members). The keynote speakers will be prof. Dirk Van Miert (University of Utrecht), presenting the ERC project “Sharing Knowledge in Learned and Literary Networks – The Republic of Letters as […]]]></summary>
+        <author>
+            <name>Merisa Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fellowship Alert: Leibniz Institute of European History (for international PhD students)]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=745</id>
+        <link href="https://dhcommons.hypotheses.org/745"/>
+        <updated>2021-04-01T16:02:40.000Z</updated>
+        <summary type="html"><![CDATA[The Leibniz Institute of European History (IEG) in Mainz has one fellowship open for a a period of six to eight months for international doctoral students in the field of Digital Humanities. The fellowship will begin in July 2021 or later. The monthly stipend is € 1,350. Additionally, you can apply for family or child allowance. Applications are due 19 April 2021. More information below! AIMS The fellowship supports international doctoral students who wish to carry out their own research project using Digital Humanities […]]]></summary>
+        <author>
+            <name>Merisa Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event: Brussels DH Online Seminar Series!]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=743</id>
+        <link href="https://dhcommons.hypotheses.org/743"/>
+        <updated>2021-04-01T15:39:30.000Z</updated>
+        <summary type="html"><![CDATA[The Vrije Universiteit Brussel and the Université Libre de Bruxelles have teamed up to create the Brussels DH seminars series! The next seminar will take place from 12:00 to 13:30 on 21 April 2021. The registration deadline is 15 April 2021. For more information keep reading! Ludovica Marinucci (Italian CNR): “Implicit biases in human and artificial intelligence”  The focus of the talk is to investigate the presence of the so-called “implicit biases” (Devine et al. 2009) in both human and artificial intelligence, especially encoded […]]]></summary>
+        <author>
+            <name>Merisa Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fellowship Opportunity: Two Communications Fellowships for the Alliance of Digital Humanities Organizations (ADHO)]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=741</id>
+        <link href="https://dhcommons.hypotheses.org/741"/>
+        <updated>2021-04-01T15:26:53.000Z</updated>
+        <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for two Communications Fellowships, each of which will last from May – December 2021 and comes with a stipend of €500 Euros. The deadline for applications is 23:59 UTC on 15 April 2021. Each year, Communications Fellows work with ADHO’s Communications Officer to manage ADHO’s public communications activities. The fellowship is well suited for graduate students, young scholars, and academic professionals who wish to develop a deeper knowledge of digital humanities and its global communities, […]]]></summary>
+        <author>
+            <name>Merisa Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event: KBR Digital Humanities Online Series]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=739</id>
+        <link href="https://dhcommons.hypotheses.org/739"/>
+        <updated>2021-04-01T15:04:55.000Z</updated>
+        <summary type="html"><![CDATA[The Royal Library of Belgium (KBR) is hosting an online series of three lectures given by Digital Humanities experts from across Belgium! This series is co-organized by KBR’s two labs: Camille (Center for Archives on the Media and Information) and the Digital Research Lab, in cooperation with Université Libre de Bruxelles and Ghent University. Dealing with a variety of topics, periods and methods, these talks will be held in English, with questions in French, Dutch or English. More information about each of the lectures […]]]></summary>
+        <author>
+            <name>Merisa Martinez</name>
         </author>
     </entry>
     <entry>
@@ -841,6 +931,16 @@ Thanks to the tireless nights-and-weeken…]]></summary>
         <summary type="html"><![CDATA[The Executive and the Programme Committee of the Canadian Society for Digital Humanities/société canadienne des humanités numériques (CSDH/SCHN) stand in solidarity with the Black Canadian Studies Association (BCSA) and their ...]]></summary>
         <author>
             <name>Kim Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Alert: Information Specialist – Digital Scholarship in the Humanities at Artes]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=736</id>
+        <link href="https://dhcommons.hypotheses.org/736"/>
+        <updated>2021-03-22T17:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Big news! We have an opening at KU Leuven Libraries Artes on the Artes Research Team for an Information Specialist – Digital Scholarship in the Humanities. This position would report to our Artes Research Team Leader, Laura Mesotten, and work alongside Nele Noppe, our Data Librarian! The job would be a temporary to start with, and moving to permanent. It would be a full time, 1.0 FTE position (it can also be 80% if necessary). The ideal applicant would already know Dutch or be […]]]></summary>
+        <author>
+            <name>Merisa Martinez</name>
         </author>
     </entry>
     <entry>
