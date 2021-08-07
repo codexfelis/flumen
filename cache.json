@@ -570,6 +570,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/707",
+          "author": "406",
+          "description": "Der Sonderforschungsbereich (SFB) 1391 „Andere Ästhetik“ untersucht ästhetische Akte und Artefakte der Vormoderne im Spannungsfeld von Gestaltungswissen und sozialer Praxis.…",
+          "link": "https://dig-hum.de/aktuelles/cfp-materialit%C3%A4t-und-medialit%C3%A4t-aspekte-einer-anderen-%C3%A4sthetik-m%C3%A4rz-2022-t%C3%BCbingen",
+          "publishedOn": "2021-08-06T15:46:09.000Z",
+          "wordCount": 888,
+          "title": "CfP: Materialität und Medialität: Aspekte einer anderen Ästhetik (März 2022, Tübingen)"
+        },
+        {
           "id": "node/706",
           "author": "406",
           "description": "Wir freuen uns, dass sich mit romantistik.de eine weitere Initiative unserer Stellungnahme zur Befristungspraxis an Hochschulen und außeruniversitären Forschungseinrichtungen in…",
@@ -980,15 +989,6 @@
           "publishedOn": "2021-02-10T19:31:13.000Z",
           "wordCount": 2674,
           "title": "OpenMethods Spotlights #2 : Interview with Luise Borek and Canan Hastik about TaDiRAH"
-        },
-        {
-          "id": "http://openmethods.dariah.eu/?p=2921",
-          "author": "Marinella Testori",
-          "description": "Introduction: The DraCor ecosystem encourages various approaches to the browsing and consultation of the data collected in the corpora, like those detailed in the Tools section: the Shiny DraCor app (https://shiny.dracor.org/), along with the SPARQL queries and the Easy Linavis interfaces (https://dracor.org/sparql and https://ezlinavis.dracor.org/ respectively). The project, thus, aims at creating a suitable digital environment for the development of an innovative way to approach literary corpora, potentially open to collaborations and interactions with other initiatives thanks to its ontology and Linked Open data-based nature.  \n[Click ‘Read more’ for the full post!]",
-          "link": "https://openmethods.dariah.eu/2021/02/08/programmable-corpora-introducing-dracor-an-infrastructure-for-the-research-on-european-drama/",
-          "publishedOn": "2021-02-08T15:05:39.000Z",
-          "wordCount": 1003,
-          "title": "Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama"
         }
       ]
     },

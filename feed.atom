@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-06T08:12:00.520Z</updated>
+    <updated>2021-08-07T08:11:52.406Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CfP: Materialität und Medialität: Aspekte einer anderen Ästhetik (März 2022, Tübingen)]]></title>
+        <id>node/707</id>
+        <link href="https://dig-hum.de/aktuelles/cfp-materialit%C3%A4t-und-medialit%C3%A4t-aspekte-einer-anderen-%C3%A4sthetik-m%C3%A4rz-2022-t%C3%BCbingen"/>
+        <updated>2021-08-06T15:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Der Sonderforschungsbereich (SFB) 1391 „Andere Ästhetik“ untersucht ästhetische Akte und Artefakte der Vormoderne im Spannungsfeld von Gestaltungswissen und sozialer Praxis.…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jobs: Lecturer in Digital Innovation Management Education]]></title>
         <id>https://blogs.kcl.ac.uk/ddh/?p=3100</id>
@@ -1212,17 +1222,6 @@ Wednesday, March 10, 2021]]></summary>
         <summary type="html"><![CDATA[The New Digital Research Infrastructure Organization (NDRIO) is pleased to announce the launch of a nation-wide survey, as part of our Canadian Digital Research Infrastructure Needs Assessment. This survey is open to ...]]></summary>
         <author>
             <name>arcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama]]></title>
-        <id>http://openmethods.dariah.eu/?p=2921</id>
-        <link href="https://openmethods.dariah.eu/2021/02/08/programmable-corpora-introducing-dracor-an-infrastructure-for-the-research-on-european-drama/"/>
-        <updated>2021-02-08T15:05:39.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: The DraCor ecosystem encourages various approaches to the browsing and consultation of the data collected in the corpora, like those detailed in the Tools section: the Shiny DraCor app (https://shiny.dracor.org/), along with the SPARQL queries and the Easy Linavis interfaces (https://dracor.org/sparql and https://ezlinavis.dracor.org/ respectively). The project, thus, aims at creating a suitable digital environment for the development of an innovative way to approach literary corpora, potentially open to collaborations and interactions with other initiatives thanks to its ontology and Linked Open data-based nature.  
-[Click ‘Read more’ for the full post!]]]></summary>
-        <author>
-            <name>Marinella Testori</name>
         </author>
     </entry>
 </feed>
