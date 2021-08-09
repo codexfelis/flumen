@@ -32,28 +32,32 @@
     <a class="gh" href="https://github.com/codexfelis/flumen" target="_blank" rel="noopener noreferrer"><img
         src="GitHub.png" alt="GitHub logo"></a>
   </header>
-  <h1>Flumen</h1>
-  <p>A newsfeed and aggregator for the digital humanities by <a href="https://codexfelis.dev">Codex Felis</a></p>
+  <main>
+    <h1>Flumen</h1>
+    <p>A newsfeed and aggregator for the digital humanities by <a href="https://codexfelis.dev">Codex Felis</a></p>
 
-  {{#each dates}}
-  <section>
-    <h2>{{isoPublishDate}}</h2>
-    {{#each articles}}
-    <article>
-      <h3><a href={{link}} target="_blank" rel="noopener noreferrer">{{title}}</a></h3>
-      <p class="dim">Source: <a href={{source.siteUrl}}>{{source.title}}</a> |
-        Reading time: {{readingTimeInMin}} minutes </p>
-      <p>{{description}}</p>
-    </article>
+    {{#each dates}}
+    <section>
+      <h2>{{isoPublishDate}}</h2>
+      {{#each articles}}
+      <article>
+        <h3><a href={{link}} target="_blank" rel="noopener noreferrer">{{title}}</a></h3>
+        <p class="dim">Source: <a href={{source.siteUrl}}>{{source.title}}</a> |
+          Reading time: {{readingTimeInMin}} minutes </p>
+        <p>{{description}}</p>
+      </article>
+      {{/each}}
+    </section>
     {{/each}}
-  </section>
-  {{/each}}
+  </main>
   <footer>
     <a class="gh-words" href="https://github.com/codexfelis/flumen" target="_blank" rel="noopener noreferrer"><img
         src="GitHub.png" alt="GitHub logo"><span>Find us on GitHub</span></a>
-    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-    <script
-      type='text/javascript'>kofiwidget2.init('Buy us coffee', '#043565', 'D1D35CFF1'); kofiwidget2.draw();</script>
+    <div class="btn-container"><a title="Support us on ko-fi.com" class="kofi-button" style="background-color:#043565;"
+        href="https://ko-fi.com/D1D35CFF1" target="_blank" rel="noopener noreferrer"> <span class="kofitext"><img
+            src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg">Buy us
+          coffee</span></a></div>
+
     <p class="dim">Last updated {{siteBuildTimestamp}}</p>
 
   </footer>
