@@ -397,15 +397,6 @@
           "publishedOn": "2021-03-18T13:23:29.000Z",
           "wordCount": 600,
           "title": "Janelle Jenstad gagne le prix de contribution exceptionnelle de la Société canadienne des humanités numériques 2021"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=682",
-          "author": "arcadmin",
-          "description": "The New Digital Research Infrastructure Organization (NDRIO) is pleased to announce the launch of a nation-wide survey, as part of our Canadian Digital Research Infrastructure Needs Assessment. This survey is open to ...",
-          "link": "https://csdh-schn.org/new-digital-research-infrastructure-organization-nation-wide-survey/",
-          "publishedOn": "2021-02-10T16:58:24.000Z",
-          "wordCount": 354,
-          "title": "New Digital Research Infrastructure Organization: Nation-Wide Survey"
         }
       ]
     },
@@ -736,6 +727,24 @@
       "siteUrl": "https://digitalhumanities.stanford.edu",
       "articles": [
         {
+          "id": "841 at https://digitalhumanities.stanford.edu",
+          "author": "Quinn Dombrowski",
+          "description": "In 2019, I wrote a blog post about the experience of going to the DH conference in Utrecht, followed by the ACH conference in Pittsburgh. Two years later, it's time for another ACH write-up, with a very different point of comparison: !!Con, a tech conference celebrating \"the joy, excitement, and surprise of computing\". While I've attended and presented at other virtual events this year (including the CSDH-SCHN conference), as co-VP of ACH I was particularly committed to attending as much of that conference as I could, and volunteering as a chair, online respondent, and livetweeter. !!Con was a more serendipitous discovery thanks to a tweet from Scott Weingart. It was the first non-academic conference I've presented at, and while differences in both scale and nature make it hard to compare …",
+          "link": "https://digitalhumanities.stanford.edu/conferencing-home-ach-2021-and-con",
+          "publishedOn": "2021-07-28T18:21:27.000Z",
+          "wordCount": 2406,
+          "title": "Conferencing from Home: ACH 2021 and !!Con"
+        },
+        {
+          "id": "836 at https://digitalhumanities.stanford.edu",
+          "author": "Quinn Dombrowski",
+          "description": "Spring quarter gave me the first chance in a long while to take some time off. The first week of the quarter was my kids' spring break, which we spent in a cabin in the woods near Mt. Lassen with just the right amount of internet: enough to quietly keep an eye on email, not enough for Zoom. We've taken some other long weekends, and there's been periods when school has been closed for one or more kids. Nonetheless, here's where things stand at the end of spring quarter.\nExisting projects\nI've been continuing to refine the static, Jekyll-based site for the Global Medieval Sourcebook, with a few CSS tweaks left to do. I had the opportunity to present what we've done so far with Mae Velloso-Lyons (and Elizabeth Honig, the faculty member behind a Jan Brueghel Catalogue Raisonné I worked on at U…",
+          "link": "https://digitalhumanities.stanford.edu/dlcl-ats-round-spring-2021",
+          "publishedOn": "2021-07-09T17:51:52.000Z",
+          "wordCount": 1532,
+          "title": "DLCL ATS round-up, spring 2021"
+        },
+        {
           "id": "831 at https://digitalhumanities.stanford.edu",
           "author": "Quinn Dombrowski",
           "description": "Winter quarter was a time of consolidation and slow progress, without much to share by way of exciting new developments. I worked on a lot of things that I expect will bear fruit down the road, but I can't point to anything concrete yet. Here's where things stand as of spring break 2021.\nExisting Projects\nWith some advice from Matthew Lincoln at Carnegie Mellon, I'm close to finishing the migration of the Global Medieval Sourcebook into a Jekyll site fashioned after CMU's DH Literacy Guidebook. It's been a multi-step process, including some XSLT, some Python, some OpenRefine, and I've kept notes along the way. I'm planning to write it all up during the spring, if only as a set of tips for people considering migrating from Drupal to a static website.\nThanks to the tireless nights-and-weeken…",
@@ -893,6 +902,67 @@
       ]
     },
     {
+      "title": "Living with Machines",
+      "feedUrl": "https://livingwithmachines.ac.uk/feed",
+      "siteUrl": "https://livingwithmachines.ac.uk",
+      "articles": [
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=1942",
+          "author": "Mia Ridge",
+          "description": "We are excited to announce a major milestone for newspapers digitised through this project – from today, some of the out of copyright newspapers we digitised are free to view on the British Newspaper Archive. We’re part of the first million free to view pages as part of this collaboration between the British Library and […]",
+          "link": "https://livingwithmachines.ac.uk/sharing-the-benefits-free-to-view-newspapers-on-the-british-newspaper-archive/?utm_source=rss&utm_medium=rss&utm_campaign=sharing-the-benefits-free-to-view-newspapers-on-the-british-newspaper-archive",
+          "publishedOn": "2021-08-09T12:51:22.000Z",
+          "wordCount": 1002,
+          "title": "Sharing the benefits: free to view newspapers on the British Newspaper Archive"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=1934",
+          "author": "Christina Last",
+          "description": "What is your name? Christina Last What is your background? I am a Research Data Scientist in the Research Engineering Group at the Turing, where I specialise in building machine learning solutions to understand our cities. My work bridges social data science, geographic machine learning, and machine learning operations. I enjoy working with city governments and international organizations on software and […]",
+          "link": "https://livingwithmachines.ac.uk/introducing-christina-last/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-christina-last",
+          "publishedOn": "2021-07-29T12:32:21.000Z",
+          "wordCount": 768,
+          "title": "Introducing… Christina Last"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=1916",
+          "author": "Daniel van Strien",
+          "description": "Newspapers are a visual medium, communicating not only through text but also through visual information, including photographs, maps and other images. Research on historic newspapers, particularly with digital methods, has focused primarily on the text contained in the newspapers. However, there is potentially a lot to be learned by also looking at the visual content […]",
+          "link": "https://livingwithmachines.ac.uk/nnanno-a-tool-to-help-work-with-newspaper-navigator-images/?utm_source=rss&utm_medium=rss&utm_campaign=nnanno-a-tool-to-help-work-with-newspaper-navigator-images",
+          "publishedOn": "2021-07-09T15:08:58.000Z",
+          "wordCount": 660,
+          "title": "nnanno: a tool to help work with Newspaper Navigator images"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=1904",
+          "author": "Kaspar Beelen",
+          "description": "🤗 Giovanni Colavizza and Kaspar Beelen asked digital humanities (DH) researchers which computational resources would (if available) accelerate their research in the years to come.  We called this unicorn “DH’s HuggingFace” in reference to a code library in Python. The Hugging Face library recently boosted various forms of computational research by greatly facilitating the process […]",
+          "link": "https://livingwithmachines.ac.uk/what-could-be-the-digital-humanities-hugging-face/?utm_source=rss&utm_medium=rss&utm_campaign=what-could-be-the-digital-humanities-hugging-face",
+          "publishedOn": "2021-06-10T07:36:15.000Z",
+          "wordCount": 1193,
+          "title": "What could be the digital humanities’ Hugging Face?"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=1881",
+          "author": "Katie McDonough",
+          "description": "We have published a new Open Access article in the Journal of Victorian Culture about using Computer Vision with historical maps. ‘Maps of a Nation?’ describes our Computer Vision pipeline for working with thousands of maps at once, which enables new forms of historical inquiry based on spatial analysis. The Ordnance Survey has been the […]",
+          "link": "https://livingwithmachines.ac.uk/new-article-maps-of-a-nation/?utm_source=rss&utm_medium=rss&utm_campaign=new-article-maps-of-a-nation",
+          "publishedOn": "2021-05-17T19:46:00.000Z",
+          "wordCount": 843,
+          "title": "New Article: Maps of a Nation"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=1829",
+          "author": "Olivia Vane",
+          "description": "We are very pleased to share the code for ‘Press Picker’, our interactive data visualisation tool for newspaper metadata: https://github.com/Living-with-machines/PressPicker_public. We developed Press Picker, as part of Living with Machines, to help us get a handle on British Library newspaper data, as we planned digitisation. The scale and complexity of the newspaper metadata—different formats held […]",
+          "link": "https://livingwithmachines.ac.uk/press-picker-code-published/?utm_source=rss&utm_medium=rss&utm_campaign=press-picker-code-published",
+          "publishedOn": "2021-03-08T14:04:02.000Z",
+          "wordCount": 555,
+          "title": "Press Picker code published"
+        }
+      ]
+    },
+    {
       "title": "Stories by metaLAB (at) Harvard on Medium",
       "feedUrl": "https://medium.com/@metalabharvard/feed",
       "siteUrl": "https://medium.com/@metalabharvard?source=rss-db3c64260dfa------2",
@@ -980,15 +1050,6 @@
           "publishedOn": "2021-03-11T11:39:55.000Z",
           "wordCount": 1111,
           "title": "Cultural Ontologies: the ArCo Knowledge Graph."
-        },
-        {
-          "id": "http://openmethods.dariah.eu/?p=2934",
-          "author": "Erzsebet Tóth-Czifra",
-          "description": "In the next Spotlights episode, we are looking behind the scenes of TaDiRAH with Dr. Luise Borek and Dr. Canan Hastic who give us a rich  introduction to the new version of it. We discuss communities around TaDiRAH,  the evolution of DH, open data culture, linking with Wikidata...and many more!",
-          "link": "https://openmethods.dariah.eu/2021/02/10/openmethods-spotlights-2-interview-with-luise-borek-and-canan-hastik-about-tadirah/",
-          "publishedOn": "2021-02-10T19:31:13.000Z",
-          "wordCount": 2674,
-          "title": "OpenMethods Spotlights #2 : Interview with Luise Borek and Canan Hastik about TaDiRAH"
         }
       ]
     },
