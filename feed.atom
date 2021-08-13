@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-13T08:12:12.077Z</updated>
+    <updated>2021-08-13T13:55:35.824Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We have moved!]]></title>
+        <id>http://dhcommons.hypotheses.org/?p=779</id>
+        <link href="https://dhcommons.hypotheses.org/779"/>
+        <updated>2021-08-13T13:35:54.000Z</updated>
+        <summary type="html"><![CDATA[After a successful year of blogging we have decided to continue this blog at The Scholarly Tales. While we have moved the location of our blog, you can rest assured that we will still be communicating about digital scholarship related activities, events, and discussions. The Scholarly Tales blog remains an initiative of the DH Commons, managed by the research team within KU Leuven Libraries Artes. The DH Commons aims to bring together interested parties around teaching, training, and research on digital scholarship in the […]]]></summary>
+        <author>
+            <name>Laura Mesotten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A miscellany of ephemera, oddities, & estrays]]></title>
+        <id>http://wragge.micro.blog/2021/08/13/a-miscellany-of.html</id>
+        <link href="https://updates.timsherratt.org/2021/08/13/a-miscellany-of.html"/>
+        <updated>2021-08-13T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m just in the midst of updating my harvest of OCRd text from Trove’s digitised books (more about that soon!). But amongst the items catalogued as ‘books’ are a wide assortment of ephemera, posters, advertisements, and other oddities. There’s no consistent way of identifying these items through the search interface, but because I’ve found the number of pages in each ‘book’ as part of the harvesting process, I can limit results to items with just a single digitised page – there’s more than 1,500! To make it easy to explore this collection of odds and ends, I’ve downloaded all the single page images and compiled them into one big PDF with links back to their entries in Trove. Enjoy your browsing!
+
+This is another example of the ways in which we can extend and enrich existing collection interfaces using simple technologies like PDFs and CSVs. We can create slices across existing categories to expose interesting features, and provide new entry points for researchers. Some other examples in the GLAM Workbench are the collection of editorial cartoons from The Bulletin, the list of Trove newspapers with non-English content, the harvest of ABC Radio National programs, and the recent collection of politicians talking about COVID. Let me know if you have any ideas for additional slices! #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zita C. Nunes]]></title>
+        <id>1136 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/nunes-zita"/>
+        <updated>2021-08-12T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Associate Professor, English, University of Pennsylvania
+
+
+
+Zita C. Nunes, Associate Professor of English, teaches and conducts research in the area of African American/African Diaspora literatures from a pan-African and multilingual perspective.The author of Cannibal Democracy: Race and Representation in the Literature of the Americas (Minnesota UP, 2008), she is completing a monograph, Racism in Translation: Multilingualism, Comparative Literature, the Harlem Renaissance, and a bilingual digital edition of the Correio de África, a Black newspaper published in Lisbon, Portugal between 1921 and 1924. 
+
+
+Fellowship Date: 
+
+August, 2021—September, 2022]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jessa  Lingel]]></title>
+        <id>1135 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/lingel-jessa"/>
+        <updated>2021-08-12T13:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Associate Professor, Communication, University of Pennsylvania
+
+
+
+Jessa Lingel is an associate professor at the Annenberg School for Communication and core faculty in the Gender, Sexuality and Women’s Studies Program at the University of Pennsylvania.  She received her PhD in communication and information from Rutgers University.  She has an MLIS from Pratt Institute and an MA in gender studies from New York University.  Her research interests include digital inequalities and technological distributions of power. Using qualitative methods, Lingel studies how marginalized and countercultural groups use and reshape digital media.
+
+
+Fellowship Date: 
+
+August, 2021—August, 2022]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring ideas for our Living with Machines exhibition]]></title>
         <id>https://livingwithmachines.ac.uk/?p=1960</id>
@@ -14,6 +78,60 @@
         <summary type="html"><![CDATA[An exhibition has been part of our plans since we began working on the funding bid that became Living with Machines in 2017 or so. In 2020 we began work in earnest on finding collaborators, finding dates at a suitable venue and thinking about how we could translate research findings from Living with Machines into […]]]></summary>
         <author>
             <name>Mia Ridge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UKRI’s support for green open access is the right way forward]]></title>
+        <id>https://www.rluk.ac.uk/?p=10553</id>
+        <link href="https://www.timeshighereducation.com/blog/ukris-support-green-open-access-right-way-forward#new_tab"/>
+        <updated>2021-08-11T09:44:35.000Z</updated>
+        <summary type="html"><![CDATA[New guidelines have rightly rejected publisher claims that gold is the only sustainable path for open access, say Stephen Eglen and Rupert Gatti
+The post UKRI’s support for green open access is the right way forward appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angelina   Eimannsberger]]></title>
+        <id>1134 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/eimannsberger-angelina-0"/>
+        <updated>2021-08-10T14:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Ph.D. Candidate, Comparative Literature, University of Pennsylvania
+
+
+
+Angelina Eimannsberger is a graduate student in the Comparative Literature department at the University of Pennsylvania. Eimannsberger's research focuses on contemporary US women writers, novels and life writing, feminist theory, Socialist Feminism, femininity, and queer theory, as well as women’s book clubs, and diverse re-tellings of Pride and Prejudice. Eimannsberger's Summer 2020 project involved an analysis of the female celebrity book club Reese's Book Club (hosted by actress and producer Reese Witherspoon and her company Hello Sunshine), its books and participants as well as bookish talk about the books, especially on Goodreads.
+ 
+
+
+Fellowship Date: 
+
+August, 2021—August, 2022]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matthew  Aiello]]></title>
+        <id>1133 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/aiello-matthew"/>
+        <updated>2021-08-10T13:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Ph.D. Candidate, English, University of Pennsylvania
+
+
+
+Matthew Aiello is a Ph.D. Candidate in English at UPenn. His dissertation, Writing Under Duress: Trauma and Repetition in Early England, 1070-1270 treats trauma as a dynamic force that can be reconfigured as a tool of historical analysis for premodern texts while also exploring how trauma theory itself can be changed by the decentering agent of the premodern. His published work has appeared in Comitatus, Essays and Studies, Review of English Studies, and most recently in New Medieval Literatures. 
+
+
+Fellowship Date: 
+
+August, 2021]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
         </author>
     </entry>
     <entry>
@@ -27,6 +145,40 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Everyday heritage and the GLAM Workbench]]></title>
+        <id>http://wragge.micro.blog/2021/08/09/everyday-heritage-and.html</id>
+        <link href="https://updates.timsherratt.org/2021/08/09/everyday-heritage-and.html"/>
+        <updated>2021-08-09T01:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Some good news on the funding front with the success of the Everyday Heritage project in the latest round of ARC Linkage grants. The project aims to look beyond the formal discourses of ‘national’ heritage to develop a more diverse range of heritage narratives. Working at the intersection of place, digital collections, and material culture, team members will develop a series of ‘heritage biographies’, that document everyday experience, and provide new models for the heritage sector.
+
+Digital methods will play a major role in the project. I’ll be leading the ‘Heritage Hacks’ work package that will support the creation of the heritage biographies and develop a range of new tools and tutorials for use in heritage management contexts. All the tools, methods, and data generated through the project will be documented using Jupyter notebooks and published through the GLAM Workbench. Watch this space!
+The project is led by Tracy Ireland (University of Canberra), with Jane Lydon (UWA), Kate Bagnall (UTAS), and me as chief investigators. Our industry partner is GML Heritage.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ali  M.  Rahman]]></title>
+        <id>1132 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/rahman-ali"/>
+        <updated>2021-08-06T17:17:42.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Lecturer, Critical Writing Program, University of Pennsylvania
+
+
+
+Dr. Ali M. Rahman is a Lecturer in the Critical Writing Program at the University of Pennsylvania. Ali completed his Ph.D. at UC Santa Barbara focusing on Islamic oral traditions and education in the digital age. He has taught in the Middle East with refugee populations, the New York prison system, independent K-12 and boarding schools, and both public and private universities. His research focuses on digital writing, rhetoric, and pedagogy. He is currently working on a book exploring authority in online spaces and the search for knowledge in a neoliberal age.
+
+
+Fellowship Date: 
+
+August, 2021—September, 2022]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CfP: Materialität und Medialität: Aspekte einer anderen Ästhetik (März 2022, Tübingen)]]></title>
         <id>node/707</id>
         <link href="https://dig-hum.de/aktuelles/cfp-materialit%C3%A4t-und-medialit%C3%A4t-aspekte-einer-anderen-%C3%A4sthetik-m%C3%A4rz-2022-t%C3%BCbingen"/>
@@ -34,6 +186,122 @@
         <summary type="html"><![CDATA[Der Sonderforschungsbereich (SFB) 1391 „Andere Ästhetik“ untersucht ästhetische Akte und Artefakte der Vormoderne im Spannungsfeld von Gestaltungswissen und sozialer Praxis.…]]></summary>
         <author>
             <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLUK welcomes publication of UKRI’s new Open Access Policy]]></title>
+        <id>https://www.rluk.ac.uk/?p=10463</id>
+        <link href="https://www.rluk.ac.uk/rluk-welcomes-publication-of-ukris-new-open-access-policy/"/>
+        <updated>2021-08-06T08:03:40.000Z</updated>
+        <summary type="html"><![CDATA[RLUK welcomes the publication today of a new Open Access (OA) policy applying to research outputs that result from UKRI funding. The new policy is the result of an extensive consultation period during which the views of all relevant stakeholders - including the research library community and RLUK - were sought and heard. The new [...]
+The post RLUK welcomes publication of UKRI’s new Open Access Policy appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent GLAM Workbench presentations]]></title>
+        <id>http://wragge.micro.blog/2021/08/06/recent-glam-workbench.html</id>
+        <link href="https://updates.timsherratt.org/2021/08/06/recent-glam-workbench.html"/>
+        <updated>2021-08-06T07:42:17.000Z</updated>
+        <summary type="html"><![CDATA[So far this year I’ve given eight workshops or presentations relating to the GLAM Workbench, with probably a few more yet to come. Here’s the latest:
+Introducing the GLAM Workbench, presentation for the Griffith University Centre for Social and Cultural Research, Digital Humanities Seminar Series, 6 August 2021
+Exploring the GLAM Workbench (slides), presentation for the UTS Digital Histories Seminar Series, 8 July 2021
+The GLAM Workbench: A Labs approach?, presentation for the panel ‘Research use of web archives: A labs approach’, at the IIPC Web Archiving Conference, 15 June 2021
+Hands-on introduction to the GLAM Workbench, workshop for the Professional Historians Association of Victoria and Tasmania, 27 May 2021
+Exploring collections through the GLAM Workbench, keynote presentation for the XVIII Congrés d’Arxvística i Gestió de Documents de Catalunya, 11 May 2021
+Quick hacks and DIY data: Innovations for the discerning historian, presentation for AHA ECR digital skills seminar, 5 March 2021
+You can view all the GLAM Workbench presentations here.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updated! Lots and lots of text freshly harvested from Trove periodicals]]></title>
+        <id>http://wragge.micro.blog/2021/08/06/updated-lots-and.html</id>
+        <link href="https://updates.timsherratt.org/2021/08/06/updated-lots-and.html"/>
+        <updated>2021-08-05T23:49:54.000Z</updated>
+        <summary type="html"><![CDATA[For a few years now I’ve been harvesting downloadable text from digitised periodicals in Trove and making it easily available for exploration and research. I’ve just completed the latest harvest – here’s the summary:
+1,163 digitised periodicals had text available for download
+Text was downloaded from 51,928 individual issues
+Adding up to a total of around 12gb of text
+If you want to dive straight in, here’s a list of all the harvested periodicals, with links to download a summary of available issues, as well as all the harvested text (there’s one file per issue). You’ll notice that the list includes a large number of parliamentary papers and government reports as well as published journals.
+
+All of the harvested text is available from a public folder on CloudStor.
+The harvesting process involves a few different steps:
+First I generate a list of periodicals available in digital form from Trove. This includes digitised titles, as well as born-digital titles submitted through e-Legal Deposit. This produced a CSV file containing the details of 7,270 titles. See this notebook for details.
+Then I work through this list of titles to find out how many issues of each title are available through Trove. This information isn’t accessible through the API, so I have to do some screen scraping.
+Next I work through the list of issues and try to download the text contents. Most of the born-digital titles don’t have downloadable text.
+Once I’ve downloaded all the text I can from a title, I create a CSV file for it that lists the available issues and notes whether text is available for each. This file is stored with the text on CloudStor.
+Once I’ve checked all the titles, I generate another CSV file that lists the details of all the periodicals that have downloadable text.
+The code to harvest and document the downloaded text is available in this notebook. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amanda   Licastro]]></title>
+        <id>1131 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/licastro-amanda"/>
+        <updated>2021-08-05T19:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Emerging and Digital Literacy Designer, University of Pennsylvania
+
+
+
+Dr. Amanda Licastro (she/her) is the Emerging and Digital Literacy Designer at the University of Pennsylvania, responsible for providing instructional design support in collaboration with other Library units and campus partners to ensure success of the critical literacies initiative. Amanda was formerly the Assistant Professor of Digital Rhetoric at Stevenson University in Maryland. Her research explores the intersection of technology and writing, including book history, dystopian literature, and digital humanities, with a focus on multimodal composition and Extended Reality. Amanda serves as the Director of Pedagogical Initiatives of the Book Traces project and is co-founder of the Journal of Interactive Technology and Pedagogy and the Writing Studies Tree. Publications include articles in Kairos, Digital Pedagogy in the Humanities, Hybrid Pedagogy, and Communication Design Quarterly, as well as chapters in Digital Reading and Writing in Composition Studies, and Critical Digital Pedagogy. Her co-edited collection, Composition and Big Data, is available for pre-order  from University of Pittsburgh Press. The grant-funded project on Virtual Reality Amanda developed and executed was awarded the Paul Fortier Prize at the 2017 Digital Humanities conference, and has been featured in the Baltimore Sun and Baltimore Magazine.
+
+
+Fellowship Date: 
+
+August, 2021—September, 2022]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIIF Conference 2021 sessions now available to view]]></title>
+        <id>https://www.rluk.ac.uk/?p=10459</id>
+        <link href="https://www.youtube.com/playlist?list=PLYPP1-8uH9c6y-KUzicLQr_LkX8uaWa5h#new_tab"/>
+        <updated>2021-08-05T12:46:09.000Z</updated>
+        <summary type="html"><![CDATA[The IIIF Conference is intended for a wide range of participants, including digital image repository managers, content curators, software developers, scholars, and administrators at libraries, museums, and cultural heritage institutions, software firms, and other organisations working with digital images and audio/visual materials.
+The post IIIF Conference 2021 sessions now available to view appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panel discussion: How libraries can support OA transitions of NFP publishers]]></title>
+        <id>https://www.rluk.ac.uk/?p=10456</id>
+        <link href="https://www.rluk.ac.uk/panel-discussion-how-libraries-can-support-oa-transitions-of-nfp-publishers/"/>
+        <updated>2021-08-05T12:30:36.000Z</updated>
+        <summary type="html"><![CDATA[RLUK Executive Director, David Prosser, participated in a panel discussion at the 2021 Liber Conference, on How libraries and consortia can support the OA transitions of not-for-profit publishers, and why. A recording of this session can be viewed below. Transformative OA agreements repurpose former subscription funds to support open access publishing, enabling more research [...]
+The post Panel discussion: How libraries can support OA transitions of NFP publishers appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elsevier lobbying UKRI last minute over funder’s OA policy (paywall)]]></title>
+        <id>https://www.rluk.ac.uk/?p=10454</id>
+        <link href="https://www.researchprofessionalnews.com/rr-news-uk-open-access-2021-8-elsevier-lobbying-ukri-last-minute-over-funder-s-oa-policy/#new_tab"/>
+        <updated>2021-08-05T12:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Head of research libraries consortium “concerned” over move “undermining” consultations on open access The publishing company Elsevier has made an eleventh-hour push to see its agenda better reflected in the forthcoming strategy on open access, to be published by the UK’s research funding agency, UK Research and Innovation.
+The post Elsevier lobbying UKRI last minute over funder’s OA policy (paywall) appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helping small publishers help themselves, & libraries too – what institutions want to see in transformative OA proposals]]></title>
+        <id>https://www.rluk.ac.uk/?p=10447</id>
+        <link href="https://www.rluk.ac.uk/helping-small-publishers-help-themselves-and-libraries-too-what-institutions-want-to-see-in-transformative-oa-proposals/"/>
+        <updated>2021-08-05T11:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Earlier in the summer, Information Power published the report How to Enable Smaller Independent Publishers to Participate in OA Agreements. The report addresses some of the special challenges that smaller publishers face in terms of their lack of scale and the difficulties they can have in getting engagement with time-poor colleagues within libraries. We were [...]
+The post Helping small publishers help themselves, & libraries too – what institutions want to see in transformative OA proposals appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
         </author>
     </entry>
     <entry>
@@ -55,6 +323,161 @@ Continue reading "Jobs: Lecturer in Digital Innovation Management Education"]]><
         <summary type="html"><![CDATA[Wir freuen uns, dass sich mit romantistik.de eine weitere Initiative unserer Stellungnahme zur Befristungspraxis an Hochschulen und außeruniversitären Forschungseinrichtungen in…]]></summary>
         <author>
             <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New models out!]]></title>
+        <id>https://readcoop.eu/?p=26264</id>
+        <link href="https://readcoop.eu/new-models-out/"/>
+        <updated>2021-08-04T06:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Transkribus is happy to introduce new public models for Spanish and French. Álvaro Cuéllar of the ETSO “Estilometría aplicada al Teatro del Siglo de Oro” project  trained two models for theater manuscripts and theatre prints from the 17th and 18th century with the aim to modernize the spelling to the current rules. “The Spanish Golden […]
+The post New models out! appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cassandra   Hradil]]></title>
+        <id>1130 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/hradil-cassandra"/>
+        <updated>2021-08-03T18:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Digital Humanities Specialist
+
+
+
+Cassandra serves as a liaison between the Center for Research Data & Digital Scholarship in the library and the Price Lab for Digital Humanities. She specializes in managing and supporting digital projects across a wide range of media. In her own practice, Cassandra is an artist, designer, programmer, and scholar who balances the critical with the creative. Her research and design interests include archival information systems, decolonial mapping, queer interfaces, e-textiles, and feminist data visualization. She is a designer and developer at the Immersive Realities Lab for the Humanities, and she teaches part-time at Parsons School of Design. She has a bachelor’s degree in American Studies and Classics from Amherst College, where she also received the Five College Certificate in Native American and Indigenous Studies. She holds an MFA in Design and Technology from Parsons School of Design.
+
+
+Fellowship Date: 
+
+August, 2021]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jared   Farmer]]></title>
+        <id>1129 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/farmer-jared-0"/>
+        <updated>2021-08-03T18:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Professor and Chair of Graduate Studies, Department of History, University of Pennsylvania
+
+
+
+Jared Farmer is Professor and Chair of Graduate Studies, Department of History, University of Pennsylvania. An environmental historian, Farmer has temporal expertise in the long nineteenth century, and regional expertise in the North American West. He has received fellowships and grants from institutions such as ACLS, NEH, and the Sloan Foundation. His book On Zion’s Mount: Mormons, Indians, and the American Landscape (Harvard, 2008) won the Francis Parkman Prize from the Society of American Historians. In 2014, the Dallas Institute presented him the Hiett Prize in the Humanities; in 2017, the Carnegie Corporation of New York named him an Andrew Carnegie Fellow; and in 2018, the American Academy in Berlin awarded him a Berlin Prize. His forthcoming book is a place-based planetary history of ancient trees and the problem of long-term thinking. Since coming to Penn in 2020, Farmer has begun a teaching and research project, "Petrosylvania," on regional fossil fuel history.
+
+
+Fellowship Date: 
+
+September, 2021—August, 2022]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris   Mustazza]]></title>
+        <id>1128 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/mustazza-chris-0"/>
+        <updated>2021-08-03T17:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Co-Director, PennSound Archive; IT Director, Penn's School of Arts & Science
+
+
+
+Chris Mustazza is Co-Director of the PennSound Archive, IT Director in Penn's School of Arts & Sciences, and lecturer in English. His work focuses on experimental digital analyses of poetry recordings. He earned his Ph.D. from Penn's English department and a Master's in Computer and Information Technology from Penn's School of Engineering and Applied Sciences. His work has appeared or will in Digital Humanities Quarterly, boundary 2, and Oral Tradition, as well as in a number of edited volumes in English and in French. His current book manuscript is a history of the poetry audio archive and details the longstanding connection between poetry recordings and scientific labs meant for the study of dialects. He is a research fellow at the Linguistics Data Consortium.
+
+
+Fellowship Date: 
+
+September, 2021—August, 2022]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Member update – July 2021]]></title>
+        <id>https://www.rluk.ac.uk/?p=10437</id>
+        <link href="https://www.rluk.ac.uk/member-update-july-2021/"/>
+        <updated>2021-08-03T13:55:16.000Z</updated>
+        <summary type="html"><![CDATA[July update  Below is a brief summary of the main activities undertaken by the RLUK Executive in July 2021.     RLUK announcements  Report published: The role of academic and research libraries as active participants and leaders in the production of scholarly research Research Libraries UK is delighted to publish [...]
+The post Member update – July 2021 appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Transatlantic Digital Scholarship Skills Exchange for Research Libraries: Moving Forward]]></title>
+        <id>https://www.rluk.ac.uk/?p=10427</id>
+        <link href="https://www.rluk.ac.uk/building-a-transatlantic-digital-scholarship-skills-exchange-for-research-libraries-moving-forward/"/>
+        <updated>2021-08-03T11:00:14.000Z</updated>
+        <summary type="html"><![CDATA[There may be an ocean between the US and the UK, but in the age of Zoom, collaboration can transcend geographical boundaries. Research Libraries UK’s Digital Scholarship Network (DSN) and CLIR’s Digital Library Federation’s Data and Digital Scholarship (DDS) working group are continuing to foster a partnership aimed at building transatlantic collaborations and connections. The [...]
+The post Building a Transatlantic Digital Scholarship Skills Exchange for Research Libraries: Moving Forward appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J.D.   Porter]]></title>
+        <id>1127 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/porter-jd-0"/>
+        <updated>2021-08-02T19:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Digital Humanities Specialist
+
+
+
+J.D. Porter is a DH Project Specialist at the Price Lab. He received his PhD in English from Stanford University in 2017 and then worked as the Associate/Technical Director at the Stanford Literary Lab. He specializes in text mining, American modernism, and race and ethnicity theory, with occasional forays into jazz studies, network analysis, and ordinary language philosophy. His work has appeared in (or is slated to appear in) Episteme, Cultural Analytics, the pamphlet series of the Stanford Literary Lab, and the edited volumes Ralph Ellison in Context and The Cambridge Companion to the American Short Story.
+
+
+Fellowship Date: 
+
+September, 2021—August, 2022]]></summary>
+        <author>
+            <name>milinski@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laying the foundations of a modern city. Middle-classes/Bourgeoisie and entrepreneurship in early 20th century Esch-sur-Alzette (1900-1940)]]></title>
+        <id>3535 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/laying-foundations-modern-city-middle-classesbourgeoisie-and-entrepreneurship-early-20th"/>
+        <updated>2021-08-02T07:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Longtime associated with its working-class history, the ”Red Esch” was also composed of a diversified bourgeoisie, as well as of a thriving middle-class.
+This research attempts to provide for the first comprehensive class and cultural history, focusing exclusively on the middle-classes and bourgeoisie of early 20th century Esch-sur-Alzette.
+Who were the members of the middle and upper classes? Where did they come from? What were their professional occupations? Which space, whether social, commercial and residential did they occupy within the city? In which ways did they contribute to the urban development, improvement and embellishment of Esch-sur-Alzette?
+Through her presentation, Suzana Cascao  will introduce the audience to the work in progress, i.e, the ways in which she designed her research (including sources and methodology), conceptual issues, research questions, its limitations and goals.
+ 
+Wednesday, 15 September 2021
+14.00 - 15.00
+Online - Webex
+If you want to participate, please send an e-mail to vanessa.napolitano@uni.lu to receive the link.
+15 September 2021
+  Contemporary history of Luxembourg
+  Remixing Industrial Pasts in the Digital Age: Sounds, Images, Ecologies, Practices and Materialities in Space and Time
+  Cultural studies  Regional history
+  Research seminars
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New dataset – Politicians talking about COVID]]></title>
+        <id>http://wragge.micro.blog/2021/08/02/new-dataset-politicians.html</id>
+        <link href="https://updates.timsherratt.org/2021/08/02/new-dataset-politicians.html"/>
+        <updated>2021-08-02T00:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The Trove Journals section of the GLAM Workbench includes a notebook that helps you download press releases, speeches, and interview transcripts by Australian federal politicians. These documents are compiled and published by the Parliamentary Library, and the details are regularly harvested into Trove.
+Using this notebook, I’ve created a collection of documents that include the words ‘COVID’ or ‘Coronavirus’. It includes all the metadata from Trove, as well as the full text of each document downloaded from the Parliamentary Library. There’s 3,995 documents in total, covering the period up until early April 2021. You can download them all as a zip file (12 mb).
+
+While I was compiling this dataset, I also made a few improvements to the notebook. You can now filter the results to weed out false positives, and identify duplicates. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
@@ -174,6 +597,17 @@ Wir bitten die Umstände…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[International workshop: Histories of Maintenance and Repair]]></title>
+        <id>3533 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/international-workshop-histories-maintenance-and-repair"/>
+        <updated>2021-07-23T13:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Over the past fifteen years, maintenance and repair practices have gained increasing academic attention, but the literature in the fields of history and philosophy of technology, science and technology studies, sociology and anthropology of technology is still focused on invention and newness. Complementing recent calls for a history of technology-in-use (D. Edgerton), broken-world thinking (S. Jackson) and a history of technology “after innovation” (A. Russell & L. Vinsel), we are working on the first systematic historical investigation of repair and maintenance in a Western consumer society.
+In the spirit of chasing this turn, we have invited international scholars to present their own take on the histories of maintenance and repair. These range from considering the philosophical implica…]]></summary>
+        <author>
+            <name>Stefan Krebs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Job opportunity: Chief Archivist/Principal Information Scientist - Budapest]]></title>
         <id>1323 at https://eadh.org</id>
         <link href="https://eadh.org/news/2021/07/20/job-opportunity-chief-archivistprincipal-information-scientist-budapest"/>
@@ -193,6 +627,28 @@ Website: https://www.ceu.edu/job/chief-archivistprincipal-information-scientist-
 The Vera and Donald Blinken Open Society Archives (OSA) at Central European University (CEU) based primarily in Budapest but with teaching tasks in Vienna, Austria invites applications for the Chief Archivist/Principal Information Scientist position. Blinken OSA (www.osaarchivum.org), one of the most important Cold War and human rights archives in the world, is looking for a highly talented, innovative, socially committed and techno…]]></summary>
         <author>
             <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[King’s College London – Digital: some are more equal than others]]></title>
+        <id>https://www.rluk.ac.uk/?p=10306</id>
+        <link href="https://www.rluk.ac.uk/kings-college-london-digital-some-are-more-equal-than-others/"/>
+        <updated>2021-07-20T09:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Alongside every other university in the UK, King’s College London moved almost all our activities online as the national lockdown began in March 2020. For Libraries & Collections this involved a massive acceleration in our shift to digital collections, online support, e-learning and home working. While much of this work was already under way [...]
+The post King’s College London – Digital: some are more equal than others appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Christina Kamposiori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Study: Scholarship and Collections. Manchester Digital Collections]]></title>
+        <id>https://www.rluk.ac.uk/?p=10301</id>
+        <link href="https://www.rluk.ac.uk/case-study-scholarship-and-collections-manchester-digital-collections/"/>
+        <updated>2021-07-20T09:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Manchester Digital Collections (MDC) was launched in January 2020 with five sets of digitised materials from the world-class collections of the University of Manchester Library, Whitworth Gallery and Manchester Museum. We aimed to provide a platform of IIIF images and TEI metadata for researchers to share their work on collections and to encourage digital [...]
+The post Case Study: Scholarship and Collections. Manchester Digital Collections appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Christina Kamposiori</name>
         </author>
     </entry>
     <entry>
@@ -225,6 +681,18 @@ Bewerbungsfrist: 06.08.2021
 Die…]]></summary>
         <author>
             <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 million Trove tags to explore!]]></title>
+        <id>http://wragge.micro.blog/2021/07/14/million-trove-tags.html</id>
+        <link href="https://updates.timsherratt.org/2021/07/14/million-trove-tags.html"/>
+        <updated>2021-07-14T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve always been interested in the way people add value to resources in Trove. OCR correction tends to get all the attention, but Trove users have also been busy organising resources using tags, lists, and comments. I used to refer to tagging quite often in presentations, pointing to the different ways they were used. For example, ‘TBD’ is a workflow marker, used by text correctors to label articles that are ‘To Be Done’. My favourite was ‘LRRSA’, one of the most heavily-used tags across the whole of Trove. What does it mean? It stands for the Light Rail Research Society of Australia, and the tag is used by members to mark items of shared interest. It’s a great example of how something as simple as plain text tags can be used to support collaboration and build communities.
+
+Until its updat…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
@@ -367,6 +835,44 @@ DARIAH-DE Geo-…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mastering Latin Abbreviations and Hyphenations – The Bentham and DEEDS Projects]]></title>
+        <id>https://readcoop.eu/?p=24907</id>
+        <link href="https://readcoop.eu/mastering-latin-abbreviations-and-hyphenations-the-bentham-and-deeds-projects/"/>
+        <updated>2021-07-01T12:40:17.000Z</updated>
+        <summary type="html"><![CDATA[A collaboration between the Bentham Project of the University College London and the DEEDS (Documents of Early England Data Set) Project of the University of Toronto uses Transkribus for the transcription of an immense corpus of medieval charters from the 12th to the 15th century. The handwritten Latin of this period is very peculiar and […]
+The post Mastering Latin Abbreviations and Hyphenations – The Bentham and DEEDS Projects appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating GLAM Workbench news and discussion]]></title>
+        <id>http://wragge.micro.blog/2021/07/01/integrating-glam-workbench.html</id>
+        <link href="https://updates.timsherratt.org/2021/07/01/integrating-glam-workbench.html"/>
+        <updated>2021-07-01T05:18:41.000Z</updated>
+        <summary type="html"><![CDATA[I’ve spent a lot of time this year working on ways of improving the GLAM Workbench’s documentation and its integration with other services. Last year I created OzGLAM Help to provide a space where users of GLAM collections could ask questions and share discoveries – including a dedicated GLAM Workbench channel. Earlier this year, I tweaked my Micro.blog powered updates to include a dedicated GLAM Workbench news feed. Now I’ve brought the two together! What does this mean?
+Any GLAM Workbench news that I post to my updates feed is now automatically added to OzGLAM Help
+Links are automatically added to items in the news feed that let you add comments or questions in OzGLAM Help
+So now there’s two-way communication between the services providing more ways for people to discover and discuss how the GLAM Workbench can help them.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLAM Workbench now on YouTube!]]></title>
+        <id>http://wragge.micro.blog/2021/07/01/glam-workbench-now.html</id>
+        <link href="https://updates.timsherratt.org/2021/07/01/glam-workbench-now.html"/>
+        <updated>2021-07-01T04:51:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve started creating short videos to introduce or explain various components of the GLAM Workbench. The first video shows how you can visualise searches in Trove’s digitised newspapers using the latest version of QueryPic. It’s a useful introduction to the way access to collection data enables us to ask different types of questions of historical sources.
+
+
+As with all GLAM Workbench resources, the video is openly-licensed – so feel free to stop it into your own course materials or workshops. It could, for example, provide an interesting little digital methods task in an Australian history unit.
+I’ll be creating a second QueryPic video shortly, demonstrating how you can work with complex queries and differing timescales. Let me know if you find it useful, or if you have any ideas for future topics. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UCLDH research activity June 2021]]></title>
         <id>https://blogs.ucl.ac.uk/dh/?p=8192</id>
         <link href="https://blogs.ucl.ac.uk/dh/2021/06/30/ucldh-research-june21/"/>
@@ -374,6 +880,40 @@ DARIAH-DE Geo-…]]></summary>
         <summary type="html"><![CDATA[The UCLDH team have been busy as ever, despite continuing COVID-19 restrictions. Here’s just a few examples of recent activity: Adam Crymble has published a monograph, Technology & the Historian: Transformations in the Digital Age (University of Illinois press, 2021) and a co-authored piece with Maria José Afanador-Llach (‘The Globally Unequal Promise of Digital Tools […]]]></summary>
         <author>
             <name>Lucy Stagg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zwangssoldaten, Malgré-Nous, Zwangsrekrutéiert? - Terms, Numbers and Statistics]]></title>
+        <id>3510 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/zwangssoldaten-malgre-nous-zwangsrekruteiert-terms-numbers-and-statistics"/>
+        <updated>2021-06-30T09:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Zwangssoldaten, Malgré-Nous, Zwangsrekrutéiert – three regions, three terms, one fate? After the German invasion of its western neighbours, France, the Netherlands, Belgium and Luxembourg in 1940, the border regions reaching from Eastern Belgium over Luxembourg to Alsace-Lorraine were seen by the Third Reich as lost German territories that needed reintegration into the Reich. One part of that reintegration policy was recruiting the local female and male youth into German labour services and armed forces.
+This workshop will present the recruitments in each of these areas and focus on their historical similarities and differences. Further,  it will analyse the etymology and the legal aspect of the different terms describing the recruits. The workshop’s emphasis is on the quantitative analysis of contemporary sources. How can certain sources for example help researchers to challenge persisting narratives and statistics, in order to give a clearer view of the numbers, the recruitment processes and the war experiences within Eastern Belgium, Alsace-Lorraine and Luxembourg?
+ 
+Thursday, 14 October 2021
+10.00 - 17.30
+Hybrid event
+Maison Sciences Humaines, 11 Portes des Sciences, 4365 Esch/Alzette
+If you wish to particpate in-person, please contact us at warlux@uni.lu before 30 September 2021. Places are limited due to health regulations.
+and
+Online via Webex
+
+
+
+Please register via Eventbrite to join the workshop online.
+Languages: German, French and English
+We will welcome speakers from Belgium, France, Germany and Luxembourg,
+ 
+For more information on the WARLUX-project, please have a look on our website and research blog https://digiwarhist.hypotheses.org.
+14 October 2021
+  Contemporary history of Luxembourg
+  WARLUX - Soldiers and their communities in WWII: The impact and legacy of war experiences in Luxembourg
+  Border studies  WW2
+  Conferences
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>
@@ -407,6 +947,31 @@ DARIAH-DE Geo-…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GLAM Workbench office hours]]></title>
+        <id>http://wragge.micro.blog/2021/06/28/glam-workbench-office.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/28/glam-workbench-office.html"/>
+        <updated>2021-06-28T04:04:56.000Z</updated>
+        <summary type="html"><![CDATA[To help you make use of the GLAM Workbench, I’ve set up an ‘office hours’ time slot every Friday when people can book in for 30 minute chats via Zoom. Want to talk about how you might use the GLAM Workbench in your latest research project? Are you having trouble getting started with GLAM data? Or perhaps you have some ideas for future notebooks you’d like to share? Just click on the ‘Book a chat’ link in the GLAM Workbench, or head straight to the scheduling page to set up a time!
+
+This is yet another experiment to see how I can support the use of GLAM data and the development of digital skills with the GLAM Workbench. Let me know if you think it’s worthwhile. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Missing Links’ – new open access article!]]></title>
+        <id>http://wragge.micro.blog/2021/06/28/missing-links-new.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/28/missing-links-new.html"/>
+        <updated>2021-06-28T03:08:10.000Z</updated>
+        <summary type="html"><![CDATA[An article written by Kate Bagnall and me has just been published in a special issue of the Journal of World History focusing on digital history. And it’s open access!
+The article is ‘Missing Links: Data Stories from the Archive of British Settler Colonial Citizenship’. In it we document our efforts to assemble a number of different datasets relating to naturalization. Here’s the abstract:
+Digitized sources and digital methods are changing the way that we do history. For historians of the British Empire, the digital age offers new possibilities for investigating the lives of those who moved around the empire and across the world. However, much discussion of the possibilities and problems of digital history have focused on the creation and use of full text resources, skipping over the analytical opportunities offered by the descriptive systems in which those texts are embedded. This article is an attempt to fill this gap by documenting a journey through archival data relating to nineteenth-century Chinese naturalization in the Pacific Rim settler colonies of Australia, New Zealand, and Canada. We argue that such data stories are critical if we are to understand both possibilities and pitfalls of research in digital collections.
+There’s also an GitHub repository with code and data related to the article.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ihre User-Experience ist gefragt! (remote)]]></title>
         <id>node/691</id>
         <link href="https://dig-hum.de/aktuelles/ihre-user-experience-ist-gefragt-remote"/>
@@ -425,6 +990,42 @@ DARIAH-DE Geo-…]]></summary>
 Die 8…]]></summary>
         <author>
             <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neue Perspektiven auf die Geschichte des Bergbaus an der Saar (Werkstattbericht)]]></title>
+        <id>3501 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/neue-perspektiven-auf-die-geschichte-des-bergbaus-der-saar-werkstattbericht"/>
+        <updated>2021-06-24T11:38:16.000Z</updated>
+        <summary type="html"><![CDATA[The REMIX lecture series accompanies the C²DH based research project “Remixing Industrial Pasts in the Digital Age”. The project explores the history of cultures, populations and territories of the Minett region and will be a sustainable contribution to the “European Capital of Culture Esch 2022” programme. The project is funded by Esch2022 ASBL.
+Since the REMIX/Esch2022 project thematically includes the neighbouring regions in a comparative and transregional perspective, this lecture is dedicated to the mining history of the Saar region.
+On 6 July, Birgit Metzger will give a lecture on Neue Perspektiven auf die Geschichte des Bergbaus an der Saar (Werkstattbericht) [New perspectives on the history of mining in the Saar (workshop report)]. As a social figure, the miner is deeply anchored i…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The Romanticism of Hell'. Environmental History of the Saar-region in the 19th-century]]></title>
+        <id>3500 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/romanticism-hell-environmental-history-saar-region-19th-century"/>
+        <updated>2021-06-24T11:24:07.000Z</updated>
+        <summary type="html"><![CDATA[The REMIX lecture series accompanies the C²DH based research project “Remixing Industrial Pasts in the Digital Age”. The project explores the history of cultures, populations and territories of the Minett region and will be a sustainable contribution to the “European Capital of Culture Esch 2022” programme. The project is funded by Esch2022 ASBL.
+Since the REMIX/Esch2022 project thematically includes the neighbouring regions in a comparative and transregional perspective, this lecture is dedicated to the environmental history of the Saar region.
+On 29 June,  Markus Lay will present “The Romanticism of Hell”. Environmental History of the Saar-region in the 19th-century. In Imperial Germany, the industrial region along the Saar-River was the third most important of its kind. Surprisingly, there are not many papers to be found about its environmental history, despite an abundance of source material. The lecture will focus on the relatively new field of environmental justice and present case studies of environmental conflicts.
+Markus Lay is office manager of Saarland’s historical commission and was fellow of the Hans-Blöcker-Foundation. His dissertational work focuses on the environmental history of the region during industrialisation. The “work-in-progress” is planned to be presented on umweltgeschichte.net as a Digital Public History project. In his Masters thesis he concentrated on Apiarian Societies and the spreading of apicultural innovations during the 18th and 19th century in Europe.
+ 
+Tuesday, 29 June 2021
+17.00 - 18.30 on Webex
+To receive the link to this online event, please send an e-mail to Werner Tschacher (werner.tschacher@uni.lu).
+29 June 2021
+  Public history
+  Remixing Industrial Pasts in the Digital Age: Sounds, Images, Ecologies, Practices and Materialities in Space and Time
+  Industrial history  Regional history
+  Conferences
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>
@@ -525,6 +1126,33 @@ Continue reading "Visiting Professor David Berry on Explainability and Interpret
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[QueryPic: The Next Generation]]></title>
+        <id>http://wragge.micro.blog/2021/06/21/querypic-the-next.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/21/querypic-the-next.html"/>
+        <updated>2021-06-21T00:50:19.000Z</updated>
+        <summary type="html"><![CDATA[QueryPic is a tool to visualise searches in Trove’s digitised newspapers. I created the first version way back in 2011, and since then it’s taken a number of different forms. The latest version introduces some new features:
+Automatic query creation – construct your search in the Trove web interface, then just copy and paste the url into QueryPic. This means you can take advantage of Trove’s advanced search and facets to build complex queries.
+Multiple time scales – previous versions only aggregated search results by year, but now you can also aggregate by month, or by day. QueryPic will automatically choose a time unit based on the date range of your query, but if you’re not happy with the result you can change it!
+Links back to Trove – click on any of the points on the chart to search Trove within that time period. This enables you to zoom in and out of your results, from the high-level visualisation, to individual articles.
+
+This version of QueryPic is built within a Jupyter notebook, and designed to run using Voila (which hides all the code and makes the notebook look like a web app). See the Trove Newspapers section of the GLAM Workbench for more information. If you’d like to give it a try, just click the button below to run it live using Binder.
+
+Hope you find it useful! #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone gets a Lab!]]></title>
+        <id>http://wragge.micro.blog/2021/06/21/everyone-gets-a.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/21/everyone-gets-a.html"/>
+        <updated>2021-06-21T00:00:30.000Z</updated>
+        <summary type="html"><![CDATA[I recently took part in a panel at the IIPC Web Archiving Conference discussing ‘Research use of web archives: a Labs approach’. My fellow panellists described some amazing stuff going on in European cultural heritage organisations to support researchers who want to make use of web archives. My ‘lab’ doesn’t have a physical presence, or an institutional home, but it does provide a starting point for researchers, and with the latest Reclaim Cloud and Docker integrations, everyone can have their own web archives lab! Here’s my 8 minute video. The slides are available here.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stellenangebot: WMA im Projekt Burchards Dekret Digital (Mainz, 50%, EG 13 TV-L)]]></title>
         <id>node/689</id>
         <link href="https://dig-hum.de/aktuelles/stellenangebot-wma-im-projekt-burchards-dekret-digital-mainz-50-eg-13-tv-l"/>
@@ -567,6 +1195,17 @@ Continue reading "New ERC Project Exploring the Intersection between Surveillanc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Luxembourg: from steel to the knowledge economy and beyond]]></title>
+        <id>3472 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/luxembourg-steel-knowledge-economy-and-beyond"/>
+        <updated>2021-06-15T11:13:24.000Z</updated>
+        <summary type="html"><![CDATA[To reflect on the history of the Luxembourg economy and sketch out future scenarios, the Europe Direct Information Centre (EDIC) at the University of Luxembourg and its partners, the Luxembourg Institute of Socio-Economic Research (LISER) and the Luxembourg national innovation agency Luxinnovation, are pleased to invite you to the online webinar “Luxembourg: from steel to the knowledge economy and beyond”.
+Despite its small size in terms of geography (2,586km2) and population (626,100 people on 1 January 2020), Luxembourg has an open, dynamic, innovative economy that is one of the most successful at international level – in 2019 its GDP per capita was 261% the European average and its growth rate was the third highest of the EU’s then 28 Member States – and also one of the least affected b…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[#CfP LaTeCH-CLfL 2021]]></title>
         <id>1316 at https://eadh.org</id>
         <link href="https://eadh.org/news/2021/06/14/cfp-latech-clfl-2021"/>
@@ -587,6 +1226,105 @@ Organisers: Stefania Degaetano-Ortlieb, Anna Kazantseva, Nils Reiter, Stan Szpak
 LaTeCH-CLfL 2021 is the fifth in a series of meetings for NLP researchers who work with data from the broadly understood arts, humanities and social sciences, and for specialists in those disciplines who apply NLP techniques in their work. The workshop continues a long tradition of annual meetings. The SIGHUM Workshops on Language Technology for Cultural Her…]]></summary>
         <author>
             <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Representation of Borders in Industrial Films on the Saarland’s Heavy Industry (1931-2019)]]></title>
+        <id>3470 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/representation-borders-industrial-films-saarlands-heavy-industry-1931-2019"/>
+        <updated>2021-06-14T11:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Industrial films are a valuable resource for research in the field of cultural studies as they are both mediator and part of industrial culture. In the Saarland, as well as in the Greater Region as a whole, many industrial films were created throughout the last century. The industries treated include but are not limited to glass and porcelain manufacturing, brewing and viticulture as well as the iron, steel and coal industry. Looking at borders, this talk will focus on the heavy industries, in which geographical border crossings are rendered obligatory by ore and coal basins extending over national borders. However, geographical borders are only one of many types of borders which play an important role in the context of the heavy industry and are represented in respective industrial films.…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minor change to Reclaim Cloud config]]></title>
+        <id>http://wragge.micro.blog/2021/06/14/minor-change-to.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/14/minor-change-to.html"/>
+        <updated>2021-06-14T04:44:00.000Z</updated>
+        <summary type="html"><![CDATA[When the 1-click installer for Reclaim Cloud works its magic and turns GLAM Workbench repositories into your own, personal digital labs, it creates a new work directory mounted inside of your main Jupyter directory. This new directory is independent of the Docker image used to run Jupyter, so it’s a handy place to copy things if you ever want to update the Docker image. However, I just realised that there was a permissions problem with the work directory which meant you couldn’t write files to it from within Jupyter.
+To fix the problem, I’ve added an extra line to the reclaim-manifest.jps config file to make the Jupyter user the owner of the work directory:
+	- cmd[cp]: chown -R jovyan:jovyan /home/jovyan/work
+
+This takes care of any new installations. If you have an existing installation, you can either just create a completely new environment using the updated config, or you can manually change the permissions:
+Hover over the name of your environment in the control panel to display the option buttons.
+Click on the Settings button. A new box will open at the bottom of the control panel with all the settings options.
+Click on ‘SSH Access’ in the left hand menu of the settings box.
+Click on the ‘SSH Connection’ tab.
+Under ‘Web SSH’ click on the Connect button and select the default node.
+A terminal session will open. At the command line enter the following:
+	chown -R jovyan:jovyan /home/jovyan/work
+
+
+
+
+Done! See the Using Reclaim Cloud section of the GLAM Workbench for more information.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preprint! The limits and affordances of online collections]]></title>
+        <id>http://wragge.micro.blog/2021/06/14/preprint-the-limits.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/14/preprint-the-limits.html"/>
+        <updated>2021-06-14T03:13:45.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been working on an essay for publication in a forthcoming edited collection. I wanted to explore how the practice of history in Australia had been changed by GLAM organisations making their collections available online – both the new possibilities that had emerged, and the problems that remained. In the end I focused on three areas – discovery, digitisation, and research infrastructure. If you’re interested, I’ve shared a preprint on Zenodo.
+Here’s a taste:
+Just twenty years ago, historical research often entailed long hours spent at a microfilm reader, browsing newspaper after newspaper in the hope of finding something relevant. The changes wrought by Trove, and other digital collections, seem revolutionary, but as with all revolutions there have been gains and losses. Alongside the wonders wrought by digitisation, this chapter has tried to highlight some of the paths not taken. The online resources we now use daily are not simply the products of technology – priorities have been set, funding has been distributed, decisions made about what to include and what to leave out. Cultural heritage collections are not just put online, they are placed within specific contexts of discovery and use. Each object, each version, each interface comes with a set of limitations and affordances that together determine what is possible. We do not know yet how these decisions will shape the sorts of histories that we write.
+I enjoyed reminding myself about some early digital initiatives in the GLAM sector, but as is usual with these sorts of projects, I had to leave a lot out. It’s made me think about developing a larger project documenting our gains and losses.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trove Query Parser]]></title>
+        <id>http://wragge.micro.blog/2021/06/14/trove-query-parser.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/14/trove-query-parser.html"/>
+        <updated>2021-06-14T02:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a new little Python package that you might find useful. It simply takes a search url from Trove’s Newspapers & Gazettes category and converts it into a set of parameters that you can use to request data from the Trove API. While some parameters are used both in the web interface and the API, there are a lot of variations – this package means you don’t have to keep track of all the differences!
+It’s very simple to use.
+
+The code for the parser has been basically lifted from the Trove Newspaper Harvester. I wanted to separate it out so that I could use it at various spots in the GLAM Workbench and in other projects.
+This package, the documentation, and the tests were all created using nbdev, which is really quite a fun way to develop Python packages. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some GLAM Workbench stats]]></title>
+        <id>http://wragge.micro.blog/2021/06/13/some-glam-workbench.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/13/some-glam-workbench.html"/>
+        <updated>2021-06-13T08:01:23.000Z</updated>
+        <summary type="html"><![CDATA[I deliberately don’t keep any stats about GLAM Workbench visits, because I think they’re pretty meaningless. On the other hand, I’m always interested to see how often GLAM Workbench repositories are launched on Binder. Rather than just random clicks, these numbers represent the number of times users started new computing sessions using the GLAM Workbench. I just compiled these stats for the past year, and I was very pleased to see that the Web Archives section has been launched over 1,000 times in the past twelve months! The Trove Newspapers and Trove Newspaper Harvester repositories are also well used – on average these are both being launched more than once a day.
+
+The GLAM Workbench is never going to attract massive numbers of users – it’s all about being there when a researcher needs help to use GLAM collections. One or two launches per day means one or two researchers from somewhere around the world are able to explore new datasets, or ask new questions. I think that’s pretty important.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Reclaim Cloud integrations!]]></title>
+        <id>http://wragge.micro.blog/2021/06/13/more-reclaim-cloud.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/13/more-reclaim-cloud.html"/>
+        <updated>2021-06-13T07:28:12.000Z</updated>
+        <summary type="html"><![CDATA[Five of the GLAM Workbench repositories now have automatically built Docker images and 1-click integration with Reclaim Cloud – ANU Archives, Trove Newspapers, Trove Newspaper Harvester, NAA RecordSearch, & Web Archives.
+
+This means you can launch your very own version of these GLAM Workbench repositories in the cloud, where all your downloads and experiments will be saved! Find out more on the Using Reclaim Cloud page.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get your GLAM datasets here!]]></title>
+        <id>http://wragge.micro.blog/2021/06/13/get-your-glam.html</id>
+        <link href="https://updates.timsherratt.org/2021/06/13/get-your-glam.html"/>
+        <updated>2021-06-13T07:12:37.000Z</updated>
+        <summary type="html"><![CDATA[I’ve updated my harvest of Australian GLAM datasets from state/national government open data portals. There’s now 387 datasets, containing 1049 files (including 684 CSVs). There’s a list if you want to browse, and a CSV file if you want to download all the metadata. For more more information see the data portals section of the GLAM Workbench.
+
+If you’re interested in finding out what’s inside all those 684 CVS files, take the GLAM CSV Explorer for a spin! It’s also been given a refresh, with new data and a new interface. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
@@ -654,6 +1392,51 @@ Applicants should be experienced researchers in the field of German and/or trans
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[To Kill and To be Killed: Charting Artistic Change in the Aegean Bronze Age]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=7877</id>
+        <link href="https://sites.temple.edu/tudsc/2021/06/02/to-kill-and-to-be-killed-charting-artistic-change-in-the-aegean-bronze-age/"/>
+        <updated>2021-06-02T17:14:17.000Z</updated>
+        <summary type="html"><![CDATA[By Tenninger Kellenbarger Introduction: As an art historian, I am examining and evaluating the use of the smiting pose in the Aegean Bronze Age while also investigating and tracing the roots of...
+The post To Kill and To be Killed: Charting Artistic Change in the Aegean Bronze Age appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
+        <author>
+            <name>Tenninger Kellenbarger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superstate or Tool of Nations? Rethinking the History of European Union]]></title>
+        <id>3460 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/superstate-or-tool-nations-rethinking-history-european-union"/>
+        <updated>2021-06-02T11:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Today it often appears as though the European Union has entered existential crisis after decades of success, condemned by its adversaries as a bureaucratic monster eroding national sovereignty: at best wasteful, at worst dangerous. How did we reach this point and how has European integration impacted on ordinary people's lives - not just in the member states, but also beyond? This talk will present some of my recent book's findings on the history of the EU.
+Kiran Klaus Patel holds the Chair of European History at Ludwig-Maximilians-Universität Munich and is a fellow of the Royal Historical Society. Before joining LMU, he held chairs at Maastricht University (2011-2019) and European University Institute (2007-2011). His book The New Deal: A Global History (Princeton University Press, 2016) won the World History Association Bentley Book Prize. His latest publication Project Europe: A History was published with Cambridge University Press in 2020. His teaching and research focus on issues of European and US American history. Comparative, transnational and global approaches feature prominently in his work
+ 
+Tuesday, 15 June 2021
+starting at 5:00 PM CET
+Online - Webex
+ 
+For the Webex link please contact Adelina Stefan at oana.stefan@uni.lu.
+15 June 2021
+  Contemporary history of Europe
+  European infrastructures  European integration
+  Conferences
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Institutional use of HTR: Your experience with Transkribus]]></title>
+        <id>https://readcoop.eu/?p=24438</id>
+        <link href="https://readcoop.eu/understanding-institutional-use-of-htr-your-experience-with-transkribus/"/>
+        <updated>2021-05-31T09:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Help us to understand the institutional use of HTR: Joe Nockels is working on this project for his PHD (a Scottish Graduate School of Arts and Humanities (SGSAH) funded PhD). He aims to identify how to incorporate the use of Handwritten Text Recognition (HTR) at scale, working in collaboration with the National Library of Scotland […]
+The post Understanding Institutional use of HTR: Your experience with Transkribus appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RECAP: Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza]]></title>
         <id>https://judaicadh.github.io//blog/2021-05-31-scribes-recap/</id>
         <link href="https://judaicadh.github.io//blog/2021-05-31-scribes-recap/"/>
@@ -702,6 +1485,18 @@ Continue reading "“Infrastructural Interventions”: Digital Humanities & Crit
         <summary type="html"><![CDATA[Tomorrow will be the final instalment of this academic year’s DH Virtual Discussion Groups for Early Career Researchers working in Belgium. The topic of tomorrow’s discussion will be lightning pitches from researchers in our community who will be giving long-form presentations at DH Benelux 2021. While DH Benelux is hosted by the University of Leiden this year, it will be happening entirely online from 2 – 4 June 2021 (a.k.a. next week!). You can register for tomorrow’s discussion session, which will take place on […]]]></summary>
         <author>
             <name>Merisa Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different Cultures in Digital History]]></title>
+        <id>3425 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/different-cultures-digital-history"/>
+        <updated>2021-05-26T13:10:32.000Z</updated>
+        <summary type="html"><![CDATA[International Round Table: “Different Cultures in Digital History”
+8 June 2021 at 2.30pm (CEST), online
+The aim of the round table is to bring together specialists in digital history and experts who use digital tools in historical research and education. History as an academic field is undergoing major changes as a result of the transformative impact of digital technologies. These technologies affect the very nature of sources, the practice of data collection and processing, and also the way in which historical knowledge is acquired and disseminated. The task of defining “digital history” has given rise to much debate and discussion, but developing an understanding of the field and the wide-ranging potential for interaction between history and digital technologies can offer insights into t…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>
@@ -780,6 +1575,43 @@ Learn more about registration details and see the full schedule of events here. 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NAA RecordSearch section of the GLAM Workbench updated!]]></title>
+        <id>http://wragge.micro.blog/2021/05/24/naa-recordsearch-section.html</id>
+        <link href="https://updates.timsherratt.org/2021/05/24/naa-recordsearch-section.html"/>
+        <updated>2021-05-24T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[If you work with the collections of the National Archives of Australia, you might find the RecordSearch section of the GLAM Workbench helpful. I’ve just updated the repository to add new options for running the notebooks, including 1-click installation on Reclaim Cloud. There’s also a few new notebooks.
+New notebooks and datasets
+Harvest details of all series in RecordSearch – get details of all series registered in RecordSearch, also generates a summary dataset with the total number of items digitised, described and in each access category
+Exploring harvested series data  – generates some basic statistics from the harvest of series data
+Summary data about all series in RecordSearch  (15mb CSV) – contains basic descriptive information about all the series currently registered on RecordSearch (May 2021) as well as the total number of items described, digitised, and in each access category
+
+Updated
+I’ve started (but not completed) updating all the notebooks in this repository to use my new RecordSearch Data Scraper. The new scraper is simpler and more efficient, and enables me to get rid of a lot of boilerplate code. Updated notebooks include:
+Harvest items from a search in RecordSearch – save the results of an item search in RecordSearch as a downloadable dataset, you can also save images and PDFs from digitised files (PDF saving is new!)
+Harvest files with the access status of ‘closed’ – find out what we’re not allowed to see by harvesting details of ‘closed’ files
+Other updates include:
+Python packages updated
+Integration with Reclaim Cloud allowing 1-click installation of the whole repository and environment
+Automatic creation of Docker images when the repository is updated
+Updated README and repository index with list of all notebooks
+Notebooks intended to run as apps now use Voila rather than Appmode for better integration with Jupyter Lab
+requirements-unpinned.txt added to repository for people who want to develop the notebooks in their own clean environment
+Hope you find these changes useful! #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digitising Industrial Heritage]]></title>
+        <id>3418 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/digitising-industrial-heritage"/>
+        <updated>2021-05-21T06:00:18.000Z</updated>
+        <summary type="html"><![CDATA[The legacy of industrialisation has resulted in “place[s] longing for historical self-assurance” (Achim Saupe). The current focus on industrial heritage has resulted in efforts to preserve and reconstruct this heritage in its original state. This applies not only to the memory of former workplaces, homes and recreation areas in post-industrial places, but also to the biographies of entrepreneurs, industrial workers and their families. The preservation and musealisation of former industrial landscapes raise further questions about the authenticity of such places. Public history, and with it the representation of the industrial past in museums, exhibitions and events, is situated between “original” representation and recreated staging. Furthermore, and this has been accelerated by the COVID-…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Join us for an (en)coding Heritage Seminar Series!]]></title>
         <id>1308 at https://eadh.org</id>
         <link href="https://eadh.org/news/2021/05/18/join-us-encoding-heritage-seminar-series"/>
@@ -830,6 +1662,45 @@ Continue reading "New Book: ’Yesterday’s News: The Future of Long-form Journ
         <summary type="html"><![CDATA[Introduction: Digital Literary Studies has long engaged with the challenges in representing ambiguity, contradiction and polyvocal readings of literary texts. This book chapter describes a web-based tool called CATMA which  promises a "low-threshold" approach to digitally encoded text interpretation. CATMA has a long trajectory based on a 'standoff' approach to markup, somewhat provocatively described by its creators as "undogmatic", which stands in contrast to more established systems for text representation in digital scholarly editing and publishing such as XML markup, or the Text Encoding Initiative (TEI). Standoff markup involves applying numbers to each character of a text and then using those numbers as identifiers to store interpretation externally. This approach allows for "multip…]]></summary>
         <author>
             <name>Author on Source</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web archives section of GLAM Workbench updated!]]></title>
+        <id>http://wragge.micro.blog/2021/05/17/web-archives-section.html</id>
+        <link href="https://updates.timsherratt.org/2021/05/17/web-archives-section.html"/>
+        <updated>2021-05-17T02:22:00.000Z</updated>
+        <summary type="html"><![CDATA[My program of rolling out new features and integrations across the GLAM Workbench continues. The latest section to be updated is the Web Archives section!
+There are no new notebooks with this update, but some important changes under the hood. If you haven’t used it before, the Web Archives section contains 16 notebooks providing documentation, tools, apps, and examples to help you make use of web archives in your research. The notebooks are grouped by the following topics: Types of data, Harvesting data and creating datasets, and Exploring change over time.
+
+I’ve updated all the Python packages used in this repository and changed the app-ified notebooks to run using Voila (which is better integrated with Jupyter Lab than Appmode). But most importantly, you can now install the repository into your own persistent environment using Reclaim Cloud or Docker.
+As Christie Moffatt noted recently harvesting data from web archives can take a long time, and you might hit the limits of the free Binder service. These new integrations mean you don’t have to worry about your notebooks timing out. Just click on the Launch on Reclaim Cloud button and you can have your own fully-provisioned, persistent environment up and running in minutes!
+
+This is possible because every change to the Web Archives repository now triggers the build of a new Docker image with all the software that you need pre-installed. You can also run this Docker image on your own computer, or using another cloud service.
+The Web Archives section now includes documentation on running the notebooks using Binder, Reclaim, Cloud or Docker. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Mapping to Explore Black Philadelphia’s Historic Landmarks]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=7901</id>
+        <link href="https://sites.temple.edu/tudsc/2021/05/14/digital-mapping-to-explore-black-philadelphias-historic-landmarks/"/>
+        <updated>2021-05-14T23:27:24.000Z</updated>
+        <summary type="html"><![CDATA[By Tauheedah Asad Introduction As a media and communications doctoral student, I have an interest in exploring how digital tools can be utilized to make research and information accessible to mass audiences....
+The post Digital Mapping to Explore Black Philadelphia’s Historic Landmarks appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
+        <author>
+            <name>Tauheedah Asad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using GIS to Map Settler Colonialism in Pennsylvania]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=7867</id>
+        <link href="https://sites.temple.edu/tudsc/2021/05/14/using-gis-to-map-settler-colonialism-in-pennsylvania/"/>
+        <updated>2021-05-14T17:08:10.000Z</updated>
+        <summary type="html"><![CDATA[By Ryan Wheatley In this blog post, I will detail my digital project to create a historic GIS landscape map focusing on the expansion of British and later American settlements (1680-1900’s) across...
+The post Using GIS to Map Settler Colonialism in Pennsylvania appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
+        <author>
+            <name>Ryan Wheatley</name>
         </author>
     </entry>
     <entry>
@@ -899,6 +1770,24 @@ ADHO is a formal alliance of independent Digital Humanities (DH) organizations t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using web archives to find out when newspapers were added to Trove]]></title>
+        <id>http://wragge.micro.blog/2021/05/12/using-web-archives.html</id>
+        <link href="https://updates.timsherratt.org/2021/05/12/using-web-archives.html"/>
+        <updated>2021-05-12T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s no doubt that Trove’s digitised newspapers have had a significant impact on the practice of history in Australia. But analysing that impact is difficult when Trove itself is always changing – more newspapers and articles are being added all the time.
+In an attempt to chart the development of Trove, I’ve created a dataset that shows (approximately) when particular newspaper titles were first added. This gives a rough snapshot of what Trove contained at any point in the last 12 years.
+
+I say approximately because the only public source of this information are web archives like the Internet Archive’s Wayback Machine and Trove itself. By downloading captures of Trove’s browse page, I was able to extract a list of newspaper titles available when that capture was made. Depending on the frequency of captures, the titles may have been first made available some time earlier.
+The method I used to create the dataset is documented in the Trove Newspapers section of the GLAM Workbench. I used the Internet Archive as my source rather than Trove just because there were more captures available. Most of the code I could conveniently copy from the Web Archives section of the GLAM Workbench, in particular the Find all the archived versions of a particular web page notebook.
+The result was actually two datasets:
+trove_newspaper_titles_2009_2021.csv  – complete dataset of captures and titles
+trove_newspaper_titles_first_appearance_2009_2021.csv  – filtered dataset, showing only the first appearance of each title / place / date range combination
+There’s also an alphabetical list of newspaper titles for easy browsing. The list shows the date of the capture in which the title was first recorded, as well as any changes to its date range. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Novels in distant reading: the European Literary Text Collection (ELTeC).]]></title>
         <id>http://openmethods.dariah.eu/?p=2967</id>
         <link href="https://openmethods.dariah.eu/2021/05/11/novels-in-distant-reading-the-european-literary-text-collection-eltec/"/>
@@ -908,6 +1797,17 @@ ADHO is a formal alliance of independent Digital Humanities (DH) organizations t
 [Click ‘Read more’ for the full post!]]]></summary>
         <author>
             <name>Marinella Testori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supporting Future Scholars: The Transkribus Scholarship Programme]]></title>
+        <id>https://readcoop.eu/?p=23690</id>
+        <link href="https://readcoop.eu/supporting-future-scholars-the-transkribus-scholarship-programme/"/>
+        <updated>2021-05-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you are a student who wants to dive into the personal story of one of the few famous child authors in history; or who wants to discover what made the authors of the Spanish Golden Age of theatre tick; or you are a teacher who wants to help the future generation in the digital […]
+The post Supporting Future Scholars: The Transkribus Scholarship Programme appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
         </author>
     </entry>
     <entry>
@@ -1020,6 +1920,28 @@ Continue reading "Marking work available at KCL in digital media & technology + 
         <summary type="html"><![CDATA[The 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022) will be held at Uppsala University, in Sweden, on 15–18 March 2022. DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond. DHNB 2022 highlights the two way relationship between digital humanities […]]]></summary>
         <author>
             <name>Olga Holownia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a 3D Map of an Archaeological Site in Blender]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=7760</id>
+        <link href="https://sites.temple.edu/tudsc/2021/04/03/creating-a-3d-map-of-an-archaeological-site-in-blender/"/>
+        <updated>2021-04-03T23:57:31.000Z</updated>
+        <summary type="html"><![CDATA[By Elysia Petras In this blog post I explore the potential of using the 3D modeling open source software Blender for historical archaeological research. I will detail how creating a 3D map...
+The post Creating a 3D Map of an Archaeological Site in Blender appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
+        <author>
+            <name>Elysia Petras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transkribus at the municipal archive of the city of Bautzen]]></title>
+        <id>https://readcoop.eu/?p=21819</id>
+        <link href="https://readcoop.eu/transkribus-at-the-municipal-archive-of-the-city-of-bautzen/"/>
+        <updated>2021-04-02T08:38:32.000Z</updated>
+        <summary type="html"><![CDATA[The municipal archive of the city of Bautzen holds an extensive record of official administration from the 13th century to the present day. Council minutes are part of the main archive collections of the city archive and were almost completely digitized in 2019/2020. They can be accessed online via the Findbuch.net-platform (https://www.archivverbund-bautzen.findbuch.net/php/main.php#3632313030). However, the statistics […]
+The post Transkribus at the municipal archive of the city of Bautzen appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Johanna Walcher</name>
         </author>
     </entry>
     <entry>
@@ -1143,6 +2065,17 @@ Thanks to the tireless nights-and-weeken…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Behavioral Measures of Presence: Designing a VR Application]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=7699</id>
+        <link href="https://sites.temple.edu/tudsc/2021/03/23/behavioral-measures-of-presence-designing-a-vr-application/"/>
+        <updated>2021-03-23T13:53:56.000Z</updated>
+        <summary type="html"><![CDATA[By Eugene Kukshinov Introduction As a part of my digital project at the Scholars studio, I am working with Dr. W. Geoffrey Wright, the director of the Motion-Action-Perception Laboratory, or MAP lab,...
+The post Behavioral Measures of Presence: Designing a VR Application appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
+        <author>
+            <name>Evgeny Kukshinov</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Job Alert: Information Specialist – Digital Scholarship in the Humanities at Artes]]></title>
         <id>http://dhcommons.hypotheses.org/?p=736</id>
         <link href="https://dhcommons.hypotheses.org/736"/>
@@ -1195,6 +2128,17 @@ In 2021, Communications Fellows will contribute to the development of a new mult
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using Historical GIS to Discover the Spatial and Temporal Trends of the Construction of Temples in Fujian]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=7615</id>
+        <link href="https://sites.temple.edu/tudsc/2021/03/12/using-historical-gis-to-discover-the-spatial-and-temporal-trends-of-the-construction-of-temples-in-fujian/"/>
+        <updated>2021-03-12T22:11:02.000Z</updated>
+        <summary type="html"><![CDATA[By Rouying Tang I will introduce my digital project in this blog post. This project maps the trends related to temples constructed in Fujian, a Southeastern province in China. It ranges from...
+The post Using Historical GIS to Discover the Spatial and Temporal Trends of the Construction of Temples in Fujian appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
+        <author>
+            <name>Rouying Tang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cultural Ontologies: the ArCo Knowledge Graph.]]></title>
         <id>http://openmethods.dariah.eu/?p=2878</id>
         <link href="https://openmethods.dariah.eu/2021/03/11/cultural-ontologies-the-arco-knowledge-graph/"/>
@@ -1224,6 +2168,17 @@ Post Date: 
 Wednesday, March 10, 2021]]></summary>
         <author>
             <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speculative Objects: 3D Modeling of Imaginary Things]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=7585</id>
+        <link href="https://sites.temple.edu/tudsc/2021/03/09/speculative-objects-3d-modeling-of-imaginary-things/"/>
+        <updated>2021-03-09T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[By Marilla Cubberley In my last blog post, I wrote about incorporating the technology at the Scholar’s Studio into my art practice and my goal of making 100 objects with both digital...
+The post Speculative Objects: 3D Modeling of Imaginary Things appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
+        <author>
+            <name>Marilla Cubberley</name>
         </author>
     </entry>
     <entry>
@@ -1264,6 +2219,17 @@ Wednesday, March 10, 2021]]></summary>
         <summary type="html"><![CDATA[The TEI Consortium has released version 4.2.1 of the TEI P5 Guidelines and version 7.51.1 of Styelsheets, a follow-up version of the TEI P5 Guidelines version 4.2.0 and Stylesheets version 7.51.0, where we surfaced an issue with the conversion of the constraints on attributes to XHTML. This problem did not effect the schemas, but made […]]]></summary>
         <author>
             <name>Martina Scholger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Light to Physical Creation: Using Projected Light to Fabricate Real-world Structures – Part 2]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=7571</id>
+        <link href="https://sites.temple.edu/tudsc/2021/02/28/digital-light-to-physical-creation-using-digital-light-projection-to-fabricate-real-world-structures-part-2/"/>
+        <updated>2021-03-01T02:26:58.000Z</updated>
+        <summary type="html"><![CDATA[By Kyle Schwab Previous Work: Prototyping a DLP 3D Printer In my previous post, I gave you a brief introduction to 3D printing and highlighted some recent advances in the field. I...
+The post Digital Light to Physical Creation: Using Projected Light to Fabricate Real-world Structures – Part 2 appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
+        <author>
+            <name>Kyle Schwab</name>
         </author>
     </entry>
     <entry>
