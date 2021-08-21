@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-18T13:56:27.102Z</updated>
+    <updated>2021-08-21T14:49:06.316Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Laura  Eckstein]]></title>
+        <id>1137 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/eckstein-laura"/>
+        <updated>2021-08-20T16:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Fourth Year Ph.D. Student, History
+
+
+
+Laura Newman Eckstein is a fouth-year Ph.D. student in history at the University of Pennsylvania. Her studies focus on Jews in the Atlantic world (17th-19th centuries) with specific interests in trade networks, material culture, book history, gender, race and digital humanities methodologies. Prior to her doctoral studies, she worked as the Judaica Digital Humanities Coordinator at the University of Pennsylvania Libraries. She holds a bachelor’s degree with the highest honors in religion from Haverford College. Eckstein’s senior thesis at Haverford focused on Jewish peddlers, their business networks, and their religious practices along the Lower Mississippi River between 1820-1865. She is the recipient of a 2014 Tri-College, Mellon Foundation Digital Humanities Fellowship where she where she worked with Professor Ryan Cordell in his lab for Viral Maps, Texts and Networks at Northeastern University, mapping the spread and reprinting of 19th-century newspapers and magazines. Eckstein is also the recipient of a John B. Hurford Arts and Humanities Center Summer Research Fellowship.
+
+
+Fellowship Date: 
+
+August, 2021—August, 2022]]></summary>
+        <author>
+            <name>svarner@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLUK CSN: Plan B – What’s the Big Deal event]]></title>
+        <id>https://www.rluk.ac.uk/?p=10633</id>
+        <link href="https://www.rluk.ac.uk/rluk-csn-plan-b-whats-the-big-deal-event/"/>
+        <updated>2021-08-19T09:39:48.000Z</updated>
+        <summary type="html"><![CDATA[On 18 August 2021 the RLUK CSN hosted a meeting on Plan B - What's the Big Deal? The event explored many aspects of ‘Plan B’ planning for content access and brought together key pieces of work going on across the sector. Discussion topics included alternative access methods including interlibrary loan and OA discovery, modelling and [...]
+The post RLUK CSN: Plan B – What’s the Big Deal event appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Becoming a Library Director]]></title>
         <id>https://www.rluk.ac.uk/?p=10587</id>
@@ -2537,16 +2569,6 @@ The post Digital Light to Physical Creation: Using Projected Light to Fabricate 
         <summary type="html"><![CDATA[The TEI Consortium has released version 4.2.0 of the TEI Guidelines, the “Ruby” release, and version 7.51.0 of the TEI Stylesheets. For more details, please see the release notes.]]></summary>
         <author>
             <name>Martina Scholger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opening the ‘black box’ of digital cultural heritage processes: feminist digital humanities and critical heritage studies]]></title>
-        <id>http://blogs.ucl.ac.uk/dh/?p=8160</id>
-        <link href="https://blogs.ucl.ac.uk/dh/2021/02/22/digital-cultural-heritage/"/>
-        <updated>2021-02-22T12:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Published on behalf of Hannah Smyth. This post introduces a book chapter co-authored by myself, Julianne Nyhan, and Andrew Flinn. It was published as part of the Routledge Handbook of Research Methods in Digital Humanities in August 2020 and edited by Kristen Schuster and Stuart Dunn (Kings College London). This edited volume seeks to address […]]]></summary>
-        <author>
-            <name>Lucy Stagg</name>
         </author>
     </entry>
 </feed>
