@@ -14,7 +14,7 @@ sources:
   - href: https://dh.rutgers.edu/feed/
   - href: https://dhcenternet.org/rss.xml
   - href: https://dhcommons.hypotheses.org/feed
-  - href: https://dhnetwork.org/feed
+  # - href: https://dhnetwork.org/feed  # temporarily removed while website is down
   - href: https://dhsi.org/feed
   - href: https://dig-hum.de/aktuelles/feed
   - href: https://digital.humanities.ox.ac.uk/rss.xml
