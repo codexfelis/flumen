@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-22T08:11:13.048Z</updated>
+    <updated>2021-08-23T08:12:29.593Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Family History Month experiment – search millions of name records from GLAM organisations]]></title>
+        <id>http://wragge.micro.blog/2021/08/23/a-family-history.html</id>
+        <link href="https://updates.timsherratt.org/2021/08/23/a-family-history.html"/>
+        <updated>2021-08-23T00:05:52.000Z</updated>
+        <summary type="html"><![CDATA[There’s a lot of rich historical data contained within the indexes that Australian GLAM organisations provide to help people navigate their records. These indexes, often created by volunteers, allow access by key fields such as name, date or location. They aid discovery, but also allow new forms of analysis and visualisation. Kate Bagnall and I wrote about some of the possibilities, and the difficulties, in this recently published article.
+Many of these indexes can be downloaded from government data portals. The GLAM Workbench demonstrates how these can be harvested, and provides a list of available datasets to browse. But what’s inside them? The GLAM CSV Explorer visualises the contents of the indexes to give you a sneak peek and encourage you to dig deeper.
+There’s even more indexes avai…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laura  Eckstein]]></title>
         <id>1137 at https://pricelab.sas.upenn.edu</id>
