@@ -3,21 +3,25 @@ sources:
   - href: http://acrl.ala.org/dh/feed/
   - href: http://blogs.ucl.ac.uk/dh/feed/
   - href: http://dhnb.eu/feed
+  - href: http://digihum.ut.ee/feed
   - href: http://www.dh.uni-leipzig.de/wo/feed/
   - href: https://aa-dh.org/feed/
   - href: https://ach.org/feed/
+  - href: https://adhc.lib.ua.edu/feed
   - href: https://adho.org/rss.xml # this one calls itself "News", but is  Alliance of Digital Humanities Organizations
   - href: https://archive.mith.umd.edu/mith-2020/feed/index.html
   - href: https://blogs.kcl.ac.uk/ddh/feed
+  - href: https://caa-international.org/feed
   - href: https://csdh-schn.org/feed
   - href: https://cunydhi.commons.gc.cuny.edu/feed
   - href: https://dh.rutgers.edu/feed/
   - href: https://dhcenternet.org/rss.xml
-  - href: https://dhcommons.hypotheses.org/feed
+  - href: https://dhlc.cal.msu.edu/feed
   # - href: https://dhnetwork.org/feed  # temporarily removed while website is down
   - href: https://dhsi.org/feed
   - href: https://dig-hum.de/aktuelles/feed
   - href: https://digital.humanities.ox.ac.uk/rss.xml
+  - href: https://digitalhumanities.exeter.ac.uk/feed
   - href: https://digitalhumanities.stanford.edu/rss.xml
   - href: https://dslab.lib.rochester.edu/category/blog/feed
   - href: https://eadh.org/feed
@@ -29,13 +33,16 @@ sources:
   - href: https://pricelab.sas.upenn.edu/rss.xml
   - href: https://readcoop.eu/feed
   - href: https://reviewsindh.pubpub.org/rss.xml
+  - href: https://scholarlytales.hcommons.org/feed
   - href: https://sites.temple.edu/tudsc/feed
   - href: https://sites.tufts.edu/digitalhumanities/feed/
   - href: https://tei-c.org/feed
+  - href: https://uk.caa-international.org/feed
   - href: https://updates.timsherratt.org/feed.xml
   - href: https://www.c2dh.uni.lu/rss.xml
   - href: https://www.cdh.cam.ac.uk/rss.xml
   - href: https://www.neh.gov/rss.xml
   - href: https://www.rluk.ac.uk/feed
+  - href: https://www.vanderbilt.edu/digitalhumanities/category/blog/feed
 cacheMaxDays: 180
 siteTitle: "Flumen: Digital Humanities News Aggregator"
