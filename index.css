@@ -2,7 +2,9 @@
 :root {
   --colour-accent: #043565;
   --colour-fg: #342627;
+  --colour-fg-dim: rgba(52, 38, 39, 0.8);
   --colour-bg: #f5f3eb;
+  --colour-bg-dim: #e1ded7;
   --colour-error: #c81d25;
   --colour-success: #34876f;
   --font-body: "Work Sans", sans-serif;
@@ -90,7 +92,7 @@ section {
 }
 
 article {
-  background-color: rgba(52, 38, 39, 0.1);
+  background-color: var(--colour-bg-dim);
   padding: var(--space-wide) var(--space-narrow);
   margin: var(--space-wide) 0;
   border-radius: var(--border-radius);
@@ -98,11 +100,7 @@ article {
 
 .dim {
   font-size: smaller;
-  color: rgba(52, 38, 39, 0.8);
-}
-.gh > img {
-  height: 32px;
-  width: 32px;
+  color: var(--colour-fg-dim);
 }
 
 .gh-words {
@@ -111,6 +109,7 @@ article {
   font-size: smaller;
   padding-bottom: 1em;
 }
+
 .gh-words > img {
   padding: 0 var(--space-narrow);
   height: 32px;
@@ -121,6 +120,71 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+/* https://una.im/hacking-visited/ */
+a h3 span::after {
+  content: "(unread!)";
+  vertical-align: middle;
+  display: inline-block;
+  color: var(--colour-fg-dim);
+  font-size: smaller;
+  margin-left: 0.5em;
+}
+
+a:visited h3 span::after {
+  content: "";
+  color: var(--colour-bg-dim);
+}
+
+/* https://tholman.com/github-corners/ */
+
+.github-corner {
+  fill: var(--colour-fg);
+  color: var(--colour-bg);
+  position: absolute;
+  top: 0;
+  border: 0;
+  right: 0;
+  transition: 560ms ease-in-out;
+}
+
+.github-corner:hover,
+.github-corner:focus {
+  fill: var(--colour-accent);
+  transition: 560ms ease-in-out;
+}
+
+.github-corner:hover .octo-arm,
+.github-corner:focus .octo-arm {
+  animation: octocat-wave 560ms ease-in-out;
+}
+
+@keyframes octocat-wave {
+  0%,
+  100% {
+    transform: rotate(0);
+  }
+
+  20%,
+  60% {
+    transform: rotate(-25deg);
+  }
+
+  40%,
+  80% {
+    transform: rotate(10deg);
+  }
+}
+
+@media (max-width: 500px) {
+  .github-corner:hover .octo-arm {
+    animation: none;
+  }
+
+  .github-corner .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+  }
 }
 
 /* KOFI button styling */

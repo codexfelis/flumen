@@ -239,6 +239,15 @@
       "siteUrl": "https://blogs.kcl.ac.uk/ddh",
       "articles": [
         {
+          "id": "https://blogs.kcl.ac.uk/ddh/?p=3109",
+          "author": "Jonathan Gray",
+          "description": "An article on “Journalism aggregators: an analysis of Longform.org” co-authored by Marco Braghieri, Tobias Blanke and Jonathan Gray has just been published in Journalism Research. The article is open access and available in both English and German. Here’s the abstract: What is the role and significance of digital long-form content aggregators in contemporary journalism? This … \nContinue reading \"New article: “Journalism aggregators: an analysis of Longform.org”\"",
+          "link": "https://blogs.kcl.ac.uk/ddh/2021/08/24/new-article-journalism-aggregators/",
+          "publishedOn": "2021-08-24T07:26:34.000Z",
+          "wordCount": 395,
+          "title": "New article: “Journalism aggregators: an analysis of Longform.org”"
+        },
+        {
           "id": "https://blogs.kcl.ac.uk/ddh/?p=3100",
           "author": "Mercedes Bunz",
           "description": "Our Department of Digital Humanities is seeking to appoint two Lecturers (Academic Education Pathway) in Digital Innovation Management to contribute to its teaching in this and related areas. The post-holder will have a sound knowledge of the key concepts, theories, debates and challenges in digital innovation management, information systems, algorithmic management and digital transformation, with … \nContinue reading \"Jobs: Lecturer in Digital Innovation Management Education\"",
@@ -554,6 +563,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/709",
+          "author": "406",
+          "description": "Sammler*innen, Sammlung, Netz. Zu den Netzimplikationen von Sammlungspraxis und Sammlungsforschung \nvon: Jörn Münkner, Joëlle Weis, Maximilian Görmar Tagung an der Herzog August…",
+          "link": "https://dig-hum.de/aktuelles/cfp-sammlerinnen-sammlung-netz",
+          "publishedOn": "2021-08-23T15:13:43.000Z",
+          "wordCount": 1280,
+          "title": "CfP: Sammler*innen, Sammlung, Netz"
+        },
         {
           "id": "node/708",
           "author": "406",
@@ -1678,15 +1696,6 @@
           "publishedOn": "2021-03-02T08:30:25.000Z",
           "wordCount": 243,
           "title": "TEI P5 Guidelines version 4.2.1 and Stylesheets version 7.51.1 released"
-        },
-        {
-          "id": "https://tei-c.org/?p=30939",
-          "author": "Martina Scholger",
-          "description": "The TEI Consortium has released version 4.2.0 of the TEI Guidelines, the “Ruby” release, and version 7.51.0 of the TEI Stylesheets. For more details, please see the release notes.",
-          "link": "https://tei-c.org/2021/02/25/new-release-tei-guidelines-4-2-0-stylesheets-7-51-0/",
-          "publishedOn": "2021-02-25T16:48:12.000Z",
-          "wordCount": 195,
-          "title": "New Release: TEI Guidelines 4.2.0 / Stylesheets 7.51.0"
         }
       ]
     },
@@ -2018,6 +2027,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=10647",
+          "author": "Melanie Cheung",
+          "description": "Liverpool University Press (LUP) and the COPIM project are pleased to announce a partnership with Jisc on their Opening the Future membership programme. The recent agreement means that UK libraries can now easily sign up and pay for two packages of books on offer from LUP through Jisc’s Licence Subscription Manager: https://subscriptionsmanager.jisc.ac.uk/catalogue/2651. Access to two [...]\nThe post Jisc licence subscriptions manager now live for Liverpool University Press Opening the Future initiative appeared first on Research Libraries UK.",
+          "link": "https://lup.openingthefuture.net/news/12/#new_tab",
+          "publishedOn": "2021-08-23T11:06:51.000Z",
+          "wordCount": 562,
+          "title": "Jisc licence subscriptions manager now live for Liverpool University Press Opening the Future initiative"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=10633",
           "author": "Melanie Cheung",
