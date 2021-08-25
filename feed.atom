@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-24T08:12:15.053Z</updated>
+    <updated>2021-08-25T08:12:07.795Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teaching available at KCL Digital Humanities – digital skills needed]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3106</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/08/24/teaching-available-at-kcl-digital-humanities-digital-skills-needed/"/>
+        <updated>2021-08-24T12:14:59.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Digital Humanities at King’s College London is looking for hourly paid lecturers to teach introductory computational skills on the weekly seminars of our digital culture modules in person at our Strand campus. In addition to computational skills, we also have some modules open for which a conceptual knowledge of machine learning and data … 
+Continue reading "Teaching available at KCL Digital Humanities – digital skills needed"]]></summary>
+        <author>
+            <name>Mercedes Bunz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New article: “Journalism aggregators: an analysis of Longform.org”]]></title>
         <id>https://blogs.kcl.ac.uk/ddh/?p=3109</id>
