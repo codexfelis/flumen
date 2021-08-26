@@ -1714,6 +1714,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2021/08/26/glam-workbench-a.html",
+          "author": null,
+          "description": "We’re in the midst of planning for the HASS Research Data Commons, which will deliver some much-needed investment in digital research infrastructure for the humanities and social sciences. Amongst the funded programs are tools for text analysis as part of the Linguistics Data Commons, and a platform for more advanced research using Trove. I’m hoping that this will be an opportunity to take stock of existing tools and resources, and build flexible pathways for researchers that enable them to collect, move, analyse, preserve, and share data across different platforms and services.\nTo this end, I thought it might be useful to try and summarise what the GLAM Workbench offers, particularly for Trove researchers. The GLAM Workbench doesn’t really have an institutional home, and is mostly unfunde…",
+          "link": "https://updates.timsherratt.org/2021/08/26/glam-workbench-a.html",
+          "publishedOn": "2021-08-26T06:31:00.000Z",
+          "wordCount": 2429,
+          "title": "GLAM Workbench – a platform for digital HASS research"
+        },
+        {
           "id": "http://wragge.micro.blog/2021/08/23/a-family-history.html",
           "author": null,
           "description": "There’s a lot of rich historical data contained within the indexes that Australian GLAM organisations provide to help people navigate their records. These indexes, often created by volunteers, allow access by key fields such as name, date or location. They aid discovery, but also allow new forms of analysis and visualisation. Kate Bagnall and I wrote about some of the possibilities, and the difficulties, in this recently published article.\nMany of these indexes can be downloaded from government data portals. The GLAM Workbench demonstrates how these can be harvested, and provides a list of available datasets to browse. But what’s inside them? The GLAM CSV Explorer visualises the contents of the indexes to give you a sneak peek and encourage you to dig deeper.\nThere’s even more indexes avai…",

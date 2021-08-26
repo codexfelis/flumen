@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-25T08:12:07.795Z</updated>
+    <updated>2021-08-26T08:12:06.536Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GLAM Workbench – a platform for digital HASS research]]></title>
+        <id>http://wragge.micro.blog/2021/08/26/glam-workbench-a.html</id>
+        <link href="https://updates.timsherratt.org/2021/08/26/glam-workbench-a.html"/>
+        <updated>2021-08-26T06:31:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re in the midst of planning for the HASS Research Data Commons, which will deliver some much-needed investment in digital research infrastructure for the humanities and social sciences. Amongst the funded programs are tools for text analysis as part of the Linguistics Data Commons, and a platform for more advanced research using Trove. I’m hoping that this will be an opportunity to take stock of existing tools and resources, and build flexible pathways for researchers that enable them to collect, move, analyse, preserve, and share data across different platforms and services.
+To this end, I thought it might be useful to try and summarise what the GLAM Workbench offers, particularly for Trove researchers. The GLAM Workbench doesn’t really have an institutional home, and is mostly unfunde…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teaching available at KCL Digital Humanities – digital skills needed]]></title>
         <id>https://blogs.kcl.ac.uk/ddh/?p=3106</id>
