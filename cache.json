@@ -93,6 +93,58 @@
       ]
     },
     {
+      "title": "Site Feed",
+      "feedUrl": "http://digihum.ut.ee/feed",
+      "siteUrl": "http://digihum.ut.ee/feed",
+      "articles": [
+        {
+          "id": "32349 at http://digihum.ut.ee",
+          "author": "a71389",
+          "description": "Statuut\n\n\n\n\tDigihumanitaaria ja Infoühiskonna Keskus kuulutab välja konkursi 2020/21. õa parima digihumanitaaria-alase lõputöö (bakalaureuse- või magistritöö) leidmiseks.\n\n\n\n\tLõputöö peab vastama järgmistele tingimustele ehk see:\n\n\n\nLoe lähemalt Parima digihumanitaaria-alase lõputöö stipendium (600 eurot) kohta",
+          "link": "http://digihum.ut.ee/event/parima-digihumanitaaria-alase-l%C3%B5put%C3%B6%C3%B6-stipendium-600-eurot",
+          "publishedOn": "2021-09-14T21:00:00.000Z",
+          "wordCount": 263,
+          "title": "Parima digihumanitaaria-alase lõputöö stipendium (600 eurot)"
+        },
+        {
+          "id": "33298 at http://digihum.ut.ee",
+          "author": "a71389",
+          "description": "Asukoht: \n\nTallinn; online\n\n\n\n Loe lähemalt Balti digimeetodite suvekool / Baltic Summer School of Digital Humanities \"Digital Methods in Humanities and Social Sciences\" kohta",
+          "link": "http://digihum.ut.ee/event/balti-digimeetodite-suvekool",
+          "publishedOn": "2021-08-22T21:00:00.000Z",
+          "wordCount": 682,
+          "title": "Balti digimeetodite suvekool / Baltic Summer School of Digital Humanities \"Digital Methods in Humanities and Social Sciences\""
+        },
+        {
+          "id": "33438 at http://digihum.ut.ee",
+          "author": "a71389",
+          "description": "Asukoht: \n\nZoom\n\n\n\n...\n Loe lähemalt \"Humanitarian Mapping and Spatial Analysis\" by Rupert Allan kohta",
+          "link": "http://digihum.ut.ee/event/humanitarian-mapping-and-spatial-analysis-rupert-allan",
+          "publishedOn": "2021-06-14T14:15:00.000Z",
+          "wordCount": 320,
+          "title": "\"Humanitarian Mapping and Spatial Analysis\" by Rupert Allan"
+        },
+        {
+          "id": "32937 at http://digihum.ut.ee",
+          "author": "a71389",
+          "description": "Asukoht: \n\nZoom\n\n\n\nJärgmisel reedel, 21. mail, kl 10.15 -12 (zoomis) tutvustab Tartu Ülikooli maailma keelte ja kultuuride kolledži võõrkeelte erialase digipädevuse arendamise projekti raames Laurent Vanni, (...\n Loe lähemalt Computer-based Text and Discourse Analysis kohta",
+          "link": "http://digihum.ut.ee/event/computer-based-text-and-discourse-analysis",
+          "publishedOn": "2021-05-21T07:15:00.000Z",
+          "wordCount": 375,
+          "title": "Computer-based Text and Discourse Analysis"
+        },
+        {
+          "id": "32287 at http://digihum.ut.ee",
+          "author": "a71389",
+          "description": "...\n Loe lähemalt Kevadised seminarid digihumanitaarias / digilabor. Huvi üleskutse kohta",
+          "link": "http://digihum.ut.ee/event/kevadised-seminarid-digihumanitaarias-digilabor-huvi-%C3%BCleskutse",
+          "publishedOn": "2021-04-15T21:00:00.000Z",
+          "wordCount": 232,
+          "title": "Kevadised seminarid digihumanitaarias / digilabor. Huvi üleskutse"
+        }
+      ]
+    },
+    {
       "title": "Digital Humanities",
       "feedUrl": "http://www.dh.uni-leipzig.de/wo/feed/",
       "siteUrl": "http://www.dh.uni-leipzig.de/wo",
@@ -163,6 +215,58 @@
           "publishedOn": "2021-03-26T15:33:02.000Z",
           "wordCount": 296,
           "title": "ACH Executive Council 2021 Elections Results and Bylaws Updates"
+        }
+      ]
+    },
+    {
+      "title": "Alabama Digital Humanities Center",
+      "feedUrl": "https://adhc.lib.ua.edu/feed",
+      "siteUrl": "https://adhc.lib.ua.edu",
+      "articles": [
+        {
+          "id": "https://adhc.lib.ua.edu/?p=727",
+          "author": "adhcadmin",
+          "description": "The Civil War and Reconstruction Era was a period of great change and strife for the state of Alabama and the nation.  Documents included...",
+          "link": "https://adhc.lib.ua.edu/cwrga/",
+          "publishedOn": "2021-05-18T19:49:33.000Z",
+          "wordCount": 794,
+          "title": "Civil War & Reconstruction Governors of Alabama"
+        },
+        {
+          "id": "https://adhc.lib.ua.edu/?p=724",
+          "author": "adhcadmin",
+          "description": "The Alabama Shakespeare Project (ASP) is a performance-based research collective exploring early modern entertainments. To do so, we  stage free...",
+          "link": "https://adhc.lib.ua.edu/alabama-shakespeare-project/",
+          "publishedOn": "2021-05-18T19:47:53.000Z",
+          "wordCount": 192,
+          "title": "Alabama Shakespeare Project"
+        },
+        {
+          "id": "https://adhc.lib.ua.edu/?p=717",
+          "author": "adhcadmin",
+          "description": "In Spring 2021, Dr. Jeri Wieringa’s REL120 class created a course website featuring exhibits and mapping to study religion and...",
+          "link": "https://adhc.lib.ua.edu/rel120/",
+          "publishedOn": "2021-05-18T19:43:30.000Z",
+          "wordCount": 134,
+          "title": "Religion & Science: Creating Health in 19th Century U.S."
+        },
+        {
+          "id": "https://adhc.lib.ua.edu/?p=715",
+          "author": "adhcadmin",
+          "description": "This project was created to showcase Dr. Daniel Levine’s Fall 2020 PSC344.001 – The Israel/Palestine Conflict course to showcase his...",
+          "link": "https://adhc.lib.ua.edu/psc344-the-israel-palestine-conflict/",
+          "publishedOn": "2021-05-18T19:40:52.000Z",
+          "wordCount": 137,
+          "title": "PSC344"
+        },
+        {
+          "id": "https://adhc.lib.ua.edu/?p=610",
+          "author": "adhcadmin",
+          "description": "Author, spy, political propagandist, Aphra Behn (1640–1689) was one of the first English women to earn a living by her pen. Set against...",
+          "link": "https://adhc.lib.ua.edu/aphra-behn-the-podcast/",
+          "publishedOn": "2021-05-03T13:21:52.000Z",
+          "wordCount": 242,
+          "title": "Aphra Behn: The Podcast"
         }
       ]
     },
@@ -358,6 +462,31 @@
       ]
     },
     {
+      "title": "CAA International",
+      "feedUrl": "https://caa-international.org/feed",
+      "siteUrl": "https://caa-international.org",
+      "articles": [
+        {
+          "id": "https://sites.caa-international.org/main/?p=15701",
+          "author": "Jeffrey Glover",
+          "description": "The International Society for Computer Applications and Quantitative Methods in Archaeology (CAA) represents researchers, professionals and students working in diverse capacities to bring together the strengths of digital, computational and quantitative methods with creative, critical and impactful archaeological and heritage … Continue reading →",
+          "link": "https://caa-international.org/2021/05/23/escs-statement-on-proposed-cuts-to-higher-education-funding-for-archaeology-in-the-uk/",
+          "publishedOn": "2021-05-23T15:24:43.000Z",
+          "wordCount": 838,
+          "title": "ESC’s Statement on Proposed Cuts to Higher Education Funding for Archaeology in the UK"
+        },
+        {
+          "id": "https://sites.caa-international.org/main/?p=15692",
+          "author": "Jeffrey Glover",
+          "description": "Registration for CAA 2021 is now open. Please click here to be taken to the registration page.",
+          "link": "https://caa-international.org/2021/05/10/registration-for-caa-2021-open/",
+          "publishedOn": "2021-05-10T18:19:32.000Z",
+          "wordCount": 151,
+          "title": "Registration for CAA 2021 OPEN"
+        }
+      ]
+    },
+    {
       "title": "CSDH / SCHN",
       "feedUrl": "https://csdh-schn.org/feed",
       "siteUrl": "https://csdh-schn.org",
@@ -456,108 +585,36 @@
       "articles": []
     },
     {
-      "title": "The Digital Humanities Commons",
-      "feedUrl": "https://dhcommons.hypotheses.org/feed",
-      "siteUrl": "https://dhcommons.hypotheses.org",
+      "title": "Digital Humanities & Literary Cognition Lab",
+      "feedUrl": "https://dhlc.cal.msu.edu/feed",
+      "siteUrl": "https://dhlc.cal.msu.edu",
       "articles": [
         {
-          "id": "http://dhcommons.hypotheses.org/?p=779",
-          "author": "Laura Mesotten",
-          "description": "After a successful year of blogging we have decided to continue this blog at The Scholarly Tales. While we have moved the location of our blog, you can rest assured that we will still be communicating about digital scholarship related activities, events, and discussions. The Scholarly Tales blog remains an initiative of the DH Commons, managed by the research team within KU Leuven Libraries Artes. The DH Commons aims to bring together interested parties around teaching, training, and research on digital scholarship in the […]",
-          "link": "https://dhcommons.hypotheses.org/779",
-          "publishedOn": "2021-08-13T13:35:54.000Z",
-          "wordCount": 540,
-          "title": "We have moved!"
+          "id": "https://dhlc.cal.msu.edu/?p=331",
+          "author": "saamsuep",
+          "description": "The Creativity in the Time of COVID-19 project explores the ways that people have used various forms of creativity to cope with the COVID-19 pandemic through a survey.  This Mellon Foundation grant initiative is titled, “Just Futures,” and has the intentions of shining light on the experiences of diverse and/or marginalized groups such as the […]",
+          "link": "https://dhlc.cal.msu.edu/2021/08/11/getting-to-know-care-partnering-organization-to-creativity-in-the-time-of-covid-19-project/",
+          "publishedOn": "2021-08-11T16:53:49.000Z",
+          "wordCount": 842,
+          "title": "Getting to Know CARE: Partnering Organization to Creativity in the Time of COVID-19 Project"
         },
         {
-          "id": "http://dhcommons.hypotheses.org/?p=775",
-          "author": "Merisa Martinez",
-          "description": "The Austro-German philosopher Edmund Husserl (born in Proßnitz, today Prostějov in 1859, died in Freiburg in 1938) remains one of the most influential philosophers of our time. He is considered the founder of phenomenology, which became one of the most significant origins of what has come to be called ‘continental philosophy’.  An astonishingly diverse range of philosophers have been directly influenced by Husserl’s works. The phenomenological method continues to be one of the richest methodological resources for philosophical thinking and scientific research, also in interdisciplinary settings […]",
-          "link": "https://dhcommons.hypotheses.org/775",
-          "publishedOn": "2021-05-27T10:34:19.000Z",
-          "wordCount": 949,
-          "title": "digitalHusserl is now LIVE!"
+          "id": "https://dhlc.cal.msu.edu/?p=321",
+          "author": "carrmitc",
+          "description": "I have never been much of a poet until a young student at the Refugee Development Center of Lansing asked me what poetry was. I told him, “It is when you play with words in a way that is not traditionally published.” He looked at me and it was evident that he was still unsure […]",
+          "link": "https://dhlc.cal.msu.edu/2021/08/11/pre-and-post-pizza-poetry/",
+          "publishedOn": "2021-08-11T16:35:38.000Z",
+          "wordCount": 1006,
+          "title": "Pre and Post Pizza Poetry"
         },
         {
-          "id": "http://dhcommons.hypotheses.org/?p=773",
-          "author": "Merisa Martinez",
-          "description": "Tomorrow will be the final instalment of this academic year’s DH Virtual Discussion Groups for Early Career Researchers working in Belgium. The topic of tomorrow’s discussion will be lightning pitches from researchers in our community who will be giving long-form presentations at DH Benelux 2021. While DH Benelux is hosted by the University of Leiden this year, it will be happening entirely online from 2 – 4 June 2021 (a.k.a. next week!). You can register for tomorrow’s discussion session, which will take place on […]",
-          "link": "https://dhcommons.hypotheses.org/773",
-          "publishedOn": "2021-05-26T15:06:47.000Z",
-          "wordCount": 610,
-          "title": "Last DH Virtual Discussion Group for Belgian ECRs Tomorrow from 15-16h30 CET!"
-        },
-        {
-          "id": "http://dhcommons.hypotheses.org/?p=756",
-          "author": "Maria Dermentzi",
-          "description": "During the past couple of months, I have been trying to come up with an efficient way of constructing synonym rings for query expansion in a library discovery system (i.e., the online search interface of a library). I am doing this because I was given a list of e-books on the subject of Digital Humanities (DH) with the purpose of making them more discoverable on KU Leuven Libraries’ discovery platform. In my previous blogpost, I described what synonym rings are, but simply put, you […]",
-          "link": "https://dhcommons.hypotheses.org/756",
-          "publishedOn": "2021-04-22T16:39:43.000Z",
-          "wordCount": 1486,
-          "title": "Word Embeddings and Their Role in Synonym Ring Construction"
-        },
-        {
-          "id": "http://dhcommons.hypotheses.org/?p=750",
-          "author": "Merisa Martinez",
-          "description": "On 6 and 7 May 2021, the Royal Library of Belgium (KBR) – together with several institutions including KU Leuven – will hold an international webinar on Old Books and New Technologies: Medieval Books and the Digital Humanities in the Low Countries. It will bring together researchers from libraries, archives, and museums, and university faculties with an interest in how the medieval book is contextualized by new technologies, with particular emphasis placed on the intersection of the medieval book and Digital Humanities. The languages […]",
-          "link": "https://dhcommons.hypotheses.org/750",
-          "publishedOn": "2021-04-19T12:21:44.000Z",
-          "wordCount": 969,
-          "title": "Event – Old Books and New Technologies: Medieval Books and the Digital Humanities in the Low Countries"
-        },
-        {
-          "id": "http://dhcommons.hypotheses.org/?p=747",
-          "author": "Merisa Martinez",
-          "description": "This hybrid round-table and workshop is co-organized between LECTIO, KU Leuven, and the University of Utrecht. Event dates: 11-12 May. Registration deadline: 30 April 2021. Over two days, participants will have the chance to try a hands-on approach to network analysis, with a mix of practical workshops and presentations of ongoing projects (by LECTIO members). The keynote speakers will be prof. Dirk Van Miert (University of Utrecht), presenting the ERC project “Sharing Knowledge in Learned and Literary Networks – The Republic of Letters as […]",
-          "link": "https://dhcommons.hypotheses.org/747",
-          "publishedOn": "2021-04-01T16:27:58.000Z",
-          "wordCount": 730,
-          "title": "Event: Linking People: Network Analysis and Intellectual History"
-        },
-        {
-          "id": "http://dhcommons.hypotheses.org/?p=745",
-          "author": "Merisa Martinez",
-          "description": "The Leibniz Institute of European History (IEG) in Mainz has one fellowship open for a a period of six to eight months for international doctoral students in the field of Digital Humanities. The fellowship will begin in July 2021 or later. The monthly stipend is € 1,350. Additionally, you can apply for family or child allowance. Applications are due 19 April 2021. More information below! AIMS The fellowship supports international doctoral students who wish to carry out their own research project using Digital Humanities […]",
-          "link": "https://dhcommons.hypotheses.org/745",
-          "publishedOn": "2021-04-01T16:02:40.000Z",
-          "wordCount": 817,
-          "title": "Fellowship Alert: Leibniz Institute of European History (for international PhD students)"
-        },
-        {
-          "id": "http://dhcommons.hypotheses.org/?p=743",
-          "author": "Merisa Martinez",
-          "description": "The Vrije Universiteit Brussel and the Université Libre de Bruxelles have teamed up to create the Brussels DH seminars series! The next seminar will take place from 12:00 to 13:30 on 21 April 2021. The registration deadline is 15 April 2021. For more information keep reading! Ludovica Marinucci (Italian CNR): “Implicit biases in human and artificial intelligence”  The focus of the talk is to investigate the presence of the so-called “implicit biases” (Devine et al. 2009) in both human and artificial intelligence, especially encoded […]",
-          "link": "https://dhcommons.hypotheses.org/743",
-          "publishedOn": "2021-04-01T15:39:30.000Z",
-          "wordCount": 1201,
-          "title": "Event: Brussels DH Online Seminar Series!"
-        },
-        {
-          "id": "http://dhcommons.hypotheses.org/?p=741",
-          "author": "Merisa Martinez",
-          "description": "The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for two Communications Fellowships, each of which will last from May – December 2021 and comes with a stipend of €500 Euros. The deadline for applications is 23:59 UTC on 15 April 2021. Each year, Communications Fellows work with ADHO’s Communications Officer to manage ADHO’s public communications activities. The fellowship is well suited for graduate students, young scholars, and academic professionals who wish to develop a deeper knowledge of digital humanities and its global communities, […]",
-          "link": "https://dhcommons.hypotheses.org/741",
-          "publishedOn": "2021-04-01T15:26:53.000Z",
-          "wordCount": 642,
-          "title": "Fellowship Opportunity: Two Communications Fellowships for the Alliance of Digital Humanities Organizations (ADHO)"
-        },
-        {
-          "id": "http://dhcommons.hypotheses.org/?p=739",
-          "author": "Merisa Martinez",
-          "description": "The Royal Library of Belgium (KBR) is hosting an online series of three lectures given by Digital Humanities experts from across Belgium! This series is co-organized by KBR’s two labs: Camille (Center for Archives on the Media and Information) and the Digital Research Lab, in cooperation with Université Libre de Bruxelles and Ghent University. Dealing with a variety of topics, periods and methods, these talks will be held in English, with questions in French, Dutch or English. More information about each of the lectures […]",
-          "link": "https://dhcommons.hypotheses.org/739",
-          "publishedOn": "2021-04-01T15:04:55.000Z",
-          "wordCount": 1329,
-          "title": "Event: KBR Digital Humanities Online Series"
-        },
-        {
-          "id": "http://dhcommons.hypotheses.org/?p=736",
-          "author": "Merisa Martinez",
-          "description": "Big news! We have an opening at KU Leuven Libraries Artes on the Artes Research Team for an Information Specialist – Digital Scholarship in the Humanities. This position would report to our Artes Research Team Leader, Laura Mesotten, and work alongside Nele Noppe, our Data Librarian! The job would be a temporary to start with, and moving to permanent. It would be a full time, 1.0 FTE position (it can also be 80% if necessary). The ideal applicant would already know Dutch or be […]",
-          "link": "https://dhcommons.hypotheses.org/736",
-          "publishedOn": "2021-03-22T17:04:56.000Z",
-          "wordCount": 881,
-          "title": "Job Alert: Information Specialist – Digital Scholarship in the Humanities at Artes"
+          "id": "https://dhlc.cal.msu.edu/?p=292",
+          "author": "carrmitc",
+          "description": "By Mitch Carr Everybody can channel the excitement that comes with serendipitously coming across a work of art proudly showcased in their community. It inspires feelings of nostalgia through storytelling in a multimodal way. And, as I sit at the newly painted picnic tables located in front of Soul Nutrition in Downtown Lansing, I can’t […]",
+          "link": "https://dhlc.cal.msu.edu/2021/06/06/if-you-arent-happy-with-the-things-around-you-change-the-things-around-you/",
+          "publishedOn": "2021-06-06T16:26:24.000Z",
+          "wordCount": 813,
+          "title": "If You Aren’t Happy with the Things Around You; Change the Things Around You."
         }
       ]
     },
@@ -750,6 +807,49 @@
       "feedUrl": "https://digital.humanities.ox.ac.uk/rss.xml",
       "siteUrl": "https://digital.humanities.ox.ac.uk",
       "articles": []
+    },
+    {
+      "title": "Digital Humanities at Exeter",
+      "feedUrl": "https://digitalhumanities.exeter.ac.uk/feed",
+      "siteUrl": "https://digitalhumanities.exeter.ac.uk",
+      "articles": [
+        {
+          "id": "https://digitalhumanities.exeter.ac.uk/?p=802",
+          "author": "Julia Hopkin",
+          "description": "The new online platform for the Exeter book is now live, making one of the oldest surviving volumes of English literature in the world fully accessible to the public for the first time.   The new platform has already been generating lots of interest, especially through Exeter’s role as a UNESCO city of literature, and since […]",
+          "link": "https://digitalhumanities.exeter.ac.uk/2021/08/uploading-the-exeter-book-a-behind-the-scenes-look-at-digitising-a-literary-treasure/",
+          "publishedOn": "2021-08-06T09:32:15.000Z",
+          "wordCount": 1553,
+          "title": "Uploading the Exeter Book – A behind the scenes look at digitising a literary treasure"
+        },
+        {
+          "id": "https://digitalhumanities.exeter.ac.uk/?p=798",
+          "author": "Gemma Poulton",
+          "description": "Hi, I’m Courtney and I’ve just completed my BA English degree. In my final year I have worked as an advisory intern in the DH Lab and loved every minute. In this very unusual year, I have been lucky enough to gain experience in the lab and have got to work on some very exciting […]",
+          "link": "https://digitalhumanities.exeter.ac.uk/2021/07/dh-student-intern-courtney-priday/",
+          "publishedOn": "2021-07-06T09:48:12.000Z",
+          "wordCount": 1036,
+          "title": "DH Student Intern – Courtney Priday"
+        },
+        {
+          "id": "https://digitalhumanities.exeter.ac.uk/?p=781",
+          "author": "Gemma Poulton",
+          "description": "Hi, I’m Laura, a third year History and Archaeology student and this will be my second year at the Digital Humanities Lab as an intern. My interests span 2D digitisation to 3D digitisation techniques such as RTI (Reflectance Transformation Imaging) and photogrammetry. I love how these techniques are applied to cultural heritage and wider research […]",
+          "link": "https://digitalhumanities.exeter.ac.uk/2021/06/dh-student-intern-laura-jones/",
+          "publishedOn": "2021-06-21T13:28:12.000Z",
+          "wordCount": 1089,
+          "title": "DH Student Intern – Laura Jones"
+        },
+        {
+          "id": "https://digitalhumanities.exeter.ac.uk/?p=729",
+          "author": "Ollie Anthony",
+          "description": "We are delighted to present an interactive map of the print of Smyth’s Panorama of London held in The Bill Douglas Cinema Museum’s collection (see here: EXEBD 12796): https://humanities-research.exeter.ac.uk/bdcm/panorama/bdcm_bl_complete_storymap.html  In the blog-post below, Ollie Anthony, Technical Assistant at the Digital Humanities Lab and former BDCM museum volunteer, explains the significance of the panorama and the […]",
+          "link": "https://digitalhumanities.exeter.ac.uk/2021/06/digitisation-of-smyths-1845-panorama-of-london/",
+          "publishedOn": "2021-06-08T14:00:01.000Z",
+          "wordCount": 2589,
+          "title": "Digitisation of Smyth’s 1845 ‘Panorama of London’"
+        }
+      ]
     },
     {
       "title": "Digital Humanities at Stanford",
@@ -1558,6 +1658,103 @@
       ]
     },
     {
+      "title": "The Scholarly Tales",
+      "feedUrl": "https://scholarlytales.hcommons.org/feed",
+      "siteUrl": "https://scholarlytales.hcommons.org",
+      "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=742",
+          "author": "Nele Noppe",
+          "description": "",
+          "link": "https://scholarlytales.hcommons.org/2021/07/23/event-getting-started-with-linked-open-data/",
+          "publishedOn": "2021-07-23T09:56:00.000Z",
+          "wordCount": 514,
+          "title": "Event: Getting started with Linked Open Data"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=687",
+          "author": "Laura Mesotten",
+          "description": "The next ReproducibiliTea@KULeuven journal club will take place online on Thursday 17 June (15h00-16h30). Two papers related to open data will be discussed, you can find the papers on the OSF page and Zotero library of ReproducibiliTea. Both staff and students from KU Leuven are welcome to attend (register here). Upon registration, you will receive an e-mail with a link needed to enter the online meeting. More information can be found here (KU Leuven intranet page). ReproducibiliTea is a grassroots journal...",
+          "link": "https://scholarlytales.hcommons.org/2021/05/25/event-reproducibiliteakuleuven-journal-club-on-open-data/",
+          "publishedOn": "2021-05-25T13:14:07.000Z",
+          "wordCount": 531,
+          "title": "Event: ReproducibiliTea@KULeuven journal club on open data"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=526",
+          "author": "Hanna Van Heesvelde",
+          "description": "The project Arabic Collections Online (ACO) is an online library specialized in providing Open Access to Arabic books and manuscripts in several scientific domains. ACO started its digitization project with the aim of providing free and global access to Arabic language content, which is currently not widely available. The project already offers access to over 16.000 volumes, however the goal of the project is to digitize 23.000 Arabic volumes. The topics range from philosophy and religion to political sciences and...",
+          "link": "https://scholarlytales.hcommons.org/2021/05/18/arabic-collections-online-aco/",
+          "publishedOn": "2021-05-18T08:46:55.000Z",
+          "wordCount": 632,
+          "title": "Arabic Collections Online (ACO)"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=671",
+          "author": "Laura Mesotten",
+          "description": "On 2 and 4 June, LIBER (Ligue des Bibliothèques Européennes de Recherche – Association of European Research Libraries) will organize a Citizen Science workshop at KU Leuven. The workshop will be of a highly participatory nature, with participants required to work in small groups during their own time. The first session will take place on the 2nd of June from 10.00-11.30 (CEST), followed by a second session on the 4th of June from 14.00-15.30 (CEST). Important to note: once registered, you are required to...",
+          "link": "https://scholarlytales.hcommons.org/2021/05/17/event-integrating-citizen-science-at-universities-from-what-to-how/",
+          "publishedOn": "2021-05-17T07:08:13.000Z",
+          "wordCount": 697,
+          "title": "Event: Integrating Citizen Science at Universities: From ‘What’ to ‘How’"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=659",
+          "author": "Melissa Portaels",
+          "description": "MATRIX [Centrum voor Nieuwe Muziek] zet mijlpalen in de muziekgeschiedenis sinds 1950 in de kijker met grote en kleinere tentoonstellingen. De webtentoonstelling Steve Reich 360° (www.stevereichexpo.be) is de meest recente verwezenlijking, en de eerste 100% online tentoonstelling. De expo werd ontwikkeld op vraag van Muziekcentrum De Bijloke Gent en sluit aan bij de concertprogrammering in seizoen 2020-21 met als één van de sleutelfiguren de Amerikaanse componist Steve Reich. Omwille van de coronamaatregelen werkten we het project volledig digitaal uit. We...",
+          "link": "https://scholarlytales.hcommons.org/2021/05/10/360-reich-een-webtentoonstelling/",
+          "publishedOn": "2021-05-10T15:02:22.000Z",
+          "wordCount": 848,
+          "title": "360° Reich – een webtentoonstelling"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=652",
+          "author": "Laura Mesotten",
+          "description": "DHSITE 2021 is taking place the weeks of May 17-21 and May 24-28. In this two-week period, they organize 18-hour micro-course workshops. Workshop topics include an Introduction to Python (in English and in French), Issues in Digital Humanities, Introduction to Linked Open Data, Text Analysis, and Machine Translation. The detailed program can be found on the event website. Registration is open! Be sure to reserve your spot. Micro-course workshops with low pre-registration will be cancelled. Additionally, part of DHSITE 2021, the...",
+          "link": "https://scholarlytales.hcommons.org/2021/05/07/event-dhsite2021-with-workshops-on-python-linked-open-data-text-analysis-and-machine-translation/",
+          "publishedOn": "2021-05-07T07:41:40.000Z",
+          "wordCount": 527,
+          "title": "Event: DHSITE2021 with workshops on Python, Linked Open Data, Text Analysis, and Machine Translation"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=642",
+          "author": "Nele Noppe",
+          "description": "Would you like to stay up to date with new posts on the Scholarly Tales blog right from Outlook? RSS, or Really Simple Syndication, is “a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format” (Wikipedia). Blogs and many other online resources, including academic journals and databases, often offer RSS feeds of their new content. By subscribing to RSS feeds, you can get updates from many sources delivered in one location. Where...",
+          "link": "https://scholarlytales.hcommons.org/2021/05/05/get-new-scholarly-tales-posts-in-outlook-via-the-blogs-rss-feed/",
+          "publishedOn": "2021-05-05T09:20:29.000Z",
+          "wordCount": 700,
+          "title": "Get new Scholarly Tales posts in Outlook via the blog’s RSS feed"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=612",
+          "author": "Laura Bervoets",
+          "description": "Looking to publish in Open Access but not sure how to find a suitable Open Access journal in your specific discipline? The easiest way to start your search is browsing through the Directory of Open Access Journals (DOAJ), which was created to increase the accessibility, usage, and impact of quality OA resources. The DOAJ indexes academic journals across all disciplines that are peer-reviewed and only have the Full OA-option, not the Hybrid OA-option. If you already have a specific journal...",
+          "link": "https://scholarlytales.hcommons.org/2021/05/05/finding-an-open-access-journal-with-the-doaj/",
+          "publishedOn": "2021-05-05T07:52:46.000Z",
+          "wordCount": 1007,
+          "title": "Finding an Open Access journal with the DOAJ"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=438",
+          "author": "Laura Bervoets",
+          "description": "Limo is the discovery service that allows you to search the entire KU Leuven Libraries collection. It is made up of an extensive collection of both printed and electronic resources. So with one search you will not only find all physical items (e.g. print books, journals, newspapers) available in KU Leuven Libraries but also scientific output from the university’s researchers, which are collected in Lirias, and a vast selection of e-resources, such as electronic books, journals, databases, and also audio-visual...",
+          "link": "https://scholarlytales.hcommons.org/2021/05/04/short-introduction-to-navigating-limo/",
+          "publishedOn": "2021-05-04T10:22:31.000Z",
+          "wordCount": 1003,
+          "title": "Short introduction to navigating Limo"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=574",
+          "author": "Nele Baplu",
+          "description": "Until 25 May 2021 KU Leuven users have trial access to two new sources on the Brill Scholarly Editions platform: Eustathius of Thessalonica: Commentary on the Iliad This is the online version of the complete critical edition by Marchinus van der Valk of Eusthathius of Thessalonica’s Commentary on the Iliad, composed during the latter half of the twelfth century CE, published in hard copy by Brill between 1971–1987. Eustathius of Thessalonica: Commentary on the Odyssey This online publication (to be...",
+          "link": "https://scholarlytales.hcommons.org/2021/05/03/trial-access-eustathius-commentary-on-the-iliad-odyssey-brill-scholarly-editions/",
+          "publishedOn": "2021-05-03T16:01:34.000Z",
+          "wordCount": 536,
+          "title": "Trial access: Eustathius, Commentary on the Iliad/Odyssey (Brill Scholarly Editions)"
+        }
+      ]
+    },
+    {
       "title": "Loretta C. Duckworth Scholars Studio",
       "feedUrl": "https://sites.temple.edu/tudsc/feed",
       "siteUrl": "https://sites.temple.edu/tudsc",
@@ -1707,6 +1904,12 @@
           "title": "TEI P5 Guidelines version 4.2.1 and Stylesheets version 7.51.1 released"
         }
       ]
+    },
+    {
+      "title": "CAA UK",
+      "feedUrl": "https://uk.caa-international.org/feed",
+      "siteUrl": "https://uk.caa-international.org",
+      "articles": []
     },
     {
       "title": "Tim Sherratt",
@@ -2161,6 +2364,37 @@
           "publishedOn": "2021-07-20T09:29:53.000Z",
           "wordCount": 1519,
           "title": "Case Study: Scholarship and Collections. Manchester Digital Collections"
+        }
+      ]
+    },
+    {
+      "title": "DH Center Blog",
+      "feedUrl": "https://www.vanderbilt.edu/digitalhumanities/category/blog/feed",
+      "siteUrl": "https://www.vanderbilt.edu/digitalhumanities",
+      "articles": [
+        {
+          "id": "https://www.vanderbilt.edu/digitalhumanities/?p=3118",
+          "author": "forehamj",
+          "description": "By Ashley Kim, Mellon Graduate Student Fellow from the Department of Sociology As an ethnographer, I started my current project the way all brilliant researchers do: inspired by an intriguing research question that popped into my head right as I hit the pillow at night… or in the shower? One of the two. I was...",
+          "link": "https://www.vanderbilt.edu/digitalhumanities/digital-ethnography-where-art-thou/",
+          "publishedOn": "2021-04-16T16:30:38.000Z",
+          "wordCount": 740,
+          "title": "Digital Ethnography, Where Art Thou?",
+          "enclosure": {
+            "url": "https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/214/2021/04/16162945/Copy-of-Vanderbilt-Center-for-Digital-Humanities-3-800x370.png"
+          }
+        },
+        {
+          "id": "https://www.vanderbilt.edu/digitalhumanities/?p=3110",
+          "author": "forehamj",
+          "description": "The Benefits of Research Collaboration By Holly McCammon, Cornelius Vanderbilt Chair of Sociology and Professor of Sociology, Mellon Faculty Fellow I can imagine your frustration as you realize that the user-friendly and, yes, simplified software you’ve been using is no longer meeting your research needs.  Previously, it had been so helpful, as the software guided...",
+          "link": "https://www.vanderbilt.edu/digitalhumanities/the-benefits-of-research-collaboration/",
+          "publishedOn": "2021-04-07T18:47:15.000Z",
+          "wordCount": 1115,
+          "title": "The Benefits of Research Collaboration",
+          "enclosure": {
+            "url": "https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/214/2021/04/09141654/Copy-of-Vanderbilt-Center-for-Digital-Humanities-800x370.png"
+          }
         }
       ]
     }

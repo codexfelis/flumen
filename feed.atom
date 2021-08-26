@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-26T08:12:06.536Z</updated>
+    <updated>2021-08-26T15:45:26.948Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parima digihumanitaaria-alase lõputöö stipendium (600 eurot)]]></title>
+        <id>32349 at http://digihum.ut.ee</id>
+        <link href="http://digihum.ut.ee/event/parima-digihumanitaaria-alase-l%C3%B5put%C3%B6%C3%B6-stipendium-600-eurot"/>
+        <updated>2021-09-14T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Statuut
+
+
+
+	Digihumanitaaria ja Infoühiskonna Keskus kuulutab välja konkursi 2020/21. õa parima digihumanitaaria-alase lõputöö (bakalaureuse- või magistritöö) leidmiseks.
+
+
+
+	Lõputöö peab vastama järgmistele tingimustele ehk see:
+
+
+
+Loe lähemalt Parima digihumanitaaria-alase lõputöö stipendium (600 eurot) kohta]]></summary>
+        <author>
+            <name>a71389</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GLAM Workbench – a platform for digital HASS research]]></title>
         <id>http://wragge.micro.blog/2021/08/26/glam-workbench-a.html</id>
@@ -71,6 +93,22 @@ Many of these indexes can be downloaded from government data portals. The GLAM W
 There’s even more indexes avai…]]></summary>
         <author>
             <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balti digimeetodite suvekool / Baltic Summer School of Digital Humanities "Digital Methods in Humanities and Social Sciences"]]></title>
+        <id>33298 at http://digihum.ut.ee</id>
+        <link href="http://digihum.ut.ee/event/balti-digimeetodite-suvekool"/>
+        <updated>2021-08-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Asukoht: 
+
+Tallinn; online
+
+
+
+ Loe lähemalt Balti digimeetodite suvekool / Baltic Summer School of Digital Humanities "Digital Methods in Humanities and Social Sciences" kohta]]></summary>
+        <author>
+            <name>a71389</name>
         </author>
     </entry>
     <entry>
@@ -193,16 +231,6 @@ If you just want the full list of books as a CSV file, you can download it here.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We have moved!]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=779</id>
-        <link href="https://dhcommons.hypotheses.org/779"/>
-        <updated>2021-08-13T13:35:54.000Z</updated>
-        <summary type="html"><![CDATA[After a successful year of blogging we have decided to continue this blog at The Scholarly Tales. While we have moved the location of our blog, you can rest assured that we will still be communicating about digital scholarship related activities, events, and discussions. The Scholarly Tales blog remains an initiative of the DH Commons, managed by the research team within KU Leuven Libraries Artes. The DH Commons aims to bring together interested parties around teaching, training, and research on digital scholarship in the […]]]></summary>
-        <author>
-            <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A miscellany of ephemera, oddities, & estrays]]></title>
         <id>http://wragge.micro.blog/2021/08/13/a-miscellany-of.html</id>
         <link href="https://updates.timsherratt.org/2021/08/13/a-miscellany-of.html"/>
@@ -264,6 +292,26 @@ August, 2021—August, 2022]]></summary>
         <summary type="html"><![CDATA[An exhibition has been part of our plans since we began working on the funding bid that became Living with Machines in 2017 or so. In 2020 we began work in earnest on finding collaborators, finding dates at a suitable venue and thinking about how we could translate research findings from Living with Machines into […]]]></summary>
         <author>
             <name>Mia Ridge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting to Know CARE: Partnering Organization to Creativity in the Time of COVID-19 Project]]></title>
+        <id>https://dhlc.cal.msu.edu/?p=331</id>
+        <link href="https://dhlc.cal.msu.edu/2021/08/11/getting-to-know-care-partnering-organization-to-creativity-in-the-time-of-covid-19-project/"/>
+        <updated>2021-08-11T16:53:49.000Z</updated>
+        <summary type="html"><![CDATA[The Creativity in the Time of COVID-19 project explores the ways that people have used various forms of creativity to cope with the COVID-19 pandemic through a survey.  This Mellon Foundation grant initiative is titled, “Just Futures,” and has the intentions of shining light on the experiences of diverse and/or marginalized groups such as the […]]]></summary>
+        <author>
+            <name>saamsuep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pre and Post Pizza Poetry]]></title>
+        <id>https://dhlc.cal.msu.edu/?p=321</id>
+        <link href="https://dhlc.cal.msu.edu/2021/08/11/pre-and-post-pizza-poetry/"/>
+        <updated>2021-08-11T16:35:38.000Z</updated>
+        <summary type="html"><![CDATA[I have never been much of a poet until a young student at the Refugee Development Center of Lansing asked me what poetry was. I told him, “It is when you play with words in a way that is not traditionally published.” He looked at me and it was evident that he was still unsure […]]]></summary>
+        <author>
+            <name>carrmitc</name>
         </author>
     </entry>
     <entry>
@@ -372,6 +420,16 @@ August, 2021—September, 2022]]></summary>
         <summary type="html"><![CDATA[Der Sonderforschungsbereich (SFB) 1391 „Andere Ästhetik“ untersucht ästhetische Akte und Artefakte der Vormoderne im Spannungsfeld von Gestaltungswissen und sozialer Praxis.…]]></summary>
         <author>
             <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uploading the Exeter Book – A behind the scenes look at digitising a literary treasure]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=802</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2021/08/uploading-the-exeter-book-a-behind-the-scenes-look-at-digitising-a-literary-treasure/"/>
+        <updated>2021-08-06T09:32:15.000Z</updated>
+        <summary type="html"><![CDATA[The new online platform for the Exeter book is now live, making one of the oldest surviving volumes of English literature in the world fully accessible to the public for the first time.   The new platform has already been generating lots of interest, especially through Exeter’s role as a UNESCO city of literature, and since […]]]></summary>
+        <author>
+            <name>Julia Hopkin</name>
         </author>
     </entry>
     <entry>
@@ -794,6 +852,15 @@ In the spirit of chasing this turn, we have invited international scholars to pr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Event: Getting started with Linked Open Data]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=742</id>
+        <link href="https://scholarlytales.hcommons.org/2021/07/23/event-getting-started-with-linked-open-data/"/>
+        <updated>2021-07-23T09:56:00.000Z</updated>
+        <author>
+            <name>Nele Noppe</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Job opportunity: Chief Archivist/Principal Information Scientist - Budapest]]></title>
         <id>1323 at https://eadh.org</id>
         <link href="https://eadh.org/news/2021/07/20/job-opportunity-chief-archivistprincipal-information-scientist-budapest"/>
@@ -1028,6 +1095,16 @@ DARIAH-DE Repository
 DARIAH-DE Geo-…]]></summary>
         <author>
             <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DH Student Intern – Courtney Priday]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=798</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2021/07/dh-student-intern-courtney-priday/"/>
+        <updated>2021-07-06T09:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I’m Courtney and I’ve just completed my BA English degree. In my final year I have worked as an advisory intern in the DH Lab and loved every minute. In this very unusual year, I have been lucky enough to gain experience in the lab and have got to work on some very exciting […]]]></summary>
+        <author>
+            <name>Gemma Poulton</name>
         </author>
     </entry>
     <entry>
@@ -1307,6 +1384,16 @@ a) two nomination statements by EADH members (here, the proposers), stating the 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DH Student Intern – Laura Jones]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=781</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2021/06/dh-student-intern-laura-jones/"/>
+        <updated>2021-06-21T13:28:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I’m Laura, a third year History and Archaeology student and this will be my second year at the Digital Humanities Lab as an intern. My interests span 2D digitisation to 3D digitisation techniques such as RTI (Reflectance Transformation Imaging) and photogrammetry. I love how these techniques are applied to cultural heritage and wider research […]]]></summary>
+        <author>
+            <name>Gemma Poulton</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Community Open Principles: Before, During and After the Global Pandemic]]></title>
         <id>1318 at https://eadh.org</id>
         <link href="https://eadh.org/news/2021/06/21/community-open-principles-during-and-after-global-pandemic-0"/>
@@ -1439,6 +1526,23 @@ Continue reading "New ERC Project Exploring the Intersection between Surveillanc
 Despite its small size in terms of geography (2,586km2) and population (626,100 people on 1 January 2020), Luxembourg has an open, dynamic, innovative economy that is one of the most successful at international level – in 2019 its GDP per capita was 261% the European average and its growth rate was the third highest of the EU’s then 28 Member States – and also one of the least affected b…]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Humanitarian Mapping and Spatial Analysis" by Rupert Allan]]></title>
+        <id>33438 at http://digihum.ut.ee</id>
+        <link href="http://digihum.ut.ee/event/humanitarian-mapping-and-spatial-analysis-rupert-allan"/>
+        <updated>2021-06-14T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Asukoht: 
+
+Zoom
+
+
+
+...
+ Loe lähemalt "Humanitarian Mapping and Spatial Analysis" by Rupert Allan kohta]]></summary>
+        <author>
+            <name>a71389</name>
         </author>
     </entry>
     <entry>
@@ -1661,6 +1765,26 @@ on behalf of the Local Organisers of DHd 2022]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Digitisation of Smyth’s 1845 ‘Panorama of London’]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=729</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2021/06/digitisation-of-smyths-1845-panorama-of-london/"/>
+        <updated>2021-06-08T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[We are delighted to present an interactive map of the print of Smyth’s Panorama of London held in The Bill Douglas Cinema Museum’s collection (see here: EXEBD 12796): https://humanities-research.exeter.ac.uk/bdcm/panorama/bdcm_bl_complete_storymap.html  In the blog-post below, Ollie Anthony, Technical Assistant at the Digital Humanities Lab and former BDCM museum volunteer, explains the significance of the panorama and the […]]]></summary>
+        <author>
+            <name>Ollie Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If You Aren’t Happy with the Things Around You; Change the Things Around You.]]></title>
+        <id>https://dhlc.cal.msu.edu/?p=292</id>
+        <link href="https://dhlc.cal.msu.edu/2021/06/06/if-you-arent-happy-with-the-things-around-you-change-the-things-around-you/"/>
+        <updated>2021-06-06T16:26:24.000Z</updated>
+        <summary type="html"><![CDATA[By Mitch Carr Everybody can channel the excitement that comes with serendipitously coming across a work of art proudly showcased in their community. It inspires feelings of nostalgia through storytelling in a multimodal way. And, as I sit at the newly painted picnic tables located in front of Soul Nutrition in Downtown Lansing, I can’t […]]]></summary>
+        <author>
+            <name>carrmitc</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Job Offer: Professorship (W2-S) for “Historical Educational Research with a Focus on Digital Humanities” at Humboldt-Universität zu Berlin and DIPF]]></title>
         <id>1312 at https://eadh.org</id>
         <link href="https://eadh.org/news/2021/06/05/job-offer-professorship-w2-s-historical-educational-research-focus-digital"/>
@@ -1754,26 +1878,6 @@ Continue reading "“Infrastructural Interventions”: Digital Humanities & Crit
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[digitalHusserl is now LIVE!]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=775</id>
-        <link href="https://dhcommons.hypotheses.org/775"/>
-        <updated>2021-05-27T10:34:19.000Z</updated>
-        <summary type="html"><![CDATA[The Austro-German philosopher Edmund Husserl (born in Proßnitz, today Prostějov in 1859, died in Freiburg in 1938) remains one of the most influential philosophers of our time. He is considered the founder of phenomenology, which became one of the most significant origins of what has come to be called ‘continental philosophy’.  An astonishingly diverse range of philosophers have been directly influenced by Husserl’s works. The phenomenological method continues to be one of the richest methodological resources for philosophical thinking and scientific research, also in interdisciplinary settings […]]]></summary>
-        <author>
-            <name>Merisa Martinez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last DH Virtual Discussion Group for Belgian ECRs Tomorrow from 15-16h30 CET!]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=773</id>
-        <link href="https://dhcommons.hypotheses.org/773"/>
-        <updated>2021-05-26T15:06:47.000Z</updated>
-        <summary type="html"><![CDATA[Tomorrow will be the final instalment of this academic year’s DH Virtual Discussion Groups for Early Career Researchers working in Belgium. The topic of tomorrow’s discussion will be lightning pitches from researchers in our community who will be giving long-form presentations at DH Benelux 2021. While DH Benelux is hosted by the University of Leiden this year, it will be happening entirely online from 2 – 4 June 2021 (a.k.a. next week!). You can register for tomorrow’s discussion session, which will take place on […]]]></summary>
-        <author>
-            <name>Merisa Martinez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Different Cultures in Digital History]]></title>
         <id>3425 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/different-cultures-digital-history"/>
@@ -1823,6 +1927,16 @@ Podcast and debate
 Attendants will listen to 3 podcasts of about 10-15 mins addressing the methodology. There will be space to ask questions and have a debate about the approach, results of the analysis and the relation between digital and environmental sustainability. Furthermore, there will be the possibility to comment and give feedback on the podcast series.]]></summary>
         <author>
             <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event: ReproducibiliTea@KULeuven journal club on open data]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=687</id>
+        <link href="https://scholarlytales.hcommons.org/2021/05/25/event-reproducibiliteakuleuven-journal-club-on-open-data/"/>
+        <updated>2021-05-25T13:14:07.000Z</updated>
+        <summary type="html"><![CDATA[The next ReproducibiliTea@KULeuven journal club will take place online on Thursday 17 June (15h00-16h30). Two papers related to open data will be discussed, you can find the papers on the OSF page and Zotero library of ReproducibiliTea. Both staff and students from KU Leuven are welcome to attend (register here). Upon registration, you will receive an e-mail with a link needed to enter the online meeting. More information can be found here (KU Leuven intranet page). ReproducibiliTea is a grassroots journal...]]></summary>
+        <author>
+            <name>Laura Mesotten</name>
         </author>
     </entry>
     <entry>
@@ -1888,6 +2002,33 @@ Hope you find these changes useful! #dhhacks]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ESC’s Statement on Proposed Cuts to Higher Education Funding for Archaeology in the UK]]></title>
+        <id>https://sites.caa-international.org/main/?p=15701</id>
+        <link href="https://caa-international.org/2021/05/23/escs-statement-on-proposed-cuts-to-higher-education-funding-for-archaeology-in-the-uk/"/>
+        <updated>2021-05-23T15:24:43.000Z</updated>
+        <summary type="html"><![CDATA[The International Society for Computer Applications and Quantitative Methods in Archaeology (CAA) represents researchers, professionals and students working in diverse capacities to bring together the strengths of digital, computational and quantitative methods with creative, critical and impactful archaeological and heritage … Continue reading →]]></summary>
+        <author>
+            <name>Jeffrey Glover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer-based Text and Discourse Analysis]]></title>
+        <id>32937 at http://digihum.ut.ee</id>
+        <link href="http://digihum.ut.ee/event/computer-based-text-and-discourse-analysis"/>
+        <updated>2021-05-21T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Asukoht: 
+
+Zoom
+
+
+
+Järgmisel reedel, 21. mail, kl 10.15 -12 (zoomis) tutvustab Tartu Ülikooli maailma keelte ja kultuuride kolledži võõrkeelte erialase digipädevuse arendamise projekti raames Laurent Vanni, (...
+ Loe lähemalt Computer-based Text and Discourse Analysis kohta]]></summary>
+        <author>
+            <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Digitising Industrial Heritage]]></title>
         <id>3418 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/digitising-industrial-heritage"/>
@@ -1895,6 +2036,46 @@ Hope you find these changes useful! #dhhacks]]></summary>
         <summary type="html"><![CDATA[The legacy of industrialisation has resulted in “place[s] longing for historical self-assurance” (Achim Saupe). The current focus on industrial heritage has resulted in efforts to preserve and reconstruct this heritage in its original state. This applies not only to the memory of former workplaces, homes and recreation areas in post-industrial places, but also to the biographies of entrepreneurs, industrial workers and their families. The preservation and musealisation of former industrial landscapes raise further questions about the authenticity of such places. Public history, and with it the representation of the industrial past in museums, exhibitions and events, is situated between “original” representation and recreated staging. Furthermore, and this has been accelerated by the COVID-…]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Civil War & Reconstruction Governors of Alabama]]></title>
+        <id>https://adhc.lib.ua.edu/?p=727</id>
+        <link href="https://adhc.lib.ua.edu/cwrga/"/>
+        <updated>2021-05-18T19:49:33.000Z</updated>
+        <summary type="html"><![CDATA[The Civil War and Reconstruction Era was a period of great change and strife for the state of Alabama and the nation.  Documents included...]]></summary>
+        <author>
+            <name>adhcadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alabama Shakespeare Project]]></title>
+        <id>https://adhc.lib.ua.edu/?p=724</id>
+        <link href="https://adhc.lib.ua.edu/alabama-shakespeare-project/"/>
+        <updated>2021-05-18T19:47:53.000Z</updated>
+        <summary type="html"><![CDATA[The Alabama Shakespeare Project (ASP) is a performance-based research collective exploring early modern entertainments. To do so, we  stage free...]]></summary>
+        <author>
+            <name>adhcadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Religion & Science: Creating Health in 19th Century U.S.]]></title>
+        <id>https://adhc.lib.ua.edu/?p=717</id>
+        <link href="https://adhc.lib.ua.edu/rel120/"/>
+        <updated>2021-05-18T19:43:30.000Z</updated>
+        <summary type="html"><![CDATA[In Spring 2021, Dr. Jeri Wieringa’s REL120 class created a course website featuring exhibits and mapping to study religion and...]]></summary>
+        <author>
+            <name>adhcadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSC344]]></title>
+        <id>https://adhc.lib.ua.edu/?p=715</id>
+        <link href="https://adhc.lib.ua.edu/psc344-the-israel-palestine-conflict/"/>
+        <updated>2021-05-18T19:40:52.000Z</updated>
+        <summary type="html"><![CDATA[This project was created to showcase Dr. Daniel Levine’s Fall 2020 PSC344.001 – The Israel/Palestine Conflict course to showcase his...]]></summary>
+        <author>
+            <name>adhcadmin</name>
         </author>
     </entry>
     <entry>
@@ -1931,6 +2112,16 @@ Continue reading "New Book: ’Yesterday’s News: The Future of Long-form Journ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arabic Collections Online (ACO)]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=526</id>
+        <link href="https://scholarlytales.hcommons.org/2021/05/18/arabic-collections-online-aco/"/>
+        <updated>2021-05-18T08:46:55.000Z</updated>
+        <summary type="html"><![CDATA[The project Arabic Collections Online (ACO) is an online library specialized in providing Open Access to Arabic books and manuscripts in several scientific domains. ACO started its digitization project with the aim of providing free and global access to Arabic language content, which is currently not widely available. The project already offers access to over 16.000 volumes, however the goal of the project is to digitize 23.000 Arabic volumes. The topics range from philosophy and religion to political sciences and...]]></summary>
+        <author>
+            <name>Hanna Van Heesvelde</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Article: Maps of a Nation]]></title>
         <id>https://livingwithmachines.ac.uk/?p=1881</id>
         <link href="https://livingwithmachines.ac.uk/new-article-maps-of-a-nation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-article-maps-of-a-nation"/>
@@ -1938,6 +2129,16 @@ Continue reading "New Book: ’Yesterday’s News: The Future of Long-form Journ
         <summary type="html"><![CDATA[We have published a new Open Access article in the Journal of Victorian Culture about using Computer Vision with historical maps. ‘Maps of a Nation?’ describes our Computer Vision pipeline for working with thousands of maps at once, which enables new forms of historical inquiry based on spatial analysis. The Ordnance Survey has been the […]]]></summary>
         <author>
             <name>Katie McDonough</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event: Integrating Citizen Science at Universities: From ‘What’ to ‘How’]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=671</id>
+        <link href="https://scholarlytales.hcommons.org/2021/05/17/event-integrating-citizen-science-at-universities-from-what-to-how/"/>
+        <updated>2021-05-17T07:08:13.000Z</updated>
+        <summary type="html"><![CDATA[On 2 and 4 June, LIBER (Ligue des Bibliothèques Européennes de Recherche – Association of European Research Libraries) will organize a Citizen Science workshop at KU Leuven. The workshop will be of a highly participatory nature, with participants required to work in small groups during their own time. The first session will take place on the 2nd of June from 10.00-11.30 (CEST), followed by a second session on the 4th of June from 14.00-15.30 (CEST). Important to note: once registered, you are required to...]]></summary>
+        <author>
+            <name>Laura Mesotten</name>
         </author>
     </entry>
     <entry>
@@ -2096,6 +2297,26 @@ There’s also an alphabetical list of newspaper titles for easy browsing. The l
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Registration for CAA 2021 OPEN]]></title>
+        <id>https://sites.caa-international.org/main/?p=15692</id>
+        <link href="https://caa-international.org/2021/05/10/registration-for-caa-2021-open/"/>
+        <updated>2021-05-10T18:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Registration for CAA 2021 is now open. Please click here to be taken to the registration page.]]></summary>
+        <author>
+            <name>Jeffrey Glover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[360° Reich – een webtentoonstelling]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=659</id>
+        <link href="https://scholarlytales.hcommons.org/2021/05/10/360-reich-een-webtentoonstelling/"/>
+        <updated>2021-05-10T15:02:22.000Z</updated>
+        <summary type="html"><![CDATA[MATRIX [Centrum voor Nieuwe Muziek] zet mijlpalen in de muziekgeschiedenis sinds 1950 in de kijker met grote en kleinere tentoonstellingen. De webtentoonstelling Steve Reich 360° (www.stevereichexpo.be) is de meest recente verwezenlijking, en de eerste 100% online tentoonstelling. De expo werd ontwikkeld op vraag van Muziekcentrum De Bijloke Gent en sluit aan bij de concertprogrammering in seizoen 2020-21 met als één van de sleutelfiguren de Amerikaanse componist Steve Reich. Omwille van de coronamaatregelen werkten we het project volledig digitaal uit. We...]]></summary>
+        <author>
+            <name>Melissa Portaels</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Supporting Future Scholars: The Transkribus Scholarship Programme]]></title>
         <id>https://readcoop.eu/?p=23690</id>
         <link href="https://readcoop.eu/supporting-future-scholars-the-transkribus-scholarship-programme/"/>
@@ -2157,6 +2378,66 @@ The post Supporting Future Scholars: The Transkribus Scholarship Programme appea
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Event: DHSITE2021 with workshops on Python, Linked Open Data, Text Analysis, and Machine Translation]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=652</id>
+        <link href="https://scholarlytales.hcommons.org/2021/05/07/event-dhsite2021-with-workshops-on-python-linked-open-data-text-analysis-and-machine-translation/"/>
+        <updated>2021-05-07T07:41:40.000Z</updated>
+        <summary type="html"><![CDATA[DHSITE 2021 is taking place the weeks of May 17-21 and May 24-28. In this two-week period, they organize 18-hour micro-course workshops. Workshop topics include an Introduction to Python (in English and in French), Issues in Digital Humanities, Introduction to Linked Open Data, Text Analysis, and Machine Translation. The detailed program can be found on the event website. Registration is open! Be sure to reserve your spot. Micro-course workshops with low pre-registration will be cancelled. Additionally, part of DHSITE 2021, the...]]></summary>
+        <author>
+            <name>Laura Mesotten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get new Scholarly Tales posts in Outlook via the blog’s RSS feed]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=642</id>
+        <link href="https://scholarlytales.hcommons.org/2021/05/05/get-new-scholarly-tales-posts-in-outlook-via-the-blogs-rss-feed/"/>
+        <updated>2021-05-05T09:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Would you like to stay up to date with new posts on the Scholarly Tales blog right from Outlook? RSS, or Really Simple Syndication, is “a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format” (Wikipedia). Blogs and many other online resources, including academic journals and databases, often offer RSS feeds of their new content. By subscribing to RSS feeds, you can get updates from many sources delivered in one location. Where...]]></summary>
+        <author>
+            <name>Nele Noppe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding an Open Access journal with the DOAJ]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=612</id>
+        <link href="https://scholarlytales.hcommons.org/2021/05/05/finding-an-open-access-journal-with-the-doaj/"/>
+        <updated>2021-05-05T07:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Looking to publish in Open Access but not sure how to find a suitable Open Access journal in your specific discipline? The easiest way to start your search is browsing through the Directory of Open Access Journals (DOAJ), which was created to increase the accessibility, usage, and impact of quality OA resources. The DOAJ indexes academic journals across all disciplines that are peer-reviewed and only have the Full OA-option, not the Hybrid OA-option. If you already have a specific journal...]]></summary>
+        <author>
+            <name>Laura Bervoets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Short introduction to navigating Limo]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=438</id>
+        <link href="https://scholarlytales.hcommons.org/2021/05/04/short-introduction-to-navigating-limo/"/>
+        <updated>2021-05-04T10:22:31.000Z</updated>
+        <summary type="html"><![CDATA[Limo is the discovery service that allows you to search the entire KU Leuven Libraries collection. It is made up of an extensive collection of both printed and electronic resources. So with one search you will not only find all physical items (e.g. print books, journals, newspapers) available in KU Leuven Libraries but also scientific output from the university’s researchers, which are collected in Lirias, and a vast selection of e-resources, such as electronic books, journals, databases, and also audio-visual...]]></summary>
+        <author>
+            <name>Laura Bervoets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trial access: Eustathius, Commentary on the Iliad/Odyssey (Brill Scholarly Editions)]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=574</id>
+        <link href="https://scholarlytales.hcommons.org/2021/05/03/trial-access-eustathius-commentary-on-the-iliad-odyssey-brill-scholarly-editions/"/>
+        <updated>2021-05-03T16:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Until 25 May 2021 KU Leuven users have trial access to two new sources on the Brill Scholarly Editions platform: Eustathius of Thessalonica: Commentary on the Iliad This is the online version of the complete critical edition by Marchinus van der Valk of Eusthathius of Thessalonica’s Commentary on the Iliad, composed during the latter half of the twelfth century CE, published in hard copy by Brill between 1971–1987. Eustathius of Thessalonica: Commentary on the Odyssey This online publication (to be...]]></summary>
+        <author>
+            <name>Nele Baplu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aphra Behn: The Podcast]]></title>
+        <id>https://adhc.lib.ua.edu/?p=610</id>
+        <link href="https://adhc.lib.ua.edu/aphra-behn-the-podcast/"/>
+        <updated>2021-05-03T13:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Author, spy, political propagandist, Aphra Behn (1640–1689) was one of the first English women to earn a living by her pen. Set against...]]></summary>
+        <author>
+            <name>adhcadmin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models]]></title>
         <id>https://arxiv.org/abs/2008.05122v1</id>
         <link href="https://openmethods.dariah.eu/2021/04/29/2008-05122-the-language-interpretability-tool-extensible-interactive-visualizations-and-analysis-for-nlp-models/"/>
@@ -2184,16 +2465,6 @@ The post Supporting Future Scholars: The Transkribus Scholarship Programme appea
         <summary type="html"><![CDATA[Lessons from history, options for today. Thursday 29 April 2021 – 12pm-1pm (Zoom) Register for free. Join Dr. Adam Crymble for a free Programming Historian Teaching Workshop to celebrate the launch of his new book, Technology & the Historian: Transformations of the Digital Age, the first comprehensive history of historical studies in the digital age. […]]]></summary>
         <author>
             <name>uczcrym</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word Embeddings and Their Role in Synonym Ring Construction]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=756</id>
-        <link href="https://dhcommons.hypotheses.org/756"/>
-        <updated>2021-04-22T16:39:43.000Z</updated>
-        <summary type="html"><![CDATA[During the past couple of months, I have been trying to come up with an efficient way of constructing synonym rings for query expansion in a library discovery system (i.e., the online search interface of a library). I am doing this because I was given a list of e-books on the subject of Digital Humanities (DH) with the purpose of making them more discoverable on KU Leuven Libraries’ discovery platform. In my previous blogpost, I described what synonym rings are, but simply put, you […]]]></summary>
-        <author>
-            <name>Maria Dermentzi</name>
         </author>
     </entry>
     <entry>
@@ -2227,13 +2498,24 @@ The post Supporting Future Scholars: The Transkribus Scholarship Programme appea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Event – Old Books and New Technologies: Medieval Books and the Digital Humanities in the Low Countries]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=750</id>
-        <link href="https://dhcommons.hypotheses.org/750"/>
-        <updated>2021-04-19T12:21:44.000Z</updated>
-        <summary type="html"><![CDATA[On 6 and 7 May 2021, the Royal Library of Belgium (KBR) – together with several institutions including KU Leuven – will hold an international webinar on Old Books and New Technologies: Medieval Books and the Digital Humanities in the Low Countries. It will bring together researchers from libraries, archives, and museums, and university faculties with an interest in how the medieval book is contextualized by new technologies, with particular emphasis placed on the intersection of the medieval book and Digital Humanities. The languages […]]]></summary>
+        <title type="html"><![CDATA[Digital Ethnography, Where Art Thou?]]></title>
+        <id>https://www.vanderbilt.edu/digitalhumanities/?p=3118</id>
+        <link href="https://www.vanderbilt.edu/digitalhumanities/digital-ethnography-where-art-thou/"/>
+        <updated>2021-04-16T16:30:38.000Z</updated>
+        <summary type="html"><![CDATA[By Ashley Kim, Mellon Graduate Student Fellow from the Department of Sociology As an ethnographer, I started my current project the way all brilliant researchers do: inspired by an intriguing research question that popped into my head right as I hit the pillow at night… or in the shower? One of the two. I was...]]></summary>
         <author>
-            <name>Merisa Martinez</name>
+            <name>forehamj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kevadised seminarid digihumanitaarias / digilabor. Huvi üleskutse]]></title>
+        <id>32287 at http://digihum.ut.ee</id>
+        <link href="http://digihum.ut.ee/event/kevadised-seminarid-digihumanitaarias-digilabor-huvi-%C3%BCleskutse"/>
+        <updated>2021-04-15T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[...
+ Loe lähemalt Kevadised seminarid digihumanitaarias / digilabor. Huvi üleskutse kohta]]></summary>
+        <author>
+            <name>a71389</name>
         </author>
     </entry>
     <entry>
@@ -2309,6 +2591,16 @@ Continue reading "Marking work available at KCL in digital media & technology + 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Benefits of Research Collaboration]]></title>
+        <id>https://www.vanderbilt.edu/digitalhumanities/?p=3110</id>
+        <link href="https://www.vanderbilt.edu/digitalhumanities/the-benefits-of-research-collaboration/"/>
+        <updated>2021-04-07T18:47:15.000Z</updated>
+        <summary type="html"><![CDATA[The Benefits of Research Collaboration By Holly McCammon, Cornelius Vanderbilt Chair of Sociology and Professor of Sociology, Mellon Faculty Fellow I can imagine your frustration as you realize that the user-friendly and, yes, simplified software you’ve been using is no longer meeting your research needs.  Previously, it had been so helpful, as the software guided...]]></summary>
+        <author>
+            <name>forehamj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DHNB2022]]></title>
         <id>http://dig-hum-nord.eu/?p=1885</id>
         <link href="http://dhnb.eu/dhnb2022/"/>
@@ -2338,56 +2630,6 @@ The post Creating a 3D Map of an Archaeological Site in Blender appeared first o
 The post Transkribus at the municipal archive of the city of Bautzen appeared first on READ-COOP.]]></summary>
         <author>
             <name>Johanna Walcher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event: Linking People: Network Analysis and Intellectual History]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=747</id>
-        <link href="https://dhcommons.hypotheses.org/747"/>
-        <updated>2021-04-01T16:27:58.000Z</updated>
-        <summary type="html"><![CDATA[This hybrid round-table and workshop is co-organized between LECTIO, KU Leuven, and the University of Utrecht. Event dates: 11-12 May. Registration deadline: 30 April 2021. Over two days, participants will have the chance to try a hands-on approach to network analysis, with a mix of practical workshops and presentations of ongoing projects (by LECTIO members). The keynote speakers will be prof. Dirk Van Miert (University of Utrecht), presenting the ERC project “Sharing Knowledge in Learned and Literary Networks – The Republic of Letters as […]]]></summary>
-        <author>
-            <name>Merisa Martinez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fellowship Alert: Leibniz Institute of European History (for international PhD students)]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=745</id>
-        <link href="https://dhcommons.hypotheses.org/745"/>
-        <updated>2021-04-01T16:02:40.000Z</updated>
-        <summary type="html"><![CDATA[The Leibniz Institute of European History (IEG) in Mainz has one fellowship open for a a period of six to eight months for international doctoral students in the field of Digital Humanities. The fellowship will begin in July 2021 or later. The monthly stipend is € 1,350. Additionally, you can apply for family or child allowance. Applications are due 19 April 2021. More information below! AIMS The fellowship supports international doctoral students who wish to carry out their own research project using Digital Humanities […]]]></summary>
-        <author>
-            <name>Merisa Martinez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event: Brussels DH Online Seminar Series!]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=743</id>
-        <link href="https://dhcommons.hypotheses.org/743"/>
-        <updated>2021-04-01T15:39:30.000Z</updated>
-        <summary type="html"><![CDATA[The Vrije Universiteit Brussel and the Université Libre de Bruxelles have teamed up to create the Brussels DH seminars series! The next seminar will take place from 12:00 to 13:30 on 21 April 2021. The registration deadline is 15 April 2021. For more information keep reading! Ludovica Marinucci (Italian CNR): “Implicit biases in human and artificial intelligence”  The focus of the talk is to investigate the presence of the so-called “implicit biases” (Devine et al. 2009) in both human and artificial intelligence, especially encoded […]]]></summary>
-        <author>
-            <name>Merisa Martinez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fellowship Opportunity: Two Communications Fellowships for the Alliance of Digital Humanities Organizations (ADHO)]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=741</id>
-        <link href="https://dhcommons.hypotheses.org/741"/>
-        <updated>2021-04-01T15:26:53.000Z</updated>
-        <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for two Communications Fellowships, each of which will last from May – December 2021 and comes with a stipend of €500 Euros. The deadline for applications is 23:59 UTC on 15 April 2021. Each year, Communications Fellows work with ADHO’s Communications Officer to manage ADHO’s public communications activities. The fellowship is well suited for graduate students, young scholars, and academic professionals who wish to develop a deeper knowledge of digital humanities and its global communities, […]]]></summary>
-        <author>
-            <name>Merisa Martinez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event: KBR Digital Humanities Online Series]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=739</id>
-        <link href="https://dhcommons.hypotheses.org/739"/>
-        <updated>2021-04-01T15:04:55.000Z</updated>
-        <summary type="html"><![CDATA[The Royal Library of Belgium (KBR) is hosting an online series of three lectures given by Digital Humanities experts from across Belgium! This series is co-organized by KBR’s two labs: Camille (Center for Archives on the Media and Information) and the Digital Research Lab, in cooperation with Université Libre de Bruxelles and Ghent University. Dealing with a variety of topics, periods and methods, these talks will be held in English, with questions in French, Dutch or English. More information about each of the lectures […]]]></summary>
-        <author>
-            <name>Merisa Martinez</name>
         </author>
     </entry>
     <entry>
@@ -2469,16 +2711,6 @@ Thanks to the tireless nights-and-weeken…]]></summary>
 The post Behavioral Measures of Presence: Designing a VR Application appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
         <author>
             <name>Evgeny Kukshinov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Alert: Information Specialist – Digital Scholarship in the Humanities at Artes]]></title>
-        <id>http://dhcommons.hypotheses.org/?p=736</id>
-        <link href="https://dhcommons.hypotheses.org/736"/>
-        <updated>2021-03-22T17:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Big news! We have an opening at KU Leuven Libraries Artes on the Artes Research Team for an Information Specialist – Digital Scholarship in the Humanities. This position would report to our Artes Research Team Leader, Laura Mesotten, and work alongside Nele Noppe, our Data Librarian! The job would be a temporary to start with, and moving to permanent. It would be a full time, 1.0 FTE position (it can also be 80% if necessary). The ideal applicant would already know Dutch or be […]]]></summary>
-        <author>
-            <name>Merisa Martinez</name>
         </author>
     </entry>
     <entry>
