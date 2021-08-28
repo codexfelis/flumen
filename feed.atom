@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-27T08:12:08.627Z</updated>
+    <updated>2021-08-28T08:11:45.547Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -26,6 +26,16 @@
 Loe lähemalt Parima digihumanitaaria-alase lõputöö stipendium (600 eurot) kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Open ESC Positions]]></title>
+        <id>https://sites.caa-international.org/main/?p=15720</id>
+        <link href="https://caa-international.org/2021/08/28/call-for-open-esc-positions/"/>
+        <updated>2021-08-28T05:41:04.000Z</updated>
+        <summary type="html"><![CDATA[The CAA is looking for members who wish to join the ESC in the exciting work of coordinating CAA’s organisation throughout the year and encouraging the continued growth of a diverse and inspiring community. CAA members are invited to apply … Continue reading →]]></summary>
+        <author>
+            <name>Alicia Walsh</name>
         </author>
     </entry>
     <entry>
@@ -2857,17 +2867,6 @@ The post Speculative Objects: 3D Modeling of Imaginary Things appeared first on 
         <summary type="html"><![CDATA[The TEI Consortium has released version 4.2.1 of the TEI P5 Guidelines and version 7.51.1 of Styelsheets, a follow-up version of the TEI P5 Guidelines version 4.2.0 and Stylesheets version 7.51.0, where we surfaced an issue with the conversion of the constraints on attributes to XHTML. This problem did not effect the schemas, but made […]]]></summary>
         <author>
             <name>Martina Scholger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Light to Physical Creation: Using Projected Light to Fabricate Real-world Structures – Part 2]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=7571</id>
-        <link href="https://sites.temple.edu/tudsc/2021/02/28/digital-light-to-physical-creation-using-digital-light-projection-to-fabricate-real-world-structures-part-2/"/>
-        <updated>2021-03-01T02:26:58.000Z</updated>
-        <summary type="html"><![CDATA[By Kyle Schwab Previous Work: Prototyping a DLP 3D Printer In my previous post, I gave you a brief introduction to 3D printing and highlighted some recent advances in the field. I...
-The post Digital Light to Physical Creation: Using Projected Light to Fabricate Real-world Structures – Part 2 appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
-        <author>
-            <name>Kyle Schwab</name>
         </author>
     </entry>
 </feed>
