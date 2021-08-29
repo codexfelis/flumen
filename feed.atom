@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-28T08:11:45.547Z</updated>
+    <updated>2021-08-29T08:11:40.117Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -26,6 +26,16 @@
 Loe lähemalt Parima digihumanitaaria-alase lõputöö stipendium (600 eurot) kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAA UK 2021 Conference Call for Papers]]></title>
+        <id>https://uk.caa-international.org/?p=1252</id>
+        <link href="https://uk.caa-international.org/2021/08/28/caa-uk-2021-conference-call-for-papers/"/>
+        <updated>2021-08-28T08:49:09.000Z</updated>
+        <summary type="html"><![CDATA[The CAA UK committee have opened the call for papers for the 2021 online conference. The 2021 CAA UK conference will be held across two half days in December (10th – 11th) and this year’s theme is an open call. … Continue reading →]]></summary>
+        <author>
+            <name>lawrenceshaw</name>
         </author>
     </entry>
     <entry>
@@ -2857,16 +2867,6 @@ The post Speculative Objects: 3D Modeling of Imaginary Things appeared first on 
         <summary type="html"><![CDATA[The Annual General Assembly (AGM) will be held online on on Monday, May 31 at 5 pm CET. AGM agenda will be published on our website closer to the meeting.]]></summary>
         <author>
             <name>Olga Holownia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEI P5 Guidelines version 4.2.1 and Stylesheets version 7.51.1 released]]></title>
-        <id>https://tei-c.org/?p=30943</id>
-        <link href="https://tei-c.org/2021/03/02/tei-p5-guidelines-version-4-2-1-and-stylesheets-version-7-51-1-released/"/>
-        <updated>2021-03-02T08:30:25.000Z</updated>
-        <summary type="html"><![CDATA[The TEI Consortium has released version 4.2.1 of the TEI P5 Guidelines and version 7.51.1 of Styelsheets, a follow-up version of the TEI P5 Guidelines version 4.2.0 and Stylesheets version 7.51.0, where we surfaced an issue with the conversion of the constraints on attributes to XHTML. This problem did not effect the schemas, but made […]]]></summary>
-        <author>
-            <name>Martina Scholger</name>
         </author>
     </entry>
 </feed>

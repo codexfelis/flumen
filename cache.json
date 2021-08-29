@@ -1897,15 +1897,6 @@
           "publishedOn": "2021-03-16T19:57:15.000Z",
           "wordCount": 179,
           "title": "RomaJS release 0.3.1 out now!"
-        },
-        {
-          "id": "https://tei-c.org/?p=30943",
-          "author": "Martina Scholger",
-          "description": "The TEI Consortium has released version 4.2.1 of the TEI P5 Guidelines and version 7.51.1 of Styelsheets, a follow-up version of the TEI P5 Guidelines version 4.2.0 and Stylesheets version 7.51.0, where we surfaced an issue with the conversion of the constraints on attributes to XHTML. This problem did not effect the schemas, but made […]",
-          "link": "https://tei-c.org/2021/03/02/tei-p5-guidelines-version-4-2-1-and-stylesheets-version-7-51-1-released/",
-          "publishedOn": "2021-03-02T08:30:25.000Z",
-          "wordCount": 243,
-          "title": "TEI P5 Guidelines version 4.2.1 and Stylesheets version 7.51.1 released"
         }
       ]
     },
@@ -1913,7 +1904,17 @@
       "title": "CAA UK",
       "feedUrl": "https://uk.caa-international.org/feed",
       "siteUrl": "https://uk.caa-international.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://uk.caa-international.org/?p=1252",
+          "author": "lawrenceshaw",
+          "description": "The CAA UK committee have opened the call for papers for the 2021 online conference. The 2021 CAA UK conference will be held across two half days in December (10th – 11th) and this year’s theme is an open call. … Continue reading →",
+          "link": "https://uk.caa-international.org/2021/08/28/caa-uk-2021-conference-call-for-papers/",
+          "publishedOn": "2021-08-28T08:49:09.000Z",
+          "wordCount": 508,
+          "title": "CAA UK 2021 Conference Call for Papers"
+        }
+      ]
     },
     {
       "title": "Tim Sherratt",
