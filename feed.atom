@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-08-29T08:11:40.117Z</updated>
+    <updated>2021-08-30T08:12:14.489Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -26,6 +26,38 @@
 Loe lähemalt Parima digihumanitaaria-alase lõputöö stipendium (600 eurot) kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some research projects that have used QueryPic]]></title>
+        <id>http://wragge.micro.blog/2021/08/30/some-research-projects.html</id>
+        <link href="https://updates.timsherratt.org/2021/08/30/some-research-projects.html"/>
+        <updated>2021-08-30T01:48:11.000Z</updated>
+        <summary type="html"><![CDATA[A Twitter thread about some of the research uses of QueryPic…
+QueryPic, my tool for visualising searches in @TroveAustralia’s digitised newspapers, has been around in different forms for more than 10 years. The latest version is part of the #GLAMWorkbench: https://t.co/qnY5tVDwgY  #researchinfrastructure pic.twitter.com/QyHWJwGV3u
+— Tim Sherratt (@wragge) August 29, 2021
+
+
+
+I thought I’d highlight some of the research publications that have made use of QueryPic over the years, so, in no particular order...
+— Tim Sherratt (@wragge) August 29, 2021
+There’s @Airminded’s article in @HistAustJournal – Brett Holman (2013) 'Dreaming War: Airmindedness and the Australian Mystery Aeroplane Scare of 1918', History Australia, 10:2, 180-201, DOI: https://t.co/2wgiLueHGL
+— Tim Sherratt (@wragge) August…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government publications in Trove]]></title>
+        <id>http://wragge.micro.blog/2021/08/30/government-publications-in.html</id>
+        <link href="https://updates.timsherratt.org/2021/08/30/government-publications-in.html"/>
+        <updated>2021-08-30T01:21:46.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few weeks I’ve been updating my harvests of OCRd text from digitised books and periodicals in Trove. As part of the harvesting process, I’ve created lists of both that are available in digital form – this includes digitised works, as well as those that are born-digital (such as PDFs or epubs). I’ve published the full lists of books and periodicals as searchable databases to make them easy to explore.
+
+One thing that you might notice is that works with the format ‘Government publication’ pop up in both lists – sometimes it’s not clear whether something is a ‘book’ or ‘periodical’. To make it easier to find these items, no matter what their format, I’ve combined data from my two harvests and created a searchable dataset of government publications. It includes links to download OCRd text from CloudStor if available.
+All three databases make use of Datasette, which I’ve also used for the GLAM Name Index Search. One of the cool things about Datasette is that it provides it’s own API, so if you find some interesting in any of these databases, you can easily download the machine-readable data for further analysis. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>

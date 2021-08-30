@@ -1922,6 +1922,24 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2021/08/30/some-research-projects.html",
+          "author": null,
+          "description": "A Twitter thread about some of the research uses of QueryPic…\nQueryPic, my tool for visualising searches in @TroveAustralia’s digitised newspapers, has been around in different forms for more than 10 years. The latest version is part of the #GLAMWorkbench: https://t.co/qnY5tVDwgY  #researchinfrastructure pic.twitter.com/QyHWJwGV3u\n— Tim Sherratt (@wragge) August 29, 2021\n\n\n\nI thought I’d highlight some of the research publications that have made use of QueryPic over the years, so, in no particular order...\n— Tim Sherratt (@wragge) August 29, 2021\nThere’s @Airminded’s article in @HistAustJournal – Brett Holman (2013) 'Dreaming War: Airmindedness and the Australian Mystery Aeroplane Scare of 1918', History Australia, 10:2, 180-201, DOI: https://t.co/2wgiLueHGL\n— Tim Sherratt (@wragge) August…",
+          "link": "https://updates.timsherratt.org/2021/08/30/some-research-projects.html",
+          "publishedOn": "2021-08-30T01:48:11.000Z",
+          "wordCount": 627,
+          "title": "Some research projects that have used QueryPic"
+        },
+        {
+          "id": "http://wragge.micro.blog/2021/08/30/government-publications-in.html",
+          "author": null,
+          "description": "Over the last few weeks I’ve been updating my harvests of OCRd text from digitised books and periodicals in Trove. As part of the harvesting process, I’ve created lists of both that are available in digital form – this includes digitised works, as well as those that are born-digital (such as PDFs or epubs). I’ve published the full lists of books and periodicals as searchable databases to make them easy to explore.\n\nOne thing that you might notice is that works with the format ‘Government publication’ pop up in both lists – sometimes it’s not clear whether something is a ‘book’ or ‘periodical’. To make it easier to find these items, no matter what their format, I’ve combined data from my two harvests and created a searchable dataset of government publications. It includes links to download OCRd text from CloudStor if available.\nAll three databases make use of Datasette, which I’ve also used for the GLAM Name Index Search. One of the cool things about Datasette is that it provides it’s own API, so if you find some interesting in any of these databases, you can easily download the machine-readable data for further analysis. #dhhacks",
+          "link": "https://updates.timsherratt.org/2021/08/30/government-publications-in.html",
+          "publishedOn": "2021-08-30T01:21:46.000Z",
+          "wordCount": 219,
+          "title": "Government publications in Trove"
+        },
+        {
           "id": "http://wragge.micro.blog/2021/08/26/glam-workbench-a.html",
           "author": null,
           "description": "We’re in the midst of planning for the HASS Research Data Commons, which will deliver some much-needed investment in digital research infrastructure for the humanities and social sciences. Amongst the funded programs are tools for text analysis as part of the Linguistics Data Commons, and a platform for more advanced research using Trove. I’m hoping that this will be an opportunity to take stock of existing tools and resources, and build flexible pathways for researchers that enable them to collect, move, analyse, preserve, and share data across different platforms and services.\nTo this end, I thought it might be useful to try and summarise what the GLAM Workbench offers, particularly for Trove researchers. The GLAM Workbench doesn’t really have an institutional home, and is mostly unfunde…",
