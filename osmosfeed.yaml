@@ -24,7 +24,7 @@ sources:
   - href: https://dhlc.cal.msu.edu/feed
   - href: https://dhn.lamp4.utoronto.ca/feed
   - href: https://dhn.utoronto.ca/feed
-  - href: https://dhnetwork.org/feed
+  # - href: https://dhnetwork.org/feed  # Temporarily removed - bad SSL cert
   - href: https://dhsi.org/feed
   - href: https://dig-hum.de/aktuelles/feed
   - href: https://digital.humanities.ox.ac.uk/rss.xml
