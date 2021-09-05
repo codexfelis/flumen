@@ -805,6 +805,31 @@
       ]
     },
     {
+      "title": "DH@SDSU Blog",
+      "feedUrl": "https://dhblog.sdsu.edu/feed",
+      "siteUrl": "https://dhblog.sdsu.edu",
+      "articles": [
+        {
+          "id": "https://dhblog.sdsu.edu/?p=553",
+          "author": "Pam Lach",
+          "description": "Honoring our Experience as Rationale for Cancellation The annual Digital Humanities Showcase and Electronic Literature Competition is the culminating moment of DH@SDSU’s academic year. Part celebration of the DH projects faculty and students create in diverse classes across campus, part celebration of our DH staff and their year long labors, our showcase is all celebration. […]",
+          "link": "https://dhblog.sdsu.edu/dh-news/our-dh-showcase-statement",
+          "publishedOn": "2021-03-19T19:30:29.000Z",
+          "wordCount": 665,
+          "title": "Our DH Showcase Statement"
+        },
+        {
+          "id": "https://dhblog.sdsu.edu/?p=532",
+          "author": "Pam Lach",
+          "description": "The DH Center at SDSU Library is thrilled to welcome two new SDSU student assistants to our staff for Spring 2021. Fabrizio and Hannah will be working to develop additional self-paced tool tutorials, adding to our growing collection of tutorials that cover podcasting, video creation, Voyant for text analysis, FontForge, Twine, and more. Fabrizio Lacarra […]",
+          "link": "https://dhblog.sdsu.edu/dh-news/meet-the-dh-centers-new-student-assistants",
+          "publishedOn": "2021-03-16T23:58:26.000Z",
+          "wordCount": 571,
+          "title": "Meet the DH Center’s New Student Assistants"
+        }
+      ]
+    },
+    {
       "title": "centerNet",
       "feedUrl": "https://dhcenternet.org/rss.xml",
       "siteUrl": "https://dhcenternet.org",
@@ -1238,10 +1263,155 @@
       ]
     },
     {
+      "title": "Digital History an der Universität Bielefeld (@BieDigital)",
+      "feedUrl": "https://digital-history.uni-bielefeld.de/feed",
+      "siteUrl": "https://digital-history.uni-bielefeld.de",
+      "articles": [
+        {
+          "id": "https://digital-history.uni-bielefeld.de/?p=449",
+          "author": "Adrian Strothotte",
+          "description": "von Jonas Penningroth Im Rahmen des Grundseminars Methodik „Geschichte mit Daten“ an der Universität Bielefeld hatten einige Kommilitonen und ich unter Anleitung durch Silke Schwandt mit Unterstützung durch ihr Digital History-Team die Möglichkeit, das datengestützte digitale Arbeiten in der Geschichtswissenschaft kennenzulernen. Als Ergebnis können wir jetzt eine Data Story zu Johann Friedrich Blumenbachs Schädelsammlung präsentieren. Zu Anfang…",
+          "link": "https://digital-history.uni-bielefeld.de/2021/07/27/neue-data-story-von-studierenden-ein-erfahrungsbericht/",
+          "publishedOn": "2021-07-27T09:03:24.000Z",
+          "wordCount": 521,
+          "title": "Neue Data Story von Studierenden: Ein Erfahrungsbericht"
+        },
+        {
+          "id": "https://digital-history.uni-bielefeld.de/?p=442",
+          "author": "Adrian Strothotte",
+          "description": "Das Team @BieDigital engagiert sich bei der Summerschool: „Digital History – Neue Werkzeuge für Quellenerschließung und Textanalyse“, die vom 23. bis 27.08.2021 von der Forschungsstelle für die Geschichte der Hanse und des Ostseeraums (FGHO) in Kooperation mit dem Historischen Seminar der CAU Kiel ausgerichtet wird. Im Rahmen der Sommerschule sollen die wichtigsten Techniken und Tools…",
+          "link": "https://digital-history.uni-bielefeld.de/2021/07/15/summerschool-digital-history-neue-werkzeuge-fuer-quellenerschliessung-und-textanalyse/",
+          "publishedOn": "2021-07-15T07:22:01.000Z",
+          "wordCount": 369,
+          "title": "Summerschool: „Digital History – Neue Werkzeuge für Quellenerschließung und Textanalyse“"
+        },
+        {
+          "id": "https://digital-history.uni-bielefeld.de/?p=419",
+          "author": "Anna Neubert",
+          "description": "Das Digital Humanities Summer Institute (DHSI) ist eine seit 20 Jahren regelmäßig stattfindende Sommerschule, die zum Diskutieren und Lernen neuer Technologien anregt und Fragen aufwirft, wie das „Digitale“ Lehre, Forschung und Wissensproduktion in verschiedenen Disziplinen beeinflusst. 2021 war die zweite Online Edition der Sommerschule, die fast 2.000 Teilnehmende aus der ganzen Welt zählte. Teil des…",
+          "link": "https://digital-history.uni-bielefeld.de/2021/07/08/whats-in-a-project-beitrag-auf-der-dhsi-2021/",
+          "publishedOn": "2021-07-08T14:42:55.000Z",
+          "wordCount": 532,
+          "title": "„What’s in a project?“ – Beitrag auf der DHSI 2021",
+          "enclosure": {
+            "url": "https://digital-history.uni-bielefeld.de/wp-content/uploads/2021/07/LightningTalk_ANeubert_DHSI_PMintheHumanities_subbed_new.mp4",
+            "length": "9547071",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "https://digital-history.uni-bielefeld.de/?p=411",
+          "author": "Adrian Strothotte",
+          "description": "Die Digital Academy geht in die nächste Runde – dieses Jahr mit dem Thema „Data Stories. Wie Datafication neue Erzählformate herausfordert und Wissenschaftskommunikation befördert.“ Das Team @BieDigital freut sich auf anregende Projekte von Forschenden (M.A., PhD, Post Doc), die sich gezielt austauschen möchten und ein eigenes Forschungsthema mitbringen, das sie in Form einer Data Story…",
+          "link": "https://digital-history.uni-bielefeld.de/2021/05/03/digital-academy-2021-call-for-participation-jetzt-online/",
+          "publishedOn": "2021-05-03T12:05:04.000Z",
+          "wordCount": 298,
+          "title": "Digital Academy 2021 – Call for Participation jetzt online"
+        }
+      ]
+    },
+    {
       "title": "Site 3",
       "feedUrl": "https://digital.humanities.ox.ac.uk/rss.xml",
       "siteUrl": "https://digital.humanities.ox.ac.uk",
       "articles": []
+    },
+    {
+      "title": "Digital Democracies Institute",
+      "feedUrl": "https://digitaldemocracies.org/feed",
+      "siteUrl": "https://digitaldemocracies.org",
+      "articles": [
+        {
+          "id": "https://digitaldemocracies.org/?p=1597",
+          "author": "Amy Harris",
+          "description": "Luciana’s presentation was an absolute tempest of ideas, provocations and inspiration. As one of the leading critical thinkers of our time this was not to be unexpected, but in trying …\n  Luciana Parisi – Critique and Machine Philosophy Read More »\nLuciana Parisi – Critique and Machine Philosophy first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/luciana-parisi-critique-and-machine-philosophy/?utm_source=rss&utm_medium=rss&utm_campaign=luciana-parisi-critique-and-machine-philosophy",
+          "publishedOn": "2021-07-19T20:01:08.000Z",
+          "wordCount": 2121,
+          "title": "Luciana Parisi – Critique and Machine Philosophy"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=1544",
+          "author": "Amy Harris",
+          "description": "Jonathan Gray came to talk to the Institute about the inspiring ways that the incredibly interdisciplinary Public Data Lab conducts their projects, and he sold it SO WELL that I …\n  Jonathan Gray – Modifying Methods: Collaborative Research At The Public Data Lab Read More »\nJonathan Gray – Modifying Methods: Collaborative Research At The Public Data Lab first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/jonathan-gray-modifying-methods-collaborative-research-at-the-public-data-lab/?utm_source=rss&utm_medium=rss&utm_campaign=jonathan-gray-modifying-methods-collaborative-research-at-the-public-data-lab",
+          "publishedOn": "2021-07-12T15:32:03.000Z",
+          "wordCount": 1003,
+          "title": "Jonathan Gray – Modifying Methods: Collaborative Research At The Public Data Lab"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=1532",
+          "author": "Amy Harris",
+          "description": "Jutta Treviranus is the Director of the Inclusive Design Research Centre (IDRC) and professor at OCAD University in Toronto, formerly the Adaptive Technology Resource Centre. It was fascinating to think …\n  Jutta Treviranus – Deciding, measuring and planning Read More »\nJutta Treviranus – Deciding, measuring and planning first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/jutta-treviranus-deciding-measuring-and-planning/?utm_source=rss&utm_medium=rss&utm_campaign=jutta-treviranus-deciding-measuring-and-planning",
+          "publishedOn": "2021-06-30T19:15:31.000Z",
+          "wordCount": 1379,
+          "title": "Jutta Treviranus – Deciding, measuring and planning"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=1508",
+          "author": "Amy Harris",
+          "description": "Niels’ talk was a really fascinating prospect to consider in conjunction with the previous presentation from Anna Engelhardt. He described his talk as being a work in progress about “the …\n  Niels ten Oever – The quantum state of topological infrastructure reconfigurations: the case of 5G Read More »\nNiels ten Oever – The quantum state of topological infrastructure reconfigurations: the case of 5G first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/niels-ten-oever-the-quantum-state-of-topological-infrastructure-reconfigurations-the-case-of-5g/?utm_source=rss&utm_medium=rss&utm_campaign=niels-ten-oever-the-quantum-state-of-topological-infrastructure-reconfigurations-the-case-of-5g",
+          "publishedOn": "2021-06-23T21:33:19.000Z",
+          "wordCount": 1288,
+          "title": "Niels ten Oever – The quantum state of topological infrastructure reconfigurations: the case of 5G"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=1500",
+          "author": "Amy Harris",
+          "description": "The prospect of hearing from Anna Engelhardt about her work on cyber warfare has been a highly anticipated presentation, and she did not disappoint. First of all, it would be …\n  Anna Engelhardt – Spectral Volumes of Russian Cyber Warfare Read More »\nAnna Engelhardt – Spectral Volumes of Russian Cyber Warfare first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/anna-engelhardt-spectral-volumes-of-russian-cyber-warfare/?utm_source=rss&utm_medium=rss&utm_campaign=anna-engelhardt-spectral-volumes-of-russian-cyber-warfare",
+          "publishedOn": "2021-06-21T18:06:17.000Z",
+          "wordCount": 785,
+          "title": "Anna Engelhardt – Spectral Volumes of Russian Cyber Warfare"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=1487",
+          "author": "Amy Harris",
+          "description": "There are rare occurrences when you have the opportunity to hear truly iconic authors, and this was one. I had been incredibly excited for the presentation from Kara Keeling, having …\n  Kara Keeling – Queer Times, Black Futures Read More »\nKara Keeling – Queer Times, Black Futures first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/kara-keeling-queer-times-black-futures/?utm_source=rss&utm_medium=rss&utm_campaign=kara-keeling-queer-times-black-futures",
+          "publishedOn": "2021-06-14T15:59:25.000Z",
+          "wordCount": 1628,
+          "title": "Kara Keeling – Queer Times, Black Futures"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=1474",
+          "author": "Amy Harris",
+          "description": "Jodi prefaced their talk with saying that the work they are presenting today is a work in progress, which will hopefully result in a book! [Congrats Jodi!]. In being sensitive …\n  Jodi Byrd – Indigenomicon Read More »\nJodi Byrd – Indigenomicon first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/jodi-byrd-indigenomicon/?utm_source=rss&utm_medium=rss&utm_campaign=jodi-byrd-indigenomicon",
+          "publishedOn": "2021-06-08T15:48:42.000Z",
+          "wordCount": 1224,
+          "title": "Jodi Byrd – Indigenomicon"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=1452",
+          "author": "Amy Harris",
+          "description": "The Spry Memorial Lecture has been a consistent highlight in the School of Communication calendar since its inception in 1996. It is a joint initiative between SFU and the University …\n  Spry Memorial Lecture Read More »\nSpry Memorial Lecture first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/spry-memorial-lecture/?utm_source=rss&utm_medium=rss&utm_campaign=spry-memorial-lecture",
+          "publishedOn": "2021-05-25T17:46:38.000Z",
+          "wordCount": 428,
+          "title": "Spry Memorial Lecture"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=1435",
+          "author": "Amy Harris",
+          "description": "Nanna described her presentation as being about projects she’s working on, so she was both nervous and excited to see potential collaborations with the work that we do at the …\n  Nanna Bonde Thylstrup – Dataset Ethics: Deleting archives, encountering remains Read More »\nNanna Bonde Thylstrup – Dataset Ethics: Deleting archives, encountering remains first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/nanna-bonde-thylstrup-dataset-ethics-deleting-archives-encountering-remains/?utm_source=rss&utm_medium=rss&utm_campaign=nanna-bonde-thylstrup-dataset-ethics-deleting-archives-encountering-remains",
+          "publishedOn": "2021-05-19T21:12:06.000Z",
+          "wordCount": 1640,
+          "title": "Nanna Bonde Thylstrup – Dataset Ethics: Deleting archives, encountering remains"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=1404",
+          "author": "Amy Harris",
+          "description": "Asia Bazdireva and Solveig Qu Suess describe their collective practice known as Geocinema as a collective that explores the possibilities of a “planetary” notion of cinema. For this presentation they …\n  Geocinema – Environmental Machines, Datified Earths Read More »\nGeocinema – Environmental Machines, Datified Earths first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/geocinema/?utm_source=rss&utm_medium=rss&utm_campaign=geocinema",
+          "publishedOn": "2021-04-30T16:45:12.000Z",
+          "wordCount": 1467,
+          "title": "Geocinema – Environmental Machines, Datified Earths"
+        }
+      ]
     },
     {
       "title": "Digital Humanities",
@@ -1886,6 +2056,40 @@
       "feedUrl": "https://medium.com/@metalabharvard/feed",
       "siteUrl": "https://medium.com/@metalabharvard?source=rss-db3c64260dfa------2",
       "articles": []
+    },
+    {
+      "title": "Stories by Pelagios on Medium",
+      "feedUrl": "https://medium.com/@PelagiosNetwork/feed",
+      "siteUrl": "https://medium.com/@PelagiosNetwork?source=rss-f96d74f645aa------2",
+      "articles": [
+        {
+          "id": "https://medium.com/p/561ab331a1bc",
+          "author": "Pelagios",
+          "description": "by Josh Kemp",
+          "link": "https://medium.com/pelagios/beyond-translation-building-better-greek-scholars-561ab331a1bc?source=rss-f96d74f645aa------2",
+          "publishedOn": "2021-09-02T08:40:25.000Z",
+          "wordCount": 1218,
+          "title": "Beyond Translation: Building Better Greek Scholars"
+        },
+        {
+          "id": "https://medium.com/p/a1739af87853",
+          "author": "Pelagios",
+          "description": "written by Miranda Williams",
+          "link": "https://medium.com/pelagios/introducing-the-manar-al-athar-photo-archive-a1739af87853?source=rss-f96d74f645aa------2",
+          "publishedOn": "2021-08-23T10:12:24.000Z",
+          "wordCount": 602,
+          "title": "Introducing the Manar al-Athar Photo-Archive"
+        },
+        {
+          "id": "https://medium.com/p/e4e3ad3ea7f2",
+          "author": "Pelagios",
+          "description": "By Virginia Boyero",
+          "link": "https://medium.com/pelagios/pelagios-introduces-activity-lead-virginia-boyero-on-annotation-games-and-history-e4e3ad3ea7f2?source=rss-f96d74f645aa------2",
+          "publishedOn": "2021-07-12T08:06:22.000Z",
+          "wordCount": 602,
+          "title": "Pelagios Introduces: Activity Lead Virginia Boyero- on annotation, games and history."
+        }
+      ]
     },
     {
       "title": "Digital Linguistics - Medium",
@@ -3452,6 +3656,22 @@
           "publishedOn": "2021-07-12T16:29:50.000Z",
           "wordCount": 1200,
           "title": "A Recap on CLARIN Café: ParlaMint Unleashed"
+        }
+      ]
+    },
+    {
+      "title": "Japanese Association for Digital Humanities",
+      "feedUrl": "https://www.jadh.org/rss.xml",
+      "siteUrl": "https://www.jadh.org",
+      "articles": [
+        {
+          "id": "65 at https://www.jadh.org",
+          "author": "adminweb",
+          "description": "JADH2021 Registration\n1. Check your membership of ADHO\n2. If you are not an ADHO member, pay your registration fee. Otherwise, skip this step.\n3. Input your information on Registration form. If impossible, email your information to us.\nRegistration fee\nMembership\nFee\nADHO member\n0 JPY\n\nNon-ADHO member\n4000 JPY\n\nNon-ADHO student member\n2000 JPY\n\nYou can join ADHO immediately on the following Web page. Purchase \"Members - Joint membership of all Associations in the Alliance of Digital Humanities Organizations\". Membership only price is £25.00 and Student membership only price is £15.00\nhttps://academic.oup.com/dsh/subscribe\n\n\nOtherwise, pay your registration fee, if you are not ADHO memeber:\n\n\n\nStatus\n\n\nNon-ADHO member ¥4,000 JPY\nNon-ADHO student member ¥2,000 JPY\n\n\n\n\n\n\n\n\nRegistration\nFill the Registration form\n\n\nIf you can not access to the registration form, please send email to conf2021-at-jadh.org (replace \"-at-\" with \"@\"), including the following information.\nName\n\nAffiliation\n\nPresenter or not\n\nADHO member or not\n\nIf you are an ADHO member, your customer number on OUP",
+          "link": "https://www.jadh.org/node/65",
+          "publishedOn": "2021-08-03T14:47:48.000Z",
+          "wordCount": 219,
+          "title": "JADH2021 regstration"
         }
       ]
     },
