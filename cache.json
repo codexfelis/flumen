@@ -661,6 +661,15 @@
       "siteUrl": "https://dh.rutgers.edu",
       "articles": [
         {
+          "id": "https://dh.rutgers.edu/?p=77377",
+          "author": "Francesca Giannetti",
+          "description": "by Caterina Agostini and Francesca Giannetti Introduction Earlier this year, Rutgers was invited to become a participant in the beta evaluation of ITHAKA JSTOR’s Constellate, a text analysis and pedagogy platform. As a result, we have had early view into a rapidly evolving service that aims to advance text analytics pedagogy. While pedagogy is its main thrust at the moment, Constellate is a fairly complex offering that is structured around three “pillars”: data, pedagogy, and research. For readers who are familiar with JSTOR’s Data for Research (DfR) program, which has provided researchers with bibliographic metadata, unigrams, bigrams, and trigrams for JSTOR journals and books since",
+          "link": "https://dh.rutgers.edu/constellate-for-text-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=constellate-for-text-analysis",
+          "publishedOn": "2021-09-06T17:14:35.000Z",
+          "wordCount": 1887,
+          "title": "Introducing Constellate for Text Analysis"
+        },
+        {
           "id": "https://dh.rutgers.edu/?p=77332",
           "author": "Caterina Agostini",
           "description": "By Ben Bakelaar and Caterina Agostini   IIIF is an acronym that stands for International Image Interoperability Format. An easy way to think of IIIF is like a webpage. A webpage is built with HTML, via hypertext markup language. It pulls together text, images, and other multimedia into a single view. In the same way, a IIIF object is built using JSON, and links together metadata and powerful image capabilities which allow institutions to deliver ultra-high resolution images quickly and efficiently to a IIIF viewer. Any image (and even audio and video) can become a IIIF object by building a manifest that uses the IIIF standard to describe its",
@@ -1048,15 +1057,6 @@
           "publishedOn": "2021-04-22T22:52:00.000Z",
           "wordCount": 801,
           "title": "Call For Funding: Emerging Projects Fund"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=1512",
-          "author": "DHN Admin",
-          "description": "Join the DHN as we conclude our winter 2021 Lightning Lunch series! With a focus on the intersection of energy and digital humanities, this lunch will explore how energy humanists have integrated the study of new media and digital technologies into analysis of infrastructure and the environment. We are delighted to host Anne Pasek (Trent ... Read More",
-          "link": "https://dhn.utoronto.ca/1512-2/",
-          "publishedOn": "2021-03-11T18:53:28.000Z",
-          "wordCount": 1019,
-          "title": "March 30 Lightning Lunch – EH/DH: Energy Humanities and the Digital Turn"
         }
       ]
     },
@@ -1503,6 +1503,15 @@
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
         {
+          "id": "discourse.computational-humanities-research.org-topic-865",
+          "author": "marie.bizais",
+          "description": "Hello,\nMy name is Marie Bizais-Lillig. I work on a large body of medieval Chinese texts. I edit these texts in XML-TEI format. I have also used Blast-based scripts to identify cases of text reuse. I am not very satisfied with the results. The project that I lead, which is entitled CHI-KNOW-PO, is funded by the Institute of Advanced Studies of the University of Strasbourg (USIAS, France).\nThe CHI-KNOW-PO project aims to develop tools to identify cases of text reuse and thematic cooccurrences in a more efficient way. The team will be composed of two research assistants, one postdoctoral researcher and myself.\nThis message is meant to publicize the job offer related to the postdoctoral position.\nI am looking for someone with experience in programming system design for text processing analysis…",
+          "link": "https://discourse.computational-humanities-research.org/t/postdoctoral-position-in-natural-language-processing-text-reuse-and-cooccurrences/865",
+          "publishedOn": "2021-09-06T09:51:03.000Z",
+          "wordCount": 433,
+          "title": "Postdoctoral Position in Natural Language Processing: Text reuse and cooccurrences"
+        },
+        {
           "id": "discourse.computational-humanities-research.org-topic-864",
           "author": "ryan.heuser",
           "description": "And kind of upset. I thought the reviews were rather harsh. They seemed to misunderstand and downplay the humanistic payoff of the paper, instead discounting the piece for not following a (IMO stale) intro-methods-results-conclusion rubric, with heavy citation to related methods, as if I were only developing new tools rather than deriving new historical insights from them. I’m not familiar with this event but I thought this was more computational humanities than computational social science or computer science. What disciplinary backgrounds do the reviewers hail from?\nCongratulations, though, to those accepted, and thanks to the organisers for putting this together. Sorry for being a bit petty: I’ve just been rejected from ADHO a few times now, I think for being a bit too pitched to a computational-heavy audience, and now rejected from CHR, for being a bit too pitched to a humanistic audience, and wondering where my work even belongs anymore. But I will work to improve the piece and submit elsewhere.\n1 post - 1 participant\nRead full topic",
@@ -1708,15 +1717,6 @@
           "publishedOn": "2021-03-18T14:20:06.000Z",
           "wordCount": 445,
           "title": "Visualising outputs of the R package Stylo when using large datasets"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-768",
-          "author": "ryan.heuser",
-          "description": "Hi everyone. Following this discussion on twitter about the difficulty in finding literary corpora for specific purposes, I wanted to clean up a catalogue of corpora I’ve been using and working on for a while.\nIt’s now here on github. 32 corpora, most of which have free or downloadable components. Some have components which are locked behind instutional or other paywalls; but, provided you find your own access to those data, there’s code here to wrangle them into more plyable forms.\nThere’s also code for using each corpus:\n#install: pip install -qU git+https://github.com/quadrismegistus/lltk\nimport lltk\n\n# load a corpus (will automatically download if nec.)\nC = lltk.load('TxtLab')\n\n# get metadata\ndf = C.meta\n\n# get common data, e.g. doc-term matrix of top 1000 nouns\ndtm = C.dtm(n=1000, only_pos={'n*'})\n\nThe idea is kind of like NLTK’s: corpora on LLTK can live there in standardized form for easy and quick access anywhere (e.g. through Colab, etc). Custom or private corpora also work.\nI’d also love to talk more about how we can connect these and other corpora together through Linked Open Data (to e.g. Wikidata).\nI’m posting this not as a finished tool but so I can stop procrastinating on it and go back to some other stuff I need to do!\nAll best,\n7 posts - 4 participants\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/corralling-corpora-and-code/768",
-          "publishedOn": "2021-03-11T11:38:28.000Z",
-          "wordCount": 652,
-          "title": "Corralling corpora and code"
         }
       ]
     },
@@ -2261,15 +2261,6 @@
           "publishedOn": "2021-04-29T09:58:00.000Z",
           "wordCount": 984,
           "title": "The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models"
-        },
-        {
-          "id": "http://openmethods.dariah.eu/?p=2878",
-          "author": "Marinella Testori",
-          "description": "Introduction: Standing for 'Architecture of Knowledge', ArCo is an open set of resources developed and managed by some Italian institutions, like the MiBAC (Minister for the Italian Cultural Heritage) and, within it, the ICCD - Institute of the General Catalogue and Documentation), and the CNR - Italian National Research Council. Through the application of eXtreme Design (XD), ArCO basically consists in an ontology network comprising seven modules (the arco, the core, the catalogue, the location, the denotative description, the context description, and the cultural event) and a set of LOD data comprising a huge amount of linked entities referring to the national Italian cultural resources, properties and events. Under constant refinement, ArCo represents an example of a \"robust Semantic Web resource\" (Carriero et al., 11) in the field of cultural heritage, along with other projects like, just to mention a couple of them, the Google Arts&Culture (https://artsandculture.google.com/) or the Smithsonian American Art Museum (https://americanart.si.edu/about/lod).\n\n[Click ‘Read more’ for the full post!]",
-          "link": "https://openmethods.dariah.eu/2021/03/11/cultural-ontologies-the-arco-knowledge-graph/",
-          "publishedOn": "2021-03-11T11:39:55.000Z",
-          "wordCount": 1111,
-          "title": "Cultural Ontologies: the ArCo Knowledge Graph."
         }
       ]
     },

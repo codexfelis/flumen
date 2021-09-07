@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-09-06T08:13:08.071Z</updated>
+    <updated>2021-09-07T08:12:41.042Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -26,6 +26,30 @@
 Loe lähemalt Parima digihumanitaaria-alase lõputöö stipendium (600 eurot) kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Constellate for Text Analysis]]></title>
+        <id>https://dh.rutgers.edu/?p=77377</id>
+        <link href="https://dh.rutgers.edu/constellate-for-text-analysis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=constellate-for-text-analysis"/>
+        <updated>2021-09-06T17:14:35.000Z</updated>
+        <summary type="html"><![CDATA[by Caterina Agostini and Francesca Giannetti Introduction Earlier this year, Rutgers was invited to become a participant in the beta evaluation of ITHAKA JSTOR’s Constellate, a text analysis and pedagogy platform. As a result, we have had early view into a rapidly evolving service that aims to advance text analytics pedagogy. While pedagogy is its main thrust at the moment, Constellate is a fairly complex offering that is structured around three “pillars”: data, pedagogy, and research. For readers who are familiar with JSTOR’s Data for Research (DfR) program, which has provided researchers with bibliographic metadata, unigrams, bigrams, and trigrams for JSTOR journals and books since]]></summary>
+        <author>
+            <name>Francesca Giannetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postdoctoral Position in Natural Language Processing: Text reuse and cooccurrences]]></title>
+        <id>discourse.computational-humanities-research.org-topic-865</id>
+        <link href="https://discourse.computational-humanities-research.org/t/postdoctoral-position-in-natural-language-processing-text-reuse-and-cooccurrences/865"/>
+        <updated>2021-09-06T09:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+My name is Marie Bizais-Lillig. I work on a large body of medieval Chinese texts. I edit these texts in XML-TEI format. I have also used Blast-based scripts to identify cases of text reuse. I am not very satisfied with the results. The project that I lead, which is entitled CHI-KNOW-PO, is funded by the Institute of Advanced Studies of the University of Strasbourg (USIAS, France).
+The CHI-KNOW-PO project aims to develop tools to identify cases of text reuse and thematic cooccurrences in a more efficient way. The team will be composed of two research assistants, one postdoctoral researcher and myself.
+This message is meant to publicize the job offer related to the postdoctoral position.
+I am looking for someone with experience in programming system design for text processing analysis…]]></summary>
+        <author>
+            <name>marie.bizais</name>
         </author>
     </entry>
     <entry>
@@ -4860,58 +4884,6 @@ In 2021, Communications Fellows will contribute to the development of a new mult
 The post Using Historical GIS to Discover the Spatial and Temporal Trends of the Construction of Temples in Fujian appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
         <author>
             <name>Rouying Tang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 30 Lightning Lunch – EH/DH: Energy Humanities and the Digital Turn]]></title>
-        <id>https://dhn.utoronto.ca/?p=1512</id>
-        <link href="https://dhn.utoronto.ca/1512-2/"/>
-        <updated>2021-03-11T18:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Join the DHN as we conclude our winter 2021 Lightning Lunch series! With a focus on the intersection of energy and digital humanities, this lunch will explore how energy humanists have integrated the study of new media and digital technologies into analysis of infrastructure and the environment. We are delighted to host Anne Pasek (Trent ... Read More]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cultural Ontologies: the ArCo Knowledge Graph.]]></title>
-        <id>http://openmethods.dariah.eu/?p=2878</id>
-        <link href="https://openmethods.dariah.eu/2021/03/11/cultural-ontologies-the-arco-knowledge-graph/"/>
-        <updated>2021-03-11T11:39:55.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: Standing for 'Architecture of Knowledge', ArCo is an open set of resources developed and managed by some Italian institutions, like the MiBAC (Minister for the Italian Cultural Heritage) and, within it, the ICCD - Institute of the General Catalogue and Documentation), and the CNR - Italian National Research Council. Through the application of eXtreme Design (XD), ArCO basically consists in an ontology network comprising seven modules (the arco, the core, the catalogue, the location, the denotative description, the context description, and the cultural event) and a set of LOD data comprising a huge amount of linked entities referring to the national Italian cultural resources, properties and events. Under constant refinement, ArCo represents an example of a "robust Semantic Web resource" (Carriero et al., 11) in the field of cultural heritage, along with other projects like, just to mention a couple of them, the Google Arts&Culture (https://artsandculture.google.com/) or the Smithsonian American Art Museum (https://americanart.si.edu/about/lod).
-
-[Click ‘Read more’ for the full post!]]]></summary>
-        <author>
-            <name>Marinella Testori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corralling corpora and code]]></title>
-        <id>discourse.computational-humanities-research.org-topic-768</id>
-        <link href="https://discourse.computational-humanities-research.org/t/corralling-corpora-and-code/768"/>
-        <updated>2021-03-11T11:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone. Following this discussion on twitter about the difficulty in finding literary corpora for specific purposes, I wanted to clean up a catalogue of corpora I’ve been using and working on for a while.
-It’s now here on github. 32 corpora, most of which have free or downloadable components. Some have components which are locked behind instutional or other paywalls; but, provided you find your own access to those data, there’s code here to wrangle them into more plyable forms.
-There’s also code for using each corpus:
-#install: pip install -qU git+https://github.com/quadrismegistus/lltk
-import lltk
-
-# load a corpus (will automatically download if nec.)
-C = lltk.load('TxtLab')
-
-# get metadata
-df = C.meta
-
-# get common data, e.g. doc-term matrix of top 1000 nouns
-dtm = C.dtm(n=1000, only_pos={'n*'})
-
-The idea is kind of like NLTK’s: corpora on LLTK can live there in standardized form for easy and quick access anywhere (e.g. through Colab, etc). Custom or private corpora also work.
-I’d also love to talk more about how we can connect these and other corpora together through Linked Open Data (to e.g. Wikidata).
-I’m posting this not as a finished tool but so I can stop procrastinating on it and go back to some other stuff I need to do!
-All best,
-7 posts - 4 participants
-Read full topic]]></summary>
-        <author>
-            <name>ryan.heuser</name>
         </author>
     </entry>
 </feed>
