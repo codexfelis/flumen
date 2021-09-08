@@ -55,6 +55,15 @@
       "siteUrl": "http://dhnb.eu",
       "articles": [
         {
+          "id": "http://dhnb.eu/?p=1939",
+          "author": "Olga Holownia",
+          "description": "DHNB 2023 & 2024: CALL FOR HOST – FINAL DRAFT The Digital Humanities in the Nordic and Baltic Countries (DHNB) Board invites proposals to host the 2023 and 2024 DHNB Conferences.  Held five times since 2016, our conference has become a fixed annual event in the DH calendar. After successful events in Oslo, Gothenburg, Helsinki, Copenhagen, […]",
+          "link": "http://dhnb.eu/call-for-hosts-dhnb-2023-2024/",
+          "publishedOn": "2021-09-07T23:33:53.000Z",
+          "wordCount": 674,
+          "title": "CALL FOR HOSTS: DHNB 2023 & 2024"
+        },
+        {
           "id": "http://dig-hum-nord.eu/?p=1905",
           "author": "Sanita",
           "description": "Post-Proceedings of the 5th Conference Digital Humanities in the Nordic Countries (DHN 2020)  are published in CEUR Workshop Proceedings. It is an open-access publication service where already four volumes of DHN conference proceedings have been published. DHN2020 Post-Proceedings contain 26 papers presented in an online conference in Riga/Zoom in October 2020. Editors: Sanita Reinsone (Institute […]",
@@ -2538,313 +2547,6 @@
       ]
     },
     {
-      "title": "Reviews in Digital Humanities",
-      "feedUrl": "https://reviewsindh.pubpub.org/rss.xml",
-      "siteUrl": "https://reviewsindh.pubpub.org",
-      "articles": [
-        {
-          "id": "918e07ef-7e71-4a6b-9a71-420a83a766e8",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the August 2021 issue of Reviews in Digital Humanities, guest edited by Mary Caton Lingold",
-          "link": "https://reviewsindh.pubpub.org/pub/ed-note-august-2021",
-          "publishedOn": "2021-08-16T00:00:00.000Z",
-          "wordCount": 1749,
-          "title": "Editors' Note: August 2021",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/ksztn0o0/71628950594945.png"
-          }
-        },
-        {
-          "id": "9241c6f8-ac9a-472c-b120-c923703a81c4",
-          "author": "Damascus Kafumbe",
-          "description": "A review of Gulu SoundTracks, a collection of audio tracks that invites listeners into the sonic habitus and imaginations of their Gulu-based creators, created by Joella Bitter",
-          "link": "https://reviewsindh.pubpub.org/pub/gulusoundtracks",
-          "publishedOn": "2021-08-16T00:00:00.000Z",
-          "wordCount": 1110,
-          "title": "Review: Gulu SoundTracks",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/6ngb7lzo/51629034342900.png"
-          }
-        },
-        {
-          "id": "c62a7450-5479-4f95-a7e1-4f539134c69a",
-          "author": "Brittnay L. Proctor",
-          "description": "A review of .break .dance, an interactive choreo-essay on Black diasporic existence, created by Marisa Parham",
-          "link": "https://reviewsindh.pubpub.org/pub/breakdance",
-          "publishedOn": "2021-08-16T00:00:00.000Z",
-          "wordCount": 1734,
-          "title": "Review: .break .dance",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/f2oge2mr/61628956980138.png"
-          }
-        },
-        {
-          "id": "c6a2b438-8034-4732-bce5-84f60df0fa41",
-          "author": "KC Hysmith",
-          "description": "A review of Sound Never Tasted So Good, a project that explores how the senses work together in gustatory experiences, created by Steph Ceraso",
-          "link": "https://reviewsindh.pubpub.org/pub/sound-never-tasted-so-good",
-          "publishedOn": "2021-08-16T00:00:00.000Z",
-          "wordCount": 1194,
-          "title": "Review: Sound Never Tasted So Good",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/9pcx79l1/51629035424687.png"
-          }
-        },
-        {
-          "id": "e0d3c166-7d96-4a1a-8c39-f3ebec3bc96f",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the July 2021 issue of Reviews in Digital Humanities",
-          "link": "https://reviewsindh.pubpub.org/pub/ed-note-july-2021",
-          "publishedOn": "2021-07-12T00:00:00.000Z",
-          "wordCount": 491,
-          "title": "Editors' Note: July 2021",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/qacqhd21/51625925171807.png"
-          }
-        },
-        {
-          "id": "0e7ce1cb-739a-4c72-a419-712610b25df6",
-          "author": "Megan Smeznik",
-          "description": "A review of Digital Community Engagement, an open-access volume of case studies on digital partnerships, edited by Rebecca S. Wingo, Jason A. Heppler, and Paul Schadewald",
-          "link": "https://reviewsindh.pubpub.org/pub/digital-community-engagement",
-          "publishedOn": "2021-07-12T00:00:00.000Z",
-          "wordCount": 1086,
-          "title": "Review: Digital Community Engagement",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/byijo5e2/71625921883158.png"
-          }
-        },
-        {
-          "id": "7701ea1a-cf89-49f6-acb2-8798e727bb3c",
-          "author": "Andrew Thacker",
-          "description": "A review of the Shakespeare and Company Project, a database of records from Sylvia Beach's Shakespeare and Company bookshop, created by Joshua Kotin",
-          "link": "https://reviewsindh.pubpub.org/pub/shakespeare-and-company-project",
-          "publishedOn": "2021-07-12T00:00:00.000Z",
-          "wordCount": 1190,
-          "title": "Review: Shakespeare and Company Project",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/1ejrvo2d/61625923721778.png"
-          }
-        },
-        {
-          "id": "818889bc-b43b-4eb0-95c4-d6d6668c8049",
-          "author": "Christina Boyles",
-          "description": "A review of Project TwitLit, a social media analysis project examining writing communities on Twitter, created by Christian Howard-Sukhil",
-          "link": "https://reviewsindh.pubpub.org/pub/project-twitter-literature",
-          "publishedOn": "2021-07-12T00:00:00.000Z",
-          "wordCount": 1401,
-          "title": "Review: Project TwitLit",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/uo74med6/01625917609754.png"
-          }
-        },
-        {
-          "id": "c8d9ceb5-ed3d-4031-973b-44c944e01603",
-          "author": "R.C. Miessler",
-          "description": "A review of War Stories, a digital project that tells the stories of children during World War II, created by Gabrielle Atwood Halko",
-          "link": "https://reviewsindh.pubpub.org/pub/war-stories",
-          "publishedOn": "2021-07-12T00:00:00.000Z",
-          "wordCount": 1076,
-          "title": "Review: War Stories",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/1tua4q89/51625919387396.png"
-          }
-        },
-        {
-          "id": "48e9feee-077d-4ef5-a4dc-82b26141e7dd",
-          "author": "Hadassah St. Hubert",
-          "description": "A review of  RSHHGG Lab, an index for Revue de la société Haïtienne d’histoire, de géographie et de géologie (RSHHGG), directed by Chelsea Stieber",
-          "link": "https://reviewsindh.pubpub.org/pub/rshhgg-lab",
-          "publishedOn": "2021-06-14T00:00:00.000Z",
-          "wordCount": 1369,
-          "title": "Review: RSHHGG Lab",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/kzhjajqn/61623585908355.png"
-          }
-        },
-        {
-          "id": "75d38955-4050-487a-893c-bafb816996fc",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the June 2021 issue of Reviews in Digital Humanities",
-          "link": "https://reviewsindh.pubpub.org/pub/ed-note-june-2021",
-          "publishedOn": "2021-06-14T00:00:00.000Z",
-          "wordCount": 639,
-          "title": "Editors' Note: June 2021",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/kisr2pcu/61623597161029.png"
-          }
-        },
-        {
-          "id": "0871ddbf-23b0-4ffd-b2cf-04ebf2e2c0b6",
-          "author": "Kristan M. Hanson",
-          "description": "A review of GeoMAP, a cartographic project on the history of the Parisian art market, created by Léa Saint-Raymond, Félicie Faizand de Maupeou, and Julien Cavero",
-          "link": "https://reviewsindh.pubpub.org/pub/geomap",
-          "publishedOn": "2021-06-14T00:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Review: GeoMAP",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/kc3msibw/51623596715059.png"
-          }
-        },
-        {
-          "id": "603a6acc-d92e-4d3b-8ad2-ca8a056566c0",
-          "author": "Alex Saum-Pascual",
-          "description": "A review of Emblem/as, a  work of electronic literature exploring personal and geographic cartography, created by Tina Escaja",
-          "link": "https://reviewsindh.pubpub.org/pub/emblemas",
-          "publishedOn": "2021-06-14T00:00:00.000Z",
-          "wordCount": 1097,
-          "title": "Review: Emblem/as",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/x1ir2hvd/21623593632572.png"
-          }
-        },
-        {
-          "id": "aec6c6f0-dc8c-48a9-a8bf-533815a76313",
-          "author": "Kimber Thomas",
-          "description": "A review of Against All Odds, a digital archive of the African American men who served in the Mississippi state legislature from Reconstruction until the 1890s, created by DeeDee Baldwin",
-          "link": "https://reviewsindh.pubpub.org/pub/against-all-odds",
-          "publishedOn": "2021-06-14T00:00:00.000Z",
-          "wordCount": 1115,
-          "title": "Review: Against All Odds",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/4qie3qd5/41623590279295.png"
-          }
-        },
-        {
-          "id": "13c711f2-2059-4336-890f-193a0c2cf912",
-          "author": "Kate Galloway",
-          "description": "A review of Singing Box 331, a project examining a pamphlet of Mohican-language hymn texts from the 1740s, created by Rachel Wheeler and Sarah Eyerly",
-          "link": "https://reviewsindh.pubpub.org/pub/singing-box-331",
-          "publishedOn": "2021-05-11T21:58:18.000Z",
-          "wordCount": 1425,
-          "title": "Review: Singing Box 331",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/ffwormxe/41620770329359.png"
-          }
-        },
-        {
-          "id": "96a31db9-df7b-46db-a0b2-7283f4b92b0e",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the May 2021 issue of Reviews in Digital Humanities",
-          "link": "https://reviewsindh.pubpub.org/pub/ed-note-may-2021",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 680,
-          "title": "Editors' Note: May 2021",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/zjfrkh8g/21620472586807.png"
-          }
-        },
-        {
-          "id": "bf2d3fa7-41da-4355-91e0-47115f9a19ff",
-          "author": "Brandon Walsh",
-          "description": "A review of Visualizing Objects, Places, and Spaces, a compendium of resources for all stages of digital project development, created by Beth Fischer and Hannah Jacobs",
-          "link": "https://reviewsindh.pubpub.org/pub/visualizing-objects-places-and-spaces",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 1178,
-          "title": "Review: Visualizing Objects, Places, and Spaces",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/0qcyknxb/51620442192191.png"
-          }
-        },
-        {
-          "id": "700222b0-7b2f-4186-8087-cc1b4e5f9fa0",
-          "author": "Claire A. Tratnyek",
-          "description": "A review of Land and Legacy, a project investigating the University of Virginia’s land expansion since the 1980s, directed by Janet S. Dunkelbarger, Connor Kenaston, Natasha Roth-Rowland, Lauren Van Nest, and Chloe Down Wells",
-          "link": "https://reviewsindh.pubpub.org/pub/land-and-legacy",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 1789,
-          "title": "Review: Land and Legacy",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/9fufynx2/51620440990616.png"
-          }
-        },
-        {
-          "id": "bf990101-17db-4bde-9754-ee94042a0995",
-          "author": "Shavagne Scott",
-          "description": "A review of Mapping Marronage, an interactive project examining the mobility of enslaved people in the 18th and 19th centuries, directed by Annette Joseph-Gabriel",
-          "link": "https://reviewsindh.pubpub.org/pub/mapping-marronage",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 1131,
-          "title": "Review: Mapping Marronage",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/2zo4n6c5/51620434470151.png"
-          }
-        },
-        {
-          "id": "079f1918-eaaa-4787-8a0e-2e44e7e77d47",
-          "author": "Avery Blankenship",
-          "description": "A review of GeoNewsMiner, an app visualizing geographical references in historical newspapers, created by Lorella Viola and Jaap Verheul",
-          "link": "https://reviewsindh.pubpub.org/pub/geonewsminer",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 1307,
-          "title": "Review: GeoNewsMiner",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/vsobpuwx/31620439634112.png"
-          }
-        },
-        {
-          "id": "08f7ce73-b923-4908-9f86-57b151bc4eb1",
-          "author": "Katherin Tairo-Quispe",
-          "description": "A review of Mapping the Gay Guides, a project mapping  data from Bob Damron’s Address Books, created by Amanda Regan and Eric Gonzaba",
-          "link": "https://reviewsindh.pubpub.org/pub/mapping-the-gay-guides",
-          "publishedOn": "2021-04-12T00:00:00.000Z",
-          "wordCount": 1356,
-          "title": "Review: Mapping the Gay Guides",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/7tcd62ki/41617991651349.png"
-          }
-        },
-        {
-          "id": "3940ec72-e88e-4166-b9c4-eabb1c8d55e3",
-          "author": "Ali Gunnells",
-          "description": "A review of Collective Biographies of Women, a project dedicated to the prosopography of women from books published in the late 19th and early 20th centuries, created by Alison Booth",
-          "link": "https://reviewsindh.pubpub.org/pub/collective-biographies-of-women",
-          "publishedOn": "2021-04-12T00:00:00.000Z",
-          "wordCount": 1585,
-          "title": "Review: Collective Biographies of Women",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/yqd82umd/01617986854575.jpg"
-          }
-        },
-        {
-          "id": "a1bfe606-471d-4ff0-8adc-6d647628408c",
-          "author": "Becky Yatsuknenko",
-          "description": "A review of Lesbian and Gay Liberation in Canada, an interactive digital resource for the study of lesbian, gay, bisexual, transgender, and queer (LGBTQ+) history in Canada from 1964 to 1981, directed by Constance Crompton and Michelle Schwartz",
-          "link": "https://reviewsindh.pubpub.org/pub/lesbian-gay-liberation-canada",
-          "publishedOn": "2021-04-12T00:00:00.000Z",
-          "wordCount": 1204,
-          "title": "Review: Lesbian and Gay Liberation in Canada",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/iob43ks9/71617994196800.png"
-          }
-        },
-        {
-          "id": "7b4cd2c9-e421-4129-b8bd-29e3c5400b7c",
-          "author": "James Lacitignola",
-          "description": "A review of Readux, an open source software platform for digitized texts, directed by Rebecca Sutton Koeser",
-          "link": "https://reviewsindh.pubpub.org/pub/readux",
-          "publishedOn": "2021-04-12T00:00:00.000Z",
-          "wordCount": 984,
-          "title": "Review: Readux",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/jotgelzw/31617997182899.png"
-          }
-        },
-        {
-          "id": "01fedc58-16f3-4a91-9195-1e4bca191f30",
-          "author": "Patrick Sui",
-          "description": "A review of the Distant Viewing Toolkit, a software library for computational analysis of visual culture, developed by Taylor Arnold and Lauren Tilton",
-          "link": "https://reviewsindh.pubpub.org/pub/distant-viewing-toolkit",
-          "publishedOn": "2021-04-12T00:00:00.000Z",
-          "wordCount": 1256,
-          "title": "Review: Distant Viewing Toolkit",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/klsh4w0a/01617998460643.png"
-          }
-        }
-      ]
-    },
-    {
       "title": "The Scholarly Tales",
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
@@ -2999,15 +2701,6 @@
           "publishedOn": "2021-03-23T13:53:56.000Z",
           "wordCount": 1409,
           "title": "Behavioral Measures of Presence: Designing a VR Application"
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=7615",
-          "author": "Rouying Tang",
-          "description": "By Rouying Tang I will introduce my digital project in this blog post. This project maps the trends related to temples constructed in Fujian, a Southeastern province in China. It ranges from...\nThe post Using Historical GIS to Discover the Spatial and Temporal Trends of the Construction of Temples in Fujian appeared first on Loretta C. Duckworth Scholars Studio.",
-          "link": "https://sites.temple.edu/tudsc/2021/03/12/using-historical-gis-to-discover-the-spatial-and-temporal-trends-of-the-construction-of-temples-in-fujian/",
-          "publishedOn": "2021-03-12T22:11:02.000Z",
-          "wordCount": 1409,
-          "title": "Using Historical GIS to Discover the Spatial and Temporal Trends of the Construction of Temples in Fujian"
         }
       ]
     },
@@ -3429,6 +3122,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "3563 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "During the last two decades, scholars have increasingly stressed the importance of culture in the history of European integration. Studies have unpacked the European Union’s attempts to sell the European project to audiences in the Member States and abroad, yet little is known about the role exhibitions played in this process. Developing stands and pavilions for regional, national and international exhibitions formed a significant strategy within the European cultural politics complex. My PhD thesis looks at the participation of the EU in the international exhibitions that hold the largest political and symbolic importance: World Expos.\nIn her thesis Anastasia Remes selects four pavilions as case studies: the European Coal and Steel Community pavilion in Brussels in 1958, the European Communities pavilion in Montreal in 1967, the European Community pavilion in Seville in 1992 and the EU pavilion in Shanghai in 2010. In this presentation, I will discuss how the European pavilions presented the EU at the various World Expos. I will expand on the three research questions that have driven my research: to what extent is the EU presented as a state, how is the EU’s global power constructed and how did the EU transform its message in engaging pavilions and exhibitions?\n \nTuesday, 21 September 2021, starting at 17.00\nOnline\nfor the Webex link please contact Adelina Stefan at oana.stefan@uni.lu\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/europe_seminar_remes21_septe_mber.jpg?itok=xB3flKaS\n  'Europe' seminar with Anastasia Remes, European University Institute\n  21 September 2021\n  Contemporary history of Europe\n  Cultural policies  European integration\n  Conferences\n  Published  \nColor photograph of the European Coal and Steel Community Pavilion at Expo 58, Unknown author, 1958, CEAB12-531, p.94, Historical Archives of the European Union, Florence, Italy.",
+          "link": "https://www.c2dh.uni.lu/events/european-union-pavilions-world-expos-between-1958-and-2010",
+          "publishedOn": "2021-09-07T08:19:09.000Z",
+          "wordCount": 466,
+          "title": "The European Union Pavilions in World Expos between 1958 and 2010"
+        },
+        {
           "id": "3535 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "Longtime associated with its working-class history, the ”Red Esch” was also composed of a diversified bourgeoisie, as well as of a thriving middle-class.\nThis research attempts to provide for the first comprehensive class and cultural history, focusing exclusively on the middle-classes and bourgeoisie of early 20th century Esch-sur-Alzette.\nWho were the members of the middle and upper classes? Where did they come from? What were their professional occupations? Which space, whether social, commercial and residential did they occupy within the city? In which ways did they contribute to the urban development, improvement and embellishment of Esch-sur-Alzette?\nThrough her presentation, Suzana Cascao  will introduce the audience to the work in progress, i.e, the ways in which she designed her research (including sources and methodology), conceptual issues, research questions, its limitations and goals.\n \nWednesday, 15 September 2021\n14.00 - 15.00\nOnline - Webex\nIf you want to participate, please send an e-mail to vanessa.napolitano@uni.lu to receive the link.\n15 September 2021\n  Contemporary history of Luxembourg\n  Remixing Industrial Pasts in the Digital Age: Sounds, Images, Ecologies, Practices and Materialities in Space and Time\n  Cultural studies  Regional history\n  Research seminars\n  Published  \n    Hide image in content detail",
@@ -3531,6 +3233,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5588 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "CLARIN Newsflash about CLARIN2021 is out!\n\n            \n\n  \n  \n            \n    \n\n              \n              \n                  \n\n  \nRead all about the virtual CLARIN Annual Conference 2021 (CLARIN2021) here\nEvery month, CLARIN publishes a newsflash with an overview of what has been happening at CLARIN \n\">ERIC, the national consortia, etc. Subscribing to it is the ideal way of staying informed.\n Subscribe here\n Past issues of the CLARIN newsflash\nIf you have a news item (or call for papers, event announcement) that is relevant for the newsflash, please send a 1-paragraph summary and a URL with more information to newsflash@clarin.eu.\n\n      Elisa Gorgaini\n 8 September 2021",
+          "link": "https://www.clarin.eu/news/clarin-newsflash-about-clarin2021-out",
+          "publishedOn": "2021-09-08T13:11:30.000Z",
+          "wordCount": 227,
+          "title": "CLARIN Newsflash about CLARIN2021 is out!"
+        },
         {
           "id": "5583 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
@@ -3668,6 +3379,24 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=10676",
+          "author": "Melanie Cheung",
+          "description": "Find out more about the Professional Practice Fellowship Scheme The Arts and Humanities Research Council (AHRC) and Research Libraries UK (RLUK) are delighted to make a pre-call announcement regarding the forthcoming launch of a Professional Practice Fellowship Scheme. A Town hall meeting to accompany this pre-call will be held on Wednesday 22 September at which [...]\nThe post AHRC-RLUK Professional Practice Fellowships – pre-call information appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/ahrc-rluk-professional-practice-fellowships-pre-call-information/",
+          "publishedOn": "2021-09-08T11:04:35.000Z",
+          "wordCount": 1433,
+          "title": "AHRC-RLUK Professional Practice Fellowships – pre-call information"
+        },
+        {
+          "id": "https://www.rluk.ac.uk/?p=10702",
+          "author": "Melanie Cheung",
+          "description": "Librarians and archivists at CILIP, Research Libraries UK, and SCONUL stand in solidarity with fellow librarians and archivists in Afghanistan. We are gravely concerned at the threat to the safety and security of librarians and archivists resulting from the change of regime in Afghanistan. They have dedicated their professional lives to serving the people and [...]\nThe post Statement of solidarity with librarians and archivists in Afghanistan appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/statement-of-solidarity-with-librarians-and-archivists-in-afghanistan/",
+          "publishedOn": "2021-09-07T08:50:18.000Z",
+          "wordCount": 1286,
+          "title": "Statement of solidarity with librarians and archivists in Afghanistan"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=10647",
           "author": "Melanie Cheung",
