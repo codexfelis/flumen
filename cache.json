@@ -420,6 +420,15 @@
       "siteUrl": "https://blogs.kcl.ac.uk/ddh",
       "articles": [
         {
+          "id": "https://blogs.kcl.ac.uk/ddh/?p=3120",
+          "author": "Jonathan Gray",
+          "description": "Over the past year researchers and students at the Department of Digital Humanities, King’s College London have contributed to a series of collaborative digital investigations into the online circulation of COVID-19 misinformation and conspiracies. As part of a pilot on “engaged research led teaching” at King’s College London, undergraduate and graduate students have contributed to … \nContinue reading \"Investigating infodemic – researchers, students and journalists work together to explore the online circulation of COVID-19  misinformation and conspiracies\"",
+          "link": "https://blogs.kcl.ac.uk/ddh/2021/09/09/investigating-infodemic/",
+          "publishedOn": "2021-09-09T11:15:28.000Z",
+          "wordCount": 503,
+          "title": "Investigating infodemic – researchers, students and journalists work together to explore the online circulation of COVID-19  misinformation and conspiracies"
+        },
+        {
           "id": "https://blogs.kcl.ac.uk/ddh/?p=3106",
           "author": "Mercedes Bunz",
           "description": "The Department of Digital Humanities at King’s College London is looking for hourly paid lecturers to teach introductory computational skills on the weekly seminars of our digital culture modules in person at our Strand campus. In addition to computational skills, we also have some modules open for which a conceptual knowledge of machine learning and data … \nContinue reading \"Teaching available at KCL Digital Humanities – digital skills needed\"",
@@ -712,6 +721,15 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=121216",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "Dear friends and colleagues, The dh+lib Review team sends you well-wishes as our fall semesters are underway. We’re inviting librarians, archivists, students, and anyone interested in the intersections of digital humanities and librarianship, to volunteer weekly shifts for the journal. Editors-at-Large play an essential role in discovering and highlighting new ideas, opportunities and projects that ...read more",
+          "link": "https://dhandlib.org/2021/09/09/cfp-dhlib-review-editors-at-large-for-fall-2021/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-dhlib-review-editors-at-large-for-fall-2021",
+          "publishedOn": "2021-09-09T19:25:55.000Z",
+          "wordCount": 729,
+          "title": "CFP: dh+lib Review Editors-at-Large for Fall 2021"
+        },
         {
           "id": "https://dhandlib.org/?p=119318",
           "author": "Pamella Lach",
@@ -1080,6 +1098,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/711",
+          "author": "406",
+          "description": "Die Keynote \"Let´s do it! Experimente in den (digitalen) Geisteswissenschaften\" von Mareike Schumacher (Technische Universität Darmstadt) im Rahmen der vDHd 2021 \"Experimente\"…",
+          "link": "https://dig-hum.de/aktuelles/vdhd-2021-experimente-keynote-am-1592021-18-uhr-ct",
+          "publishedOn": "2021-09-09T09:10:50.000Z",
+          "wordCount": 759,
+          "title": "vDHd 2021 &quot;Experimente&quot;, Keynote am 15.9.2021, 18 Uhr c.t."
+        },
         {
           "id": "node/710",
           "author": "406",
@@ -2103,6 +2130,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.43",
+          "author": null,
+          "description": "This work presents an enriched version of the Parish Memories (1758–1761), an essential Portuguese historical source manually transcribed. It is enriched with annotations of named entities of the types PERSON, LOCATION, and ORGANIZATION. The annotation was done automatically for the whole collection where two researchers annotated a portion of it manually for evaluation purposes. In this dataset, we provide the tagged texts, the lists of extracted entities, and frequency counts. The corpus is useful for historians, allowing, for instance, comparative analyses between parishes and regions or to calculate the area of influence of a locality. The paper describes the creation and evaluation of the corpus, discusses its applications and limitations. This first release may be improved by other researchers interested in the historical source itself or in the technology employed in its annotation.\n Published on 2021-09-09 11:25:41",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.43",
+          "publishedOn": "2021-09-10T08:22:07.281Z",
+          "wordCount": 6462,
+          "title": "Enriching the 1758 Portuguese Parish Memories (Alentejo) with Named Entities"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.46",
           "author": null,
           "description": "Existing text recognition engines enables to train general models to recognize not only one specific hand but a multitude of historical hands within a particular script, and from a rather large time period (more than 100 years). This paper compares different text recognition engines and their performance on a test set independent of the training and validation sets. We argue that both, test set and ground truth, should be made available by researchers as part of a shared task to allow for the comparison of engines. This will give insight into the range of possible options for institutions in need of recognition models. As a test set, we provide a data set consisting of 2,426 lines which have been randomly selected from meeting minutes of the Swiss Federal Council from 1848 to 1903. To our knowledge, neither the aforementioned text lines, which we take as ground truth, nor the multitude of different hands within this corpus have ever been used to train handwritten text recognition models. In addition, the data set used is perfect for making comparisons involving recognition engines and large training sets due to its variability and the time frame it spans. Consequently, this paper argues that both the tested engines, HTR+ and PyLaia, can handle large training sets. The resulting models have yielded very good results on a test set consisting of unknown but stylistically similar hands.\n Published on 2021-07-09 10:49:34",
@@ -2811,6 +2847,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2021/09/10/some-thoughts-on.html",
+          "author": null,
+          "description": "Late last year the Federal Government announced it was making an $8.9 million investment in HASS and Indigenous research infrastructure. This program is being managed by the ARDC and will lead to the development of a HASS Research Data Commons. According to the ARDC, a research data commons:\nbrings together people, skills, data, and related resources such as storage, compute, software, and models to enable researchers to conduct world class data-intensive research\nSounds awesome!\nBased on scoping studies commissioned by the Department of Education, Skills, and Employment (which have not yet been made public), four activities were selected for initial funding under this program. Draft project plans for these four activities have now been released for public comment.\nOne of these activities …",
+          "link": "https://updates.timsherratt.org/2021/09/10/some-thoughts-on.html",
+          "publishedOn": "2021-09-10T00:12:35.000Z",
+          "wordCount": 3783,
+          "title": "Some thoughts on the ‘Trove Researcher Platform for Advanced Research’ draft plan"
+        },
+        {
           "id": "http://wragge.micro.blog/2021/08/30/some-research-projects.html",
           "author": null,
           "description": "A Twitter thread about some of the research uses of QueryPic…\nQueryPic, my tool for visualising searches in @TroveAustralia’s digitised newspapers, has been around in different forms for more than 10 years. The latest version is part of the #GLAMWorkbench: https://t.co/qnY5tVDwgY  #researchinfrastructure pic.twitter.com/QyHWJwGV3u\n— Tim Sherratt (@wragge) August 29, 2021\n\n\n\nI thought I’d highlight some of the research publications that have made use of QueryPic over the years, so, in no particular order...\n— Tim Sherratt (@wragge) August 29, 2021\nThere’s @Airminded’s article in @HistAustJournal – Brett Holman (2013) 'Dreaming War: Airmindedness and the Australian Mystery Aeroplane Scare of 1918', History Australia, 10:2, 180-201, DOI: https://t.co/2wgiLueHGL\n— Tim Sherratt (@wragge) August…",
@@ -3121,6 +3166,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "3567 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The reporting on the trial of Adolf Eichmann in Jerusalem in 1961 is considered one of the first international media events. At the same time, the trial marked a turning point in society's examination of the Holocaust and was very much in the spirit of the Cold War. The two German states also regularly reported on the trial in various media. These contemporary video clips, audio documents and newspaper articles were researched, compiled and commented on in a two-year project with students of Public History at the FU Berlin. The results are presented in the form of a DVD.\nThe lecture traces the project from the idea to the implementation as a student project and presents the result in the form of the DVD.\n\n\nIrmgard Zündorf is a visiting research scientist at the Luxembourg Centre for Contem…",
+          "link": "https://www.c2dh.uni.lu/events/eichmann-cold-war-dvd-film-project",
+          "publishedOn": "2021-09-09T10:53:55.000Z",
+          "wordCount": 549,
+          "title": "Eichmann in the Cold War - a DVD film project"
+        },
         {
           "id": "3563 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",

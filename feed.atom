@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-09-09T08:12:32.916Z</updated>
+    <updated>2021-09-10T08:22:07.324Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -26,6 +26,76 @@
 Loe lähemalt Parima digihumanitaaria-alase lõputöö stipendium (600 eurot) kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enriching the 1758 Portuguese Parish Memories (Alentejo) with Named Entities]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.43</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.43"/>
+        <updated>2021-09-10T08:22:07.281Z</updated>
+        <summary type="html"><![CDATA[This work presents an enriched version of the Parish Memories (1758–1761), an essential Portuguese historical source manually transcribed. It is enriched with annotations of named entities of the types PERSON, LOCATION, and ORGANIZATION. The annotation was done automatically for the whole collection where two researchers annotated a portion of it manually for evaluation purposes. In this dataset, we provide the tagged texts, the lists of extracted entities, and frequency counts. The corpus is useful for historians, allowing, for instance, comparative analyses between parishes and regions or to calculate the area of influence of a locality. The paper describes the creation and evaluation of the corpus, discusses its applications and limitations. This first release may be improved by other researchers interested in the historical source itself or in the technology employed in its annotation.
+ Published on 2021-09-09 11:25:41]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some thoughts on the ‘Trove Researcher Platform for Advanced Research’ draft plan]]></title>
+        <id>http://wragge.micro.blog/2021/09/10/some-thoughts-on.html</id>
+        <link href="https://updates.timsherratt.org/2021/09/10/some-thoughts-on.html"/>
+        <updated>2021-09-10T00:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Late last year the Federal Government announced it was making an $8.9 million investment in HASS and Indigenous research infrastructure. This program is being managed by the ARDC and will lead to the development of a HASS Research Data Commons. According to the ARDC, a research data commons:
+brings together people, skills, data, and related resources such as storage, compute, software, and models to enable researchers to conduct world class data-intensive research
+Sounds awesome!
+Based on scoping studies commissioned by the Department of Education, Skills, and Employment (which have not yet been made public), four activities were selected for initial funding under this program. Draft project plans for these four activities have now been released for public comment.
+One of these activities …]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: dh+lib Review Editors-at-Large for Fall 2021]]></title>
+        <id>https://dhandlib.org/?p=121216</id>
+        <link href="https://dhandlib.org/2021/09/09/cfp-dhlib-review-editors-at-large-for-fall-2021/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-dhlib-review-editors-at-large-for-fall-2021"/>
+        <updated>2021-09-09T19:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Dear friends and colleagues, The dh+lib Review team sends you well-wishes as our fall semesters are underway. We’re inviting librarians, archivists, students, and anyone interested in the intersections of digital humanities and librarianship, to volunteer weekly shifts for the journal. Editors-at-Large play an essential role in discovering and highlighting new ideas, opportunities and projects that ...read more]]></summary>
+        <author>
+            <name>Nickoal Eichmann-Kalwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investigating infodemic – researchers, students and journalists work together to explore the online circulation of COVID-19  misinformation and conspiracies]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3120</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/09/09/investigating-infodemic/"/>
+        <updated>2021-09-09T11:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Over the past year researchers and students at the Department of Digital Humanities, King’s College London have contributed to a series of collaborative digital investigations into the online circulation of COVID-19 misinformation and conspiracies. As part of a pilot on “engaged research led teaching” at King’s College London, undergraduate and graduate students have contributed to … 
+Continue reading "Investigating infodemic – researchers, students and journalists work together to explore the online circulation of COVID-19  misinformation and conspiracies"]]></summary>
+        <author>
+            <name>Jonathan Gray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eichmann in the Cold War - a DVD film project]]></title>
+        <id>3567 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/eichmann-cold-war-dvd-film-project"/>
+        <updated>2021-09-09T10:53:55.000Z</updated>
+        <summary type="html"><![CDATA[The reporting on the trial of Adolf Eichmann in Jerusalem in 1961 is considered one of the first international media events. At the same time, the trial marked a turning point in society's examination of the Holocaust and was very much in the spirit of the Cold War. The two German states also regularly reported on the trial in various media. These contemporary video clips, audio documents and newspaper articles were researched, compiled and commented on in a two-year project with students of Public History at the FU Berlin. The results are presented in the form of a DVD.
+The lecture traces the project from the idea to the implementation as a student project and presents the result in the form of the DVD.
+
+
+Irmgard Zündorf is a visiting research scientist at the Luxembourg Centre for Contem…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vDHd 2021 &quot;Experimente&quot;, Keynote am 15.9.2021, 18 Uhr c.t.]]></title>
+        <id>node/711</id>
+        <link href="https://dig-hum.de/aktuelles/vdhd-2021-experimente-keynote-am-1592021-18-uhr-ct"/>
+        <updated>2021-09-09T09:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Die Keynote "Let´s do it! Experimente in den (digitalen) Geisteswissenschaften" von Mareike Schumacher (Technische Universität Darmstadt) im Rahmen der vDHd 2021 "Experimente"…]]></summary>
+        <author>
+            <name>406</name>
         </author>
     </entry>
     <entry>
