@@ -89,6 +89,15 @@
       "siteUrl": "http://digihum.ut.ee/feed",
       "articles": [
         {
+          "id": "34320 at http://digihum.ut.ee",
+          "author": "a71389",
+          "description": "http://dhnb.eu/conferences/dhnb2022/cfp/?fbclid=IwAR0OHQtGPRcuYi1gJPegW-...\n\n Loe lähemalt Digital Humanities in the Nordic and Baltic Countries 2022 teeside tähtaeg kohta",
+          "link": "http://digihum.ut.ee/event/digital-humanities-nordic-and-baltic-countries-2022-teeside-t%C3%A4htaeg",
+          "publishedOn": "2021-09-30T21:00:00.000Z",
+          "wordCount": 135,
+          "title": "Digital Humanities in the Nordic and Baltic Countries 2022 teeside tähtaeg"
+        },
+        {
           "id": "34313 at http://digihum.ut.ee",
           "author": "a71389",
           "description": "Asukoht: \n\nLiivi 4 - 308, Tartu. Tehniliselt on võimalik liituda ka Zoomis (link all), aga ootame huvilisi eelkõige kohapeale.\n\n\n\nEnn Veldi: \"Õpipoisina digikogemusi omandamas - leksikograafi vaatenurk\"\n\n\n\n\tKõik huvilised on oodatud kolmapäeval, 15. septembril, kl 14.15, auditooriumis Liivi 4-308.  \n\n\n\n\tTehniliselt on võimalik liituda ka ...\n Loe lähemalt Enn Veldi: \"Õpipoisina digikogemusi omandamas – leksikograafi vaatenurk\" kohta",
@@ -214,6 +223,15 @@
       "feedUrl": "https://ach.org/feed/",
       "siteUrl": "https://ach.org",
       "articles": [
+        {
+          "id": "https://ach.org/?p=2247",
+          "author": "paigecm",
+          "description": "The ACH mentoring group is sponsoring a yearlong, public book club based on the English-language version of Programming Historian. These sessions are open to all (including non-members of ACH), and will offer a space for newcomers to the topic and to digital humanities to work through a Programming Historian lesson together in a supportive environment…Continue reading.",
+          "link": "https://ach.org/blog/2021/09/13/fall-2021-programming-historian-book-club/",
+          "publishedOn": "2021-09-13T18:37:09.000Z",
+          "wordCount": 233,
+          "title": "Fall 2021 Programming Historian Book Club"
+        },
         {
           "id": "https://ach.org/?p=2233",
           "author": "paigecm",
@@ -411,24 +429,6 @@
           "publishedOn": "2021-04-30T08:44:43.000Z",
           "wordCount": 1059,
           "title": "Worried about data overload or AI overlords?"
-        },
-        {
-          "id": "https://blog.cdh.cam.ac.uk/?p=44",
-          "author": "Administrator",
-          "description": "Laura McCormick Killbride: In June 2021 a collaboration between the David Jones Research Center and the Faculty of English in the University of Cambridge, Cambridge University Library, Kettle’s Yard Gallery and Cambridge Digital Humanities Learning Programme will begin work to digitise and create an open-access digital edition of the letters of the poet, artist and First World War veteran David Jones.\nThe post David Jones appeared first on The Digital Hum.",
-          "link": "https://blog.cdh.cam.ac.uk/2021/03/18/david-jones/",
-          "publishedOn": "2021-03-18T12:10:35.000Z",
-          "wordCount": 1193,
-          "title": "David Jones"
-        },
-        {
-          "id": "https://blog.cdh.cam.ac.uk/?p=38",
-          "author": "Administrator",
-          "description": "Mary Chester-Kadwell: Studying the networks behind the spread of knowledge is an area of growing importance for the history of science, with far-reaching implications for how we view the development of ideas as a collaborative process.\nThe post John Henslow Correspondence Project appeared first on The Digital Hum.",
-          "link": "https://blog.cdh.cam.ac.uk/2021/03/18/john-henslow-correspondence-project/",
-          "publishedOn": "2021-03-18T12:07:22.000Z",
-          "wordCount": 994,
-          "title": "John Henslow Correspondence Project"
         }
       ]
     },
@@ -673,24 +673,6 @@
           "publishedOn": "2021-03-23T16:28:24.000Z",
           "wordCount": 659,
           "title": "CSDH/SCHN Withdrawal From Congress 2021"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=691",
-          "author": "Constance Crompton",
-          "description": "Janelle Jenstad is an Associate Professor in the Department of English at the University of Victoria. Her longest running project, the Map of Early Modern London, which she started in ...",
-          "link": "https://csdh-schn.org/janelle-jenstad-wins-the-2021-outstanding-achievement-award-for-computing-in-the-arts-and-humanities/",
-          "publishedOn": "2021-03-18T13:28:21.000Z",
-          "wordCount": 534,
-          "title": "Janelle Jenstad wins the 2021 Outstanding Achievement Award for Computing in the Arts and Humanities"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=688",
-          "author": "Constance Crompton",
-          "description": "Janelle Jenstad est professeure agrégée au département d’anglais de l’Université de Victoria. Son projet de plus longue durée, la Map of Early Modern London (MoEML), qu’elle a lancé en 1999, ...",
-          "link": "https://csdh-schn.org/janelle-jenstad-gagne-le-prix-de-contribution-exceptionnelle-de-la-societe-canadienne-des-humanites-numeriques-2021/",
-          "publishedOn": "2021-03-18T13:23:29.000Z",
-          "wordCount": 600,
-          "title": "Janelle Jenstad gagne le prix de contribution exceptionnelle de la Société canadienne des humanités numériques 2021"
         }
       ]
     },
@@ -1825,15 +1807,6 @@
           "publishedOn": "2021-03-26T13:14:07.000Z",
           "wordCount": 133,
           "title": "Job: Junior lecturer in digital humanities at the University of Lausanne"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-776",
-          "author": "e_smith",
-          "description": "Dear all,\nI have tried using the different visualisation ‘flavours’ in Stylo to minimise the information represented on the graphs but the output is still too crowded to be interpretable. I am currently able to run the Stylo experiments in both R and Python (using rpy2). I have also tried using a couple of different tools in Python to plot the outputs but I haven’t been able to find anything that works well for this volume of data so far.\nWhat are your recommendations for packages or tools to visualise, cluster or otherwise interpret the pairwise distance matrix outputted from my experiments in a clear way, using either R or Python?\n6 posts - 5 participants\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/visualising-outputs-of-the-r-package-stylo-when-using-large-datasets/776",
-          "publishedOn": "2021-03-18T14:20:06.000Z",
-          "wordCount": 445,
-          "title": "Visualising outputs of the R package Stylo when using large datasets"
         }
       ]
     },
