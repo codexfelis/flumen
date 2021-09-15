@@ -844,17 +844,7 @@
       "title": "DH@SDSU Blog",
       "feedUrl": "https://dhblog.sdsu.edu/feed",
       "siteUrl": "https://dhblog.sdsu.edu",
-      "articles": [
-        {
-          "id": "https://dhblog.sdsu.edu/?p=553",
-          "author": "Pam Lach",
-          "description": "Honoring our Experience as Rationale for Cancellation The annual Digital Humanities Showcase and Electronic Literature Competition is the culminating moment of DH@SDSU’s academic year. Part celebration of the DH projects faculty and students create in diverse classes across campus, part celebration of our DH staff and their year long labors, our showcase is all celebration. […]",
-          "link": "https://dhblog.sdsu.edu/dh-news/our-dh-showcase-statement",
-          "publishedOn": "2021-03-19T19:30:29.000Z",
-          "wordCount": 665,
-          "title": "Our DH Showcase Statement"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "centerNet",
@@ -2502,6 +2492,15 @@
       "siteUrl": "https://radihum20.de",
       "articles": [
         {
+          "id": "https://radihum20.de/?p=501",
+          "author": "Jonathan D. Geiger",
+          "description": "In dieser RaDiHum20-Folge rekapitulieren wir die vDHd-Veranstaltung “(Keine) Experimente in den Digital Humanities?”, die von Jonathan D. Geiger, Max Grüntgens und Dominik Kasper (alle Digitale Akademie der Akademie der Wissenschaften und der Literatur in Mainz) organisiert worden ist. Dieser Workshop fand am 24. März statt und war inhaltlich sehr ertragreich: Alle Teilnehmenden hatten die Möglichkeit […]\nDer Beitrag vDHd2021 bei RaDiHum20: (Keine) Experimente in den Digital Humanities? erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/keine-experimente/",
+          "publishedOn": "2021-09-15T07:00:00.000Z",
+          "wordCount": 1038,
+          "title": "vDHd2021 bei RaDiHum20: (Keine) Experimente in den Digital Humanities?"
+        },
+        {
           "id": "https://radihum20.de/?p=495",
           "author": "Lisa Kolodzie",
           "description": "In dieser Folge stellt Thomas Ernst seinen Beitrag für die vDHd2021 vor: die Grundsteinlegung für die Etablierung einer eigenständigen Forschungsrichtung, der Netzliteraturwissenschaft. Es handelt sich um die wissenschaftliche Erforschung von Literatur im Internet und in sozialen Netzwerken über traditionelle Methoden der Literaturwissenschaft und über neue Methoden der Digital Humanities. Thomas’ Ziel ist es, eine neue […]\nDer Beitrag vDHd2021 bei RaDiHum20: Netzliteraturwissenschaft erschien zuerst auf RaDiHum 20.",
@@ -2598,6 +2597,24 @@
       "feedUrl": "https://readcoop.eu/feed",
       "siteUrl": "https://readcoop.eu",
       "articles": [
+        {
+          "id": "https://readcoop.eu/?p=26569",
+          "author": "Florian Stauder",
+          "description": "We are happy to introduce a new PyLaia print model. You may already be familiar with our HTR+ print model, which in addition to common Antiqua and Fraktur typefaces can also decipher typewritten text, modern computer printouts, and even various unusual ‘decorative fonts’ in several languages. A similar model is now also available for PyLaia.  […]\nThe post Check out the new PyLaia model for printed text appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/new-pylaia-model-for-printed-text/",
+          "publishedOn": "2021-09-14T16:02:51.000Z",
+          "wordCount": 1563,
+          "title": "Check out the new PyLaia model for printed text"
+        },
+        {
+          "id": "https://readcoop.eu/?p=26564",
+          "author": "Florian Stauder",
+          "description": "On the Maritiem Portal there are several reports on the English archive collection of Prize Papers, documents that British privateers captured from enemy ships in the period 1652-1815. The portal also contains information on the website of the Dutch Prize Papers, which Huygens ING (KNAW) started two years ago. 72,000 scans of mainly Dutch documents […]\nThe post Exploring the Dutch Prize Papers appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/exploring-the-dutch-prize-papers/",
+          "publishedOn": "2021-09-14T14:06:07.000Z",
+          "wordCount": 1674,
+          "title": "Exploring the Dutch Prize Papers"
+        },
         {
           "id": "https://readcoop.eu/?p=26264",
           "author": "Florian Stauder",

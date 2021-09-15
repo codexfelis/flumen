@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-09-14T08:12:44.440Z</updated>
+    <updated>2021-09-15T08:12:23.818Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -44,6 +44,17 @@ Enn Veldi: "Õpipoisina digikogemusi omandamas - leksikograafi vaatenurk"
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[vDHd2021 bei RaDiHum20: (Keine) Experimente in den Digital Humanities?]]></title>
+        <id>https://radihum20.de/?p=501</id>
+        <link href="https://radihum20.de/keine-experimente/"/>
+        <updated>2021-09-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In dieser RaDiHum20-Folge rekapitulieren wir die vDHd-Veranstaltung “(Keine) Experimente in den Digital Humanities?”, die von Jonathan D. Geiger, Max Grüntgens und Dominik Kasper (alle Digitale Akademie der Akademie der Wissenschaften und der Literatur in Mainz) organisiert worden ist. Dieser Workshop fand am 24. März statt und war inhaltlich sehr ertragreich: Alle Teilnehmenden hatten die Möglichkeit […]
+Der Beitrag vDHd2021 bei RaDiHum20: (Keine) Experimente in den Digital Humanities? erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Jonathan D. Geiger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Parima digihumanitaaria-alase lõputöö stipendium (600 eurot)]]></title>
         <id>32349 at http://digihum.ut.ee</id>
         <link href="http://digihum.ut.ee/event/parima-digihumanitaaria-alase-l%C3%B5put%C3%B6%C3%B6-stipendium-600-eurot"/>
@@ -63,6 +74,28 @@ Enn Veldi: "Õpipoisina digikogemusi omandamas - leksikograafi vaatenurk"
 Loe lähemalt Parima digihumanitaaria-alase lõputöö stipendium (600 eurot) kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check out the new PyLaia model for printed text]]></title>
+        <id>https://readcoop.eu/?p=26569</id>
+        <link href="https://readcoop.eu/new-pylaia-model-for-printed-text/"/>
+        <updated>2021-09-14T16:02:51.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to introduce a new PyLaia print model. You may already be familiar with our HTR+ print model, which in addition to common Antiqua and Fraktur typefaces can also decipher typewritten text, modern computer printouts, and even various unusual ‘decorative fonts’ in several languages. A similar model is now also available for PyLaia.  […]
+The post Check out the new PyLaia model for printed text appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Dutch Prize Papers]]></title>
+        <id>https://readcoop.eu/?p=26564</id>
+        <link href="https://readcoop.eu/exploring-the-dutch-prize-papers/"/>
+        <updated>2021-09-14T14:06:07.000Z</updated>
+        <summary type="html"><![CDATA[On the Maritiem Portal there are several reports on the English archive collection of Prize Papers, documents that British privateers captured from enemy ships in the period 1652-1815. The portal also contains information on the website of the Dutch Prize Papers, which Huygens ING (KNAW) started two years ago. 72,000 scans of mainly Dutch documents […]
+The post Exploring the Dutch Prize Papers appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
         </author>
     </entry>
     <entry>
@@ -4952,16 +4985,6 @@ Thanks to the tireless nights-and-weeken…]]></summary>
 The post Behavioral Measures of Presence: Designing a VR Application appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
         <author>
             <name>Evgeny Kukshinov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our DH Showcase Statement]]></title>
-        <id>https://dhblog.sdsu.edu/?p=553</id>
-        <link href="https://dhblog.sdsu.edu/dh-news/our-dh-showcase-statement"/>
-        <updated>2021-03-19T19:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Honoring our Experience as Rationale for Cancellation The annual Digital Humanities Showcase and Electronic Literature Competition is the culminating moment of DH@SDSU’s academic year. Part celebration of the DH projects faculty and students create in diverse classes across campus, part celebration of our DH staff and their year long labors, our showcase is all celebration. […]]]></summary>
-        <author>
-            <name>Pam Lach</name>
         </author>
     </entry>
 </feed>
