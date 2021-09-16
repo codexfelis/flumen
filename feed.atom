@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-09-15T08:12:23.818Z</updated>
-    <generator>osmosfeed 1.11.0</generator>
+    <updated>2021-09-16T18:27:41.150Z</updated>
+    <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
     <entry>
@@ -16,6 +16,43 @@
  Loe lähemalt Digital Humanities in the Nordic and Baltic Countries 2022 teeside tähtaeg kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major funding boost for UK’s open research agenda]]></title>
+        <id>https://www.rluk.ac.uk/?p=10762</id>
+        <link href="https://www.ukrn.org/2021/09/15/major-funding-boost-for-uks-open-research-agenda/#new_tab"/>
+        <updated>2021-09-16T15:56:33.000Z</updated>
+        <summary type="html"><![CDATA[A consortium of 18 universities – members of the UK Reproducibility Network – has received significant funding to drive uptake of open research practices across the sector, furthering the UK’s position at the forefront of rigorous and reproducible research. The Bristol-led project is worth £8.5M over five years and includes £4.5M from the Research England Development (RED) [...]
+The post Major funding boost for UK’s open research agenda appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tarleton Gillespie – Do Not Recommend: When Platforms Moderate Through Their Recommendation Algorithms]]></title>
+        <id>https://digitaldemocracies.org/?p=1709</id>
+        <link href="https://digitaldemocracies.org/tarleton-gillespie-do-not-recommend-when-platforms-moderate-through-their-recommendation-algorithms/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tarleton-gillespie-do-not-recommend-when-platforms-moderate-through-their-recommendation-algorithms"/>
+        <updated>2021-09-16T01:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Tarleton Gillespie visited the institute virtually to discuss his approach to content moderation as part of the wider problem of platform governance, with a look at how platforms are increasingly …
+  Tarleton Gillespie – Do Not Recommend: When Platforms Moderate Through Their Recommendation Algorithms Read More »
+Tarleton Gillespie – Do Not Recommend: When Platforms Moderate Through Their Recommendation Algorithms first appeared on Digital Democracies Institute.]]></summary>
+        <author>
+            <name>Kayla Hilstob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for literature on comparing topics between models with vocabulary differences]]></title>
+        <id>discourse.computational-humanities-research.org-topic-871</id>
+        <link href="https://discourse.computational-humanities-research.org/t/looking-for-literature-on-comparing-topics-between-models-with-vocabulary-differences/871"/>
+        <updated>2021-09-15T16:27:50.000Z</updated>
+        <summary type="html"><![CDATA[When comparing topics between LDA models trained on different collections of text, it’s common for people to use the Jensen-Shannon divergence as a measure of the (dis)similarity between topics. However, this is complicated a bit if the two collections being compared have differences in their vocabularies (i.e., some word types may be present in one collection, but not the other).
+For example, if collection 1 has vocabulary {a, b, c} and collection 2 has vocabulary {b, c, d}, then comparisons between topics trained on the different collections require a to be inserted into the topics from collection 2, and d to be inserted into the topics learned from collection 1. My guess is that most people just insert such words with probability of 0, but I haven’t been able to find a case where this is actually addressed in the paper.
+I’m trying to think through the implications of how this issue might be handled and am looking for literature that addresses this in any way. Suggestions for stuff to read on this are highly appreciated—thanks!
+3 posts - 2 participants
+Read full topic]]></summary>
+        <author>
+            <name>zacharykstine</name>
         </author>
     </entry>
     <entry>
