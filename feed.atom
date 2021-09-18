@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-09-17T08:12:49.938Z</updated>
+    <updated>2021-09-18T08:11:51.110Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -16,6 +16,84 @@
  Loe lähemalt Digital Humanities in the Nordic and Baltic Countries 2022 teeside tähtaeg kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grasping the Anti-Modern Discourse on Europe in the Swiss Digitised Press, or can Text Mining Generate a Research Corpus from an Article Collection?]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.37</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.37"/>
+        <updated>2021-09-18T08:11:51.084Z</updated>
+        <summary type="html"><![CDATA[In this paper, we discuss how different types of automatic annotation of digitised newspaper articles can be integrated into the iterative questioning of the source material and the creation of research corpora out of a collection of unstructured texts (kept in a structured collection). We annotate a sizeable collection of Swiss press articles (183,270), extracted via the impresso interface1 using topic modelling (MALLET)2 as well as a naïve Bayes classifier (script by Milan van Lange).
+The methodological discussion we propose is to explore how text mining can help identify historical discourses that are difficult to query with keywords because of their inherent ambiguity and how to grasp them in a large corpus. We argue that the automated annotations can provide a body of corroborating evidence of the searched discourse, to be used as an intermediary and heuristic analysis step.
+ Published on 2021-09-17 11:39:06]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portraits in DH: Dr. Sonya Donaldson]]></title>
+        <id>https://ach.org/?p=2251</id>
+        <link href="https://ach.org/blog/2021/09/17/portraits-in-dh-dr-sonya-donaldson/"/>
+        <updated>2021-09-17T18:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Interviewed by Anna E. Kijas on March 12, 2021 Sonya Donaldson, Ph.D. is an Associate Professor of English at New Jersey City University. She is the developer of a Black digital humanities project, Singing the Nation into Being. Donaldson was the 2016 recipient of a Mellon Career Enhancement Junior Faculty Fellowship, a 2019 Virginia Humanities…Continue reading.]]></summary>
+        <author>
+            <name>jwoowinter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Digital Humanities and Teaching Asian American Studies]]></title>
+        <id>https://dh.rutgers.edu/?p=77411</id>
+        <link href="https://dh.rutgers.edu/the-digital-humanities-and-teaching-asian-american-studies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-digital-humanities-and-teaching-asian-american-studies"/>
+        <updated>2021-09-17T17:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Friday, October 15, 2021, 11AM to 12:30PM (virtual) The Digital Humanities and Teaching Asian American Studies Jason Chang (Associate Professor of History and Asian American Studies; Director of Asian American Studies Institute, UConn) Andrea Kim Neighbors (Manager of Education Initiatives for the Smithsonian Asian Pacific American Center) Lori Kido Lopez (Professor in Media and Cultural Studies; Director of the Asian American Studies Program, University of Wisconsin, Madison) Manan Desai (Associate Professor; Director of A/PIA Studies Program, University of Michigan) In 2021, Make Us Visible New Jersey launched a campaign to advocate for the inclusion of Asian, Pacific Islander, and Desi American (APIDA) studies in]]></summary>
+        <author>
+            <name>Paolo Scartoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHR2021 Registration]]></title>
+        <id>discourse.computational-humanities-research.org-topic-874</id>
+        <link href="https://discourse.computational-humanities-research.org/t/chr2021-registration/874"/>
+        <updated>2021-09-17T14:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Please register here if you want to join CHR 2021!
+CHR 2021
+2021-11-17 08:00 (UTC) → 2021-11-19 17:00 (UTC)
+2 posts - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>folgert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Belgium joins CLARIN ERIC as a member!]]></title>
+        <id>5593 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/belgium-joins-clarin-eric-member"/>
+        <updated>2021-09-17T08:19:56.000Z</updated>
+        <summary type="html"><![CDATA[Belgium joins CLARIN ERIC as a member!
+
+            
+We are very pleased to announce that Belgium officially joined CLARIN 
+    
+European Research Infrastructure Consortium
+
+See: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en
+
+read more
+
+   as a member! 
+The Belgian CLARIN consortium CLARIN-BE is led by the Instituut voor de Nederlandse Taal (INT) which is already a CLARIN-B centre: CLARIN technical centre for Flanders. Vincent Vandeghinste is the national coordinator for CLARIN-BE .
+Other institutions that currently comprise the National Consortium of Belgium, are the following:
+University of Ghent: LT3 (
+    
+Natural Language Processing
+
+See: http://en.wikipedia.org/wiki/Natural_language_processing
+
+read more
+
+  ), imec-IDLab (spe…]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
         </author>
     </entry>
     <entry>

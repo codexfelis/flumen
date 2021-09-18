@@ -224,6 +224,15 @@
       "siteUrl": "https://ach.org",
       "articles": [
         {
+          "id": "https://ach.org/?p=2251",
+          "author": "jwoowinter",
+          "description": "Interviewed by Anna E. Kijas on March 12, 2021 Sonya Donaldson, Ph.D. is an Associate Professor of English at New Jersey City University. She is the developer of a Black digital humanities project, Singing the Nation into Being. Donaldson was the 2016 recipient of a Mellon Career Enhancement Junior Faculty Fellowship, a 2019 Virginia Humanities…Continue reading.",
+          "link": "https://ach.org/blog/2021/09/17/portraits-in-dh-dr-sonya-donaldson/",
+          "publishedOn": "2021-09-17T18:05:26.000Z",
+          "wordCount": 972,
+          "title": "Portraits in DH: Dr. Sonya Donaldson"
+        },
+        {
           "id": "https://ach.org/?p=2247",
           "author": "paigecm",
           "description": "The ACH mentoring group is sponsoring a yearlong, public book club based on the English-language version of Programming Historian. These sessions are open to all (including non-members of ACH), and will offer a space for newcomers to the topic and to digital humanities to work through a Programming Historian lesson together in a supportive environment…Continue reading.",
@@ -687,6 +696,15 @@
       "feedUrl": "https://dh.rutgers.edu/feed/",
       "siteUrl": "https://dh.rutgers.edu",
       "articles": [
+        {
+          "id": "https://dh.rutgers.edu/?p=77411",
+          "author": "Paolo Scartoni",
+          "description": "Friday, October 15, 2021, 11AM to 12:30PM (virtual) The Digital Humanities and Teaching Asian American Studies Jason Chang (Associate Professor of History and Asian American Studies; Director of Asian American Studies Institute, UConn) Andrea Kim Neighbors (Manager of Education Initiatives for the Smithsonian Asian Pacific American Center) Lori Kido Lopez (Professor in Media and Cultural Studies; Director of the Asian American Studies Program, University of Wisconsin, Madison) Manan Desai (Associate Professor; Director of A/PIA Studies Program, University of Michigan) In 2021, Make Us Visible New Jersey launched a campaign to advocate for the inclusion of Asian, Pacific Islander, and Desi American (APIDA) studies in",
+          "link": "https://dh.rutgers.edu/the-digital-humanities-and-teaching-asian-american-studies/?utm_source=rss&utm_medium=rss&utm_campaign=the-digital-humanities-and-teaching-asian-american-studies",
+          "publishedOn": "2021-09-17T17:58:48.000Z",
+          "wordCount": 463,
+          "title": "The Digital Humanities and Teaching Asian American Studies"
+        },
         {
           "id": "https://dh.rutgers.edu/?p=77377",
           "author": "Francesca Giannetti",
@@ -1601,6 +1619,15 @@
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
         {
+          "id": "discourse.computational-humanities-research.org-topic-874",
+          "author": "folgert",
+          "description": "Please register here if you want to join CHR 2021!\nCHR 2021\n2021-11-17 08:00 (UTC) → 2021-11-19 17:00 (UTC)\n2 posts - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/chr2021-registration/874",
+          "publishedOn": "2021-09-17T14:38:27.000Z",
+          "wordCount": 53,
+          "title": "CHR2021 Registration"
+        },
+        {
           "id": "discourse.computational-humanities-research.org-topic-871",
           "author": "zacharykstine",
           "description": "When comparing topics between LDA models trained on different collections of text, it’s common for people to use the Jensen-Shannon divergence as a measure of the (dis)similarity between topics. However, this is complicated a bit if the two collections being compared have differences in their vocabularies (i.e., some word types may be present in one collection, but not the other).\nFor example, if collection 1 has vocabulary {a, b, c} and collection 2 has vocabulary {b, c, d}, then comparisons between topics trained on the different collections require a to be inserted into the topics from collection 2, and d to be inserted into the topics learned from collection 1. My guess is that most people just insert such words with probability of 0, but I haven’t been able to find a case where this is actually addressed in the paper.\nI’m trying to think through the implications of how this issue might be handled and am looking for literature that addresses this in any way. Suggestions for stuff to read on this are highly appreciated—thanks!\n3 posts - 2 participants\nRead full topic",
@@ -2200,6 +2227,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.37",
+          "author": null,
+          "description": "In this paper, we discuss how different types of automatic annotation of digitised newspaper articles can be integrated into the iterative questioning of the source material and the creation of research corpora out of a collection of unstructured texts (kept in a structured collection). We annotate a sizeable collection of Swiss press articles (183,270), extracted via the impresso interface1 using topic modelling (MALLET)2 as well as a naïve Bayes classifier (script by Milan van Lange).\nThe methodological discussion we propose is to explore how text mining can help identify historical discourses that are difficult to query with keywords because of their inherent ambiguity and how to grasp them in a large corpus. We argue that the automated annotations can provide a body of corroborating evidence of the searched discourse, to be used as an intermediary and heuristic analysis step.\n Published on 2021-09-17 11:39:06",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.37",
+          "publishedOn": "2021-09-18T08:11:51.084Z",
+          "wordCount": 6072,
+          "title": "Grasping the Anti-Modern Discourse on Europe in the Swiss Digitised Press, or can Text Mining Generate a Research Corpus from an Article Collection?"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.43",
           "author": null,
@@ -3385,6 +3421,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5593 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "Belgium joins CLARIN ERIC as a member!\n\n            \nWe are very pleased to announce that Belgium officially joined CLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n   as a member! \nThe Belgian CLARIN consortium CLARIN-BE is led by the Instituut voor de Nederlandse Taal (INT) which is already a CLARIN-B centre: CLARIN technical centre for Flanders. Vincent Vandeghinste is the national coordinator for CLARIN-BE .\nOther institutions that currently comprise the National Consortium of Belgium, are the following:\nUniversity of Ghent: LT3 (\n    \nNatural Language Processing\n\r\nSee: http://en.wikipedia.org/wiki/Natural_language_processing\n\r\nread more\n\n  ), imec-IDLab (spe…",
+          "link": "https://www.clarin.eu/news/belgium-joins-clarin-eric-member",
+          "publishedOn": "2021-09-17T08:19:56.000Z",
+          "wordCount": 484,
+          "title": "Belgium joins CLARIN ERIC as a member!"
+        },
         {
           "id": "5592 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
