@@ -25,7 +25,7 @@ sources:
   - href: https://dhlc.cal.msu.edu/feed
   - href: https://dhn.lamp4.utoronto.ca/feed
   - href: https://dhn.utoronto.ca/feed
-  # - href: https://dhnetwork.org/feed  # Temporarily removed - bad SSL cert
+  - href: https://dhnetwork.org/feed
   - href: https://dhsi.org/feed
   - href: https://dig-hum.de/aktuelles/feed
   - href: https://digital-history.uni-bielefeld.de/feed
@@ -48,7 +48,7 @@ sources:
   - href: https://pricelab.sas.upenn.edu/rss.xml
   - href: https://radihum20.de/feed
   - href: https://readcoop.eu/feed
-  # - href: https://reviewsindh.pubpub.org/rss.xml  # temporarily removed
+  - href: https://reviewsindh.pubpub.org/rss.xml
   - href: https://scholarlytales.hcommons.org/feed
   - href: https://sites.temple.edu/tudsc/feed
   - href: https://sites.tufts.edu/digitalhumanities/feed/
