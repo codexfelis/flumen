@@ -12,6 +12,15 @@
       "siteUrl": "https://blogs.ucl.ac.uk/dh",
       "articles": [
         {
+          "id": "https://blogs.ucl.ac.uk/dh/?p=8196",
+          "author": "Lucy Stagg",
+          "description": "The Arts and Humanities Research Council (AHRC) has awarded £14.5m to 5 research projects to connect the UK’s cultural artefacts and historical archives in new and transformative ways. The announcement today of the five major projects forming the largest investment of Towards a National Collection, a five-year research programme, reveals the first insights into how […]",
+          "link": "https://blogs.ucl.ac.uk/dh/2021/09/21/national-collection/",
+          "publishedOn": "2021-09-21T09:00:21.000Z",
+          "wordCount": 1120,
+          "title": "UCLDH to participate in £14.5m Towards a National Collection"
+        },
+        {
           "id": "https://blogs.ucl.ac.uk/dh/?p=8188",
           "author": "uczcrym",
           "description": "In a year dominated by a global pandemic and both remote working and teaching, we lost many of the traditional ways that we as scholars could stay connected. One of those, the traditional extra-curricular seminar series that was a coming together space for people at different stages of their career, had to go online. And […]",
@@ -267,15 +276,6 @@
           "publishedOn": "2021-04-25T13:47:30.000Z",
           "wordCount": 975,
           "title": "Portraits in DH: Dr. Sylvia Fernández"
-        },
-        {
-          "id": "https://ach.org/?p=2190",
-          "author": "paigecm",
-          "description": "The Association for Computers and the Humanities is pleased to announce the results of our 2021 elections. We had a slate of stellar candidates, and we are grateful to all the digital humanities practitioners for rising to the occasion of being nominees and willing to work at this organizational level. The 2021-25 ACH Executive Council…Continue reading.",
-          "link": "https://ach.org/blog/2021/03/26/ach-executive-council-2021-elections-results-and-bylaws-updates/",
-          "publishedOn": "2021-03-26T15:33:02.000Z",
-          "wordCount": 296,
-          "title": "ACH Executive Council 2021 Elections Results and Bylaws Updates"
         }
       ]
     },
@@ -385,6 +385,15 @@
       "feedUrl": "https://blog.cdh.cam.ac.uk/feed",
       "siteUrl": "https://blog.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://blog.cdh.cam.ac.uk/?p=322",
+          "author": "Heather Stallard",
+          "description": "Heather Stallard: Running an intensive, application only summer school on how to create, use and think about social data during an international lockdown presented both a challenge and an opportunity: does this work online? Is it better?\nThe post A Social Data School in an Age of Social Distancing appeared first on The Digital Hum.",
+          "link": "https://blog.cdh.cam.ac.uk/2021/09/21/a-social-data-school-in-an-age-of-social-distancing/",
+          "publishedOn": "2021-09-21T10:25:30.000Z",
+          "wordCount": 1868,
+          "title": "A Social Data School in an Age of Social Distancing"
+        },
         {
           "id": "https://blog.cdh.cam.ac.uk/?p=312",
           "author": "Heather Stallard",
@@ -648,15 +657,6 @@
           "publishedOn": "2021-05-21T05:25:00.000Z",
           "wordCount": 1265,
           "title": "Research institute aims to bring diverse ‘new storytellers’ to digital scholarship"
-        },
-        {
-          "id": "2637 at https://cdrh.unl.edu",
-          "author": "Anonymous",
-          "description": "Image: \n\n\n\n\nLink: \n\nThomas earns Lynton Prize for ‘A Question of Freedom’\n\n\n\nWilliam G. Thomas III has earned the Mark Lynton History Prize for his new book, “A Question of Freedom: The Families Who Challenged Slavery from the Nation’s Founding to the Civil War,” published by Yale University Press in November 2020.\nThe Lynton Prize honors the year’s best book-length work of narrative history on any subject that combines intellectual distinction with felicity of expression. It is one of four J. Anthony Lukas Prize Project awards that honor excellence in nonfiction writing and are given by the Columbia Journalism School and the Nieman Foundation for Journalism at Harvard University. Past recipients of the Lynton Prize include Robert Caro, Isabel Wilkerson and Jill Lepore.\n“I’m especially hon…",
-          "link": "https://cdrh.unl.edu/thomas-earns-lynton-prize-%E2%80%98-question-freedom%E2%80%99",
-          "publishedOn": "2021-03-26T05:24:00.000Z",
-          "wordCount": 881,
-          "title": "Thomas earns Lynton Prize for ‘A Question of Freedom’"
         }
       ]
     },
@@ -1158,6 +1158,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/716",
+          "author": "406",
+          "description": "Forscher*innen aus Schweizer Universitäten und wissenschaftlichen Institutionen laden alle Interessierten herzlich zur ersten Unkonferenz «Digitale Kritik» ein.\nOffen und ohne…",
+          "link": "https://dig-hum.de/aktuelles/unconference-digitale-kritik-online-21-22-oktober-2021",
+          "publishedOn": "2021-09-22T08:05:22.000Z",
+          "wordCount": 762,
+          "title": "Unconference Digitale Kritik, online, 21-22 Oktober 2021"
+        },
+        {
           "id": "node/715",
           "author": "406",
           "description": "Die Universitätsbibliothek Freiburg (UB) sucht für die Abteilung E-​Science des IT-​Dezernats eine*n Systementwickler (w/m/d) für den Schwerpunkt Digital Humanities…",
@@ -1634,6 +1643,24 @@
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
         {
+          "id": "discourse.computational-humanities-research.org-topic-921",
+          "author": "tpsmits",
+          "description": "Following a discussion on Twitter, @mike.kestemont and I are organizing a hybrid/local event for CHR2021 at the University of Antwerp. We’re planning to watch (some of) the paper together with a group and maybe have some discussions afterwards. I’m still thinking about how to best facilitate the discussion between the room and the presenters.\nAnybody else thinking about organizing a hybrid/local event? And does anybody have experience with this kind of thing? All tips and best practices welcome!\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/hybrid-local-events-tips-and-best-practices/921",
+          "publishedOn": "2021-09-22T08:04:56.000Z",
+          "wordCount": 123,
+          "title": "Hybrid/Local Events: tips and best practices?"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-916",
+          "author": "JeremiOchab",
+          "description": "The posts are generally in the field of Digital Humanities, with employment at the Faculty of Philology.\nThe full professor (tenure with the first 5 year financed from a project: yearly full-time salary 150k-200k PLN gross; negotiable teaching load) also gets 400k PLN grant and additionally can hire 2 postdocs.\nThe assistant professors (2,5 years; full-time salary 75k-100k PLN gross) get additional research money 50k PLN. One is a research-only position, the other has a negotiable teaching load.\nThe 3 positions are concurrent, so you can bring the whole team! \nApplication submission deadline: 15 November 2021\nDetails:\nfull professor\nassistant professor ~ more computation, research only\nassistant professor ~ more digitisation\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/jobs-1-full-and-2-assistant-professorships-at-the-jagiellonian-university-in-krakow/916",
+          "publishedOn": "2021-09-21T09:49:30.000Z",
+          "wordCount": 171,
+          "title": "Jobs: 1 Full and 2 Assistant Professorships at the Jagiellonian University in Kraków"
+        },
+        {
           "id": "discourse.computational-humanities-research.org-topic-874",
           "author": "folgert",
           "description": "Please register here if you want to join CHR 2021!\nCHR 2021\n2021-11-17 08:00 (UTC) → 2021-11-19 17:00 (UTC)\n2 posts - 1 participant\nRead full topic",
@@ -1848,15 +1875,6 @@
           "publishedOn": "2021-04-08T13:28:27.000Z",
           "wordCount": 123,
           "title": "Text Analysis Pedagogy (TAP) Institute (Deadline April 15)"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-783",
-          "author": "mxp",
-          "description": "I’m happy to announce that my department, the Department of Language and Information Sciences at the University of Lausanne, has an opening for a junior lecturer in digital humanities (premier·ère assistant·e en humanités numériques). This is a postdoctoral position for up to 5 years, starting August 1, 2021.\nI’m specifically looking for someone interested in history and theory of DH. If you have any questions, please don’t hesitate to contact me.\n→ Official job posting (in French)\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/job-junior-lecturer-in-digital-humanities-at-the-university-of-lausanne/783",
-          "publishedOn": "2021-03-26T13:14:07.000Z",
-          "wordCount": 133,
-          "title": "Job: Junior lecturer in digital humanities at the University of Lausanne"
         }
       ]
     },
@@ -2118,15 +2136,6 @@
           "publishedOn": "2021-04-07T07:43:24.000Z",
           "wordCount": 749,
           "title": "Invited Talk at the Fred Jelinek Seminar Series"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2520",
-          "author": "lila-admin",
-          "description": "Our resources in CLARIN-IT\nWebsite: https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/handle/000-c0-111/525\nThe post CIRCSE Resources in CLARIN-IT appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/circse-resources-in-clarin-it/",
-          "publishedOn": "2021-03-26T10:59:56.000Z",
-          "wordCount": 591,
-          "title": "CIRCSE Resources in CLARIN-IT"
         }
       ]
     },
@@ -3053,6 +3062,15 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=812",
+          "author": "Leah Budke",
+          "description": "DARIAH-EU is launching an annual Open Access Monograph* Bursary for the publication of a first monograph in the field of Digital Humanities. This bursary reflects DARIAH’s commitment to the growing open research culture for Arts and Humanities scholars. Through this funding, the organization hopes to make Open Access publishing a more viable option for early career researchers, who often encounter financial or professional hurdles when considering this publishing route. For more information from DARIAH-EU on the context of Open Access publishing and the specific...",
+          "link": "https://scholarlytales.hcommons.org/2021/09/21/funding-opportunity-dariah-eu-digital-humanities-open-access-monograph-bursary-for-first-publications/",
+          "publishedOn": "2021-09-21T13:14:11.000Z",
+          "wordCount": 733,
+          "title": "Funding Opportunity: DARIAH-EU Digital Humanities Open Access Monograph Bursary for First Publications"
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=776",
           "author": "Rebecca Burke",
           "description": "Opening the Future is a collective subscription model for OA books. Libraries can sign up for  its membership scheme, which implies that they grow their collections and support Open Access at the same time. The objective is to raise small contributions from a large number of academic libraries, so that no single institution bears a disproportionate burden. How does it work? A library subscribes to a backlist package of non-OA books offered by a publisher. The publisher makes this backlist...",
@@ -3613,6 +3631,24 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "3583 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "From its inception, the C²DH has decided to make the history of the Luxembourg financial centre one of its main research priorities. In this context, the 'FinLux' seminar is held on a monthly basis. It is a place for researchers to discuss ongoing research projects in banking and financial history in a broad sense. The fundamental theme of the seminars is a reflection on which topics, actors, sources, and methods can be used to write the history of the Luxembourg financial centre.\nAll sessions start at 18:00 sharp and will take place virtually at https://unilu.webex.com/meet/benoit.majerus. The presentations this semester will be in either French or English. Please e-mail Benoit Majerus (benoit.majerus@uni.lu) in case you wish to participate.\n \nWinter semester 2021\n \n5 October 2021\nGerschenkron’s Blind Spot: Secret Reserves and the Relevance of Internal Financing in the German Chemical Industry, c.1885–1904.\nby Frédéric Steinfeld\n \n26 October 2021\nCities in global financial networks\nby Dariusz Wocjik\n \n30 November 2021\nGlobal Correspondent Banking in the 20th century: the position of Luxembourg\nby Thibaud Giddey and Catherine R. Schenk\n5 October 2021\n  Contemporary history of Europe\n  Banking and financial history  Economic history\n  Conferences\n  Published  \nSalle des ordinateurs, 1980, BGL",
+          "link": "https://www.c2dh.uni.lu/events/finlux-seminar-schedule-winter-term-2021",
+          "publishedOn": "2021-09-21T11:33:39.000Z",
+          "wordCount": 412,
+          "title": "« FinLux » seminar: Schedule for the winter term 2021"
+        },
+        {
+          "id": "3582 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Dans le cadre des commémorations du 80e anniversaire du départ du premier convoi de déportation depuis la gare de Luxembourg, dans la nuit du 16 au 17 octobre 1941, le Centre for Contemporary and Digital History (C²DH) – Université du Luxembourg et la Fondation Luxembourgeoise pour la Mémoire de la Shoah ont souhaité organiser cet événement ouvert à tous afin de montrer la façon dont la mémoire des persécutions se prolonge, évolue et se renouvelle à l’ère digitale.\nGrâce à trois conférenciers de réputation internationale et trois ateliers interactifs, les multiples modalités de préservation, d’étude et de diffusion des connaissances sur la Shoah seront évoquées.\nLes communications seront faites en français, allemand et anglais. Des traductions sont prévues.\n \nLundi, 18 octobre 2021\n15:00 -…",
+          "link": "https://www.c2dh.uni.lu/forum-z/what-remembered-lives-memoire-de-la-shoah-lere-digitale",
+          "publishedOn": "2021-09-21T08:39:43.000Z",
+          "wordCount": 619,
+          "title": "What is remembered lives. Mémoire de la Shoah à l'ère digitale"
+        },
         {
           "id": "3570 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
