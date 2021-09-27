@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-09-27T08:13:43.179Z</updated>
+    <updated>2021-09-27T10:04:23.659Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -19,6 +19,23 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Come talk at the CHR Open Mic :microphone:]]></title>
+        <id>discourse.computational-humanities-research.org-topic-937</id>
+        <link href="https://discourse.computational-humanities-research.org/t/come-talk-at-the-chr-open-mic/937"/>
+        <updated>2021-09-27T08:19:04.000Z</updated>
+        <summary type="html"><![CDATA[This year CHR is hosting an Open Mic session. Presentations at the Open Mic can be on any topic of interest to the CHR community. It doesn’t have to be about published research, but may also be about ongoing research or about something you’ve learned, a particular technique, or an interesting software package, a visualization technique, or whatever you can think of.
+In short, it doesn’t have to be big. If you are hesitant to tell something about X, it’s probably a very good idea to tell something about it! Don’t think that everyone already knows about it (it is very likely that they don’t), that you not expert enough (you undoubtedly know a lot more about it than most), or that your idea is not interesting (it’s probably better than you think).
+Presentations may be up to 4 minutes in length. Slides, videos or other multimedia are encouraged. If you have an idea for a presentation, please sign up below with a brief description of your idea.
+
+
+            
+3 posts - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>folgert</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CLARINi aastakonverents veebis]]></title>
         <id>34448 at http://digihum.ut.ee</id>
         <link href="http://digihum.ut.ee/event/clarini-aastakonverents-veebis-0"/>
@@ -27,6 +44,20 @@
  Loe lähemalt CLARINi aastakonverents veebis kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First of May in German Literature]]></title>
+        <id>https://weltliteratur.net/the-first-of-may-in-german-literature/</id>
+        <link href="https://openmethods.dariah.eu/2021/09/26/the-first-of-may-in-german-literature/"/>
+        <updated>2021-09-26T14:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Introduction by OpenMethods Editor (Erzsébet Tóth-Czifra): Research on date extractions from literature brings us closer to answering big questions of “when literature takes place”.  As Frank Fischer's blog post, First of May in German literature shows, beyond mere quantification, this line of research also yields insights on the cultural significance of certain dates. In this case, the significance of 1st of May in German literature (as reflected in the "Corpus of German-Language Fiction" dataset) was determined with the help of a freely accessible data set and the open access tool HeidelTime. The brief description of the workflow is a smart demonstration of the potential of open DH methods and data sharing in sustainable ways.
+
+Bonus one: the post starts out from briefly touching upon some of Frank's public humanities activities.
+
+Bonus two: mention of the Tiwoli (“Today in World Literature”) app, a fun side product built on to pof the date extraction research.]]></summary>
+        <author>
+            <name>Frank Fischer</name>
         </author>
     </entry>
     <entry>
