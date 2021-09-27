@@ -12,7 +12,7 @@ TL;DR Here's an [example pull request](https://github.com/codexfelis/flumen/pull
 
 - find the URL of the feed you want to add (see below for tips)
 - fork this repo (see the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-pull-requests) if you need more help with this)
-- add a line to the `osmosfeed.yaml` file that looks the same as the other lines which have feed URLs in
+- add a line to the `osmosfeed.yaml` file that looks the same as the other lines which have feed URLs in, in alphabetically sorted order
 - run `npm i` then `npm run build` to make sure everything is valid, the site builds and ideally you get some new items for that feed. The build shows you how many new and cached items are found for each feed, which looks like
 
 ```sh
