@@ -5,6 +5,7 @@ sources:
   - href: http://dhnb.eu/feed
   - href: http://digihum.ut.ee/feed
   - href: http://www.dh.uni-leipzig.de/wo/feed/
+  - href: http://www.digitisation.eu/blog/feed/
   - href: http://www.globaloutlookdh.org/news/feed
   - href: https://aa-dh.org/feed/
   - href: https://ach.org/feed/
@@ -20,6 +21,7 @@ sources:
   - href: https://dh.rutgers.edu/feed/
   - href: https://dhandlib.org/feed
   - href: https://dhblog.sdsu.edu/feed
+  - href: https://dhcenter-unil-epfl.com/feed/
   - href: https://dhcenternet.org/rss.xml
   - href: https://dhlab.nl/feed
   - href: https://dhlc.cal.msu.edu/feed
@@ -34,11 +36,14 @@ sources:
   - href: https://digitalhumanities.duke.edu/rss.xml
   - href: https://digitalhumanities.exeter.ac.uk/feed
   - href: https://digitalhumanities.stanford.edu/rss.xml
+  - href: https://digitalorientalist.com/feed/
   - href: https://discourse.computational-humanities-research.org/latest.rss
   - href: https://dslab.lib.rochester.edu/category/blog/feed
   - href: https://eadh.org/feed
+  - href: https://escripta.hypotheses.org/feed
   - href: https://judaicadh.github.io/feed.xml
   - href: https://lila-erc.eu/feed
+  - href: https://lila-erc.eu/news/feed/
   - href: https://livingwithmachines.ac.uk/feed
   - href: https://medium.com/@metalabharvard/feed
   - href: https://medium.com/@PelagiosNetwork/feed
@@ -48,7 +53,9 @@ sources:
   - href: https://pricelab.sas.upenn.edu/rss.xml
   - href: https://radihum20.de/feed
   - href: https://readcoop.eu/feed
+  - href: https://review.gale.com/category/digital-humanities/feed
   - href: https://reviewsindh.pubpub.org/rss.xml
+  - href: https://schoenberginstitute.org/feed
   - href: https://scholarlytales.hcommons.org/feed
   - href: https://sites.temple.edu/tudsc/feed
   - href: https://sites.tufts.edu/digitalhumanities/feed/
@@ -59,15 +66,12 @@ sources:
   - href: https://www.c2dh.uni.lu/rss.xml
   - href: https://www.cdh.cam.ac.uk/rss.xml
   - href: https://www.clarin.eu/rss.xml
+  - href: https://www.dri.ie/rss.xml
+  - href: https://www.force11.org/blogs/feed
   - href: https://www.jadh.org/rss.xml
   - href: https://www.neh.gov/rss.xml
   - href: https://www.rluk.ac.uk/feed
-  - href: https://www.vanderbilt.edu/digitalhumanities/category/blog/feed
   - href: https://www.ucc.ie/en/dah/news/RSS.xml
-  - href: https://escripta.hypotheses.org/feed
-  - href: https://www.dri.ie/rss.xml
-  - href: https://lila-erc.eu/news/feed/
-  - href: https://www.force11.org/blogs/feed
-  - href: http://www.digitisation.eu/blog/feed/
+  - href: https://www.vanderbilt.edu/digitalhumanities/category/blog/feed
 cacheMaxDays: 180
 siteTitle: "Flumen: Digital Humanities News Aggregator"
