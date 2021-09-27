@@ -371,15 +371,6 @@
           "publishedOn": "2021-05-12T16:29:12.000Z",
           "wordCount": 1414,
           "title": "Call for Executive Board and Committee Chair Applications"
-        },
-        {
-          "id": "588746 at https://adho.org",
-          "author": "drupaladmin",
-          "description": "The annual Digital Humanities conference coordinated by ADHO will not be held in 2021. ADHO’s Constituent Organizations Board has voted to focus efforts on supporting regional conferences currently coordinated by ADHO’s Constituent Organizations and their Associate Organizations and partners. To this end, we have dedicated dh2021.adho.org to providing information about the various virtual and in-person events being hosted throughout the year.\nStay tuned for more information about DH2022, to be held in Tokyo, Japan.\n\n\nPost Date: \n\nTuesday, March 30, 2021",
-          "link": "https://adho.org/announcements/2021/digital-humanities-2021",
-          "publishedOn": "2021-03-30T22:50:11.000Z",
-          "wordCount": 268,
-          "title": "Digital Humanities 2021"
         }
       ]
     },
@@ -598,15 +589,6 @@
           "publishedOn": "2021-04-13T09:42:31.000Z",
           "wordCount": 301,
           "title": "Marking work available at KCL in digital media & technology + digital culture"
-        },
-        {
-          "id": "https://blogs.kcl.ac.uk/ddh/?p=3003",
-          "author": "Gabriele Salciute Civiliene",
-          "description": "Dr Gabriele Salciute Civiliene, Lecturer in Digital Humanities Education at the Department of Digital Humanities, King’s College London, has been announced the winner of the 2021 Martha Cheung Award for Best English Article in Translation Studies by the SISU Baker Centre for Translation and Intercultural Studies, Shanghai International Studies University. The Award is established in … \nContinue reading \"The international Martha Cheung Award for research excellence in the paper on cross-linguistic modelling and computing received by Dr Gabriele Salciute Civiliene\"",
-          "link": "https://blogs.kcl.ac.uk/ddh/2021/03/29/the-international-martha-cheung-award-for-research-excellence-in-the-paper-on-cross-linguistic-modelling-and-computing-received-by-dr-gabriele-salciute-civiliene/",
-          "publishedOn": "2021-03-29T21:20:57.000Z",
-          "wordCount": 441,
-          "title": "The international Martha Cheung Award for research excellence in the paper on cross-linguistic modelling and computing received by Dr Gabriele Salciute Civiliene"
         }
       ]
     },
@@ -3915,6 +3897,24 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5601 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "Launch of CLARIN Impact Stories\n\n            \nIn this new series we showcase high-quality and innovative research that uses CLARIN tools and resources. These impact stories illustrate the huge variety of disciplines that use the CLARIN infrastructure, highlight the excellent research linked to it, and demonstrate the wider impact that CLARIN and the social sciences and humanities have on broader societal issues.\nOur first impact story features the Helsinki Digital Humanities Hackathon DHH21: ‘Parliamentary Debates in COVID Times’.\n\n      Karina Berger\n 26 September 2021\n\n      \nTags\nimpact stories",
+          "link": "https://www.clarin.eu/blog/launch-clarin-impact-stories",
+          "publishedOn": "2021-09-26T08:09:38.000Z",
+          "wordCount": 235,
+          "title": "Launch of CLARIN Impact Stories"
+        },
+        {
+          "id": "5598 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "2021 Steven Krauwer Award for CLARIN Achievements awarded to Tomaž Erjavec\n\n            \n\n\n  \n  \n            \n  \n\n\n\n      \n\n \nThe 2021 Steven Krauwer Award for CLARIN Achievements was awarded to Tomaž Erjavec (Jožef Stefan Institute / CLARIN.SI) for his outstanding contributions toward CLARIN goals.\nBio\nTomaž Erjavec is an Associate Professor for the field of language technologies at the Faculty of Arts at the University of Ljubljana. He has worked at the Jožef Stefan Institute, now as senior researcher at the Department of Knowledge Technologies, since 1984. Previous positions were at the University of Edinburgh, the University of Tokyo and at the EU Joint Research Centre in Ispra, Italy. He has taught at the Jožef Stefan International Postgraduate School, the Faculty for the Humanities a…",
+          "link": "https://www.clarin.eu/news/2021-steven-krauwer-award-clarin-achievements-awarded-tomaz-erjavec",
+          "publishedOn": "2021-09-22T16:14:19.000Z",
+          "wordCount": 738,
+          "title": "2021 Steven Krauwer Award for CLARIN Achievements awarded to Tomaž Erjavec"
+        },
+        {
           "id": "5593 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
           "description": "Belgium joins CLARIN ERIC as a member!\n\n            \nWe are very pleased to announce that Belgium officially joined CLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n   as a member! \nThe Belgian CLARIN consortium CLARIN-BE is led by the Instituut voor de Nederlandse Taal (INT) which is already a CLARIN-B centre: CLARIN technical centre for Flanders. Vincent Vandeghinste is the national coordinator for CLARIN-BE .\nOther institutions that currently comprise the National Consortium of Belgium, are the following:\nUniversity of Ghent: LT3 (\n    \nNatural Language Processing\n\r\nSee: http://en.wikipedia.org/wiki/Natural_language_processing\n\r\nread more\n\n  ), imec-IDLab (spe…",
@@ -4295,5 +4295,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }

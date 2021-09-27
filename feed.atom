@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-09-25T08:12:12.431Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-27T08:13:43.179Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
     <entry>
@@ -27,6 +27,27 @@
  Loe lähemalt CLARINi aastakonverents veebis kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch of CLARIN Impact Stories]]></title>
+        <id>5601 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/launch-clarin-impact-stories"/>
+        <updated>2021-09-26T08:09:38.000Z</updated>
+        <summary type="html"><![CDATA[Launch of CLARIN Impact Stories
+
+            
+In this new series we showcase high-quality and innovative research that uses CLARIN tools and resources. These impact stories illustrate the huge variety of disciplines that use the CLARIN infrastructure, highlight the excellent research linked to it, and demonstrate the wider impact that CLARIN and the social sciences and humanities have on broader societal issues.
+Our first impact story features the Helsinki Digital Humanities Hackathon DHH21: ‘Parliamentary Debates in COVID Times’.
+
+      Karina Berger
+ 26 September 2021
+
+      
+Tags
+impact stories]]></summary>
+        <author>
+            <name>Karina Berger</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +167,33 @@ Continue reading "Joanna Zylinska joins Department of Digital Humanities as Prof
 Fenwick McKelvey & Reza Rajabiun – AI Governance in Canada? Uneven Opportunities first appeared on Digital Democracies Institute.]]></summary>
         <author>
             <name>Kayla Hilstob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Steven Krauwer Award for CLARIN Achievements awarded to Tomaž Erjavec]]></title>
+        <id>5598 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/2021-steven-krauwer-award-clarin-achievements-awarded-tomaz-erjavec"/>
+        <updated>2021-09-22T16:14:19.000Z</updated>
+        <summary type="html"><![CDATA[2021 Steven Krauwer Award for CLARIN Achievements awarded to Tomaž Erjavec
+
+            
+
+
+  
+  
+            
+  
+
+
+
+      
+
+ 
+The 2021 Steven Krauwer Award for CLARIN Achievements was awarded to Tomaž Erjavec (Jožef Stefan Institute / CLARIN.SI) for his outstanding contributions toward CLARIN goals.
+Bio
+Tomaž Erjavec is an Associate Professor for the field of language technologies at the Faculty of Arts at the University of Ljubljana. He has worked at the Jožef Stefan Institute, now as senior researcher at the Department of Knowledge Technologies, since 1984. Previous positions were at the University of Edinburgh, the University of Tokyo and at the EU Joint Research Centre in Ispra, Italy. He has taught at the Jožef Stefan International Postgraduate School, the Faculty for the Humanities a…]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
         </author>
     </entry>
     <entry>
@@ -5639,33 +5687,6 @@ The post Creating a 3D Map of an Archaeological Site in Blender appeared first o
 The post Transkribus at the municipal archive of the city of Bautzen appeared first on READ-COOP.]]></summary>
         <author>
             <name>Johanna Walcher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities 2021]]></title>
-        <id>588746 at https://adho.org</id>
-        <link href="https://adho.org/announcements/2021/digital-humanities-2021"/>
-        <updated>2021-03-30T22:50:11.000Z</updated>
-        <summary type="html"><![CDATA[The annual Digital Humanities conference coordinated by ADHO will not be held in 2021. ADHO’s Constituent Organizations Board has voted to focus efforts on supporting regional conferences currently coordinated by ADHO’s Constituent Organizations and their Associate Organizations and partners. To this end, we have dedicated dh2021.adho.org to providing information about the various virtual and in-person events being hosted throughout the year.
-Stay tuned for more information about DH2022, to be held in Tokyo, Japan.
-
-
-Post Date: 
-
-Tuesday, March 30, 2021]]></summary>
-        <author>
-            <name>drupaladmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The international Martha Cheung Award for research excellence in the paper on cross-linguistic modelling and computing received by Dr Gabriele Salciute Civiliene]]></title>
-        <id>https://blogs.kcl.ac.uk/ddh/?p=3003</id>
-        <link href="https://blogs.kcl.ac.uk/ddh/2021/03/29/the-international-martha-cheung-award-for-research-excellence-in-the-paper-on-cross-linguistic-modelling-and-computing-received-by-dr-gabriele-salciute-civiliene/"/>
-        <updated>2021-03-29T21:20:57.000Z</updated>
-        <summary type="html"><![CDATA[Dr Gabriele Salciute Civiliene, Lecturer in Digital Humanities Education at the Department of Digital Humanities, King’s College London, has been announced the winner of the 2021 Martha Cheung Award for Best English Article in Translation Studies by the SISU Baker Centre for Translation and Intercultural Studies, Shanghai International Studies University. The Award is established in … 
-Continue reading "The international Martha Cheung Award for research excellence in the paper on cross-linguistic modelling and computing received by Dr Gabriele Salciute Civiliene"]]></summary>
-        <author>
-            <name>Gabriele Salciute Civiliene</name>
         </author>
     </entry>
 </feed>
