@@ -23,11 +23,6 @@ jobs:
         run: npm i
       - name: Build the feed
         run: npm run build
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
       - name: Deploy to GitHub Pages with custom domain
         uses: peaceiris/actions-gh-pages@v3
         with:
