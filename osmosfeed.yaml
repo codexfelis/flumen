@@ -71,7 +71,7 @@ sources:
   - href: https://www.jadh.org/rss.xml
   - href: https://www.neh.gov/rss.xml
   - href: https://www.rluk.ac.uk/feed
-  - href: https://www.ucc.ie/en/dah/news/RSS.xml
+  # - href: https://www.ucc.ie/en/dah/news/RSS.xml
   - href: https://www.vanderbilt.edu/digitalhumanities/category/blog/feed
 cacheMaxDays: 180
 siteTitle: "Flumen: Digital Humanities News Aggregator"
