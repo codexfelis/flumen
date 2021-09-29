@@ -859,6 +859,15 @@
       "siteUrl": "https://new.dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://new.dhcenter-unil-epfl.ch/?p=8069",
+          "author": "Heloise schibler",
+          "description": "Le livre de Florian Jaton, chercheur au STS Lab de l’UNIL et membre du dhCenter, intitulé The Constitution of Algorithms: Ground-Truthing, Programming, Formulating et publié au MIT Press, vient de faire l’objet de plusieurs recensions. « L’assemblée des algorithmes » d’Olivier Alexandre Aux confins de l’ethnographie, de l’histoire de l’informatique et de la philosophie des […]\nThe post Recensions de “The Constitution of Algorithms. Ground-Truthing, Programming, Formulating” appeared first on dhcenter.",
+          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/09/28/recensions-de-the-constitution-of-algorithms-ground-truthing-programming-formulating/",
+          "publishedOn": "2021-09-28T15:12:53.000Z",
+          "wordCount": 564,
+          "title": "Recensions de “The Constitution of Algorithms. Ground-Truthing, Programming, Formulating”"
+        },
+        {
           "id": "https://new.dhcenter-unil-epfl.ch/?p=8011",
           "author": "Celia Luterbacher",
           "description": "As a professor of Contemporary and Digital History at the University of Luxembourg and founding director of the Luxembourg Centre for Contemporary and Digital History (C²DH), Andreas Fickers advocates for hands-on training in the use of digital research tools for teachers as well as students of history and the social sciences. Andreas Fickers brings his […]\nThe post dhCenter Scientific Committee Profile: Andreas Fickers appeared first on dhcenter.",
@@ -1776,6 +1785,15 @@
       "siteUrl": "https://dhn.lamp4.utoronto.ca",
       "articles": [
         {
+          "id": "https://dhn.lamp4.utoronto.ca/?p=3581",
+          "author": "DHN Admin",
+          "description": "The Digital Humanities Network warmly welcomes Iris Chae, our new Work Study Communications Assistant! Iris is a talented designer and we are very fortunate to have her on the CDHI […]",
+          "link": "https://dhn.lamp4.utoronto.ca/welcome-iris-chae/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-iris-chae",
+          "publishedOn": "2021-09-28T15:31:44.000Z",
+          "wordCount": 346,
+          "title": "Welcome Iris Chae!"
+        },
+        {
           "id": "https://dhn.lamp4.utoronto.ca/?p=3194",
           "author": "DHN Admin",
           "description": "My project adapts the theories, vocabulary, and techniques of bibliographical inquiry to develop new methods for born-digital textual scholarship.",
@@ -2307,6 +2325,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=6530",
+          "author": "Jonathan Robker",
+          "description": "Synopses represent an important and user-friendly tool for the comparison of versions of biblical texts. Whether for deepening one’s own …",
+          "link": "https://digitalorientalist.com/2021/09/28/easily-creating-synopses-for-biblical-languages-in-different-directions/",
+          "publishedOn": "2021-09-28T14:00:00.000Z",
+          "wordCount": 1740,
+          "title": "Easily Creating Synopses for Biblical Languages in Different Directions"
+        },
         {
           "id": "http://digitalorientalist.com/?p=6398",
           "author": "The Digital Orientalist",
@@ -3495,15 +3522,6 @@
           "publishedOn": "2021-05-10T08:00:00.000Z",
           "wordCount": 1936,
           "title": "Supporting Future Scholars: The Transkribus Scholarship Programme"
-        },
-        {
-          "id": "https://readcoop.eu/?p=21819",
-          "author": "Johanna Walcher",
-          "description": "The municipal archive of the city of Bautzen holds an extensive record of official administration from the 13th century to the present day. Council minutes are part of the main archive collections of the city archive and were almost completely digitized in 2019/2020. They can be accessed online via the Findbuch.net-platform (https://www.archivverbund-bautzen.findbuch.net/php/main.php#3632313030). However, the statistics […]\nThe post Transkribus at the municipal archive of the city of Bautzen appeared first on READ-COOP.",
-          "link": "https://readcoop.eu/transkribus-at-the-municipal-archive-of-the-city-of-bautzen/",
-          "publishedOn": "2021-04-02T08:38:32.000Z",
-          "wordCount": 1626,
-          "title": "Transkribus at the municipal archive of the city of Bautzen"
         }
       ]
     },
@@ -4198,6 +4216,33 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2021/09/29/more-records-for.html",
+          "author": null,
+          "description": "Two more datasets have been added to the GLAM Name Index Search! From the History Trust of South Australia and Collab, I’ve added:\nPassengers in History – that’s 371,894 records of people arriving in South Australia from 1836 to 1961\nWomen’s Suffrage Petition 1894 (South Australia) – another 10,638 names\n\nIn total there’s 9.67 million name records to search across 197 datasets provided by 9 GLAM organisations!",
+          "link": "https://updates.timsherratt.org/2021/09/29/more-records-for.html",
+          "publishedOn": "2021-09-29T01:17:35.000Z",
+          "wordCount": 99,
+          "title": "More records for the GLAM Name Index Search"
+        },
+        {
+          "id": "http://wragge.micro.blog/2021/09/29/new-preprint-more.html",
+          "author": null,
+          "description": "Here’s the preprint version of an article, ‘More than newspapers’, that I’ve submitted for a forum about Trove in a forthcoming issue of History Australia.",
+          "link": "https://updates.timsherratt.org/2021/09/29/new-preprint-more.html",
+          "publishedOn": "2021-09-29T00:53:08.000Z",
+          "wordCount": 53,
+          "title": "New preprint – ‘More than newspapers’"
+        },
+        {
+          "id": "http://wragge.micro.blog/2021/09/29/more-querypic-in.html",
+          "author": null,
+          "description": "Recently I created a list of publications that made use of QueryPic, my tool to visualise searches in Trove’s digitised newspapers. Here’s another example of the GLAM Workbench and QueryPic in action, in Professor Julian Meyrick’s recent keynote lecture, ‘Looking Forward to the 1950s: A Hauntological Method for Investigating Australian Theatre History’.",
+          "link": "https://updates.timsherratt.org/2021/09/29/more-querypic-in.html",
+          "publishedOn": "2021-09-29T00:30:26.000Z",
+          "wordCount": 76,
+          "title": "More QueryPic in action"
+        },
+        {
           "id": "http://wragge.micro.blog/2021/09/10/some-thoughts-on.html",
           "author": null,
           "description": "Late last year the Federal Government announced it was making an $8.9 million investment in HASS and Indigenous research infrastructure. This program is being managed by the ARDC and will lead to the development of a HASS Research Data Commons. According to the ARDC, a research data commons:\nbrings together people, skills, data, and related resources such as storage, compute, software, and models to enable researchers to conduct world class data-intensive research\nSounds awesome!\nBased on scoping studies commissioned by the Department of Education, Skills, and Employment (which have not yet been made public), four activities were selected for initial funding under this program. Draft project plans for these four activities have now been released for public comment.\nOne of these activities …",
@@ -4464,6 +4509,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "3589 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The historian Gilbert Trausch stands in the focus of this research project that aims to bring together historiography on Luxembourg and Europe as well as intellectual and material practices of historians of the 20th century. As joint venture between the C²DH and the Historical Institute of the University of Luxembourg, the project will explore Trausch’s works and his working methods as well as his library, which was his main working place. One of the objectives of the project will be to inventory and reconstruct the library in a virtual space. Other aspects we will explore are the role, the habitus and the networks of Trausch as a scholar working on national and European history.\n \nWednesday, 20 October 2021\n14.00 - 15.00\nOnline - Webex\nIf you want to participate, please send an e-mail to vanessa.napolitano@uni.lu to receive the link.\n20 October 2021\n  Contemporary history of Luxembourg\n  Gilbert Trausch\n  Archives  Digitisation  Historiography\n  Research seminars\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/intellectual-and-material-practices-historian-20th-century-case-gilbert-trausch",
+          "publishedOn": "2021-09-29T07:47:44.000Z",
+          "wordCount": 376,
+          "title": "Intellectual and Material Practices of an Historian in the 20th Century: The Case of Gilbert Trausch"
+        },
+        {
           "id": "3585 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "Rumelange, a former mining city, has gradually transformed into a dormitory and transit town, largely losing its cultural identity, prosperity and vigour on the way. Combining these challenges with limits to potential spatial expansion and increasing urban density, it was the town’s ambition to reinvent itself by building the post-industrial revitalisation process upon the strong values that characterized this former mining hotspot - innovation, proximity, collaboration, community cohesion, welcoming culture, diversity and authenticity. To this end, the family house of the late sculptor Albert Hames (1910-1989), classified as a national monument and including the only preserved workshop of a late Luxembourg artist, will be transformed into a unique immersive hotspot of creative tourism. Th…",
@@ -4574,6 +4628,15 @@
           "publishedOn": "2021-09-28T12:21:37.000Z",
           "wordCount": 406,
           "title": "2021 Teaching CLAIN Award goes to Darja Fišer & Kristina Pahor de Maiti, Mietta Lennes and Diana Maynard"
+        },
+        {
+          "id": "5596 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "CLARIN2021 Visual Wrap-UP Day 2\n\n            \n\nThis page contains a visual wrap-up of the second day of The CLARIN Annual Conference 2021 by artist Marta Fioravanti @nonlineare  \n    \n\n              \n              \n              \n                  \n\n  \nState of the Infrastructure by CLARIN Executive Director Franciska de Jong\n\n\n\n\n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \nKeynote by Elena González-Blanco\n\n\n\n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \nFive-Minute Paper Presentation Day 2 #CLARIN2021\n\n\n \n    \n\n              \n              \n              \n                  \n\n  \nTeaching with CLARIN\n\n\n\n\n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \nCLARIN2021 Bazaar\n\n\nElisa Gorgaini\n 28 September 2021",
+          "link": "https://www.clarin.eu/blog/clarin2021-visual-wrap-day-2",
+          "publishedOn": "2021-09-28T09:10:13.000Z",
+          "wordCount": 201,
+          "title": "CLARIN2021 Visual Wrap-UP Day 2"
         },
         {
           "id": "5595 at https://www.clarin.eu",
