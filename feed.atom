@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-09-30T08:13:00.978Z</updated>
+    <updated>2021-10-01T08:13:14.566Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -29,6 +29,45 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Job opening: Data Curator (m/f/d) (E 13, TV-L) University of Bayreuth]]></title>
+        <id>1350 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/09/30/job-opening-data-curator-mfd-e-13-tv-l-university-bayreuth"/>
+        <updated>2021-09-30T16:42:08.000Z</updated>
+        <summary type="html"><![CDATA[15 Oct 2021 - 00:00
+
+
+
+Job opening: Data Curator (m/f/d) (E 13, TV-L) University of Bayreuth
+
+
+
+The University of Bayreuth is a research-oriented university with internationally com- petitive, interdisciplinary focus areas in research and teaching. At the beginning of 2019, the „Africa Multiple“ Cluster of Excellence (EXC 2052) will commence operations with funding from the Excellence Strategy of Germany‘s federal and state govern- ments. The aim of the cluster is to reconfigure African studies at both the conceptual and the structural levels. The cluster is conceived as a transformative space for the systematic study of African and African diasporic ways of life, enabling new forms of inter- and transdisciplinary cooperation. For the establishment of new forms of inter- disciplinary digit…]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Opportunity for Project Manager at DRI]]></title>
+        <id>1408 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/job-opportunity-project-manager-dri"/>
+        <updated>2021-09-30T15:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Applications are invited for the position of Project Manager, Research Data. Deadline 21 October.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speaker series with UNC Chapel Hill on “Digital Aesthetics: Critique, Creativity and Selfhood in Computational Culture”]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3163</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2021/09/30/digital-aesthetics-unc-chapel-hill/"/>
+        <updated>2021-09-30T13:31:04.000Z</updated>
+        <summary type="html"><![CDATA[As part of an ongoing collaboration between between Kings College London and UNC Chapel Hill, Doug Stark and Carly Schnitzler are convening a series of talks with researchers at the Department of Digital Humanities. The series will start with a workshop with Conor McKeown, followed by talks with Feng Zhu, Mercedes Bunz and Zeena Feldman. … 
+Continue reading "Speaker series with UNC Chapel Hill on “Digital Aesthetics: Critique, Creativity and Selfhood in Computational Culture”"]]></summary>
+        <author>
+            <name>Jonathan Gray</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Keele ja Kirjanduse digihumanitaaria erinumbri esitlus]]></title>
         <id>34485 at http://digihum.ut.ee</id>
         <link href="http://digihum.ut.ee/event/keele-ja-kirjanduse-digihumanitaaria-erinumbri-esitlus"/>
@@ -43,6 +82,17 @@ https://keeljakirjandus.ee/ee/issue/2021-8-9/. 
 ... Loe lähemalt Keele ja Kirjanduse digihumanitaaria erinumbri esitlus kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can responsible research be done with hacked data?]]></title>
+        <id>https://new.dhcenter-unil-epfl.ch/?p=8084</id>
+        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/09/30/can-responsible-research-be-done-with-hacked-data/"/>
+        <updated>2021-09-30T12:17:06.000Z</updated>
+        <summary type="html"><![CDATA[EPFL College of Humanities (CDH) researcher Marcello Ienca has recently co-authored a paper on the ethics of doing scientific research using hacked data with ETH Zurich bioethics professor Effy Vayena. They have published a series of recommendations for researchers and policymakers as a Perspective piece in the journal Nature Machine Intelligence. According to a press […]
+The post Can responsible research be done with hacked data? appeared first on dhcenter.]]></summary>
+        <author>
+            <name>Celia Luterbacher</name>
         </author>
     </entry>
     <entry>
@@ -6517,17 +6567,6 @@ The post RTS Histoire vivante:  Qui a écrit la Bible ? Le mystère révélé ap
         <summary type="html"><![CDATA[The 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022) will be held at Uppsala University, in Sweden, on 15–18 March 2022. DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond. DHNB 2022 highlights the two way relationship between digital humanities […]]]></summary>
         <author>
             <name>Olga Holownia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a 3D Map of an Archaeological Site in Blender]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=7760</id>
-        <link href="https://sites.temple.edu/tudsc/2021/04/03/creating-a-3d-map-of-an-archaeological-site-in-blender/"/>
-        <updated>2021-04-03T23:57:31.000Z</updated>
-        <summary type="html"><![CDATA[By Elysia Petras In this blog post I explore the potential of using the 3D modeling open source software Blender for historical archaeological research. I will detail how creating a 3D map...
-The post Creating a 3D Map of an Archaeological Site in Blender appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
-        <author>
-            <name>Elysia Petras</name>
         </author>
     </entry>
 </feed>
