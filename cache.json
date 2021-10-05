@@ -89,6 +89,15 @@
       "siteUrl": "http://digihum.ut.ee/feed",
       "articles": [
         {
+          "id": "34557 at http://digihum.ut.ee",
+          "author": "a71389",
+          "description": "Asukoht: \n\nUniversity of Tartu Delta Centre, room 1037\n\n\n\nSpeakers: \n\n\n\n\t• Anna Mischenko (AI_NORN): AI_NORN – programming robots as an art\n\n\n\n\t• Eduard Barbu (UniTartuCS): Devices to compute human creativity\n\n\n\n\t• Anna Aljanaki (UniTartuCS): Let there be music: when AI learns to compose...\n Loe lähemalt Data Science Seminar: Digital Humanities – art is not only for humans anymore kohta",
+          "link": "http://digihum.ut.ee/event/data-science-seminar-digital-humanities-%E2%80%93-art-not-only-humans-anymore",
+          "publishedOn": "2021-10-06T14:00:00.000Z",
+          "wordCount": 305,
+          "title": "Data Science Seminar: Digital Humanities – art is not only for humans anymore"
+        },
+        {
           "id": "34320 at http://digihum.ut.ee",
           "author": "a71389",
           "description": "http://dhnb.eu/conferences/dhnb2022/cfp/?fbclid=IwAR0OHQtGPRcuYi1gJPegW-...\n\n Loe lähemalt Digital Humanities in the Nordic and Baltic Countries 2022 teeside tähtaeg kohta",
@@ -1730,15 +1739,6 @@
           "publishedOn": "2021-04-09T09:35:53.000Z",
           "wordCount": null,
           "title": "CFP : ICDAR 2021 Workshop on Human-Document Interaction"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6370",
-          "author": "Heloise schibler",
-          "description": "L’Université libre de Bruxelles recrute un.e académique à temps plein en science politique, avec une spécialisation en communication politique (digitale). Fondée en 1834, l’Université libre de Bruxelles (ULB) est une université située au cœur de l’Europe. Multiculturelle, internationale et engagée, elle se caractérise par une recherche de pointe et un enseignement de qualité à destination […]\nThe post JOB ULB : Poste académique en science politique – communication politique digitale appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/04/08/job-ulb-poste-academique-en-science-politique-communication-politique-digitale/",
-          "publishedOn": "2021-04-08T09:35:57.000Z",
-          "wordCount": 1011,
-          "title": "JOB ULB : Poste académique en science politique – communication politique digitale"
         }
       ]
     },
@@ -2021,6 +2021,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/721",
+          "author": "406",
+          "description": "The University of Bayreuth is a research-oriented university with internationally competitive, interdisciplinary focus areas in research and teaching. At the beginning of 2019,…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-data-curator-mfd-e-13-tv-l-universit%C3%A4t-bayreuth",
+          "publishedOn": "2021-10-05T08:13:22.914Z",
+          "wordCount": 1008,
+          "title": "Stellenangebot: Data Curator (m/f/d) (E 13, TV-L) Universität Bayreuth"
+        },
         {
           "id": "node/720",
           "author": "406",
@@ -2719,15 +2728,6 @@
           "publishedOn": "2021-04-18T12:46:19.000Z",
           "wordCount": 85,
           "title": "Jobs: Assistant Professorships and the University of Amsterdam"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-788",
-          "author": "nkelber",
-          "description": "I want to invite folks in the Computational Humanities Research community to apply to the Text Analysis Pedagogy (TAP) Institute. The TAP Institute is a virtual, free institute aimed at helping train educators for teaching text analysis methods. The 2021 institute will take place in June and the deadline for applications is just one week away!\nFind out more and apply at: https://labs.jstor.org/tapi\nPlease feel free to share with your colleagues and communities.\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/text-analysis-pedagogy-tap-institute-deadline-april-15/788",
-          "publishedOn": "2021-04-08T13:28:27.000Z",
-          "wordCount": 123,
-          "title": "Text Analysis Pedagogy (TAP) Institute (Deadline April 15)"
         }
       ]
     },
@@ -4252,6 +4252,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2021/10/05/new-python-package.html",
+          "author": null,
+          "description": "There’s no reliable way of downloading an image of a Trove newspaper article from the web interface. The image download option produces an HTML page with embedded images, and the article is often sliced into pieces to fit the page.\nThis Python package includes tools to download articles as complete JPEG images. If an article is printed across multiple newspaper pages, multiple images will be downloaded – one for each page. It’s intended for integration into other tools and processing workflows, or for people who like working on the command line.\nYou can use it as a library:\nfrom trove_newspaper_images.articles import download_images\n\nimages = download_images('107024751')\n\nOr from the command line:\ntrove_newspaper_images.download 107024751 --output_dir images\n\nIf you just want to quickly download an article as an image without installing anything, you can use this web app in the GLAM Workbench. To download images of all articles returned by a search in Trove, you can also use the Trove Newspaper and Gazette Harvester.\nSee the documentation for more information. #dhhacks",
+          "link": "https://updates.timsherratt.org/2021/10/05/new-python-package.html",
+          "publishedOn": "2021-10-05T01:03:00.000Z",
+          "wordCount": 200,
+          "title": "New Python package to download Trove newspaper images"
+        },
         {
           "id": "http://wragge.micro.blog/2021/09/29/more-records-for.html",
           "author": null,

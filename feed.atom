@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-10-04T15:23:50.356Z</updated>
+    <updated>2021-10-05T08:13:40.528Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -14,6 +14,66 @@
         <summary type="html"><![CDATA[A review of Undisciplining the Victorian Classroom, a pedagogical resource that reimagines teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki]]></summary>
         <author>
             <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Seminar: Digital Humanities – art is not only for humans anymore]]></title>
+        <id>34557 at http://digihum.ut.ee</id>
+        <link href="http://digihum.ut.ee/event/data-science-seminar-digital-humanities-%E2%80%93-art-not-only-humans-anymore"/>
+        <updated>2021-10-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Asukoht: 
+
+University of Tartu Delta Centre, room 1037
+
+
+
+Speakers: 
+
+
+
+	• Anna Mischenko (AI_NORN): AI_NORN – programming robots as an art
+
+
+
+	• Eduard Barbu (UniTartuCS): Devices to compute human creativity
+
+
+
+	• Anna Aljanaki (UniTartuCS): Let there be music: when AI learns to compose...
+ Loe lähemalt Data Science Seminar: Digital Humanities – art is not only for humans anymore kohta]]></summary>
+        <author>
+            <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: Data Curator (m/f/d) (E 13, TV-L) Universität Bayreuth]]></title>
+        <id>node/721</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-data-curator-mfd-e-13-tv-l-universit%C3%A4t-bayreuth"/>
+        <updated>2021-10-05T08:13:22.914Z</updated>
+        <summary type="html"><![CDATA[The University of Bayreuth is a research-oriented university with internationally competitive, interdisciplinary focus areas in research and teaching. At the beginning of 2019,…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Python package to download Trove newspaper images]]></title>
+        <id>http://wragge.micro.blog/2021/10/05/new-python-package.html</id>
+        <link href="https://updates.timsherratt.org/2021/10/05/new-python-package.html"/>
+        <updated>2021-10-05T01:03:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s no reliable way of downloading an image of a Trove newspaper article from the web interface. The image download option produces an HTML page with embedded images, and the article is often sliced into pieces to fit the page.
+This Python package includes tools to download articles as complete JPEG images. If an article is printed across multiple newspaper pages, multiple images will be downloaded – one for each page. It’s intended for integration into other tools and processing workflows, or for people who like working on the command line.
+You can use it as a library:
+from trove_newspaper_images.articles import download_images
+
+images = download_images('107024751')
+
+Or from the command line:
+trove_newspaper_images.download 107024751 --output_dir images
+
+If you just want to quickly download an article as an image without installing anything, you can use this web app in the GLAM Workbench. To download images of all articles returned by a search in Trove, you can also use the Trove Newspaper and Gazette Harvester.
+See the documentation for more information. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
@@ -6580,31 +6640,6 @@ The post Job : professeur-e spécialisé-e en analyse socio-économique de la cu
         <updated>2021-04-09T09:35:53.000Z</updated>
         <summary type="html"><![CDATA[During the ICDAR 2021 conference (September 5-10, 2021, Lausanne, Switzerland), a workshop will be held on Human-Document Interaction (HDI). This workshop will take place on September 6, in Lausanne. The 3rd edition of this workshop on Human-Document Interaction (HDI 2021) will focus on how humans interact with written information around them, and the interfaces between […]
 The post CFP : ICDAR 2021 Workshop on Human-Document Interaction appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Text Analysis Pedagogy (TAP) Institute (Deadline April 15)]]></title>
-        <id>discourse.computational-humanities-research.org-topic-788</id>
-        <link href="https://discourse.computational-humanities-research.org/t/text-analysis-pedagogy-tap-institute-deadline-april-15/788"/>
-        <updated>2021-04-08T13:28:27.000Z</updated>
-        <summary type="html"><![CDATA[I want to invite folks in the Computational Humanities Research community to apply to the Text Analysis Pedagogy (TAP) Institute. The TAP Institute is a virtual, free institute aimed at helping train educators for teaching text analysis methods. The 2021 institute will take place in June and the deadline for applications is just one week away!
-Find out more and apply at: https://labs.jstor.org/tapi
-Please feel free to share with your colleagues and communities.
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>nkelber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB ULB : Poste académique en science politique – communication politique digitale]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=6370</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/04/08/job-ulb-poste-academique-en-science-politique-communication-politique-digitale/"/>
-        <updated>2021-04-08T09:35:57.000Z</updated>
-        <summary type="html"><![CDATA[L’Université libre de Bruxelles recrute un.e académique à temps plein en science politique, avec une spécialisation en communication politique (digitale). Fondée en 1834, l’Université libre de Bruxelles (ULB) est une université située au cœur de l’Europe. Multiculturelle, internationale et engagée, elle se caractérise par une recherche de pointe et un enseignement de qualité à destination […]
-The post JOB ULB : Poste académique en science politique – communication politique digitale appeared first on dhcenter.]]></summary>
         <author>
             <name>Heloise schibler</name>
         </author>
