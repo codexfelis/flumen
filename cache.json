@@ -186,15 +186,6 @@
           "publishedOn": "2021-05-21T07:15:00.000Z",
           "wordCount": 367,
           "title": "Computer-based Text and Discourse Analysis"
-        },
-        {
-          "id": "32287 at http://digihum.ut.ee",
-          "author": "a71389",
-          "description": "...\n Loe lähemalt Kevadised seminarid digihumanitaarias / digilabor. Huvi üleskutse kohta",
-          "link": "http://digihum.ut.ee/event/kevadised-seminarid-digihumanitaarias-digilabor-huvi-%C3%BCleskutse",
-          "publishedOn": "2021-04-15T21:00:00.000Z",
-          "wordCount": 224,
-          "title": "Kevadised seminarid digihumanitaarias / digilabor. Huvi üleskutse"
         }
       ]
     },
@@ -388,6 +379,15 @@
       "feedUrl": "https://adho.org/rss.xml",
       "siteUrl": "https://adho.org/rss.xml",
       "articles": [
+        {
+          "id": "588823 at https://adho.org",
+          "author": "anna.sofial96@gmail.com",
+          "description": "The official website of DH2022 has launched! The conference will take place at Toshi Center Hotel, Tokyo, Japan, between 25 and 29 July 2022. There is the possibility to participate both in-person and online (asynchronous only). Abstracts are due November 30th, 2021, 11:59 PM Hawaii Standard Time (GMT-10).\nTheme - English\nThe theme is “Responding to Asian Diversity.” Proposals that relate to the pan-Asian theme are particularly invited, but submissions from all who work in all digital humanities disciplines, methodologies, and pedagogies are encouraged as well. \nThème - Français\nLe thème des conférences pour l’année 2022 est “Répondre à la diversité asiatique”. Nous encourageons particulièrement des propositions reliées au thème panasiatique, mais nous encourageons aussi toutes les soumissions de ceux qui travaillent dans toutes les disciplines, méthodes et pédagogies des humanités numériques.\nTema - Español\nEl tema de la conferencia de 2022 es “En Respuesta a la Diversidad Asiática”. Invitamos en especial propuestas que se relacionen con temáticas pan-asiáticas, pero invitamos también propuestas sobre cualquiera de las disciplinas, metodologías y pedagogías de las humanidades digitales.\nThema - Deutsch\nDas Thema der Konferenz 2022 ist “Reaktionen auf die Diversität Asiens”. Wir laden besonders dazu ein, Beiträge einzureichen, die sich mit pan-asiatischen Themen beschäftigen, begrüßen aber Beiträge aus allen Disziplinen, Methoden und der Pädagogik der digitalen Geisteswissenschaften.\nTema - Italiano\nIl tema della conferenza del 2022 è “Interagire con la diversità asiatica”. Invitiamo in particolare proposte che si riferiscono al tema pan-asiatico, ma incoraggiamo contributi da parte di tutti coloro che lavorano nelle discipline, con le metodologie e le pedagogie delle digital humanities.\n \n\n\nPost Date: \n\nTuesday, October 12, 2021",
+          "link": "https://adho.org/announcements/2021/digital-humanities-2022-%E2%80%9Cresponding-asian-diversity%E2%80%9D",
+          "publishedOn": "2021-10-12T17:51:36.000Z",
+          "wordCount": 524,
+          "title": "Digital Humanities 2022: “Responding to Asian Diversity”"
+        },
         {
           "id": "588792 at https://adho.org",
           "author": "erdal.ayan@dhturkey.org",
@@ -740,6 +740,15 @@
       "siteUrl": "https://dh.rutgers.edu",
       "articles": [
         {
+          "id": "https://dh.rutgers.edu/?p=77463",
+          "author": "Francesca Giannetti",
+          "description": "Introductory Text Analysis with Voyant Tools This workshop focuses on Voyant, an open source suite of tools for analyzing texts or a corpus of texts in quantitative ways. Participants will learn basic information about different types of text analysis and their applications. We will use a prepared corpus of texts to explore different tools, skins (layouts), and discuss how they might used in humanities scholarship.   [2021-02-12 update: Voyant handout and sample corpus]  Thursday, October 14th, 2021, 11:00 -12:30pm,  online synchronous, (Instructor: Wafa Isfahani)    Digital Storytelling with Narrative Maps In this introductory workshop, we will learn about combining text, interactive maps, and other multimedia content to create an immersive digital story. ArcGIS StoryMaps can help to illustrate spatial",
+          "link": "https://dh.rutgers.edu/fall-2021-workshops/?utm_source=rss&utm_medium=rss&utm_campaign=fall-2021-workshops",
+          "publishedOn": "2021-10-13T06:45:32.000Z",
+          "wordCount": 328,
+          "title": "Fall 2021 Workshops"
+        },
+        {
           "id": "https://dh.rutgers.edu/?p=77411",
           "author": "Paolo Scartoni",
           "description": "Friday, October 15, 2021, 11AM to 12:30PM (virtual) The Digital Humanities and Teaching Asian American Studies Jason Chang (Associate Professor of History and Asian American Studies; Director of Asian American Studies Institute, UConn) Andrea Kim Neighbors (Manager of Education Initiatives for the Smithsonian Asian Pacific American Center) Lori Kido Lopez (Professor in Media and Cultural Studies; Director of the Asian American Studies Program, University of Wisconsin, Madison) Manan Desai (Associate Professor; Director of A/PIA Studies Program, University of Michigan) In 2021, Make Us Visible New Jersey launched a campaign to advocate for the inclusion of Asian, Pacific Islander, and Desi American (APIDA) studies in the",
@@ -980,10 +989,19 @@
       "articles": []
     },
     {
-      "title": "dhcenter",
+      "title": "dhCenter",
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://new.dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://new.dhcenter-unil-epfl.ch/?p=8305",
+          "author": "Heloise schibler",
+          "description": "Intervention d’Olivier Glassey,  maître d’enseignement et de recherche au sein de l’Institut des sciences sociales (ISS), et membre du dhCenter, dans l’émission ” Tout un monde”, le 27 septembre 2021. Une oeuvre numérique a été vendue chez Christie’s pour 70 millions de dollars, un record. Un non-fungible token est un fichier numérique qui peut contenir […]\nThe post Les œuvres d’art digitales, un mouvement durable? appeared first on dhCenter.",
+          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/10/12/les-oeuvres-dart-digitales-un-mouvement-durable/",
+          "publishedOn": "2021-10-12T09:28:07.000Z",
+          "wordCount": 286,
+          "title": "Les œuvres d’art digitales, un mouvement durable?"
+        },
         {
           "id": "https://new.dhcenter-unil-epfl.ch/?p=8092",
           "author": "Celia Luterbacher",
@@ -1856,15 +1874,6 @@
           "publishedOn": "2021-04-20T10:13:22.000Z",
           "wordCount": null,
           "title": "Job : Assistant·e PhD HEAD – Genève & EPFL"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6421",
-          "author": "n.ulmi",
-          "description": "Timothy Tangherlini & Vwani Roychowdhury – A pizza, a bridge, a virus and a witch: Conspiracy patterns from digital folklore to real-life consequences Timothy Tangherlini is a computational folklorist. He is a Professor in the Dept. of Scandinavian at the University of California, Berkeley. Vwani Roychowdhury is a Professor of Computer Engineering at the University […]\nThe post « Can a Fake Truth Change the World? » Episode 5: Timothy Tangherlini & Vwani Roychowdhury appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/04/16/fake_truth_5/",
-          "publishedOn": "2021-04-16T06:15:07.000Z",
-          "wordCount": null,
-          "title": "« Can a Fake Truth Change the World? » Episode 5: Timothy Tangherlini & Vwani Roychowdhury"
         }
       ]
     },
@@ -2515,6 +2524,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=6687",
+          "author": "The Digital Orientalist",
+          "description": "This week’s guest contribution was organized by our Editor for Northeast African Studies, So Miyagawa, and was written by Lance …",
+          "link": "https://digitalorientalist.com/2021/10/12/an-introduction-to-coptic-scriptorium/",
+          "publishedOn": "2021-10-12T13:00:00.000Z",
+          "wordCount": 1704,
+          "title": "An Introduction to Coptic Scriptorium"
+        },
         {
           "id": "http://digitalorientalist.com/?p=6634",
           "author": "Lu Wang",
@@ -4837,6 +4855,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "3615 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Ces deux dernières années, un collectif regroupant archivistes, historien.nes et juristes se sont unis afin de contester la légalité d’un texte réglementaire portant sur la communication des documents classés secret défense de plus de 50 ans. Cette intervention sera l’occasion de revenir sur la situation des archives publiques en France et les péripéties de cette lutte. Cette mobilisation et les réactions du gouvernement ont abouti à une nouvelle situation qui n’est pas sans poser de nouveaux problèmes aux historien.nes comme aux citoyen.nes.\n \n\n\n \nRaphaëlle Branche est professeure d’histoire contemporaine à l’Université de Paris Nanterre et membre de l’Institut des Sciences Sociales du Politique (CNRS). Elle est spécialiste des violences en situation coloniale, de la guerre d'Algérie et de ses mémoires. Son dernier ouvrage est « Papa, qu’as-tu fait en Algérie ? ». Enquête sur un silence familial (La Découverte, 2020). Elle préside aussi l’association des historiens contemporanéistes de l’enseignement supérieur et de la recherche (AHCESR) et a coordonné le collectif Accès aux archives publiques.\n \nMercredi, 27 octobre 2021\n14.00 - 15.00\nEn ligne - Webex.\nVeuillez envoyer un mail à vanessa.napolitano@uni.lu pour recevoir le lien.\n27 October 2021\n  Archives\n  Hands-on History\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/lacces-aux-archives-publiques-en-france-retour-sur-les-dernieres-evolutions",
+          "publishedOn": "2021-10-12T08:28:54.000Z",
+          "wordCount": 411,
+          "title": "L’accès aux archives publiques en France: retour sur les dernières évolutions"
+        },
+        {
           "id": "3599 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "This contribution examines the metaphorical means through which political independence was translated into national identity in Luxembourgish literature between 1900 and 1940. It posits that industrialisation provided an aesthetic canvas for literary modernism and illustrates the ways in which the writer and journalist Batty Weber and his contemporaries sought to modernise a dominant ideological attachment to the soil by instituting the sky as the never-fixed embodiment of ideational change. In the arts, industry as a subject was mainly taken up by avant-garde writers, who constructed the industrial light spectacle and billowing smokes as symbols of intellectual progress and supranational cosmopolitan exchange. Through celebrating the replacement of nature by the machine as the triumph of …",
@@ -5099,6 +5126,33 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1420 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "Maynooth University is seeking to appoint a postdoctoral researcher to work on the 'Full Stack Feminism in Digital Humanities' project based at the Maynooth University Arts and Humanities Institute (MUAHI).",
+          "link": "https://www.dri.ie/postdoctoral-research-opportunity-full-stack-feminism-project",
+          "publishedOn": "2021-10-12T09:32:00.000Z",
+          "wordCount": 967,
+          "title": "Postdoctoral Researcher Opportunity with the Full Stack Feminism Project"
+        },
+        {
+          "id": "1419 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "In the sixth blog in our #DRI10 series celebrating ten years of DRI, Programme Manager Lisa Griffith reflects on the launch of DRI's Membership Model.",
+          "link": "https://www.dri.ie/launch-dri%E2%80%99s-membership-model-dri10",
+          "publishedOn": "2021-10-12T09:01:10.000Z",
+          "wordCount": 1438,
+          "title": "The Launch of DRI’s Membership Model #DRI10"
+        },
+        {
+          "id": "1418 at https://www.dri.ie",
+          "author": "Deborah Thorpe",
+          "description": "Date: \n\n4 Nov 2021\n\n\nLocation: \n\nZoom\n\n\n\nA DRI webinar that will introduce the EU Copyright Directive, led by Ariadna Matas of the Europeana Foundation.",
+          "link": "https://www.dri.ie/dri-webinar-eu-copyright-directive",
+          "publishedOn": "2021-10-11T09:09:20.000Z",
+          "wordCount": 707,
+          "title": "DRI Webinar: The EU Copyright Directive"
+        },
         {
           "id": "1417 at https://www.dri.ie",
           "author": "ainemadden",
@@ -5562,18 +5616,6 @@
           "title": "Nashville Sites",
           "enclosure": {
             "url": "https://www.vanderbilt.edu/digitalhumanities/wp-content/uploads/sites/214/2021/09/news-dh-800x370.jpg"
-          }
-        },
-        {
-          "id": "https://www.vanderbilt.edu/digitalhumanities/?p=3118",
-          "author": "forehamj",
-          "description": "By Ashley Kim, Mellon Graduate Student Fellow from the Department of Sociology As an ethnographer, I started my current project the way all brilliant researchers do: inspired by an intriguing research question that popped into my head right as I hit the pillow at night… or in the shower? One of the two. I was...",
-          "link": "https://www.vanderbilt.edu/digitalhumanities/digital-ethnography-where-art-thou/",
-          "publishedOn": "2021-04-16T16:30:38.000Z",
-          "wordCount": 732,
-          "title": "Digital Ethnography, Where Art Thou?",
-          "enclosure": {
-            "url": "https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/214/2021/04/16162945/Copy-of-Vanderbilt-Center-for-Digital-Humanities-3-800x370.png"
           }
         }
       ]
