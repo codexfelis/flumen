@@ -46,15 +46,6 @@
           "publishedOn": "2021-05-27T16:44:30.000Z",
           "wordCount": 916,
           "title": "Blowing the doors off debt: mapping global interactions of a community project"
-        },
-        {
-          "id": "http://blogs.ucl.ac.uk/dh/?p=8172",
-          "author": "uczcrym",
-          "description": "Lessons from history, options for today. Thursday 29 April 2021 – 12pm-1pm (Zoom) Register for free. Join Dr. Adam Crymble for a free Programming Historian Teaching Workshop to celebrate the launch of his new book, Technology & the Historian: Transformations of the Digital Age, the first comprehensive history of historical studies in the digital age. […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2021/04/23/technology-the-historian-transformations-of-the-digital-age-workshop-book-launch/",
-          "publishedOn": "2021-04-23T09:27:29.000Z",
-          "wordCount": 426,
-          "title": "‘Technology & the Historian: Transformations of the Digital Age’ Workshop & Book Launch"
         }
       ]
     },
@@ -526,6 +517,24 @@
       "siteUrl": "https://blogs.kcl.ac.uk/ddh",
       "articles": [
         {
+          "id": "https://blogs.kcl.ac.uk/ddh/?p=3207",
+          "author": "Jonathan Gray",
+          "description": "We are delighted to announce that Rahel Süß will be joining us as a visiting researcher at the Department of Digital Humanities, King’s College London. During her stay, she will continue her research on a political theory of digital democracy. A key question regards what the task of democracy has become in digital-mediated societies. Beyond demands for … \nContinue reading \"Welcome to Rahel Süß, visiting researcher at the Department of Digital Humanities ✨\"",
+          "link": "https://blogs.kcl.ac.uk/ddh/2021/10/19/rahel-sus-visiting-researcher/",
+          "publishedOn": "2021-10-19T08:46:59.000Z",
+          "wordCount": 509,
+          "title": "Welcome to Rahel Süß, visiting researcher at the Department of Digital Humanities ✨"
+        },
+        {
+          "id": "https://blogs.kcl.ac.uk/ddh/?p=3198",
+          "author": "Jonathan Gray",
+          "description": "Jean-Christophe Plantin (@JCPlantin) is joining the Department of Digital Humanities over the coming months as a visiting researcher. In the following post he discusses what he will be working on. Welcome Jean-Christophe! 🎊 It is an honor to be a Visiting Research Fellow in the Department of Digital Humanities during Fall 2021. I have been … \nContinue reading \"Welcome to Jean-Christophe Plantin, visiting researcher at the Department of Digital Humanities ✨\"",
+          "link": "https://blogs.kcl.ac.uk/ddh/2021/10/19/jean-christophe-plantin-visiting-researcher/",
+          "publishedOn": "2021-10-19T08:36:54.000Z",
+          "wordCount": 563,
+          "title": "Welcome to Jean-Christophe Plantin, visiting researcher at the Department of Digital Humanities ✨"
+        },
+        {
           "id": "https://blogs.kcl.ac.uk/ddh/?p=3193",
           "author": "Jonathan Gray",
           "description": "A workshop on “Interrogating Global Traces of Infrastructure” will take place on 18th November 2021, organised by Urszula Pawlicka-Deger as part of her Marie Skłodowska-Curie DH Infra project. The event is organised together with the King’s Digital Lab, the Department of Digital Humanities at King’s College London and the Critical Infrastructure Studies collective. The schedule … \nContinue reading \"“Interrogating Global Traces of Infrastructure” workshop, 18th November 2021\"",
@@ -768,7 +777,17 @@
       "title": "CUNY Digital Humanities Initiative",
       "feedUrl": "https://cunydhi.commons.gc.cuny.edu/feed",
       "siteUrl": "https://cunydhi.commons.gc.cuny.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cunydhi.commons.gc.cuny.edu/?p=1873",
+          "author": "Leanne Fan",
+          "description": "Interested in digital humanities at CUNY? Have a project to share? Sign up to present […]",
+          "link": "https://cunydhi.commons.gc.cuny.edu/2021/10/19/call-for-participation-cuny-dhi-lightning-talks-2021/",
+          "publishedOn": "2021-10-19T22:58:09.000Z",
+          "wordCount": 735,
+          "title": "Call for Participation: CUNY DHI Lightning Talks 2021"
+        }
+      ]
     },
     {
       "title": "Digital Humanities Initiative",
@@ -1892,24 +1911,6 @@
           "publishedOn": "2021-04-29T08:05:01.000Z",
           "wordCount": 582,
           "title": "CROSS 2022"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6480",
-          "author": "Heloise schibler",
-          "description": "Professor Sabina Leonelli, Turing Fellow and dhCenter Scientific Committee Member, gave a short interview on the Alan Turing Institute website. Her researches consider how we can responsibly connect data across climate, health, agricultural and environmental research. What are you working on at the moment? This term I am teaching an extensive module in data ethics […]\nThe post Researcher Spotlight : Sabina Leonelli appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/04/23/researcher-spotlight-sabina-leonelli/",
-          "publishedOn": "2021-04-23T14:34:32.000Z",
-          "wordCount": 664,
-          "title": "Researcher Spotlight : Sabina Leonelli"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6475",
-          "author": "Heloise schibler",
-          "description": "The SNSF project MARK16, led by Claire Clivaz, member of the dhCenter, has put online 36 manuscripts in six languages with folios of chapter 16 of the Gospel according to Mark. The Manuscript Room is the first part of a virtual research environment (VRE) devoted to the last chapter of the Gospel according to Mark. […]\nThe post MARK16 Manuscript Room appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/04/23/mark16-manuscript-room/",
-          "publishedOn": "2021-04-23T13:31:47.000Z",
-          "wordCount": 392,
-          "title": "MARK16 Manuscript Room"
         }
       ]
     },
@@ -2246,6 +2247,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/724",
+          "author": "406",
+          "description": "In der Generaldirektion der Staatlichen Museen zu Berlin – Preußischer Kulturbesitz (SMB) ist ab sofort folgende Stelle zunächst befristet bis zum 31.08.2023 zu besetzen:…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-systemadministratorin-applikationsentwicklerin-mwd-spk-berlin",
+          "publishedOn": "2021-10-20T08:13:02.441Z",
+          "wordCount": 729,
+          "title": "Stellenangebot: Systemadministrator*in / Applikationsentwickler*in (m/w/d) (SPK Berlin)"
+        },
         {
           "id": "node/722",
           "author": "406",
@@ -2641,6 +2651,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=6730",
+          "author": "DaigengnaDuoer",
+          "description": "I believe that I am not the only person who often ends up having multiple tabs open on my browser …",
+          "link": "https://digitalorientalist.com/2021/10/19/a-solution-for-the-mess-of-online-bookmarking/",
+          "publishedOn": "2021-10-19T13:00:00.000Z",
+          "wordCount": 1908,
+          "title": "A Solution for the Mess of Online Bookmarking?"
+        },
         {
           "id": "http://digitalorientalist.com/?p=6295",
           "author": "James Harry Morris",
@@ -3048,6 +3067,42 @@
       "feedUrl": "https://eadh.org/feed",
       "siteUrl": "https://eadh.org/feed",
       "articles": [
+        {
+          "id": "1360 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "31 Oct 2021 - 00:00\n\n\n\nResearch Associate in Digital Lexicography and Research Software Engineering - Academy of Sciences and Literature | Mainz\n\n\n\nResearch Associate (m/f/d) with focus on Digital Lexicography and Research Software Engineering\nThe Academy of Sciences and Literature | Mainz is looking for a Research Associate (m/f/d) 1.0 EG 13 TV-L with a focus on Digital Lexicography and Research Software Engineering to start as soon as possible and initially for a limited period of 3 years.\nThe Academy of Sciences and Literature | Mainz is a Germany-wide association of scholars and at the same time a funding institution for research projects in the humanities, social sciences and musicology. In the Digital Academy, an interdisciplinary team of computer scientists and humanities scholars w…",
+          "link": "https://eadh.org/news/2021/10/19/research-associate-digital-lexicography-and-research-software-engineering-academy",
+          "publishedOn": "2021-10-19T10:12:08.000Z",
+          "wordCount": 738,
+          "title": "Research Associate in Digital Lexicography and Research Software Engineering - Academy of Sciences and Literature | Mainz"
+        },
+        {
+          "id": "1359 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "1 Nov 2021 - 00:00\n\n\n\nJunior lecturer in digital humanities - University of Lausanne (Switzerland)\n\n\n\nJob opportunity: Junior lecturer in digital humanities at the University of Lausanne (Switzerland)\nThe Department of Language and Information Sciences in the Faculty of Arts of the University of Lausanne invites applications for a position of\njunior lecturer in digital humanities\nwith a focus on history and theory of DH.\nThis is an 80% postdoctoral position for a maximum of 5 years, starting February 1, 2022.\nThe deadline for applications is November 1, 2021.\nFor the offical job posting (in French) and application link, please see: https://career5.successfactors.eu/career?company=universitdP&career_job_req_id=18356&career_ns=job_listing&navBarLevel=JOB_SEARCH\n(only applications via the job…",
+          "link": "https://eadh.org/news/2021/10/19/junior-lecturer-digital-humanities-university-lausanne-switzerland",
+          "publishedOn": "2021-10-19T10:07:37.000Z",
+          "wordCount": 821,
+          "title": "Junior lecturer in digital humanities - University of Lausanne (Switzerland)"
+        },
+        {
+          "id": "1357 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "Assistant Professor in Cultural Analytics or Digital Literary Studies - Washington University, St. Louis\n\n\n\nAs part of a broad initiative in Data Analytics and Digital Technology (https://insideartsci.wustl.edu/digital-transformation-hiring-initiative), Washington University in St. Louis seeks a tenure-track faculty member at the rank of Assistant Professor in the field of Cultural Analytics or Digital Literary Studies (start date July 1, 2022). Depending upon research area and educational background, the primary appointment will be made in either English, Comparative Literature, or Germanic Languages and Literatures with affiliation possible in such programs as Film and Media Studies or Performing Arts. Successful candidates will have a record of or the potential for outstanding teaching …",
+          "link": "https://eadh.org/news/2021/10/19/assistant-professor-cultural-analytics-or-digital-literary-studies-washington-0",
+          "publishedOn": "2021-10-19T09:58:11.000Z",
+          "wordCount": 822,
+          "title": "Assistant Professor in Cultural Analytics or Digital Literary Studies - Washington University, St. Louis"
+        },
+        {
+          "id": "1356 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "Assistant Professor in Cultural Analytics or Digital Literary Studies - Washington University, St. Louis\n\n\n\nAs part of a broad initiative in Data Analytics and Digital Technology (https://insideartsci.wustl.edu/digital-transformation-hiring-initiative), Washington University in St. Louis seeks a tenure-track faculty member at the rank of Assistant Professor in the field of Cultural Analytics or Digital Literary Studies (start date July 1, 2022). Depending upon research area and educational background, the primary appointment will be made in either English, Comparative Literature, or Germanic Languages and Literatures with affiliation possible in such programs as Film and Media Studies or Performing Arts. Successful candidates will have a record of or the potential for outstanding teaching …",
+          "link": "https://eadh.org/news/2021/10/19/assistant-professor-cultural-analytics-or-digital-literary-studies-washington",
+          "publishedOn": "2021-10-19T09:57:15.000Z",
+          "wordCount": 822,
+          "title": "Assistant Professor in Cultural Analytics or Digital Literary Studies - Washington University, St. Louis"
+        },
         {
           "id": "1355 at https://eadh.org",
           "author": "Communication Fellow",
@@ -4491,6 +4546,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=837",
+          "author": "Leah Budke",
+          "description": "On Tuesday 26 October 2021 the KU Leuven Digital Society Institute (DigiSoc) will hold their official launch event. DigiSoc’s mission is to define a solid path towards a positive digital future by understanding, designing, developing and critically reflecting on (new) interactions between people and digitally driven technology. DigiSoc aims to support and encourage excellent research and education as well as create impact on real-life applications and for diverse stakeholder groups. Its envisioned outcome is an inclusive digital society based on responsible, ethical and sustainable (use of) technologies.  The launch will...",
+          "link": "https://scholarlytales.hcommons.org/2021/10/19/event-launch-of-the-ku-leuven-digital-society-institute-digisoc/",
+          "publishedOn": "2021-10-19T14:15:31.000Z",
+          "wordCount": 667,
+          "title": "Event: Launch of the KU Leuven Digital Society Institute (DigiSoc)"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=833",
           "author": "Rebecca Burke",
