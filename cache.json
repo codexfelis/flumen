@@ -267,6 +267,15 @@
       "siteUrl": "https://ach.org",
       "articles": [
         {
+          "id": "https://ach.org/?p=2263",
+          "author": "paigecm",
+          "description": "If you’re thinking of applying for DH jobs in faculty or alt-ac roles, join ACH Mentoring for a “Decoding DH Job Ads” event on November 5th at 12 PM Eastern / 9 AM Pacific! Amanda Henrichs, Zoe LeBlanc, and Katie MacDonough will walk through real DH job ads to explain what they’re actually asking for.…Continue reading.",
+          "link": "https://ach.org/blog/2021/10/20/event-decoding-dh-job-ads/",
+          "publishedOn": "2021-10-20T22:01:54.000Z",
+          "wordCount": 172,
+          "title": "Event: Decoding DH job ads"
+        },
+        {
           "id": "https://ach.org/?p=2251",
           "author": "jwoowinter",
           "description": "Interviewed by Anna E. Kijas on March 12, 2021 Sonya Donaldson, Ph.D. is an Associate Professor of English at New Jersey City University. She is the developer of a Black digital humanities project, Singing the Nation into Being. Donaldson was the 2016 recipient of a Mellon Career Enhancement Junior Faculty Fellowship, a 2019 Virginia Humanities…Continue reading.",
@@ -516,6 +525,15 @@
       "feedUrl": "https://blogs.kcl.ac.uk/ddh/feed",
       "siteUrl": "https://blogs.kcl.ac.uk/ddh",
       "articles": [
+        {
+          "id": "https://blogs.kcl.ac.uk/ddh/?p=3229",
+          "author": "Gabriele Salciute Civiliene",
+          "description": "Guest edited by Dr Gabriele Salciute Civiliene and Dr Kristen Schuster, DDH, King’s College London, the forthcoming Special Issue of Herança – Revista de História, Património e Cultura invites you to submit papers in English or Portuguese on the topics related to the issue’s title “Interdisciplinary Perspectives on Digital Experiment in Museology and Museum Design”. … \nContinue reading \"CfP for Special Issue “Interdisciplinary Perspectives on Digital Experiment in Museology and Museum Design” of Herança Journal\"",
+          "link": "https://blogs.kcl.ac.uk/ddh/2021/10/20/cfp-digital-experiment-museology/",
+          "publishedOn": "2021-10-20T12:46:32.000Z",
+          "wordCount": 1994,
+          "title": "CfP for Special Issue “Interdisciplinary Perspectives on Digital Experiment in Museology and Museum Design” of Herança Journal"
+        },
         {
           "id": "https://blogs.kcl.ac.uk/ddh/?p=3207",
           "author": "Jonathan Gray",
@@ -2399,6 +2417,24 @@
       "siteUrl": "https://digital-history.uni-bielefeld.de",
       "articles": [
         {
+          "id": "https://digital-history.uni-bielefeld.de/?p=489",
+          "author": "Adrian Strothotte",
+          "description": "Die AG Annotation steigt ins Vergleichen ein wie, womit und vor allem welche Vergleichspraktiken lassen sich mithilfe des Computers analysieren? Diesen Fragen geht die neue Arbeitsgruppe Annotation nach, die sich am 26.10.2021 von 15 bis 16 Uhr online konstituiert. Das Treffen schließt an den CATMA 6 Workshop am selben Tag vormittags an. Wir planen, den…",
+          "link": "https://digital-history.uni-bielefeld.de/2021/10/20/lets-annotate/",
+          "publishedOn": "2021-10-20T14:25:52.000Z",
+          "wordCount": 309,
+          "title": "„Let’s annotate“"
+        },
+        {
+          "id": "https://digital-history.uni-bielefeld.de/?p=487",
+          "author": "Adrian Strothotte",
+          "description": "Es ist soweit, die AG text mining startet am nächsten Mittwoch. Ab diesem Wintersemester erkunden, diskutieren und reflektieren wir den Einsatz von text mining tools für die geisteswissenschaftliche Forschung. Wir krempeln die Ärmel hoch, trainieren uns im Einsatz von Methoden zur computergestützten Erkennung von Bedeutungsstrukturen in Texten, stellen uns gemeinsam Herausforderungen und Chancen beim Einsatz…",
+          "link": "https://digital-history.uni-bielefeld.de/2021/10/20/die-ag-text-mining-legt-los/",
+          "publishedOn": "2021-10-20T14:23:12.000Z",
+          "wordCount": 325,
+          "title": "Die AG text mining legt los"
+        },
+        {
           "id": "https://digital-history.uni-bielefeld.de/?p=485",
           "author": "Adrian Strothotte",
           "description": "On November 29, 1:15 – 3:00 p.m., Andreas Fickers (Director of the Luxembourg Centre for Contemporary and Digital History) will talk about „Reflections on the temporal regime of the digital past and present“. The event is the opening to an ongoing cooperation of Team @BieDigital and DigitalHistory@Lund. You can register for the lecture here.",
@@ -2461,6 +2497,15 @@
       "feedUrl": "https://digitaldemocracies.org/feed",
       "siteUrl": "https://digitaldemocracies.org",
       "articles": [
+        {
+          "id": "https://digitaldemocracies.org/?p=1811",
+          "author": "Kayla Hilstob",
+          "description": "On September 29, Grace Kyungwon Hong (UCLA), Lisa Nakamura (UMich) and Wendy Hui Kyong Chun (SFU) engaged in a panel discussion on anti-Asian sentiment before Covid-19. Before the event, Lisa …\n  Anti-Asian Sentiment before Covid-19 Read More »\nAnti-Asian Sentiment before Covid-19 first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/anti-asian-sentiment-before-covid-19/?utm_source=rss&utm_medium=rss&utm_campaign=anti-asian-sentiment-before-covid-19",
+          "publishedOn": "2021-10-20T19:18:05.000Z",
+          "wordCount": 1102,
+          "title": "Anti-Asian Sentiment before Covid-19"
+        },
         {
           "id": "https://digitaldemocracies.org/?p=1743",
           "author": "Kayla Hilstob",
@@ -4806,6 +4851,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2021/10/21/glam-workbench-now.html",
+          "author": null,
+          "description": "The GLAM Workbench isn’t dependent on one big piece of technological infrastructure. It’s basically a collection of Jupyter notebooks, and those notebooks can be used within a variety of different environments. This helps make the GLAM Workbench more sustainable – new components can be swapped in and out as required. It also makes it possible to create different pathways for users, depending on their digital skills, institutional support, and research needs. For example, links to Binder make it easy for users to explore the possibilities of the GLAM Workbench and accomplish quick tasks. But Binder has limits. Where do you go when your research project scales up?\nEarlier this year I added one-click installation of GLAM Workbench repositories in Reclaim Cloud. Today I’m very pleased to annou…",
+          "link": "https://updates.timsherratt.org/2021/10/21/glam-workbench-now.html",
+          "publishedOn": "2021-10-20T23:18:11.000Z",
+          "wordCount": 371,
+          "title": "GLAM Workbench now in the Nectar Research Cloud!"
+        },
+        {
           "id": "http://wragge.micro.blog/2021/10/18/more-glam-name.html",
           "author": null,
           "description": "A new version of the GLAM Name Index Search is available. An additional 49 indexes have been added, bringing the total to 246. You can now search for names in more than 10.2 million records from 9 organisations.\nThe new indexes come from Queensland State Archives and the State Library of WA. QSA announced on Friday that they’d added two new indexes to their site. When I went to harvest them, I realised there was another 25 indexes that I hadn’t previously picked up. It seems that some QSA datasets are tagged as ‘Queensland State Archives’ in the data.qld.gov.au portal, but others are tagged as ‘queensland state archives’ – and the tag search is case sensitive! I now search for both the upper and lower case tags.\nThere’s also a number of additions from the State Library of WA. These dataset…",
@@ -5406,6 +5460,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1427 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "In the seventh blog in our #DRI10 series celebrating ten years of DRI, Software Engineer Stuart Kenny reflects on community-driven initiatives that have played a part in DRI's technical developments.",
+          "link": "https://www.dri.ie/software-development-and-communities-dri10",
+          "publishedOn": "2021-10-19T13:57:34.000Z",
+          "wordCount": 1329,
+          "title": "Software Development and Communities #DRI10"
+        },
         {
           "id": "1425 at https://www.dri.ie",
           "author": "ainemadden",
