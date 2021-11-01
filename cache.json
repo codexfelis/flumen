@@ -5845,15 +5845,6 @@
           "publishedOn": "2021-05-07T07:41:40.000Z",
           "wordCount": 539,
           "title": "Event: DHSITE2021 with workshops on Python, Linked Open Data, Text Analysis, and Machine Translation"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=642",
-          "author": "Nele Noppe",
-          "description": "Would you like to stay up to date with new posts on the Scholarly Tales blog right from Outlook? RSS, or Really Simple Syndication, is “a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format” (Wikipedia). Blogs and many other online resources, including academic journals and databases, often offer RSS feeds of their new content. By subscribing to RSS feeds, you can get updates from many sources delivered in one location. Where...",
-          "link": "https://scholarlytales.hcommons.org/2021/05/05/get-new-scholarly-tales-posts-in-outlook-via-the-blogs-rss-feed/",
-          "publishedOn": "2021-05-05T09:20:29.000Z",
-          "wordCount": 712,
-          "title": "Get new Scholarly Tales posts in Outlook via the blog’s RSS feed"
         }
       ]
     },
@@ -6006,6 +5997,24 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2021/11/01/new-video-using.html",
+          "author": null,
+          "description": "The latest help video for the GLAM Workbench walks through the web app version of the Trove Newspaper & Gazette Harvester. Just paste in your search url and Trove API key and you can harvest thousands of digitised newspaper articles in minutes!",
+          "link": "https://updates.timsherratt.org/2021/11/01/new-video-using.html",
+          "publishedOn": "2021-10-31T23:32:00.000Z",
+          "wordCount": 78,
+          "title": "New video – using the Trove Newspaper & Gazette Harvester"
+        },
+        {
+          "id": "http://wragge.micro.blog/2021/11/01/harvest-newspaper-issues.html",
+          "author": null,
+          "description": "An inquiry on Twitter prompted me to put together a notebook that you can use to download all available issues of a newspaper as PDFs. It was really just a matter of copying code from other tools and making a few modifications. The first step harvests a list of available issues for a particular newspaper from Trove. You can then download the PDFs of those issues, supplying an optional date range. Beware – this could consume a lot of disk space!\nThe PDF file names have the following structure:\n[newspaper identifier]-[issue date as YYYYMMDD]-[issue identifier].pdf\n\nFor example:\n903-19320528-1791051.pdf\n\n903 – the Glen Innes Examiner\n19320528 – 28 May 1932\n1791051 – to view in Trove just add this to http://nla.gov.au/nla.news-issue, eg http://nla.gov.au/nla.news-issue1791051\nI also took the opportunity to create a new Harvesting data heading in the Trove newspapers section of the GLAM Workbench. #dhhacks",
+          "link": "https://updates.timsherratt.org/2021/11/01/harvest-newspaper-issues.html",
+          "publishedOn": "2021-10-31T22:53:00.000Z",
+          "wordCount": 170,
+          "title": "Harvest newspaper issues as PDFs"
+        },
         {
           "id": "http://wragge.micro.blog/2021/10/21/glam-workbench-now.html",
           "author": null,

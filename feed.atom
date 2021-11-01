@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-10-31T08:12:48.487Z</updated>
+    <updated>2021-11-01T08:13:39.180Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -14,6 +14,36 @@
         <summary type="html"><![CDATA[A review of Undisciplining the Victorian Classroom, a pedagogical resource that reimagines teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki]]></summary>
         <author>
             <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New video – using the Trove Newspaper & Gazette Harvester]]></title>
+        <id>http://wragge.micro.blog/2021/11/01/new-video-using.html</id>
+        <link href="https://updates.timsherratt.org/2021/11/01/new-video-using.html"/>
+        <updated>2021-10-31T23:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The latest help video for the GLAM Workbench walks through the web app version of the Trove Newspaper & Gazette Harvester. Just paste in your search url and Trove API key and you can harvest thousands of digitised newspaper articles in minutes!]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvest newspaper issues as PDFs]]></title>
+        <id>http://wragge.micro.blog/2021/11/01/harvest-newspaper-issues.html</id>
+        <link href="https://updates.timsherratt.org/2021/11/01/harvest-newspaper-issues.html"/>
+        <updated>2021-10-31T22:53:00.000Z</updated>
+        <summary type="html"><![CDATA[An inquiry on Twitter prompted me to put together a notebook that you can use to download all available issues of a newspaper as PDFs. It was really just a matter of copying code from other tools and making a few modifications. The first step harvests a list of available issues for a particular newspaper from Trove. You can then download the PDFs of those issues, supplying an optional date range. Beware – this could consume a lot of disk space!
+The PDF file names have the following structure:
+[newspaper identifier]-[issue date as YYYYMMDD]-[issue identifier].pdf
+
+For example:
+903-19320528-1791051.pdf
+
+903 – the Glen Innes Examiner
+19320528 – 28 May 1932
+1791051 – to view in Trove just add this to http://nla.gov.au/nla.news-issue, eg http://nla.gov.au/nla.news-issue1791051
+I also took the opportunity to create a new Harvesting data heading in the Trove newspapers section of the GLAM Workbench. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
@@ -9562,16 +9592,6 @@ The post Publication l The Constitution of Algorithms: Ground-Truthing, Programm
 The post Failing/Feelings of failure in research practice appeared first on The Digital Hum.]]></summary>
         <author>
             <name>Administrator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get new Scholarly Tales posts in Outlook via the blog’s RSS feed]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=642</id>
-        <link href="https://scholarlytales.hcommons.org/2021/05/05/get-new-scholarly-tales-posts-in-outlook-via-the-blogs-rss-feed/"/>
-        <updated>2021-05-05T09:20:29.000Z</updated>
-        <summary type="html"><![CDATA[Would you like to stay up to date with new posts on the Scholarly Tales blog right from Outlook? RSS, or Really Simple Syndication, is “a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format” (Wikipedia). Blogs and many other online resources, including academic journals and databases, often offer RSS feeds of their new content. By subscribing to RSS feeds, you can get updates from many sources delivered in one location. Where...]]></summary>
-        <author>
-            <name>Nele Noppe</name>
         </author>
     </entry>
 </feed>
