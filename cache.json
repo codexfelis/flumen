@@ -481,15 +481,6 @@
           "publishedOn": "2021-05-07T08:00:09.000Z",
           "wordCount": 1750,
           "title": "Cultural Heritage Data School"
-        },
-        {
-          "id": "https://blog.cdh.cam.ac.uk/?p=139",
-          "author": "Administrator",
-          "description": "Sami Everett: A Reflection on the “Digital Interreligious Encounters in Urban Contexts” (DIEUX) research methods workshop series.\nThe post Failing/Feelings of failure in research practice appeared first on The Digital Hum.",
-          "link": "https://blog.cdh.cam.ac.uk/2021/05/06/failing-feelings-of-failure-in-research-practice/",
-          "publishedOn": "2021-05-06T09:52:55.000Z",
-          "wordCount": 1488,
-          "title": "Failing/Feelings of failure in research practice"
         }
       ]
     },
@@ -1111,6 +1102,15 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=8593",
+          "author": "Celia Luterbacher",
+          "description": "The British Library Living with Machines (LwM) project is inviting applications for a Digital Humanities Research Software Engineer (DH RSE) by November 7. LwM is an ambitious large-scale project in data science and the digital humanities. Researchers from a range of disciplines – including historians, software engineers, data scientists, geographers, computational linguists, library professionals and […]\nThe post Job: Digital Humanities Research Software Engineer appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/01/job-digital-humanities-research-software-engineer/",
+          "publishedOn": "2021-11-01T13:13:31.000Z",
+          "wordCount": 668,
+          "title": "Job: Digital Humanities Research Software Engineer"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=8538",
           "author": "Celia Luterbacher",
@@ -2829,24 +2829,6 @@
           "publishedOn": "2021-05-07T08:22:31.000Z",
           "wordCount": 683,
           "title": "UNIL : Professeur·e assistant·e en histoire économique et sociale contemporaine"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6585",
-          "author": "Heloise schibler",
-          "description": "The book The Constitution of Algorithms: Ground-Truthing, Programming, Formulating by Florian Jaton, UNIL researcher at the Institute of Social Sciences (ISS) and the STS Lab – and dhCenter member  – is published by MIT Press. A laboratory study that investigates how algorithms come into existence. Summary Algorithms—often associated with the terms big data, machine learning, […]\nThe post Publication l The Constitution of Algorithms: Ground-Truthing, Programming, Formulating appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/05/06/publication-l-the-constitution-of-algorithms-ground-truthing-programming-formulating/",
-          "publishedOn": "2021-05-06T14:00:34.000Z",
-          "wordCount": null,
-          "title": "Publication l The Constitution of Algorithms: Ground-Truthing, Programming, Formulating"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6585",
-          "author": "Heloise schibler",
-          "description": "The book The Constitution of Algorithms: Ground-Truthing, Programming, Formulating by Florian Jaton, UNIL researcher at the Institute of Social Sciences (ISS) and the STS Lab – and dhCenter member  – is published by MIT Press. A laboratory study that investigates how algorithms come into existence. Summary Algorithms—often associated with the terms big data, machine learning, […]\nThe post Publication l The Constitution of Algorithms: Ground-Truthing, Programming, Formulating appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/05/06/publication-l-the-constitution-of-algorithms-ground-truthing-programming-formulating/",
-          "publishedOn": "2021-05-06T14:00:34.000Z",
-          "wordCount": 674,
-          "title": "Publication l The Constitution of Algorithms: Ground-Truthing, Programming, Formulating"
         }
       ]
     },
@@ -7044,6 +7026,15 @@
       "feedUrl": "https://www.jadh.org/rss.xml",
       "siteUrl": "https://www.jadh.org",
       "articles": [
+        {
+          "id": "66 at https://www.jadh.org",
+          "author": "adminweb",
+          "description": "アジアでは初開催となるADHOのDH2022が発表論文を募集しています。\nhttps://dh2022.adho.org/\n締切りは　11/30ですので、ふるってご応募ください。",
+          "link": "https://www.jadh.org/node/66",
+          "publishedOn": "2021-11-02T06:51:54.000Z",
+          "wordCount": 57,
+          "title": "DH2022@Tokyo 発表論文募集中"
+        },
         {
           "id": "65 at https://www.jadh.org",
           "author": "adminweb",

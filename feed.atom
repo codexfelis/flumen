@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-11-01T08:13:39.180Z</updated>
+    <updated>2021-11-02T08:13:52.374Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -14,6 +14,29 @@
         <summary type="html"><![CDATA[A review of Undisciplining the Victorian Classroom, a pedagogical resource that reimagines teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki]]></summary>
         <author>
             <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DH2022@Tokyo 発表論文募集中]]></title>
+        <id>66 at https://www.jadh.org</id>
+        <link href="https://www.jadh.org/node/66"/>
+        <updated>2021-11-02T06:51:54.000Z</updated>
+        <summary type="html"><![CDATA[アジアでは初開催となるADHOのDH2022が発表論文を募集しています。
+https://dh2022.adho.org/
+締切りは　11/30ですので、ふるってご応募ください。]]></summary>
+        <author>
+            <name>adminweb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job: Digital Humanities Research Software Engineer]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=8593</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2021/11/01/job-digital-humanities-research-software-engineer/"/>
+        <updated>2021-11-01T13:13:31.000Z</updated>
+        <summary type="html"><![CDATA[The British Library Living with Machines (LwM) project is inviting applications for a Digital Humanities Research Software Engineer (DH RSE) by November 7. LwM is an ambitious large-scale project in data science and the digital humanities. Researchers from a range of disciplines – including historians, software engineers, data scientists, geographers, computational linguists, library professionals and […]
+The post Job: Digital Humanities Research Software Engineer appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Celia Luterbacher</name>
         </author>
     </entry>
     <entry>
@@ -9559,39 +9582,6 @@ The post Cultural Heritage Data School appeared first on The Digital Hum.]]></su
         <summary type="html"><![CDATA[DHSITE 2021 is taking place the weeks of May 17-21 and May 24-28. In this two-week period, they organize 18-hour micro-course workshops. Workshop topics include an Introduction to Python (in English and in French), Issues in Digital Humanities, Introduction to Linked Open Data, Text Analysis, and Machine Translation. The detailed program can be found on the event website. Registration is open! Be sure to reserve your spot. Micro-course workshops with low pre-registration will be cancelled. Additionally, part of DHSITE 2021, the...]]></summary>
         <author>
             <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publication l The Constitution of Algorithms: Ground-Truthing, Programming, Formulating]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=6585</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/05/06/publication-l-the-constitution-of-algorithms-ground-truthing-programming-formulating/"/>
-        <updated>2021-05-06T14:00:34.000Z</updated>
-        <summary type="html"><![CDATA[The book The Constitution of Algorithms: Ground-Truthing, Programming, Formulating by Florian Jaton, UNIL researcher at the Institute of Social Sciences (ISS) and the STS Lab – and dhCenter member  – is published by MIT Press. A laboratory study that investigates how algorithms come into existence. Summary Algorithms—often associated with the terms big data, machine learning, […]
-The post Publication l The Constitution of Algorithms: Ground-Truthing, Programming, Formulating appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publication l The Constitution of Algorithms: Ground-Truthing, Programming, Formulating]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=6585</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/05/06/publication-l-the-constitution-of-algorithms-ground-truthing-programming-formulating/"/>
-        <updated>2021-05-06T14:00:34.000Z</updated>
-        <summary type="html"><![CDATA[The book The Constitution of Algorithms: Ground-Truthing, Programming, Formulating by Florian Jaton, UNIL researcher at the Institute of Social Sciences (ISS) and the STS Lab – and dhCenter member  – is published by MIT Press. A laboratory study that investigates how algorithms come into existence. Summary Algorithms—often associated with the terms big data, machine learning, […]
-The post Publication l The Constitution of Algorithms: Ground-Truthing, Programming, Formulating appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Failing/Feelings of failure in research practice]]></title>
-        <id>https://blog.cdh.cam.ac.uk/?p=139</id>
-        <link href="https://blog.cdh.cam.ac.uk/2021/05/06/failing-feelings-of-failure-in-research-practice/"/>
-        <updated>2021-05-06T09:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Sami Everett: A Reflection on the “Digital Interreligious Encounters in Urban Contexts” (DIEUX) research methods workshop series.
-The post Failing/Feelings of failure in research practice appeared first on The Digital Hum.]]></summary>
-        <author>
-            <name>Administrator</name>
         </author>
     </entry>
 </feed>
