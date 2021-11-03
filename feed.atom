@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-11-02T08:13:52.374Z</updated>
+    <updated>2021-11-03T08:13:41.728Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -14,6 +14,58 @@
         <summary type="html"><![CDATA[A review of Undisciplining the Victorian Classroom, a pedagogical resource that reimagines teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki]]></summary>
         <author>
             <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapping the state of the art of Named-Entity Recognition for early modern documents. New Publication.]]></title>
+        <id>https://blogs.ucl.ac.uk/dh/?p=8215</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/11/02/8215/"/>
+        <updated>2021-11-02T16:47:33.000Z</updated>
+        <summary type="html"><![CDATA[[posted by Julianne Nyhan on behalf of Marco Humbel] This blog post reports on our recent paper: Humbel, M., Nyhan, J., Vlachidis, A., Sloan, K. and Ortolja-Baird, A. (2021), “Named-entity recognition for early modern textual documents: a review of capabilities and challenges with strategies for the future”, Journal of Documentation, https://doi.org/10.1108/JD-02-2021-0032 Link to full text […]]]></summary>
+        <author>
+            <name>Julianne Nyhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LJS 418: Martyrdom of Saint Blaise]]></title>
+        <id>http://schoenberginstitute.org/?p=15951</id>
+        <link href="https://schoenberginstitute.org/2021/11/02/ljs-418-martyrdom-of-saint-blaise/"/>
+        <updated>2021-11-02T15:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Coffee With A Codex on Monday, November 1, featured LJS 418, a 13th century Italian account of the martyrdom of Saint Blaise, bishop of Sebaste in Armenia, followed by readings and chants for a Mass of Saint Blaise. Additional texts, probably in different hands, at the end of the manuscript are mostly for baptisms, butContinue reading "LJS 418: Martyrdom of Saint Blaise"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How words acquire their meaning]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=8589</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2021/11/02/how-words-acquire-their-meaning/"/>
+        <updated>2021-11-02T15:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Researchers in EPFL’s College of Humanities have used machine learning to reveal how humans bridge the often-significant gaps between signal and meaning in communication. dhCenter members Robert Lieck and Martin Rohrmeier of the Digital and Cognitive Musicology Laboratory (DCML) used machine learning and artificial intelligence to explore the alignments and misalignments between signals – such […]
+The post How words acquire their meaning appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Celia Luterbacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“De la division du travail algorithmique” dans Libération]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=8607</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2021/11/02/de-la-division-du-travail-algorithmique-dans-liberation/"/>
+        <updated>2021-11-02T14:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Intervention de Florian Jaton, chercheur au STSLAb et membre du dhCenter, dans le quotidien français Libération. L’article “De la division du travail algorithmique”, publié le 28 octobre dernier, fait état de son livre The Constitution of Algorithms (MIT Press). Les programmes qui régissent nos vies numériques ne sont pas que d’étranges boîtes noires qui agissent […]
+The post “De la division du travail algorithmique” dans Libération appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Need a Better System: Streamlining Academic Digital Workflow from Reading to Writing]]></title>
+        <id>http://digitalorientalist.com/?p=6969</id>
+        <link href="https://digitalorientalist.com/2021/11/02/we-need-a-better-system-streamlining-academic-digital-workflow-from-reading-to-writing/"/>
+        <updated>2021-11-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are in an age of unprecedented information access. As academics in the humanities, we all have too much information …]]></summary>
+        <author>
+            <name>DaigengnaDuoer</name>
         </author>
     </entry>
     <entry>
@@ -9517,71 +9569,6 @@ The post Supporting Future Scholars: The Transkribus Scholarship Programme appea
         <summary type="html"><![CDATA[A review of GeoNewsMiner, an app visualizing geographical references in historical newspapers, created by Lorella Viola and Jaap Verheul]]></summary>
         <author>
             <name>Avery Blankenship</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two fellowships (interdisciplinary PhD and postdoctoral) in the field of Digital Visual Studies (Zurich)]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=6615</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/05/07/two-fellowships-interdisciplinary-phd-and-postdoctoral-in-the-field-of-digital-visual-studies-zurich/"/>
-        <updated>2021-05-07T13:19:08.000Z</updated>
-        <summary type="html"><![CDATA[The Max Planck Society (MPG) and the University of Zurich (UZH) invite applications for two fellowships in the field of Digital Visual Studies (DVS). The fellowships are part of a 5-year cross-institutional Digital Humanities research project funded by the MPG, supported by the Bibliotheca Hertziana – Max Planck Institute for Art History (BHMPI), and collaborating with […]
-The post Two fellowships (interdisciplinary PhD and postdoctoral) in the field of Digital Visual Studies (Zurich) appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two fellowships (interdisciplinary PhD and postdoctoral) in the field of Digital Visual Studies (Zurich)]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=6615</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/05/07/two-fellowships-interdisciplinary-phd-and-postdoctoral-in-the-field-of-digital-visual-studies-zurich/"/>
-        <updated>2021-05-07T13:19:08.000Z</updated>
-        <summary type="html"><![CDATA[The Max Planck Society (MPG) and the University of Zurich (UZH) invite applications for two fellowships in the field of Digital Visual Studies (DVS). The fellowships are part of a 5-year cross-institutional Digital Humanities research project funded by the MPG, supported by the Bibliotheca Hertziana – Max Planck Institute for Art History (BHMPI), and collaborating with […]
-The post Two fellowships (interdisciplinary PhD and postdoctoral) in the field of Digital Visual Studies (Zurich) appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNIL : Professeur·e assistant·e en histoire économique et sociale contemporaine]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=6601</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/05/07/unil-professeur%c2%b7e-assistant%c2%b7e-en-histoire-economique-et-sociale-contemporaine/"/>
-        <updated>2021-05-07T08:22:31.000Z</updated>
-        <summary type="html"><![CDATA[La Section d’histoire de la Faculté des lettres de l’Université de Lausanne met au concours un poste de professeur·e assistant·e en PTC (tenure track) au rang de professeur·e associé·e en histoire économique et sociale contemporaine (XIXème-XXIème siècles).   Informations Entrée en fonction : 1er août 2022 Durée du contrat : * 2 ans, renouvelable 2 x […]
-The post UNIL : Professeur·e assistant·e en histoire économique et sociale contemporaine appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNIL : Professeur·e assistant·e en histoire économique et sociale contemporaine]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=6601</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/05/07/unil-professeur%c2%b7e-assistant%c2%b7e-en-histoire-economique-et-sociale-contemporaine/"/>
-        <updated>2021-05-07T08:22:31.000Z</updated>
-        <summary type="html"><![CDATA[La Section d’histoire de la Faculté des lettres de l’Université de Lausanne met au concours un poste de professeur·e assistant·e en PTC (tenure track) au rang de professeur·e associé·e en histoire économique et sociale contemporaine (XIXème-XXIème siècles).   Informations Entrée en fonction : 1er août 2022 Durée du contrat : * 2 ans, renouvelable 2 x […]
-The post UNIL : Professeur·e assistant·e en histoire économique et sociale contemporaine appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cultural Heritage Data School]]></title>
-        <id>https://blog.cdh.cam.ac.uk/?p=119</id>
-        <link href="https://blog.cdh.cam.ac.uk/2021/05/07/cultural-heritage-data-school/"/>
-        <updated>2021-05-07T08:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Between 17 and 30 March CDH welcomed participants from across the world to our online Cultural Heritage Data School. Through a mixture of sessions taught live on Zoom, email fora and self-directed study using tutorials developed by our teaching team.
-The post Cultural Heritage Data School appeared first on The Digital Hum.]]></summary>
-        <author>
-            <name>Administrator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event: DHSITE2021 with workshops on Python, Linked Open Data, Text Analysis, and Machine Translation]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=652</id>
-        <link href="https://scholarlytales.hcommons.org/2021/05/07/event-dhsite2021-with-workshops-on-python-linked-open-data-text-analysis-and-machine-translation/"/>
-        <updated>2021-05-07T07:41:40.000Z</updated>
-        <summary type="html"><![CDATA[DHSITE 2021 is taking place the weeks of May 17-21 and May 24-28. In this two-week period, they organize 18-hour micro-course workshops. Workshop topics include an Introduction to Python (in English and in French), Issues in Digital Humanities, Introduction to Linked Open Data, Text Analysis, and Machine Translation. The detailed program can be found on the event website. Registration is open! Be sure to reserve your spot. Micro-course workshops with low pre-registration will be cancelled. Additionally, part of DHSITE 2021, the...]]></summary>
-        <author>
-            <name>Laura Mesotten</name>
         </author>
     </entry>
 </feed>
