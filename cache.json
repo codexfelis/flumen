@@ -423,15 +423,6 @@
           "publishedOn": "2021-06-18T16:28:18.000Z",
           "wordCount": 519,
           "title": "Welcome 2021 Communications Fellows"
-        },
-        {
-          "id": "588762 at https://adho.org",
-          "author": "drupaladmin",
-          "description": "**UPDATE: The application/nomination deadline has been extended to 15 June 2021.**\nThe Alliance of Digital Humanities Organizations (ADHO) seeks applications for the following positions from committed individuals who would like to participate in Digital Humanities leadership on a global scale:\nAwards Committee Chair\nConference Coordinating Committee Adjunct Chair-Elect\nExecutive Board Chair-Elect\nTreasurer-Elect\nAll positions begin 1 July 2021. Term lengths vary by position. Selected applicants will be appointed to only one position.\nBackground\nADHO is a formal alliance of independent Digital Humanities (DH) organizations that operate in diverse scholarly, cultural, and legal circumstances. Its primary remit is to support DH community activity at a global level and in regions that are not …",
-          "link": "https://adho.org/2021-cfa-eb-chairs",
-          "publishedOn": "2021-05-12T16:29:12.000Z",
-          "wordCount": 1437,
-          "title": "Call for Executive Board and Committee Chair Applications"
         }
       ]
     },
@@ -702,15 +693,6 @@
           "publishedOn": "2021-05-23T15:24:43.000Z",
           "wordCount": 844,
           "title": "ESC’s Statement on Proposed Cuts to Higher Education Funding for Archaeology in the UK"
-        },
-        {
-          "id": "https://sites.caa-international.org/main/?p=15692",
-          "author": "Jeffrey Glover",
-          "description": "Registration for CAA 2021 is now open. Please click here to be taken to the registration page.",
-          "link": "https://caa-international.org/2021/05/10/registration-for-caa-2021-open/",
-          "publishedOn": "2021-05-10T18:19:32.000Z",
-          "wordCount": 151,
-          "title": "Registration for CAA 2021 OPEN"
         }
       ]
     },
@@ -719,6 +701,15 @@
       "feedUrl": "https://cdrh.unl.edu/rss.xml",
       "siteUrl": "https://cdrh.unl.edu",
       "articles": [
+        {
+          "id": "2650 at https://cdrh.unl.edu",
+          "author": "Anonymous",
+          "description": "Image: \n\n\n\n\nLink: \n\nDigital project expands access to Genoa Indian School history\n\n\n\nFour years in, a University of Nebraska–Lincoln research project has been successful at uncovering, digitizing and annotating thousands of documents from the Genoa U.S. Indian Industrial School in Genoa, Nebraska, and plans are being made to grow the project further.\nThe Genoa Indian School Digital Reconciliation Project was founded to tell the stories of the American Indian families affected by the displacement of children to the Genoa school, often through force or coercion.\nThe Genoa school, which was run by the federal government from 1884 to 1934, was one of more than 300 similar schools throughout the United States — some run by the government, others run by churches. Researchers estimate that more t…",
+          "link": "https://cdrh.unl.edu/digital-project-expands-access-genoa-indian-school-history",
+          "publishedOn": "2021-11-04T05:25:00.000Z",
+          "wordCount": 1436,
+          "title": "Digital project expands access to Genoa Indian School history"
+        },
         {
           "id": "2646 at https://cdrh.unl.edu",
           "author": "Anonymous",
@@ -752,17 +743,7 @@
       "title": "CSDH / SCHN",
       "feedUrl": "https://csdh-schn.org/feed",
       "siteUrl": "https://csdh-schn.org",
-      "articles": [
-        {
-          "id": "https://csdh-schn.org/?p=707",
-          "author": "Matt Huculak",
-          "description": "La version française suit Registration is now OPEN for CSDH-SCHN 2021: Making the Net Work ⏰  Peruse the schedule ⏰📝 Renew your membership 📝🎉 Register now 🎉 This year, CSDH-SCHN features plenty of intellectual stimulation and fun!  Morning ...",
-          "link": "https://csdh-schn.org/conference2021/",
-          "publishedOn": "2021-05-12T03:49:07.000Z",
-          "wordCount": 742,
-          "title": "Registration OPEN for CSDH-SCHN 2021: Making the Net Work / Les inscriptions sont OUVERTES pour CSDH-SCHN 2021"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CUNY Digital Humanities Initiative",
@@ -1183,6 +1164,24 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=8612",
+          "author": "Heloise schibler",
+          "description": "Dear colleagues, Two years after its inauguration in October 2019, the dhCenter UNIL-EPFL is launching an evaluation process to help us assess and improve our provision of services to the community. With the help of our executive committee and academic directors from UNIL and EPFL, the dhCenter team has developed projects aligned with the following […]\nThe post The dhCenter needs your feedback!     Votre avis nous intéresse! appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/05/the-dhcenter-needs-your-feedback-votre-avis-nous-interesse/",
+          "publishedOn": "2021-11-05T16:14:58.000Z",
+          "wordCount": 612,
+          "title": "The dhCenter needs your feedback!     Votre avis nous intéresse!"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=8649",
+          "author": "Celia Luterbacher",
+          "description": "The first Distributed Text Services (DTS) Hackathon, co-sponsored by the dhCenter, yielded four award-winning and ready-to-implement ideas for improving uptake of DTS, which defines an API for working with collections of text as machine-actionable data. The DTS specification defines a type of software interface called an API (application programming interface), which allows digital text corpora […]\nThe post Hackathon generates new tools for digital text collections   appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/05/hackathon-generates-new-tools-for-digital-text-collections/",
+          "publishedOn": "2021-11-05T13:12:31.000Z",
+          "wordCount": 1255,
+          "title": "Hackathon generates new tools for digital text collections"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=8589",
           "author": "Celia Luterbacher",
@@ -2856,42 +2855,6 @@
           "publishedOn": "2021-05-20T08:54:43.000Z",
           "wordCount": null,
           "title": "Job: Collaboratrice/teur scientifique Stratégie pour le FNS"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6640",
-          "author": "Heloise schibler",
-          "description": "Florian Jaton (STS Lab UNIL), dhCenter member, has just published a new article entitled “Assessing biases, relaxing moralism: On ground-truthing practices in machine learning design and application” in Big Data & Society (volume 8, issue: 1).   Abstract This theoretical paper considers the morality of machine learning algorithms and systems in the light of the […]\nThe post Florian Jaton – Assessing biases, relaxing moralism : On ground-truthing practices in machine learning design and application appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/05/11/florian-jaton-assessing-biases-relaxing-moralism-on-ground-truthing-practices-in-machine-learning-design-and-application/",
-          "publishedOn": "2021-05-11T13:20:47.000Z",
-          "wordCount": 630,
-          "title": "Florian Jaton – Assessing biases, relaxing moralism : On ground-truthing practices in machine learning design and application"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6640",
-          "author": "Heloise schibler",
-          "description": "Florian Jaton (STS Lab UNIL), dhCenter member, has just published a new article entitled “Assessing biases, relaxing moralism: On ground-truthing practices in machine learning design and application” in Big Data & Society (volume 8, issue: 1).   Abstract This theoretical paper considers the morality of machine learning algorithms and systems in the light of the […]\nThe post Florian Jaton – Assessing biases, relaxing moralism : On ground-truthing practices in machine learning design and application appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/05/11/florian-jaton-assessing-biases-relaxing-moralism-on-ground-truthing-practices-in-machine-learning-design-and-application/",
-          "publishedOn": "2021-05-11T13:20:47.000Z",
-          "wordCount": null,
-          "title": "Florian Jaton – Assessing biases, relaxing moralism : On ground-truthing practices in machine learning design and application"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6632",
-          "author": "Heloise schibler",
-          "description": "Are you looking for a way to help people severely affected by the pandemic ? Would you like to be part of developing cutting-edge tech used for good ? Help Kona Connect support survivors of domestic violence. They are looking for cyber security and web programmer volunteer(s) (3-4 hours a week, flexible). The team at […]\nThe post Kona Connect : Cyber Security + Web Programmer Volunteer(s) appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/05/11/kona-connect-cyber-security-web-programmer-volunteers/",
-          "publishedOn": "2021-05-11T08:35:43.000Z",
-          "wordCount": null,
-          "title": "Kona Connect : Cyber Security + Web Programmer Volunteer(s)"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6632",
-          "author": "Heloise schibler",
-          "description": "Are you looking for a way to help people severely affected by the pandemic ? Would you like to be part of developing cutting-edge tech used for good ? Help Kona Connect support survivors of domestic violence. They are looking for cyber security and web programmer volunteer(s) (3-4 hours a week, flexible). The team at […]\nThe post Kona Connect : Cyber Security + Web Programmer Volunteer(s) appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/05/11/kona-connect-cyber-security-web-programmer-volunteers/",
-          "publishedOn": "2021-05-11T08:35:43.000Z",
-          "wordCount": null,
-          "title": "Kona Connect : Cyber Security + Web Programmer Volunteer(s)"
         }
       ]
     },
@@ -2957,193 +2920,6 @@
           "publishedOn": "2021-06-06T16:26:24.000Z",
           "wordCount": 810,
           "title": "If You Aren’t Happy with the Things Around You; Change the Things Around You."
-        }
-      ]
-    },
-    {
-      "title": "Digital Humanities Network",
-      "feedUrl": "https://dhn.lamp4.utoronto.ca/feed",
-      "siteUrl": "https://dhn.lamp4.utoronto.ca",
-      "articles": [
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=4305",
-          "author": "DHN Admin",
-          "description": "Reading can be a solitary activity—an interior conversation between reader and author. Often this conversation unfolds as marginalia. While I typically read with a notebook next to me, much of my thoughts and reactions to what I read are overlayed directly on the text. An underlined phrase, a scribbled connection, a stray exclamation point reflecting the thrill of being surprised (amazing!) or feeling righteously indignant (how dare he!?!). \n\nEarlier in October, I had the pleasure of having my private world of pen and paper marginalia broadened by the concept of social annotation.",
-          "link": "https://dhn.lamp4.utoronto.ca/hypothesis-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=hypothesis-workshop",
-          "publishedOn": "2021-10-30T20:03:35.000Z",
-          "wordCount": null,
-          "title": "Thinking Together in our Marginalia: A Reflection on Hypothes.is"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=4303",
-          "author": "DHN Admin",
-          "description": "The CDHI’s vision is to forge a new paradigm of digital humanities scholarship at that emphasizes the issues of power, social justice, and critical theory. We are connecting and supporting a large and active network of critical digital humanities researchers across U of T. A new mix of research workshop and design atelier, the CDHI is equipping humanities researchers and students with the technical and design expertise to use digital tools to ask new questions, share new knowledge, and analyze power and inequality in historical perspective.",
-          "link": "https://dhn.lamp4.utoronto.ca/blog-welcome/?utm_source=rss&utm_medium=rss&utm_campaign=blog-welcome",
-          "publishedOn": "2021-10-30T19:48:55.000Z",
-          "wordCount": null,
-          "title": "Welcome to the CDHI Blog"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=4294",
-          "author": "Tanya Rohrmoser",
-          "description": "Congratulations to the Award Recipients of the 4th Annual DH Conference! It is our great pleasure to announce the winners of 4th Annual DH Conference’s presentation awards. A very warm congratulations to […]",
-          "link": "https://dhn.lamp4.utoronto.ca/digital-humanities-conference-award-winners/?utm_source=rss&utm_medium=rss&utm_campaign=digital-humanities-conference-award-winners",
-          "publishedOn": "2021-10-27T16:47:55.000Z",
-          "wordCount": null,
-          "title": "Digital Humanities Conference Award Winners"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=4136",
-          "author": "mhopgood",
-          "description": "test test test",
-          "link": "https://dhn.lamp4.utoronto.ca/cdhi-blog-test-2/?utm_source=rss&utm_medium=rss&utm_campaign=cdhi-blog-test-2",
-          "publishedOn": "2021-10-15T19:15:01.000Z",
-          "wordCount": 339,
-          "title": "CDHI blog test 2"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=4116",
-          "author": "mhopgood",
-          "description": "This is a test!",
-          "link": "https://dhn.lamp4.utoronto.ca/cdhi-blog-test-post/?utm_source=rss&utm_medium=rss&utm_campaign=cdhi-blog-test-post",
-          "publishedOn": "2021-10-15T19:07:42.000Z",
-          "wordCount": 340,
-          "title": "CDHI blog test post"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=4094",
-          "author": "DHN Admin",
-          "description": "Note: These protocols are subject to change in response to public health guidance. As researchers return to the University of Toronto campus, the CDHI is pleased to welcome colleagues back […]",
-          "link": "https://dhn.lamp4.utoronto.ca/covid-protocols-jhi222/?utm_source=rss&utm_medium=rss&utm_campaign=covid-protocols-jhi222",
-          "publishedOn": "2021-10-15T16:12:11.000Z",
-          "wordCount": 396,
-          "title": "CDHI Digital Humanities Co-Working/Lab Space COVID Protocols"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=4088",
-          "author": "DHN Admin",
-          "description": "Now accepting applications for socially-distanced, masked co-working in the Jackman Humanities Building, at Bloor and St. George, on the St George Campus.  As researchers make plans for returning to campus, the Critical Digital Humanities Initiative […]",
-          "link": "https://dhn.lamp4.utoronto.ca/dh-workspace/?utm_source=rss&utm_medium=rss&utm_campaign=dh-workspace",
-          "publishedOn": "2021-10-15T16:01:13.000Z",
-          "wordCount": 411,
-          "title": "Call for Applications: DH Co-Working/Lab Space"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=4085",
-          "author": "DHN Admin",
-          "description": "The Critical Digital Humanities Initiative (CDHI), a University of Toronto strategic initiative, supports trans-disciplinary collaborations that emphasize questions of power, social justice, and critical theory in digital humanities research. Our vision […]",
-          "link": "https://dhn.lamp4.utoronto.ca/training-bursaries/?utm_source=rss&utm_medium=rss&utm_campaign=training-bursaries",
-          "publishedOn": "2021-10-15T15:49:24.000Z",
-          "wordCount": 823,
-          "title": "Call for Funding: Critical DH Training Bursaries 2021-22"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3670",
-          "author": "DHN Admin",
-          "description": "The Jackman Humanities Institute (JHI) at the University of Toronto, in partnership with the Digital Humanities Network, offers a twelve-month Postdoctoral Fellowship in Digital Humanities, with a project that fits the JHI’s annual theme, “Labour”. Apply by 30 November 2021.",
-          "link": "https://dhn.lamp4.utoronto.ca/jhi-postdoc-2022/?utm_source=rss&utm_medium=rss&utm_campaign=jhi-postdoc-2022",
-          "publishedOn": "2021-09-29T17:55:53.000Z",
-          "wordCount": 1437,
-          "title": "Call for Funding: JHI Digital Humanities Postdoctoral Fellowship"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3581",
-          "author": "DHN Admin",
-          "description": "The Digital Humanities Network warmly welcomes Iris Chae, our new Work Study Communications Assistant! Iris is a talented designer and we are very fortunate to have her on the CDHI […]",
-          "link": "https://dhn.lamp4.utoronto.ca/welcome-iris-chae/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-iris-chae",
-          "publishedOn": "2021-09-28T15:31:44.000Z",
-          "wordCount": 346,
-          "title": "Welcome Iris Chae!"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3194",
-          "author": "DHN Admin",
-          "description": "My project adapts the theories, vocabulary, and techniques of bibliographical inquiry to develop new methods for born-digital textual scholarship.",
-          "link": "https://dhn.lamp4.utoronto.ca/project/the-veil-of-code/?utm_source=rss&utm_medium=rss&utm_campaign=the-veil-of-code",
-          "publishedOn": "2021-08-19T16:38:16.000Z",
-          "wordCount": 464,
-          "title": "The Veil of Code"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3183",
-          "author": "DHN Admin",
-          "description": "The Lexicon of Science in Asia is a fully searchable, multilingual database of scientific terms in Asian languages spoken across the continent, from the Eastern Mediterranean to the Pacific Ocean, designed to bridge gaps in regional language expertise and improve our understanding about how scientific knowledge and technology have been disseminated, translated, and adapted across different parts of Asia.",
-          "link": "https://dhn.lamp4.utoronto.ca/project/lexicon-of-science-in-asia/?utm_source=rss&utm_medium=rss&utm_campaign=lexicons-of-science-in-asia",
-          "publishedOn": "2021-08-16T20:55:52.000Z",
-          "wordCount": 590,
-          "title": "Lexicon of Science in Asia"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3174",
-          "author": "DHN Admin",
-          "description": "The University of Toronto’s Critical Digital Humanities Initiative (CDHI) welcomes its inaugural cohort of graduate student fellows! Eight Graduate Fellowships in Critical Digital Humanities have been awarded to an interdisciplinary […]",
-          "link": "https://dhn.lamp4.utoronto.ca/announcing-the-inaugural-cohort-of-critical-digital-humanities-graduate-student-fellows/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-the-inaugural-cohort-of-critical-digital-humanities-graduate-student-fellows",
-          "publishedOn": "2021-08-16T20:21:03.000Z",
-          "wordCount": 794,
-          "title": "Announcing the Inaugural Cohort of Critical Digital Humanities Graduate Student Fellows"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3053",
-          "author": "DHN Admin",
-          "description": "The first machine-readable and fully searchable historical transcript of Parliamentary Debates (“Hansard”), which provides a 150-year running record of Canadian political history.",
-          "link": "https://dhn.lamp4.utoronto.ca/linked-parliamentary-data-project-lipad/?utm_source=rss&utm_medium=rss&utm_campaign=linked-parliamentary-data-project-lipad",
-          "publishedOn": "2021-07-30T16:54:44.000Z",
-          "wordCount": 463,
-          "title": "Linked Parliamentary Data Project (LiPaD)"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3044",
-          "author": "DHN Admin",
-          "description": "Brothels and historic sites researched by students in Professor Laurie K. Bertram's seminar \"The Oldest Profession in Canada\", Department of History, University of Toronto",
-          "link": "https://dhn.lamp4.utoronto.ca/project/sex-work-and-the-queen-city-mapping-torontos-sex-trade-history-1865-1915/?utm_source=rss&utm_medium=rss&utm_campaign=sex-work-and-the-queen-city-mapping-torontos-sex-trade-history-1865-1915",
-          "publishedOn": "2021-07-29T20:49:21.000Z",
-          "wordCount": 520,
-          "title": "Sex Work and the Queen City: Mapping Toronto’s Sex Trade History, 1865-1915"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3036",
-          "author": "DHN Admin",
-          "description": "Representative Poetry Online 6.0 is a web anthology of 4,800 poems in English and French by over 700 poets spanning 1400 years",
-          "link": "https://dhn.lamp4.utoronto.ca/project/representative-poetry-online-rpo/?utm_source=rss&utm_medium=rss&utm_campaign=representative-poetry-online-rpo",
-          "publishedOn": "2021-07-29T20:40:08.000Z",
-          "wordCount": 492,
-          "title": "Representative Poetry Online (RPO)"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3029",
-          "author": "DHN Admin",
-          "description": "Records of Early English Drama (REED) locates, transcribes, and edits historical documents containing evidence of drama, secular music, and other communal entertainment and ceremony from the Middle Ages until 1642.",
-          "link": "https://dhn.lamp4.utoronto.ca/project/records-of-early-english-drama-reed/?utm_source=rss&utm_medium=rss&utm_campaign=records-of-early-english-drama-reed",
-          "publishedOn": "2021-07-29T20:31:37.000Z",
-          "wordCount": 509,
-          "title": "Records of Early English Drama (REED)"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3027",
-          "author": "DHN Admin",
-          "description": "The Electronic Archive “Project for the Study of Dissidence and Samizdat” (PSDS) includes the database of Soviet samizdat periodicals, electronic editions of selected samizdat journals, illustrated timelines of dissident movements, and interviews with activists.",
-          "link": "https://dhn.lamp4.utoronto.ca/project-for-the-study-of-dissidence-and-samizdat/?utm_source=rss&utm_medium=rss&utm_campaign=project-for-the-study-of-dissidence-and-samizdat",
-          "publishedOn": "2021-07-29T20:17:46.000Z",
-          "wordCount": 541,
-          "title": "Project for the Study of Dissidence and Samizdat"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3022",
-          "author": "DHN Admin",
-          "description": "A bibliography of more than 1.45 million citations for secondary source material about the Middle Ages and Renaissance, 400-1700.",
-          "link": "https://dhn.lamp4.utoronto.ca/project/iter-gateway-to-the-middle-ages-and-renaissance/?utm_source=rss&utm_medium=rss&utm_campaign=iter-gateway-to-the-middle-ages-and-renaissance",
-          "publishedOn": "2021-07-29T20:03:08.000Z",
-          "wordCount": 501,
-          "title": "Iter: Gateway to the Middle Ages and Renaissance"
-        },
-        {
-          "id": "https://dhn.lamp4.utoronto.ca/?p=3015",
-          "author": "DHN Admin",
-          "description": "The artefacts, images, and stories that appear here come from a special collection of fakes and forgeries that has toured Canadian public libraries",
-          "link": "https://dhn.lamp4.utoronto.ca/make-believe-the-secret-library-of-m-prudhomme/?utm_source=rss&utm_medium=rss&utm_campaign=make-believe-the-secret-library-of-m-prudhomme",
-          "publishedOn": "2021-07-29T18:54:08.000Z",
-          "wordCount": 467,
-          "title": "Make Believe: The Secret Library of M. Prud’homme"
         }
       ]
     },
@@ -3362,6 +3138,12 @@
       ]
     },
     {
+      "title": "UK-Ireland Digital Humanities Network",
+      "feedUrl": "https://dhnetwork.org/feed",
+      "siteUrl": "https://dhnetwork.org",
+      "articles": []
+    },
+    {
       "title": "Digital Humanities Summer Institute",
       "feedUrl": "https://dhsi.org/feed",
       "siteUrl": "https://dhsi.org",
@@ -3372,6 +3154,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/726",
+          "author": "406",
+          "description": "Am neuen Department Digital Humanities and Social Studies der Philosophischen Fakultät der FAU Erlangen-Nürnberg werden bis zu vier Postdoc-Stellen (Entgeltgruppe E13) befristet…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-4-postdoc-stellen-fau-erlangen-n%C3%BCrnberg-dhss",
+          "publishedOn": "2021-11-05T11:04:07.000Z",
+          "wordCount": 813,
+          "title": "Stellenangebot: 4 PostDoc-Stellen (FAU Erlangen-Nürnberg DHSS)"
+        },
         {
           "id": "node/725",
           "author": "406",
@@ -3840,6 +3631,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=6937",
+          "author": "Fatma Aladag",
+          "description": "Speeding up a workforce by getting help, ideas, or information from a large audience over the Internet, via a website, …",
+          "link": "https://digitalorientalist.com/2021/11/05/crowdsourcing-for-ottoman-studies-zooniverse/",
+          "publishedOn": "2021-11-05T12:00:00.000Z",
+          "wordCount": 1442,
+          "title": "Crowdsourcing for Ottoman Studies: Zooniverse"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=6969",
           "author": "DaigengnaDuoer",
           "description": "We are in an age of unprecedented information access. As academics in the humanities, we all have too much information …",
@@ -4268,15 +4068,6 @@
           "publishedOn": "2021-05-13T09:02:58.000Z",
           "wordCount": 123,
           "title": "2 PhD + 1 PostDoc positions at ZIM / University of Graz"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-809",
-          "author": "marijn.koolen",
-          "description": "The Humanities Cluster of the Royal Netherlands Academy of Arts and Sciences (KNAW) is a collaboration between three research institutes: the Huygens Institute for the History of the Netherlands, the International Institute for Social History and the Meertens Institute for Ethnology and Linguistics. The institutes are committed to groundbreaking research in the humanities, in which innovative (digital) methods play an important role.\nFor the Huygens Institute for the History of the Netherlands we are looking for\na postdoc literary studies\n(full time, 38 hr/w)\nGeneral description\nThe postdoc position is part of the project ‘ImpFic: The Impact of Fiction’. Within this project we investigate the impact fiction can have on readers. We use a large corpus of electronically available Dutch-langua…",
-          "link": "https://discourse.computational-humanities-research.org/t/postdoc-computational-literary-studies-at-huygens-ing-amsterdam-nl/809",
-          "publishedOn": "2021-05-11T10:47:05.000Z",
-          "wordCount": 608,
-          "title": "Postdoc Computational Literary Studies at Huygens ING, Amsterdam, NL"
         }
       ]
     },
@@ -4513,15 +4304,6 @@
           "publishedOn": "2021-07-12T09:12:42.000Z",
           "wordCount": 425,
           "title": "RESILIENCE has been accepted in the ESFRI 2021 road map"
-        },
-        {
-          "id": "http://escripta.hypotheses.org/?p=455",
-          "author": "Colin Brisson",
-          "description": "Prof. Daniel Stökl Ben Ezra will give an interview (in french) about eScripta and the transcription of hebrew manuscripts at 17h (CET) on May 11th. You can watch it here: https://www.youtube.com/watch?v=S1IiGicASek",
-          "link": "https://escripta.hypotheses.org/455",
-          "publishedOn": "2021-05-11T13:55:10.000Z",
-          "wordCount": 410,
-          "title": "Interview of Prof. Daniel Stökl Ben Ezra about eScripta"
         }
       ]
     },
@@ -4546,6 +4328,15 @@
       "feedUrl": "https://lila-erc.eu/feed",
       "siteUrl": "https://lila-erc.eu",
       "articles": [
+        {
+          "id": "https://lila-erc.eu/?p=2702",
+          "author": "Rachele Sprugnoli",
+          "description": "Invited Talk: Digital Dante Days\nDate: 24th November 2021, 17 pm CET\nLocation: Verona\nLemmi, alberi e classi. Dall'Index Thomisticus ai Linked Data.\n\n\nThe post Invited Talk at the University of Verona appeared first on LiLa: Linking Latin.",
+          "link": "https://lila-erc.eu/invited-talk-verona-2021/",
+          "publishedOn": "2021-11-08T10:41:38.000Z",
+          "wordCount": 465,
+          "title": "Invited Talk at the University of Verona"
+        },
         {
           "id": "https://lila-erc.eu/?p=2694",
           "author": "Rachele Sprugnoli",
@@ -4634,6 +4425,15 @@
       "feedUrl": "https://lila-erc.eu/news/feed/",
       "siteUrl": "https://lila-erc.eu",
       "articles": [
+        {
+          "id": "https://lila-erc.eu/?p=2702",
+          "author": "Rachele Sprugnoli",
+          "description": "Invited Talk: Digital Dante Days\nDate: 24th November 2021, 17 pm CET\nLocation: Verona\nLemmi, alberi e classi. Dall'Index Thomisticus ai Linked Data.\n\n\nThe post Invited Talk at the University of Verona appeared first on LiLa: Linking Latin.",
+          "link": "https://lila-erc.eu/invited-talk-verona-2021/",
+          "publishedOn": "2021-11-08T10:41:38.000Z",
+          "wordCount": 465,
+          "title": "Invited Talk at the University of Verona"
+        },
         {
           "id": "https://lila-erc.eu/?p=2694",
           "author": "Rachele Sprugnoli",
@@ -4866,6 +4666,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.55",
+          "author": null,
+          "description": "The PapyGreek Treebanks dataset contains documentary texts written in Postclassical Greek (ca. 300 BCE–700 CE), morphosyntactically annotated according to Dependency Grammar. The source of the texts is the Duke Databank of Documentary Papyri (DDbDP), which preserves the modern editorial treatment of the documents in TEI Epidoc XML encoding. Aiming to expose linguistic variation in the DDbDP, we have annotated two versions of a selection of documents: the plain transcription and an editorially corrected version. The dataset also comprises metadata about the documents’ dating and provenance, text type, and the persons involved. Furthermore, it facilitates linguistic research on these texts.\n Published on 2021-11-05 11:05:43",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.55",
+          "publishedOn": "2021-11-08T14:42:35.591Z",
+          "wordCount": 2705,
+          "title": "PapyGreek Treebanks: A Dataset of Linguistically Annotated Greek Documentary Papyri"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.49",
           "author": null,
           "description": "An eye-tracking data set is described of 102 participants reading three Dutch literary short stories each (7790 words in total per participant). The pre-processed data set includes (1) Fixation report, (2) Saccade report, (3) Interest Area report, (4) Trial report (aggregated data for each page), (5) Sample report (sampling rate = 500 Hz), (6) Questionnaire data on reading experiences and participant characteristics, and (7) word characteristics for all words (with the potential of calculating additional word characteristics). It is stored on DANS, and can be used to study word characteristics or literary reading and all facets of eye movements.\n Published on 2021-10-13 12:36:39",
@@ -5060,15 +4869,6 @@
           "publishedOn": "2021-05-17T05:46:00.000Z",
           "wordCount": 1693,
           "title": "Undogmatic Literary Annotation with CATMA in: Annotations in Scholarly Editions and Research"
-        },
-        {
-          "id": "http://openmethods.dariah.eu/?p=2967",
-          "author": "Marinella Testori",
-          "description": "Introduction: Among the most recent, currently ongoing, projects exploiting distant techniques reading there is the European Literary Text Collection (ELTeC), which is one of the main elements of the Distant Reading for European Literary History (COST Action CA16204, https://www.distant-reading.net/). Thanks to the contribution provided by four Working Groups (respectively dealing with Scholarly Resources, Methods and Tools, Literary Theory and History, and Dissemination: https://www.distant-reading.net/working-groups/ ), the project aims at providing at least 2,500 novels written in ten European languages with a range of Distant Reading computational tools and methodological strategies to approach them from various perspectives (textual, stylistic, topical, et similia). A full description of the objectives of the Action and of ELTeC can be found and read in the Memorandum of Understanding for the implementation of the COST Action “Distant Reading for European Literary History” (DISTANT-READING) CA 16204”, available at the link  https://e-services.cost.eu/files/domain_files/CA/Action_CA16204/mou/CA16204-e.pdf\n\n[Click ‘Read more’ for the full post!]",
-          "link": "https://openmethods.dariah.eu/2021/05/11/novels-in-distant-reading-the-european-literary-text-collection-eltec/",
-          "publishedOn": "2021-05-11T10:32:51.000Z",
-          "wordCount": 1298,
-          "title": "Novels in distant reading: the European Literary Text Collection (ELTeC)."
         }
       ]
     },
@@ -5324,15 +5124,6 @@
           "publishedOn": "2021-05-31T09:43:43.000Z",
           "wordCount": 1525,
           "title": "Understanding Institutional use of HTR: Your experience with Transkribus"
-        },
-        {
-          "id": "https://readcoop.eu/?p=23690",
-          "author": "Florian Stauder",
-          "description": "Imagine you are a student who wants to dive into the personal story of one of the few famous child authors in history; or who wants to discover what made the authors of the Spanish Golden Age of theatre tick; or you are a teacher who wants to help the future generation in the digital […]\nThe post Supporting Future Scholars: The Transkribus Scholarship Programme appeared first on READ-COOP.",
-          "link": "https://readcoop.eu/supporting-future-scholars-the-transkribus-scholarship-programme/",
-          "publishedOn": "2021-05-10T08:00:00.000Z",
-          "wordCount": 1936,
-          "title": "Supporting Future Scholars: The Transkribus Scholarship Programme"
         }
       ]
     },
@@ -5663,66 +5454,6 @@
           "enclosure": {
             "url": "https://assets.pubpub.org/x1ir2hvd/21623593632572.png"
           }
-        },
-        {
-          "id": "96a31db9-df7b-46db-a0b2-7283f4b92b0e",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the May 2021 issue of Reviews in Digital Humanities",
-          "link": "https://reviewsindh.pubpub.org/pub/ed-note-may-2021",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 680,
-          "title": "Editors' Note: May 2021",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/zjfrkh8g/21620472586807.png"
-          }
-        },
-        {
-          "id": "bf2d3fa7-41da-4355-91e0-47115f9a19ff",
-          "author": "Brandon Walsh",
-          "description": "A review of Visualizing Objects, Places, and Spaces, a compendium of resources for all stages of digital project development, created by Beth Fischer and Hannah Jacobs",
-          "link": "https://reviewsindh.pubpub.org/pub/visualizing-objects-places-and-spaces",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 1178,
-          "title": "Review: Visualizing Objects, Places, and Spaces",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/0qcyknxb/51620442192191.png"
-          }
-        },
-        {
-          "id": "bf990101-17db-4bde-9754-ee94042a0995",
-          "author": "Shavagne Scott",
-          "description": "A review of Mapping Marronage, an interactive project examining the mobility of enslaved people in the 18th and 19th centuries, directed by Annette Joseph-Gabriel",
-          "link": "https://reviewsindh.pubpub.org/pub/mapping-marronage",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 1131,
-          "title": "Review: Mapping Marronage",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/2zo4n6c5/51620434470151.png"
-          }
-        },
-        {
-          "id": "700222b0-7b2f-4186-8087-cc1b4e5f9fa0",
-          "author": "Claire A. Tratnyek",
-          "description": "A review of Land and Legacy, a project investigating the University of Virginia’s land expansion since the 1980s, directed by Janet S. Dunkelbarger, Connor Kenaston, Natasha Roth-Rowland, Lauren Van Nest, and Chloe Down Wells",
-          "link": "https://reviewsindh.pubpub.org/pub/land-and-legacy",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 1789,
-          "title": "Review: Land and Legacy",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/9fufynx2/51620440990616.png"
-          }
-        },
-        {
-          "id": "079f1918-eaaa-4787-8a0e-2e44e7e77d47",
-          "author": "Avery Blankenship",
-          "description": "A review of GeoNewsMiner, an app visualizing geographical references in historical newspapers, created by Lorella Viola and Jaap Verheul",
-          "link": "https://reviewsindh.pubpub.org/pub/geonewsminer",
-          "publishedOn": "2021-05-10T00:00:00.000Z",
-          "wordCount": 1307,
-          "title": "Review: GeoNewsMiner",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/vsobpuwx/31620439634112.png"
-          }
         }
       ]
     },
@@ -5935,15 +5666,6 @@
           "publishedOn": "2021-05-17T07:08:13.000Z",
           "wordCount": 709,
           "title": "Event: Integrating Citizen Science at Universities: From ‘What’ to ‘How’"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=659",
-          "author": "Melissa Portaels",
-          "description": "MATRIX [Centrum voor Nieuwe Muziek] zet mijlpalen in de muziekgeschiedenis sinds 1950 in de kijker met grote en kleinere tentoonstellingen. De webtentoonstelling Steve Reich 360° (www.stevereichexpo.be) is de meest recente verwezenlijking, en de eerste 100% online tentoonstelling. De expo werd ontwikkeld op vraag van Muziekcentrum De Bijloke Gent en sluit aan bij de concertprogrammering in seizoen 2020-21 met als één van de sleutelfiguren de Amerikaanse componist Steve Reich. Omwille van de coronamaatregelen werkten we het project volledig digitaal uit. We...",
-          "link": "https://scholarlytales.hcommons.org/2021/05/10/360-reich-een-webtentoonstelling/",
-          "publishedOn": "2021-05-10T15:02:22.000Z",
-          "wordCount": 860,
-          "title": "360° Reich – een webtentoonstelling"
         }
       ]
     },
@@ -6096,6 +5818,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2021/11/08/more-thoughts-on.html",
+          "author": null,
+          "description": "Previously on ‘What could we do with $2.3 million?’, the National Library of Australia produced a draft plan for an ‘Advanced Researcher Platform’ that was thoroughly inadequate. Rather than submit this plan to the ARDC for consideration as part of the HASS RDC process, the NLA wisely decided to make some fundamental changes. The redrafted draft is now available for re-feedback. This is where we pick up the story…\nSo what has changed?\nGenerally speaking there seem to be two major changes.\nThere’s a much greater focus on consultation and collaboration.\nThere’s less detail about what will actually be developed.\nThese two changes can work together positively. The details of what’s being developed can be worked out through consultation, ensuring that what’s developed meets real research needs.…",
+          "link": "https://updates.timsherratt.org/2021/11/08/more-thoughts-on.html",
+          "publishedOn": "2021-11-08T02:15:00.000Z",
+          "wordCount": 2060,
+          "title": "More thoughts on the Trove researcher platform for advanced research"
+        },
         {
           "id": "http://wragge.micro.blog/2021/11/04/coming-up-glam.html",
           "author": null,
@@ -6618,6 +6349,24 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5614 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "Digital Language Equality 2030: Implications for Libraries, Collections, and their Users. The Visions of the ELE Project\n\n            \nThe ELE Project is organising the workshop ‘Digital Language Equality 2030: Implications for Libraries, Collections, and their Users’ on 18 November 2021.\nIn this online workshop, you will hear speakers from the ELE project and practitioners working with language technology. They will provide an overview of what the ELE project is trying to achieve and what a future entailing language equality throughout Europe looks like. Participating in this session will also give you the opportunity to share what impact this could have on your institution, its services, collection, and users.\nThe workshop is designed to achieve two main objectives: (1) to familiarise th…",
+          "link": "https://www.clarin.eu/news/digital-language-equality-2030-implications-libraries-collections-and-their-users-visions-ele",
+          "publishedOn": "2021-11-05T15:55:52.000Z",
+          "wordCount": 474,
+          "title": "Digital Language Equality 2030: Implications for Libraries, Collections, and their Users. The Visions of the ELE Project"
+        },
+        {
+          "id": "5613 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "Introducing the Written British National Corpus BNC2014\n\n            \nThis free event that will take place on 19 November 2021 from 12:00 to 16:00, will introduce the Written British National Corpus 2014 (BNC2014) and offer a series of mini lectures from leading experts in corpus linguistics.\nThe BNC2014 is a major project led by Lancaster University which created a 100-million-word corpus (a large collection of ‘real life’ language) of present-day British English. This corpus can be used by researchers to understand more about how language works and how it is evolving. Educators, dictionary compilers and the interested public will also be able to access the corpus to find usage examples of modern British English in different genres. The Spoken part of the corpus (10 million words) has alr…",
+          "link": "https://www.clarin.eu/news/introducing-written-british-national-corpus-bnc2014",
+          "publishedOn": "2021-11-05T14:21:42.000Z",
+          "wordCount": 513,
+          "title": "Introducing the Written British National Corpus BNC2014"
+        },
         {
           "id": "5609 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
@@ -7180,15 +6929,6 @@
           "publishedOn": "2021-06-11T09:29:49.000Z",
           "wordCount": 1132,
           "title": "Talking Open Scholarship and Online Training with Serah Rono and Martin Brennan"
-        },
-        {
-          "id": "11766 at https://www.force11.org",
-          "author": "Fiona Murphy",
-          "description": "On Tuesday, 27 April LIBSENSE co-hosted a community call with the REPO project. Within the wider framework of discussing lessons learned from designing and conducting virtual open access and open science training and community building events in response to the COVID-19 pandemic, we kicked off with a fascinating presentation by Samuel Simango, Research Data Services Manager, Stellenbosch University Library on their recently launched Research Data Management Adventure Game.\nSamuel explained that in creating a game to educate early career researchers about RDM provides opportunities for them to experience the repercussions of decisions within a safe environment without suffering real life consequences. He and his co-creators, Alex Ball and Nushrat Khan of Bath University, worked hard to make…",
-          "link": "https://www.force11.org/blog/adventures-research-data-management-become-reality",
-          "publishedOn": "2021-05-11T12:19:07.000Z",
-          "wordCount": 1090,
-          "title": "Adventures in Research Data Management become a Reality"
         }
       ]
     },
