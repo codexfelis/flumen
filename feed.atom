@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-11-10T08:13:40.549Z</updated>
+    <updated>2021-11-11T08:13:41.791Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -67,6 +67,135 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A template for GLAM Workbench development]]></title>
+        <id>http://wragge.micro.blog/2021/11/11/a-template-for.html</id>
+        <link href="https://updates.timsherratt.org/2021/11/11/a-template-for.html"/>
+        <updated>2021-11-11T06:03:43.000Z</updated>
+        <summary type="html"><![CDATA[I’m hoping that the GLAM Workbench will encourage GLAM organisations and GLAM data nerds (like me) to create their own Jupyter notebooks. If they do, they can put a link to them in the list of GLAM Jupyter resources. But what if they want to add the notebooks to the GLAM Workbench itself?
+To make this easier, I’ve been working on a template repository for the GLAM Workbench. It generates a new skeleton repository with all the files you need to develop and manage your own section of the GLAM Workbench. It uses GitHub’s built in templating feature, together with Cookiecutter , and this GitHub Action by Stefan Buck. Stefan has also written a very helpful blog post.
+The new repository is configured to do various things automatically, such as generate and save Docker images, and integrate with Reclaim Cloud and Zenodo. Lurking inside the dev folder of each new repository, you’ll find some basic details on how to set up and manage your development environment.
+This is just the first step. There’s more documentation to come, but you’re very welcome to try it out. And, of course, if you are interested in contributing to the development of the GLAM Workbench, let me know and I’ll help get you set up!]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for papers_Online Meeting "Programming in Digital Humanities", University of Évora, Portugal]]></title>
+        <id>1371 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/11/10/call-papersonline-meeting-programming-digital-humanities-university-evora-portugal"/>
+        <updated>2021-11-10T11:04:25.000Z</updated>
+        <summary type="html"><![CDATA[8 Dec 2021 - 00:00
+
+
+
+Call for papers_Online Meeting "Programming in Digital Humanities", University of Évora, Portugal
+
+
+
+On behalf of the Organizing Committee of the online meeting "Programming in Digital Humanities", 16-17th December, I am pleased to share relevant information about this upcoming event on:
+https://sites.google.com/uevora.pt/programmingdhs
+Programming in Digital Humanities (DH) is one of the most challenging topics in this field of knowledge and research. Unfortunately, a significant number of DH’ers coming from areas of knowledge such as literature, philology, history, etc., still experience great difficulties when it comes to use programming languages to handle their data and display it. This meeting aims to address these difficulties and discuss the latest developments associated to programming in DHs by bringing together scientists from different areas within the community.
+For registration and submission of abstracts, please use the Indico platform, where you will be asked to create a user profile:
+https://indico.hpc.uevora.pt/event/8/
+ 
+The organising committee,
+Sandra Boto 
+Miguel A. Avillez
+Carla Castro]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postdoc on the Anthropology of AI in Islam: computational and social network analysis (0,70 FTE)]]></title>
+        <id>1370 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/11/10/postdoc-anthropology-ai-islam-computational-and-social-network-analysis-070-fte"/>
+        <updated>2021-11-10T10:55:14.000Z</updated>
+        <summary type="html"><![CDATA[28 Nov 2021 - 00:00
+
+
+
+Postdoc on the Anthropology of AI in Islam: computational and social network analysis (0,70 FTE)  
+
+
+
+The Institute of Cultural Anthropology and Development Sociology of the Faculty of Social and Behavioural Sciences is looking for a
+Postdoc on the Anthropology of AI in Islam: computational and social network analysis (0,70 FTE)  
+Vacancy number 21-543 9924
+Deadline for applying: November 28, 2021
+Project description
+The Leiden University Institute of Cultural Anthropology and Development Sociology (CADS) is host to the NWO-Vici research project One Among Zeroes |0100| Towards an Anthropology of Everyday AI in Islam (VI.C. 201.058) funded by the Netherlands Organization for Scientific Research.
+Project abstract
+The |0100| Project investigates the Islamic Information …]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar recording now available: ‘In Her Shoes: Digitally Archiving Feminist Grassroots Movements and Sensitive Research’, Dr Lorraine Grimes]]></title>
+        <id>1439 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/webinar-recording-and-slides-now-available-%E2%80%98-her-shoes-digitally-archiving-feminist-grassroots"/>
+        <updated>2021-11-10T10:52:08.000Z</updated>
+        <summary type="html"><![CDATA[We invite you to (re)watch this lunchtime talk by Dr Grimes from November 2021]]></summary>
+        <author>
+            <name>Deborah Thorpe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London]]></title>
+        <id>1369 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/11/10/job-openings-two-postdoc-researchers-fix-term-until-end-sep-2024-1fte-work-sloane"/>
+        <updated>2021-11-10T10:47:30.000Z</updated>
+        <summary type="html"><![CDATA[25 Nov 2021 - 00:00
+
+
+
+Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London
+
+
+
+﻿Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London
+Closing Date: 25 Nov 2021 23:59
+The Department of Information Studies at University College London is looking to appoint two postdoctoral researchers (from immediate start until 30th September 2024 1.0FTE) on the AHRC funded project, “The Sloane Lab: Looking back to build future shared collections”, led by UCL in partnership with the British Museum and Natural History Museum.
+The Sloane Lab project has been funded under the ‘Towards a National…]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar recording and slides now available: The EU Copyright Directive]]></title>
+        <id>1438 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/webinar-recording-and-slides-now-available-eu-copyright-directive"/>
+        <updated>2021-11-10T10:29:36.000Z</updated>
+        <summary type="html"><![CDATA[We would like to thank Ariadna Matas and Gyta Berasnevičiūtė, and invite you to watch the webinar and download the slideshow.]]></summary>
+        <author>
+            <name>Deborah Thorpe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Producing & Interpreting Networks of Journal Articles in Psychology, 1887-1902]]></title>
+        <id>3651 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/producing-interpreting-networks-journal-articles-psychology-1887-1902"/>
+        <updated>2021-11-10T08:13:34.000Z</updated>
+        <summary type="html"><![CDATA[My team has been collecting full runs of psychology journals from around the turn of the 20th century and, using statistical methods, converting them into networks not of people, as is the typical practice, but of the articles themselves. This leaves us with the question of how to interpret clusters of articles that are associated with each other by the vocabularies they contain. In this talk, I will ask you to participate in our interpretive process and help to name the clusters yourselves (then we can see how your labels line up with the ones that we came up with). The journal we will be using is the American Journal of Psychology, from its founding by Granville Stanley Hall in 1887 up to 1902.
+ 
+Christopher Green works in the Historical, Theoretical, & Critical Studies of Psychology Program at York University in Toronto, Canada. He has PhDs in Cognitive Science and in the Philosophy of Science. For the past decade his lab has been conducting digital research on the history of psychology. His most recent book is Psychology and Its Cities: A New History of Early American Psychology (Routledge, 2019). 
+ 
+Wednesday, 18 November 2021
+14.00 - 15.00
+C²DH Open Space and Webex
+ 
+If you want to participate online, please send an e-mail to vanessa.napolitano@uni.lu to receive the link.
+18 November 2021
+  Data Science  Methodology  Network analysis
+  Hands-on History
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[livestreaming] South Florida vs Bethune-Cookman Live @stream Free Online]]></title>
         <id>12962 at https://www.force11.org</id>
         <link href="https://www.force11.org/blog/livestreaming-south-florida-vs-bethune-cookman-live-stream-free-online"/>
@@ -93,6 +222,23 @@ How to Live  NCAAM Division I Basketball Bob Jones University vs Wofford Live B
 NCAAM Division I Basketball Bob Jones University vs Wofford Live is gridiron Basketball Online Free 10th November 2021 played by  NCAAM Division I Basketball Bob Jones University vs Wofford teams in the . It ranks among the most popular interscholastic sports in both countries…]]></summary>
         <author>
             <name>David Foster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BERT for Humanists: a deep learning language model  meets DH]]></title>
+        <id>https://melaniewalsh.github.io/BERT-for-Humanists/tutorials/</id>
+        <link href="https://openmethods.dariah.eu/2021/11/09/bert-for-humanists-a-deep-learning-language-model-meets-dh/"/>
+        <updated>2021-11-09T16:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Awarded as Best Long Paper at the 2019 NACCL (North American Chapter of the Association for Computational Linguistics) Conference, the contribution by Jacob Devlin et al. provides an illustration of “BERT: Pre-training of Deep Biredictional Transformers for Language Understanding” (https://aclanthology.org/N19-1423/).
+
+As highlighted by the authors in the abstract, BERT is a “new language representation model” and, in the past few years, it has become widespread in various NLP applications; for example, a project exploiting it is CamemBERT (https://camembert-model.fr/), regarding French. 
+
+In June 2021, a workshop organized by David Mimno, Melanie Walsh and Maria Antoniak (https://melaniewalsh.github.io/BERT-for-Humanists/workshop/) pointed out how to use BERT in projects related to digital humanities, in order to deal with word similarity and classification classification while relying on Phyton-based HuggingFace transformers library. (https://melaniewalsh.github.io/BERT-for-Humanists/tutorials/ ). A further advantage of this training resource is that it has been written with sensitivity towards the target audience in mind:  in a way that it provides a gentle introduction to complexities of language models to scholars with education and background other than Computer Science.
+
+
+Along with the Tutorials, the same blog includes Introductions about BERT in general and in its specific usage in a Google Colab notebook, as well as a constantly-updated bibliography and a glossary of the main terms ('attention', 'Fine-Tune', 'GPU', 'Label', 'Task', 'Transformers', 'Token', 'Type', 'Vector').]]></summary>
+        <author>
+            <name>Author on Source</name>
         </author>
     </entry>
     <entry>
@@ -5283,6 +5429,16 @@ The post AHRC-RLUK Professional Practice Fellowships – pre-call information ap
     <entry>
         <title type="html"><![CDATA[CALL FOR HOSTS: DHNB 2023 & 2024]]></title>
         <id>http://dhnb.eu/?p=1939</id>
+        <link href="https://dhnb.eu/call-for-hosts-dhnb-2023-2024/"/>
+        <updated>2021-09-07T23:33:53.000Z</updated>
+        <summary type="html"><![CDATA[DHNB 2023 & 2024: CALL FOR HOST The Digital Humanities in the Nordic and Baltic Countries (DHNB) Board invites proposals to host the 2023 and 2024 DHNB Conferences.  Held five times since 2016, our conference has become a fixed annual event in the DH calendar. After successful events in Oslo, Gothenburg, Helsinki, Copenhagen, and virtually in […]]]></summary>
+        <author>
+            <name>Olga Holownia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CALL FOR HOSTS: DHNB 2023 & 2024]]></title>
+        <id>http://dhnb.eu/?p=1939</id>
         <link href="http://dhnb.eu/call-for-hosts-dhnb-2023-2024/"/>
         <updated>2021-09-07T23:33:53.000Z</updated>
         <summary type="html"><![CDATA[DHNB 2023 & 2024: CALL FOR HOST – FINAL DRAFT The Digital Humanities in the Nordic and Baltic Countries (DHNB) Board invites proposals to host the 2023 and 2024 DHNB Conferences.  Held five times since 2016, our conference has become a fixed annual event in the DH calendar. After successful events in Oslo, Gothenburg, Helsinki, Copenhagen, […]]]></summary>
@@ -9069,6 +9225,16 @@ The post Blick Romandie et l’EPFL partenaires pour le journalisme scientifique
     <entry>
         <title type="html"><![CDATA[DHN2020 Post-Proceedings published]]></title>
         <id>http://dig-hum-nord.eu/?p=1905</id>
+        <link href="https://dhnb.eu/dhn2020-post-proceedings/"/>
+        <updated>2021-05-26T12:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Post-Proceedings of the 5th Conference Digital Humanities in the Nordic Countries (DHN 2020)  are published in CEUR Workshop Proceedings. It is an open-access publication service where already four volumes of DHN conference proceedings have been published. DHN2020 Post-Proceedings contain 26 papers presented in an online conference in Riga/Zoom in October 2020. Editors: Sanita Reinsone (Institute […]]]></summary>
+        <author>
+            <name>Sanita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHN2020 Post-Proceedings published]]></title>
+        <id>http://dig-hum-nord.eu/?p=1905</id>
         <link href="http://dhnb.eu/dhn2020-post-proceedings/"/>
         <updated>2021-05-26T12:57:56.000Z</updated>
         <summary type="html"><![CDATA[Post-Proceedings of the 5th Conference Digital Humanities in the Nordic Countries (DHN 2020)  are published in CEUR Workshop Proceedings. It is an open-access publication service where already four volumes of DHN conference proceedings have been published. DHN2020 Post-Proceedings contain 26 papers presented in an online conference in Riga/Zoom in October 2020. Editors: Sanita Reinsone (Institute […]]]></summary>
@@ -9596,17 +9762,6 @@ The post UDante Treebank in UD 2.8 appeared first on LiLa: Linking Latin.]]></su
         <summary type="html"><![CDATA[Introduction: Digital Literary Studies has long engaged with the challenges in representing ambiguity, contradiction and polyvocal readings of literary texts. This book chapter describes a web-based tool called CATMA which  promises a "low-threshold" approach to digitally encoded text interpretation. CATMA has a long trajectory based on a 'standoff' approach to markup, somewhat provocatively described by its creators as "undogmatic", which stands in contrast to more established systems for text representation in digital scholarly editing and publishing such as XML markup, or the Text Encoding Initiative (TEI). Standoff markup involves applying numbers to each character of a text and then using those numbers as identifiers to store interpretation externally. This approach allows for "multip…]]></summary>
         <author>
             <name>Author on Source</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Mapping to Explore Black Philadelphia’s Historic Landmarks]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=7901</id>
-        <link href="https://sites.temple.edu/tudsc/2021/05/14/digital-mapping-to-explore-black-philadelphias-historic-landmarks/"/>
-        <updated>2021-05-14T23:27:24.000Z</updated>
-        <summary type="html"><![CDATA[By Tauheedah Asad Introduction As a media and communications doctoral student, I have an interest in exploring how digital tools can be utilized to make research and information accessible to mass audiences....
-The post Digital Mapping to Explore Black Philadelphia’s Historic Landmarks appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
-        <author>
-            <name>Tauheedah Asad</name>
         </author>
     </entry>
 </feed>

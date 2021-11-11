@@ -61,8 +61,17 @@
     {
       "title": "DHNB",
       "feedUrl": "http://dhnb.eu/feed",
-      "siteUrl": "http://dhnb.eu",
+      "siteUrl": "https://dhnb.eu",
       "articles": [
+        {
+          "id": "http://dhnb.eu/?p=1939",
+          "author": "Olga Holownia",
+          "description": "DHNB 2023 & 2024: CALL FOR HOST The Digital Humanities in the Nordic and Baltic Countries (DHNB) Board invites proposals to host the 2023 and 2024 DHNB Conferences.  Held five times since 2016, our conference has become a fixed annual event in the DH calendar. After successful events in Oslo, Gothenburg, Helsinki, Copenhagen, and virtually in […]",
+          "link": "https://dhnb.eu/call-for-hosts-dhnb-2023-2024/",
+          "publishedOn": "2021-09-07T23:33:53.000Z",
+          "wordCount": 677,
+          "title": "CALL FOR HOSTS: DHNB 2023 & 2024"
+        },
         {
           "id": "http://dhnb.eu/?p=1939",
           "author": "Olga Holownia",
@@ -71,6 +80,15 @@
           "publishedOn": "2021-09-07T23:33:53.000Z",
           "wordCount": 674,
           "title": "CALL FOR HOSTS: DHNB 2023 & 2024"
+        },
+        {
+          "id": "http://dig-hum-nord.eu/?p=1905",
+          "author": "Sanita",
+          "description": "Post-Proceedings of the 5th Conference Digital Humanities in the Nordic Countries (DHN 2020)  are published in CEUR Workshop Proceedings. It is an open-access publication service where already four volumes of DHN conference proceedings have been published. DHN2020 Post-Proceedings contain 26 papers presented in an online conference in Riga/Zoom in October 2020. Editors: Sanita Reinsone (Institute […]",
+          "link": "https://dhnb.eu/dhn2020-post-proceedings/",
+          "publishedOn": "2021-05-26T12:57:56.000Z",
+          "wordCount": 605,
+          "title": "DHN2020 Post-Proceedings published"
         },
         {
           "id": "http://dig-hum-nord.eu/?p=1905",
@@ -4056,6 +4074,33 @@
       "siteUrl": "https://eadh.org/feed",
       "articles": [
         {
+          "id": "1371 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "8 Dec 2021 - 00:00\n\n\n\nCall for papers_Online Meeting \"Programming in Digital Humanities\", University of Évora, Portugal\n\n\n\nOn behalf of the Organizing Committee of the online meeting \"Programming in Digital Humanities\", 16-17th December, I am pleased to share relevant information about this upcoming event on:\nhttps://sites.google.com/uevora.pt/programmingdhs\nProgramming in Digital Humanities (DH) is one of the most challenging topics in this field of knowledge and research. Unfortunately, a significant number of DH’ers coming from areas of knowledge such as literature, philology, history, etc., still experience great difficulties when it comes to use programming languages to handle their data and display it. This meeting aims to address these difficulties and discuss the latest developments associated to programming in DHs by bringing together scientists from different areas within the community.\nFor registration and submission of abstracts, please use the Indico platform, where you will be asked to create a user profile:\nhttps://indico.hpc.uevora.pt/event/8/\n \nThe organising committee,\nSandra Boto \nMiguel A. Avillez\nCarla Castro",
+          "link": "https://eadh.org/news/2021/11/10/call-papersonline-meeting-programming-digital-humanities-university-evora-portugal",
+          "publishedOn": "2021-11-10T11:04:25.000Z",
+          "wordCount": 462,
+          "title": "Call for papers_Online Meeting \"Programming in Digital Humanities\", University of Évora, Portugal"
+        },
+        {
+          "id": "1370 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "28 Nov 2021 - 00:00\n\n\n\nPostdoc on the Anthropology of AI in Islam: computational and social network analysis (0,70 FTE)  \n\n\n\nThe Institute of Cultural Anthropology and Development Sociology of the Faculty of Social and Behavioural Sciences is looking for a\nPostdoc on the Anthropology of AI in Islam: computational and social network analysis (0,70 FTE)  \nVacancy number 21-543 9924\nDeadline for applying: November 28, 2021\nProject description\nThe Leiden University Institute of Cultural Anthropology and Development Sociology (CADS) is host to the NWO-Vici research project One Among Zeroes |0100| Towards an Anthropology of Everyday AI in Islam (VI.C. 201.058) funded by the Netherlands Organization for Scientific Research.\nProject abstract\nThe |0100| Project investigates the Islamic Information …",
+          "link": "https://eadh.org/news/2021/11/10/postdoc-anthropology-ai-islam-computational-and-social-network-analysis-070-fte",
+          "publishedOn": "2021-11-10T10:55:14.000Z",
+          "wordCount": 1405,
+          "title": "Postdoc on the Anthropology of AI in Islam: computational and social network analysis (0,70 FTE)"
+        },
+        {
+          "id": "1369 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "25 Nov 2021 - 00:00\n\n\n\nJob openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London\n\n\n\n﻿Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London\nClosing Date: 25 Nov 2021 23:59\nThe Department of Information Studies at University College London is looking to appoint two postdoctoral researchers (from immediate start until 30th September 2024 1.0FTE) on the AHRC funded project, “The Sloane Lab: Looking back to build future shared collections”, led by UCL in partnership with the British Museum and Natural History Museum.\nThe Sloane Lab project has been funded under the ‘Towards a National…",
+          "link": "https://eadh.org/news/2021/11/10/job-openings-two-postdoc-researchers-fix-term-until-end-sep-2024-1fte-work-sloane",
+          "publishedOn": "2021-11-10T10:47:30.000Z",
+          "wordCount": 973,
+          "title": "Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London"
+        },
+        {
           "id": "1366 at https://eadh.org",
           "author": "Communication Fellow",
           "description": "14 Jan 2022 - 00:00\n\n\n\nJOB: Two Postdoc Positions (2-3 years, 1fte) in History of Philosophy of Science and/or Digital Humanities (Tilburg University)\n\n\n\nThe Department of Philosophy at Tilburg University seeks to appoint two postdoctoral researchers (2 or 3 years, 0,8 - 1,0 FTE) in the NWO Vidi project “Exiled Empiricists: American Philosophy and the Great Intellectual Migration”. Starting date: August or September 2022.\nProfiles of the candidates  The postdoc’s primary responsibility will be to contribute to the research project (description below) and to publish in peer reviewed journals and books. The researcher should also contribute to the project in other ways, such as by giving conference presentations, (co-)editing a special issue, and (co-)organizing reading groups and workshops.…",
@@ -4771,6 +4816,15 @@
       "feedUrl": "https://openmethods.dariah.eu/feed/",
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
+        {
+          "id": "https://melaniewalsh.github.io/BERT-for-Humanists/tutorials/",
+          "author": "Author on Source",
+          "description": "Introduction: Awarded as Best Long Paper at the 2019 NACCL (North American Chapter of the Association for Computational Linguistics) Conference, the contribution by Jacob Devlin et al. provides an illustration of “BERT: Pre-training of Deep Biredictional Transformers for Language Understanding” (https://aclanthology.org/N19-1423/).\n\nAs highlighted by the authors in the abstract, BERT is a “new language representation model” and, in the past few years, it has become widespread in various NLP applications; for example, a project exploiting it is CamemBERT (https://camembert-model.fr/), regarding French. \n\nIn June 2021, a workshop organized by David Mimno, Melanie Walsh and Maria Antoniak (https://melaniewalsh.github.io/BERT-for-Humanists/workshop/) pointed out how to use BERT in projects related to digital humanities, in order to deal with word similarity and classification classification while relying on Phyton-based HuggingFace transformers library. (https://melaniewalsh.github.io/BERT-for-Humanists/tutorials/ ). A further advantage of this training resource is that it has been written with sensitivity towards the target audience in mind:  in a way that it provides a gentle introduction to complexities of language models to scholars with education and background other than Computer Science.\n\n\nAlong with the Tutorials, the same blog includes Introductions about BERT in general and in its specific usage in a Google Colab notebook, as well as a constantly-updated bibliography and a glossary of the main terms ('attention', 'Fine-Tune', 'GPU', 'Label', 'Task', 'Transformers', 'Token', 'Type', 'Vector').",
+          "link": "https://openmethods.dariah.eu/2021/11/09/bert-for-humanists-a-deep-learning-language-model-meets-dh/",
+          "publishedOn": "2021-11-09T16:56:00.000Z",
+          "wordCount": 1174,
+          "title": "BERT for Humanists: a deep learning language model  meets DH"
+        },
         {
           "id": "http://revistas.uned.es/index.php/RHD/article/view/27495",
           "author": "Author on Source",
@@ -5733,15 +5787,6 @@
           "publishedOn": "2021-06-02T17:14:17.000Z",
           "wordCount": 1718,
           "title": "To Kill and To be Killed: Charting Artistic Change in the Aegean Bronze Age"
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=7901",
-          "author": "Tauheedah Asad",
-          "description": "By Tauheedah Asad Introduction As a media and communications doctoral student, I have an interest in exploring how digital tools can be utilized to make research and information accessible to mass audiences....\nThe post Digital Mapping to Explore Black Philadelphia’s Historic Landmarks appeared first on Loretta C. Duckworth Scholars Studio.",
-          "link": "https://sites.temple.edu/tudsc/2021/05/14/digital-mapping-to-explore-black-philadelphias-historic-landmarks/",
-          "publishedOn": "2021-05-14T23:27:24.000Z",
-          "wordCount": 1231,
-          "title": "Digital Mapping to Explore Black Philadelphia’s Historic Landmarks"
         }
       ]
     },
@@ -5851,6 +5896,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2021/11/11/a-template-for.html",
+          "author": null,
+          "description": "I’m hoping that the GLAM Workbench will encourage GLAM organisations and GLAM data nerds (like me) to create their own Jupyter notebooks. If they do, they can put a link to them in the list of GLAM Jupyter resources. But what if they want to add the notebooks to the GLAM Workbench itself?\nTo make this easier, I’ve been working on a template repository for the GLAM Workbench. It generates a new skeleton repository with all the files you need to develop and manage your own section of the GLAM Workbench. It uses GitHub’s built in templating feature, together with Cookiecutter , and this GitHub Action by Stefan Buck. Stefan has also written a very helpful blog post.\nThe new repository is configured to do various things automatically, such as generate and save Docker images, and integrate with Reclaim Cloud and Zenodo. Lurking inside the dev folder of each new repository, you’ll find some basic details on how to set up and manage your development environment.\nThis is just the first step. There’s more documentation to come, but you’re very welcome to try it out. And, of course, if you are interested in contributing to the development of the GLAM Workbench, let me know and I’ll help get you set up!",
+          "link": "https://updates.timsherratt.org/2021/11/11/a-template-for.html",
+          "publishedOn": "2021-11-11T06:03:43.000Z",
+          "wordCount": 239,
+          "title": "A template for GLAM Workbench development"
+        },
         {
           "id": "http://wragge.micro.blog/2021/11/08/more-thoughts-on.html",
           "author": null,
@@ -6226,6 +6280,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "3651 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "My team has been collecting full runs of psychology journals from around the turn of the 20th century and, using statistical methods, converting them into networks not of people, as is the typical practice, but of the articles themselves. This leaves us with the question of how to interpret clusters of articles that are associated with each other by the vocabularies they contain. In this talk, I will ask you to participate in our interpretive process and help to name the clusters yourselves (then we can see how your labels line up with the ones that we came up with). The journal we will be using is the American Journal of Psychology, from its founding by Granville Stanley Hall in 1887 up to 1902.\n \nChristopher Green works in the Historical, Theoretical, & Critical Studies of Psychology Program at York University in Toronto, Canada. He has PhDs in Cognitive Science and in the Philosophy of Science. For the past decade his lab has been conducting digital research on the history of psychology. His most recent book is Psychology and Its Cities: A New History of Early American Psychology (Routledge, 2019). \n \nWednesday, 18 November 2021\n14.00 - 15.00\nC²DH Open Space and Webex\n \nIf you want to participate online, please send an e-mail to vanessa.napolitano@uni.lu to receive the link.\n18 November 2021\n  Data Science  Methodology  Network analysis\n  Hands-on History\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/producing-interpreting-networks-journal-articles-psychology-1887-1902",
+          "publishedOn": "2021-11-10T08:13:34.000Z",
+          "wordCount": 439,
+          "title": "Producing & Interpreting Networks of Journal Articles in Psychology, 1887-1902"
+        },
+        {
           "id": "3635 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "Nach dem Versailler Vertrag sahen sich die europäischen Nationalstaaten mit der Herausforderung konfrontiert, in ihren neuen Grenzgebieten, in denen sich die Mitbürger oft entlang religiöser, sprachlicher, kultureller oder ethnischer Grenzen drastisch voneinander unterschieden, nationale Loyalität zu vermitteln. Peripheries at the Centre vergleicht die Erfahrungen des Schulwesens in Oberschlesien in Polen und Eupen, Sankt Vith und Malmedy in Belgien - Grenzregionen, die nach dem Ersten Weltkrieg vom Deutschen Reich abgetrennt wurden. Es wird gezeigt, wie die neu konfigurierten Länder die Grenzlandschulen und das Erlernen von Sprachen als Instrumente zur Verwirklichung des imaginierten friedlichen Europas betrachteten, das die politische Geografie der Zwischenkriegszeit unterstrich.\nMachtel…",
@@ -6551,6 +6614,24 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1439 at https://www.dri.ie",
+          "author": "Deborah Thorpe",
+          "description": "We invite you to (re)watch this lunchtime talk by Dr Grimes from November 2021",
+          "link": "https://www.dri.ie/webinar-recording-and-slides-now-available-%E2%80%98-her-shoes-digitally-archiving-feminist-grassroots",
+          "publishedOn": "2021-11-10T10:52:08.000Z",
+          "wordCount": 590,
+          "title": "Webinar recording now available: ‘In Her Shoes: Digitally Archiving Feminist Grassroots Movements and Sensitive Research’, Dr Lorraine Grimes"
+        },
+        {
+          "id": "1438 at https://www.dri.ie",
+          "author": "Deborah Thorpe",
+          "description": "We would like to thank Ariadna Matas and Gyta Berasnevičiūtė, and invite you to watch the webinar and download the slideshow.",
+          "link": "https://www.dri.ie/webinar-recording-and-slides-now-available-eu-copyright-directive",
+          "publishedOn": "2021-11-10T10:29:36.000Z",
+          "wordCount": 497,
+          "title": "Webinar recording and slides now available: The EU Copyright Directive"
+        },
         {
           "id": "1437 at https://www.dri.ie",
           "author": "ainemadden",
