@@ -12,6 +12,15 @@
       "siteUrl": "https://blogs.ucl.ac.uk/dh",
       "articles": [
         {
+          "id": "https://blogs.ucl.ac.uk/dh/?p=8227",
+          "author": "Adam Crymble",
+          "description": "The Department of Information Studies at UCL is currently advertising a permanent post, Lecturer/Associate Professor in Digital Humanities. The closing date for application is 21 November 2021. Please email Professor Elizabeth Shepherd for any questions related to the post at e.shepherd@ucl.ac.uk Full details: https://www.jobs.ac.uk/job/CKK702/lecturer-associate-professor-in-digital-humanities",
+          "link": "https://blogs.ucl.ac.uk/dh/2021/11/15/job-advert-digital-humanities-lecturer-associate-professor/",
+          "publishedOn": "2021-11-15T09:41:38.000Z",
+          "wordCount": 275,
+          "title": "Job Advert: Digital Humanities Lecturer/Associate Professor"
+        },
+        {
           "id": "https://blogs.ucl.ac.uk/dh/?p=8215",
           "author": "Julianne Nyhan",
           "description": "[posted by Julianne Nyhan on behalf of Marco Humbel] This blog post reports on our recent paper: Humbel, M., Nyhan, J., Vlachidis, A., Sloan, K. and Ortolja-Baird, A. (2021), “Named-entity recognition for early modern textual documents: a review of capabilities and challenges with strategies for the future”, Journal of Documentation, https://doi.org/10.1108/JD-02-2021-0032 Link to full text […]",
@@ -353,71 +362,7 @@
       "title": "Alabama Digital Humanities Center",
       "feedUrl": "https://adhc.lib.ua.edu/feed",
       "siteUrl": "https://adhc.lib.ua.edu",
-      "articles": [
-        {
-          "id": "https://adhc.lib.ua.edu/?p=730",
-          "author": "adhcadmin",
-          "description": "Global Makers: Women Artists in the Early Modern Courts is intended to encourage and support sustained, interdisciplinary consideration of the...",
-          "link": "https://adhc.lib.ua.edu/global-makers/",
-          "publishedOn": "2021-05-18T19:52:52.000Z",
-          "wordCount": 259,
-          "title": "Global Makers: Women Artists in the Early Modern Courts"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=727",
-          "author": "adhcadmin",
-          "description": "The Civil War and Reconstruction Era was a period of great change and strife for the state of Alabama and the nation.  Documents included...",
-          "link": "https://adhc.lib.ua.edu/cwrga/",
-          "publishedOn": "2021-05-18T19:49:33.000Z",
-          "wordCount": 794,
-          "title": "Civil War & Reconstruction Governors of Alabama"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=724",
-          "author": "adhcadmin",
-          "description": "The Alabama Shakespeare Project (ASP) is a performance-based research collective exploring early modern entertainments. To do so, we  stage free...",
-          "link": "https://adhc.lib.ua.edu/alabama-shakespeare-project/",
-          "publishedOn": "2021-05-18T19:47:53.000Z",
-          "wordCount": 192,
-          "title": "Alabama Shakespeare Project"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=722",
-          "author": "adhcadmin",
-          "description": "The Italian Program in the Department of Modern Languages and Classics at The University of Alabama presents an online seminar...",
-          "link": "https://adhc.lib.ua.edu/comic-relief/",
-          "publishedOn": "2021-05-18T19:45:46.000Z",
-          "wordCount": 210,
-          "title": "Comic Relief"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=720",
-          "author": "adhcadmin",
-          "description": "This is a digital museum to accompany Drs. Margaret Peacock and Erik L. Peterson’s forthcoming book Journal of a Pandemic...",
-          "link": "https://adhc.lib.ua.edu/journal-of-a-pandemic-year/",
-          "publishedOn": "2021-05-18T19:44:51.000Z",
-          "wordCount": 188,
-          "title": "Journal of a Pandemic Year"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=717",
-          "author": "adhcadmin",
-          "description": "In Spring 2021, Dr. Jeri Wieringa’s REL120 class created a course website featuring exhibits and mapping to study religion and...",
-          "link": "https://adhc.lib.ua.edu/rel120/",
-          "publishedOn": "2021-05-18T19:43:30.000Z",
-          "wordCount": 134,
-          "title": "Religion & Science: Creating Health in 19th Century U.S."
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=715",
-          "author": "adhcadmin",
-          "description": "This project was created to showcase Dr. Daniel Levine’s Fall 2020 PSC344.001 – The Israel/Palestine Conflict course to showcase his...",
-          "link": "https://adhc.lib.ua.edu/psc344-the-israel-palestine-conflict/",
-          "publishedOn": "2021-05-18T19:40:52.000Z",
-          "wordCount": 137,
-          "title": "PSC344"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News",
@@ -695,6 +640,15 @@
       "siteUrl": "https://caa-international.org",
       "articles": [
         {
+          "id": "https://sites.caa-international.org/main/?p=15750",
+          "author": "Jeffrey Glover",
+          "description": "The CAA 2022 conference, which is planned for Oxford, will be held next summer rather than the typical spring period. Given the continuing uncertainty with the Covid-19 pandemic and the potential for ongoing travel restrictions, we hope to offer a … Continue reading →",
+          "link": "https://caa-international.org/2021/11/12/caa-2022-update/",
+          "publishedOn": "2021-11-12T13:45:57.000Z",
+          "wordCount": 190,
+          "title": "CAA 2022 Update"
+        },
+        {
           "id": "https://sites.caa-international.org/main/?p=15747",
           "author": "Jeffrey Glover",
           "description": "CAA 2021 ESC elections are almost here! In preparation for voting, please watch and read each candidates’ short statement. The candidates’ written statements can be found in the description of the recorded introductions. Elections will be held between 8th and 22nd of November, 2021. Ballots … Continue reading →",
@@ -774,12 +728,6 @@
           "title": "Research institute aims to bring diverse ‘new storytellers’ to digital scholarship"
         }
       ]
-    },
-    {
-      "title": "CSDH / SCHN",
-      "feedUrl": "https://csdh-schn.org/feed",
-      "siteUrl": "https://csdh-schn.org",
-      "articles": []
     },
     {
       "title": "CUNY Digital Humanities Initiative",
@@ -3165,12 +3113,6 @@
       ]
     },
     {
-      "title": "UK-Ireland Digital Humanities Network",
-      "feedUrl": "https://dhnetwork.org/feed",
-      "siteUrl": "https://dhnetwork.org",
-      "articles": []
-    },
-    {
       "title": "Digital Humanities Summer Institute",
       "feedUrl": "https://dhsi.org/feed",
       "siteUrl": "https://dhsi.org",
@@ -3181,6 +3123,60 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/734",
+          "author": "406",
+          "description": "Wir freuen uns sehr, die Gründung einer neuen DHd-AG namens \"Spiele\" bekannt geben zu dürfen.\nDie AG „Spiele“ will das Thema Spiele in all seinen Ausformungen mit Methoden,…",
+          "link": "https://dig-hum.de/aktuelles/neue-dhd-ag-spiele-gegr%C3%BCndet",
+          "publishedOn": "2021-11-14T18:10:57.000Z",
+          "wordCount": 771,
+          "title": "Neue DHd-AG &quot;Spiele&quot; gegründet"
+        },
+        {
+          "id": "node/731",
+          "author": "406",
+          "description": "Die Kulturstiftung des Bundes mit Sitz in Halle an der Saale bietet zum 01.02.2022 ein wissenschaftliches Volontariat (m/w/d, Vollzeit) an.\nDie Kulturstiftung des Bundes (KSB)…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-wissenschaftliches-volontariat-kulturstiftung-des-bundes-hallesaale",
+          "publishedOn": "2021-11-13T17:24:34.000Z",
+          "wordCount": 792,
+          "title": "Stellenangebot: Wissenschaftliches Volontariat (Kulturstiftung des Bundes, Halle/Saale)"
+        },
+        {
+          "id": "node/730",
+          "author": "406",
+          "description": "Der Mandant Historisches Erbe Hessen, in dem die Landesmuseen Darmstadt und Wiesbaden, die Museumslandschaft Hessen Kassel, die Staatlichen Schlösser und Gärten Hessen sowie das…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-wma-mwd-konzeption-eines-gemeinsamen-datenraumes-museum-wiesbaden",
+          "publishedOn": "2021-11-13T17:03:07.000Z",
+          "wordCount": 828,
+          "title": "Stellenangebot: WMA (m/w/d) &quot;Konzeption eines gemeinsamen Datenraumes&quot; (Museum Wiesbaden)"
+        },
+        {
+          "id": "node/729",
+          "author": "406",
+          "description": "Im Bauhaus-Archiv - Museum für Gestaltung sind aktuell zwei Stellen ausgeschrieben:\nStellenausschreibung Projektleiter*in Digitales Bauhaus-Archiv\nStellenausschreibung…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebote-im-bauhaus-archiv-museum-f%C3%BCr-gestaltung-berlin",
+          "publishedOn": "2021-11-13T16:26:45.000Z",
+          "wordCount": 689,
+          "title": "Stellenangebote im Bauhaus-Archiv / Museum für Gestaltung (Berlin)"
+        },
+        {
+          "id": "node/728",
+          "author": "406",
+          "description": "Die Kulturstiftung des Bundes mit Sitz in Halle an der Saale sucht ab 01.01.2022 eine/n Mitarbeiter/in für das Sachgebiet Projektprüfung (m/w/d, Vollzeit, Entgeltgruppe 6 TVöD…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-mitarbeiterin-f%C3%BCr-sachgebiet-projektpr%C3%BCfung-kulturstiftung-des-bundes",
+          "publishedOn": "2021-11-13T15:50:44.000Z",
+          "wordCount": 1031,
+          "title": "Stellenangebot: MitarbeiterIn für Sachgebiet Projektprüfung (Kulturstiftung des Bundes, Halle/Saale)"
+        },
+        {
+          "id": "node/727",
+          "author": "406",
+          "description": "Die 1652 gegründete Deutsche Akademie der Naturforscher Leopoldina ist mit ihren rund 1.600 Mitgliedern aus nahezu allen Wissenschaftsbereichen eine klassische…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-wma-im-dh-bereich-der-leopoldina-hallesaale",
+          "publishedOn": "2021-11-12T16:13:09.000Z",
+          "wordCount": 941,
+          "title": "Stellenangebot: WMA im DH-Bereich an der Leopoldina (Halle/Saale)"
+        },
         {
           "id": "node/726",
           "author": "406",
@@ -3658,6 +3654,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=6964",
+          "author": "Ephrem A. Ishac",
+          "description": "This is the second part of a series of posts by the Digital Orientalist’s Syriac Studies Editor, Ephrem Ishac, based …",
+          "link": "https://digitalorientalist.com/2021/11/12/interview-with-dr-nathan-p-gibson-about-syriaca-org-part-2/",
+          "publishedOn": "2021-11-12T13:00:00.000Z",
+          "wordCount": 1477,
+          "title": "“From Dead-ends into Gateways”: Interview with Dr. Nathan P. Gibson about Syriaca.org, 2nd and Final Part"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=6787",
           "author": "Matthew Hayes",
           "description": "The volume of digitally available Japanese research materials and the databases that hold them are increasing by the year. This …",
@@ -4059,33 +4064,6 @@
           "publishedOn": "2021-06-15T09:20:29.000Z",
           "wordCount": 51,
           "title": "About the CHR2021 category"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-818",
-          "author": "rkosti",
-          "description": "Call for Papers - SUMAC 2021\nThe 3rd workshop on Structuring and Understanding of Multimedia heritAge Contents\nIn conjunction with ACM Multimedia 2021, 20 - 24 October 2020, Chengdu, China\nWorkshop: SUMAC Workshop 2021\nhttps://2021.acmmm.org\nAims and scope\nThe digitization of large quantities of analogue data and the massive production of born-digital\nThe objective of the third edition of this workshop is to present and discuss the latest and\nMultimedia and cross-domain data interlinking and recommendation\nDating and spatialization of historical data\nMixed media data access and indexing\nDeep learning in adverse conditions (transfer learning, learning with side information,etc.)\nMulti-modal time series analysis, evolution modeling\nMulti-modal & multi-temporal data rendering\nHeritage - Building Information Modeling, Art\nHCI / Interfaces for large-scale datasets\nSmart digitization of massive quantities of data\nBench-marking, Open Data Movement\nGenerative modeling of cultural heritage\nImportant dates\nPaper submission: 30 July 2021 (11:59 p.m. AoE)\nAuthor acceptance notification: 26 August 2021\nCamera-Ready: 2 September 2021\nWorkshop date: 20 or 24 October 2021 (TBA)\nSubmission guidelines\nSubmission format. All submissions must be original work not under review at any other\nACM Multimedia 2021 .\nPeer Review and publication in ACM Digital Library. Paper submissions must conform\nOrganizers\nValerie Gouet-Brunet (LaSTIG Lab / IGN - Gustave Eiffel University, France)\nLooking forward to seeing you in Chengdu (virtually or not)!\n2 posts - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/cfp-sumac-2021-3rd-edition/818",
-          "publishedOn": "2021-05-19T21:33:47.000Z",
-          "wordCount": 761,
-          "title": "[CFP] SUMAC 2021 - 3rd Edition"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-817",
-          "author": "Sagaust",
-          "description": "Day 1 at Hel­sinki Centre for Di­gital Hu­man­it­ies — The 18th century witnessed the publication of several Encyclopedias, most unique among them is Pierre Bayle’s Dictionnaire Historique et Critique (in English, the Historical and Critical Dictionary). #DHH21 hackathon #Bayle group is currently exploring the differences between the 3 English translated editions of this text.\nhttps://lnkd.in/dffnQCP\n#18thcenturyEuropeanhistory #literature\n#lexicography\n#digitalhumanities\n#naturallanguageprocessing\n#computationalthinking\n#textanalysis\n#language #research #datascience\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/bayle-group-hel-sinki-centre-for-di-gital-hu-man-it-ies/817",
-          "publishedOn": "2021-05-19T12:36:55.000Z",
-          "wordCount": 110,
-          "title": "*#Bayle**Group @Hel­sinki Centre for Di­gital Hu­man­it­ies"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-816",
-          "author": "melvin.wevers",
-          "description": "For a paper I’m currently working on, I’m dealing with several types of Gaussian distributions that signal to onset and decay of an event. Events can have a slow onset and slow decay, resulting in a wide distribution, or they can have a fast onset and slow decay or vice versa. I’m exploring different ways to compare these distributions.\ncomparing the entropy of the distribution, which gives a general statistic\ncomparing the (linear) slopes of either side of distribution\ncalculating the skewness and kurtosis of the distributions.\nI was wondering if others had pointers and possible feedback on the proposed methods.\n5 posts - 3 participants\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/comparing-distributions/816",
-          "publishedOn": "2021-05-17T10:14:29.000Z",
-          "wordCount": 603,
-          "title": "Comparing distributions"
         }
       ]
     },
@@ -4462,15 +4440,6 @@
           "publishedOn": "2021-05-25T17:22:03.000Z",
           "wordCount": 653,
           "title": "Invited Talk at the Lectio Conference 2021"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2591",
-          "author": "lila-admin",
-          "description": "Dataset: UDante Treebank\nRelease date: 15th May 2021\nWebsite: https://universaldependencies.org/treebanks/la_udante/index.html\nGitHub: https://github.com/UniversalDependencies/UD_Latin-UDante\nThe post UDante Treebank in UD 2.8 appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/udante-ud-2-8/",
-          "publishedOn": "2021-05-17T10:02:06.000Z",
-          "wordCount": 530,
-          "title": "UDante Treebank in UD 2.8"
         }
       ]
     },
@@ -4559,15 +4528,6 @@
           "publishedOn": "2021-05-25T17:22:03.000Z",
           "wordCount": 653,
           "title": "Invited Talk at the Lectio Conference 2021"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2591",
-          "author": "lila-admin",
-          "description": "Dataset: UDante Treebank\nRelease date: 15th May 2021\nWebsite: https://universaldependencies.org/treebanks/la_udante/index.html\nGitHub: https://github.com/UniversalDependencies/UD_Latin-UDante\nThe post UDante Treebank in UD 2.8 appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/udante-ud-2-8/",
-          "publishedOn": "2021-05-17T10:02:06.000Z",
-          "wordCount": 530,
-          "title": "UDante Treebank in UD 2.8"
         }
       ]
     },
@@ -4638,15 +4598,6 @@
           "publishedOn": "2021-06-10T07:36:15.000Z",
           "wordCount": 1201,
           "title": "What could be the digital humanities’ Hugging Face?"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=1881",
-          "author": "Katie McDonough",
-          "description": "We have published a new Open Access article in the Journal of Victorian Culture about using Computer Vision with historical maps. ‘Maps of a Nation?’ describes our Computer Vision pipeline for working with thousands of maps at once, which enables new forms of historical inquiry based on spatial analysis. The Ordnance Survey has been the […]",
-          "link": "https://livingwithmachines.ac.uk/new-article-maps-of-a-nation/?utm_source=rss&utm_medium=rss&utm_campaign=new-article-maps-of-a-nation",
-          "publishedOn": "2021-05-17T19:46:00.000Z",
-          "wordCount": 851,
-          "title": "New Article: Maps of a Nation"
         }
       ]
     },
@@ -4719,6 +4670,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.57",
+          "author": null,
+          "description": "These two datasets are the first normalized, peer-reviewed, and lexicographically enriched transformations of Dieter Roth’s 2015 reconstruction of Marcion’s Gospel to be published. The first dataset consists of human-readable Postclassical Greek, while the second lemmatizes and morphologically tags the text according to the openly licensed BibleWorks Greek Morphology schema. Among several recent critical reconstructions of Marcion’s Gospel, Roth’s has gained the most acceptance among scholars. These datasets represent the second batch in a series of normalized and enriched datasets of major reconstructions of Marcion’s Gospel published by JOHD, Harnack’s public domain work being the basis of the first.\n Published on 2021-11-12 10:05:28",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.57",
+          "publishedOn": "2021-11-15T12:10:00.567Z",
+          "wordCount": 3102,
+          "title": "Normalized Datasets of Roth’s Reconstruction of Marcion’s <i>Gospel</i>"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.55",
           "author": null,
@@ -4923,15 +4883,6 @@
           "publishedOn": "2021-05-24T11:40:00.000Z",
           "wordCount": 1231,
           "title": "La poética dramática desde una perspectiva cuantitativa: la obra de Calderón de la Barca"
-        },
-        {
-          "id": "https://www.degruyter.com/view/book/9783110689112/10.1515/9783110689112-008.xml",
-          "author": "Author on Source",
-          "description": "Introduction: Digital Literary Studies has long engaged with the challenges in representing ambiguity, contradiction and polyvocal readings of literary texts. This book chapter describes a web-based tool called CATMA which  promises a \"low-threshold\" approach to digitally encoded text interpretation. CATMA has a long trajectory based on a 'standoff' approach to markup, somewhat provocatively described by its creators as \"undogmatic\", which stands in contrast to more established systems for text representation in digital scholarly editing and publishing such as XML markup, or the Text Encoding Initiative (TEI). Standoff markup involves applying numbers to each character of a text and then using those numbers as identifiers to store interpretation externally. This approach allows for \"multip…",
-          "link": "https://openmethods.dariah.eu/2021/05/17/undogmatic-literary-annotation-with-catma-in-annotations-in-scholarly-editions-and-research/",
-          "publishedOn": "2021-05-17T05:46:00.000Z",
-          "wordCount": 1693,
-          "title": "Undogmatic Literary Annotation with CATMA in: Annotations in Scholarly Editions and Research"
         }
       ]
     },
@@ -5780,24 +5731,6 @@
           "publishedOn": "2021-05-25T13:14:07.000Z",
           "wordCount": 543,
           "title": "Event: ReproducibiliTea@KULeuven journal club on open data"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=526",
-          "author": "Hanna Van Heesvelde",
-          "description": "The project Arabic Collections Online (ACO) is an online library specialized in providing Open Access to Arabic books and manuscripts in several scientific domains. ACO started its digitization project with the aim of providing free and global access to Arabic language content, which is currently not widely available. The project already offers access to over 16.000 volumes, however the goal of the project is to digitize 23.000 Arabic volumes. The topics range from philosophy and religion to political sciences and...",
-          "link": "https://scholarlytales.hcommons.org/2021/05/18/arabic-collections-online-aco/",
-          "publishedOn": "2021-05-18T08:46:55.000Z",
-          "wordCount": 644,
-          "title": "Arabic Collections Online (ACO)"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=671",
-          "author": "Laura Mesotten",
-          "description": "On 2 and 4 June, LIBER (Ligue des Bibliothèques Européennes de Recherche – Association of European Research Libraries) will organize a Citizen Science workshop at KU Leuven. The workshop will be of a highly participatory nature, with participants required to work in small groups during their own time. The first session will take place on the 2nd of June from 10.00-11.30 (CEST), followed by a second session on the 4th of June from 14.00-15.30 (CEST). Important to note: once registered, you are required to...",
-          "link": "https://scholarlytales.hcommons.org/2021/05/17/event-integrating-citizen-science-at-universities-from-what-to-how/",
-          "publishedOn": "2021-05-17T07:08:13.000Z",
-          "wordCount": 709,
-          "title": "Event: Integrating Citizen Science at Universities: From ‘What’ to ‘How’"
         }
       ]
     },
@@ -6482,6 +6415,15 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5616 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "CLARIN Café on Text and Data Mining Exceptions in the Directive on Copyright in the Digital Single Market\n\n            \n\n \nAbout\nThe CLARIN Café on Text and Data Mining (TDM) Exceptions in the Directive on Copyright in the Digital Single Market (DSM Directive) took place via Zoom on 28th October 2021 and was organized by the CLARIN Legal and Ethical Issues Committee (CLIC). It was attended by 25 participants, including language researchers and legal experts from both CLARIN institutions and the private sector. The aim of the event was to discuss the recent reform of EU copyright law, and its impact on language resources and language technology in selected EU Member States. It featured presentations by Paweł Kamocki, chair of the CLIC and legal expert from IDS Mannheim, and Jan Hajič, profe…",
+          "link": "https://www.clarin.eu/blog/clarin-cafe-text-and-data-mining-exceptions-directive-copyright-digital-single-market",
+          "publishedOn": "2021-11-12T11:01:28.000Z",
+          "wordCount": 804,
+          "title": "CLARIN Café on Text and Data Mining Exceptions in the Directive on Copyright in the Digital Single Market"
+        },
+        {
           "id": "5614 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
           "description": "Digital Language Equality 2030: Implications for Libraries, Collections, and their Users. The Visions of the ELE Project\n\n            \nThe ELE Project is organising the workshop ‘Digital Language Equality 2030: Implications for Libraries, Collections, and their Users’ on 18 November 2021.\nIn this online workshop, you will hear speakers from the ELE project and practitioners working with language technology. They will provide an overview of what the ELE project is trying to achieve and what a future entailing language equality throughout Europe looks like. Participating in this session will also give you the opportunity to share what impact this could have on your institution, its services, collection, and users.\nThe workshop is designed to achieve two main objectives: (1) to familiarise th…",
@@ -6650,6 +6592,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1442 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The Digital Repository of Ireland (DRI) is delighted to announce the winners of the DRI Community Archive Scheme 2022 – Tulsk History Society and Bray Arts.",
+          "link": "https://www.dri.ie/dri-announces-winners-dri-community-archive-scheme-2022",
+          "publishedOn": "2021-11-12T09:31:30.000Z",
+          "wordCount": 1731,
+          "title": "DRI Announces Winners of the DRI Community Archive Scheme 2022"
+        },
         {
           "id": "1441 at https://www.dri.ie",
           "author": "ainemadden",

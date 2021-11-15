@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-11-12T08:13:31.555Z</updated>
+    <updated>2021-11-15T12:10:06.416Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -39,6 +39,27 @@ Digiandmed kultuuripärandi teenistuses - töötuba ja häkaton, 24-25.11.2021
  Loe lähemalt Digital Data in the Service of Cultural Heritage - workshop and hackathon kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Normalized Datasets of Roth’s Reconstruction of Marcion’s <i>Gospel</i>]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.57</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.57"/>
+        <updated>2021-11-15T12:10:00.567Z</updated>
+        <summary type="html"><![CDATA[These two datasets are the first normalized, peer-reviewed, and lexicographically enriched transformations of Dieter Roth’s 2015 reconstruction of Marcion’s Gospel to be published. The first dataset consists of human-readable Postclassical Greek, while the second lemmatizes and morphologically tags the text according to the openly licensed BibleWorks Greek Morphology schema. Among several recent critical reconstructions of Marcion’s Gospel, Roth’s has gained the most acceptance among scholars. These datasets represent the second batch in a series of normalized and enriched datasets of major reconstructions of Marcion’s Gospel published by JOHD, Harnack’s public domain work being the basis of the first.
+ Published on 2021-11-12 10:05:28]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Advert: Digital Humanities Lecturer/Associate Professor]]></title>
+        <id>https://blogs.ucl.ac.uk/dh/?p=8227</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/11/15/job-advert-digital-humanities-lecturer-associate-professor/"/>
+        <updated>2021-11-15T09:41:38.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Information Studies at UCL is currently advertising a permanent post, Lecturer/Associate Professor in Digital Humanities. The closing date for application is 21 November 2021. Please email Professor Elizabeth Shepherd for any questions related to the post at e.shepherd@ucl.ac.uk Full details: https://www.jobs.ac.uk/job/CKK702/lecturer-associate-professor-in-digital-humanities]]></summary>
+        <author>
+            <name>Adam Crymble</name>
         </author>
     </entry>
     <entry>
@@ -89,6 +110,116 @@ Digiandmed kultuuripärandi teenistuses - töötuba ja häkaton, 24-25.11.2021
         <summary type="html"><![CDATA[A review of Digitizing Rochester's Religions, a public history project on religious communities in Rochester, New York, directed by Margarita S. Guillory and Daniel Gorman, Jr.]]></summary>
         <author>
             <name>Jonathan D. Lawrence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neue DHd-AG &quot;Spiele&quot; gegründet]]></title>
+        <id>node/734</id>
+        <link href="https://dig-hum.de/aktuelles/neue-dhd-ag-spiele-gegr%C3%BCndet"/>
+        <updated>2021-11-14T18:10:57.000Z</updated>
+        <summary type="html"><![CDATA[Wir freuen uns sehr, die Gründung einer neuen DHd-AG namens "Spiele" bekannt geben zu dürfen.
+Die AG „Spiele“ will das Thema Spiele in all seinen Ausformungen mit Methoden,…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: Wissenschaftliches Volontariat (Kulturstiftung des Bundes, Halle/Saale)]]></title>
+        <id>node/731</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-wissenschaftliches-volontariat-kulturstiftung-des-bundes-hallesaale"/>
+        <updated>2021-11-13T17:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Die Kulturstiftung des Bundes mit Sitz in Halle an der Saale bietet zum 01.02.2022 ein wissenschaftliches Volontariat (m/w/d, Vollzeit) an.
+Die Kulturstiftung des Bundes (KSB)…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: WMA (m/w/d) &quot;Konzeption eines gemeinsamen Datenraumes&quot; (Museum Wiesbaden)]]></title>
+        <id>node/730</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-wma-mwd-konzeption-eines-gemeinsamen-datenraumes-museum-wiesbaden"/>
+        <updated>2021-11-13T17:03:07.000Z</updated>
+        <summary type="html"><![CDATA[Der Mandant Historisches Erbe Hessen, in dem die Landesmuseen Darmstadt und Wiesbaden, die Museumslandschaft Hessen Kassel, die Staatlichen Schlösser und Gärten Hessen sowie das…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebote im Bauhaus-Archiv / Museum für Gestaltung (Berlin)]]></title>
+        <id>node/729</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebote-im-bauhaus-archiv-museum-f%C3%BCr-gestaltung-berlin"/>
+        <updated>2021-11-13T16:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Im Bauhaus-Archiv - Museum für Gestaltung sind aktuell zwei Stellen ausgeschrieben:
+Stellenausschreibung Projektleiter*in Digitales Bauhaus-Archiv
+Stellenausschreibung…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: MitarbeiterIn für Sachgebiet Projektprüfung (Kulturstiftung des Bundes, Halle/Saale)]]></title>
+        <id>node/728</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-mitarbeiterin-f%C3%BCr-sachgebiet-projektpr%C3%BCfung-kulturstiftung-des-bundes"/>
+        <updated>2021-11-13T15:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Die Kulturstiftung des Bundes mit Sitz in Halle an der Saale sucht ab 01.01.2022 eine/n Mitarbeiter/in für das Sachgebiet Projektprüfung (m/w/d, Vollzeit, Entgeltgruppe 6 TVöD…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: WMA im DH-Bereich an der Leopoldina (Halle/Saale)]]></title>
+        <id>node/727</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-wma-im-dh-bereich-der-leopoldina-hallesaale"/>
+        <updated>2021-11-12T16:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Die 1652 gegründete Deutsche Akademie der Naturforscher Leopoldina ist mit ihren rund 1.600 Mitgliedern aus nahezu allen Wissenschaftsbereichen eine klassische…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAA 2022 Update]]></title>
+        <id>https://sites.caa-international.org/main/?p=15750</id>
+        <link href="https://caa-international.org/2021/11/12/caa-2022-update/"/>
+        <updated>2021-11-12T13:45:57.000Z</updated>
+        <summary type="html"><![CDATA[The CAA 2022 conference, which is planned for Oxford, will be held next summer rather than the typical spring period. Given the continuing uncertainty with the Covid-19 pandemic and the potential for ongoing travel restrictions, we hope to offer a … Continue reading →]]></summary>
+        <author>
+            <name>Jeffrey Glover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“From Dead-ends into Gateways”: Interview with Dr. Nathan P. Gibson about Syriaca.org, 2nd and Final Part]]></title>
+        <id>http://digitalorientalist.com/?p=6964</id>
+        <link href="https://digitalorientalist.com/2021/11/12/interview-with-dr-nathan-p-gibson-about-syriaca-org-part-2/"/>
+        <updated>2021-11-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the second part of a series of posts by the Digital Orientalist’s Syriac Studies Editor, Ephrem Ishac, based …]]></summary>
+        <author>
+            <name>Ephrem A. Ishac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARIN Café on Text and Data Mining Exceptions in the Directive on Copyright in the Digital Single Market]]></title>
+        <id>5616 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/clarin-cafe-text-and-data-mining-exceptions-directive-copyright-digital-single-market"/>
+        <updated>2021-11-12T11:01:28.000Z</updated>
+        <summary type="html"><![CDATA[CLARIN Café on Text and Data Mining Exceptions in the Directive on Copyright in the Digital Single Market
+
+            
+
+ 
+About
+The CLARIN Café on Text and Data Mining (TDM) Exceptions in the Directive on Copyright in the Digital Single Market (DSM Directive) took place via Zoom on 28th October 2021 and was organized by the CLARIN Legal and Ethical Issues Committee (CLIC). It was attended by 25 participants, including language researchers and legal experts from both CLARIN institutions and the private sector. The aim of the event was to discuss the recent reform of EU copyright law, and its impact on language resources and language technology in selected EU Member States. It featured presentations by Paweł Kamocki, chair of the CLIC and legal expert from IDS Mannheim, and Jan Hajič, profe…]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Announces Winners of the DRI Community Archive Scheme 2022]]></title>
+        <id>1442 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-announces-winners-dri-community-archive-scheme-2022"/>
+        <updated>2021-11-12T09:31:30.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce the winners of the DRI Community Archive Scheme 2022 – Tulsk History Society and Bray Arts.]]></summary>
+        <author>
+            <name>ainemadden</name>
         </author>
     </entry>
     <entry>
@@ -9652,222 +9783,6 @@ The post Job: Collaboratrice/teur scientifique Stratégie pour le FNS appeared f
 The post Job: Collaboratrice/teur scientifique Stratégie pour le FNS appeared first on dhcenter.]]></summary>
         <author>
             <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CFP] SUMAC 2021 - 3rd Edition]]></title>
-        <id>discourse.computational-humanities-research.org-topic-818</id>
-        <link href="https://discourse.computational-humanities-research.org/t/cfp-sumac-2021-3rd-edition/818"/>
-        <updated>2021-05-19T21:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Call for Papers - SUMAC 2021
-The 3rd workshop on Structuring and Understanding of Multimedia heritAge Contents
-In conjunction with ACM Multimedia 2021, 20 - 24 October 2020, Chengdu, China
-Workshop: SUMAC Workshop 2021
-https://2021.acmmm.org
-Aims and scope
-The digitization of large quantities of analogue data and the massive production of born-digital
-The objective of the third edition of this workshop is to present and discuss the latest and
-Multimedia and cross-domain data interlinking and recommendation
-Dating and spatialization of historical data
-Mixed media data access and indexing
-Deep learning in adverse conditions (transfer learning, learning with side information,etc.)
-Multi-modal time series analysis, evolution modeling
-Multi-modal & multi-temporal data rendering
-Heritage - Building Information Modeling, Art
-HCI / Interfaces for large-scale datasets
-Smart digitization of massive quantities of data
-Bench-marking, Open Data Movement
-Generative modeling of cultural heritage
-Important dates
-Paper submission: 30 July 2021 (11:59 p.m. AoE)
-Author acceptance notification: 26 August 2021
-Camera-Ready: 2 September 2021
-Workshop date: 20 or 24 October 2021 (TBA)
-Submission guidelines
-Submission format. All submissions must be original work not under review at any other
-ACM Multimedia 2021 .
-Peer Review and publication in ACM Digital Library. Paper submissions must conform
-Organizers
-Valerie Gouet-Brunet (LaSTIG Lab / IGN - Gustave Eiffel University, France)
-Looking forward to seeing you in Chengdu (virtually or not)!
-2 posts - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>rkosti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*#Bayle**Group @Hel­sinki Centre for Di­gital Hu­man­it­ies]]></title>
-        <id>discourse.computational-humanities-research.org-topic-817</id>
-        <link href="https://discourse.computational-humanities-research.org/t/bayle-group-hel-sinki-centre-for-di-gital-hu-man-it-ies/817"/>
-        <updated>2021-05-19T12:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Day 1 at Hel­sinki Centre for Di­gital Hu­man­it­ies — The 18th century witnessed the publication of several Encyclopedias, most unique among them is Pierre Bayle’s Dictionnaire Historique et Critique (in English, the Historical and Critical Dictionary). #DHH21 hackathon #Bayle group is currently exploring the differences between the 3 English translated editions of this text.
-https://lnkd.in/dffnQCP
-#18thcenturyEuropeanhistory #literature
-#lexicography
-#digitalhumanities
-#naturallanguageprocessing
-#computationalthinking
-#textanalysis
-#language #research #datascience
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>Sagaust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Makers: Women Artists in the Early Modern Courts]]></title>
-        <id>https://adhc.lib.ua.edu/?p=730</id>
-        <link href="https://adhc.lib.ua.edu/global-makers/"/>
-        <updated>2021-05-18T19:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Global Makers: Women Artists in the Early Modern Courts is intended to encourage and support sustained, interdisciplinary consideration of the...]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Civil War & Reconstruction Governors of Alabama]]></title>
-        <id>https://adhc.lib.ua.edu/?p=727</id>
-        <link href="https://adhc.lib.ua.edu/cwrga/"/>
-        <updated>2021-05-18T19:49:33.000Z</updated>
-        <summary type="html"><![CDATA[The Civil War and Reconstruction Era was a period of great change and strife for the state of Alabama and the nation.  Documents included...]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alabama Shakespeare Project]]></title>
-        <id>https://adhc.lib.ua.edu/?p=724</id>
-        <link href="https://adhc.lib.ua.edu/alabama-shakespeare-project/"/>
-        <updated>2021-05-18T19:47:53.000Z</updated>
-        <summary type="html"><![CDATA[The Alabama Shakespeare Project (ASP) is a performance-based research collective exploring early modern entertainments. To do so, we  stage free...]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comic Relief]]></title>
-        <id>https://adhc.lib.ua.edu/?p=722</id>
-        <link href="https://adhc.lib.ua.edu/comic-relief/"/>
-        <updated>2021-05-18T19:45:46.000Z</updated>
-        <summary type="html"><![CDATA[The Italian Program in the Department of Modern Languages and Classics at The University of Alabama presents an online seminar...]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journal of a Pandemic Year]]></title>
-        <id>https://adhc.lib.ua.edu/?p=720</id>
-        <link href="https://adhc.lib.ua.edu/journal-of-a-pandemic-year/"/>
-        <updated>2021-05-18T19:44:51.000Z</updated>
-        <summary type="html"><![CDATA[This is a digital museum to accompany Drs. Margaret Peacock and Erik L. Peterson’s forthcoming book Journal of a Pandemic...]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Religion & Science: Creating Health in 19th Century U.S.]]></title>
-        <id>https://adhc.lib.ua.edu/?p=717</id>
-        <link href="https://adhc.lib.ua.edu/rel120/"/>
-        <updated>2021-05-18T19:43:30.000Z</updated>
-        <summary type="html"><![CDATA[In Spring 2021, Dr. Jeri Wieringa’s REL120 class created a course website featuring exhibits and mapping to study religion and...]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSC344]]></title>
-        <id>https://adhc.lib.ua.edu/?p=715</id>
-        <link href="https://adhc.lib.ua.edu/psc344-the-israel-palestine-conflict/"/>
-        <updated>2021-05-18T19:40:52.000Z</updated>
-        <summary type="html"><![CDATA[This project was created to showcase Dr. Daniel Levine’s Fall 2020 PSC344.001 – The Israel/Palestine Conflict course to showcase his...]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arabic Collections Online (ACO)]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=526</id>
-        <link href="https://scholarlytales.hcommons.org/2021/05/18/arabic-collections-online-aco/"/>
-        <updated>2021-05-18T08:46:55.000Z</updated>
-        <summary type="html"><![CDATA[The project Arabic Collections Online (ACO) is an online library specialized in providing Open Access to Arabic books and manuscripts in several scientific domains. ACO started its digitization project with the aim of providing free and global access to Arabic language content, which is currently not widely available. The project already offers access to over 16.000 volumes, however the goal of the project is to digitize 23.000 Arabic volumes. The topics range from philosophy and religion to political sciences and...]]></summary>
-        <author>
-            <name>Hanna Van Heesvelde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Article: Maps of a Nation]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=1881</id>
-        <link href="https://livingwithmachines.ac.uk/new-article-maps-of-a-nation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-article-maps-of-a-nation"/>
-        <updated>2021-05-17T19:46:00.000Z</updated>
-        <summary type="html"><![CDATA[We have published a new Open Access article in the Journal of Victorian Culture about using Computer Vision with historical maps. ‘Maps of a Nation?’ describes our Computer Vision pipeline for working with thousands of maps at once, which enables new forms of historical inquiry based on spatial analysis. The Ordnance Survey has been the […]]]></summary>
-        <author>
-            <name>Katie McDonough</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing distributions]]></title>
-        <id>discourse.computational-humanities-research.org-topic-816</id>
-        <link href="https://discourse.computational-humanities-research.org/t/comparing-distributions/816"/>
-        <updated>2021-05-17T10:14:29.000Z</updated>
-        <summary type="html"><![CDATA[For a paper I’m currently working on, I’m dealing with several types of Gaussian distributions that signal to onset and decay of an event. Events can have a slow onset and slow decay, resulting in a wide distribution, or they can have a fast onset and slow decay or vice versa. I’m exploring different ways to compare these distributions.
-comparing the entropy of the distribution, which gives a general statistic
-comparing the (linear) slopes of either side of distribution
-calculating the skewness and kurtosis of the distributions.
-I was wondering if others had pointers and possible feedback on the proposed methods.
-5 posts - 3 participants
-Read full topic]]></summary>
-        <author>
-            <name>melvin.wevers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UDante Treebank in UD 2.8]]></title>
-        <id>https://lila-erc.eu/?p=2591</id>
-        <link href="https://lila-erc.eu/udante-ud-2-8/"/>
-        <updated>2021-05-17T10:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Dataset: UDante Treebank
-Release date: 15th May 2021
-Website: https://universaldependencies.org/treebanks/la_udante/index.html
-GitHub: https://github.com/UniversalDependencies/UD_Latin-UDante
-The post UDante Treebank in UD 2.8 appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>lila-admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UDante Treebank in UD 2.8]]></title>
-        <id>https://lila-erc.eu/?p=2591</id>
-        <link href="https://lila-erc.eu/udante-ud-2-8/"/>
-        <updated>2021-05-17T10:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Dataset: UDante Treebank
-Release date: 15th May 2021
-Website: https://universaldependencies.org/treebanks/la_udante/index.html
-GitHub: https://github.com/UniversalDependencies/UD_Latin-UDante
-The post UDante Treebank in UD 2.8 appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>lila-admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event: Integrating Citizen Science at Universities: From ‘What’ to ‘How’]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=671</id>
-        <link href="https://scholarlytales.hcommons.org/2021/05/17/event-integrating-citizen-science-at-universities-from-what-to-how/"/>
-        <updated>2021-05-17T07:08:13.000Z</updated>
-        <summary type="html"><![CDATA[On 2 and 4 June, LIBER (Ligue des Bibliothèques Européennes de Recherche – Association of European Research Libraries) will organize a Citizen Science workshop at KU Leuven. The workshop will be of a highly participatory nature, with participants required to work in small groups during their own time. The first session will take place on the 2nd of June from 10.00-11.30 (CEST), followed by a second session on the 4th of June from 14.00-15.30 (CEST). Important to note: once registered, you are required to...]]></summary>
-        <author>
-            <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undogmatic Literary Annotation with CATMA in: Annotations in Scholarly Editions and Research]]></title>
-        <id>https://www.degruyter.com/view/book/9783110689112/10.1515/9783110689112-008.xml</id>
-        <link href="https://openmethods.dariah.eu/2021/05/17/undogmatic-literary-annotation-with-catma-in-annotations-in-scholarly-editions-and-research/"/>
-        <updated>2021-05-17T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: Digital Literary Studies has long engaged with the challenges in representing ambiguity, contradiction and polyvocal readings of literary texts. This book chapter describes a web-based tool called CATMA which  promises a "low-threshold" approach to digitally encoded text interpretation. CATMA has a long trajectory based on a 'standoff' approach to markup, somewhat provocatively described by its creators as "undogmatic", which stands in contrast to more established systems for text representation in digital scholarly editing and publishing such as XML markup, or the Text Encoding Initiative (TEI). Standoff markup involves applying numbers to each character of a text and then using those numbers as identifiers to store interpretation externally. This approach allows for "multip…]]></summary>
-        <author>
-            <name>Author on Source</name>
         </author>
     </entry>
 </feed>
