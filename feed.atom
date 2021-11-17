@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-11-16T08:13:43.599Z</updated>
+    <updated>2021-11-17T08:13:32.345Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -39,6 +39,75 @@ Digiandmed kultuuripärandi teenistuses - töötuba ja häkaton, 24-25.11.2021
  Loe lähemalt Digital Data in the Service of Cultural Heritage - workshop and hackathon kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macromap: Interactive Maps in Time]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=2132</id>
+        <link href="https://livingwithmachines.ac.uk/macromap-interactive-maps-in-time/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=macromap-interactive-maps-in-time"/>
+        <updated>2021-11-16T16:51:01.000Z</updated>
+        <summary type="html"><![CDATA[In this blogpost we introduce ‘Macromap’: an interactive ‘small multiples’ visualisation for historical map collections. How can we get a handle on very large, partially-digitised collections of maps? We need a map of the maps. Macromap is designed to help researchers understand what map sheets the British Ordnance Survey (OS) made, when and where. It […]]]></summary>
+        <author>
+            <name>Olivia Vane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions about CHR2021?]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1580</id>
+        <link href="https://discourse.computational-humanities-research.org/t/questions-about-chr2021/1580"/>
+        <updated>2021-11-16T13:55:57.000Z</updated>
+        <summary type="html"><![CDATA[If you have any questions about CHR2021 or run into certain issues, please let us know here. You can also send a PM to one of the @moderators.
+3 posts - 2 participants
+Read full topic]]></summary>
+        <author>
+            <name>folgert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本語論文誌『デジタル・ヒューマニティーズ』第三号投稿募集のお知らせ]]></title>
+        <id>67 at https://www.jadh.org</id>
+        <link href="https://www.jadh.org/node/67"/>
+        <updated>2021-11-16T12:04:51.000Z</updated>
+        <summary type="html"><![CDATA[日本語論文誌『デジタル・ヒューマニティーズ』では、2022年2月28日を締切りとして、第三号の投稿を募集いたします。
+投稿の要領等については以下のURLをご覧ください。
+バックナンバー・投稿要領等：
+https://www.jadh.org/jjdh
+投稿先サイト：
+https://journals.jadh.org/index.php/jjdh
+みなさまの投稿を心よりお待ちいたしております。]]></summary>
+        <author>
+            <name>adminweb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building DH Infrastructure for the Study of Asia, Middle East, and Africa:  How they do it in France]]></title>
+        <id>http://digitalorientalist.com/?p=7040</id>
+        <link href="https://digitalorientalist.com/2021/11/16/building-dh-infrastructure-for-the-study-of-asia-middle-east-and-africa-how-they-do-it-in-france/"/>
+        <updated>2021-11-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure in academia is what gives cohesion to a subject. It is a meeting place you know you can go …]]></summary>
+        <author>
+            <name>Cornelis van Lit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Fellow vacancies for The Sloane Lab]]></title>
+        <id>https://blogs.ucl.ac.uk/dh/?p=8229</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2021/11/16/rf-sloane-lab/"/>
+        <updated>2021-11-16T11:36:09.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Information Studies at UCL is are seeking to appoint two Research Fellows to contribute to project “The Sloane Lab: Looking back to build future shared collections”, led by UCL in partnership with the British Museum and Natural History Museum. The Sloane Lab project has been funded under the ‘Towards a National Collection’ […]]]></summary>
+        <author>
+            <name>Lucy Stagg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unearthing and Decolonising the Rasta Voice]]></title>
+        <id>https://review.gale.com/?p=13049</id>
+        <link href="https://review.gale.com/2021/11/16/unearthing-the-rasta-voice/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unearthing-the-rasta-voice"/>
+        <updated>2021-11-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[| By Robert Youngs do Patrocinio, Gale Ambassador at University College London| This post will focus on raising awareness of the Rasta struggle to practise their religion, principally using Gale’s Archives Unbound collections, an extensive database of primary sources included in Gale Reference Complete that many university students such as myself can utilise when conducting ... Read more
+The post Unearthing and Decolonising the Rasta Voice appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Ambassadors</name>
         </author>
     </entry>
     <entry>
@@ -9689,45 +9758,6 @@ Der Beitrag vDHd2021 bei RaDiHum20: Simple Image Presentation Interface (SIPI) �
         <summary type="html"><![CDATA[The International Society for Computer Applications and Quantitative Methods in Archaeology (CAA) represents researchers, professionals and students working in diverse capacities to bring together the strengths of digital, computational and quantitative methods with creative, critical and impactful archaeological and heritage … Continue reading →]]></summary>
         <author>
             <name>Jeffrey Glover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer-based Text and Discourse Analysis]]></title>
-        <id>32937 at http://digihum.ut.ee</id>
-        <link href="http://digihum.ut.ee/event/computer-based-text-and-discourse-analysis"/>
-        <updated>2021-05-21T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Asukoht: 
-
-Zoom
-
-
-
-Järgmisel reedel, 21. mail, kl 10.15 -12 (zoomis) tutvustab Tartu Ülikooli maailma keelte ja kultuuride kolledži võõrkeelte erialase digipädevuse arendamise projekti raames Laurent Vanni, (...
- Loe lähemalt Computer-based Text and Discourse Analysis kohta]]></summary>
-        <author>
-            <name>a71389</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research institute aims to bring diverse ‘new storytellers’ to digital scholarship]]></title>
-        <id>2638 at https://cdrh.unl.edu</id>
-        <link href="https://cdrh.unl.edu/research-institute-aims-bring-diverse-%E2%80%98new-storytellers%E2%80%99-digital-scholarship"/>
-        <updated>2021-05-21T05:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: 
-
-
-
-
-Link: 
-
-Research institute aims to bring diverse ‘new storytellers’ to digital scholarship
-
-
-
-The University of Nebraska–Lincoln is preparing to welcome 23 emerging scholars from minority-serving institutions for an intensive, interdisciplinary institute that will explore the platforms, tools, designs and ethical questions surrounding digital humanities projects in ethnic studies.
-“New Storytellers: The Research Institute in Digital Ethnic Studies” will begin May 24 and be held virtually over 10 weeks. It is one of the only digital humanities research institutes in the United States focused on digital research in ethnic studies. It was made possible by grant funding from the American Council of Learned Societies and support from the Center for Digital Research in the Humanities…]]></summary>
-        <author>
-            <name>Anonymous</name>
         </author>
     </entry>
 </feed>
