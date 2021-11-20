@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-11-19T08:13:55.284Z</updated>
+    <updated>2021-11-20T08:13:16.901Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -39,6 +39,77 @@ Digiandmed kultuuripärandi teenistuses - töötuba ja häkaton, 24-25.11.2021
  Loe lähemalt Digital Data in the Service of Cultural Heritage - workshop and hackathon kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stipendien für die DHd2022]]></title>
+        <id>node/736</id>
+        <link href="https://dig-hum.de/aktuelles/stipendien-f%C3%BCr-die-dhd2022"/>
+        <updated>2021-11-19T20:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Zur DHd2022 in Potsdam vergeben der Verband »Digital Humanities im deutschsprachigen Raum e.V.«, das Konsortium »NFDI4Culture«, der Verein »Geistes- und kulturwissenschaftliche…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPFL: Jupyter Notebooks: interactive, digital tools for better learning]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=8821</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2021/11/19/jupyter-notebooks-interactive-digital-tools-for-better-learning/"/>
+        <updated>2021-11-19T13:51:29.000Z</updated>
+        <summary type="html"><![CDATA[Jupyter Notebooks are digital tools that have become indispensable in a number of disciplines taught at EPFL. Both students and teachers alike appreciate the Notebooks’ flexibility and interactive features. Thanks to Jupyter Notebooks, students can solve structural engineering problems by watching structural deformation as it happens, understand signal processing with the help of sounds, music […]
+The post EPFL: Jupyter Notebooks: interactive, digital tools for better learning appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Celia Luterbacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Chinese Prêt-à-porter. A double-edged sword.]]></title>
+        <id>http://digitalorientalist.com/?p=7089</id>
+        <link href="https://digitalorientalist.com/2021/11/19/old-chinese-pret-a-porter-a-double-edged-sword/"/>
+        <updated>2021-11-19T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes I miss watching movies with commercial interruptions, at the theater or on television. Not only were they a great …]]></summary>
+        <author>
+            <name>maddalena poli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B-Centre Re-Certification of TalkBank]]></title>
+        <id>5618 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/b-centre-re-certification-talkbank"/>
+        <updated>2021-11-19T11:10:21.000Z</updated>
+        <summary type="html"><![CDATA[B-Centre Re-Certification of TalkBank
+
+            
+We are pleased to announce that TalkBank CLARIN Knowledge Centre at Carnegie Mellon University (Pennsylvania, USA) has been successfully re-assessed as a CLARIN B-centre and has received a renewed B-centre certificate.
+TalkBank is a project coordinated by Professor Brian MacWhinney, and is hosted at Carnegie Mellon University (Pittsburgh, Pennsylvania). TalkBank’s goal is to promote and enable research on human communication, with a specific focus on the cognitive, neurological, developmental, and social underpinnings of language processing. To this end, TalkBank provides (spoken) language resources for researchers and clinicians interested in communication. Hundreds of researchers have contributed to the data in TalkBank, and its resourc…]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHR 2021 – Questionnaire]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1732</id>
+        <link href="https://discourse.computational-humanities-research.org/t/chr-2021-questionnaire/1732"/>
+        <updated>2021-11-19T09:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Dear CHR’ers,
+please help us to improve CHR and tell us who you are and what you would like to see at future CHR conferences! It takes only 5 minutes – thx!
+https://forms.gle/vbrvPwcgzGJecsGh9
+If you are interested in joining the CHR organizers and help us shape the next CHR conference, there is also a follow-up meeting to be announced some time after the conference. If you want to get involved, just leave a comment here.
+Best
+2 posts - 2 participants
+Read full topic]]></summary>
+        <author>
+            <name>Manuel_Burghardt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Study 1: The National Archives (UK)]]></title>
+        <id>https://www.aeolian-network.net/?p=387</id>
+        <link href="https://www.aeolian-network.net/case-study-1-the-national-archives-uk/"/>
+        <updated>2021-11-19T09:45:56.000Z</updated>
+        <summary type="html"><![CDATA[The first case study is written by Lise Jaillant, Annalina Caputo, and Katherine Aske on The National Archives UK (TNA). The study examines TNA’s current strategies, projects and policies concerning the use of AI to make born-digital records more accessible. It also addresses other projects and current developments within the wider sector and internationally. In […]]]></summary>
+        <author>
+            <name>aeolian-admin</name>
         </author>
     </entry>
     <entry>
@@ -9936,27 +10007,6 @@ The post Job: cheffe ou chef du service numérique de la recherche pour l’INHA
         <summary type="html"><![CDATA[The Text Encoding Initiative Consortium (TEI-C) invites nominations for election to the TEI-C Board and the Technical Council. The following positions are vacant and up for election: TEI-C Board 2 members (for 3-year term) TEI-C Council 4 members (for 3-year term) 2 members (for 1-year term) Please submit your nominations to the TEI-C Board Nominating […]]]></summary>
         <author>
             <name>Martina Scholger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La poética dramática desde una perspectiva cuantitativa: la obra de Calderón de la Barca]]></title>
-        <id>http://revistas.uned.es/index.php/RHD/article/view/27716</id>
-        <link href="https://openmethods.dariah.eu/2021/05/24/la-poetica-dramatica-desde-una-perspectiva-cuantitativa-la-obra-de-calderon-de-la-barca/"/>
-        <updated>2021-05-24T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: In this paper, Ehrlicher et al. follow a quantitative approach to unveil possible structural parallelisms between 13 comedies and 10 autos sacramentales written by Calderón de la Barca. Comedies are analyzed within a comparative framework, setting them against Spanish comedia nueva and French comedie precepts. Authors employ tool DramaAnalysis and statistics for their examination, focusing on: word frequency per subgenre, average number of characters, their variation and discourse distribution, etc. Autos sacramentales are also evaluated through these indicators. Regarding comedies, Ehrlicher et al.’s results show that Calderón: a) plays with units of space and time depending on creative and dramatic needs, b) does not follow French comedie conventions of character intervention or linkage, but c) does abide by its concept of structural symmetry. As for autos sacramentales, their findings brought forth that these have a similar length and character variation to comedies. However, they also identified the next difference: Calderón uses character co-presence in them to reinforce the message conveyed. Considering all this, authors confirm that Calderón’s comedies disassociate from classical notions of theatre – both Aristotelian and French –ideals. With respect to autos sacramentales, they believe further evaluation would be needed to verify ideas put forward and identify other structural patterns.]]></summary>
-        <author>
-            <name>Author on Source</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vDHd2021 bei RaDiHum20: Simple Image Presentation Interface (SIPI) – Bilder IIIF kompatibel speichern und publizieren]]></title>
-        <id>https://radihum20.de/?p=449</id>
-        <link href="https://radihum20.de/sipi/"/>
-        <updated>2021-05-24T07:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Für diese Folge der vDHd2021 Sonderstaffel haben wir mit Julien A. Raemy vom Data & Service Center for the Humanities (DaSCH) in Basel gesprochen. Nach seiner Vorstellung präsentiert uns Julien ab Minute 1:46 das Konzept für seinen vDHd2021-Beitrag: Das DaSCH hat die Software SIPI entwickelt – das ist ein IIIF-fähiger Webserver und diese Software will […]
-Der Beitrag vDHd2021 bei RaDiHum20: Simple Image Presentation Interface (SIPI) – Bilder IIIF kompatibel speichern und publizieren erschien zuerst auf RaDiHum 20.]]></summary>
-        <author>
-            <name>Jonathan D. Geiger</name>
         </author>
     </entry>
 </feed>
