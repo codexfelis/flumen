@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-11-23T08:13:59.300Z</updated>
+    <updated>2021-11-24T08:13:23.906Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -39,6 +39,50 @@ Digiandmed kultuuripärandi teenistuses - töötuba ja häkaton, 24-25.11.2021
  Loe lähemalt Digital Data in the Service of Cultural Heritage - workshop and hackathon kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neue DHd-AG &quot;Empowerment&quot; gegründet]]></title>
+        <id>node/740</id>
+        <link href="https://dig-hum.de/aktuelles/neue-dhd-ag-empowerment-gegr%C3%BCndet"/>
+        <updated>2021-11-23T20:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Wir freuen uns sehr, die Gründung einer neuen DHd-AG namens "Empowerment" bekannt geben zu dürfen.
+Ziele der AG „Empowerment“
+In den letzten Jahren sind in der Wissenschaft…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An interview with Professor Sarah Savant about KITAB project, part 1]]></title>
+        <id>http://digitalorientalist.com/?p=7044</id>
+        <link href="https://digitalorientalist.com/2021/11/23/an-interview-with-professor-sarah-savant-about-kitab-project-part-1/"/>
+        <updated>2021-11-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KITAB project is developing a corpus of Arabic texts to which they apply digital methods in such a way that …]]></summary>
+        <author>
+            <name>Theodora Zampaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abstracts accepted at AIUCD 2022]]></title>
+        <id>https://lila-erc.eu/?p=2726</id>
+        <link href="https://lila-erc.eu/aiucd-2022/"/>
+        <updated>2021-11-23T09:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Publications
+The post Abstracts accepted at AIUCD 2022 appeared first on LiLa: Linking Latin.]]></summary>
+        <author>
+            <name>lila-admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abstracts accepted at AIUCD 2022]]></title>
+        <id>https://lila-erc.eu/?p=2726</id>
+        <link href="https://lila-erc.eu/aiucd-2022/"/>
+        <updated>2021-11-23T09:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Publications
+The post Abstracts accepted at AIUCD 2022 appeared first on LiLa: Linking Latin.]]></summary>
+        <author>
+            <name>lila-admin</name>
         </author>
     </entry>
     <entry>
@@ -125,6 +169,16 @@ The post Linked Pasts 7 proposal accepted appeared first on LiLa: Linking Latin.
         <summary type="html"><![CDATA[The Sloane Lab: Looking back to build future shared collections is one of 5 AHRC-funded research projects to connect the UK’s cultural artefacts and historical archives in new and transformative ways. The project features in an article, ‘Search for a digital national collection‘, published in the Financial Times today, 22nd November 2021. Professor Julianne Nyhan, […]]]></summary>
         <author>
             <name>Lucy Stagg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find research data repositories for the humanities – the data deposit recommendation service]]></title>
+        <id>https://link.springer.com/article/10.1007/s42803-021-00030-7</id>
+        <link href="https://openmethods.dariah.eu/2021/11/22/find-research-data-repositories-for-the-humanities-the-data-deposit-recommendation-service-springerlink/"/>
+        <updated>2021-11-22T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Finding  suitable research data repositories that best match the technical or legal requirements of your research data is not always an easy task. This paper, authored by Stephan Buddenbohm, Maaikew de Jong, Jean-Luc Minel  and Yoann Moranville showcase the demonstrator instance of the Data Deposit Recommendation Service (DDRS), an application built on top of the re3data database specifically for scholars working in the Humanities domain. The paper  also highlights further directions of developing the tool, many of which implicitly bring sustainability issues to the table.]]></summary>
+        <author>
+            <name>Author on Source</name>
         </author>
     </entry>
     <entry>
@@ -9870,28 +9924,6 @@ Der Beitrag vDHd2021 bei RaDiHum20: Datendokumentation für eine digitale Editio
         <summary type="html"><![CDATA[The Center for Research Data and Digital Scholarship at University of Pennsylvania Libraries, The Center for Digital Humanities at Princeton University Library, the Princeton Geniza Lab, and the Zooniverse present a series of conversations on project management and development, creation and use of data, and crowdsourcing platforms and research possibilities.]]></summary>
         <author>
             <name>Judaica DH at the Penn Libraries</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« Une fausse vérité peut-elle changer le monde ? » Épisode 6: Gabriel Dorthe]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=6798</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/05/28/fausse-verite-6-gabriel-dorthe/"/>
-        <updated>2021-05-28T06:59:22.000Z</updated>
-        <summary type="html"><![CDATA[Gabriel Dorthe – « Chemtrails » et géoingénierie solaire: questions sur une rencontre D’un côté, la géoingénierie solaire : une technologie visant à répandre des aérosols pour modifier artificiellement l’atmosphère, considérée, selon les points de vue, comme un « plan B » pour freiner le réchauffement climatique ou comme un délire de « solutionnisme » […]
-The post « Une fausse vérité peut-elle changer le monde ? » Épisode 6: Gabriel Dorthe appeared first on dhCenter.]]></summary>
-        <author>
-            <name>n.ulmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« Une fausse vérité peut-elle changer le monde ? » Épisode 6: Gabriel Dorthe]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=6798</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/05/28/fausse-verite-6-gabriel-dorthe/"/>
-        <updated>2021-05-28T06:59:22.000Z</updated>
-        <summary type="html"><![CDATA[Gabriel Dorthe – « Chemtrails » et géoingénierie solaire: questions sur une rencontre D’un côté, la géoingénierie solaire : une technologie visant à répandre des aérosols pour modifier artificiellement l’atmosphère, considérée, selon les points de vue, comme un « plan B » pour freiner le réchauffement climatique ou comme un délire de « solutionnisme » […]
-The post « Une fausse vérité peut-elle changer le monde ? » Épisode 6: Gabriel Dorthe appeared first on dhcenter.]]></summary>
-        <author>
-            <name>n.ulmi</name>
         </author>
     </entry>
 </feed>

@@ -2713,24 +2713,6 @@
           "publishedOn": "2021-05-31T08:40:50.000Z",
           "wordCount": 567,
           "title": "Une fausse vérité peut-elle changer le monde?/Can a fake truth change the world? – Capsules vidéo"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6798",
-          "author": "n.ulmi",
-          "description": "Gabriel Dorthe – « Chemtrails » et géoingénierie solaire: questions sur une rencontre D’un côté, la géoingénierie solaire : une technologie visant à répandre des aérosols pour modifier artificiellement l’atmosphère, considérée, selon les points de vue, comme un « plan B » pour freiner le réchauffement climatique ou comme un délire de « solutionnisme » […]\nThe post « Une fausse vérité peut-elle changer le monde ? » Épisode 6: Gabriel Dorthe appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/05/28/fausse-verite-6-gabriel-dorthe/",
-          "publishedOn": "2021-05-28T06:59:22.000Z",
-          "wordCount": 738,
-          "title": "« Une fausse vérité peut-elle changer le monde ? » Épisode 6: Gabriel Dorthe"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6798",
-          "author": "n.ulmi",
-          "description": "Gabriel Dorthe – « Chemtrails » et géoingénierie solaire: questions sur une rencontre D’un côté, la géoingénierie solaire : une technologie visant à répandre des aérosols pour modifier artificiellement l’atmosphère, considérée, selon les points de vue, comme un « plan B » pour freiner le réchauffement climatique ou comme un délire de « solutionnisme » […]\nThe post « Une fausse vérité peut-elle changer le monde ? » Épisode 6: Gabriel Dorthe appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/05/28/fausse-verite-6-gabriel-dorthe/",
-          "publishedOn": "2021-05-28T06:59:22.000Z",
-          "wordCount": null,
-          "title": "« Une fausse vérité peut-elle changer le monde ? » Épisode 6: Gabriel Dorthe"
         }
       ]
     },
@@ -3042,6 +3024,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/740",
+          "author": "406",
+          "description": "Wir freuen uns sehr, die Gründung einer neuen DHd-AG namens \"Empowerment\" bekannt geben zu dürfen.\nZiele der AG „Empowerment“\nIn den letzten Jahren sind in der Wissenschaft…",
+          "link": "https://dig-hum.de/aktuelles/neue-dhd-ag-empowerment-gegr%C3%BCndet",
+          "publishedOn": "2021-11-23T20:03:39.000Z",
+          "wordCount": 825,
+          "title": "Neue DHd-AG &quot;Empowerment&quot; gegründet"
+        },
         {
           "id": "node/739",
           "author": "406",
@@ -3580,6 +3571,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=7044",
+          "author": "Theodora Zampaki",
+          "description": "KITAB project is developing a corpus of Arabic texts to which they apply digital methods in such a way that …",
+          "link": "https://digitalorientalist.com/2021/11/23/an-interview-with-professor-sarah-savant-about-kitab-project-part-1/",
+          "publishedOn": "2021-11-23T13:00:00.000Z",
+          "wordCount": 2524,
+          "title": "An interview with Professor Sarah Savant about KITAB project, part 1"
+        },
         {
           "id": "http://digitalorientalist.com/?p=7089",
           "author": "maddalena poli",
@@ -4324,6 +4324,15 @@
       "siteUrl": "https://lila-erc.eu",
       "articles": [
         {
+          "id": "https://lila-erc.eu/?p=2726",
+          "author": "lila-admin",
+          "description": "Publications\nThe post Abstracts accepted at AIUCD 2022 appeared first on LiLa: Linking Latin.",
+          "link": "https://lila-erc.eu/aiucd-2022/",
+          "publishedOn": "2021-11-23T09:02:17.000Z",
+          "wordCount": 603,
+          "title": "Abstracts accepted at AIUCD 2022"
+        },
+        {
           "id": "https://lila-erc.eu/?p=2713",
           "author": "Rachele Sprugnoli",
           "description": "Conference: Linked Pasts 7\nDate: 13th-21st December 2021\nLocation: online\nThe post Linked Pasts 7 proposal accepted appeared first on LiLa: Linking Latin.",
@@ -4420,6 +4429,15 @@
       "feedUrl": "https://lila-erc.eu/news/feed/",
       "siteUrl": "https://lila-erc.eu",
       "articles": [
+        {
+          "id": "https://lila-erc.eu/?p=2726",
+          "author": "lila-admin",
+          "description": "Publications\nThe post Abstracts accepted at AIUCD 2022 appeared first on LiLa: Linking Latin.",
+          "link": "https://lila-erc.eu/aiucd-2022/",
+          "publishedOn": "2021-11-23T09:02:17.000Z",
+          "wordCount": 603,
+          "title": "Abstracts accepted at AIUCD 2022"
+        },
         {
           "id": "https://lila-erc.eu/?p=2713",
           "author": "Rachele Sprugnoli",
@@ -4811,6 +4829,15 @@
       "feedUrl": "https://openmethods.dariah.eu/feed/",
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
+        {
+          "id": "https://link.springer.com/article/10.1007/s42803-021-00030-7",
+          "author": "Author on Source",
+          "description": "Introduction: Finding  suitable research data repositories that best match the technical or legal requirements of your research data is not always an easy task. This paper, authored by Stephan Buddenbohm, Maaikew de Jong, Jean-Luc Minel  and Yoann Moranville showcase the demonstrator instance of the Data Deposit Recommendation Service (DDRS), an application built on top of the re3data database specifically for scholars working in the Humanities domain. The paper  also highlights further directions of developing the tool, many of which implicitly bring sustainability issues to the table.",
+          "link": "https://openmethods.dariah.eu/2021/11/22/find-research-data-repositories-for-the-humanities-the-data-deposit-recommendation-service-springerlink/",
+          "publishedOn": "2021-11-22T14:39:00.000Z",
+          "wordCount": 984,
+          "title": "Find research data repositories for the humanities – the data deposit recommendation service"
+        },
         {
           "id": "https://melaniewalsh.github.io/BERT-for-Humanists/tutorials/",
           "author": "Author on Source",
