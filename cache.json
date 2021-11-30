@@ -1185,6 +1185,24 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=8920",
+          "author": "Celia Luterbacher",
+          "description": "The COESO Project (Collaborative Engagement on Societal Issues) has two limited contract/freelance job openings, to be start as soon as possible: a Data Engineer/Data Scientist for data analytics and machine learning (ML) system design, and an NLP engineer and data scientist. The COESO Project’s mission is to “enable strong growth of citizen science projects in […]\nThe post Two job openings with the COESO project appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/30/two-job-openings-with-the-coeso-project/",
+          "publishedOn": "2021-11-30T11:22:04.000Z",
+          "wordCount": 925,
+          "title": "Two job openings with the COESO project"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=8904",
+          "author": "Celia Luterbacher",
+          "description": "The Lausanne Lab for Computational and Statistical Text Analysis invites paper submissions for the second edition of the Workshop on Computational Methods in the Humanities 2022 (COMHUM 2022), to be held on June 9 and 10 at the University of Lausanne (UNIL). The COMHUM workshop series positions itself as an international forum primarily devoted to […]\nThe post Workshop on Computational Methods in the Humanities 2022 appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/30/workshop-on-computational-methods-in-the-humanities-2022/",
+          "publishedOn": "2021-11-30T10:55:28.000Z",
+          "wordCount": 425,
+          "title": "Workshop on Computational Methods in the Humanities 2022"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=8885",
           "author": "Celia Luterbacher",
           "description": "The Collaborative Research on Science and Society (CROSS) program in EPFL’s College of Humanities (CDH) is pleased to announce that it will fund three research projects for the year 2022, all on the theme of responsible innovation. The CROSS program has awarded the funds to three interdisciplinary projects at EPFL and the University of Lausanne […]\nThe post CROSS funds three projects on responsible innovation appeared first on dhCenter.",
@@ -2722,24 +2740,6 @@
           "publishedOn": "2021-06-10T09:23:16.000Z",
           "wordCount": null,
           "title": "UNIL : UCreate3 call for projects"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6885",
-          "author": "Heloise schibler",
-          "description": "Cet article a été publié par l’EPFL le 2.06.2021. Une nouvelle recherche de l’EPFL a révélé qu’en Turquie, près de la moitié des sujets tendance publiés sur Twitter sont faux. Il s’agit d’une manipulation à grande échelle sans précédent. Pour la première fois, c’est aussi la preuve que de nombreuses tendances sont créées uniquement par […]\nThe post Manipulation à grande échelle des tendances Twitter appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/06/03/manipulation-a-grande-echelle-des-tendances-twitter/",
-          "publishedOn": "2021-06-03T10:08:36.000Z",
-          "wordCount": 960,
-          "title": "Manipulation à grande échelle des tendances Twitter"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=6885",
-          "author": "Heloise schibler",
-          "description": "Cet article a été publié par l’EPFL le 2.06.2021. Une nouvelle recherche de l’EPFL a révélé qu’en Turquie, près de la moitié des sujets tendance publiés sur Twitter sont faux. Il s’agit d’une manipulation à grande échelle sans précédent. Pour la première fois, c’est aussi la preuve que de nombreuses tendances sont créées uniquement par […]\nThe post Manipulation à grande échelle des tendances Twitter appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/06/03/manipulation-a-grande-echelle-des-tendances-twitter/",
-          "publishedOn": "2021-06-03T10:08:36.000Z",
-          "wordCount": 957,
-          "title": "Manipulation à grande échelle des tendances Twitter"
         }
       ]
     },
@@ -3616,6 +3616,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=7200",
+          "author": "DaigengnaDuoer",
+          "description": "A post by our guest contributor, Shruti Dixit, a Ph.D. candidate in the Divinity School at the University of St. …",
+          "link": "https://digitalorientalist.com/2021/11/30/what-we-hold-and-what-we-must-pass-on-a-review-of-digitization-of-manuscripts-at-ignca-in-india/",
+          "publishedOn": "2021-11-30T12:00:00.000Z",
+          "wordCount": 1961,
+          "title": "What We Hold and What We Must Pass On: A Review of Digitization of Manuscripts at IGNCA in India"
+        },
         {
           "id": "http://digitalorientalist.com/?p=7158",
           "author": "James Harry Morris",
@@ -4701,6 +4710,15 @@
       "siteUrl": "https://medium.com/@PelagiosNetwork?source=rss-f96d74f645aa------2",
       "articles": [
         {
+          "id": "https://medium.com/p/3c18bf0ca5d3",
+          "author": "Pelagios",
+          "description": "By Matteo Romanello",
+          "link": "https://medium.com/pelagios/introducing-ajax-multi-commentary-3c18bf0ca5d3?source=rss-f96d74f645aa------2",
+          "publishedOn": "2021-11-30T07:54:50.000Z",
+          "wordCount": 409,
+          "title": "Introducing: Ajax Multi-Commentary"
+        },
+        {
           "id": "https://medium.com/p/26de8775f8f4",
           "author": "Pelagios",
           "description": "Sometime in the second century CE, Pausanias of Magnesia wrote the Periegesis Hellados (). Representing a unique deep dive into ancient…",
@@ -4758,6 +4776,24 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.51",
+          "author": null,
+          "description": "This position paper outlines curation as a distinct area of linguistics which supports the assessment of existing linguistic data sets. The starting point of the discussion lies in the work with legacy materials and necessary skills for reviewing them. The discussion of skills and knowledge relevant for this task lays out requirements for training and preparing academics and professionals for curation in ways that creates career options. Due to the importance of properly maintained data sets and the time-consuming nature of curation, this specialisation deserves the same merit as other areas of linguistics and should be treated equally.\n Published on 2021-11-30 10:50:54",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.51",
+          "publishedOn": "2021-11-30T15:15:56.648Z",
+          "wordCount": 6616,
+          "title": "The Curation of Language Data as a Distinct Academic Activity: A Call to Action for Researchers, Educators, Funders, and Policymakers"
+        },
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.52",
+          "author": null,
+          "description": "The “Whose Crisis?” project is in response to a continually evolving global health pandemic, COVID-19. In this context, the dominant discourses have been generated in the Global North, overwhelmingly by a minority of wealthy and powerful authors, reflecting narrowly on a crisis that, while impacting the whole world, is experienced in vastly different ways. This article frames and contextualises data from this project through an introduction to the background, contexts, and methods of a project designed to reflect the lived experiences of, perspectives on, and responses to COVID-19 in vulnerable communities across sub-Saharan Africa. The project has been carried out by a large team of collaborators who prioritise the lived experiences, customs, and needs of the communities engaged through a culturally responsive and arts-based research approach. The article points to the methodological implications of arts-based research to explore plural perspectives in participatory ways, and the socio-political possibilities of amplifying the voices of under-represented and under-served communities in Africa, in terms of global health in a pandemic context.\n Published on 2021-11-30 11:03:37",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.52",
+          "publishedOn": "2021-11-30T15:15:54.063Z",
+          "wordCount": 6512,
+          "title": "Whose Crisis? COVID-19 Explored through Arts and Cultural Practices of African Communities"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.57",
           "author": null,
@@ -5208,6 +5244,20 @@
       "siteUrl": "https://review.gale.com",
       "articles": [
         {
+          "id": "https://review.gale.com/?p=13076",
+          "author": "Gale Review Team",
+          "description": "|By Gale Digital Scholar Lab Product Management team| Gale Digital Scholar Lab creates new possibilities by offering solutions to the most common challenges facing researchers in the digital humanities today. Since its launch in 2018, the team has engaged with librarians, instructors, and students to find out what they’d like to see in the tool and how ... Read more\nThe post New Experience for Gale Digital Scholar Lab appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2021/11/30/new-experience-for-gale-digital-scholar-lab/?utm_source=rss&utm_medium=rss&utm_campaign=new-experience-for-gale-digital-scholar-lab",
+          "publishedOn": "2021-11-30T10:00:00.000Z",
+          "wordCount": 731,
+          "title": "New Experience for Gale Digital Scholar Lab",
+          "enclosure": {
+            "url": "https://review.gale.com/wp-content/uploads/2021/11/Header.png",
+            "length": "166396",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://review.gale.com/?p=13049",
           "author": "Gale Ambassadors",
           "description": "| By Robert Youngs do Patrocinio, Gale Ambassador at University College London| This post will focus on raising awareness of the Rasta struggle to practise their religion, principally using Gale’s Archives Unbound collections, an extensive database of primary sources included in Gale Reference Complete that many university students such as myself can utilise when conducting ... Read more\nThe post Unearthing and Decolonising the Rasta Voice appeared first on The Gale Review.",
@@ -5611,6 +5661,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=16061",
+          "author": "simsmss",
+          "description": "For Coffee With A Codex on November 29 we took at look at LJS 490, a German astronomical compendium written in the mid-fifteenth century. Cities in the Baden-Württemberg region of Germany are mentioned frequently, which probably means that it was written there, or for use there. The manuscript includes a variety of different texts, manyContinue reading \"LJS 490: Astronomy\"",
+          "link": "https://schoenberginstitute.org/2021/11/29/ljs-490-astronomy/",
+          "publishedOn": "2021-11-29T19:56:43.000Z",
+          "wordCount": 1324,
+          "title": "LJS 490: Astronomy"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=16042",
           "author": "simsmss",
@@ -6802,6 +6861,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1446 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "DRI has published a new collection of training videos exploring topics such as preparing metadata, navigating DRI’s repository, and ingesting and publishing digital objects.",
+          "link": "https://www.dri.ie/new-collection-dri-training-videos",
+          "publishedOn": "2021-11-29T16:41:27.000Z",
+          "wordCount": 667,
+          "title": "New Collection of DRI Training Videos"
+        },
         {
           "id": "1445 at https://www.dri.ie",
           "author": "ainemadden",
