@@ -735,6 +735,15 @@
       "siteUrl": "https://cunydhi.commons.gc.cuny.edu",
       "articles": [
         {
+          "id": "https://cunydhi.commons.gc.cuny.edu/?p=1890",
+          "author": "Param Ajmera",
+          "description": "Thank you all for a great Lightning Talks event! It was wonderful to hear about […]",
+          "link": "https://cunydhi.commons.gc.cuny.edu/2021/11/30/recap-slides-from-the-cuny-dhi-lightning-talks-2021/",
+          "publishedOn": "2021-11-30T20:17:40.000Z",
+          "wordCount": 889,
+          "title": "Recap: Slides from the CUNY DHI Lightning Talks 2021"
+        },
+        {
           "id": "https://cunydhi.commons.gc.cuny.edu/?p=1873",
           "author": "Leanne Fan",
           "description": "Interested in digital humanities at CUNY? Have a project to share? Sign up to present […]",
@@ -3051,6 +3060,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/745",
+          "author": "406",
+          "description": "Der Verband »Digital Humanities im deutschsprachigen Raum e.V.«,  das Konsortium »NFDI4Culture«, der »Verein für Geistes- und  Kulturwissenschaftliche Forschungsinfrastrukturen«,…",
+          "link": "https://dig-hum.de/aktuelles/gentle-reminder-stipendien-f%C3%BCr-die-dhd2022-potsdam-deadline-20122021",
+          "publishedOn": "2021-11-30T16:33:58.000Z",
+          "wordCount": 774,
+          "title": "Gentle Reminder: Stipendien für die DHd2022 in Potsdam (Deadline: 20.12.2021)"
+        },
         {
           "id": "node/744",
           "author": "406",
@@ -6008,6 +6026,24 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2021/12/01/glam-workbench-nectar.html",
+          "author": null,
+          "description": "The newly-updated DigitalNZ and Te Papa sections of the GLAM Workbench have been added to the list of available repositories in the Nectar Research Cloud’s GLAM Workbench Application. This means you can create your very own version of these repositories running in the Nectar Cloud, simply by choosing them from the app’s dropdown list. See the Using Nectar help page for more information.\n\nI’ve also taken the opportunity to make use of the new container registry service developed by the ARDC as part of the ARCOS project. The app now pulls the GLAM Workbench Docker images from Quay.io via the container registry’s cache. This means that copies of the images are cached locally, speeding things up and saving on data transfers. Yay for integration!\n\nThanks again to Andy and the Nectar Cloud staff for their help! #dhhacks",
+          "link": "https://updates.timsherratt.org/2021/12/01/glam-workbench-nectar.html",
+          "publishedOn": "2021-12-01T00:20:53.000Z",
+          "wordCount": 165,
+          "title": "GLAM Workbench Nectar Cloud Application updated!"
+        },
+        {
+          "id": "http://wragge.micro.blog/2021/12/01/digitalnz-te-papa.html",
+          "author": null,
+          "description": "In preparation for my talk at ResBaz Aotearoa, I updated the DigitalNZ and Te Papa sections of the GLAM Workbench. Most of the changes are related to management, maintenance, and integration of the repositories. Things like:\nSetting up GitHub actions to automatically generate Docker images when the repositories change, and to upload the images to the Quay.io container registry\nAutomatic generation of an index.ipynb file based on README.md to act as a front page within Jupyter Lab\nAddition of a reclaim-manifest.jps file to allow for one-click installation of the repository in Reclaim Cloud\nAdditional documentation in README.md with instructions on how to run the repository via Binder, Reclaim Cloud, Nectar Research Cloud, and Docker Desktop.\nAddition of a .zenodo.json metadata file so that new releases are preserved in Zenodo\nSwitch to using pip-tools for generating requirements.txt files, and the include unpinned requirements in requirements.in\nUpdate of all Python packages\nFrom the user’s point of view, the main benefit of these changes is the ability to run the repositories in a variety of different environments depending on your needs and skills. The Docker images, generated using repo2Docker, are used by Binder, Reclaim Cloud, Nectar, and Docker Desktop. Same image, multiple environments! See ‘Run these notebooks’ in the DigitalNZ and Te Papa sections of the GLAM Workbench for more information.\n\nOf course, I’ve also re-run all of the notebooks to make sure everything works and to update any statistics, visualisations, and datasets. As a bonus, there’s a couple of new notebooks in the DigitalNZ repository:\nQueryPic DigitalNZ – a web app to visualise searches in Papers Past over time (I’ll post some further info about this shortly)\nPapers Past newspapers in DigitalNZ – displays details of the Papers Past newspapers available through DigitalNZ (you can view the results as an HTML page)\n#dhhacks",
+          "link": "https://updates.timsherratt.org/2021/12/01/digitalnz-te-papa.html",
+          "publishedOn": "2021-11-30T23:41:00.000Z",
+          "wordCount": 335,
+          "title": "DigitalNZ & Te Papa sections of the GLAMWorkbench updated!"
+        },
         {
           "id": "http://wragge.micro.blog/2021/11/11/a-template-for.html",
           "author": null,

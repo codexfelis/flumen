@@ -58,7 +58,59 @@
       </article>
     </section>
     <section>
+      <h2>2021-12-01</h2>
+      <article>
+        <a href=https://updates.timsherratt.org/2021/12/01/glam-workbench-nectar.html target="_blank" rel="noopener noreferrer">
+          <h3>GLAM Workbench Nectar Cloud Application updated!<span aria-hidden="true"></span></h3>
+        </a>
+        <p class="dim">Source: <a href=https://updates.timsherratt.org/>Tim Sherratt</a> |
+          Reading time: 1 minutes </p>
+        <p>The newly-updated DigitalNZ and Te Papa sections of the GLAM Workbench have been added to the list of available repositories in the Nectar Research Cloud’s GLAM Workbench Application. This means you can create your very own version of these repositories running in the Nectar Cloud, simply by choosing them from the app’s dropdown list. See the Using Nectar help page for more information.
+
+I’ve also taken the opportunity to make use of the new container registry service developed by the ARDC as part of the ARCOS project. The app now pulls the GLAM Workbench Docker images from Quay.io via the container registry’s cache. This means that copies of the images are cached locally, speeding things up and saving on data transfers. Yay for integration!
+
+Thanks again to Andy and the Nectar Cloud staff for their help! #dhhacks</p>
+      </article>
+    </section>
+    <section>
       <h2>2021-11-30</h2>
+      <article>
+        <a href=https://updates.timsherratt.org/2021/12/01/digitalnz-te-papa.html target="_blank" rel="noopener noreferrer">
+          <h3>DigitalNZ &amp; Te Papa sections of the GLAMWorkbench updated!<span aria-hidden="true"></span></h3>
+        </a>
+        <p class="dim">Source: <a href=https://updates.timsherratt.org/>Tim Sherratt</a> |
+          Reading time: 1 minutes </p>
+        <p>In preparation for my talk at ResBaz Aotearoa, I updated the DigitalNZ and Te Papa sections of the GLAM Workbench. Most of the changes are related to management, maintenance, and integration of the repositories. Things like:
+Setting up GitHub actions to automatically generate Docker images when the repositories change, and to upload the images to the Quay.io container registry
+Automatic generation of an index.ipynb file based on README.md to act as a front page within Jupyter Lab
+Addition of a reclaim-manifest.jps file to allow for one-click installation of the repository in Reclaim Cloud
+Additional documentation in README.md with instructions on how to run the repository via Binder, Reclaim Cloud, Nectar Research Cloud, and Docker Desktop.
+Addition of a .zenodo.json metadata file so that new releases are preserved in Zenodo
+Switch to using pip-tools for generating requirements.txt files, and the include unpinned requirements in requirements.in
+Update of all Python packages
+From the user’s point of view, the main benefit of these changes is the ability to run the repositories in a variety of different environments depending on your needs and skills. The Docker images, generated using repo2Docker, are used by Binder, Reclaim Cloud, Nectar, and Docker Desktop. Same image, multiple environments! See ‘Run these notebooks’ in the DigitalNZ and Te Papa sections of the GLAM Workbench for more information.
+
+Of course, I’ve also re-run all of the notebooks to make sure everything works and to update any statistics, visualisations, and datasets. As a bonus, there’s a couple of new notebooks in the DigitalNZ repository:
+QueryPic DigitalNZ – a web app to visualise searches in Papers Past over time (I’ll post some further info about this shortly)
+Papers Past newspapers in DigitalNZ – displays details of the Papers Past newspapers available through DigitalNZ (you can view the results as an HTML page)
+#dhhacks</p>
+      </article>
+      <article>
+        <a href=https://cunydhi.commons.gc.cuny.edu/2021/11/30/recap-slides-from-the-cuny-dhi-lightning-talks-2021/ target="_blank" rel="noopener noreferrer">
+          <h3>Recap: Slides from the CUNY DHI Lightning Talks 2021<span aria-hidden="true"></span></h3>
+        </a>
+        <p class="dim">Source: <a href=https://cunydhi.commons.gc.cuny.edu>CUNY Digital Humanities Initiative</a> |
+          Reading time: 3 minutes </p>
+        <p>Thank you all for a great Lightning Talks event! It was wonderful to hear about […]</p>
+      </article>
+      <article>
+        <a href=https://dig-hum.de/aktuelles/gentle-reminder-stipendien-f%C3%BCr-die-dhd2022-potsdam-deadline-20122021 target="_blank" rel="noopener noreferrer">
+          <h3>Gentle Reminder: Stipendien für die DHd2022 in Potsdam (Deadline: 20.12.2021)<span aria-hidden="true"></span></h3>
+        </a>
+        <p class="dim">Source: <a href=https://dig-hum.de/aktuelles>Tagungen</a> |
+          Reading time: 3 minutes </p>
+        <p>Der Verband »Digital Humanities im deutschsprachigen Raum e.V.«,  das Konsortium »NFDI4Culture«, der »Verein für Geistes- und  Kulturwissenschaftliche Forschungsinfrastrukturen«,…</p>
+      </article>
       <article>
         <a href=https://openhumanitiesdata.metajnl.com/article/10.5334/johd.51 target="_blank" rel="noopener noreferrer">
           <h3>The Curation of Language Data as a Distinct Academic Activity: A Call to Action for Researchers, Educators, Funders, and Policymakers<span aria-hidden="true"></span></h3>
@@ -9153,7 +9205,7 @@ Der Beitrag vDHd2021 bei RadiHum20: Kulturdaten | Datenkulturen. Kolloquium ersc
             src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg">Buy us
           coffee</span></a></div>
 
-    <p class="dim">Last updated 2021-11-30T15:15:56.650Z</p>
+    <p class="dim">Last updated 2021-12-01T08:13:53.373Z</p>
 
   </footer>
 </body>

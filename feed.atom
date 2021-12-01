@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-11-30T15:15:56.690Z</updated>
+    <updated>2021-12-01T08:13:53.417Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -14,6 +14,63 @@
         <summary type="html"><![CDATA[A review of Undisciplining the Victorian Classroom, a pedagogical resource that reimagines teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki]]></summary>
         <author>
             <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLAM Workbench Nectar Cloud Application updated!]]></title>
+        <id>http://wragge.micro.blog/2021/12/01/glam-workbench-nectar.html</id>
+        <link href="https://updates.timsherratt.org/2021/12/01/glam-workbench-nectar.html"/>
+        <updated>2021-12-01T00:20:53.000Z</updated>
+        <summary type="html"><![CDATA[The newly-updated DigitalNZ and Te Papa sections of the GLAM Workbench have been added to the list of available repositories in the Nectar Research Cloud’s GLAM Workbench Application. This means you can create your very own version of these repositories running in the Nectar Cloud, simply by choosing them from the app’s dropdown list. See the Using Nectar help page for more information.
+
+I’ve also taken the opportunity to make use of the new container registry service developed by the ARDC as part of the ARCOS project. The app now pulls the GLAM Workbench Docker images from Quay.io via the container registry’s cache. This means that copies of the images are cached locally, speeding things up and saving on data transfers. Yay for integration!
+
+Thanks again to Andy and the Nectar Cloud staff for their help! #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigitalNZ & Te Papa sections of the GLAMWorkbench updated!]]></title>
+        <id>http://wragge.micro.blog/2021/12/01/digitalnz-te-papa.html</id>
+        <link href="https://updates.timsherratt.org/2021/12/01/digitalnz-te-papa.html"/>
+        <updated>2021-11-30T23:41:00.000Z</updated>
+        <summary type="html"><![CDATA[In preparation for my talk at ResBaz Aotearoa, I updated the DigitalNZ and Te Papa sections of the GLAM Workbench. Most of the changes are related to management, maintenance, and integration of the repositories. Things like:
+Setting up GitHub actions to automatically generate Docker images when the repositories change, and to upload the images to the Quay.io container registry
+Automatic generation of an index.ipynb file based on README.md to act as a front page within Jupyter Lab
+Addition of a reclaim-manifest.jps file to allow for one-click installation of the repository in Reclaim Cloud
+Additional documentation in README.md with instructions on how to run the repository via Binder, Reclaim Cloud, Nectar Research Cloud, and Docker Desktop.
+Addition of a .zenodo.json metadata file so that new releases are preserved in Zenodo
+Switch to using pip-tools for generating requirements.txt files, and the include unpinned requirements in requirements.in
+Update of all Python packages
+From the user’s point of view, the main benefit of these changes is the ability to run the repositories in a variety of different environments depending on your needs and skills. The Docker images, generated using repo2Docker, are used by Binder, Reclaim Cloud, Nectar, and Docker Desktop. Same image, multiple environments! See ‘Run these notebooks’ in the DigitalNZ and Te Papa sections of the GLAM Workbench for more information.
+
+Of course, I’ve also re-run all of the notebooks to make sure everything works and to update any statistics, visualisations, and datasets. As a bonus, there’s a couple of new notebooks in the DigitalNZ repository:
+QueryPic DigitalNZ – a web app to visualise searches in Papers Past over time (I’ll post some further info about this shortly)
+Papers Past newspapers in DigitalNZ – displays details of the Papers Past newspapers available through DigitalNZ (you can view the results as an HTML page)
+#dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recap: Slides from the CUNY DHI Lightning Talks 2021]]></title>
+        <id>https://cunydhi.commons.gc.cuny.edu/?p=1890</id>
+        <link href="https://cunydhi.commons.gc.cuny.edu/2021/11/30/recap-slides-from-the-cuny-dhi-lightning-talks-2021/"/>
+        <updated>2021-11-30T20:17:40.000Z</updated>
+        <summary type="html"><![CDATA[Thank you all for a great Lightning Talks event! It was wonderful to hear about […]]]></summary>
+        <author>
+            <name>Param Ajmera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gentle Reminder: Stipendien für die DHd2022 in Potsdam (Deadline: 20.12.2021)]]></title>
+        <id>node/745</id>
+        <link href="https://dig-hum.de/aktuelles/gentle-reminder-stipendien-f%C3%BCr-die-dhd2022-potsdam-deadline-20122021"/>
+        <updated>2021-11-30T16:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Der Verband »Digital Humanities im deutschsprachigen Raum e.V.«,  das Konsortium »NFDI4Culture«, der »Verein für Geistes- und  Kulturwissenschaftliche Forschungsinfrastrukturen«,…]]></summary>
+        <author>
+            <name>406</name>
         </author>
     </entry>
     <entry>
