@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-12-02T08:13:45.585Z</updated>
+    <updated>2021-12-03T08:14:09.424Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -14,6 +14,38 @@
         <summary type="html"><![CDATA[A review of Undisciplining the Victorian Classroom, a pedagogical resource that reimagines teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki]]></summary>
         <author>
             <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for volunteers for ADHO Anti-racism Task Force]]></title>
+        <id>588856 at https://adho.org</id>
+        <link href="https://adho.org/announcements/2021/call-volunteers-adho-anti-racism-task-force"/>
+        <updated>2021-12-02T15:45:44.000Z</updated>
+        <summary type="html"><![CDATA[ADHO seeks to draw in and draw on the global DH community, with its strong commitment to and advocacy for social justice. We seek to engage community expertise and desire for change to help ADHO take action on the intersecting concerns articulated in our statement on Black Lives Matter, Structural Racism, and Establishment Violence.
+ADHO seeks the help of the Anti-structural-racism Task Force to develop a strategy that will: 1) reach every component of the organization, with a focus on the ways in which ADHO activities and policies affect individuals; 2) engage the wider DH community through a range of channels; 3) seek pathways to gathering both experiential narratives and measurable data to identify problems that can be targeted and addressed over time, iteratively; and 4) work towards t…]]></summary>
+        <author>
+            <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHNB Virtual Coffee Hour]]></title>
+        <id>https://dhnb.eu/?p=2021</id>
+        <link href="https://dhnb.eu/dhnb-virtual-coffee-hour/"/>
+        <updated>2021-12-02T13:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Join us for our first Virtual Coffee Hour on Thursday, 9 December, 2021: 12:00-13:00 CET. Registration: https://bit.ly/DHNB-coffee-hour AGENDA  Welcome and DHNB updates Institutional membership Working groups DHNB 2022 Presentations Eiríkur Smári Sigurðarson, Director of Research, School of Humanities, University of Iceland: Icelandic Centre for Digital Humanities and Arts Anda Baklāne, Head of Digital Research Services […]]]></summary>
+        <author>
+            <name>Olga Holownia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CfP: Computational Systems for Ancient Written Artefacts]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=8978</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2021/12/02/cfp-computational-systems-for-ancient-written-artefacts/"/>
+        <updated>2021-12-02T11:10:01.000Z</updated>
+        <summary type="html"><![CDATA[DAS 2022 is the 15th edition of the IAPR sponsored workshop focusing on system-level issues and approaches in document analysis and recognition. Typically, the workshop covers invited speaker talks along with oral, poster, tutorial, demo sessions and working group discussions. DAS 2022 will be hosted by La Rochelle University (France) on May 22-25, 2022. A […]
+The post CfP: Computational Systems for Ancient Written Artefacts appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
         </author>
     </entry>
     <entry>
@@ -39,6 +71,25 @@ We hope you will join us December 7-9 at FORCE2021: Joining Forces to Advance th
 The post International Library Associations Applaud UNESCO Open Science Recommendation appeared first on Research Libraries UK.]]></summary>
         <author>
             <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask us questions about the MacBERTh model(s)]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1745</id>
+        <link href="https://discourse.computational-humanities-research.org/t/ask-us-questions-about-the-macberth-model-s/1745"/>
+        <updated>2021-12-01T10:35:06.000Z</updated>
+        <summary type="html"><![CDATA[We’re happy to announce the release of the first ‘MacBERTh’ model!
+We’d like to use this forum to allow people to approach us with any questions. Ask away, and @enrique.manjavacas and @l.fonteyn will try to help you as much as we can.
+More information on the project can be found on our website:
+https://macberth.netlify.app/
+MacBERTh is the cover term for a suite of language models (more specifically, BERT models) pre-trained on historical textual material (date range: 1450-1950).
+Researchers who interpret and analyse historical textual material are well-aware that languages are subject to change over time, and that the way in which concepts and discourses of class, gender, norms and prestige function in different time periods. As such, it is quite important that the interpretation of textual/linguistic material from the past is not approached from a present-day point-of-view, which is why NLP models pre-trained on present-day language data are less than ideal candidates for the job. That’s where MacBERTh can help.
+At present, a model pre-trained on historical English (1450-1950) has been published in the huggingface repository. The release of a Dutch historical model is planned for 2022.
+For publications and talks related to the project, as well as information on how to cite us, please check our website. If you end up using our model for you research, we would love to highlight and refer others to your work on our website as well, so please do not hesitate to contact us to share your work.
+2 posts - 2 participants
+Read full topic]]></summary>
+        <author>
+            <name>l.fonteyn</name>
         </author>
     </entry>
     <entry>
@@ -2100,6 +2151,16 @@ https://dh2022.adho.org/
 The post Job: Digital Humanities Research Software Engineer appeared first on dhCenter.]]></summary>
         <author>
             <name>Celia Luterbacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BECOME A DHNB AFFILIATE INSTITUTION]]></title>
+        <id>https://dhnb.eu/?p=2023</id>
+        <link href="https://dhnb.eu/new-dhnb-membership/"/>
+        <updated>2021-11-01T10:16:46.000Z</updated>
+        <summary type="html"><![CDATA[DHNB introduces a new type of members aimed at institutions. Benefits: Information about affiliates and their activities will be promoted on the DHNB website and through other DHNB communication platforms Affiliates will be promoted as the DHNB conference supporters The DHNB annual conference fees will be reduced for two representatives of the Affiliate Institution As […]]]></summary>
+        <author>
+            <name>Olga Holownia</name>
         </author>
     </entry>
     <entry>
@@ -10365,16 +10426,6 @@ Der Beitrag vDHd2021 bei RadiHum20: Kulturdaten | Datenkulturen. Kolloquium ersc
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 232, Trattato delle proportioni et proportionalità by Benedetto Varchi. This manuscript was written in Italian in Florence, Italy, after 1539. It is a treatise by Benedetto Varchi on proportion as the basis for rithmomachia, a mathematicalContinue reading "Manuscript Monday: LJS 232 – Trattato delle proportioni…"]]></summary>
         <author>
             <name>Dennis Mullen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If You Aren’t Happy with the Things Around You; Change the Things Around You.]]></title>
-        <id>https://dhlc.cal.msu.edu/?p=292</id>
-        <link href="https://dhlc.cal.msu.edu/2021/06/06/if-you-arent-happy-with-the-things-around-you-change-the-things-around-you/"/>
-        <updated>2021-06-06T16:26:24.000Z</updated>
-        <summary type="html"><![CDATA[By Mitch Carr Everybody can channel the excitement that comes with serendipitously coming across a work of art proudly showcased in their community. It inspires feelings of nostalgia through storytelling in a multimodal way. And, as I sit at the newly painted picnic tables located in front of Soul Nutrition in Downtown Lansing, I can’t […]]]></summary>
-        <author>
-            <name>carrmitc</name>
         </author>
     </entry>
 </feed>
