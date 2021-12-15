@@ -296,6 +296,24 @@
       "siteUrl": "https://aa-dh.org",
       "articles": [
         {
+          "id": "https://aa-dh.org/?p=442",
+          "author": "Tully Barnett",
+          "description": "A message from Simon Musgrave, aaDH Secretary: The terms of several members of the aaDH Executive Committee are concluding. aaDH President Professor Paul Millar announced his decision to step down at the end of the 2021 DHA conference with one year left of his term, and the role has been filled by Associate Professor Rachel … Continue reading \"The aaDH calls for nominations for its Executive Committee\"",
+          "link": "https://aa-dh.org/2021/12/14/the-aadh-calls-for-nominations-for-its-executive-committee/",
+          "publishedOn": "2021-12-14T12:17:19.000Z",
+          "wordCount": 738,
+          "title": "The aaDH calls for nominations for its Executive Committee"
+        },
+        {
+          "id": "https://aa-dh.org/?p=437",
+          "author": "Tully Barnett",
+          "description": "At the end of the successful #DHA2021 – Digital Humanities Australasia, aaDH’s biennial conference – Paul Millar announced the end of his term as President for aaDH after three years of service in the role and the hosting of a supremely successful conference. Millar has one year left on his term and, in accordance with … Continue reading \"Announcing aaDH’s new President\"",
+          "link": "https://aa-dh.org/2021/12/14/announcing-aadhs-new-president/",
+          "publishedOn": "2021-12-14T12:05:08.000Z",
+          "wordCount": 605,
+          "title": "Announcing aaDH’s new President"
+        },
+        {
           "id": "https://aa-dh.org/?p=427",
           "author": "Tully Barnett",
           "description": "Deadline extended to 27 September 2021 The Australasian Association for Digital Humanities (aaDH) is pleased to invite proposals for posters, short papers, long papers, multi-paper panels and workshops, for DHA2021 (our COVID-delayed conference formerly known as DHA2020). DHA2021 will be a virtual conference running from 22-25 November 2021 (New Zealand time zone). Proposals from any … Continue reading \"DHA2021 Call For Proposals\"",
@@ -458,15 +476,6 @@
           "publishedOn": "2021-07-28T11:57:19.000Z",
           "wordCount": 547,
           "title": "ADHO begrüßt DHd als konstituierende Organisation/ADHO welcomes DHd as a Constituent Organization"
-        },
-        {
-          "id": "588779 at https://adho.org",
-          "author": "drupaladmin",
-          "description": "We are thrilled to welcome Erdal Ayan and Anna Sofia Lippolis as ADHO's 2021 Communications Fellows:\nErdal Ayan is currently a PhD candidate in the department of English and American Studies at University of Kassel and a part-time master student in the Web Science Master Program at TH-Koeln. He is holding two bachelors (English Language and Literature and Sociology) and two masters degrees (English Language Teaching (ELT) & Computer Education and Instructional Technologies). He has got a broad research interest and/but his main focus is on data/text mining, sentiment analysis (opinion mining), topic modeling, network analysis (community detection), web development. He worked as teacher and lecturer for English before moving to Germany in 2017. He completed his voluntary internship in the C…",
-          "link": "https://adho.org/announcements/2021/welcome-2021-communications-fellows",
-          "publishedOn": "2021-06-18T16:28:18.000Z",
-          "wordCount": 519,
-          "title": "Welcome 2021 Communications Fellows"
         }
       ]
     },
@@ -3734,6 +3743,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=7162",
+          "author": "The Digital Orientalist",
+          "description": "This article has been contributed by James Frances Loftus III. Information about the author is included at the end of …",
+          "link": "https://digitalorientalist.com/2021/12/14/examining-the-merits-of-3d-sliced-segmental-extraction-a-case-study-of-prehistoric-japanese-ceramics/",
+          "publishedOn": "2021-12-14T13:00:00.000Z",
+          "wordCount": 2663,
+          "title": "Examining the Merits of 3D Sliced Segmental Extraction: A Case Study of Prehistoric Japanese Ceramics"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=7276",
           "author": "So Miyagawa",
           "description": "This is a contribution by Andrea Barucci, Constanza Cucci, Massimiliano Franci, Marco Loschiavo and Fabrizio Argenti. For their short bios, …",
@@ -6062,6 +6080,24 @@
       "feedUrl": "https://sites.temple.edu/tudsc/feed",
       "siteUrl": "https://sites.temple.edu/tudsc",
       "articles": [
+        {
+          "id": "https://sites.temple.edu/tudsc/?p=8013",
+          "author": "Laurie Fitzpatrick",
+          "description": "By Laurie Fitzpatrick Introduction In my previous blog post, Digital New Sweden, Part 1: Creating a Database of New Sweden Colonizers, I discussed how I combined data from newly digitized primary sources...\nThe post Digital New Sweden, Part 2: Visualizing a Database of New Sweden Colonizers with Gephi appeared first on Loretta C. Duckworth Scholars Studio.",
+          "link": "https://sites.temple.edu/tudsc/2021/12/14/digital-new-sweden-part-2-visualizing-a-database-of-new-sweden-colonizers-with-gephi/",
+          "publishedOn": "2021-12-14T18:11:11.000Z",
+          "wordCount": 2056,
+          "title": "Digital New Sweden, Part 2: Visualizing a Database of New Sweden Colonizers with Gephi"
+        },
+        {
+          "id": "https://sites.temple.edu/tudsc/?p=8007",
+          "author": "Laurie Fitzpatrick",
+          "description": "By Laurie Fitzpatrick Project Background I am investigating novel ways to use newly digitized primary sources in my research into the New Sweden colony in early modern North America. This small Scandinavian...\nThe post Digital New Sweden, Part 1: Creating a Database of New Sweden Colonizers appeared first on Loretta C. Duckworth Scholars Studio.",
+          "link": "https://sites.temple.edu/tudsc/2021/12/14/digital-new-sweden-part-1-creating-a-database-of-new-sweden-colonizers/",
+          "publishedOn": "2021-12-14T18:09:03.000Z",
+          "wordCount": 1579,
+          "title": "Digital New Sweden, Part 1: Creating a Database of New Sweden Colonizers"
+        },
         {
           "id": "https://sites.temple.edu/tudsc/?p=7973",
           "author": "Maria Victoria Sarmiento Giraldo",
