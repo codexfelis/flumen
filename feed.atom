@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-12-17T08:13:56.725Z</updated>
+    <updated>2021-12-18T08:13:53.627Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Graduate Digital Humanities Project Partner Grants: February-August 2022]]></title>
+        <id>https://dhn.utoronto.ca/?p=4438</id>
+        <link href="https://dhn.utoronto.ca/grad-dh-projectpartner/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grad-dh-projectpartner"/>
+        <updated>2021-12-17T20:24:48.000Z</updated>
+        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) is pleased to announce new grants to support critical digital humanities (DH) research, focusing on funding qualified graduate students registered in any program at the University of Toronto. The program embeds graduate student researchers within existing critical digital humanities research projects at U of T, many of which are also collaborations with librarians and/or community organizations. This call supports grad researchers for the period between February 15, 2022 and August 31, 2022. U of T graduate students at registered in any program, along with a faculty member and/or librarian co-lead, are invited to apply to the program.]]></summary>
+        <author>
+            <name>DHN Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for participation: Digital Humanities in the Nordic and Baltic Countries (DHNB) annual conference]]></title>
+        <id>1377 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2021/12/17/call-participation-digital-humanities-nordic-and-baltic-countries-dhnb-annual"/>
+        <updated>2021-12-17T13:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Call for participation: Digital Humanities in the Nordic and Baltic Countries (DHNB) annual conference
+
+
+
+The Digital Humanities in the Nordic and Baltic Countries (DHNB) annual conference will be hosted March 15-18 2022 in Uppsala, Sweden. Registration has now opened.
+Themed “Digital Humanities in Action”, this year's conference highlights the relationship between digital humanities theory and praxis and society, bringing together technical implementation with critical discourse to correspond to broader cultural and institutional settings. DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond.
+DHNB 2022 is organised jointly by the Centre for Digital Humanities Uppsala (CDHU), the Department of ALM at Uppsala University, and the Uppsala University Library. DHNB 2022 is an on-site conference in Uppsala, with the possibility to participate digitally.]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legacy cataloguing and TEI: David Pingree and Wellcome Collection]]></title>
+        <id>http://digitalorientalist.com/?p=7444</id>
+        <link href="https://digitalorientalist.com/2021/12/17/legacy-cataloguing-and-tei-david-pingree-and-wellcome-collection/"/>
+        <updated>2021-12-17T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[By Alexandra Eveleigh, Stephanie Cornwell, and Adrian Plau. Wellcome Collection holds one of the world’s most unique manuscript collections. The …]]></summary>
+        <author>
+            <name>Adrian Plau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centre news vol. 53 - December 2021]]></title>
+        <id>5646 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/centre-news-vol-53-december-2021"/>
+        <updated>2021-12-17T10:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Centre news vol. 53 - December 2021
+
+            
+Log4j vulnerability 
+Last week, a serious log4j issue (CVE-2021-44228) was discovered that potentially enables remote code execution.
+More background information
+https://www.lunasec.io/docs/blog/log4j-zero-day/
+https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+https://github.com/NorthwaveSecurity/log4jcheck
+Vulnerability Scanner: https://github.com/1lann/log4shelldetect 
+Impact on central CLARIN services
+Many of the CLARIN services are implemented in Java, and therefore use log4j. Our team has been (and remains) analyzing and patching the central services that are affected. So far, the biggest theoretical risk is associated with UnityIDM, as used for the CLARIN Identity Provider. This service has been patche…]]></summary>
+        <author>
+            <name>Dieter Van Uytvanck</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aaDH Elections 2022]]></title>
         <id>https://aa-dh.org/?p=446</id>
@@ -553,6 +610,25 @@ The post COESO open call for citizen science projects in social sciences and hum
         <summary type="html"><![CDATA[Session 11; Thursday, January 6th, 12:00-1:15pm Note: We are in the process of transitioning to a virtual session to accommodate those unable to travel. However, as of this posting (Dec. 9) most panel participants will be at the conference, and we are looking into a physical location that might accommodate a hybrid experience. Washington, DC…Continue reading.]]></summary>
         <author>
             <name>paigecm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Abstracts: CLARIN2022]]></title>
+        <id>5637 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/call-abstracts-clarin2022"/>
+        <updated>2021-12-09T14:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Call for Abstracts: CLARIN2022
+
+            
+The call for the submission of extended abstracts for the CLARIN Annual Conference 2022 (CLARIN2022) is now open.
+The CLARIN Annual Conference is organised for the wider humanities and social sciences community in order to exchange experiences in working with the CLARIN infrastructure, share best practices, and discuss plans for future developments. In 2022, we hope to at least partially return to the traditional face-to-face format, with CLARIN2022 to be held in Prague, Czechia.
+You are invited to submit your abstract until 15 April 2022
+Read the full call
+
+      Elisa Gorgaini
+ 9 December 2021]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
         </author>
     </entry>
     <entry>
@@ -10835,132 +10911,6 @@ The post Papers recently accepted appeared first on LiLa: Linking Latin.]]></sum
         <summary type="html"><![CDATA[By Caterina Agostini and Ben Bakelaar   Digital images and tools are attracting the interest of scholars in the humanities. In particular, the International Image Interoperability Framework (IIIF) allows for high quality images and supports a variety of uses and applications including deep zoom, comparison, annotation, and transcription of digital images. With the current pandemic limiting travel and access to libraries and museums, in the Spring 2021 we founded a new DH Special Interest Group at Rutgers focused on IIIF. In the first meeting, we shared our work and research interests and connected with members of the Rutgers community, from Rutgers University Libraries, the Office]]></summary>
         <author>
             <name>Caterina Agostini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anna Engelhardt – Spectral Volumes of Russian Cyber Warfare]]></title>
-        <id>https://digitaldemocracies.org/?p=1500</id>
-        <link href="https://digitaldemocracies.org/anna-engelhardt-spectral-volumes-of-russian-cyber-warfare/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=anna-engelhardt-spectral-volumes-of-russian-cyber-warfare"/>
-        <updated>2021-06-21T18:06:17.000Z</updated>
-        <summary type="html"><![CDATA[The prospect of hearing from Anna Engelhardt about her work on cyber warfare has been a highly anticipated presentation, and she did not disappoint. First of all, it would be …
-  Anna Engelhardt – Spectral Volumes of Russian Cyber Warfare Read More »
-Anna Engelhardt – Spectral Volumes of Russian Cyber Warfare first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Amy Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DH Student Intern – Laura Jones]]></title>
-        <id>https://digitalhumanities.exeter.ac.uk/?p=781</id>
-        <link href="https://digitalhumanities.exeter.ac.uk/2021/06/dh-student-intern-laura-jones/"/>
-        <updated>2021-06-21T13:28:12.000Z</updated>
-        <summary type="html"><![CDATA[Hi, I’m Laura, a third year History and Archaeology student and this will be my second year at the Digital Humanities Lab as an intern. My interests span 2D digitisation to 3D digitisation techniques such as RTI (Reflectance Transformation Imaging) and photogrammetry. I love how these techniques are applied to cultural heritage and wider research […]]]></summary>
-        <author>
-            <name>Gemma Poulton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invited seminar at the University of Turin]]></title>
-        <id>https://lila-erc.eu/?p=2612</id>
-        <link href="https://lila-erc.eu/invited-seminar-at-the-university-of-turin/"/>
-        <updated>2021-06-21T09:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Talk: Emotion Oriented System
-Date: 22nd June 2021, 14:00-16:00
-Location: Online
-Sentiment Analysis for Latin: a Journey from Seneca to Dante Alighieri
-
-
-The post Invited seminar at the University of Turin appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invited seminar at the University of Turin]]></title>
-        <id>https://lila-erc.eu/?p=2612</id>
-        <link href="https://lila-erc.eu/invited-seminar-at-the-university-of-turin/"/>
-        <updated>2021-06-21T09:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Talk: Emotion Oriented System
-Date: 22nd June 2021, 14:00-16:00
-Location: Online
-Sentiment Analysis for Latin: a Journey from Seneca to Dante Alighieri
-
-
-The post Invited seminar at the University of Turin appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visiting Professor David Berry on Explainability and Interpretability as Critical Infrastructure Practice]]></title>
-        <id>https://blogs.kcl.ac.uk/ddh/?p=3063</id>
-        <link href="https://blogs.kcl.ac.uk/ddh/2021/06/21/david-berry-on-explainability/"/>
-        <updated>2021-06-21T08:20:48.000Z</updated>
-        <summary type="html"><![CDATA[David Berry is currently visiting the Department of Digital Humanities as Visiting Professor of Critical Theory and Digital Humanities. The following post from David introduces some of his current research on explainability and interpretability. He is giving a talk about this work at the Infrastructural Interventions workshop on Tuesday 22nd June. I am very excited … 
-Continue reading "Visiting Professor David Berry on Explainability and Interpretability as Critical Infrastructure Practice"]]></summary>
-        <author>
-            <name>Jonathan Gray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wisnicki helps launch digital project to remake Victorian studies classrooms]]></title>
-        <id>2639 at https://cdrh.unl.edu</id>
-        <link href="https://cdrh.unl.edu/wisnicki-helps-launch-digital-project-remake-victorian-studies-classrooms"/>
-        <updated>2021-06-21T05:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: 
-
-
-
-
-Link: 
-
-Wisnicki helps launch digital project to remake Victorian studies classrooms
-
-
-
-Following the renewed calls for racial justice and the dismantling of systemic racism in 2020, a team of scholars, including the University of Nebraska–Lincoln’s Adrian Wisnicki, came together to re-imagine the way Victorian Studies is taught in classrooms.
-This effort to help instructors teach Victorian Studies through a positive, race-conscious lens and go beyond the Anglo-European authors typically taught in Victorian literature courses, has manifested itself in a digital humanities project, “Undisciplining the Victorian Classroom.”
-[media:2:left]
-“Undisciplining the Victorian Classroom” is a growing hub for instructors to find inclusive materials for their classrooms and includes lesson …]]></summary>
-        <author>
-            <name>Anonymous</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 231 – Statutum habelle communum…]]></title>
-        <id>http://schoenberginstitute.org/?p=12330</id>
-        <link href="https://schoenberginstitute.org/2021/06/21/manuscript-monday-ljs-231-statutum-habelle-communum/"/>
-        <updated>2021-06-21T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 231, Statutum habelle communum. Written in Latin in Barga, Italy after 1346, this manuscript of 49 chapters includes regulations concerning the amount of tax (gabella or gabelle) and the conditions under which duty must beContinue reading "Manuscript Monday: LJS 231 – Statutum habelle communum…"]]></summary>
-        <author>
-            <name>Dennis Mullen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QueryPic: The Next Generation]]></title>
-        <id>http://wragge.micro.blog/2021/06/21/querypic-the-next.html</id>
-        <link href="https://updates.timsherratt.org/2021/06/21/querypic-the-next.html"/>
-        <updated>2021-06-21T00:50:19.000Z</updated>
-        <summary type="html"><![CDATA[QueryPic is a tool to visualise searches in Trove’s digitised newspapers. I created the first version way back in 2011, and since then it’s taken a number of different forms. The latest version introduces some new features:
-Automatic query creation – construct your search in the Trove web interface, then just copy and paste the url into QueryPic. This means you can take advantage of Trove’s advanced search and facets to build complex queries.
-Multiple time scales – previous versions only aggregated search results by year, but now you can also aggregate by month, or by day. QueryPic will automatically choose a time unit based on the date range of your query, but if you’re not happy with the result you can change it!
-Links back to Trove – click on any of the points on the chart to search Trove within that time period. This enables you to zoom in and out of your results, from the high-level visualisation, to individual articles.
-
-This version of QueryPic is built within a Jupyter notebook, and designed to run using Voila (which hides all the code and makes the notebook look like a web app). See the Trove Newspapers section of the GLAM Workbench for more information. If you’d like to give it a try, just click the button below to run it live using Binder.
-
-Hope you find it useful! #dhhacks]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone gets a Lab!]]></title>
-        <id>http://wragge.micro.blog/2021/06/21/everyone-gets-a.html</id>
-        <link href="https://updates.timsherratt.org/2021/06/21/everyone-gets-a.html"/>
-        <updated>2021-06-21T00:00:30.000Z</updated>
-        <summary type="html"><![CDATA[I recently took part in a panel at the IIPC Web Archiving Conference discussing ‘Research use of web archives: a Labs approach’. My fellow panellists described some amazing stuff going on in European cultural heritage organisations to support researchers who want to make use of web archives. My ‘lab’ doesn’t have a physical presence, or an institutional home, but it does provide a starting point for researchers, and with the latest Reclaim Cloud and Docker integrations, everyone can have their own web archives lab! Here’s my 8 minute video. The slides are available here.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
 </feed>
