@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-12-19T08:13:46.034Z</updated>
+    <updated>2021-12-20T08:14:59.810Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anmeldung für die DHd-Mitgliedschaft]]></title>
+        <id>node/751</id>
+        <link href="https://dig-hum.de/aktuelles/anmeldung-f%C3%BCr-die-dhd-mitgliedschaft"/>
+        <updated>2021-12-20T08:14:42.178Z</updated>
+        <summary type="html"><![CDATA[Wir bitten um Verständnis dafür, dass zwischen dem 20. Dezember 2021 und dem 9. Januar 2022 keine neuen Mitgliedsanträge bearbeitet werden können.
+Die Antragstellung ist zwar…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MORGEN (20.12.2021) endet die Bewerbungsfrist für Stipendien für die DHd2022 in Potsdam]]></title>
+        <id>node/752</id>
+        <link href="https://dig-hum.de/aktuelles/morgen-20122021-endet-die-bewerbungsfrist-f%C3%BCr-stipendien-f%C3%BCr-die-dhd2022-potsdam"/>
+        <updated>2021-12-20T08:14:42.153Z</updated>
+        <summary type="html"><![CDATA[Der Verband »Digital Humanities im deutschsprachigen Raum e.V.«,  das Konsortium »NFDI4Culture«, der »Verein für Geistes- und  Kulturwissenschaftliche Forschungsinfrastrukturen«,…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Graduate Digital Humanities Project Partner Grants: February-August 2022]]></title>
         <id>https://dhn.utoronto.ca/?p=4438</id>
@@ -10869,28 +10890,6 @@ Read full topic]]></summary>
 Niels ten Oever – The quantum state of topological infrastructure reconfigurations: the case of 5G first appeared on Digital Democracies Institute.]]></summary>
         <author>
             <name>Amy Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Papers recently accepted]]></title>
-        <id>https://lila-erc.eu/?p=2616</id>
-        <link href="https://lila-erc.eu/papers-accepted-summer2021/"/>
-        <updated>2021-06-23T10:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Publications
-The post Papers recently accepted appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Papers recently accepted]]></title>
-        <id>https://lila-erc.eu/?p=2616</id>
-        <link href="https://lila-erc.eu/papers-accepted-summer2021/"/>
-        <updated>2021-06-23T10:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Publications
-The post Papers recently accepted appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
         </author>
     </entry>
 </feed>
