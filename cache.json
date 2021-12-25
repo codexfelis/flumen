@@ -3178,6 +3178,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/755",
+          "author": "406",
+          "description": "Wir wünschen allen Frohe Weihnachten und alles Gute für das neue Jahr!\nWir freuen uns sehr auf unsere nächste Jahrestagung DHd2022 in Potsdam.\nHerzliche Grüße und bleiben Sie…",
+          "link": "https://dig-hum.de/aktuelles/frohe-weihnachten-und-alles-gute-f%C3%BCr-das-neue-jahr",
+          "publishedOn": "2021-12-25T08:13:29.466Z",
+          "wordCount": 700,
+          "title": "Frohe Weihnachten und alles Gute für das neue Jahr!"
+        },
+        {
           "id": "node/754",
           "author": "406",
           "description": "Zur DHd2022 in Potsdam vergeben der Verband »Digital Humanities im deutschsprachigen Raum e.V.«, das Konsortium »NFDI4Culture«, der Verein »Geistes- und kulturwissenschaftliche…",
@@ -3770,6 +3779,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=7337",
+          "author": "Michele Eduarda Brasil de Sá",
+          "description": "In the mid-90s, I was an undergraduate student taking Latin and Japanese classes. People looked at me as if I …",
+          "link": "https://digitalorientalist.com/2021/12/24/missionary-linguistics-latin-portuguese-and-japanese-resources-online/",
+          "publishedOn": "2021-12-24T13:00:00.000Z",
+          "wordCount": 1660,
+          "title": "Missionary Linguistics – Latin, Portuguese and Japanese resources online"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=7225",
           "author": "tomnewhallucla",
           "description": "This is the first in a series of interviews with scholars working on Digital Methods for Buddhist Studies. Our initial …",
@@ -4284,6 +4302,15 @@
       "feedUrl": "https://eadh.org/feed",
       "siteUrl": "https://eadh.org/feed",
       "articles": [
+        {
+          "id": "1378 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "31 Mar 2022 - 00:00\n\n\n\nCall for Papers: Bodies of Knowledge: Speculating about Libraries, Archives, and the Future of Information\n\n\n\n“Accessing.”\n— Data, Star Trek: The Next Generation\nVector invites proposals for articles for a special issue on speculative fiction and libraries, as well as adjacent themes, e.g. speculative angles on archives, collections, repositories, simulations, antilibraries, catalogues, metadata, preservation, curation, media archaeology, literary publics, open access, search, big data, taxonomies, folksonomies, epistemes, architectures of knowledge, hypomnemata, the history and future of print, oral traditions, embodied knowledge, book stores, index cards, bibliographic management, scholarly apparatuses, indexes, performance archiving, back-ups, more-than-human know…",
+          "link": "https://eadh.org/news/2021/12/24/call-papers-bodies-knowledge-speculating-about-libraries-archives-and-future",
+          "publishedOn": "2021-12-24T08:19:55.000Z",
+          "wordCount": 1887,
+          "title": "Call for Papers: Bodies of Knowledge: Speculating about Libraries, Archives, and the Future of Information"
+        },
         {
           "id": "1377 at https://eadh.org",
           "author": "Communication Fellow",
@@ -5197,15 +5224,6 @@
           "publishedOn": "2021-07-08T14:36:00.000Z",
           "wordCount": 937,
           "title": "What Counts as Culture? Part I: Sentiment Analysis of The Times Music Reviews, 1950-2009 – train in the distance"
-        },
-        {
-          "id": "http://revistas.uned.es/index.php/RHD/article/view/27247",
-          "author": "Author on Source",
-          "description": "Introduction: This article explores the potential use of data-driven methods to visualise and interpret the impact of Western efforts to influence Cold War dynamics using a covert book distribution programme. Based on a documentary corpus connected to the 2013 book by Alfred Reisch, which documented efforts by the CIA to disseminate books in the Soviet Bloc in the period 1956-1971, the authors use the Tableau Public platform to re-assess information science methods for researching historical events. Their analysis suggests that books distributed did not tend to have a more obvious political slant, but were more likely to have a broader universalist outlook. While it skirts around some of the limitations of visualization (highlighted elsewhere by Drucker and others) it offers a solid introduction to the benefits of a data-driven approach to a general audience.",
-          "link": "https://openmethods.dariah.eu/2021/06/28/visualizando-libros-difundidos-y-censurados-durante-la-guerra-fria-1956-1971-el-caso-alfred-reisch/",
-          "publishedOn": "2021-06-28T11:39:00.000Z",
-          "wordCount": 1037,
-          "title": "Visualizando libros difundidos y censurados durante la Guerra Fría: 1956-1971. El caso Alfred Reisch"
         }
       ]
     },
@@ -5967,15 +5985,6 @@
           "publishedOn": "2021-07-05T04:00:00.000Z",
           "wordCount": 1081,
           "title": "Manuscript Monday: LJS 238 – Assise of all manner of breade"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=1129",
-          "author": "Dennis Mullen",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 172, Tabulae directionum et profectionum, by Joannes Regiomontanus. This manuscript was written in Austria or Hungary, circa 1476, in Latin, and it includes astronomical tables of declinations and ascensions and a table of sines, copiedContinue reading \"Manuscript Monday: LJS 172 – Tabulae directionum et profectionum\"",
-          "link": "https://schoenberginstitute.org/2021/06/28/manuscript-monday-ljs-172-tabulae-directionum-et-profectionum/",
-          "publishedOn": "2021-06-28T16:00:00.000Z",
-          "wordCount": 1055,
-          "title": "Manuscript Monday: LJS 172 – Tabulae directionum et profectionum"
         }
       ]
     },
@@ -6548,24 +6557,6 @@
           "publishedOn": "2021-07-01T04:51:00.000Z",
           "wordCount": 159,
           "title": "GLAM Workbench now on YouTube!"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/06/28/glam-workbench-office.html",
-          "author": null,
-          "description": "To help you make use of the GLAM Workbench, I’ve set up an ‘office hours’ time slot every Friday when people can book in for 30 minute chats via Zoom. Want to talk about how you might use the GLAM Workbench in your latest research project? Are you having trouble getting started with GLAM data? Or perhaps you have some ideas for future notebooks you’d like to share? Just click on the ‘Book a chat’ link in the GLAM Workbench, or head straight to the scheduling page to set up a time!\n\nThis is yet another experiment to see how I can support the use of GLAM data and the development of digital skills with the GLAM Workbench. Let me know if you think it’s worthwhile. #dhhacks",
-          "link": "https://updates.timsherratt.org/2021/06/28/glam-workbench-office.html",
-          "publishedOn": "2021-06-28T04:04:56.000Z",
-          "wordCount": 151,
-          "title": "GLAM Workbench office hours"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/06/28/missing-links-new.html",
-          "author": null,
-          "description": "An article written by Kate Bagnall and me has just been published in a special issue of the Journal of World History focusing on digital history. And it’s open access!\nThe article is ‘Missing Links: Data Stories from the Archive of British Settler Colonial Citizenship’. In it we document our efforts to assemble a number of different datasets relating to naturalization. Here’s the abstract:\nDigitized sources and digital methods are changing the way that we do history. For historians of the British Empire, the digital age offers new possibilities for investigating the lives of those who moved around the empire and across the world. However, much discussion of the possibilities and problems of digital history have focused on the creation and use of full text resources, skipping over the analytical opportunities offered by the descriptive systems in which those texts are embedded. This article is an attempt to fill this gap by documenting a journey through archival data relating to nineteenth-century Chinese naturalization in the Pacific Rim settler colonies of Australia, New Zealand, and Canada. We argue that such data stories are critical if we are to understand both possibilities and pitfalls of research in digital collections.\nThere’s also an GitHub repository with code and data related to the article.",
-          "link": "https://updates.timsherratt.org/2021/06/28/missing-links-new.html",
-          "publishedOn": "2021-06-28T03:08:10.000Z",
-          "wordCount": 240,
-          "title": "‘Missing Links’ – new open access article!"
         }
       ]
     },
