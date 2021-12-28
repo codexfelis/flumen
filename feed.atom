@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-12-27T08:15:32.593Z</updated>
+    <updated>2021-12-28T08:15:08.708Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -11101,66 +11101,6 @@ Der Beitrag vDHd2021 bei RaDiHum20: Corpus Contest 2021 erschien zuerst auf RaDi
         <summary type="html"><![CDATA[The Australasian Association for Digital Humanities (aaDH) is pleased to invite proposals for DHA2021 (our COVID-delayed conference formerly known as DHA2020). DHA 2021 will take place from 22-25 November 2021. To allow for COVID-19 uncertainty, it will be a hybrid ‘In-person’ / ‘On-line’ conference held simultaneously in the city of Ōtautahi Christchurch, Aotearoa New Zealand, … Continue reading "DHA2021 Call For Proposals"]]></summary>
         <author>
             <name>Tully Barnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPFL: nouveau magazine Dimensions]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7096</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/07/01/epfl-nouveau-magazine-dimensions/"/>
-        <updated>2021-07-01T13:40:46.000Z</updated>
-        <summary type="html"><![CDATA[L’EPFL a lancé le 18 juin 2021 un nouveau magazine, Dimensions, une publication scientifique qui met en avant l’excellence de l’Ecole par le biais de dossiers approfondis, d’interviews, de portraits et d’actualités. Publiée 4 fois par an, en français et en anglais, la version papier de Dimensions est distribuée gratuitement sur les campus de l’EPFL. […]
-The post EPFL: nouveau magazine Dimensions appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPFL: nouveau magazine Dimensions]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7096</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/07/01/epfl-nouveau-magazine-dimensions/"/>
-        <updated>2021-07-01T13:40:46.000Z</updated>
-        <summary type="html"><![CDATA[L’EPFL a lancé le 18 juin 2021 un nouveau magazine, Dimensions, une publication scientifique qui met en avant l’excellence de l’Ecole par le biais de dossiers approfondis, d’interviews, de portraits et d’actualités. Publiée 4 fois par an, en français et en anglais, la version papier de Dimensions est distribuée gratuitement sur les campus de l’EPFL. […]
-The post EPFL: nouveau magazine Dimensions appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Latin Abbreviations and Hyphenations – The Bentham and DEEDS Projects]]></title>
-        <id>https://readcoop.eu/?p=24907</id>
-        <link href="https://readcoop.eu/mastering-latin-abbreviations-and-hyphenations-the-bentham-and-deeds-projects/"/>
-        <updated>2021-07-01T12:40:17.000Z</updated>
-        <summary type="html"><![CDATA[A collaboration between the Bentham Project of the University College London and the DEEDS (Documents of Early England Data Set) Project of the University of Toronto uses Transkribus for the transcription of an immense corpus of medieval charters from the 12th to the 15th century. The handwritten Latin of this period is very peculiar and […]
-The post Mastering Latin Abbreviations and Hyphenations – The Bentham and DEEDS Projects appeared first on READ-COOP.]]></summary>
-        <author>
-            <name>Florian Stauder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating GLAM Workbench news and discussion]]></title>
-        <id>http://wragge.micro.blog/2021/07/01/integrating-glam-workbench.html</id>
-        <link href="https://updates.timsherratt.org/2021/07/01/integrating-glam-workbench.html"/>
-        <updated>2021-07-01T05:18:41.000Z</updated>
-        <summary type="html"><![CDATA[I’ve spent a lot of time this year working on ways of improving the GLAM Workbench’s documentation and its integration with other services. Last year I created OzGLAM Help to provide a space where users of GLAM collections could ask questions and share discoveries – including a dedicated GLAM Workbench channel. Earlier this year, I tweaked my Micro.blog powered updates to include a dedicated GLAM Workbench news feed. Now I’ve brought the two together! What does this mean?
-Any GLAM Workbench news that I post to my updates feed is now automatically added to OzGLAM Help
-Links are automatically added to items in the news feed that let you add comments or questions in OzGLAM Help
-So now there’s two-way communication between the services providing more ways for people to discover and discuss how the GLAM Workbench can help them.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLAM Workbench now on YouTube!]]></title>
-        <id>http://wragge.micro.blog/2021/07/01/glam-workbench-now.html</id>
-        <link href="https://updates.timsherratt.org/2021/07/01/glam-workbench-now.html"/>
-        <updated>2021-07-01T04:51:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve started creating short videos to introduce or explain various components of the GLAM Workbench. The first video shows how you can visualise searches in Trove’s digitised newspapers using the latest version of QueryPic. It’s a useful introduction to the way access to collection data enables us to ask different types of questions of historical sources.
-
-
-As with all GLAM Workbench resources, the video is openly-licensed – so feel free to stop it into your own course materials or workshops. It could, for example, provide an interesting little digital methods task in an Australian history unit.
-I’ll be creating a second QueryPic video shortly, demonstrating how you can work with complex queries and differing timescales. Let me know if you find it useful, or if you have any ideas for future topics. #dhhacks]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
 </feed>
