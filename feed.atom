@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-12-28T08:15:08.708Z</updated>
+    <updated>2021-12-29T08:14:27.764Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Organizing Browser-heavy Workflows]]></title>
+        <id>http://digitalorientalist.com/?p=7323</id>
+        <link href="https://digitalorientalist.com/2021/12/28/organizing-browser-heavy-workflows/"/>
+        <updated>2021-12-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizing browser items in a heavy online workflow can present challenges. Opening one tab inevitably leads to opening more tabs …]]></summary>
+        <author>
+            <name>Jonathan Robker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 World Junior Ice Hockey Championships Live]]></title>
         <id>12488 at https://www.force11.org</id>
@@ -11081,26 +11091,6 @@ Der Beitrag vDHd2021 bei RaDiHum20: Corpus Contest 2021 erschien zuerst auf RaDi
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 238, Assise of all man[n]er of breade. This manuscript, written in Winchester in the 16th century, is a table of prescribed weights for varieties of loaves for different prices of wheat. It bears the headingContinue reading "Manuscript Monday: LJS 238 – Assise of all manner of breade"]]></summary>
         <author>
             <name>Dennis Mullen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP TEI 2021: Next Gen TEI]]></title>
-        <id>https://tei-c.org/?p=31131</id>
-        <link href="https://tei-c.org/2021/07/02/cfp-tei-2021-next-gen-tei/"/>
-        <updated>2021-07-02T14:33:05.000Z</updated>
-        <summary type="html"><![CDATA[At DH 2017 in Montreal, the Text Encoding Initiative received the Antonio Zampolli Prize in recognition of our thirtieth anniversary. Four years and a pandemic later, the TEI Guidelines remain a significant part of the digital humanities toolkit, with a strong focus on internationalization, both linguistic and geographic. From Japan to Argentina, Austria to Cameroon, […]]]></summary>
-        <author>
-            <name>Hugh Cayless</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHA2021 Call For Proposals]]></title>
-        <id>https://aa-dh.org/?p=414</id>
-        <link href="https://aa-dh.org/2021/07/02/dha2021-call-for-proposals/"/>
-        <updated>2021-07-02T03:23:44.000Z</updated>
-        <summary type="html"><![CDATA[The Australasian Association for Digital Humanities (aaDH) is pleased to invite proposals for DHA2021 (our COVID-delayed conference formerly known as DHA2020). DHA 2021 will take place from 22-25 November 2021. To allow for COVID-19 uncertainty, it will be a hybrid ‘In-person’ / ‘On-line’ conference held simultaneously in the city of Ōtautahi Christchurch, Aotearoa New Zealand, … Continue reading "DHA2021 Call For Proposals"]]></summary>
-        <author>
-            <name>Tully Barnett</name>
         </author>
     </entry>
 </feed>
