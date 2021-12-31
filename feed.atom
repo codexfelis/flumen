@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2021-12-30T08:14:26.282Z</updated>
+    <updated>2021-12-31T08:14:15.073Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Normalized Datasets of Klinghardt’s and Nicolotti’s Reconstructions of Marcion’s Gospel]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.70</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.70"/>
+        <updated>2021-12-31T08:14:15.022Z</updated>
+        <summary type="html"><![CDATA[These are the first normalized, peer-reviewed, and morphologically enriched datasets to be published based on the reconstructions of Marcion’s Gospel by Matthias Klinghardt and Andrea Nicolotti. Two files were generated for each reconstruction: the first consisting of human-readable Postclassical Greek; the second of lemmatized and morphologically tagged text following the openly licensed BibleWorks Greek Morphology schema. Among several recent critical reconstructions of Marcion’s Gospel, those of Klinghardt and Nicolotti stand out as ambitiously maximalist and fully continuous, with considerably higher word counts than found in other recent reconstructions. These are the fourth and final batch in a series of normalized and enriched Greek datasets of major reconstructions of Marcion’s Gospel published by JOHD.
+ Published on 2021-12-30 12:08:10]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Normalized Datasets of Hahn’s and Zahn’s Reconstructions of Marcion’s <i>Gospel</i>]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.63</id>
