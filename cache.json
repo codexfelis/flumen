@@ -3680,6 +3680,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=7540",
+          "author": "DaigengnaDuoer",
+          "description": "With a larger and more diverse editorial team, the Digital Orientalist has published 92 posts in total in the year …",
+          "link": "https://digitalorientalist.com/2021/12/31/the-digital-orientalists-recap-of-2021/",
+          "publishedOn": "2021-12-31T13:00:00.000Z",
+          "wordCount": 1676,
+          "title": "The Digital Orientalist’s Recap of 2021"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=7323",
           "author": "Jonathan Robker",
           "description": "Organizing browser items in a heavy online workflow can present challenges. Opening one tab inevitably leads to opening more tabs …",
@@ -5872,15 +5881,6 @@
           "publishedOn": "2021-07-12T04:00:00.000Z",
           "wordCount": 1056,
           "title": "Manuscript Monday: LJS 224 – Expositio in libros Posteriorum Aristotelis"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=12042",
-          "author": "Dennis Mullen",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 238, Assise of all man[n]er of breade. This manuscript, written in Winchester in the 16th century, is a table of prescribed weights for varieties of loaves for different prices of wheat. It bears the headingContinue reading \"Manuscript Monday: LJS 238 – Assise of all manner of breade\"",
-          "link": "https://schoenberginstitute.org/2021/07/05/manuscript-monday-ljs-238-assise-of-all-manner-of-breade/",
-          "publishedOn": "2021-07-05T04:00:00.000Z",
-          "wordCount": 1081,
-          "title": "Manuscript Monday: LJS 238 – Assise of all manner of breade"
         }
       ]
     },
