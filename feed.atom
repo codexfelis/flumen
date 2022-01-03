@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-02T08:13:49.682Z</updated>
+    <updated>2022-01-03T11:07:12.158Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Corpus of the Epigraphy of the Italian Peninsula in the 1<sup>st</sup> Millennium BCE (CEIPoM)]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.65</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.65"/>
+        <updated>2022-01-03T11:07:09.862Z</updated>
+        <summary type="html"><![CDATA[The Corpus of the Epigraphy of the Italian Peninsula in the 1st Millennium BCE (CEIPoM) is a linguistic database which covers the Oscan, Umbrian, Old Sabellic, Messapic and Venetic languages, as well as epigraphic Latin up to 100 BCE. The database is hosted on GitHub and Zenodo, and provides manually annotated linguistic information on all levels of language structure, ranging from phonology to syntax. In providing a high-resolution digital dataset for language varieties that have until now been largely restricted to printed reference works, this corpus opens up new avenues for research into this unique ancient linguistic area.
+ Published on 2022-01-03 09:56:16]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Digital Orientalist’s Recap of 2021]]></title>
         <id>http://digitalorientalist.com/?p=7540</id>
@@ -650,6 +661,16 @@ Many of the CLARIN services are implemented in Java, and therefore use log4j. Ou
         <summary type="html"><![CDATA[Details of candidates will be posted here as they become available.]]></summary>
         <author>
             <name>Simon Musgrave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DH Unbound 2022! CFP Français]]></title>
+        <id>https://csdh-schn.org/?p=925</id>
+        <link href="https://csdh-schn.org/join-us-at-dh-unbound-2022-2/"/>
+        <updated>2021-12-17T03:52:29.000Z</updated>
+        <summary type="html"><![CDATA[L’Association for Computers and the Humanities (ACH) et la Société canadienne pour les humanités numériques/ Canadian Society for Digital Humanities (CSDH/SCHN) organisent du 17 au 19 mai 2022, DH Unbound, une conférence virtuelle collaborative. Le 19 mai, la programmation sera proposée en collaboration avec Humanistica 2022. Pour en savoir plus sur DH Unbound 2022, consultez la page À propos.  […]]]></summary>
+        <author>
+            <name>Milena Radzikowska</name>
         </author>
     </entry>
     <entry>
@@ -1596,6 +1617,26 @@ aespa]]></summary>
 Sie finden das Programm auf der Website…]]></summary>
         <author>
             <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join us at DH Unbound 2022!]]></title>
+        <id>https://csdh-schn.org/?p=787</id>
+        <link href="https://csdh-schn.org/join-us-at-dh-unbound-2022/"/>
+        <updated>2021-12-03T18:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Reviving a collaboration that began with the Joint CSDH/SCHN and ACH Conference in 2015, DH Unbound 2022 (May 17-19, 2022) facilitates connections between ACH, CSDH/SCHN, and other organizations sharing our commitment to creating virtual and hybrid spaces that showcase the diverse practices within digital humanities. View the DH Unbound 2022 CFP in English, Spanish, or French and submit your proposal by January 15, 2022.DH […]]]></summary>
+        <author>
+            <name>Milena Radzikowska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for volunteers for ADHO Anti-racism Task Force]]></title>
+        <id>https://csdh-schn.org/?p=784</id>
+        <link href="https://csdh-schn.org/call-for-volunteers-for-adho-anti-racism-task-force/"/>
+        <updated>2021-12-03T18:52:58.000Z</updated>
+        <summary type="html"><![CDATA[ADHO seeks to draw in and draw on the global DH community, with its strong commitment to and advocacy for social justice. We seek to engage community expertise and desire for change to help ADHO take action on the intersecting concerns articulated in our statement on Black Lives Matter, Structural Racism, and Establishment Violence. ADHO seeks […]]]></summary>
+        <author>
+            <name>Milena Radzikowska</name>
         </author>
     </entry>
     <entry>
@@ -10930,39 +10971,6 @@ The post Canton de Vaud: appel à projets dans le domaine des jeux vidéo appear
 The post Canton de Vaud: appel à projets dans le domaine des jeux vidéo appeared first on dhcenter.]]></summary>
         <author>
             <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to new Lecturers at the Department of Digital Humanities 🎊]]></title>
-        <id>https://blogs.kcl.ac.uk/ddh/?p=3080</id>
-        <link href="https://blogs.kcl.ac.uk/ddh/2021/07/07/welcome-to-new-lecturers/"/>
-        <updated>2021-07-07T15:14:37.000Z</updated>
-        <summary type="html"><![CDATA[A very warm welcome to all of our new members of staff at the Department of Digital Humanities! Joining us ahead of the next academic year we have: Andrea Ballatore, Lecturer in Social and Cultural Informatics Barbara McGillivray, Lecturer in Digital Humanities and Cultural Computation Daniel Chavez Heras, Lecturer in Humanistic and Social Computing Education … 
-Continue reading "Welcome to new Lecturers at the Department of Digital Humanities 🎊"]]></summary>
-        <author>
-            <name>Jonathan Gray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[«Une fausse vérité peut-elle changer le monde?» Épisode 7: Manéli Farahmand, Mischa Piraud et Sybille Rouiller]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7139</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/07/07/une-fausse-verite-peut-elle-changer-le-monde-episode-7-maneli-farahmand-mischa-piraud-et-sybille-rouiller/"/>
-        <updated>2021-07-07T06:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Manéli Farahmand, Mischa Piraud, Sybille Rouiller – «QAnon et New Age sur le cyberterrain helvétique» En traversant l’Atlantique et en se propageant en Europe (et en Suisse romande), la théorie du complot connue sous le nom de QAnon a changé de couleur. Liée aux courants évangélique et à la droite radicale américaine, elle prend sous […]
-The post «Une fausse vérité peut-elle changer le monde?» Épisode 7: Manéli Farahmand, Mischa Piraud et Sybille Rouiller appeared first on dhCenter.]]></summary>
-        <author>
-            <name>n.ulmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[«Une fausse vérité peut-elle changer le monde?» Épisode 7: Manéli Farahmand, Mischa Piraud et Sybille Rouiller]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7139</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/07/07/une-fausse-verite-peut-elle-changer-le-monde-episode-7-maneli-farahmand-mischa-piraud-et-sybille-rouiller/"/>
-        <updated>2021-07-07T06:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Manéli Farahmand, Mischa Piraud, Sybille Rouiller – «QAnon et New Age sur le cyberterrain helvétique» En traversant l’Atlantique et en se propageant en Europe (et en Suisse romande), la théorie du complot connue sous le nom de QAnon a changé de couleur. Liée aux courants évangélique et à la droite radicale américaine, elle prend sous […]
-The post «Une fausse vérité peut-elle changer le monde?» Épisode 7: Manéli Farahmand, Mischa Piraud et Sybille Rouiller appeared first on dhcenter.]]></summary>
-        <author>
-            <name>n.ulmi</name>
         </author>
     </entry>
 </feed>
