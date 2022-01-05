@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-04T08:14:47.925Z</updated>
+    <updated>2022-01-05T08:14:44.169Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data Cleaning Chinese Text with OpenRefine: Facet]]></title>
+        <id>http://digitalorientalist.com/?p=7350</id>
+        <link href="https://digitalorientalist.com/2022/01/04/data-cleaning-chinese-text-with-openrefine-facet/"/>
+        <updated>2022-01-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Text filtering helps researchers target selected, specific data for accurate text analysis results. In my last post, I explored the …]]></summary>
+        <author>
+            <name>Lu Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI is Hiring an Operations and Communications Manager]]></title>
+        <id>1451 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-hiring-operations-and-communications-manager"/>
+        <updated>2022-01-04T11:58:11.000Z</updated>
+        <summary type="html"><![CDATA[Applications are invited for the position of Operations and Communications Manager at the Digital Repository of Ireland (Permanent Post).]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tour de CLARIN: Interview with Amalia Todirascu]]></title>
+        <id>5654 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/tour-de-clarin-interview-amalia-todirascu"/>
+        <updated>2022-01-04T11:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Tour de CLARIN: Interview with Amalia Todirascu
+
+            
+ 
+    
+
+              
+              
+                  
+
+  
+ 
+ 
+ 
+ 
+Amalia Todirascu is a computational linguist who specialises in Natural Language Processing (
+    
+Natural Language Processing
+
+See: http://en.wikipedia.org/wiki/Natural_language_processing
+
+read more
+
+  ). She is a member of the steering committee of CORLI, a group of experts in linguistics, and has successfully used CLARIN language technologies in teaching and research. The interview was conducted via email.
+​​​​​​​Please introduce yourself. Could you describe your academic background and your current academic position? 
+I have been trained in computer science with a specialisation in NLP. My thesis was about building ontologies from texts. My work is at th…]]></summary>
+        <author>
+            <name>Karina Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CoReFo 2018 Study Day]]></title>
+        <id>5653 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/corefo-2018-study-day"/>
+        <updated>2022-01-04T10:25:15.000Z</updated>
+        <summary type="html"><![CDATA[The CoReFo 2018 Study Day
+
+            
+  
+Since joining CLARIN as an observer, a number of activities have been organised to help French researchers understand what CLARIN can do for them. On 16 November 2018, the CA2LI research team of the CLARIN-FR member 'Laboratoire de Recherche sur le Langage' hosted a study day entitled ‘Lier recherche et formation professionnelle: des corpus à l'interface’ (Corpora at the Interface between Research and Vocational Training) at the Maison des Sciences de l’Homme, Université Clermont Auvergne (France). The main goal was to bring together researchers, trainers, and practitioners in the fields of language sciences, education, and healthcare to discuss ways in which multi-modal research corpora can be exploited from a pedagogical perspective for vocation…]]></summary>
+        <author>
+            <name>Karina Berger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Corpus of the Epigraphy of the Italian Peninsula in the 1<sup>st</sup> Millennium BCE (CEIPoM)]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.65</id>
@@ -10799,70 +10868,6 @@ Continue reading "Creative AI: Models of Artistic Practice"]]></summary>
         <summary type="html"><![CDATA[A review of the Shakespeare and Company Project, a database of records from Sylvia Beach's Shakespeare and Company bookshop, created by Joshua Kotin]]></summary>
         <author>
             <name>Andrew Thacker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rahtz Prize – Call for Nominations and Submissions 2021]]></title>
-        <id>https://tei-c.org/?p=31163</id>
-        <link href="https://tei-c.org/2021/07/09/rahtz-prize-call-for-nominations-and-submissions-2021/"/>
-        <updated>2021-07-09T18:57:25.000Z</updated>
-        <summary type="html"><![CDATA[The TEI Consortium created the Rahtz Prize for TEI Ingenuity in memory of Sebastian Rahtz, who contributed significantly to the TEI infrastructure. The award is intended to honour Sebastian’s noteworthy technical and philosophical contributions to the TEI, and to encourage innovation in the TEI community. The Rahtz Prize for TEI Ingenuity is awarded to an […]]]></summary>
-        <author>
-            <name>Martina Scholger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DLCL ATS round-up, spring 2021]]></title>
-        <id>836 at https://digitalhumanities.stanford.edu</id>
-        <link href="https://digitalhumanities.stanford.edu/dlcl-ats-round-spring-2021"/>
-        <updated>2021-07-09T17:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Spring quarter gave me the first chance in a long while to take some time off. The first week of the quarter was my kids' spring break, which we spent in a cabin in the woods near Mt. Lassen with just the right amount of internet: enough to quietly keep an eye on email, not enough for Zoom. We've taken some other long weekends, and there's been periods when school has been closed for one or more kids. Nonetheless, here's where things stand at the end of spring quarter.
-Existing projects
-I've been continuing to refine the static, Jekyll-based site for the Global Medieval Sourcebook, with a few CSS tweaks left to do. I had the opportunity to present what we've done so far with Mae Velloso-Lyons (and Elizabeth Honig, the faculty member behind a Jan Brueghel Catalogue Raisonné I worked on at U…]]></summary>
-        <author>
-            <name>Quinn Dombrowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nnanno: a tool to help work with Newspaper Navigator images]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=1916</id>
-        <link href="https://livingwithmachines.ac.uk/nnanno-a-tool-to-help-work-with-newspaper-navigator-images/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nnanno-a-tool-to-help-work-with-newspaper-navigator-images"/>
-        <updated>2021-07-09T15:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Newspapers are a visual medium, communicating not only through text but also through visual information, including photographs, maps and other images. Research on historic newspapers, particularly with digital methods, has focused primarily on the text contained in the newspapers. However, there is potentially a lot to be learned by also looking at the visual content […]]]></summary>
-        <author>
-            <name>Daniel van Strien</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Call for Editors, Contributors, and Team Members 2021]]></title>
-        <id>http://digitalorientalist.com/?p=6283</id>
-        <link href="https://digitalorientalist.com/2021/07/09/open-call-for-editors-contributors-and-team-members-2021/"/>
-        <updated>2021-07-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Orientalist is happy to announce its annual open call for editors, contributors, and team members. This year we …]]></summary>
-        <author>
-            <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le rapport annuel 2020 du CdH montre ses réseaux interdisciplinaires]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7181</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/07/09/le-rapport-annuel-2020-du-cdh-montre-ses-reseaux-interdisciplinaires/"/>
-        <updated>2021-07-09T10:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Un article publié par l’EPFL revient sur une série de visualisations du professeur Shin Alexandre Koseki, membre du dhCenter et alumni de l’équipe. Ces visualisations, contenues dans le rapport annuel 2020 du Collège des humanités, démontrent que le CdH fonctionne comme un moteur clé de l’innovation interdisciplinaire dans le paysage universitaire suisse. Le rapport annuel […]
-The post Le rapport annuel 2020 du CdH montre ses réseaux interdisciplinaires appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le rapport annuel 2020 du CdH montre ses réseaux interdisciplinaires]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7181</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/07/09/le-rapport-annuel-2020-du-cdh-montre-ses-reseaux-interdisciplinaires/"/>
-        <updated>2021-07-09T10:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Un article publié par l’EPFL revient sur une série de visualisations du professeur Shin Alexandre Koseki, membre du dhCenter et alumni de l’équipe. Ces visualisations, contenues dans le rapport annuel 2020 du Collège des humanités, démontrent que le CdH fonctionne comme un moteur clé de l’innovation interdisciplinaire dans le paysage universitaire suisse. Le rapport annuel […]
-The post Le rapport annuel 2020 du CdH montre ses réseaux interdisciplinaires appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
         </author>
     </entry>
 </feed>
