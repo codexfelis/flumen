@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-05T08:14:44.169Z</updated>
+    <updated>2022-01-06T08:14:48.141Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HEUTE endet die Bewerbungsfrist für die DHd2022-Stipendien!]]></title>
+        <id>node/757</id>
+        <link href="https://dig-hum.de/aktuelles/heute-endet-die-bewerbungsfrist-f%C3%BCr-die-dhd2022-stipendien"/>
+        <updated>2022-01-05T16:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Zur DHd2022 in Potsdam vergeben der Verband »Digital Humanities im deutschsprachigen Raum e.V.«, das Konsortium »NFDI4Culture«, der Verein »Geistes- und kulturwissenschaftliche…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: Fachinformatiker*in im Bereich Musikinformatik/Digital Humanities (in Teilzeit, 50 %) Uni Bonn]]></title>
+        <id>node/756</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-fachinformatikerin-im-bereich-musikinformatikdigital-humanities-teilzeit-50"/>
+        <updated>2022-01-05T15:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Die Rheinische Friedrich-Wilhelms-Universität Bonn ist eine internationale Forschungsuniversität mit einem breiten Fächerspektrum. 200 Jahre Geschichte, rund 35.000 Studierende,…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Cleaning Chinese Text with OpenRefine: Facet]]></title>
         <id>http://digitalorientalist.com/?p=7350</id>
