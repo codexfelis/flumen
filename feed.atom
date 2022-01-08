@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-07T08:14:41.316Z</updated>
+    <updated>2022-01-08T08:14:27.827Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragmentology in the COVID-era Classroom]]></title>
+        <id>http://schoenberginstitute.org/2022/01/07/fragmentology-in-the-covid-era-classroom/</id>
+        <link href="https://schoenberginstitute.org/2022/01/07/fragmentology-in-the-covid-era-classroom/"/>
+        <updated>2022-01-07T16:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Originally posted on Manuscript Road Trip: 
+The Flight into Egypt, Walters Art Museum, MS W.188, f.112r It’s been a rough few years, friends. We have all been through so much during the pandemic, and for students and teachers the pivots and policies have been particularly difficult and frustrating. Trying to stay safe, learning to teach…]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New digital scholarship resources added over the winter holiday]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=923</id>
+        <link href="https://scholarlytales.hcommons.org/2022/01/07/new-digital-scholarship-resources-this-week-dec-21-28-2021/"/>
+        <updated>2022-01-07T15:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Starting this week, we’ll be posting weekly summaries of new digital scholarschip resources that were added to the Artes Digital Scholarship Community on Zotero (learn more about this group and join with your Zotero account to get the group’s resources right in Zotero on your desktop). In this inaugural edition, we have some great project management tips that are really about research data management (RDM), ways of using RSS feeds to keep track of updates on a website, how to...]]></summary>
+        <author>
+            <name>Nele Noppe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text Encoding Initiative (TEI) for Ottoman Studies]]></title>
+        <id>http://digitalorientalist.com/?p=7487</id>
+        <link href="https://digitalorientalist.com/2022/01/07/text-encoding-initiative-tei-for-ottoman-studies/"/>
+        <updated>2022-01-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The “Text Encoding Initiative” (TEI) offers the most comprehensive guide to the computerized coding of texts in the humanities field …]]></summary>
+        <author>
+            <name>Fatma Aladag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Fáilte Ireland Tourism Photographic Collection]]></title>
+        <id>1452 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/exploring-failte-ireland-tourism-photographic-collection"/>
+        <updated>2022-01-07T11:37:46.000Z</updated>
+        <summary type="html"><![CDATA[In December 2021, the Digital Repository of Ireland (DRI) collaborated with DRI members Dublin City Library and Archive (DLCA) to share images from the Fáilte Ireland Tourism Photographic Collection as part of an Archive Advent Calendar campaign. In a new blog, we reflect on what we learned by exploring this collection.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HEUTE endet die Bewerbungsfrist für die DHd2022-Stipendien!]]></title>
         <id>node/757</id>
@@ -10772,122 +10813,6 @@ Until its updat…]]></summary>
 Der Beitrag Digitale Quellenkritik: Ein neues Kapitel erschien zuerst auf RaDiHum 20.]]></summary>
         <author>
             <name>Jonathan D. Geiger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Short survey on Python vs R for text analysis]]></title>
-        <id>discourse.computational-humanities-research.org-topic-851</id>
-        <link href="https://discourse.computational-humanities-research.org/t/short-survey-on-python-vs-r-for-text-analysis/851"/>
-        <updated>2021-07-12T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Hi all,
-Data-Sitters Club project, I’ve put together a short survey on Python vs. R for computational text analysis. We’ll be publishing one of our “books” on it towards the end of the summer. Fundamentally, the audience is people new to text analysis who are thinking about what programming language (if any) they should learn. If you have a few moments to share your thoughts in the survey, we’d be very appreciative!
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>quinnanya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Gray – Modifying Methods: Collaborative Research At The Public Data Lab]]></title>
-        <id>https://digitaldemocracies.org/?p=1544</id>
-        <link href="https://digitaldemocracies.org/jonathan-gray-modifying-methods-collaborative-research-at-the-public-data-lab/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jonathan-gray-modifying-methods-collaborative-research-at-the-public-data-lab"/>
-        <updated>2021-07-12T15:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Gray came to talk to the Institute about the inspiring ways that the incredibly interdisciplinary Public Data Lab conducts their projects, and he sold it SO WELL that I …
-  Jonathan Gray – Modifying Methods: Collaborative Research At The Public Data Lab Read More »
-Jonathan Gray – Modifying Methods: Collaborative Research At The Public Data Lab first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Amy Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESILIENCE has been accepted in the ESFRI 2021 road map]]></title>
-        <id>http://escripta.hypotheses.org/?p=458</id>
-        <link href="https://escripta.hypotheses.org/458"/>
-        <updated>2021-07-12T09:12:42.000Z</updated>
-        <summary type="html"><![CDATA[We are honored to announce that the RESILIENCE research infrastructure has been accepted in the 2021 roadmap of the European Strategy Forum on Research Infrastructures (ESFRI). The EPHE is one of the twelve European...]]></summary>
-        <author>
-            <name>Colin Brisson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creative AI: Models of Artistic Practice]]></title>
-        <id>https://blogs.kcl.ac.uk/ddh/?p=3070</id>
-        <link href="https://blogs.kcl.ac.uk/ddh/2021/07/12/creative-ai-models-of-artistic-practice/"/>
-        <updated>2021-07-12T08:16:32.000Z</updated>
-        <summary type="html"><![CDATA[How do artists use the backend of machine learning in their artworks? How is Machine Learning transforming the making of meaning? These were the questions brought about in the Creative AI Lab’s presentation during the National College of Art and Design, Dublin (NCAD) Digital Culture Webinar Series hosted by Elaine Hoey (New Media Artist) and … 
-Continue reading "Creative AI: Models of Artistic Practice"]]></summary>
-        <author>
-            <name>Shuprima Guha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pelagios Introduces: Activity Lead Virginia Boyero- on annotation, games and history.]]></title>
-        <id>https://medium.com/p/e4e3ad3ea7f2</id>
-        <link href="https://medium.com/pelagios/pelagios-introduces-activity-lead-virginia-boyero-on-annotation-games-and-history-e4e3ad3ea7f2?source=rss-f96d74f645aa------2"/>
-        <updated>2021-07-12T08:06:22.000Z</updated>
-        <summary type="html"><![CDATA[By Virginia Boyero]]></summary>
-        <author>
-            <name>Pelagios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 224 – Expositio in libros Posteriorum Aristotelis]]></title>
-        <id>http://schoenberginstitute.org/?p=6672</id>
-        <link href="https://schoenberginstitute.org/2021/07/12/manuscript-monday-ljs-224-expositio-in-libros-posteriorum-aristotelis-2/"/>
-        <updated>2021-07-12T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 224,  Expositio in libros Posteriorum Aristotelis, by Paolo, Veneto. This manuscript was written in Italy between 1425 and 1475, in Latin, and it is a commentary on Aristotle’s Posterior analytics, in which syllogistic reasoning isContinue reading "Manuscript Monday: LJS 224 – Expositio in libros Posteriorum Aristotelis"]]></summary>
-        <author>
-            <name>Dennis Mullen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Project TwitLit]]></title>
-        <id>818889bc-b43b-4eb0-95c4-d6d6668c8049</id>
-        <link href="https://reviewsindh.pubpub.org/pub/project-twitter-literature"/>
-        <updated>2021-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Project TwitLit, a social media analysis project examining writing communities on Twitter, created by Christian Howard-Sukhil]]></summary>
-        <author>
-            <name>Christina Boyles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: War Stories]]></title>
-        <id>c8d9ceb5-ed3d-4031-973b-44c944e01603</id>
-        <link href="https://reviewsindh.pubpub.org/pub/war-stories"/>
-        <updated>2021-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of War Stories, a digital project that tells the stories of children during World War II, created by Gabrielle Atwood Halko]]></summary>
-        <author>
-            <name>R.C. Miessler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Digital Community Engagement]]></title>
-        <id>0e7ce1cb-739a-4c72-a419-712610b25df6</id>
-        <link href="https://reviewsindh.pubpub.org/pub/digital-community-engagement"/>
-        <updated>2021-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Digital Community Engagement, an open-access volume of case studies on digital partnerships, edited by Rebecca S. Wingo, Jason A. Heppler, and Paul Schadewald]]></summary>
-        <author>
-            <name>Megan Smeznik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors' Note: July 2021]]></title>
-        <id>e0d3c166-7d96-4a1a-8c39-f3ebec3bc96f</id>
-        <link href="https://reviewsindh.pubpub.org/pub/ed-note-july-2021"/>
-        <updated>2021-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the July 2021 issue of Reviews in Digital Humanities]]></summary>
-        <author>
-            <name>Roopika Risam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Shakespeare and Company Project]]></title>
-        <id>7701ea1a-cf89-49f6-acb2-8798e727bb3c</id>
-        <link href="https://reviewsindh.pubpub.org/pub/shakespeare-and-company-project"/>
-        <updated>2021-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of the Shakespeare and Company Project, a database of records from Sylvia Beach's Shakespeare and Company bookshop, created by Joshua Kotin]]></summary>
-        <author>
-            <name>Andrew Thacker</name>
         </author>
     </entry>
 </feed>
