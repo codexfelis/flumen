@@ -5065,15 +5065,6 @@
           "publishedOn": "2021-08-20T09:34:46.000Z",
           "wordCount": 815,
           "title": "vDHd2021 bei RaDiHum20: Ein ideales online Portal für jüdische Geschichte"
-        },
-        {
-          "id": "https://radihum20.de/?p=484",
-          "author": "Jonathan D. Geiger",
-          "description": "In dieser Folge der vDHd-Sonderstaffel haben wir mit Aline Deicke von der Akademie der Wissenschaften und der Literatur | Mainz und Marina Lemaire von der Universität Trier zu ihrer Veranstaltungsserie auf der vDHd2021 gesprochen. Es geht um die historische Methode der Quellenkritik und inwiefern diese angepasst oder erweitert werden muss im Angesicht digitalisierter oder genuin […]\nDer Beitrag Digitale Quellenkritik: Ein neues Kapitel erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/digitale-quellenkritik/",
-          "publishedOn": "2021-07-14T06:10:09.000Z",
-          "wordCount": 1012,
-          "title": "Digitale Quellenkritik: Ein neues Kapitel"
         }
       ]
     },
@@ -6112,15 +6103,6 @@
           "publishedOn": "2021-08-02T00:23:00.000Z",
           "wordCount": 164,
           "title": "New dataset – Politicians talking about COVID"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/07/14/million-trove-tags.html",
-          "author": null,
-          "description": "I’ve always been interested in the way people add value to resources in Trove. OCR correction tends to get all the attention, but Trove users have also been busy organising resources using tags, lists, and comments. I used to refer to tagging quite often in presentations, pointing to the different ways they were used. For example, ‘TBD’ is a workflow marker, used by text correctors to label articles that are ‘To Be Done’. My favourite was ‘LRRSA’, one of the most heavily-used tags across the whole of Trove. What does it mean? It stands for the Light Rail Research Society of Australia, and the tag is used by members to mark items of shared interest. It’s a great example of how something as simple as plain text tags can be used to support collaboration and build communities.\n\nUntil its updat…",
-          "link": "https://updates.timsherratt.org/2021/07/14/million-trove-tags.html",
-          "publishedOn": "2021-07-14T07:06:00.000Z",
-          "wordCount": 637,
-          "title": "8 million Trove tags to explore!"
         }
       ]
     },
@@ -8028,5 +8010,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.12.0"
 }
