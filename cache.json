@@ -1336,6 +1336,24 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9194",
+          "author": "Celia Luterbacher",
+          "description": "La Bibliothèque nationale de France (BnF) lance pour la première fois un appel à participation pour signaler des sites français à archiver dans le cadre de sa future collecte Intelligence artificielle 2022. La Bibliothèque nationale de France archive chaque année, pour le patrimoine et la recherche,  les contenus diffusés sur le web en rapport avec […]\nThe post Appel à participation: Intelligence artificielle et archives du web appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/01/10/appel-a-participation-intelligence-artificielle-et-archives-du-web/",
+          "publishedOn": "2022-01-10T10:35:07.000Z",
+          "wordCount": 574,
+          "title": "Appel à participation: Intelligence artificielle et archives du web"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9190",
+          "author": "Celia Luterbacher",
+          "description": "In a unique collaboration with ECAL/University of Art and Design Lausanne, EPFL researchers have developed an algorithm designed to generate some of the world’s first Chinese typefaces, using machine learning. One-thousand years ago during the medieval Song dynasty, the artist and engineer Bi Sheng invented the first movable type printing technology, using porcelain and wood […]\nThe post EPFL: The art of science meets the science of art appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/01/10/epfl-the-art-of-science-meets-the-science-of-art/",
+          "publishedOn": "2022-01-10T10:18:21.000Z",
+          "wordCount": 1260,
+          "title": "EPFL: The art of science meets the science of art"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=9159",
           "author": "Heloise schibler",
           "description": "Le dhCenter UNIL-EPFL vous souhaite d’excellentes fêtes et une nouvelle année pleine d’inspiration. Nous nous réjouissons de vous retrouver en 2022 pour poursuivre ensemble nos activités ! L’équipe du dhCenter UNIL-EPFL     The dhCenter UNIL-EPFL wishes you a happy holiday season and an inspiring New Year. We look forward to seeing you in 2022 to […]\nThe post Meilleurs voeux pour la nouvelle année | Best wishes for a happy New Year appeared first on dhCenter.",
@@ -2930,6 +2948,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/759",
+          "author": "406",
+          "description": "Wir freuen uns sehr, die Gründung einer neuen DHd-AG namens \"Greening DH\" bekannt geben zu dürfen.\nZiele der AG „Greening DH“\nDiese AG geht davon aus, dass die Ausübung der…",
+          "link": "https://dig-hum.de/aktuelles/neue-dhd-ag-greening-dh-gegr%C3%BCndet",
+          "publishedOn": "2022-01-10T16:53:20.000Z",
+          "wordCount": 890,
+          "title": "Neue DHd-AG &quot;Greening DH&quot; gegründet"
+        },
+        {
           "id": "node/757",
           "author": "406",
           "description": "Zur DHd2022 in Potsdam vergeben der Verband »Digital Humanities im deutschsprachigen Raum e.V.«, das Konsortium »NFDI4Culture«, der Verein »Geistes- und kulturwissenschaftliche…",
@@ -3322,15 +3349,6 @@
           "publishedOn": "2021-07-27T09:03:24.000Z",
           "wordCount": 521,
           "title": "Neue Data Story von Studierenden: Ein Erfahrungsbericht"
-        },
-        {
-          "id": "https://digital-history.uni-bielefeld.de/?p=442",
-          "author": "Adrian Strothotte",
-          "description": "Das Team @BieDigital engagiert sich bei der Summerschool: „Digital History – Neue Werkzeuge für Quellenerschließung und Textanalyse“, die vom 23. bis 27.08.2021 von der Forschungsstelle für die Geschichte der Hanse und des Ostseeraums (FGHO) in Kooperation mit dem Historischen Seminar der CAU Kiel ausgerichtet wird. Im Rahmen der Sommerschule sollen die wichtigsten Techniken und Tools…",
-          "link": "https://digital-history.uni-bielefeld.de/2021/07/15/summerschool-digital-history-neue-werkzeuge-fuer-quellenerschliessung-und-textanalyse/",
-          "publishedOn": "2021-07-15T07:22:01.000Z",
-          "wordCount": 369,
-          "title": "Summerschool: „Digital History – Neue Werkzeuge für Quellenerschließung und Textanalyse“"
         }
       ]
     },
@@ -6209,69 +6227,6 @@
           "publishedOn": "2021-11-19T09:45:56.000Z",
           "wordCount": 381,
           "title": "Case Study 1: The National Archives (UK)"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=317",
-          "author": "AEOLIAN",
-          "description": "Roundtable discussion with the AEOLIAN Project Team: Dr Lise Jaillant (Loughborough University), Dr Annalina Caputo (Dublin City University), Glen Worthey (University of Illinois), Prof. Claire Warwick (Durham University), Prof. J. Stephen Downie (University of Illinois), Dr Paul Gooding (Glasgow University), Ryan Dubnicek (University of Illinois), and Dr Katie Aske (Loughborough University), at the first AEOLIAN […]",
-          "link": "https://www.aeolian-network.net/workshop-1-roundtable/",
-          "publishedOn": "2021-07-15T12:11:38.000Z",
-          "wordCount": 242,
-          "title": "Workshop 1: Roundtable"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=304",
-          "author": "AEOLIAN",
-          "description": "Thomas Padilla (Director of Information Systems and Technology Strategy, Center for Research Libraries) was the Keynote Speaker at the first AEOLIAN workshop, “Employing Machine Learning and Artificial Intelligence in Cultural Institutions” on the 7th July 2021. His talk was titled “Keep True: Three Strategies to Guide AI Engagement”. The presentation is followed by a Q&A […]",
-          "link": "https://www.aeolian-network.net/workshop-1-thomas-padilla-keep-true-three-strategies-to-guide-ai-engagement/",
-          "publishedOn": "2021-07-15T11:58:50.000Z",
-          "wordCount": 266,
-          "title": "Workshop 1: Thomas Padilla, “Keep True: Three Strategies to Guide AI Engagement”"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=301",
-          "author": "AEOLIAN",
-          "description": "John McQuaid (Photoarchive Lead, Frick Art Reference Library), Dr Vardan Papyan (Assistant Professor, University of Toronto), and XY Han (Doctoral Candidate, Cornell University) spoke at the first AEOLIAN workshop, “Employing Machine Learning and Artificial Intelligence in Cultural Institutions” on the 7th July 2021. Their talk was titled “AI and the Photoarchive”.",
-          "link": "https://www.aeolian-network.net/workshop-1-john-mcquaid-vardan-papyan-and-xy-han-ai-and-the-photoarchive/",
-          "publishedOn": "2021-07-15T11:52:40.000Z",
-          "wordCount": 247,
-          "title": "Workshop 1: John McQuaid, Vardan Papyan, and XY Han, “AI and the Photoarchive”"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=291",
-          "author": "AEOLIAN",
-          "description": "Amanda Henley (Head of Digital Research Services, University of North Carolina at Chapel Hill Libraries) spoke at the first AEOLIAN workshop, “Employing Machine Learning and Artificial Intelligence in Cultural Institutions” on the 7th July 2021. Her talk was titled “On the Books: Creating and Analyzing Collections as Data”.",
-          "link": "https://www.aeolian-network.net/workshop-1-amanda-henley-on-the-books-creating-and-analyzing-collections-as-data/",
-          "publishedOn": "2021-07-15T11:31:45.000Z",
-          "wordCount": 245,
-          "title": "Workshop 1: Amanda Henley, “On the Books: Creating and Analyzing Collections as Data”."
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=288",
-          "author": "AEOLIAN",
-          "description": "John Stack (Digital Director, Science Museum Group, UK) spoke at the first AEOLIAN workshop, “Employing Machine Learning and Artificial Intelligence in Cultural Institutions” on the 7th July 2021. His talk was titled “Machine Learning and Cultural Heritage: What Is It Good Enough For?”",
-          "link": "https://www.aeolian-network.net/workshop-1-john-stack-machine-learning-and-cultural-heritage-what-is-it-good-enough-for/",
-          "publishedOn": "2021-07-15T11:20:55.000Z",
-          "wordCount": 243,
-          "title": "Workshop 1: John Stack, “Machine Learning and Cultural Heritage: What Is It Good Enough For?”"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=280",
-          "author": "AEOLIAN",
-          "description": "Dr Giles Bergel (Visual Geometry Group in the Department of Engineering Science, University of Oxford) spoke at the first AEOLIAN workshop, “Employing Machine Learning and Artificial Intelligence in Cultural Institutions” on the 7th July 2021. His talk was titled “Visual AI and Printed Chapbook Illustrations at the National Library of Scotland”",
-          "link": "https://www.aeolian-network.net/workshop-1-giles-bergel-visual-ai-and-printed-chapbook-illustrations-at-the-national-library-of-scotland/",
-          "publishedOn": "2021-07-15T11:14:44.000Z",
-          "wordCount": 253,
-          "title": "Workshop 1: Giles Bergel, “Visual AI and Printed Chapbook Illustrations at the National Library of Scotland”"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=273",
-          "author": "AEOLIAN",
-          "description": "Einion Gruffudd (Project Manager, National Library of Wales) spoke at the first AEOLIAN workshop, “Employing Machine Learning and Artificial Intelligence in Cultural Institutions” on the 7th July 2021. His talk was titled “Describing the Welsh National Broadcast Archive”.",
-          "link": "https://www.aeolian-network.net/workshop-1-einion-gruffudd-describing-the-welsh-national-broadcast-archive/",
-          "publishedOn": "2021-07-15T10:54:02.000Z",
-          "wordCount": 226,
-          "title": "Workshop 1: Einion Gruffudd, “Describing the Welsh National Broadcast Archive”."
         }
       ]
     },
