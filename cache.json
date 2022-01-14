@@ -561,6 +561,15 @@
       "siteUrl": "https://blogs.kcl.ac.uk/ddh",
       "articles": [
         {
+          "id": "https://blogs.kcl.ac.uk/ddh/?p=3244",
+          "author": "Mercedes Bunz",
+          "description": "The Department of Digital Humanities (DDH) has opportunities for academics and is looking for hourly paid lecturers to assist with marking and teaching. The lecturer needs a PhD (or equivalent expertise) and the right to work in the UK. The hourly pay is £21.37 (tbc) per hour, and most work can start right away. The expertise … \nContinue reading \"Looking for academics to help with marking and teaching\"",
+          "link": "https://blogs.kcl.ac.uk/ddh/2022/01/13/looking-for-academics-to-help-with-marking-and-teaching/",
+          "publishedOn": "2022-01-13T14:54:02.000Z",
+          "wordCount": 410,
+          "title": "Looking for academics to help with marking and teaching"
+        },
+        {
           "id": "https://blogs.kcl.ac.uk/ddh/?p=3236",
           "author": "Liliana Bounegru",
           "description": "I’ll be part of a new research project on forest restoration and adaptation, led by the European Forest Institute and funded under the European Union’s H2020 programme. Together with Jonathan Gray, I’ll co-lead a team at the Department of Digital Humanities, King’s College London exploring how humanities-based digital methods can be used to understand forest issues and to explore engagement around … \nContinue reading \"New project: SUPERB to promote forest restoration and adaptation across Europe\"",
@@ -1362,6 +1371,15 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9241",
+          "author": "Heloise schibler",
+          "description": "L’École nationale des chartes (Paris) lance un appel à communication pour le colloque « Documents anciens et reconnaissance automatique des écritures manuscrites » qui aura lieu les 23 et 24 juin 2022. Cette manifestation scientifique se déroulera selon des modalités mixtes avec une diffusion prévue sur Youtube. Nombre de projets incluent aujourd’hui une étape d’acquisition automatique du texte […]\nThe post CFP: Documents anciens et reconnaissance automatique des écritures manuscrites appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/01/13/cfp-documents-anciens-et-reconnaissance-automatique-des-ecritures-manuscrites/",
+          "publishedOn": "2022-01-13T10:38:43.000Z",
+          "wordCount": 625,
+          "title": "CFP: Documents anciens et reconnaissance automatique des écritures manuscrites"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=9225",
           "author": "Celia Luterbacher",
@@ -5249,6 +5267,30 @@
       "feedUrl": "https://reviewsindh.pubpub.org/rss.xml",
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
+        {
+          "id": "70585113-5f7e-4fdc-a236-898af5ec0144",
+          "author": "Arjun Ghosh",
+          "description": "A review of The Delek Archives, a blog documenting casteism and Islamophobia in Indian schools, directed by Titas Bose and Bhaswar Faisal Khan",
+          "link": "https://reviewsindh.pubpub.org/pub/the-delek-archives",
+          "publishedOn": "2022-01-18T00:00:00.000Z",
+          "wordCount": 1234,
+          "title": "Review: The Delek Archives",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/5jvlqkrm/41642098915092.jpg"
+          }
+        },
+        {
+          "id": "0e463a51-2d8a-4b15-b582-7c8316e6c41c",
+          "author": "Brandon Walsh",
+          "description": "A review of Baltimore Traces, a multimedia teaching project on Baltimore, directed by Nicole King and Bill Shewbridge",
+          "link": "https://reviewsindh.pubpub.org/pub/baltimore-traces",
+          "publishedOn": "2022-01-11T00:00:00.000Z",
+          "wordCount": 1308,
+          "title": "Review: Baltimore Traces",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/1dnmw4vr/31642100645936.png"
+          }
+        },
         {
           "id": "29ffe4d4-ec6d-4b76-b9c5-cb2f55dc1eab",
           "author": "Molly Mann",
