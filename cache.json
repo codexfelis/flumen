@@ -3014,6 +3014,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/761",
+          "author": "406",
+          "description": "Die Kulturstiftung des Bundes mit Sitz in Halle an der Saale sucht für ihre Programmförderung zum nächstmöglichen Zeitpunkt eine/n Sachbearbeiter/in (m/w/d, Vollzeit, unbefristet…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-sachbearbeiterin-programmf%C3%B6rderung-kulturstiftung-des-bundes-hallesaale",
+          "publishedOn": "2022-01-14T16:43:55.000Z",
+          "wordCount": 758,
+          "title": "Stellenangebot: Sachbearbeiter/in Programmförderung (Kulturstiftung des Bundes, Halle/Saale)"
+        },
+        {
           "id": "node/759",
           "author": "406",
           "description": "Wir freuen uns sehr, die Gründung einer neuen DHd-AG namens \"Greening DH\" bekannt geben zu dürfen.\nZiele der AG „Greening DH“\nDiese AG geht davon aus, dass die Ausübung der…",
@@ -3509,15 +3518,6 @@
           "publishedOn": "2021-09-16T01:37:41.000Z",
           "wordCount": 745,
           "title": "Tarleton Gillespie – Do Not Recommend: When Platforms Moderate Through Their Recommendation Algorithms"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=1597",
-          "author": "Amy Harris",
-          "description": "Luciana’s presentation was an absolute tempest of ideas, provocations and inspiration. As one of the leading critical thinkers of our time this was not to be unexpected, but in trying …\n  Luciana Parisi – Critique and Machine Philosophy Read More »\nLuciana Parisi – Critique and Machine Philosophy first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/luciana-parisi-critique-and-machine-philosophy/?utm_source=rss&utm_medium=rss&utm_campaign=luciana-parisi-critique-and-machine-philosophy",
-          "publishedOn": "2021-07-19T20:01:08.000Z",
-          "wordCount": 2123,
-          "title": "Luciana Parisi – Critique and Machine Philosophy"
         }
       ]
     },
@@ -3591,6 +3591,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=7573",
+          "author": "Matthew Hayes",
+          "description": "Bodies and Structures, a Scalar-based teaching and research platform mainly focused on Japanese spatial histories and their connections to other …",
+          "link": "https://digitalorientalist.com/2022/01/14/remapping-spatial-history-an-overview-of-the-bodies-and-structures-platform/",
+          "publishedOn": "2022-01-14T13:00:00.000Z",
+          "wordCount": 2104,
+          "title": "(Re)Mapping Spatial History: An Overview of the Bodies and Structures Platform"
+        },
         {
           "id": "http://digitalorientalist.com/?p=7560",
           "author": "Adrian Plau",
@@ -5268,6 +5277,42 @@
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
         {
+          "id": "7fefa591-e2b2-4efd-8332-e2430525ee94",
+          "author": "Elizabeth Losh",
+          "description": "A review of The Penn & Slavery Project, an app investigating the University of Pennsylvania's relationship to slavery, reviewed by Elizabeth Losh",
+          "link": "https://reviewsindh.pubpub.org/pub/penn-and-slavery-project",
+          "publishedOn": "2022-01-18T00:00:00.000Z",
+          "wordCount": 1425,
+          "title": "Review: The Penn & Slavery Project",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/5otvecbj/61642187684262.png"
+          }
+        },
+        {
+          "id": "ab882336-c25b-485a-bf96-0f765c41e786",
+          "author": "Jasmine Clark",
+          "description": "Review of Digital Oral Histories for Reconciliation, a virtual reality experience on the Nova Scotia Home for Coloured Children, directed by Kristina Llewellyn",
+          "link": "https://reviewsindh.pubpub.org/pub/digital-oral-histories-for-reconciliation",
+          "publishedOn": "2022-01-18T00:00:00.000Z",
+          "wordCount": 1629,
+          "title": "Review: Digital Oral Histories for Reconciliation",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/0mw7253x/11642185896912.png"
+          }
+        },
+        {
+          "id": "bf9c5bcd-a1e8-4638-b00e-e43301d51f64",
+          "author": "Souvik Mukherjee",
+          "description": "A review of Indian Community Cookbooks Project, an archive of community cookbooks from India, directed by Khushi Gupta, Muskaan Pal, and Ananya Pujary",
+          "link": "https://reviewsindh.pubpub.org/pub/indian-community-cookbooks-project",
+          "publishedOn": "2022-01-18T00:00:00.000Z",
+          "wordCount": 1122,
+          "title": "Review: Indian Community Cookbooks Project",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/7tl4l1he/11642182310183.png"
+          }
+        },
+        {
           "id": "70585113-5f7e-4fdc-a236-898af5ec0144",
           "author": "Arjun Ghosh",
           "description": "A review of The Delek Archives, a blog documenting casteism and Islamophobia in Indian schools, directed by Titas Bose and Bhaswar Faisal Khan",
@@ -5277,6 +5322,18 @@
           "title": "Review: The Delek Archives",
           "enclosure": {
             "url": "https://assets.pubpub.org/5jvlqkrm/41642098915092.jpg"
+          }
+        },
+        {
+          "id": "8fbc9f57-2e75-456f-a7c0-a04456760296",
+          "author": "Roopika Risam",
+          "description": "Editors' note on the January 2022 issue of Reviews in Digital Humanities, guest edited by Amanda Licastro, Dibyadyuti Roy, and Schuyler Esprit",
+          "link": "https://reviewsindh.pubpub.org/pub/editors-note",
+          "publishedOn": "2022-01-11T00:00:00.000Z",
+          "wordCount": 1098,
+          "title": "Editors' Note: January 2022",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/dhyyqug8/21642191304132.png"
           }
         },
         {
@@ -5702,15 +5759,6 @@
           "publishedOn": "2021-07-26T04:00:00.000Z",
           "wordCount": 1042,
           "title": "Manuscript Monday: Ms. Codex 681 – Book of hours"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=1113",
-          "author": "Dennis Mullen",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Coll. 390, Item 409 – Śivamukhyasahasranāmastotra, 1671. This manuscript was written in Sanskrit and is used for public or private recitation or prayer and worship (pūjā), venerating and praising a thousand names associated with theContinue reading \"Manuscript Monday: Ms. Coll. 390, Item 409 – Śivamukhyasahasranāmastotra, 1671\"",
-          "link": "https://schoenberginstitute.org/2021/07/19/manuscript-monday-ms-coll-390-item-409-sivamukhyasahasranamastotra-1671/",
-          "publishedOn": "2021-07-19T04:00:00.000Z",
-          "wordCount": 1084,
-          "title": "Manuscript Monday: Ms. Coll. 390, Item 409 – Śivamukhyasahasranāmastotra, 1671"
         }
       ]
     },
@@ -5719,6 +5767,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=952",
+          "author": "Nele Noppe",
+          "description": "Welcome to another week of new digital scholarschip resources added to the Artes Digital Scholarship Community on Zotero (learn more about this group and join with your Zotero account to get the group’s resources right in Zotero on your desktop). In this edition: reference management tips and tricks, essential reading for those starting out with research on social media or other user-generated content online, a guide to organising and supporting citizen science projects, musings about the role of software in...",
+          "link": "https://scholarlytales.hcommons.org/2022/01/14/new-digital-scholarship-resources-january-7-14/",
+          "publishedOn": "2022-01-14T15:54:05.000Z",
+          "wordCount": 951,
+          "title": "New digital scholarship resources, January 7-14"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=949",
           "author": "Leah Budke",
@@ -6264,6 +6321,15 @@
       "feedUrl": "https://www.aeolian-network.net/feed",
       "siteUrl": "https://www.aeolian-network.net",
       "articles": [
+        {
+          "id": "https://www.aeolian-network.net/?p=444",
+          "author": "AEOLIAN",
+          "description": "Dr. Samantha Shorey (University of Texas at Austin) presented her paper ‘Working Futures for AI in Organizations‘ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Tuesday 26th October 2021. Abstract: The promise (or the threat) that artificial intelligence will eliminate human labor is a recurring theme in […]",
+          "link": "https://www.aeolian-network.net/workshop-2-dr-samantha-shorey/",
+          "publishedOn": "2021-12-09T11:45:14.000Z",
+          "wordCount": 439,
+          "title": "Workshop 2: Dr. Samantha Shorey, ‘Working Futures for AI in Organizations’"
+        },
         {
           "id": "https://www.aeolian-network.net/?p=436",
           "author": "AEOLIAN",

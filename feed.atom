@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-14T08:15:22.345Z</updated>
+    <updated>2022-01-15T08:14:40.564Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -24,6 +24,36 @@ Kõik digihumanitaariast ja selle kõrvalerialast huvitunud on oodatud reedel, 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Review: The Penn & Slavery Project]]></title>
+        <id>7fefa591-e2b2-4efd-8332-e2430525ee94</id>
+        <link href="https://reviewsindh.pubpub.org/pub/penn-and-slavery-project"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of The Penn & Slavery Project, an app investigating the University of Pennsylvania's relationship to slavery, reviewed by Elizabeth Losh]]></summary>
+        <author>
+            <name>Elizabeth Losh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Digital Oral Histories for Reconciliation]]></title>
+        <id>ab882336-c25b-485a-bf96-0f765c41e786</id>
+        <link href="https://reviewsindh.pubpub.org/pub/digital-oral-histories-for-reconciliation"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Review of Digital Oral Histories for Reconciliation, a virtual reality experience on the Nova Scotia Home for Coloured Children, directed by Kristina Llewellyn]]></summary>
+        <author>
+            <name>Jasmine Clark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Indian Community Cookbooks Project]]></title>
+        <id>bf9c5bcd-a1e8-4638-b00e-e43301d51f64</id>
+        <link href="https://reviewsindh.pubpub.org/pub/indian-community-cookbooks-project"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Indian Community Cookbooks Project, an archive of community cookbooks from India, directed by Khushi Gupta, Muskaan Pal, and Ananya Pujary]]></summary>
+        <author>
+            <name>Souvik Mukherjee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Review: The Delek Archives]]></title>
         <id>70585113-5f7e-4fdc-a236-898af5ec0144</id>
         <link href="https://reviewsindh.pubpub.org/pub/the-delek-archives"/>
@@ -31,6 +61,36 @@ Kõik digihumanitaariast ja selle kõrvalerialast huvitunud on oodatud reedel, 
         <summary type="html"><![CDATA[A review of The Delek Archives, a blog documenting casteism and Islamophobia in Indian schools, directed by Titas Bose and Bhaswar Faisal Khan]]></summary>
         <author>
             <name>Arjun Ghosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: Sachbearbeiter/in Programmförderung (Kulturstiftung des Bundes, Halle/Saale)]]></title>
+        <id>node/761</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-sachbearbeiterin-programmf%C3%B6rderung-kulturstiftung-des-bundes-hallesaale"/>
+        <updated>2022-01-14T16:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Die Kulturstiftung des Bundes mit Sitz in Halle an der Saale sucht für ihre Programmförderung zum nächstmöglichen Zeitpunkt eine/n Sachbearbeiter/in (m/w/d, Vollzeit, unbefristet…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New digital scholarship resources, January 7-14]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=952</id>
+        <link href="https://scholarlytales.hcommons.org/2022/01/14/new-digital-scholarship-resources-january-7-14/"/>
+        <updated>2022-01-14T15:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to another week of new digital scholarschip resources added to the Artes Digital Scholarship Community on Zotero (learn more about this group and join with your Zotero account to get the group’s resources right in Zotero on your desktop). In this edition: reference management tips and tricks, essential reading for those starting out with research on social media or other user-generated content online, a guide to organising and supporting citizen science projects, musings about the role of software in...]]></summary>
+        <author>
+            <name>Nele Noppe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Re)Mapping Spatial History: An Overview of the Bodies and Structures Platform]]></title>
+        <id>http://digitalorientalist.com/?p=7573</id>
+        <link href="https://digitalorientalist.com/2022/01/14/remapping-spatial-history-an-overview-of-the-bodies-and-structures-platform/"/>
+        <updated>2022-01-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bodies and Structures, a Scalar-based teaching and research platform mainly focused on Japanese spatial histories and their connections to other …]]></summary>
+        <author>
+            <name>Matthew Hayes</name>
         </author>
     </entry>
     <entry>
@@ -328,6 +388,16 @@ The post Réflexions sur les humanités numériques — origines, définitions, 
         <summary type="html"><![CDATA[The increasing ubiquity of machine learning algorithms in our everyday lives has prompted much critical debate over their ethical and epistemological implications. Much of this debate has focused on the kinds of social biases they encode and the need for humans to correct or intervene in their automated decisions. Humanistic disciplines naturally have much to offer these debates, with their long tradition of attending to the partiality of any claims to generalizable truth. But this critical stance can at times hinder recognition of machine learning as itself mired in a long history of debate over how to reason about error, bias, and the uncertainty of all knowledge. What might humanistic inquiry gain not by thinking around these ideas, as if they were problems belonging to the machine or a…]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editors' Note: January 2022]]></title>
+        <id>8fbc9f57-2e75-456f-a7c0-a04456760296</id>
+        <link href="https://reviewsindh.pubpub.org/pub/editors-note"/>
+        <updated>2022-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Editors' note on the January 2022 issue of Reviews in Digital Humanities, guest edited by Amanda Licastro, Dibyadyuti Roy, and Schuyler Esprit]]></summary>
+        <author>
+            <name>Roopika Risam</name>
         </author>
     </entry>
     <entry>
@@ -1727,6 +1797,16 @@ Read the full call
  9 December 2021]]></summary>
         <author>
             <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop 2: Dr. Samantha Shorey, ‘Working Futures for AI in Organizations’]]></title>
+        <id>https://www.aeolian-network.net/?p=444</id>
+        <link href="https://www.aeolian-network.net/workshop-2-dr-samantha-shorey/"/>
+        <updated>2021-12-09T11:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Samantha Shorey (University of Texas at Austin) presented her paper ‘Working Futures for AI in Organizations‘ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Tuesday 26th October 2021. Abstract: The promise (or the threat) that artificial intelligence will eliminate human labor is a recurring theme in […]]]></summary>
+        <author>
+            <name>AEOLIAN</name>
         </author>
     </entry>
     <entry>
@@ -11056,28 +11136,6 @@ The Vera and Donald Blinken Open Society Archives (OSA) at Central European Univ
 The post The Author Gender Limiter Tool Brings Exciting Potential to the Study of Women’s Authorship and Digital Humanities appeared first on The Gale Review.]]></summary>
         <author>
             <name>Gale Review Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luciana Parisi – Critique and Machine Philosophy]]></title>
-        <id>https://digitaldemocracies.org/?p=1597</id>
-        <link href="https://digitaldemocracies.org/luciana-parisi-critique-and-machine-philosophy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=luciana-parisi-critique-and-machine-philosophy"/>
-        <updated>2021-07-19T20:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Luciana’s presentation was an absolute tempest of ideas, provocations and inspiration. As one of the leading critical thinkers of our time this was not to be unexpected, but in trying …
-  Luciana Parisi – Critique and Machine Philosophy Read More »
-Luciana Parisi – Critique and Machine Philosophy first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Amy Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Ms. Coll. 390, Item 409 – Śivamukhyasahasranāmastotra, 1671]]></title>
-        <id>http://schoenberginstitute.org/?p=1113</id>
-        <link href="https://schoenberginstitute.org/2021/07/19/manuscript-monday-ms-coll-390-item-409-sivamukhyasahasranamastotra-1671/"/>
-        <updated>2021-07-19T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Coll. 390, Item 409 – Śivamukhyasahasranāmastotra, 1671. This manuscript was written in Sanskrit and is used for public or private recitation or prayer and worship (pūjā), venerating and praising a thousand names associated with theContinue reading "Manuscript Monday: Ms. Coll. 390, Item 409 – Śivamukhyasahasranāmastotra, 1671"]]></summary>
-        <author>
-            <name>Dennis Mullen</name>
         </author>
     </entry>
 </feed>
