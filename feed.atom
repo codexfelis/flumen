@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-21T08:13:36.931Z</updated>
+    <updated>2022-01-22T08:12:56.682Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DH Beyond the Human: A Re-Cap of the CDHI’s Fourth Lightning Lunch (2021–2022)]]></title>
+        <id>https://dhn.utoronto.ca/?p=4561</id>
+        <link href="https://dhn.utoronto.ca/dh-beyond-the-human-a-re-cap/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dh-beyond-the-human-a-re-cap"/>
+        <updated>2022-01-21T16:34:32.000Z</updated>
+        <summary type="html"><![CDATA[By Tracy O’Brien The fifth CDHI Lightning Lunch of the 2021–22 year took digital humanities research “beyond the human” to discuss how technology affects the non-human world and how the […]]]></summary>
+        <author>
+            <name>DHN Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New digital scholarship resources, January 15-21]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=957</id>
+        <link href="https://scholarlytales.hcommons.org/2022/01/21/new-digital-scholarship-resources-january-15-21/"/>
+        <updated>2022-01-21T14:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to another week of new digital scholarschip resources added to the Artes Digital Scholarship Community on Zotero (learn more about this group and join with your Zotero account to get the group’s resources right in Zotero on your desktop). It’s a brief one; we’re currently reading a lot of excellent data management plans from new PhD researchers, which will be their own blog post sometime in February. In this edition: a fantastic new open access resource on data management in linguistics, unfortunate mishaps...]]></summary>
+        <author>
+            <name>Nele Noppe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AABC – African Alphabets of the Bayreuth Cluster]]></title>
+        <id>http://digitalorientalist.com/?p=7213</id>
+        <link href="https://digitalorientalist.com/2022/01/21/aabc-african-alphabets-of-the-bayreuth-cluster/"/>
+        <updated>2022-01-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a post by our guest contributors, Ulrich Rebstock and Marvin Müller The application AABC (African Alphabets of the …]]></summary>
+        <author>
+            <name>DaigengnaDuoer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHNB BOARD: CALL FOR NOMINATIONS]]></title>
+        <id>https://dhnb.eu/?p=2090</id>
+        <link href="https://dhnb.eu/dhnb-board-call-for-nominations/"/>
+        <updated>2022-01-21T12:30:42.000Z</updated>
+        <summary type="html"><![CDATA[The Nomination Committee of DHNB opens the call for nominations for five positions for the next election period which starts on 15 February 2022. Board members are normally elected for a 3-year period, and three positions are open for the period 2022-2025. In addition, one position is open for the period 2022-2024, and one position for the […]]]></summary>
+        <author>
+            <name>Olga Holownia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digihumanitaaria arendusseminar]]></title>
         <id>35371 at http://digihum.ut.ee</id>
@@ -21,6 +61,37 @@ Kõik digihumanitaariast ja selle kõrvalerialast huvitunud on oodatud reedel, 
  Loe lähemalt Digihumanitaaria arendusseminar kohta]]></summary>
         <author>
             <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘COLLaiTE: An Artificial Intelligence Approach to Comparing Text Versions’ funded!]]></title>
+        <id>https://dhlab.nl/?p=291</id>
+        <link href="https://dhlab.nl/collaite-an-artificial-intelligence-approach-to-comparing-text-versions-funded/"/>
+        <updated>2022-01-21T11:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Elli Bleeker and Ronald Haentjens Dekker‘s ‘COLLaiTE: An Artificial Intelligence Approach to Comparing Text Versions’ project has been awarded the Open eScience Call 2021. The Open eScience open call supports research that requires the development and application of advanced digital technologies and research software. COLLaiTE addresses an urgent methodological research challenge that can count on ... Read more ‘COLLaiTE: An Artificial Intelligence Approach to Comparing Text Versions’ funded!]]></summary>
+        <author>
+            <name>DHLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research skills in computational literary studies, a survey]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1760</id>
+        <link href="https://discourse.computational-humanities-research.org/t/research-skills-in-computational-literary-studies-a-survey/1760"/>
+        <updated>2022-01-21T11:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Dear CHR community,
+We, together with CLS INFRA team, seek for your help and want to invite you to participate in the quick survey to map the current landscape and future directions in teaching computational literary studies!
+CLS INFRA project aims to  create unified and easy access to a wide range of European and national infrastructures for the Computational Literary Studies community. This includes: connecting the resources and establishing standardized access to them, providing training environments and consolidating research networks, promoting the theoretical considerations for computational work on literature.
+With this survey, CLS INFRA is looking for your help to find out which areas of research you would like to see represented in learning the computational and research skills necessary for data-driven studies of literature. Everyone with interest in the subject is invited to partake in the survey, regardless of experience level. The survey takes about 10-15 minutes to complete and you will help us shape the future of computational literary studies! 
+The results of this survey will be used to supplement the current offer in training and schooling: CLS INFRA is organizing a series of Training Schools in the directions outlined by the research community.
+Take me to the survey.
+Thanks in advance for your time – and for forwarding the survey to those who might be interested!
+Best wishes on behalf of the CLS INFRA project team,
+Web
+Twitter
+1 post - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>ash</name>
         </author>
     </entry>
     <entry>
@@ -11318,16 +11389,6 @@ For questions, email v-hub@it.ox.ac.uk.]]></summary>
         <summary type="html"><![CDATA[In a year dominated by a global pandemic and both remote working and teaching, we lost many of the traditional ways that we as scholars could stay connected. One of those, the traditional extra-curricular seminar series that was a coming together space for people at different stages of their career, had to go online. And […]]]></summary>
         <author>
             <name>uczcrym</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 681 – Book of hours]]></title>
-        <id>http://schoenberginstitute.org/?p=1671</id>
-        <link href="https://schoenberginstitute.org/2021/07/26/manuscript-monday-ms-codex-681-book-of-hours/"/>
-        <updated>2021-07-26T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 681, Book of hours. This manuscript was written in France, between 1450 and 1500, in Latin, and it is a fragment of a book of hours with French script. You can see the fullContinue reading "Manuscript Monday: Ms. Codex 681 – Book of hours"]]></summary>
-        <author>
-            <name>Dennis Mullen</name>
         </author>
     </entry>
 </feed>
