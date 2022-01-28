@@ -552,6 +552,15 @@
       "siteUrl": "https://blogs.kcl.ac.uk/ddh",
       "articles": [
         {
+          "id": "https://blogs.kcl.ac.uk/ddh/?p=3263",
+          "author": "Mercedes Bunz",
+          "description": "Our Department is delighted to welcome colleagues who are currently contributing to the teaching of a range of our modules this semester. These new teaching staff include:  Dr Giota Alevizou, who is a digital media and communications scholar and holds fellowship positions at the Open University’s Knowledge Media Institute (KMi) at the LSE’s Media and … \nContinue reading \"New colleagues contributing to teaching in Digital Humanities this semester \"",
+          "link": "https://blogs.kcl.ac.uk/ddh/2022/01/27/new-colleagues-contributing-to-teaching-in-digital-humanities-this-semester/",
+          "publishedOn": "2022-01-27T17:31:22.000Z",
+          "wordCount": 998,
+          "title": "New colleagues contributing to teaching in Digital Humanities this semester"
+        },
+        {
           "id": "https://blogs.kcl.ac.uk/ddh/?p=3251",
           "author": "Btihaj Ajana",
           "description": "Btihaj Ajana, Professor of Ethics and Digital Culture at the Department of Digital Humanities, published a new book with Simone Guidi (Italian National Research Council) and Joaquim Braga (University of Coimbra) under the title, Quantification of Bodies in Health: Multidisciplinary Perspectives. This book aims to deepen understanding of the growing phenomenon of quantification in the … \nContinue reading \"New book: Quantification of Bodies in Health\"",
@@ -1380,6 +1389,15 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9414",
+          "author": "Heloise schibler",
+          "description": "Dirigé par Philippe Kaenel (Section d’histoire de l’art, Centre des sciences historiques de la culture) et François Vallotton (Section d’histoire, Centre des sciences historiques de la culture), membres du dhCenter,  le numéro thématique annuel de la Revue historique vaudoise est consacré à l’évolution de la presse vaudoise dans ses relations aux autres arts et médias. […]\nThe post Du papier aux autres médias : la presse vaudoise appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/01/27/du-papier-aux-autres-medias-la-presse-vaudoise/",
+          "publishedOn": "2022-01-27T09:18:30.000Z",
+          "wordCount": 599,
+          "title": "Du papier aux autres médias : la presse vaudoise"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=9393",
           "author": "Heloise schibler",
@@ -4914,6 +4932,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.68",
+          "author": null,
+          "description": "The China Biographical Database (CBDB) is the largest prosopographical database for the study of Chinese history. We use regular expressions and neural network models to systematically harvest data from primary and secondary sources and employ an entity-relationship model to organize our data. As a relational database with both online and offline versions, CBDB provides freely accessible, structured data for macroscopic, quantitative studies of premodern China. The data in CBDB is continuously disambiguated and readily formatted for statistical, social network, and spatial analyses, and also has value for tagging named entities in historical texts and contextualizing other data collections.\n Published on 2022-01-27 11:34:30",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.68",
+          "publishedOn": "2022-01-28T08:13:27.329Z",
+          "wordCount": 3286,
+          "title": "China Biographical Database (CBDB): A Relational Database for Prosopographical Research of Pre-Modern China"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.56",
           "author": null,
           "description": "We present a new dataset for the task of toponym resolution in digitized historical newspapers in English. It consists of 343 annotated articles from newspapers based in four different locations in England (Manchester, Ashton-under-Lyne, Poole and Dorchester), published between 1780 and 1870. The articles have been manually annotated with mentions of places, which are linked—whenever possible—to their corresponding entry on Wikipedia. The dataset consists of 3,364 annotated toponyms, of which 2,784 have been provided with a link to Wikipedia. The dataset is published in the British Library shared research repository, and is especially of interest to researchers working on improving semantic access to historical newspaper content.\n Published on 2022-01-24 11:33:23",
@@ -5127,6 +5154,15 @@
       "feedUrl": "https://openmethods.dariah.eu/feed/",
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
+        {
+          "id": "http://openmethods.dariah.eu/?p=3149",
+          "author": "Marinella Testori Erzsébet Tóth-Czifra",
+          "description": "Introduction: In this post, we highlight a new publication venue for Historian Digital Humanists, the Journal of Digital History where digital scholarship is presented in three layers: narrative, epistemic and data layers. These publications are therefore complex digital scholarly outputs that open a bigger window on DH research and enable readers to follow along the whole research process, execute or eventually even reproduce certain steps. We showcase this innovative publication method though highlighting a methodology paper from the first issue, Sarah Oberbichler’s and Eva Pfanzelter’s Topic-specific corpus building: A step towards a representative newspaper corpus on the topic of return migration using text mining methods.\n\n[Click ‘Read more’ for the full post!]",
+          "link": "https://openmethods.dariah.eu/2022/01/27/topic-specific-corpus-building-a-step-towards-a-representative-newspaper-corpus-on-the-topic-of-return-migration-using-text-mining-methods-journal-of-digital-history/",
+          "publishedOn": "2022-01-27T14:04:34.000Z",
+          "wordCount": 1719,
+          "title": "Topic-specific corpus building: A step towards a representative newspaper corpus on the topic of return migration using text mining methods – Journal of Digital History"
+        },
         {
           "id": "https://link.springer.com/article/10.1007/s42803-021-00030-7",
           "author": "Author on Source",
@@ -6225,6 +6261,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2022/01/28/testing-testing.html",
+          "author": null,
+          "description": "I regularly update the Python packages used in the different sections of the GLAM Workbench; though probably not as often as I should. Part of the problem is that once I've updated the packages, I have to run all the notebooks to make sure I haven't inadvertently broken something -- and this takes time. And in those cases where the notebooks need an API key to run, I have to copy and paste the key in at the appropriate spots, then remember to delete them afterwords. They're little niggles, but they add up, particularly as the GLAM Workbench itself expands.\nI've been looking around at Jupyter notebook automated testing options for a while. There's nbmake, testbook, and nbval, as well as custom solutions involving things like papermill and nbconvert. After much wavering, I finally decided to…",
+          "link": "https://updates.timsherratt.org/2022/01/28/testing-testing.html",
+          "publishedOn": "2022-01-28T04:01:15.000Z",
+          "wordCount": 668,
+          "title": "Testing, testing..."
+        },
+        {
           "id": "http://wragge.micro.blog/2021/12/09/some-big-pictures.html",
           "author": null,
           "description": "One of the things I really like about Jupyter is the fact that I can share notebooks in a variety of different formats. Tools like QueryPic can run as simple web apps using Voila, static versions of notebooks can be viewed using NBViewer, and live versions can be spun up as required on Binder. It’s also possible to export notebooks at PDFs, slideshows, or just plain-old HTML pages. Just recently I realised I could export notebooks to HTML using the same template I use for Voila. This gives me another way of sharing – static web pages delivered via the main GLAM Workbench site.\nHere’s a couple of examples:\nPapers Past newspapers in DigitalNZ – showing which Papers Past newspapers are available through DigitalNZ\nTrove newspapers – number of issues per day, 1803–2020 – the number of newspaper issues published every day in Trove\n\nBoth are HTML pages that embed visualisations created using Altair. The visualisations are rendered using javascript, and even though the notebook isn’t running in a live computing environment, there’s some basic interactivity built-in – for example, you can hover for more details, and click on the DigitalNZ chart to search for articles from a newspaper. More to come! #dhhacks",
@@ -7231,6 +7276,24 @@
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
         {
+          "id": "1459 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "In a new blog, we look at how DRI member the Hunt Museum is working to preserve the ‘Sybil Connolly’ collection of haute couture design by both conserving the physical collection materials in the Museum and digitally preserving the paper-based material on the DRI for long-term access and discovery.",
+          "link": "https://www.dri.ie/preserving-sybil-connolly-collection",
+          "publishedOn": "2022-01-27T15:21:57.000Z",
+          "wordCount": 1098,
+          "title": "Preserving the Sybil Connolly Collection"
+        },
+        {
+          "id": "1458 at https://www.dri.ie",
+          "author": "Natalie Harrower",
+          "description": "We are very pleased to announce the appointment of Dr Lisa Griffith as the inaugural Membership Manager at the Digital Repository of Ireland.",
+          "link": "https://www.dri.ie/dri-appoints-inaugural-membership-manager-dr-lisa-griffith",
+          "publishedOn": "2022-01-27T13:20:49.000Z",
+          "wordCount": 995,
+          "title": "DRI Appoints Inaugural Membership Manager, Dr Lisa Griffith"
+        },
+        {
           "id": "1457 at https://www.dri.ie",
           "author": "ainemadden",
           "description": "The 17th International Conference on Open Repositories, OR2022, will be held in Denver, Colorado, USA from June 6th to June 9th, 2022. The organisers are pleased to invite contributions to the program.",
@@ -7773,9 +7836,9 @@
       ]
     },
     {
-      "title": "Force 11 Blogs",
+      "title": "Comments on:",
       "feedUrl": "https://www.force11.org/blogs/feed",
-      "siteUrl": "https://www.force11.org/blogs/feed",
+      "siteUrl": null,
       "articles": [
         {
           "id": "12488 at https://www.force11.org",

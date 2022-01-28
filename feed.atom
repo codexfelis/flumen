@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-27T08:13:44.853Z</updated>
+    <updated>2022-01-28T08:13:27.377Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China Biographical Database (CBDB): A Relational Database for Prosopographical Research of Pre-Modern China]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.68</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.68"/>
+        <updated>2022-01-28T08:13:27.329Z</updated>
+        <summary type="html"><![CDATA[The China Biographical Database (CBDB) is the largest prosopographical database for the study of Chinese history. We use regular expressions and neural network models to systematically harvest data from primary and secondary sources and employ an entity-relationship model to organize our data. As a relational database with both online and offline versions, CBDB provides freely accessible, structured data for macroscopic, quantitative studies of premodern China. The data in CBDB is continuously disambiguated and readily formatted for statistical, social network, and spatial analyses, and also has value for tagging named entities in historical texts and contextualizing other data collections.
+ Published on 2022-01-27 11:34:30]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing, testing...]]></title>
+        <id>http://wragge.micro.blog/2022/01/28/testing-testing.html</id>
+        <link href="https://updates.timsherratt.org/2022/01/28/testing-testing.html"/>
+        <updated>2022-01-28T04:01:15.000Z</updated>
+        <summary type="html"><![CDATA[I regularly update the Python packages used in the different sections of the GLAM Workbench; though probably not as often as I should. Part of the problem is that once I've updated the packages, I have to run all the notebooks to make sure I haven't inadvertently broken something -- and this takes time. And in those cases where the notebooks need an API key to run, I have to copy and paste the key in at the appropriate spots, then remember to delete them afterwords. They're little niggles, but they add up, particularly as the GLAM Workbench itself expands.
+I've been looking around at Jupyter notebook automated testing options for a while. There's nbmake, testbook, and nbval, as well as custom solutions involving things like papermill and nbconvert. After much wavering, I finally decided to…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New colleagues contributing to teaching in Digital Humanities this semester]]></title>
+        <id>https://blogs.kcl.ac.uk/ddh/?p=3263</id>
+        <link href="https://blogs.kcl.ac.uk/ddh/2022/01/27/new-colleagues-contributing-to-teaching-in-digital-humanities-this-semester/"/>
+        <updated>2022-01-27T17:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Our Department is delighted to welcome colleagues who are currently contributing to the teaching of a range of our modules this semester. These new teaching staff include:  Dr Giota Alevizou, who is a digital media and communications scholar and holds fellowship positions at the Open University’s Knowledge Media Institute (KMi) at the LSE’s Media and … 
+Continue reading "New colleagues contributing to teaching in Digital Humanities this semester "]]></summary>
+        <author>
+            <name>Mercedes Bunz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preserving the Sybil Connolly Collection]]></title>
+        <id>1459 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/preserving-sybil-connolly-collection"/>
+        <updated>2022-01-27T15:21:57.000Z</updated>
+        <summary type="html"><![CDATA[In a new blog, we look at how DRI member the Hunt Museum is working to preserve the ‘Sybil Connolly’ collection of haute couture design by both conserving the physical collection materials in the Museum and digitally preserving the paper-based material on the DRI for long-term access and discovery.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topic-specific corpus building: A step towards a representative newspaper corpus on the topic of return migration using text mining methods – Journal of Digital History]]></title>
+        <id>http://openmethods.dariah.eu/?p=3149</id>
+        <link href="https://openmethods.dariah.eu/2022/01/27/topic-specific-corpus-building-a-step-towards-a-representative-newspaper-corpus-on-the-topic-of-return-migration-using-text-mining-methods-journal-of-digital-history/"/>
+        <updated>2022-01-27T14:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: In this post, we highlight a new publication venue for Historian Digital Humanists, the Journal of Digital History where digital scholarship is presented in three layers: narrative, epistemic and data layers. These publications are therefore complex digital scholarly outputs that open a bigger window on DH research and enable readers to follow along the whole research process, execute or eventually even reproduce certain steps. We showcase this innovative publication method though highlighting a methodology paper from the first issue, Sarah Oberbichler’s and Eva Pfanzelter’s Topic-specific corpus building: A step towards a representative newspaper corpus on the topic of return migration using text mining methods.
+
+[Click ‘Read more’ for the full post!]]]></summary>
+        <author>
+            <name>Marinella Testori Erzsébet Tóth-Czifra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Appoints Inaugural Membership Manager, Dr Lisa Griffith]]></title>
+        <id>1458 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-appoints-inaugural-membership-manager-dr-lisa-griffith"/>
+        <updated>2022-01-27T13:20:49.000Z</updated>
+        <summary type="html"><![CDATA[We are very pleased to announce the appointment of Dr Lisa Griffith as the inaugural Membership Manager at the Digital Repository of Ireland.]]></summary>
+        <author>
+            <name>Natalie Harrower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Du papier aux autres médias : la presse vaudoise]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=9414</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/01/27/du-papier-aux-autres-medias-la-presse-vaudoise/"/>
+        <updated>2022-01-27T09:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Dirigé par Philippe Kaenel (Section d’histoire de l’art, Centre des sciences historiques de la culture) et François Vallotton (Section d’histoire, Centre des sciences historiques de la culture), membres du dhCenter,  le numéro thématique annuel de la Revue historique vaudoise est consacré à l’évolution de la presse vaudoise dans ses relations aux autres arts et médias. […]
+The post Du papier aux autres médias : la presse vaudoise appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call for Funding: CDHI Postdoctoral Fellowship in Community Data (2022-24)]]></title>
         <id>https://dhn.utoronto.ca/?p=4580</id>
