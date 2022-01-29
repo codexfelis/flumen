@@ -2,10 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-28T08:13:27.377Z</updated>
+    <updated>2022-01-29T08:12:39.524Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zotero support in Australian GLAMs]]></title>
+        <id>http://wragge.micro.blog/2022/01/29/zotero-support-in.html</id>
+        <link href="https://updates.timsherratt.org/2022/01/29/zotero-support-in.html"/>
+        <updated>2022-01-29T06:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Last year I started compiling information about the level of Zotero integration provided by Australian GLAM organisations though their online collections. The basic test is, can Zotero capture useful, structured information about an item from the collection interface. The results are not great.
+Zotero extracts information from a web site using a variety of 'translators'. Some of these translators look for generic information embedded in a web page, such as <TITLE> and <META> tags. Others are written to work with widely-used software systems, such as library catalogues. For bespoke systems, custom translators can be created to extract the necessary data. But sometimes, the data just isn't available in a form Zotero can access.
+custom translator for it many years ago. There's also a custom translator for Trove's digitised newspapers, but the translator for other parts of Trove was broken by the site's upgrade in 2020. 
+  
+Dublin Core metadata in web pages, and Australian government agencies were expected to make use of AGLS to aid web discovery. But it seems these are no longer priorities.
+  
+The good news is we can fix this, either by supporting and encouraging GLAM organisations to embed useful metadata, or by creating custom translators. There's been a lot of talk about HASS research infrastructure over the last six months, and it seems to me that some integration and cooperation in this area would make a big difference to the way researchers work with GLAM collections.
+online form available if you'd like to contribute new results to the spreadsheet, or update existing details.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forgeries]]></title>
+        <id>http://schoenberginstitute.org/?p=16262</id>
+        <link href="https://schoenberginstitute.org/2022/01/28/forgeries/"/>
+        <updated>2022-01-28T22:06:39.000Z</updated>
+        <summary type="html"><![CDATA[For Coffee With A Codex on Wednesday, January 26, Schoenberg Curator of Manuscripts Nick Herman showed us several forgeries and reproductions from Kislak collections. The first manuscript is LJS 102, an Ethiopian manuscript written in Ge’ez. The text is religious, Account of Creation by the Trinity (Zena nagaromu, f. 1r), followed by hymns. The manuscriptContinue reading "Forgeries"]]></summary>
+        <author>
+            <name>dotporter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Tableau Data Analysis/Visualization Power Start Workshop Series, Monday Evenings 2/7, 2/14 and 2/21 from 6:00-9:00 PM ET]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1765</id>
+        <link href="https://discourse.computational-humanities-research.org/t/free-tableau-data-analysis-visualization-power-start-workshop-series-monday-evenings-2-7-2-14-and-2-21-from-600-pm-et/1765"/>
+        <updated>2022-01-28T20:05:25.000Z</updated>
+        <summary type="html"><![CDATA[At the invitation of the George Mason University Data Science and Computation Society student group, Paul Albert (GMU Art History graduate student and Tableau Instructor) will be offering a free 3-hour Tableau Power Start workshop on 2/7/22 from 6:00-9:00 PM EST.  There will be two optional follow-up sessions on 2/14 and 2/21 to progressively build upon the skills learned in the first session.  All from the Computational Humanities community are welcome!
+Session recordings will be sent to all who register.
+Paul has helped organize and deliver over 200 Tableau workshops to over 3,000 participants (both before and since retiring from Tableau).
+To register and learn how to download a free academic copy of Tableau, please go to  Meeting Registration - Zoom
+1 post - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>PaulAlbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New digital scholarship resources since Jan. 20: Learning metadata hands-on edition]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=966</id>
+        <link href="https://scholarlytales.hcommons.org/2022/01/28/new-digital-scholarship-resources-since-jan-20-learning-metadata-hands-on-edition/"/>
+        <updated>2022-01-28T15:26:25.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to another week of new digital scholarschip resources added to the Artes Digital Scholarship Community on Zotero (learn more about this group and join with your Zotero account to get the group’s resources right in Zotero on your desktop). This week, we have a neat trick for getting started with metadata if you currently have no idea how metadata is relevant for your research. “How will you apply metadata?” This question appears on every data management plan template. In workshops and resources like...]]></summary>
+        <author>
+            <name>Nele Noppe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHd2022 wird vollständig als virtuelle Konferenz durchgeführt]]></title>
+        <id>node/768</id>
+        <link href="https://dig-hum.de/aktuelles/dhd2022-wird-vollst%C3%A4ndig-als-virtuelle-konferenz-durchgef%C3%BChrt"/>
+        <updated>2022-01-28T15:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Nach intensiven Diskussionen und einer erneuten Risikoanalyse haben sich die lokalen Organisator*innen der Universität Potsdam und der Fachhochschule Potsdam entschieden, die…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Vacancy: Full-time FED-tWIN Position with Focus on Belgian Digital Book Heritage]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=969</id>
+        <link href="https://scholarlytales.hcommons.org/2022/01/28/job-vacancy-full-time-fed-twin-position-with-focus-on-belgian-digital-book-heritage/"/>
+        <updated>2022-01-28T15:08:50.000Z</updated>
+        <summary type="html"><![CDATA[KU Leuven and the Royal Library of Belgium (KBR) are accepting applications for the full-time FED-tWIN position, “POP Heritage – Popular Heritage Lost & Found. A new approach to the online exploration and curation of the Belgian mass market heritage (20th-21st Century).” 50% of this full-time position entails a tenure track position at the KU Leuven Arts Faculty in Cultural Studies with a focus on digital cultural heritage, data analysis, and data visualization in the field of Belgian popular literature....]]></summary>
+        <author>
+            <name>Leah Budke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le médialab de Sciences Po cherche un.e post-doc]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=9446</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/01/28/le-medialab-de-sciences-po-cherche-un-e-post-doc/"/>
+        <updated>2022-01-28T14:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Le médialab de Sciences Po recrute un post-doc en sciences sociales computationnelles sur le tournant “génomique ” en oncologie dans le cadre du projet ESPADON (Espaces d’Actionnabilité des Données en Oncologie) financé par l’INCA. Le poste est ouvert à compter du printemps 2022, pour une durée de 15 mois. A propos du projet Ce poste […]
+The post Le médialab de Sciences Po cherche un.e post-doc appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginners’ Guide to Digital Resources in Sanskrit]]></title>
+        <id>http://digitalorientalist.com/?p=7637</id>
+        <link href="https://digitalorientalist.com/2022/01/28/a-beginners-guide-to-digital-resources-in-sanskrit/"/>
+        <updated>2022-01-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest post written by Udita Das. A few months back a friend of mine told me about …]]></summary>
+        <author>
+            <name>DaigengnaDuoer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Collection: The Doegen Records Web Project]]></title>
+        <id>1462 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/new-collection-doegen-records-web-project"/>
+        <updated>2022-01-28T12:34:09.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that the Doegen Records Web Project collection is now available on the Repository.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Library Transforming: RLUK’s Strategy for 2022-25]]></title>
+        <id>https://www.rluk.ac.uk/?p=11451</id>
+        <link href="https://www.rluk.ac.uk/the-library-transforming-strategy/"/>
+        <updated>2022-01-28T11:42:33.000Z</updated>
+        <summary type="html"><![CDATA[RLUK has launched it's new strategy for 2022-2025: The Library Transforming. This strategy outlines the ways in which RLUK harnesses the collective voice, experience, and expertise of its members, its determination to support them as they face current and emerging challenges, and its ability to act as a confident voice on behalf of the [...]
+The post The Library Transforming: RLUK’s Strategy for 2022-25 appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Registration open for the RLUK22 Conference]]></title>
+        <id>https://www.rluk.ac.uk/?p=11446</id>
+        <link href="https://www.rluk.ac.uk/registration-open-for-the-rluk22-conference/"/>
+        <updated>2022-01-28T11:03:50.000Z</updated>
+        <summary type="html"><![CDATA[RLUK22: Mapping the new open for research libraries 14-16 March 2022 :: Virtual conference Visit the RLUK Conference website for programme and registration information Now is the time to look forward to the new possibilities for research libraries. Across the research and higher education sector, libraries have demonstrated their ability to adapt and thrive, and [...]
+The post Registration open for the RLUK22 Conference appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EOSC Future 'Ask Me Anything' Series]]></title>
+        <id>1460 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/eosc-future-ask-me-anything-series"/>
+        <updated>2022-01-28T09:36:36.000Z</updated>
+        <summary type="html"><![CDATA[EOSC Future project is launching a series of 'Ask Me Anything' webinars to showcase the resources available via the EOSC platform.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China Biographical Database (CBDB): A Relational Database for Prosopographical Research of Pre-Modern China]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.68</id>
@@ -11554,29 +11689,6 @@ ADHO member or not
 If you are an ADHO member, your customer number on OUP]]></summary>
         <author>
             <name>adminweb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 37 – Euclid’s Elements (Arabic)]]></title>
-        <id>http://schoenberginstitute.org/?p=6676</id>
-        <link href="https://schoenberginstitute.org/2021/08/02/manuscript-monday-ljs-37-euclids-elements-arabic-2/"/>
-        <updated>2021-08-02T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 37, Euclid’s Elements (in Arabic). This manuscript was written in Egypt, Iraq, or Syria, A.H. 502-504 (1108-1111), and it is Epitome or abridgement in Arabic of Euclid’s Elements, written on paper. You can see theContinue reading "Manuscript Monday: LJS 37 – Euclid’s Elements (Arabic)"]]></summary>
-        <author>
-            <name>Dennis Mullen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New dataset – Politicians talking about COVID]]></title>
-        <id>http://wragge.micro.blog/2021/08/02/new-dataset-politicians.html</id>
-        <link href="https://updates.timsherratt.org/2021/08/02/new-dataset-politicians.html"/>
-        <updated>2021-08-02T00:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The Trove Journals section of the GLAM Workbench includes a notebook that helps you download press releases, speeches, and interview transcripts by Australian federal politicians. These documents are compiled and published by the Parliamentary Library, and the details are regularly harvested into Trove.
-Using this notebook, I’ve created a collection of documents that include the words ‘COVID’ or ‘Coronavirus’. It includes all the metadata from Trove, as well as the full text of each document downloaded from the Parliamentary Library. There’s 3,995 documents in total, covering the period up until early April 2021. You can download them all as a zip file (12 mb).
-
-While I was compiling this dataset, I also made a few improvements to the notebook. You can now filter the results to weed out false positives, and identify duplicates. #dhhacks]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
 </feed>
