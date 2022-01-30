@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-29T08:12:39.524Z</updated>
+    <updated>2022-01-30T08:12:55.327Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Portraits in DH: DISCO Network]]></title>
+        <id>https://ach.org/?p=2302</id>
+        <link href="https://ach.org/blog/2022/01/29/portraits-in-dh-disco-network/"/>
+        <updated>2022-01-29T18:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Creating Equitable and Just Futures in the Digital About the interviewer, Dr. Kevin C. Winstead: As a Council of Library and Information Research (CLIR) Postdoctoral Fellow for African American and African Studies Data Curation with the Center for Black Digital Research at Penn State University, my work has closely followed the evolution of Black Digital…Continue reading.]]></summary>
+        <author>
+            <name>jwoowinter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zotero support in Australian GLAMs]]></title>
         <id>http://wragge.micro.blog/2022/01/29/zotero-support-in.html</id>
@@ -11608,87 +11618,6 @@ The post New models out! appeared first on READ-COOP.]]></summary>
 Software is a fundamental element of the scientific process, and cataloguing scientific software is helpful to enable software discoverability. During the years 2019-2020, the Task Force on Best Practices for Software Registries of the FORCE11 Software Citation Implementation Working Group worked to create Nine Best Practices for Scientific Software Registries and Repositories . In this post, we explain why scientific software registries and repositories are important, why we wanted to create a list of best practices for such registries and repositories, the process we …]]></summary>
         <author>
             <name>Alejandra Gonzalez-Beltran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cassandra   Hradil]]></title>
-        <id>1130 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/fellows/hradil-cassandra"/>
-        <updated>2021-08-03T18:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Academic Title: 
-
-Digital Humanities Specialist
-
-
-
-Cassandra serves as a liaison between the Center for Research Data & Digital Scholarship in the library and the Price Lab for Digital Humanities. She specializes in managing and supporting digital projects across a wide range of media. In her own practice, Cassandra is an artist, designer, programmer, and scholar who balances the critical with the creative. Her research and design interests include archival information systems, decolonial mapping, queer interfaces, e-textiles, and feminist data visualization. She is a designer and developer at the Immersive Realities Lab for the Humanities, and she teaches part-time at Parsons School of Design. She has a bachelor’s degree in American Studies and Classics from Amherst College, where she also received the Five College Certificate in Native American and Indigenous Studies. She holds an MFA in Design and Technology from Parsons School of Design.
-
-
-Fellowship Date: 
-
-August, 2021]]></summary>
-        <author>
-            <name>milinski@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JADH2021 regstration]]></title>
-        <id>65 at https://www.jadh.org</id>
-        <link href="https://www.jadh.org/node/65"/>
-        <updated>2021-08-03T14:47:48.000Z</updated>
-        <summary type="html"><![CDATA[JADH2021 Registration
-1. Check your membership of ADHO
-2. If you are not an ADHO member, pay your registration fee. Otherwise, skip this step.
-3. Input your information on Registration form. If impossible, email your information to us.
-Registration fee
-Membership
-Fee
-ADHO member
-0 JPY
-
-Non-ADHO member
-4000 JPY
-
-Non-ADHO student member
-2000 JPY
-
-You can join ADHO immediately on the following Web page. Purchase "Members - Joint membership of all Associations in the Alliance of Digital Humanities Organizations". Membership only price is £25.00 and Student membership only price is £15.00
-https://academic.oup.com/dsh/subscribe
-
-
-Otherwise, pay your registration fee, if you are not ADHO memeber:
-
-
-
-Status
-
-
-Non-ADHO member ¥4,000 JPY
-Non-ADHO student member ¥2,000 JPY
-
-
-
-
-
-
-
-
-Registration
-Fill the Registration form
-
-
-If you can not access to the registration form, please send email to conf2021-at-jadh.org (replace "-at-" with "@"), including the following information.
-Name
-
-Affiliation
-
-Presenter or not
-
-ADHO member or not
-
-If you are an ADHO member, your customer number on OUP]]></summary>
-        <author>
-            <name>adminweb</name>
         </author>
     </entry>
 </feed>
