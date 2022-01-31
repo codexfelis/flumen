@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-30T08:12:55.327Z</updated>
+    <updated>2022-01-31T08:13:42.687Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -11585,39 +11585,6 @@ Fellowship Date: 
 August, 2021—September, 2022]]></summary>
         <author>
             <name>milinski@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jobs: Lecturer in Digital Innovation Management Education]]></title>
-        <id>https://blogs.kcl.ac.uk/ddh/?p=3100</id>
-        <link href="https://blogs.kcl.ac.uk/ddh/2021/08/04/jobs-lecturer-in-digital-innovation-management-education/"/>
-        <updated>2021-08-04T15:11:58.000Z</updated>
-        <summary type="html"><![CDATA[Our Department of Digital Humanities is seeking to appoint two Lecturers (Academic Education Pathway) in Digital Innovation Management to contribute to its teaching in this and related areas. The post-holder will have a sound knowledge of the key concepts, theories, debates and challenges in digital innovation management, information systems, algorithmic management and digital transformation, with … 
-Continue reading "Jobs: Lecturer in Digital Innovation Management Education"]]></summary>
-        <author>
-            <name>Mercedes Bunz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New models out!]]></title>
-        <id>https://readcoop.eu/?p=26264</id>
-        <link href="https://readcoop.eu/new-models-out/"/>
-        <updated>2021-08-04T06:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Transkribus is happy to introduce new public models for Spanish and French. Álvaro Cuéllar of the ETSO “Estilometría aplicada al Teatro del Siglo de Oro” project  trained two models for theater manuscripts and theatre prints from the 17th and 18th century with the aim to modernize the spelling to the current rules. “The Spanish Golden […]
-The post New models out! appeared first on READ-COOP.]]></summary>
-        <author>
-            <name>Florian Stauder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Practices for Software Registries and Repositories]]></title>
-        <id>11799 at https://www.force11.org</id>
-        <link href="https://www.force11.org/blog/best-practices-software-registries-and-repositories"/>
-        <updated>2021-08-03T20:48:59.000Z</updated>
-        <summary type="html"><![CDATA[(This post was authored by by Alejandra Gonzalez-Beltran, Alice Allen, Allen Lee, Daniel Garijo, Thomas Morrell, SciCodes Consortium and is cross-posted on the SciCodes website, the SSI blog, URSSI blog, and the ASCL blog.)
-Software is a fundamental element of the scientific process, and cataloguing scientific software is helpful to enable software discoverability. During the years 2019-2020, the Task Force on Best Practices for Software Registries of the FORCE11 Software Citation Implementation Working Group worked to create Nine Best Practices for Scientific Software Registries and Repositories . In this post, we explain why scientific software registries and repositories are important, why we wanted to create a list of best practices for such registries and repositories, the process we …]]></summary>
-        <author>
-            <name>Alejandra Gonzalez-Beltran</name>
         </author>
     </entry>
 </feed>
