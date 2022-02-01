@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-01-31T08:13:42.687Z</updated>
+    <updated>2022-02-01T08:13:58.105Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DRI Virtual Coffee Morning - February]]></title>
+        <id>1463 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-virtual-coffee-morning-february"/>
+        <updated>2022-01-31T15:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Date: 
+
+23 Feb 2022
+
+
+Location: 
+
+Zoom
+
+
+
+February’s DRI Virtual Coffee Morning will be hosted by Dr Lorraine Grimes and will focus on ethical challenges to archiving sensitive online data.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentiment Analysis per il latino: un viaggio da Seneca a Dante Alighieri]]></title>
+        <id>https://lila-erc.eu/?p=2823</id>
+        <link href="https://lila-erc.eu/sentiment-analysis-per-il-latino-un-viaggio-da-seneca-a-dante-alighieri/"/>
+        <updated>2022-01-31T11:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Seminar: Laboratorio di Cultura Digitale
+Date: 23rd March 2022, 14:15 CET
+The post Sentiment Analysis per il latino: un viaggio da Seneca a Dante Alighieri appeared first on LiLa: Linking Latin.]]></summary>
+        <author>
+            <name>Eleonora Litta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentiment Analysis per il latino: un viaggio da Seneca a Dante Alighieri]]></title>
+        <id>https://lila-erc.eu/?p=2823</id>
+        <link href="https://lila-erc.eu/sentiment-analysis-per-il-latino-un-viaggio-da-seneca-a-dante-alighieri/"/>
+        <updated>2022-01-31T11:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Seminar: Laboratorio di Cultura Digitale
+Date: 23rd March 2022, 14:15 CET
+The post Sentiment Analysis per il latino: un viaggio da Seneca a Dante Alighieri appeared first on LiLa: Linking Latin.]]></summary>
+        <author>
+            <name>Eleonora Litta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documenting our CoreTrustSeal Certification]]></title>
+        <id>1461 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/documenting-our-coretrustseal-certification"/>
+        <updated>2022-01-31T11:13:39.000Z</updated>
+        <summary type="html"><![CDATA[New Report Published by DRI]]></summary>
+        <author>
+            <name>Deborah Thorpe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Portraits in DH: DISCO Network]]></title>
         <id>https://ach.org/?p=2302</id>
@@ -126,6 +181,17 @@ The post Le médialab de Sciences Po cherche un.e post-doc appeared first on dhC
         <updated>2022-01-28T11:42:33.000Z</updated>
         <summary type="html"><![CDATA[RLUK has launched it's new strategy for 2022-2025: The Library Transforming. This strategy outlines the ways in which RLUK harnesses the collective voice, experience, and expertise of its members, its determination to support them as they face current and emerging challenges, and its ability to act as a confident voice on behalf of the [...]
 The post The Library Transforming: RLUK’s Strategy for 2022-25 appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLUK-AHRC Research Engagement Programme launched]]></title>
+        <id>https://www.rluk.ac.uk/?p=11496</id>
+        <link href="https://www.rluk.ac.uk/rluk-ahrc-research-engagement-programme-launched/"/>
+        <updated>2022-01-28T11:05:01.000Z</updated>
+        <summary type="html"><![CDATA[RLUK and the Arts and Humanities Research Council (AHRC) are delighted to be working in partnership with the Association of Research Managers and Administrators (ARMA) to deliver a multifaceted Research Engagement Programme (REP) for academic libraries. Find out more about the programme. The programme consists of a tailored cohort training programme, open events, case studies, [...]
+The post RLUK-AHRC Research Engagement Programme launched appeared first on Research Libraries UK.]]></summary>
         <author>
             <name>Melanie Cheung</name>
         </author>
@@ -11564,27 +11630,6 @@ Once I’ve checked all the titles, I generate another CSV file that lists the d
 The code to harvest and document the downloaded text is available in this notebook. #dhhacks]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amanda   Licastro]]></title>
-        <id>1131 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/fellows/licastro-amanda"/>
-        <updated>2021-08-05T19:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Academic Title: 
-
-Emerging and Digital Literacy Designer, University of Pennsylvania
-
-
-
-Dr. Amanda Licastro (she/her) is the Emerging and Digital Literacy Designer at the University of Pennsylvania, responsible for providing instructional design support in collaboration with other Library units and campus partners to ensure success of the critical literacies initiative. Amanda was formerly the Assistant Professor of Digital Rhetoric at Stevenson University in Maryland. Her research explores the intersection of technology and writing, including book history, dystopian literature, and digital humanities, with a focus on multimodal composition and Extended Reality. Amanda serves as the Director of Pedagogical Initiatives of the Book Traces project and is co-founder of the Journal of Interactive Technology and Pedagogy and the Writing Studies Tree. Publications include articles in Kairos, Digital Pedagogy in the Humanities, Hybrid Pedagogy, and Communication Design Quarterly, as well as chapters in Digital Reading and Writing in Composition Studies, and Critical Digital Pedagogy. Her co-edited collection, Composition and Big Data, is available for pre-order  from University of Pittsburgh Press. The grant-funded project on Virtual Reality Amanda developed and executed was awarded the Paul Fortier Prize at the 2017 Digital Humanities conference, and has been featured in the Baltimore Sun and Baltimore Magazine.
-
-
-Fellowship Date: 
-
-August, 2021—September, 2022]]></summary>
-        <author>
-            <name>milinski@upenn.edu</name>
         </author>
     </entry>
 </feed>
