@@ -278,7 +278,17 @@
       "title": "News – Global Outlook::Digital Humanities",
       "feedUrl": "http://www.globaloutlookdh.org/news/feed",
       "siteUrl": "http://www.globaloutlookdh.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.globaloutlookdh.org/?p=11913",
+          "author": "Sara Petrollino",
+          "description": "On December 13th, 2021 we will be hosting the second meeting of GO::DH Conversations with Benito Trollip. He will talk about “Gender terminology research in Afrikaans with corpus data: collecting, enhancing, and finding meaning“. Click here for more information and… Continue Reading →",
+          "link": "http://www.globaloutlookdh.org/global-outlookdigital-humanities-conversations/",
+          "publishedOn": "2021-11-30T10:18:16.000Z",
+          "wordCount": 135,
+          "title": "GO::DH Conversations: second meeting"
+        }
+      ]
     },
     {
       "title": "aaDH",
