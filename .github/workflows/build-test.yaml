@@ -12,6 +12,6 @@ jobs:
         with:
           node-version: "16"
       - name: Install dependencies
-        run: npm i
+        run: npm ci
       - name: Build the feed
         run: npm run build
