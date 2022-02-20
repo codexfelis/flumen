@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-02-19T08:13:36.861Z</updated>
+    <updated>2022-02-20T08:13:48.233Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Second Call for volunteers: ADHO Anti-Racism Task Force]]></title>
+        <id>node/775</id>
+        <link href="https://dig-hum.de/aktuelles/second-call-for-volunteers-adho-anti-racism-task-force"/>
+        <updated>2022-02-19T20:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Alliance of Digital Humanities Organizations (ADHO) is extending its call for participants in a new Anti-Racism Task Force. We have received a number of expressions of interest…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transkribus and Kirishitanban: Some Initial Experiments]]></title>
         <id>http://digitalorientalist.com/?p=7796</id>
@@ -11845,85 +11855,6 @@ The post RTS : Zoug ouvre un centre de compétence pour tester la cybersécurit�
 To this end, I thought it might be useful to try and summarise what the GLAM Workbench offers, particularly for Trove researchers. The GLAM Workbench doesn’t really have an institutional home, and is mostly unfunde…]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A step forward for software citation: GitHub's enhanced software citation support]]></title>
-        <id>11801 at https://www.force11.org</id>
-        <link href="https://www.force11.org/blog/step-forward-software-citation-githubs-enhanced-software-citation-support"/>
-        <updated>2021-08-24T16:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Martin Fenner, Stephan Druskat, Neil Chue Hong, Daniel S. Katz, Morane Gruenpeter, Arfon Smith, Tom Morell and Robert Haines
-On August 19, GitHub announced software citation support in GitHub repositories. Citation information provided by users (using a CITATION.cff YAML file in the root directory of the default branch) is parsed and made available as bibtex file or formatted citation, currently supporting the APA citation style. The APA style is a good start as it is the only popular citation style that labels software with the string [Computer software] but we hope to see support for more citation styles – including those popular in computer science – going forward. Going forward we also hope to see support for biblatex and potentially @software as the bibtex entry type.
-
-This i…]]></summary>
-        <author>
-            <name>Martin Fenner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Survey on ORD practices and needs – call for participation]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7396</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/08/24/survey-on-ord-practices-and-needs-call-for-participation/"/>
-        <updated>2021-08-24T13:12:17.000Z</updated>
-        <summary type="html"><![CDATA[This survey, conducted by the HEG Geneva – Filière Information documentaire, is performed within the framework of a swissuniversities mandate and in the context of the National Open Research Data Strategy initiated by the Open Science Delegation of swissuniversities. The mandate specifically aims at characterizing the practices and needs in ORD within Swiss research communities […]
-The post Survey on ORD practices and needs – call for participation appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Survey on ORD practices and needs – call for participation]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7396</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/08/24/survey-on-ord-practices-and-needs-call-for-participation/"/>
-        <updated>2021-08-24T13:12:17.000Z</updated>
-        <summary type="html"><![CDATA[This survey, conducted by the HEG Geneva – Filière Information documentaire, is performed within the framework of a swissuniversities mandate and in the context of the National Open Research Data Strategy initiated by the Open Science Delegation of swissuniversities. The mandate specifically aims at characterizing the practices and needs in ORD within Swiss research communities […]
-The post Survey on ORD practices and needs – call for participation appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching available at KCL Digital Humanities – digital skills needed]]></title>
-        <id>https://blogs.kcl.ac.uk/ddh/?p=3106</id>
-        <link href="https://blogs.kcl.ac.uk/ddh/2021/08/24/teaching-available-at-kcl-digital-humanities-digital-skills-needed/"/>
-        <updated>2021-08-24T12:14:59.000Z</updated>
-        <summary type="html"><![CDATA[The Department of Digital Humanities at King’s College London is looking for hourly paid lecturers to teach introductory computational skills on the weekly seminars of our digital culture modules in person at our Strand campus. In addition to computational skills, we also have some modules open for which a conceptual knowledge of machine learning and data … 
-Continue reading "Teaching available at KCL Digital Humanities – digital skills needed"]]></summary>
-        <author>
-            <name>Mercedes Bunz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assistant Professor in Digital Sociology]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7392</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/08/24/assistant-professor-in-digital-sociology/"/>
-        <updated>2021-08-24T10:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Télécom Paris, one of the top four engineering schools in France for training general engineers, is looking for an Assistant Professor in Digital Sociology to conduct empirical research on the social construction of digital tools. Specifically, the successful candidate will study the changes brought by digital tools to various aspects of social life (culture, sociality, […]
-The post Assistant Professor in Digital Sociology appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assistant Professor in Digital Sociology]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7392</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/08/24/assistant-professor-in-digital-sociology/"/>
-        <updated>2021-08-24T10:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Télécom Paris, one of the top four engineering schools in France for training general engineers, is looking for an Assistant Professor in Digital Sociology to conduct empirical research on the social construction of digital tools. Specifically, the successful candidate will study the changes brought by digital tools to various aspects of social life (culture, sociality, […]
-The post Assistant Professor in Digital Sociology appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New article: “Journalism aggregators: an analysis of Longform.org”]]></title>
-        <id>https://blogs.kcl.ac.uk/ddh/?p=3109</id>
-        <link href="https://blogs.kcl.ac.uk/ddh/2021/08/24/new-article-journalism-aggregators/"/>
-        <updated>2021-08-24T07:26:34.000Z</updated>
-        <summary type="html"><![CDATA[An article on “Journalism aggregators: an analysis of Longform.org” co-authored by Marco Braghieri, Tobias Blanke and Jonathan Gray has just been published in Journalism Research. The article is open access and available in both English and German. Here’s the abstract: What is the role and significance of digital long-form content aggregators in contemporary journalism? This … 
-Continue reading "New article: “Journalism aggregators: an analysis of Longform.org”"]]></summary>
-        <author>
-            <name>Jonathan Gray</name>
         </author>
     </entry>
 </feed>
