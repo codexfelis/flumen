@@ -321,15 +321,6 @@
           "publishedOn": "2021-12-14T12:05:08.000Z",
           "wordCount": 605,
           "title": "Announcing aaDH’s new President"
-        },
-        {
-          "id": "https://aa-dh.org/?p=427",
-          "author": "Tully Barnett",
-          "description": "Deadline extended to 27 September 2021 The Australasian Association for Digital Humanities (aaDH) is pleased to invite proposals for posters, short papers, long papers, multi-paper panels and workshops, for DHA2021 (our COVID-delayed conference formerly known as DHA2020). DHA2021 will be a virtual conference running from 22-25 November 2021 (New Zealand time zone). Proposals from any … Continue reading \"DHA2021 Call For Proposals\"",
-          "link": "https://aa-dh.org/2021/08/27/dha2021-call-for-proposals-2/",
-          "publishedOn": "2021-08-27T07:16:52.000Z",
-          "wordCount": 1427,
-          "title": "DHA2021 Call For Proposals"
         }
       ]
     },
@@ -338,6 +329,15 @@
       "feedUrl": "https://ach.org/feed/",
       "siteUrl": "https://ach.org",
       "articles": [
+        {
+          "id": "https://ach.org/?p=2332",
+          "author": "Vika Zafrin",
+          "description": "ACH is pleased to announce the appointment of  Dr. Amanda Visconti to the position of Deputy Secretary. Amanda will work with Vika Zafrin and the other ACH Officers to run the organization, help organize the Executive Council to do work on behalf of our members, and ensure that our institutional history records are robust. Amanda…Continue reading.",
+          "link": "https://ach.org/blog/2022/02/22/amanda-visconti-deputy-secretary/",
+          "publishedOn": "2022-02-22T17:25:58.000Z",
+          "wordCount": 167,
+          "title": "Amanda Visconti, Deputy Secretary"
+        },
         {
           "id": "https://ach.org/?p=2328",
           "author": "jwoowinter",
@@ -526,6 +526,15 @@
       "feedUrl": "https://blog.cdh.cam.ac.uk/feed",
       "siteUrl": "https://blog.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://blog.cdh.cam.ac.uk/?p=390",
+          "author": "Heather Stallard",
+          "description": "The post What is Open Source Investigation for Academics? appeared first on The Digital Hum.",
+          "link": "https://blog.cdh.cam.ac.uk/2022/02/22/what-is-open-source-investigation-for-academics/",
+          "publishedOn": "2022-02-22T09:06:00.000Z",
+          "wordCount": 1398,
+          "title": "What is Open Source Investigation for Academics?"
+        },
         {
           "id": "https://blog.cdh.cam.ac.uk/?p=367",
           "author": "Heather Stallard",
@@ -1417,6 +1426,33 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9796",
+          "author": "Celia Luterbacher",
+          "description": "The results of the Digital Criticism Unconference, co-organized by the dhCenter and held online in October 2021, are now available in a report drafted by dhCenter member Jessica Pidoux (EPFL/Science Po). The Digital Criticism Unconference invited digital humanities researchers to engage in a dialogue on a variety of emerging issues with a common theme: the […]\nThe post Report: Digital Criticism Unconference appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/02/22/report-digital-criticism-unconference/",
+          "publishedOn": "2022-02-22T15:39:35.000Z",
+          "wordCount": 487,
+          "title": "Report: Digital Criticism Unconference"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9785",
+          "author": "Celia Luterbacher",
+          "description": "Towards an Expanded History of Television is a digital anthology that has recently been published on the open-access scholarly publishing platform, Living Books about History. Towards an Expanded History of Television is edited by dhCenter member Ann-Katrin Weber (University of Basel) and François Vallotton (University of Lausanne), and is published in English and French. The […]\nThe post Publication: “Towards an Expanded History of Television” appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/02/22/publication-towards-an-expanded-history-of-television/",
+          "publishedOn": "2022-02-22T14:36:42.000Z",
+          "wordCount": 525,
+          "title": "Publication: “Towards an Expanded History of Television”"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9761",
+          "author": "Heloise schibler",
+          "description": "Le Centre de Recherche sur la Conservation (CRC) en France est une unité de service et de recherche associant le CNRS, le Muséum national d’Histoire naturelle et le ministère de la Culture. Il met en œuvre des recherches dont l’objectif est la conservation des biens culturels. Le CRC recrute, dans le cadre de l’EquipEx Biblissima+, […]\nThe post Ingénieur.e de recherche au CRC (Paris) appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/02/22/ingenieur-e-de-recherche-au-crc-paris/",
+          "publishedOn": "2022-02-22T10:04:00.000Z",
+          "wordCount": 1117,
+          "title": "Ingénieur.e de recherche au CRC (Paris)"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=9442",
           "author": "Celia Luterbacher",
@@ -2586,60 +2622,6 @@
           "publishedOn": "2021-08-31T16:51:21.000Z",
           "wordCount": 963,
           "title": "UNIL-FORS JOB : Research Associate in Sociology with a focus on quantitative methods"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=7461",
-          "author": "Celia Luterbacher",
-          "description": "Citizens and scientists have two very different ways of reasoning. While citizens find comfort in certainty, scientists need to continually challenge the facts. Is it possible for these two groups to find common ground? Research is by nature a dynamic process. Scientists start with an observation, make a hypothesis, test the hypothesis through experiments, analyze […]\nThe post Uncertainty spurs scientific progress appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/08/27/uncertainty-spurs-scientific-progress/",
-          "publishedOn": "2021-08-27T12:11:46.000Z",
-          "wordCount": 1986,
-          "title": "Uncertainty spurs scientific progress"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=7461",
-          "author": "Celia Luterbacher",
-          "description": "Citizens and scientists have two very different ways of reasoning. While citizens find comfort in certainty, scientists need to continually challenge the facts. Is it possible for these two groups to find common ground? Research is by nature a dynamic process. Scientists start with an observation, make a hypothesis, test the hypothesis through experiments, analyze […]\nThe post Uncertainty spurs scientific progress appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/08/27/uncertainty-spurs-scientific-progress/",
-          "publishedOn": "2021-08-27T12:11:46.000Z",
-          "wordCount": 1998,
-          "title": "Uncertainty spurs scientific progress"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=7448",
-          "author": "Celia Luterbacher",
-          "description": "Around 15 elementary-school teachers who received digital-education training from EPFL’s LEARN Center began training their peers this past spring. Through this initiative, the Canton of Vaud aims to begin equipping its schoolchildren with digital skills from their very first years. In the science classroom at Cheminet elementary school in Penthalaz, small groups of elementary-school teachers […]\nThe post Vaud elementary school teachers get training on digital education appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/08/27/vaud-elementary-school-teachers-get-training-on-digital-education/",
-          "publishedOn": "2021-08-27T08:04:55.000Z",
-          "wordCount": 1490,
-          "title": "Vaud elementary school teachers get training on digital education"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=7448",
-          "author": "Celia Luterbacher",
-          "description": "Around 15 elementary-school teachers who received digital-education training from EPFL’s LEARN Center began training their peers this past spring. Through this initiative, the Canton of Vaud aims to begin equipping its schoolchildren with digital skills from their very first years. In the science classroom at Cheminet elementary school in Penthalaz, small groups of elementary-school teachers […]\nThe post Vaud elementary school teachers get training on digital education appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/08/27/vaud-elementary-school-teachers-get-training-on-digital-education/",
-          "publishedOn": "2021-08-27T08:04:55.000Z",
-          "wordCount": null,
-          "title": "Vaud elementary school teachers get training on digital education"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=7445",
-          "author": "Celia Luterbacher",
-          "description": "This summer, the open-access scholarly article archive and distribution service arXiv celebrates 30 years of existence. As it allows scientific findings to be shared digitally prior to publication in traditional journals, arXiv has helped change the way science is communicated since its founding in 1991 by Paul Ginsparg. Today, the service houses over a million […]\nThe post arXiv celebrates 30 years appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/08/27/arxiv-celebrates-30-years/",
-          "publishedOn": "2021-08-27T07:56:59.000Z",
-          "wordCount": 482,
-          "title": "arXiv celebrates 30 years"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.com/?p=7445",
-          "author": "Celia Luterbacher",
-          "description": "This summer, the open-access scholarly article archive and distribution service arXiv celebrates 30 years of existence. As it allows scientific findings to be shared digitally prior to publication in traditional journals, arXiv has helped change the way science is communicated since its founding in 1991 by Paul Ginsparg. Today, the service houses over a million […]\nThe post arXiv celebrates 30 years appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/08/27/arxiv-celebrates-30-years/",
-          "publishedOn": "2021-08-27T07:56:59.000Z",
-          "wordCount": 486,
-          "title": "arXiv celebrates 30 years"
         }
       ]
     },
@@ -2870,6 +2852,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/776",
+          "author": "406",
+          "description": "Das Max-Planck-Institut für Rechtsgeschichte und Rechtstheorie in Frankfurt am Main sucht zum nächstmöglichen Zeitpunkt eine*n Bibliotheks- oder Medieninformatiker*in, B.A. (m/w/d…",
+          "link": "https://dig-hum.de/aktuelles/stellenausschreibung-bibliotheks-oder-medieninformatikerin-am-mpi-f%C3%BCr-rechtsgeschichte-und",
+          "publishedOn": "2022-02-22T20:17:23.000Z",
+          "wordCount": 829,
+          "title": "Stellenausschreibung: Bibliotheks- oder Medieninformatiker*in am MPI für Rechtsgeschichte und Rechtstheorie in Frankfurt/M."
+        },
         {
           "id": "node/775",
           "author": "406",
@@ -3520,6 +3511,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=7849",
+          "author": "Ephrem A. Ishac",
+          "description": "Recently, a new initiative to develop digital tools and create a common Linked Open Data for the study of Middle …",
+          "link": "https://digitalorientalist.com/2022/02/22/new-working-group-for-linked-manuscript-descriptions-part-1/",
+          "publishedOn": "2022-02-22T18:00:00.000Z",
+          "wordCount": 1081,
+          "title": "New Working Group for Linked Manuscript Descriptions, part 1"
+        },
         {
           "id": "http://digitalorientalist.com/?p=7796",
           "author": "James Harry Morris",
@@ -4497,6 +4497,15 @@
       "siteUrl": "https://lila-erc.eu",
       "articles": [
         {
+          "id": "https://lila-erc.eu/?p=2861",
+          "author": "Eleonora Litta",
+          "description": "Workshop La lemmatizzazione del latino. Corpora, strumenti e interoperabilità in Linked Data\nDate: 17-18 March 2022\nThe post La filologia digitale incontra la linguistica computazionale: metodi e risorse appeared first on LiLa: Linking Latin.",
+          "link": "https://lila-erc.eu/la-filologia-digitale-incontra-la-linguistica-computazionale-metodi-e-risorse/",
+          "publishedOn": "2022-02-22T10:06:12.000Z",
+          "wordCount": 533,
+          "title": "La filologia digitale incontra la linguistica computazionale: metodi e risorse"
+        },
+        {
           "id": "https://lila-erc.eu/?p=2850",
           "author": "Eleonora Litta",
           "description": "Conference: Digital Humanities in pratica\nDate: 25-26 February 2022\nThe post Digital Humanities in pratica appeared first on LiLa: Linking Latin.",
@@ -4638,6 +4647,15 @@
       "feedUrl": "https://lila-erc.eu/news/feed/",
       "siteUrl": "https://lila-erc.eu",
       "articles": [
+        {
+          "id": "https://lila-erc.eu/?p=2861",
+          "author": "Eleonora Litta",
+          "description": "Workshop La lemmatizzazione del latino. Corpora, strumenti e interoperabilità in Linked Data\nDate: 17-18 March 2022\nThe post La filologia digitale incontra la linguistica computazionale: metodi e risorse appeared first on LiLa: Linking Latin.",
+          "link": "https://lila-erc.eu/la-filologia-digitale-incontra-la-linguistica-computazionale-metodi-e-risorse/",
+          "publishedOn": "2022-02-22T10:06:12.000Z",
+          "wordCount": 533,
+          "title": "La filologia digitale incontra la linguistica computazionale: metodi e risorse"
+        },
         {
           "id": "https://lila-erc.eu/?p=2850",
           "author": "Eleonora Litta",
@@ -5328,6 +5346,20 @@
       "siteUrl": "https://review.gale.com",
       "articles": [
         {
+          "id": "https://review.gale.com/?p=13243",
+          "author": "Gale Review Team",
+          "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ There are many advantages to incorporating work with digital tools in the humanities classroom. As students graduate and transition to the workplace, demonstrable digital literacy is often a pre-requisite for employment, so students are keen to learn such skills, and to articulate what they have learned ... Read more\nThe post Practical Pedagogy with Gale Digital Scholar Lab, Part I: Developing Your Syllabus and Learning Objectives appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2022/02/22/practical-pedagogy-with-gale-digital-scholar-lab-part-i/?utm_source=rss&utm_medium=rss&utm_campaign=practical-pedagogy-with-gale-digital-scholar-lab-part-i",
+          "publishedOn": "2022-02-22T11:28:38.000Z",
+          "wordCount": 1530,
+          "title": "Practical Pedagogy with Gale Digital Scholar Lab, Part I: Developing Your Syllabus and Learning Objectives",
+          "enclosure": {
+            "url": "https://review.gale.com/wp-content/uploads/2022/02/Notes-from-a-DH-Correspondent-Feb.png",
+            "length": "1937327",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://review.gale.com/?p=13181",
           "author": "Gale Review Team",
           "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ This post explores the iterative process of digital humanities project work in Gale Digital Scholar Lab, which provides a user-friendly interface for text mining historical primary source documents from Gale Primary Sources and plaintext material uploaded by researchers. The post discusses how each stage of the ... Read more\nThe post A Sense of Déjà vu? Iteration in Digital Humanities Project Building using Gale Digital Scholar Lab appeared first on The Gale Review.",
@@ -5885,6 +5917,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=981",
+          "author": "Rebecca Burke",
+          "description": "Would you like to download information about your sources with the click of a button instead of painstakingly typing out bibliographic data? Would you like to automagically insert correct references into your publications in any citation style? Would you like to focus on writing your articles, chapters, books, and so on, and never, ever craft a references section by hand again? As a reference manager Zotero can (and maybe even should) become one of your primary tools. Not only is...",
+          "link": "https://scholarlytales.hcommons.org/2022/02/22/zotero-a-digital-personal-research-assistant-part-1/",
+          "publishedOn": "2022-02-22T16:00:17.000Z",
+          "wordCount": 1944,
+          "title": "Zotero: a digital personal research assistant (part 1)"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1000",
           "author": "Leah Budke",
@@ -6618,6 +6659,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "3894 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Samsa Film, le Luxembourg Centre for Contemporary and Digital History de l’Université de Luxembourg (C²DH) et le Centre national de l’audiovisuel (CNA) ont le grand plaisir de vous inviter à la première officielle luxembourgeoise du documentaire transmédia « A Colônia Luxemburguesa ».\nLa cinéaste et historienne luxembourgeoise Dominique Santana vous propose de l’accompagner dans une expérience transmedia inédite pour un voyage à travers un siècle d’histoires de migrations entre le Luxembourg et le Brésil, dans le contexte de l’industrie sidérurgique.\n4 March 2022\n\n  \n  \n            \nVendredi, le 4 mars 2022 à 18:00 heures\nau Halle des poches à fonte\n(Avenue du Rock’n’Roll / Avenue des Hauts Fourneaux)\nen présence de la réalisatrice et de l’équipe du projet.\n \nL’inauguration du [L]AÇO et une réception conviviale suivront la présentation.\nCet évènement est soumis au régime de COVIDCHECK.\nPour des raisons organisationnelles, merci de confirmer impérativement votre présence à l’adresse samsa@samsa.lu avant le 28.02.2021.\nInvitation valable pour deux personnes dans la limite des places disponibles.\n \n\n\nPublic history  Contemporary history of Luxembourg\n  A Colônia Luxemburguesa\n  Migration history\n  Outreach\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/premiere-officielle-luxembourgeoise-du-documentaire-transmedia-colonia-luxemburguesa",
+          "publishedOn": "2022-02-22T13:18:51.000Z",
+          "wordCount": 395,
+          "title": "Première officielle luxembourgeoise du documentaire transmédia «A Colônia Luxemburguesa»"
+        },
+        {
           "id": "3845 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "On 27 February, the multimedia exhibition “Remixing Industrial Pasts: Constructing the Identity of the Minett” will be opened in the Massenoire, a former industrial hall in Belval. The exhibition is part of the European Capital of Culture Esch2022 programme. It has been curated by the C²DH REMIX team in collaboration with the Milan-based artist collective Tokonoma and 2F Architettura.\nVisitors will travel through the region’s industrial past in a time machine whose audiovisual narrative unfolds around three main themes: industry, people and landscapes. Using analogue slide projections and audio collages, a remix of fragmented stories is presented throughout the exhibition hall: the violent erasure of natural landscapes by industrial sites; the relentless growth and transformation of indust…",
@@ -6864,6 +6914,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5683 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "Antal van den Bosch Joins the CLARIN ERIC Board of Directors\n\n            \n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \nWe are pleased to announce that Prof Antal van den Bosch will join the CLARIN ERIC Board of Directors (\n    \nBoard of Directors\n\r\nread more\n\n  ) from 1 March 2022. He will take over from Andreas Witt, who was part of the CLARIN BoD from September 2019 until February 2022 and has now been appointed national coordinator of CLARIN-D.\nAntal van den Bosch will be working together with the other BoD members and the executive director Franciska de Jong on the development and implementation of the CLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-rese…",
+          "link": "https://www.clarin.eu/news/antal-van-den-bosch-joins-clarin-eric-board-directors",
+          "publishedOn": "2022-02-23T07:34:03.000Z",
+          "wordCount": 461,
+          "title": "Antal van den Bosch Joins the CLARIN ERIC Board of Directors"
+        },
         {
           "id": "5682 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
@@ -7330,6 +7389,24 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1472 at https://www.dri.ie",
+          "author": "clarelanigan",
+          "description": "The Digital Repository of Ireland is delighted to announce the launch of a series of pilot collections for the Archiving Reproductive Health project, in an online event on International Women’s Day 2022.",
+          "link": "https://www.dri.ie/launch-archiving-reproductive-health-pilot-collections-news",
+          "publishedOn": "2022-02-21T14:31:40.000Z",
+          "wordCount": 2156,
+          "title": "Launch of Archiving Reproductive Health Pilot Collections"
+        },
+        {
+          "id": "1471 at https://www.dri.ie",
+          "author": "clarelanigan",
+          "description": "Date: \n\n8 Mar 2022\n\n\nLocation: \n\nOnline\n\n\n\nThe Digital Repository of Ireland is delighted to announce the launch of a series of pilot collections for the Archiving Reproductive Health project, in an online event on International Women’s Day 2022.",
+          "link": "https://www.dri.ie/launch-archiving-reproductive-health-pilot-collections-event",
+          "publishedOn": "2022-02-21T13:30:30.000Z",
+          "wordCount": 831,
+          "title": "Launch of Archiving Reproductive Health Pilot Collections"
+        },
         {
           "id": "1470 at https://www.dri.ie",
           "author": "ainemadden",
