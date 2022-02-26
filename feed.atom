@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-02-25T08:14:14.465Z</updated>
+    <updated>2022-02-26T08:13:45.359Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ACH Statement on the Invasion of Ukraine]]></title>
+        <id>https://ach.org/?p=2341</id>
+        <link href="https://ach.org/blog/2022/02/25/ach-statement-on-the-invasion-of-ukraine/"/>
+        <updated>2022-02-25T22:33:54.000Z</updated>
+        <summary type="html"><![CDATA[The Association for Computers and the Humanities joins our colleagues in the European Association for Digital Humanities in condemning the Putin regime’s invasion of Ukraine, and expressing our solidarity with the Ukrainian nation and its people, as well as those in Russia who oppose the actions of their government. We second EADH’s call to extend…Continue reading.]]></summary>
+        <author>
+            <name>Quinn Dombrowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Condemnation of Russia’s Attack on Ukraine]]></title>
+        <id>https://sites.caa-international.org/main/?p=15863</id>
+        <link href="https://caa-international.org/2022/02/25/condemnation-of-russias-attack-on-ukraine/"/>
+        <updated>2022-02-25T19:45:47.000Z</updated>
+        <summary type="html"><![CDATA[The CAA condemns in the strongest possible terms Russia’s attack on Ukraine.  Our thoughts are with the people of Ukraine and for the safety and well-being of our colleagues and all people impacted by these horrific events.]]></summary>
+        <author>
+            <name>Jeffrey Glover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statement on the war in Ukraine]]></title>
+        <id>node/778</id>
+        <link href="https://dig-hum.de/aktuelles/statement-on-the-war-ukraine"/>
+        <updated>2022-02-25T17:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Dear friends and colleagues,
+We are probably all following the news regarding the situation in Ukraine. This is happening not far from Krákow, Iasi, or Budapest where some of us…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to the Nine Modes Manual Online]]></title>
+        <id>http://digitalorientalist.com/?p=7900</id>
+        <link href="https://digitalorientalist.com/2022/02/25/an-introduction-to-the-nine-modes-manual-online/"/>
+        <updated>2022-02-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guest piece by Casey Schoenberger. The following is an introduction to a digital humanities project I completed over the past …]]></summary>
+        <author>
+            <name>maddalena poli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding Digital Humanities London reading group]]></title>
+        <id>https://blogs.ucl.ac.uk/dh/?p=8248</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2022/02/25/ddhl/"/>
+        <updated>2022-02-25T11:31:53.000Z</updated>
+        <summary type="html"><![CDATA[We’re delighted to help relaunch the Decoding Digital Humanities London reading group. Decoding Digital Humanities London (DDHL) is a bi-weekly reading group for anyone interested in research at the intersection of computational technologies and the humanities. These gatherings will provide an opportunity to discuss readings, raise awareness of topics at the forefront of research, and spark new questions. […]]]></summary>
+        <author>
+            <name>Lucy Stagg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLUK Space: Hybrid and blended working approaches and the role of space in libraries]]></title>
+        <id>https://www.rluk.ac.uk/?p=11580</id>
+        <link href="https://www.rluk.ac.uk/rluk-space-hybrid-blended/"/>
+        <updated>2022-02-25T10:43:25.000Z</updated>
+        <summary type="html"><![CDATA[RLUK's Space Programme is a forum for RLUK members to engage in open dialogue and share their knowledge and experience around spatial redesign and capital builds. This seminar features three presentations focusing on the impact the recent shift in working practices has had on the design and use of library spaces, both physical and [...]
+The post RLUK Space: Hybrid and blended working approaches and the role of space in libraries appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to the World of E-Lit]]></title>
         <id>https://dhblog.sdsu.edu/?p=566</id>
@@ -12113,38 +12175,6 @@ The post UNIL-FORS JOB : Research Associate in Sociology with a focus on quantit
         <summary type="html"><![CDATA[Die Filmuniversität Babelsberg KONRAD WOLF ist ein lebendiger Ort der Kunst, der Forschung und der Lehre. Renommierte Fachleute aus Filmpraxis und Wissenschaft betreuen die…]]></summary>
         <author>
             <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some research projects that have used QueryPic]]></title>
-        <id>http://wragge.micro.blog/2021/08/30/some-research-projects.html</id>
-        <link href="https://updates.timsherratt.org/2021/08/30/some-research-projects.html"/>
-        <updated>2021-08-30T01:48:11.000Z</updated>
-        <summary type="html"><![CDATA[A Twitter thread about some of the research uses of QueryPic…
-QueryPic, my tool for visualising searches in @TroveAustralia’s digitised newspapers, has been around in different forms for more than 10 years. The latest version is part of the #GLAMWorkbench: https://t.co/qnY5tVDwgY  #researchinfrastructure pic.twitter.com/QyHWJwGV3u
-— Tim Sherratt (@wragge) August 29, 2021
-
-
-
-I thought I’d highlight some of the research publications that have made use of QueryPic over the years, so, in no particular order...
-— Tim Sherratt (@wragge) August 29, 2021
-There’s @Airminded’s article in @HistAustJournal – Brett Holman (2013) 'Dreaming War: Airmindedness and the Australian Mystery Aeroplane Scare of 1918', History Australia, 10:2, 180-201, DOI: https://t.co/2wgiLueHGL
-— Tim Sherratt (@wragge) August…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government publications in Trove]]></title>
-        <id>http://wragge.micro.blog/2021/08/30/government-publications-in.html</id>
-        <link href="https://updates.timsherratt.org/2021/08/30/government-publications-in.html"/>
-        <updated>2021-08-30T01:21:46.000Z</updated>
-        <summary type="html"><![CDATA[Over the last few weeks I’ve been updating my harvests of OCRd text from digitised books and periodicals in Trove. As part of the harvesting process, I’ve created lists of both that are available in digital form – this includes digitised works, as well as those that are born-digital (such as PDFs or epubs). I’ve published the full lists of books and periodicals as searchable databases to make them easy to explore.
-
-One thing that you might notice is that works with the format ‘Government publication’ pop up in both lists – sometimes it’s not clear whether something is a ‘book’ or ‘periodical’. To make it easier to find these items, no matter what their format, I’ve combined data from my two harvests and created a searchable dataset of government publications. It includes links to download OCRd text from CloudStor if available.
-All three databases make use of Datasette, which I’ve also used for the GLAM Name Index Search. One of the cool things about Datasette is that it provides it’s own API, so if you find some interesting in any of these databases, you can easily download the machine-readable data for further analysis. #dhhacks]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
 </feed>

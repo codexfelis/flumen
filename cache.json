@@ -12,6 +12,15 @@
       "siteUrl": "https://blogs.ucl.ac.uk/dh",
       "articles": [
         {
+          "id": "https://blogs.ucl.ac.uk/dh/?p=8248",
+          "author": "Lucy Stagg",
+          "description": "We’re delighted to help relaunch the Decoding Digital Humanities London reading group. Decoding Digital Humanities London (DDHL) is a bi-weekly reading group for anyone interested in research at the intersection of computational technologies and the humanities. These gatherings will provide an opportunity to discuss readings, raise awareness of topics at the forefront of research, and spark new questions. […]",
+          "link": "https://blogs.ucl.ac.uk/dh/2022/02/25/ddhl/",
+          "publishedOn": "2022-02-25T11:31:53.000Z",
+          "wordCount": 488,
+          "title": "Decoding Digital Humanities London reading group"
+        },
+        {
           "id": "https://blogs.ucl.ac.uk/dh/?p=8244",
           "author": "Adam Crymble",
           "description": "We are very pleased to announce the programme for the 2022 Digital Humanities Longview (virtual) seminar series, co-hosted with our friends at CESTA (Stanford, US) and the Centre for Digital Humanities (Uppsala, Sweden). In this our second year of the series, our focus is on the idea that technology is global, but where we live […]",
@@ -329,6 +338,15 @@
       "feedUrl": "https://ach.org/feed/",
       "siteUrl": "https://ach.org",
       "articles": [
+        {
+          "id": "https://ach.org/?p=2341",
+          "author": "Quinn Dombrowski",
+          "description": "The Association for Computers and the Humanities joins our colleagues in the European Association for Digital Humanities in condemning the Putin regime’s invasion of Ukraine, and expressing our solidarity with the Ukrainian nation and its people, as well as those in Russia who oppose the actions of their government. We second EADH’s call to extend…Continue reading.",
+          "link": "https://ach.org/blog/2022/02/25/ach-statement-on-the-invasion-of-ukraine/",
+          "publishedOn": "2022-02-25T22:33:54.000Z",
+          "wordCount": 196,
+          "title": "ACH Statement on the Invasion of Ukraine"
+        },
         {
           "id": "https://ach.org/?p=2337",
           "author": "jwoowinter",
@@ -747,6 +765,15 @@
       "feedUrl": "https://caa-international.org/feed",
       "siteUrl": "https://caa-international.org",
       "articles": [
+        {
+          "id": "https://sites.caa-international.org/main/?p=15863",
+          "author": "Jeffrey Glover",
+          "description": "The CAA condemns in the strongest possible terms Russia’s attack on Ukraine.  Our thoughts are with the people of Ukraine and for the safety and well-being of our colleagues and all people impacted by these horrific events.",
+          "link": "https://caa-international.org/2022/02/25/condemnation-of-russias-attack-on-ukraine/",
+          "publishedOn": "2022-02-25T19:45:47.000Z",
+          "wordCount": 152,
+          "title": "Condemnation of Russia’s Attack on Ukraine"
+        },
         {
           "id": "https://sites.caa-international.org/main/?p=15754",
           "author": "Jeffrey Glover",
@@ -2916,6 +2943,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/778",
+          "author": "406",
+          "description": "Dear friends and colleagues,\nWe are probably all following the news regarding the situation in Ukraine. This is happening not far from Krákow, Iasi, or Budapest where some of us…",
+          "link": "https://dig-hum.de/aktuelles/statement-on-the-war-ukraine",
+          "publishedOn": "2022-02-25T17:17:27.000Z",
+          "wordCount": 874,
+          "title": "Statement on the war in Ukraine"
+        },
+        {
           "id": "node/776",
           "author": "406",
           "description": "Das Max-Planck-Institut für Rechtsgeschichte und Rechtstheorie in Frankfurt am Main sucht zum nächstmöglichen Zeitpunkt eine*n Bibliotheks- oder Medieninformatiker*in, B.A. (m/w/d…",
@@ -3574,6 +3610,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=7900",
+          "author": "maddalena poli",
+          "description": "Guest piece by Casey Schoenberger. The following is an introduction to a digital humanities project I completed over the past …",
+          "link": "https://digitalorientalist.com/2022/02/25/an-introduction-to-the-nine-modes-manual-online/",
+          "publishedOn": "2022-02-25T13:00:00.000Z",
+          "wordCount": 2193,
+          "title": "An Introduction to the Nine Modes Manual Online"
+        },
         {
           "id": "http://digitalorientalist.com/?p=7849",
           "author": "Ephrem A. Ishac",
@@ -6562,24 +6607,6 @@
           "publishedOn": "2021-09-10T00:12:00.000Z",
           "wordCount": 3783,
           "title": "Some thoughts on the ‘Trove Researcher Platform for Advanced Research’ draft plan"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/08/30/some-research-projects.html",
-          "author": null,
-          "description": "A Twitter thread about some of the research uses of QueryPic…\nQueryPic, my tool for visualising searches in @TroveAustralia’s digitised newspapers, has been around in different forms for more than 10 years. The latest version is part of the #GLAMWorkbench: https://t.co/qnY5tVDwgY  #researchinfrastructure pic.twitter.com/QyHWJwGV3u\n— Tim Sherratt (@wragge) August 29, 2021\n\n\n\nI thought I’d highlight some of the research publications that have made use of QueryPic over the years, so, in no particular order...\n— Tim Sherratt (@wragge) August 29, 2021\nThere’s @Airminded’s article in @HistAustJournal – Brett Holman (2013) 'Dreaming War: Airmindedness and the Australian Mystery Aeroplane Scare of 1918', History Australia, 10:2, 180-201, DOI: https://t.co/2wgiLueHGL\n— Tim Sherratt (@wragge) August…",
-          "link": "https://updates.timsherratt.org/2021/08/30/some-research-projects.html",
-          "publishedOn": "2021-08-30T01:48:11.000Z",
-          "wordCount": 627,
-          "title": "Some research projects that have used QueryPic"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/08/30/government-publications-in.html",
-          "author": null,
-          "description": "Over the last few weeks I’ve been updating my harvests of OCRd text from digitised books and periodicals in Trove. As part of the harvesting process, I’ve created lists of both that are available in digital form – this includes digitised works, as well as those that are born-digital (such as PDFs or epubs). I’ve published the full lists of books and periodicals as searchable databases to make them easy to explore.\n\nOne thing that you might notice is that works with the format ‘Government publication’ pop up in both lists – sometimes it’s not clear whether something is a ‘book’ or ‘periodical’. To make it easier to find these items, no matter what their format, I’ve combined data from my two harvests and created a searchable dataset of government publications. It includes links to download OCRd text from CloudStor if available.\nAll three databases make use of Datasette, which I’ve also used for the GLAM Name Index Search. One of the cool things about Datasette is that it provides it’s own API, so if you find some interesting in any of these databases, you can easily download the machine-readable data for further analysis. #dhhacks",
-          "link": "https://updates.timsherratt.org/2021/08/30/government-publications-in.html",
-          "publishedOn": "2021-08-30T01:21:46.000Z",
-          "wordCount": 219,
-          "title": "Government publications in Trove"
         }
       ]
     },
@@ -8505,6 +8532,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=11580",
+          "author": "Melanie Cheung",
+          "description": "RLUK's Space Programme is a forum for RLUK members to engage in open dialogue and share their knowledge and experience around spatial redesign and capital builds. This seminar features three presentations focusing on the impact the recent shift in working practices has had on the design and use of library spaces, both physical and [...]\nThe post RLUK Space: Hybrid and blended working approaches and the role of space in libraries appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk-space-hybrid-blended/",
+          "publishedOn": "2022-02-25T10:43:25.000Z",
+          "wordCount": 1418,
+          "title": "RLUK Space: Hybrid and blended working approaches and the role of space in libraries"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=11546",
           "author": "Melanie Cheung",
