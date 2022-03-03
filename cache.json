@@ -469,6 +469,15 @@
       "siteUrl": "https://adho.org/news",
       "articles": [
         {
+          "id": "588880 at https://adho.org",
+          "author": "drupaladmin",
+          "description": "The Alliance of Digital Humanities Organizations (ADHO) deplores the February 2022 invasion of Ukraine by the Russian Army under orders from President Putin, and the ongoing violence and suffering it is causing, especially among the Ukrainian people. We join colleagues worldwide in condemning the invasion and asserting solidarity with the Ukrainian nation and its people. Armed conflict is not a solution and our thoughts are with those who are affected by the horrific impact of war.\nWe call on the international academia in general, and to our digital humanities community in particular, to extend any possible help to Ukrainian scholars and students in these difficult times. May this also serve as a reminder of the terribly disruptive consequences of armed conflict and injustice that are a too frequent reality for many around the world. We invite all to read the statements, published by our Constituent Organizations in response to the invasion, that reflect our diversity and also the solidarity of our global DH community.\n\n\nPost Date: \n\nThursday, March 3, 2022",
+          "link": "https://adho.org/announcements/2022/adho-statement-invasion-ukraine",
+          "publishedOn": "2022-03-03T01:02:21.000Z",
+          "wordCount": 373,
+          "title": "ADHO Statement on the invasion of Ukraine"
+        },
+        {
           "id": "588876 at https://adho.org",
           "author": "erdal.ayan@dhturkey.org",
           "description": "ADHO Constituent Organizations have published statements on invasion of Ukraine. Click on the following links/statements to read more.\nEADH statement on Ukraine invasion\nACH Statement on the Invasion of Ukraine\nHumanistica soutient les collègues d’Ukraine\nDHd Statement on the war in Ukraine\n\n\nPost Date: \n\nSunday, February 27, 2022",
@@ -2934,6 +2943,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/779",
+          "author": "406",
+          "description": "Es werden freiwillige HelferInnen gesucht für eine Data Rescue Session zur Sicherung von Kulturgut in der Ukraine. Die Aktion findet am Samstag (03. März 2022) statt.\nWeitere…",
+          "link": "https://dig-hum.de/aktuelles/freiwillige-gesucht-f%C3%BCr-sicherung-kulturgut-der-ukraine-5322",
+          "publishedOn": "2022-03-03T08:13:56.959Z",
+          "wordCount": 722,
+          "title": "Freiwillige gesucht für Sicherung von Kulturgut in der Ukraine (5.3.22)"
+        },
+        {
           "id": "node/778",
           "author": "406",
           "description": "Dear friends and colleagues,\nWe are probably all following the news regarding the situation in Ukraine. This is happening not far from Krákow, Iasi, or Budapest where some of us…",
@@ -3421,6 +3439,15 @@
       "feedUrl": "https://digitaldemocracies.org/feed",
       "siteUrl": "https://digitaldemocracies.org",
       "articles": [
+        {
+          "id": "https://digitaldemocracies.org/?p=2106",
+          "author": "Kayla Hilstob",
+          "description": "Dr. Susan Schuppli recently visited the Digital Democracies Institute as a virtual presenter, part of our ongoing Spring Speaker Series. She shared some projects with us that build upon her …\n  Susan Schuppli – Cold Matters Read More »\nSusan Schuppli – Cold Matters first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/susan-schuppli-cold-matters/?utm_source=rss&utm_medium=rss&utm_campaign=susan-schuppli-cold-matters",
+          "publishedOn": "2022-03-02T18:12:19.000Z",
+          "wordCount": 1535,
+          "title": "Susan Schuppli – Cold Matters"
+        },
         {
           "id": "https://digitaldemocracies.org/?p=2082",
           "author": "Kayla Hilstob",
@@ -4246,15 +4273,6 @@
           "publishedOn": "2021-09-06T09:51:03.000Z",
           "wordCount": 433,
           "title": "Postdoctoral Position in Natural Language Processing: Text reuse and cooccurrences"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-864",
-          "author": "ryan.heuser",
-          "description": "And kind of upset. I thought the reviews were rather harsh. They seemed to misunderstand and downplay the humanistic payoff of the paper, instead discounting the piece for not following a (IMO stale) intro-methods-results-conclusion rubric, with heavy citation to related methods, as if I were only developing new tools rather than deriving new historical insights from them. I’m not familiar with this event but I thought this was more computational humanities than computational social science or computer science. What disciplinary backgrounds do the reviewers hail from?\nCongratulations, though, to those accepted, and thanks to the organisers for putting this together. Sorry for being a bit petty: I’ve just been rejected from ADHO a few times now, I think for being a bit too pitched to a computational-heavy audience, and now rejected from CHR, for being a bit too pitched to a humanistic audience, and wondering where my work even belongs anymore. But I will work to improve the piece and submit elsewhere.\n8 posts - 5 participants\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/rejected-from-chr2021/864",
-          "publishedOn": "2021-09-04T10:46:16.000Z",
-          "wordCount": 1108,
-          "title": "Rejected from CHR2021"
         }
       ]
     },
@@ -5290,6 +5308,15 @@
       "feedUrl": "https://openmethods.dariah.eu/feed/",
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
+        {
+          "id": "https://github.com/CateAgostini/IIIF",
+          "author": "Author on Source",
+          "description": "Introduction: In this resource, Caterina Agostini, PhD in Italian from Rutgers University, Project Manager at The Center for Digital Humanities at Princeton shares two handouts of workshops she organized and co-taught on the International Image Interoperability Framework (IIIF). They provide a gentle introduction to IIIF and clear overview of features (displaying, editing, annotating, sharing and comparing images along universal standards), examples and resources. The handouts could be of interest to anyone interested in the design and teaching of Open Educational Resources on IIF.\n[Click ‘Read more’ for the full post!]",
+          "link": "https://openmethods.dariah.eu/2022/02/10/github-cateagostini-iiif/",
+          "publishedOn": "2022-02-10T15:13:40.000Z",
+          "wordCount": 974,
+          "title": "GitHub – CateAgostini/IIIF"
+        },
         {
           "id": "http://openmethods.dariah.eu/?p=3149",
           "author": "Marinella Testori Erzsébet Tóth-Czifra",
@@ -6393,6 +6420,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2022/03/03/adventures-in-foi.html",
+          "author": null,
+          "description": "So my FOI request  to release the scoping studies that informed investments in the current round of ARDC-managed HASS research infrastructure development was partially successful. As I’ve previously noted, reports from the ARDC and Academy of Humanities are now publicly available. There was a third document identified as relevant to my request that was finally released yesterday, but it isn’t what I was expecting. It’s a report of consultation relating to a discussion paper by Dandalo Partners, rather than the actual discussion paper itself! Clearly I spoke the wrong magic words, and should have asked for ‘discussion papers’ as well as ‘scoping studies’. FOI can be a bit of a fishing expedition. I’m considering whether I want to start the whole FOI process again by asking for the final version of the discussion paper, but in the meantime, I’ve put the currently-available documents in a Dropbox folder. Enjoy!\nThanks again to those who helped me cover the FOI costs!",
+          "link": "https://updates.timsherratt.org/2022/03/03/adventures-in-foi.html",
+          "publishedOn": "2022-03-02T23:46:59.000Z",
+          "wordCount": 191,
+          "title": "Adventures in FOI – HASS RDC Scoping Studies"
+        },
+        {
           "id": "http://wragge.micro.blog/2022/03/02/the-glam-workbench.html",
           "author": null,
           "description": "Over the past few months I’ve been doing a lot of behind-the-scenes work on the GLAM Workbench – automating, standardising, and documenting processes for developing and managing repositories. These sort of things ease the maintenance burden on me and help make the GLAM Workbench sustainable, even as it continues to grow. But these changes are also aimed at making it easier for you to contribute to the GLAM Workbench!\nPerhaps you’re part of a GLAM organisation that wants to help researchers explore its collection data – why not create your own section of the GLAM Workbench? It would be a great opportunity for staff to develop their own digital skills and learn about the possibilities of Jupyter notebooks. I’ve developed a repository template and some detailed documentation to get you started. The repository template includes everything you need to create and test notebooks, as well as built-in integration with Binder, Docker, Reclaim Cloud, and Zenodo. And, of course, I’ll be around to help you through the process.\n\nOr perhaps you’re a researcher who wants to share some code you’ve developed that extends or improves an existing GLAM Workbench repository. Yes please!  Or maybe you’re a GLAM Workbench user who has something to add to one of the lists of resources; or you’ve noticed a problem with some of the documentation that you’d like to fix. All contributions welcome!\nThe Get involved! page includes links to all this information, as well as some other possibilities such as becoming a sponsor, or sharing news. And to recognise those who make a contribution to the code or documentation there’s also a brand new contributors page.\nI’m looking forward to exploring how we can build the GLAM Workbench together. #dhhacks",
@@ -6730,6 +6766,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "3911 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "À l’occasion de la Journée internationale des droits des femmes Europe Direct at the University of Luxembourg et ses partenaires - le Luxembourg Centre for Contemporary and Digital History/Université du Luxembourg, le Ministère des Affaires étrangères et européennes du Grand-Duché de Luxembourg, la Représentation de la Commission européenne au Luxembourg, le Bureau d’information du Parlement européen au Luxembourg - ont le plaisir de vous inviter au webinaire Le rôle des femmes dans les relations européennes et internationales du Luxembourg.\n \nMardi, 8 mars 2022\nde 14:00 à 15:30 heures\n\n\n\nInscription gratuite sur Eventbrite.\n \nProgramme\n\n14:00    \n \nOuverture de la manifestation par Dr Elena Danescu, Coordinatrice de l’Europe Direct Université du Luxembourg et Prof.Catherine Léglu, Vice-Re…",
+          "link": "https://www.c2dh.uni.lu/events/le-role-des-femmes-dans-les-relations-europeennes-et-internationales-du-luxembourg",
+          "publishedOn": "2022-03-03T07:14:21.000Z",
+          "wordCount": 507,
+          "title": "Le rôle des femmes dans les relations européennes et internationales du Luxembourg"
+        },
         {
           "id": "3894 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -7461,6 +7506,33 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1485 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "In this blog, Dr Liam Mac Amhlaigh, a scholar of contemporary Irish literature and lexicography in Maynooth University, highlights the COMHARTaighde digital collection of Modern Irish Scholarship, deposited on the Digital Repository of Ireland by the Royal Irish Academy Library.",
+          "link": "https://www.dri.ie/cuardaigh-do-chartlann-comhartaighde",
+          "publishedOn": "2022-03-02T09:44:43.000Z",
+          "wordCount": 1021,
+          "title": "Cuardaigh do Chartlann ­– COMHARTaighde"
+        },
+        {
+          "id": "1484 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "Date: \n\n30 Mar 2022\n\n\nLocation: \n\nZoom\n\n\n\nThe Digital Repository of Ireland (DRI) hosts monthly Virtual Coffee Mornings to provide DRI memb",
+          "link": "https://www.dri.ie/dri-virtual-coffee-morning-march-2022",
+          "publishedOn": "2022-03-02T08:50:46.000Z",
+          "wordCount": 671,
+          "title": "DRI Virtual Coffee Morning - March 2022"
+        },
+        {
+          "id": "1483 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "We are delighted to announce that DRI’s Membership Manager Dr Lisa Griffith has joined the Digital Digital Preservation Coalition’s (DPC) Advocacy and Community Engagement Subcommittee.",
+          "link": "https://www.dri.ie/dri-appointments-dpc-committees",
+          "publishedOn": "2022-02-28T12:46:44.000Z",
+          "wordCount": 593,
+          "title": "DRI Appointments to DPC Committees"
+        },
         {
           "id": "1482 at https://www.dri.ie",
           "author": "Deborah Thorpe",
@@ -8532,6 +8604,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=11672",
+          "author": "Melanie Cheung",
+          "description": "We the undersigned, representing the UK community of librarians, archivists and information professionals, wish to extend our solidarity and support for our professional colleagues in Ukraine during the current military action by Russia. We are gravely concerned at the threat posed by this action to the safety of the Ukrainian people, their heritage and identity, [...]\nThe post Statement of solidarity with librarians, archivists and information professionals in Ukraine appeared first on Research Libraries UK.",
+          "link": "https://www.cilip.org.uk/news/597028/Statement-of-solidarity-with-librarians-archivists-and-information-professionals-in-Ukraine.htm#new_tab",
+          "publishedOn": "2022-03-02T11:45:21.000Z",
+          "wordCount": null,
+          "title": "Statement of solidarity with librarians, archivists and information professionals in Ukraine"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=11590",
           "author": "Melanie Cheung",
