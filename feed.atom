@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-03-03T08:14:34.129Z</updated>
+    <updated>2022-03-04T08:14:54.075Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ms. Codex 1053: Bible]]></title>
+        <id>http://schoenberginstitute.org/?p=16344</id>
+        <link href="https://schoenberginstitute.org/2022/03/03/ms-codex-1053-bible/"/>
+        <updated>2022-03-03T18:48:54.000Z</updated>
+        <summary type="html"><![CDATA[For this week’s Coffee With A Codex we took a look at Ms. Codex 1053, a Bible in 2 volumes (Old and New Testament) with prologues, probably written in England in the 13th century. The binding is stamped leather, probably pigskin, with remnants of two braided leather ties on the lower cover of each volume.Continue reading "Ms. Codex 1053: Bible"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Request for Proposals – ach.org Refresh]]></title>
+        <id>https://ach.org/?p=2346</id>
+        <link href="https://ach.org/blog/2022/03/03/request-for-proposals-ach-org-refresh/"/>
+        <updated>2022-03-03T17:40:05.000Z</updated>
+        <summary type="html"><![CDATA[The Association for Computers and the Humanities is planning a significant website overhaul in 2022. This project will involve a thorough review and reconceptualization of the site architecture, including archiving outdated content and creating clear and coherent navigation. It will also require the selection, customization, and implementation of a new WordPress theme built with accessibility…Continue reading.]]></summary>
+        <author>
+            <name>Kathleen Fitzpatrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HEP Vaud:   Collaborateur·trice spécialisé·e en Open science]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=9924</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/03/03/hep-vaud-collaborateur%c2%b7trice-specialise%c2%b7e-en-open-science/"/>
+        <updated>2022-03-03T15:27:33.000Z</updated>
+        <summary type="html"><![CDATA[La Haute école pédagogique du canton de Vaud met au concours un poste de collaborateur·trice spécialisé·e en Open science. Entrée en fonction : 1er mai 2022 ou à convenir. Vos activités principales consistent d’une part à implémenter la stratégie et les recommandations de swissuniversities dans le domaine des Open Research Data (ORD). Vous identifiez les ORD […]
+The post HEP Vaud:   Collaborateur·trice spécialisé·e en Open science appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPFL College of Humanities offers temporary placements for Ukrainian researchers]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=9911</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/03/03/epfl-college-of-humanities-offers-temporary-placements-for-ukrainian-researchers/"/>
+        <updated>2022-03-03T14:00:28.000Z</updated>
+        <summary type="html"><![CDATA[EPFL’s College of Humanities has announced a program offering temporary placements for Ukrainian researchers working in digital humanities and social sciences fields. The CDH is offering paid placements for researchers (post-doc level and above) of a Ukrainian university or research institution for 3-8 months. Placements are offered for researchers working in the following areas: Ethics […]
+The post EPFL College of Humanities offers temporary placements for Ukrainian researchers appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Celia Luterbacher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freiwillige gesucht für Sicherung von Kulturgut in der Ukraine (5.3.22)]]></title>
         <id>node/779</id>
@@ -174,6 +216,17 @@ I’m looking forward to exploring how we can build the GLAM Workbench together.
         <summary type="html"><![CDATA[2022-2023 La bourse Stéfan Sinclair est conçue pour appuyer une personne qui étudie à un cycle supérieur, qui oeuvre à la croisée des sciences humaines, des langues, de la littérature et de l’informatique et qui a besoin d’une aide financière. Chaque année, une personne se verra attribuer une bourse d’environ 2500$ pour l’aider à payer […]]]></summary>
         <author>
             <name>arcadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving from Undergraduate to Postgraduate Study: Using Digital Archives More Proficiently]]></title>
+        <id>https://review.gale.com/?p=13253</id>
+        <link href="https://review.gale.com/2022/03/01/moving-from-undergraduate-to-postgraduate-study-using-digital-archives-more-proficiently/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=moving-from-undergraduate-to-postgraduate-study-using-digital-archives-more-proficiently"/>
+        <updated>2022-03-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[│By Mo Clarke, Gale Ambassador at the University of Exeter│ Moving from undergraduate to postgraduate study can be challenging. Students are expected to undertake more original research at postgraduate level, contributing to ideas within their field rather than simply explaining them. For history students like myself, engaging with primary sources is particularly important. The need ... Read more
+The post Moving from Undergraduate to Postgraduate Study: Using Digital Archives More Proficiently appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Ambassadors</name>
         </author>
     </entry>
     <entry>
@@ -12280,16 +12333,6 @@ This message is meant to publicize the job offer related to the postdoctoral pos
 I am looking for someone with experience in programming system design for text processing analysis…]]></summary>
         <author>
             <name>marie.bizais</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6th International Workshop on Historical Document Imaging and Processing (HIP’21)]]></title>
-        <id>https://www.digitisation.eu/?post_type=tribe_events&amp;p=16044</id>
-        <link href="https://www.digitisation.eu/event/6th-international-workshop-on-historical-document-imaging-and-processing-hip21/"/>
-        <updated>2021-09-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The post 6th International Workshop on Historical Document Imaging and Processing (HIP’21) appeared first on IMPACT Centre of Competence.]]></summary>
-        <author>
-            <name>Impact Centre of Competence</name>
         </author>
     </entry>
 </feed>

@@ -271,17 +271,7 @@
       "title": "Blog | IMPACT Centre of Competence",
       "feedUrl": "http://www.digitisation.eu/blog/feed/",
       "siteUrl": "https://www.digitisation.eu",
-      "articles": [
-        {
-          "id": "https://www.digitisation.eu/?post_type=tribe_events&p=16044",
-          "author": "Impact Centre of Competence",
-          "description": "The post 6th International Workshop on Historical Document Imaging and Processing (HIP’21) appeared first on IMPACT Centre of Competence.",
-          "link": "https://www.digitisation.eu/event/6th-international-workshop-on-historical-document-imaging-and-processing-hip21/",
-          "publishedOn": "2021-09-04T22:00:00.000Z",
-          "wordCount": 479,
-          "title": "6th International Workshop on Historical Document Imaging and Processing (HIP’21)"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News – Global Outlook::Digital Humanities",
@@ -338,6 +328,15 @@
       "feedUrl": "https://ach.org/feed/",
       "siteUrl": "https://ach.org",
       "articles": [
+        {
+          "id": "https://ach.org/?p=2346",
+          "author": "Kathleen Fitzpatrick",
+          "description": "The Association for Computers and the Humanities is planning a significant website overhaul in 2022. This project will involve a thorough review and reconceptualization of the site architecture, including archiving outdated content and creating clear and coherent navigation. It will also require the selection, customization, and implementation of a new WordPress theme built with accessibility…Continue reading.",
+          "link": "https://ach.org/blog/2022/03/03/request-for-proposals-ach-org-refresh/",
+          "publishedOn": "2022-03-03T17:40:05.000Z",
+          "wordCount": 369,
+          "title": "Request for Proposals – ach.org Refresh"
+        },
         {
           "id": "https://ach.org/?p=2341",
           "author": "Quinn Dombrowski",
@@ -1507,6 +1506,24 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9924",
+          "author": "Heloise schibler",
+          "description": "La Haute école pédagogique du canton de Vaud met au concours un poste de collaborateur·trice spécialisé·e en Open science. Entrée en fonction : 1er mai 2022 ou à convenir. Vos activités principales consistent d’une part à implémenter la stratégie et les recommandations de swissuniversities dans le domaine des Open Research Data (ORD). Vous identifiez les ORD […]\nThe post HEP Vaud:   Collaborateur·trice spécialisé·e en Open science appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/03/03/hep-vaud-collaborateur%c2%b7trice-specialise%c2%b7e-en-open-science/",
+          "publishedOn": "2022-03-03T15:27:33.000Z",
+          "wordCount": 701,
+          "title": "HEP Vaud:   Collaborateur·trice spécialisé·e en Open science"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9911",
+          "author": "Celia Luterbacher",
+          "description": "EPFL’s College of Humanities has announced a program offering temporary placements for Ukrainian researchers working in digital humanities and social sciences fields. The CDH is offering paid placements for researchers (post-doc level and above) of a Ukrainian university or research institution for 3-8 months. Placements are offered for researchers working in the following areas: Ethics […]\nThe post EPFL College of Humanities offers temporary placements for Ukrainian researchers appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/03/03/epfl-college-of-humanities-offers-temporary-placements-for-ukrainian-researchers/",
+          "publishedOn": "2022-03-03T14:00:28.000Z",
+          "wordCount": 451,
+          "title": "EPFL College of Humanities offers temporary placements for Ukrainian researchers"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=9886",
           "author": "Heloise schibler",
@@ -5490,6 +5507,20 @@
       "siteUrl": "https://review.gale.com",
       "articles": [
         {
+          "id": "https://review.gale.com/?p=13253",
+          "author": "Gale Ambassadors",
+          "description": "│By Mo Clarke, Gale Ambassador at the University of Exeter│ Moving from undergraduate to postgraduate study can be challenging. Students are expected to undertake more original research at postgraduate level, contributing to ideas within their field rather than simply explaining them. For history students like myself, engaging with primary sources is particularly important. The need ... Read more\nThe post Moving from Undergraduate to Postgraduate Study: Using Digital Archives More Proficiently appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2022/03/01/moving-from-undergraduate-to-postgraduate-study-using-digital-archives-more-proficiently/?utm_source=rss&utm_medium=rss&utm_campaign=moving-from-undergraduate-to-postgraduate-study-using-digital-archives-more-proficiently",
+          "publishedOn": "2022-03-01T22:00:00.000Z",
+          "wordCount": 1716,
+          "title": "Moving from Undergraduate to Postgraduate Study: Using Digital Archives More Proficiently",
+          "enclosure": {
+            "url": "https://review.gale.com/wp-content/uploads/2022/02/Mo-Undergrad-to-Masters-header-image-scaled.jpg",
+            "length": "412809",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://review.gale.com/?p=13243",
           "author": "Gale Review Team",
           "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ There are many advantages to incorporating work with digital tools in the humanities classroom. As students graduate and transition to the workplace, demonstrable digital literacy is often a pre-requisite for employment, so students are keen to learn such skills, and to articulate what they have learned ... Read more\nThe post Practical Pedagogy with Gale Digital Scholar Lab, Part I: Developing Your Syllabus and Learning Objectives appeared first on The Gale Review.",
@@ -5919,6 +5950,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=16344",
+          "author": "simsmss",
+          "description": "For this week’s Coffee With A Codex we took a look at Ms. Codex 1053, a Bible in 2 volumes (Old and New Testament) with prologues, probably written in England in the 13th century. The binding is stamped leather, probably pigskin, with remnants of two braided leather ties on the lower cover of each volume.Continue reading \"Ms. Codex 1053: Bible\"",
+          "link": "https://schoenberginstitute.org/2022/03/03/ms-codex-1053-bible/",
+          "publishedOn": "2022-03-03T18:48:54.000Z",
+          "wordCount": 1581,
+          "title": "Ms. Codex 1053: Bible"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=16404",
           "author": "simsmss",
