@@ -2,10 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-03-08T08:15:23.253Z</updated>
+    <updated>2022-03-09T08:14:30.711Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NEU: DHd@YouTube]]></title>
+        <id>node/784</id>
+        <link href="https://dig-hum.de/aktuelles/neu-dhdyoutube"/>
+        <updated>2022-03-09T08:14:15.612Z</updated>
+        <summary type="html"><![CDATA[Der Verband "Digital Humanities im deutschsprachigen Raum e.V." (DHd) hat seit kurzem einen eigenen Kanal auf YouTube namens "DHd-Verband".
+Hier können auch die Präsentationen der…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHd-Mitgliederversammulung: Heute von 16:00-18:00 Uhr]]></title>
+        <id>node/785</id>
+        <link href="https://dig-hum.de/aktuelles/dhd-mitgliederversammulung-heute-1600-1800-uhr"/>
+        <updated>2022-03-09T08:14:15.593Z</updated>
+        <summary type="html"><![CDATA[Am 09. März 2022 (Mittwoch) findet im Rahmen der 8. Jahreskonferenz des Verbandes "Digital Humanities im deutschsprachigen Raum e.V." (DHd) von 16:00 bis 18:00 Uhr unsere…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trismegistos People website nominated for DH awards]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1035</id>
+        <link href="https://scholarlytales.hcommons.org/2022/03/08/trismegistos-people-website-nominated-for-dh-awards/"/>
+        <updated>2022-03-08T15:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Every year the DH awards are awarded in different categories to DH-related projects that have achieved something during the past year. The Arts Faculty-based Trismegistos People website (launched last year) is one of the nominees in the category ‘Best DH Dataset’. It features new, enhanced search functionalities and various visualisations (charts and network visualisations). Voting is now open to everyone through this form (’Trismegistos People website’ is listed in the fourth category). Voting in other categories is not mandatory, but...]]></summary>
+        <author>
+            <name>Laura Mesotten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Girl Power: Can we Break the Bias in Al and Beyond?]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=9955</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/03/08/girl-power-can-we-break-the-bias-in-al-and-beyond/"/>
+        <updated>2022-03-08T14:59:47.000Z</updated>
+        <summary type="html"><![CDATA[We all know the story. It gets rolled out every March when women and men around the world celebrate International Women’s Day. Human biases are well documented, from the implicit to the explicit and they have always existed but as algorithms and big data increasingly run our lives these biases become embedded in everything. “Going […]
+The post Girl Power: Can we Break the Bias in Al and Beyond? appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Celia Luterbacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARIN ERIC Statement on Ukraine]]></title>
+        <id>5689 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/clarin-eric-statement-ukraine"/>
+        <updated>2022-03-08T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[CLARIN ERIC Statement on Ukraine
+
+            
+
+  
+  
+            
+    
+
+              
+              
+              
+                  
+
+  
+CLARIN 
+    
+European Research Infrastructure Consortium
+
+See: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en
+
+read more
+
+   condemns the military aggression of the Russian Federation against Ukraine. CLARIN stands in solidarity with Ukraine and its people. 
+The elementary values of freedom, democracy and self-determination have been attacked, which also affect the fundamental principles underpinning scientific research: cultural expression, scientific freedom and academic cooperation. 
+CLARIN would like to express its solidarity with everyone affected by the horror of war and with all scholars a…]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing and assessing teaching materials with MERLOT]]></title>
+        <id>http://digitalorientalist.com/?p=7812</id>
+        <link href="https://digitalorientalist.com/2022/03/08/sharing-and-assessing-teaching-materials-with-merlot/"/>
+        <updated>2022-03-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to teaching/learning resources on the internet, it is incredible to see their proliferation, especially after the last …]]></summary>
+        <author>
+            <name>Michele Eduarda Brasil de Sá</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zotero: a digital personal research assistant (part 2)]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1027</id>
+        <link href="https://scholarlytales.hcommons.org/2022/03/08/zotero-a-digital-personal-research-assistant-part-2/"/>
+        <updated>2022-03-08T12:16:59.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago we announced a new series that would help you get set up in Zotero, a free reference manager that enables you to collect, organize, cite and share research. As a follow-up to the first blogpost, we will take you through the next steps on how to collect and organize references in Zotero. Collecting references There are many ways to gather references in Zotero. We will explain the three main possibilities to do this in the desktop...]]></summary>
+        <author>
+            <name>Rebecca Burke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Des acteurs oubliés de la colonisation: Les légionnaires luxembourgeois au sein de l’empire colonial français]]></title>
+        <id>3919 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/des-acteurs-oublies-de-la-colonisation-les-legionnaires-luxembourgeois-au-sein-de-lempire"/>
+        <updated>2022-03-08T10:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Dès le milieu du XIXe siècle, de jeunes Luxembourgeois s’engagent dans la Légion étrangère mise en place en 1831. Leurs motivations sont multiples : espoir de connaître une vie meilleure, tentative de fuir, pour une raison ou une autre, le Grand-Duché ou encore soif de découvertes et d’aventures. À travers leur engagement ils participant derechef à la conquête coloniale française. C’est ce dont témoigne une circulaire concernant les individus qui prennent service militaire dans la Légion étrangère, publiée en 1847 dans le Mémorial législatif et administratif du Grand-Duché de Luxembourg.
+Rappelons que la fascination pour cette « épopée » parcourt l’Europe, alimentée par la presse et de nombreux « ouvrages exotiques », mettant aussi bien en exergue des terres inconnues que la conquête colon…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHd-Konferenz 2022 &quot;Kulturen des digitalen Gedächtnisses&quot;- einzelne Abstracts in der DHd-Community auf Zenodo verfügbar]]></title>
         <id>node/782</id>
@@ -12016,81 +12124,6 @@ Peeter Tinits, Jane Klavan ja Liina Lindström toimetasid uut Keele ja Kirjandus
  Loe lähemalt Kirjandustänava festivalil: "Digihumanitaaria Eestis." Vestlusring Keele ja Kirjanduse teemanumbri autoritega kohta]]></summary>
         <author>
             <name>a71389</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Lightning Rounds]]></title>
-        <id>https://dhn.utoronto.ca/?p=1620</id>
-        <link href="https://dhn.utoronto.ca/cfp-lightning-rounds/"/>
-        <updated>2021-09-10T18:44:20.000Z</updated>
-        <summary type="html"><![CDATA[CFP: Lightning Rounds  4th Annual Digital Humanities Conference  University of Toronto  21-22 October 2021    Missed the deadline? Crunched for time? Never fear! You can still participate in the fourth annual DH conference with our just-in-time lightning rounds. In this format, presenters will offer a 7-8 minute snapshot of their digital research, followed by ... Read More]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEADLINE EXTENDED: Graduate and Undergraduate Poster Presentations]]></title>
-        <id>https://dhn.utoronto.ca/?p=1616</id>
-        <link href="https://dhn.utoronto.ca/deadline-extended/"/>
-        <updated>2021-09-10T18:41:01.000Z</updated>
-        <summary type="html"><![CDATA[DEADLINE EXTENDED Call for Graduate and Undergraduate Poster Presentations: 4th Annual Digital Humanities Conference   University of Toronto  21-22 October 2021    Registered graduate and undergraduate students from any U of T campus, discipline, and year-level are invited to submit posters in the humanities or interpretative social sciences on topics that engage with ... Read More]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Open ESC Positions EXTENDED]]></title>
-        <id>https://sites.caa-international.org/main/?p=15728</id>
-        <link href="https://caa-international.org/2021/09/10/call-for-open-esc-positions-extended/"/>
-        <updated>2021-09-10T15:52:02.000Z</updated>
-        <summary type="html"><![CDATA[The call for open ESC positions has been extended until October 1st. Please see original post or email for details.]]></summary>
-        <author>
-            <name>Jeffrey Glover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interview with Untitled.Showa]]></title>
-        <id>http://digitalorientalist.com/?p=6334</id>
-        <link href="https://digitalorientalist.com/2021/09/10/an-interview-with-untitled-showa/"/>
-        <updated>2021-09-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Untitled.Showa is a platform that uses crowdsourcing in an attempt to uncover information about and (re)unite a number of old …]]></summary>
-        <author>
-            <name>James Harry Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engaging Communities with Archives by Collaborating with Care]]></title>
-        <id>1399 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/engaging-communities-archives-collaborating-care"/>
-        <updated>2021-09-10T09:55:02.000Z</updated>
-        <summary type="html"><![CDATA[This blog reflects on ‘Engaging Communities with Archives: Video as a tool for activism, advocacy, and archival work’, a collaborative webinar hosted by the Digital Repository of Ireland (DRI) and the Public Record Office of Northern Ireland (PRONI) on 7 Sept 2021.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public History in der Lehre]]></title>
-        <id>3570 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/public-history-der-lehre"/>
-        <updated>2021-09-10T09:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Digital Public History breitet sich als weiterer Zugang in den stetig wachsenden Lehrangeboten der Public History aus. Gleichzeitig bleibt die personelle und finanzielle Ausstattung vieler Lehrstühle und Studiengänge in diesem Bereich jedoch prekär. Welche Chancen und Risiken ergeben sich vor diesem Hintergrund für das boomende Feld der Public History im deutschsprachigen Raum? Wie sehen die Lehrangebote konkret aus? Welche Karrierechancen bieten sich für Studierende der Public History?
-Im Rahmen des Workshops sollen Lehrende, Studierende und Absolvent:innen aus den verschiedenen universitären Standorten zusammengebracht werden, um kritisch den derzeitigen Stand des Studienangebots im Bereich der Public History im deutschsprachigen Raum zu reflektieren und mit internationalen Entwicklungen…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some thoughts on the ‘Trove Researcher Platform for Advanced Research’ draft plan]]></title>
-        <id>http://wragge.micro.blog/2021/09/10/some-thoughts-on.html</id>
-        <link href="https://updates.timsherratt.org/2021/09/10/some-thoughts-on.html"/>
-        <updated>2021-09-10T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Late last year the Federal Government announced it was making an $8.9 million investment in HASS and Indigenous research infrastructure. This program is being managed by the ARDC and will lead to the development of a HASS Research Data Commons. According to the ARDC, a research data commons:
-brings together people, skills, data, and related resources such as storage, compute, software, and models to enable researchers to conduct world class data-intensive research
-Sounds awesome!
-Based on scoping studies commissioned by the Department of Education, Skills, and Employment (which have not yet been made public), four activities were selected for initial funding under this program. Draft project plans for these four activities have now been released for public comment.
-One of these activities …]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
 </feed>

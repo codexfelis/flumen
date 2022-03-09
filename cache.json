@@ -781,15 +781,6 @@
           "publishedOn": "2021-11-03T20:39:41.000Z",
           "wordCount": 173,
           "title": "ESC Elections"
-        },
-        {
-          "id": "https://sites.caa-international.org/main/?p=15728",
-          "author": "Jeffrey Glover",
-          "description": "The call for open ESC positions has been extended until October 1st. Please see original post or email for details.",
-          "link": "https://caa-international.org/2021/09/10/call-for-open-esc-positions-extended/",
-          "publishedOn": "2021-09-10T15:52:02.000Z",
-          "wordCount": 138,
-          "title": "Call for Open ESC Positions EXTENDED"
         }
       ]
     },
@@ -1461,6 +1452,15 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9955",
+          "author": "Celia Luterbacher",
+          "description": "We all know the story. It gets rolled out every March when women and men around the world celebrate International Women’s Day. Human biases are well documented, from the implicit to the explicit and they have always existed but as algorithms and big data increasingly run our lives these biases become embedded in everything. “Going […]\nThe post Girl Power: Can we Break the Bias in Al and Beyond? appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/03/08/girl-power-can-we-break-the-bias-in-al-and-beyond/",
+          "publishedOn": "2022-03-08T14:59:47.000Z",
+          "wordCount": 1601,
+          "title": "Girl Power: Can we Break the Bias in Al and Beyond?"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=9937",
           "author": "Heloise schibler",
@@ -2747,24 +2747,6 @@
           "publishedOn": "2021-09-28T15:31:44.000Z",
           "wordCount": 348,
           "title": "Welcome Iris Chae!"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=1620",
-          "author": "DHN Admin",
-          "description": "CFP: Lightning Rounds  4th Annual Digital Humanities Conference  University of Toronto  21-22 October 2021    Missed the deadline? Crunched for time? Never fear! You can still participate in the fourth annual DH conference with our just-in-time lightning rounds. In this format, presenters will offer a 7-8 minute snapshot of their digital research, followed by ... Read More",
-          "link": "https://dhn.utoronto.ca/cfp-lightning-rounds/",
-          "publishedOn": "2021-09-10T18:44:20.000Z",
-          "wordCount": 508,
-          "title": "CFP: Lightning Rounds"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=1616",
-          "author": "DHN Admin",
-          "description": "DEADLINE EXTENDED Call for Graduate and Undergraduate Poster Presentations: 4th Annual Digital Humanities Conference   University of Toronto  21-22 October 2021    Registered graduate and undergraduate students from any U of T campus, discipline, and year-level are invited to submit posters in the humanities or interpretative social sciences on topics that engage with ... Read More",
-          "link": "https://dhn.utoronto.ca/deadline-extended/",
-          "publishedOn": "2021-09-10T18:41:01.000Z",
-          "wordCount": 717,
-          "title": "DEADLINE EXTENDED: Graduate and Undergraduate Poster Presentations"
         }
       ]
     },
@@ -2779,6 +2761,24 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/784",
+          "author": "406",
+          "description": "Der Verband \"Digital Humanities im deutschsprachigen Raum e.V.\" (DHd) hat seit kurzem einen eigenen Kanal auf YouTube namens \"DHd-Verband\".\nHier können auch die Präsentationen der…",
+          "link": "https://dig-hum.de/aktuelles/neu-dhdyoutube",
+          "publishedOn": "2022-03-09T08:14:15.612Z",
+          "wordCount": 729,
+          "title": "NEU: DHd@YouTube"
+        },
+        {
+          "id": "node/785",
+          "author": "406",
+          "description": "Am 09. März 2022 (Mittwoch) findet im Rahmen der 8. Jahreskonferenz des Verbandes \"Digital Humanities im deutschsprachigen Raum e.V.\" (DHd) von 16:00 bis 18:00 Uhr unsere…",
+          "link": "https://dig-hum.de/aktuelles/dhd-mitgliederversammulung-heute-1600-1800-uhr",
+          "publishedOn": "2022-03-09T08:14:15.593Z",
+          "wordCount": 706,
+          "title": "DHd-Mitgliederversammulung: Heute von 16:00-18:00 Uhr"
+        },
         {
           "id": "node/782",
           "author": "406",
@@ -3502,6 +3502,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=7812",
+          "author": "Michele Eduarda Brasil de Sá",
+          "description": "When it comes to teaching/learning resources on the internet, it is incredible to see their proliferation, especially after the last …",
+          "link": "https://digitalorientalist.com/2022/03/08/sharing-and-assessing-teaching-materials-with-merlot/",
+          "publishedOn": "2022-03-08T13:00:00.000Z",
+          "wordCount": 1514,
+          "title": "Sharing and assessing teaching materials with MERLOT"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=7919",
           "author": "Mariana Zorkina",
           "description": "Call for Papers: Abstract deadline: 1 MayPaper submission deadline: 11 JuneDate of the conference: 25 June Submission form We are …",
@@ -3950,15 +3959,6 @@
           "publishedOn": "2021-09-14T14:00:00.000Z",
           "wordCount": 1140,
           "title": "Interview with Dr. Nathan P. Gibson about Syriaca.org, Part 1"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=6334",
-          "author": "James Harry Morris",
-          "description": "Untitled.Showa is a platform that uses crowdsourcing in an attempt to uncover information about and (re)unite a number of old …",
-          "link": "https://digitalorientalist.com/2021/09/10/an-interview-with-untitled-showa/",
-          "publishedOn": "2021-09-10T13:00:00.000Z",
-          "wordCount": 3237,
-          "title": "An Interview with Untitled.Showa"
         }
       ]
     },
@@ -5958,6 +5958,24 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=1035",
+          "author": "Laura Mesotten",
+          "description": "Every year the DH awards are awarded in different categories to DH-related projects that have achieved something during the past year. The Arts Faculty-based Trismegistos People website (launched last year) is one of the nominees in the category ‘Best DH Dataset’. It features new, enhanced search functionalities and various visualisations (charts and network visualisations). Voting is now open to everyone through this form (’Trismegistos People website’ is listed in the fourth category). Voting in other categories is not mandatory, but...",
+          "link": "https://scholarlytales.hcommons.org/2022/03/08/trismegistos-people-website-nominated-for-dh-awards/",
+          "publishedOn": "2022-03-08T15:19:50.000Z",
+          "wordCount": 1471,
+          "title": "Trismegistos People website nominated for DH awards"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1027",
+          "author": "Rebecca Burke",
+          "description": "A few weeks ago we announced a new series that would help you get set up in Zotero, a free reference manager that enables you to collect, organize, cite and share research. As a follow-up to the first blogpost, we will take you through the next steps on how to collect and organize references in Zotero. Collecting references There are many ways to gather references in Zotero. We will explain the three main possibilities to do this in the desktop...",
+          "link": "https://scholarlytales.hcommons.org/2022/03/08/zotero-a-digital-personal-research-assistant-part-2/",
+          "publishedOn": "2022-03-08T12:16:59.000Z",
+          "wordCount": 2555,
+          "title": "Zotero: a digital personal research assistant (part 2)"
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=981",
           "author": "Rebecca Burke",
           "description": "Would you like to download information about your sources with the click of a button instead of painstakingly typing out bibliographic data? Would you like to automagically insert correct references into your publications in any citation style? Would you like to focus on writing your articles, chapters, books, and so on, and never, ever craft a references section by hand again? As a reference manager Zotero can (and maybe even should) become one of your primary tools. Not only is...",
@@ -6513,15 +6531,6 @@
           "publishedOn": "2021-09-29T00:30:26.000Z",
           "wordCount": 76,
           "title": "More QueryPic in action"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/09/10/some-thoughts-on.html",
-          "author": null,
-          "description": "Late last year the Federal Government announced it was making an $8.9 million investment in HASS and Indigenous research infrastructure. This program is being managed by the ARDC and will lead to the development of a HASS Research Data Commons. According to the ARDC, a research data commons:\nbrings together people, skills, data, and related resources such as storage, compute, software, and models to enable researchers to conduct world class data-intensive research\nSounds awesome!\nBased on scoping studies commissioned by the Department of Education, Skills, and Employment (which have not yet been made public), four activities were selected for initial funding under this program. Draft project plans for these four activities have now been released for public comment.\nOne of these activities …",
-          "link": "https://updates.timsherratt.org/2021/09/10/some-thoughts-on.html",
-          "publishedOn": "2021-09-10T00:12:00.000Z",
-          "wordCount": 3783,
-          "title": "Some thoughts on the ‘Trove Researcher Platform for Advanced Research’ draft plan"
         }
       ]
     },
@@ -6663,6 +6672,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "3919 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Dès le milieu du XIXe siècle, de jeunes Luxembourgeois s’engagent dans la Légion étrangère mise en place en 1831. Leurs motivations sont multiples : espoir de connaître une vie meilleure, tentative de fuir, pour une raison ou une autre, le Grand-Duché ou encore soif de découvertes et d’aventures. À travers leur engagement ils participant derechef à la conquête coloniale française. C’est ce dont témoigne une circulaire concernant les individus qui prennent service militaire dans la Légion étrangère, publiée en 1847 dans le Mémorial législatif et administratif du Grand-Duché de Luxembourg.\nRappelons que la fascination pour cette « épopée » parcourt l’Europe, alimentée par la presse et de nombreux « ouvrages exotiques », mettant aussi bien en exergue des terres inconnues que la conquête colon…",
+          "link": "https://www.c2dh.uni.lu/events/des-acteurs-oublies-de-la-colonisation-les-legionnaires-luxembourgeois-au-sein-de-lempire",
+          "publishedOn": "2022-03-08T10:36:16.000Z",
+          "wordCount": 613,
+          "title": "Des acteurs oubliés de la colonisation: Les légionnaires luxembourgeois au sein de l’empire colonial français"
+        },
         {
           "id": "3913 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6896,15 +6914,6 @@
           "publishedOn": "2021-09-21T08:39:43.000Z",
           "wordCount": 621,
           "title": "What is remembered lives. Mémoire de la Shoah à l'ère digitale"
-        },
-        {
-          "id": "3570 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Digital Public History breitet sich als weiterer Zugang in den stetig wachsenden Lehrangeboten der Public History aus. Gleichzeitig bleibt die personelle und finanzielle Ausstattung vieler Lehrstühle und Studiengänge in diesem Bereich jedoch prekär. Welche Chancen und Risiken ergeben sich vor diesem Hintergrund für das boomende Feld der Public History im deutschsprachigen Raum? Wie sehen die Lehrangebote konkret aus? Welche Karrierechancen bieten sich für Studierende der Public History?\nIm Rahmen des Workshops sollen Lehrende, Studierende und Absolvent:innen aus den verschiedenen universitären Standorten zusammengebracht werden, um kritisch den derzeitigen Stand des Studienangebots im Bereich der Public History im deutschsprachigen Raum zu reflektieren und mit internationalen Entwicklungen…",
-          "link": "https://www.c2dh.uni.lu/events/public-history-der-lehre",
-          "publishedOn": "2021-09-10T09:16:04.000Z",
-          "wordCount": 522,
-          "title": "Public History in der Lehre"
         }
       ]
     },
@@ -6919,6 +6928,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5689 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "CLARIN ERIC Statement on Ukraine\n\n            \n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \nCLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n   condemns the military aggression of the Russian Federation against Ukraine. CLARIN stands in solidarity with Ukraine and its people. \nThe elementary values of freedom, democracy and self-determination have been attacked, which also affect the fundamental principles underpinning scientific research: cultural expression, scientific freedom and academic cooperation. \nCLARIN would like to express its solidarity with everyone affected by the horror of war and with all scholars a…",
+          "link": "https://www.clarin.eu/news/clarin-eric-statement-ukraine",
+          "publishedOn": "2022-03-08T14:51:00.000Z",
+          "wordCount": 512,
+          "title": "CLARIN ERIC Statement on Ukraine"
+        },
         {
           "id": "5688 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
@@ -8095,15 +8113,6 @@
           "publishedOn": "2021-09-13T11:05:31.000Z",
           "wordCount": 1645,
           "title": "Looking back at 'Performing, Promoting and Preserving Ireland’s Intangible Cultural Heritage'"
-        },
-        {
-          "id": "1399 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "This blog reflects on ‘Engaging Communities with Archives: Video as a tool for activism, advocacy, and archival work’, a collaborative webinar hosted by the Digital Repository of Ireland (DRI) and the Public Record Office of Northern Ireland (PRONI) on 7 Sept 2021.",
-          "link": "https://www.dri.ie/engaging-communities-archives-collaborating-care",
-          "publishedOn": "2021-09-10T09:55:02.000Z",
-          "wordCount": 1991,
-          "title": "Engaging Communities with Archives by Collaborating with Care"
         }
       ]
     },
