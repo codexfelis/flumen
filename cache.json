@@ -3219,33 +3219,6 @@
           "publishedOn": "2021-09-22T08:05:22.000Z",
           "wordCount": 774,
           "title": "Unconference Digitale Kritik, online, 21-22 Oktober 2021"
-        },
-        {
-          "id": "node/714",
-          "author": "406",
-          "description": "Die Generalverwaltung der Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V. sucht für ihr Archiv in Berlin zum nächstmöglichen Zeitpunkt eine*n\nWissenschaftliche*n…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-wma-f%C3%BCr-it-der-mpg-vollzeit-berlin",
-          "publishedOn": "2021-09-12T19:54:44.000Z",
-          "wordCount": 799,
-          "title": "Stellenangebot: WMA für IT bei der MPG (Vollzeit, Berlin)"
-        },
-        {
-          "id": "node/713",
-          "author": "406",
-          "description": "Im Rahmen der GESIS Vortragsreihe Meet the Experts startet am 16. September eine neue Serie einstündiger Online-Veranstaltungen zum Thema Computational Social Science and Digital…",
-          "link": "https://dig-hum.de/aktuelles/gesis-online-reihe-meet-the-experts-schwerpunkt-computational-social-science-and-digital",
-          "publishedOn": "2021-09-12T19:19:27.000Z",
-          "wordCount": 746,
-          "title": "GESIS Online-Reihe Meet the Experts mit Schwerpunkt Computational Social Science and Digital behavioral data (16.9.21)"
-        },
-        {
-          "id": "node/712",
-          "author": "406",
-          "description": "Die Johannes Gutenberg-Universität Mainz (JGU) gehört zu den großen Universitäten in Deutschland. In der Wissenschaftsregion Rhein-Main entfaltet sie ihre Leistungsstärke,…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-wma-data-scientist-digital-humanities-jgu-mainz",
-          "publishedOn": "2021-09-12T16:34:41.000Z",
-          "wordCount": 868,
-          "title": "Stellenangebot: WMA Data scientist/ Digital Humanities (JGU Mainz)"
         }
       ]
     },
@@ -4481,7 +4454,17 @@
       "title": "eScripta",
       "feedUrl": "https://escripta.hypotheses.org/feed",
       "siteUrl": "https://escripta.hypotheses.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://escripta.hypotheses.org/?p=475",
+          "author": "Daniel Stoekl Ben Ezra",
+          "description": "Larissa Will and Stefan Weil from the UB Mannheim have published a new demonstration video on using eScriptorium for newspapers (in German) that was presented at the Tag der Archive 2022 in Aachen :",
+          "link": "https://escripta.hypotheses.org/475",
+          "publishedOn": "2022-03-10T12:12:33.000Z",
+          "wordCount": 405,
+          "title": "UB Mannheim presents eScriptorium"
+        }
+      ]
     },
     {
       "title": "Judaica DH at the Penn Libraries",
@@ -4940,6 +4923,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.60",
+          "author": null,
+          "description": "This paper describes LD4DH, the Linked Data for Digital Humanities: Publishing, Querying, and Linking on the Semantic Web workshop at the Digital Humanities Oxford Summer School. It includes a description of the general structure of the workshop, how it has changed over the course of the last seven years, between 2015 and 2021, and evaluates the differences between in-person delivery in 2018–2019 and the online mode in 2020–2021. Discussion is centred on the description of the data as well as the illustration of the processes, methods, and software used throughout the workshop. The paper concludes with a summary of participant evaluation, and reflects on the opportunities and challenges of teaching Linked Open Data to a mixed cohort of predominantly Humanities researchers and professionals from the cultural heritage sector.\n Published on 2022-03-10 10:03:23",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.60",
+          "publishedOn": "2022-03-11T08:15:07.673Z",
+          "wordCount": 6796,
+          "title": "Teaching Linked Open Data using Bibliographic Metadata"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.67",
           "author": null,
@@ -6682,6 +6674,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "3924 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Inna Ganschow will outline the major milestones in the emergence and formation of the USSR. Particular attention will be paid to border changes before World War II and the development of the Soviet Union during the Cold War. Current events in Ukraine and their connection to the post-Soviet period can be discussed after the presentation.\n \nWednesday, 23 March 2022\n14.00 - 15.00\nOnline - Webex\n\nIf you want to participate, please send an e-mail to vanessa.napolitano@uni.lu.\n23 March 2022\n  Cold War  International relations\n  Hands-on History\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/history-ussr-and-consequences-cold-war-today",
+          "publishedOn": "2022-03-10T08:57:22.000Z",
+          "wordCount": 294,
+          "title": "The History of the USSR and the Consequences of the Cold War Today"
+        },
+        {
           "id": "3919 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "Dès le milieu du XIXe siècle, de jeunes Luxembourgeois s’engagent dans la Légion étrangère mise en place en 1831. Leurs motivations sont multiples : espoir de connaître une vie meilleure, tentative de fuir, pour une raison ou une autre, le Grand-Duché ou encore soif de découvertes et d’aventures. À travers leur engagement ils participant derechef à la conquête coloniale française. C’est ce dont témoigne une circulaire concernant les individus qui prennent service militaire dans la Légion étrangère, publiée en 1847 dans le Mémorial législatif et administratif du Grand-Duché de Luxembourg.\nRappelons que la fascination pour cette « épopée » parcourt l’Europe, alimentée par la presse et de nombreux « ouvrages exotiques », mettant aussi bien en exergue des terres inconnues que la conquête colon…",
@@ -6937,6 +6938,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5690 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "CLARIN ERIC is Looking for an Experienced Administrative Officer (0.7-1.0 FTE)\n\n            \nCLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n   has a vacancy for an experienced Administrative Officer to work as a member of the central office team. The seat and central office of CLARIN are based in the Netherlands and hosted by the Faculty of Humanities of Utrecht University (UU). All CLARIN ERIC staff is formally employed by UU.\nWe are looking to hire somebody who feels at home in an (international) scientific environment, who is a team player, able to work independently as well, and who is interested in joining the team responsible for the operational and admin…",
+          "link": "https://www.clarin.eu/news/clarin-eric-looking-experienced-administrative-officer-07-10-fte",
+          "publishedOn": "2022-03-10T09:49:33.000Z",
+          "wordCount": 769,
+          "title": "CLARIN ERIC is Looking for an Experienced Administrative Officer (0.7-1.0 FTE)"
+        },
         {
           "id": "5689 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
@@ -7403,6 +7413,33 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1490 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "Date: \n\n24 Mar 2022\n\n\nLocation: \n\nZoom\n\n\n\nOn Thursday 24 March, DRI members will be given a demonstration of how the Transcribathon crowdsourced transcription tool works and a preview of how it may be accessed, and work, for members in the future.",
+          "link": "https://www.dri.ie/europeanaenrich-and-transcribathon-week-preview",
+          "publishedOn": "2022-03-10T16:22:03.000Z",
+          "wordCount": 894,
+          "title": "EuropeanaEnrich+ and Transcribathon Week - A Preview"
+        },
+        {
+          "id": "1489 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "Date: \n\n28 Mar 2022\n\n\nLocation: \n\nZoom\n\n\n\nDuring #TranscriptionWeek, the Digital Repository of Ireland is collaborating with Dublin City Library and Archive (DCLA) to run a series of online workshops open to the public to demonstrate how to transcribe and enrich historical documents using the Transcribathon platform for crowdsourcing transcriptions on Europeana, and the Transkribus automated transcription tool.",
+          "link": "https://www.dri.ie/transcription-week-transcribe-along-us-online-workshops",
+          "publishedOn": "2022-03-10T14:58:35.000Z",
+          "wordCount": 826,
+          "title": "Transcription Week - 'Transcribe along with us' Online Workshops"
+        },
+        {
+          "id": "1488 at https://www.dri.ie",
+          "author": "clarelanigan",
+          "description": "Following an online launch on International Women’s Day 2022, a series of pilot collections for the Archiving Reproductive Health project can now be viewed on the Digital Repository of Ireland. These collections, showcasing a range of material from stakeholder organisations and research projects, add significantly to our understanding of women's rights movements and access to reproductive healthcare in Ireland.",
+          "link": "https://www.dri.ie/archiving-reproductive-health-pilot-collections-now-online",
+          "publishedOn": "2022-03-10T10:39:41.000Z",
+          "wordCount": 1988,
+          "title": "Archiving Reproductive Health pilot collections now online"
+        },
         {
           "id": "1487 at https://www.dri.ie",
           "author": "ainemadden",
