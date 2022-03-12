@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-03-11T08:15:32.192Z</updated>
+    <updated>2022-03-12T08:14:33.754Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HATHI 1M: Introducing a Million Page Historical Prose Dataset in English from the Hathi Trust]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.71</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.71"/>
+        <updated>2022-03-12T08:14:14.577Z</updated>
+        <summary type="html"><![CDATA[We present a new dataset built on prior work consisting of 1,671,370 randomly sampled pages of English-language prose roughly divided between modes of fictional and non-fictional writing and published between the years 1800 and 2000. In addition to focusing on the “page’’ as the basic bibliographic unit, our work employs a single predictive model for the historical period under consideration in contrast to prior work. Besides publication metadata, we also provide an enriched feature set of 107 features including part-of-speech tags, sentiment scores, word supersenses and more. Our data is designed to give researchers in the digital humanities large yet portable random samples of historical writing across two foundational modes of English prose writing. We present initial insights into transformations of linguistic patterns across this historical period using our enriched features as possible pointers to future work. The data can be accessed at https://doi.org/10.7910/DVN/HAKKUA.
+ Published on 2022-03-11 13:11:48]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manifest für digitale Editionen]]></title>
+        <id>node/786</id>
+        <link href="https://dig-hum.de/aktuelles/manifest-f%C3%BCr-digitale-editionen"/>
+        <updated>2022-03-12T08:13:49.421Z</updated>
+        <summary type="html"><![CDATA[Das Manifest für digitale Editionen kann auf dem DHd-Blog hier nachgelesen werden:https://dhd-blog.org/?p=17563]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to eScriptorium, HTR for Hebrew Manuscripts, part 2]]></title>
+        <id>http://digitalorientalist.com/?p=7887</id>
+        <link href="https://digitalorientalist.com/2022/03/11/introduction-to-escriptorium-htr-for-hebrew-manuscripts-part-2/"/>
+        <updated>2022-03-12T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The first part of this post covered starting a project with eScriptorium and properly segmenting a page to prepare it …]]></summary>
+        <author>
+            <name>Jonathan Robker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appel à candidature, Sciences Po médialab: Assistant·e de recherche modération]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=9997</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/03/11/appel-a-candidature-sciences-po-medialab-assistant%c2%b7e-de-recherche-moderation/"/>
+        <updated>2022-03-11T14:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Le médialab de Sciences Po recrute un assistant·e de recherche pour un projet portant sur les attentes normatives des utilisateurs en matière de modération des contenus sur les réseaux sociaux, et sur l’expérimentation de dispositifs d’encapacitation collective face aux politiques de modération. Ce poste s’inscrit dans un projet de recherche du médialab, financé par le […]
+The post Appel à candidature, Sciences Po médialab: Assistant·e de recherche modération appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Celia Luterbacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn More about the Draft EOSC Interoperability Framework and Have Your Say!]]></title>
+        <id>1491 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/learn-more-about-draft-eosc-interoperability-framework-and-have-your-say"/>
+        <updated>2022-03-11T12:49:54.000Z</updated>
+        <summary type="html"><![CDATA[The EOSC Future project has prepared a draft proposal for the EOSC Interoperability Framework. On 25 March, members of the EOSC community can join a public consultation on the proposal, asking questions and offering feedback on the concept proposed and its governance.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sinergia  : interdisciplinaire, collaborative et pionnière]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=9992</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/03/11/sinergia-interdisciplinaire-collaborative-et-pionniere/"/>
+        <updated>2022-03-11T10:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Sinergia, une offre de subside du Fonds national suisse, soutient la coopération de deux à quatre requérant-e-s menant des recherches interdisciplinaires et visant une recherche pionnière (breakthrough research). La recherche interdisciplinaire signifie qu’il s’agit d’une recherche dépassant les cloisonnements des disciplines. Les objectifs de recherche envisagés requièrent l’intégration d’éléments (théories, méthodes, concepts, etc.) issus de […]
+The post Sinergia  : interdisciplinaire, collaborative et pionnière appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teaching Linked Open Data using Bibliographic Metadata]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.60</id>
@@ -12079,162 +12142,6 @@ The post Exploring the Dutch Prize Papers appeared first on READ-COOP.]]></summa
         <summary type="html"><![CDATA[Our second #DRI10 blog focuses on the beginnings of our now long-standing relationship with the Research Data Alliance (RDA) and the opportunities this collaborative relationship has opened up for international engagement and data sharing.]]></summary>
         <author>
             <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall 2021 Programming Historian Book Club]]></title>
-        <id>https://ach.org/?p=2247</id>
-        <link href="https://ach.org/blog/2021/09/13/fall-2021-programming-historian-book-club/"/>
-        <updated>2021-09-13T18:37:09.000Z</updated>
-        <summary type="html"><![CDATA[The ACH mentoring group is sponsoring a yearlong, public book club based on the English-language version of Programming Historian. These sessions are open to all (including non-members of ACH), and will offer a space for newcomers to the topic and to digital humanities to work through a Programming Historian lesson together in a supportive environment…Continue reading.]]></summary>
-        <author>
-            <name>paigecm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EADH2021: Call for participation]]></title>
-        <id>1345 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2021/09/13/eadh2021-call-participation"/>
-        <updated>2021-09-13T15:08:21.000Z</updated>
-        <summary type="html"><![CDATA[EADH2021: Call for participation
-
-
-
-Dear colleagues,
-The European Association for Digital Humanities cordially invites you to attend an online edition of its second conference taking place between September 21st and September 24th.
-Programme for the event, its keynotes, conference sessions, a poster session and workshops is available here https://eadh2020-2021.org/program/
-As part of our program, we are delighted to announce our keynote speakers
-Professor Willard McCarty, King’s College London
-Professor Diana Roig-Sanz, UOC, Barcelona
-Registration is available here https://www.conftool.com/eadh2020-2021/
-Registration is between €10 and €60 depending upon the type of participation. Conference opening and conference closing are free events. Please register via eventbrite here https://www.eventbrite.com/e/eadh2021-opening-of-the-conference-tickets-... and here https://www.eventbrite.com/e/eadh2021-closing-of-the-conference-tickets-... for the keynotes if you do not plan to attend conference sessions. Participants who have already registered via ConfTool do not need to register using eventbrite but can access keynotes via Zoom links from ConfTool. Registration is open until sold out. 
-Some of the conference sessions are multilingual. Siberian Federal University that hosts the conference will provide simultaneous translation from Russian into English.
- 
-Sincerely
-EADH2020-2021 Local Organizers]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking back at 'Performing, Promoting and Preserving Ireland’s Intangible Cultural Heritage']]></title>
-        <id>1400 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/heritageweek2021-blog"/>
-        <updated>2021-09-13T11:05:31.000Z</updated>
-        <summary type="html"><![CDATA[This blog post records how, on 19 August, practitioners from three performing arts joined Manchán Magan for a lively evening of performance, exploration, and discussion on the theme of intangible cultural heritage.]]></summary>
-        <author>
-            <name>Deborah Thorpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigating the origins of Islamicate manuscripts using computational methods]]></title>
-        <id>https://blog.cdh.cam.ac.uk/?p=312</id>
-        <link href="https://blog.cdh.cam.ac.uk/2021/09/13/investigating-the-origins-of-islamicate-manuscripts-using-computational-methods/"/>
-        <updated>2021-09-13T08:41:43.000Z</updated>
-        <summary type="html"><![CDATA[Yasmin Faghihi: For the past ten years we have been working collaboratively in collecting manuscript descriptions  sourced from legacy data and new research (with the manuscript in hand) and recording these findings in Fihrist, a union catalogue for Islamicate manuscripts in UK repositories.
-The post Investigating the origins of Islamicate manuscripts using computational methods appeared first on The Digital Hum.]]></summary>
-        <author>
-            <name>Heather Stallard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stakeholders’ Workshop on European Research Infrastructures Consortia (ERICs)]]></title>
-        <id>5590 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/stakeholders-workshop-european-research-infrastructures-consortia-erics"/>
-        <updated>2021-09-13T07:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Stakeholders’ Workshop on European Research Infrastructures Consortia (ERICs)
-
-            
-Since the entry into force of the Regulation on European Research Infrastructures Consortia (ERICs) in 2009, the Commission granted the 
-    
-European Research Infrastructure Consortium
-
-See: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en
-
-read more
-
-   legal status to 22 research infrastructures. The Commission tasked an Expert Group ‘EGERIC’, chaired by Carlo Rizzuto, to assess the implementation of the ERIC Regulation. This included identifying best practices and bottlenecks as well as providing recommendations.
-Under the auspices of the Slovenian Presidency of the EU, the Commission invites 
-    
-European Research Area
-
-
-See: http://en.wikipedia.org/wiki/European_Research_Area
-
-read more
-
-   stakeholders to discuss the findings of the Expert Group, based on presentations by the EGERIC experts, along four lines:
-Governance of the ERIC system
-The ERICs as instruments to integrate and interconnect national and multidisciplinary resources
-The ERICs in operation: key issues
-ERIC sustainability: towards an innovative funding model supporting demand
-The event will take place on 13-14 September 2021, Online and is organised with the support of EGERIC.
-Details
-Date: 13-14 September 2021, Online
-Detailed Programme
-The objectives of the workshop and description of the sessions
-Practical information
-Registration available at this link,  password: ERIC2021 
-Connect using the following links 
-
-Day 1: 13 September
-Day 2: 14 September
-The workshop documentation (notably the Expert Group draft report and latest programme) is available in the ERIC workshop public folder of the CIRCABC sharing platform.
- 
-Elisa Gorgaini
- 13 September 2021]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The Mixtape Museum]]></title>
-        <id>724b63b8-32d0-4576-bf35-2b1adc8de01e</id>
-        <link href="https://reviewsindh.pubpub.org/pub/mixtape-museum"/>
-        <updated>2021-09-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of The Mixtape Museum, an archive project that collects, preserves, and shares knowledge about mixtape history, directed by Regan Sommer McCoy]]></summary>
-        <author>
-            <name>Tanya Clement</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Singing Box 331]]></title>
-        <id>13c711f2-2059-4336-890f-193a0c2cf912</id>
-        <link href="https://reviewsindh.pubpub.org/pub/singing-box-331"/>
-        <updated>2021-09-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Singing Box 331, a project examining a pamphlet of Mohican-language hymn texts from the 1740s, created by Rachel Wheeler and Sarah Eyerly]]></summary>
-        <author>
-            <name>Kate Galloway</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Sonic Histories of Cork City]]></title>
-        <id>f34536d4-0040-4973-9144-a19557cbae8b</id>
-        <link href="https://reviewsindh.pubpub.org/pub/sonic-histories-of-cork-city"/>
-        <updated>2021-09-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Sonic Histories of Cork City, a public arts project exploring relationships between sound, space, and history, directed by Jillian Rogers, Elaine Harrington, and John Hough]]></summary>
-        <author>
-            <name>James Mansell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The Museum of Portable Sound]]></title>
-        <id>6d05f093-7f30-426f-933d-fdb54691a71a</id>
-        <link href="https://reviewsindh.pubpub.org/pub/museum-of-portable-sound"/>
-        <updated>2021-09-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of The Museum of Portable Sound, a collection of field recordings organized as exhibition galleries on a single mobile phone, created by John Kannenberg]]></summary>
-        <author>
-            <name>Rebecca Gates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors' Note: September 2021]]></title>
-        <id>d3f8f428-1a31-4354-861d-84d56f074a90</id>
-        <link href="https://reviewsindh.pubpub.org/pub/ed-note-september-2021"/>
-        <updated>2021-09-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the September 2021 issue of Reviews in Digital Humanities, guest edited by Mary Caton Lingold]]></summary>
-        <author>
-            <name>Roopika Risam</name>
         </author>
     </entry>
 </feed>

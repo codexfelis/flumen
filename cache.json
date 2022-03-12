@@ -417,15 +417,6 @@
           "publishedOn": "2021-09-17T18:05:26.000Z",
           "wordCount": 972,
           "title": "Portraits in DH: Dr. Sonya Donaldson"
-        },
-        {
-          "id": "https://ach.org/?p=2247",
-          "author": "paigecm",
-          "description": "The ACH mentoring group is sponsoring a yearlong, public book club based on the English-language version of Programming Historian. These sessions are open to all (including non-members of ACH), and will offer a space for newcomers to the topic and to digital humanities to work through a Programming Historian lesson together in a supportive environment…Continue reading.",
-          "link": "https://ach.org/blog/2021/09/13/fall-2021-programming-historian-book-club/",
-          "publishedOn": "2021-09-13T18:37:09.000Z",
-          "wordCount": 222,
-          "title": "Fall 2021 Programming Historian Book Club"
         }
       ]
     },
@@ -578,15 +569,6 @@
           "publishedOn": "2021-09-21T10:25:30.000Z",
           "wordCount": 1868,
           "title": "A Social Data School in an Age of Social Distancing"
-        },
-        {
-          "id": "https://blog.cdh.cam.ac.uk/?p=312",
-          "author": "Heather Stallard",
-          "description": "Yasmin Faghihi: For the past ten years we have been working collaboratively in collecting manuscript descriptions  sourced from legacy data and new research (with the manuscript in hand) and recording these findings in Fihrist, a union catalogue for Islamicate manuscripts in UK repositories.\nThe post Investigating the origins of Islamicate manuscripts using computational methods appeared first on The Digital Hum.",
-          "link": "https://blog.cdh.cam.ac.uk/2021/09/13/investigating-the-origins-of-islamicate-manuscripts-using-computational-methods/",
-          "publishedOn": "2021-09-13T08:41:43.000Z",
-          "wordCount": 919,
-          "title": "Investigating the origins of Islamicate manuscripts using computational methods"
         }
       ]
     },
@@ -1443,6 +1425,24 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9997",
+          "author": "Celia Luterbacher",
+          "description": "Le médialab de Sciences Po recrute un assistant·e de recherche pour un projet portant sur les attentes normatives des utilisateurs en matière de modération des contenus sur les réseaux sociaux, et sur l’expérimentation de dispositifs d’encapacitation collective face aux politiques de modération. Ce poste s’inscrit dans un projet de recherche du médialab, financé par le […]\nThe post Appel à candidature, Sciences Po médialab: Assistant·e de recherche modération appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/03/11/appel-a-candidature-sciences-po-medialab-assistant%c2%b7e-de-recherche-moderation/",
+          "publishedOn": "2022-03-11T14:39:53.000Z",
+          "wordCount": 1041,
+          "title": "Appel à candidature, Sciences Po médialab: Assistant·e de recherche modération"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=9992",
+          "author": "Heloise schibler",
+          "description": "Sinergia, une offre de subside du Fonds national suisse, soutient la coopération de deux à quatre requérant-e-s menant des recherches interdisciplinaires et visant une recherche pionnière (breakthrough research). La recherche interdisciplinaire signifie qu’il s’agit d’une recherche dépassant les cloisonnements des disciplines. Les objectifs de recherche envisagés requièrent l’intégration d’éléments (théories, méthodes, concepts, etc.) issus de […]\nThe post Sinergia  : interdisciplinaire, collaborative et pionnière appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/03/11/sinergia-interdisciplinaire-collaborative-et-pionniere/",
+          "publishedOn": "2022-03-11T10:43:42.000Z",
+          "wordCount": 387,
+          "title": "Sinergia  : interdisciplinaire, collaborative et pionnière"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=9955",
           "author": "Celia Luterbacher",
@@ -2753,6 +2753,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/786",
+          "author": "406",
+          "description": "Das Manifest für digitale Editionen kann auf dem DHd-Blog hier nachgelesen werden:https://dhd-blog.org/?p=17563",
+          "link": "https://dig-hum.de/aktuelles/manifest-f%C3%BCr-digitale-editionen",
+          "publishedOn": "2022-03-12T08:13:49.421Z",
+          "wordCount": 683,
+          "title": "Manifest für digitale Editionen"
+        },
+        {
           "id": "node/784",
           "author": "406",
           "description": "Der Verband \"Digital Humanities im deutschsprachigen Raum e.V.\" (DHd) hat seit kurzem einen eigenen Kanal auf YouTube namens \"DHd-Verband\".\nHier können auch die Präsentationen der…",
@@ -3474,6 +3483,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=7887",
+          "author": "Jonathan Robker",
+          "description": "The first part of this post covered starting a project with eScriptorium and properly segmenting a page to prepare it …",
+          "link": "https://digitalorientalist.com/2022/03/11/introduction-to-escriptorium-htr-for-hebrew-manuscripts-part-2/",
+          "publishedOn": "2022-03-12T01:00:00.000Z",
+          "wordCount": 1340,
+          "title": "Introduction to eScriptorium, HTR for Hebrew Manuscripts, part 2"
+        },
         {
           "id": "http://digitalorientalist.com/?p=7812",
           "author": "Michele Eduarda Brasil de Sá",
@@ -4438,15 +4456,6 @@
           "publishedOn": "2021-09-22T11:47:11.000Z",
           "wordCount": 576,
           "title": "Author information event: computational analysis skills for humanities data | Thu, 23 September 2021 14:00 – 16:00 BST"
-        },
-        {
-          "id": "1345 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "EADH2021: Call for participation\n\n\n\nDear colleagues,\nThe European Association for Digital Humanities cordially invites you to attend an online edition of its second conference taking place between September 21st and September 24th.\nProgramme for the event, its keynotes, conference sessions, a poster session and workshops is available here https://eadh2020-2021.org/program/\nAs part of our program, we are delighted to announce our keynote speakers\nProfessor Willard McCarty, King’s College London\nProfessor Diana Roig-Sanz, UOC, Barcelona\nRegistration is available here https://www.conftool.com/eadh2020-2021/\nRegistration is between €10 and €60 depending upon the type of participation. Conference opening and conference closing are free events. Please register via eventbrite here https://www.eventbrite.com/e/eadh2021-opening-of-the-conference-tickets-... and here https://www.eventbrite.com/e/eadh2021-closing-of-the-conference-tickets-... for the keynotes if you do not plan to attend conference sessions. Participants who have already registered via ConfTool do not need to register using eventbrite but can access keynotes via Zoom links from ConfTool. Registration is open until sold out. \nSome of the conference sessions are multilingual. Siberian Federal University that hosts the conference will provide simultaneous translation from Russian into English.\n \nSincerely\nEADH2020-2021 Local Organizers",
-          "link": "https://eadh.org/news/2021/09/13/eadh2021-call-participation",
-          "publishedOn": "2021-09-13T15:08:21.000Z",
-          "wordCount": 470,
-          "title": "EADH2021: Call for participation"
         }
       ]
     },
@@ -4923,6 +4932,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.71",
+          "author": null,
+          "description": "We present a new dataset built on prior work consisting of 1,671,370 randomly sampled pages of English-language prose roughly divided between modes of fictional and non-fictional writing and published between the years 1800 and 2000. In addition to focusing on the “page’’ as the basic bibliographic unit, our work employs a single predictive model for the historical period under consideration in contrast to prior work. Besides publication metadata, we also provide an enriched feature set of 107 features including part-of-speech tags, sentiment scores, word supersenses and more. Our data is designed to give researchers in the digital humanities large yet portable random samples of historical writing across two foundational modes of English prose writing. We present initial insights into transformations of linguistic patterns across this historical period using our enriched features as possible pointers to future work. The data can be accessed at https://doi.org/10.7910/DVN/HAKKUA.\n Published on 2022-03-11 13:11:48",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.71",
+          "publishedOn": "2022-03-12T08:14:14.577Z",
+          "wordCount": 5438,
+          "title": "HATHI 1M: Introducing a Million Page Historical Prose Dataset in English from the Hathi Trust"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.60",
           "author": null,
@@ -5720,66 +5738,6 @@
           "title": "Review: AudibleRVA",
           "enclosure": {
             "url": "https://assets.pubpub.org/jtfnv3tz/51633626201320.png"
-          }
-        },
-        {
-          "id": "724b63b8-32d0-4576-bf35-2b1adc8de01e",
-          "author": "Tanya Clement",
-          "description": "A review of The Mixtape Museum, an archive project that collects, preserves, and shares knowledge about mixtape history, directed by Regan Sommer McCoy",
-          "link": "https://reviewsindh.pubpub.org/pub/mixtape-museum",
-          "publishedOn": "2021-09-13T00:00:00.000Z",
-          "wordCount": 1438,
-          "title": "Review: The Mixtape Museum",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/xrag5cwc/51631540249064.png"
-          }
-        },
-        {
-          "id": "13c711f2-2059-4336-890f-193a0c2cf912",
-          "author": "Kate Galloway",
-          "description": "A review of Singing Box 331, a project examining a pamphlet of Mohican-language hymn texts from the 1740s, created by Rachel Wheeler and Sarah Eyerly",
-          "link": "https://reviewsindh.pubpub.org/pub/singing-box-331",
-          "publishedOn": "2021-09-13T00:00:00.000Z",
-          "wordCount": 1442,
-          "title": "Review: Singing Box 331",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/ffwormxe/41620770329359.png"
-          }
-        },
-        {
-          "id": "f34536d4-0040-4973-9144-a19557cbae8b",
-          "author": "James Mansell",
-          "description": "A review of Sonic Histories of Cork City, a public arts project exploring relationships between sound, space, and history, directed by Jillian Rogers, Elaine Harrington, and John Hough",
-          "link": "https://reviewsindh.pubpub.org/pub/sonic-histories-of-cork-city",
-          "publishedOn": "2021-09-13T00:00:00.000Z",
-          "wordCount": 1257,
-          "title": "Review: Sonic Histories of Cork City",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/8tvy1ul3/11631634369702.png"
-          }
-        },
-        {
-          "id": "6d05f093-7f30-426f-933d-fdb54691a71a",
-          "author": "Rebecca Gates",
-          "description": "A review of The Museum of Portable Sound, a collection of field recordings organized as exhibition galleries on a single mobile phone, created by John Kannenberg",
-          "link": "https://reviewsindh.pubpub.org/pub/museum-of-portable-sound",
-          "publishedOn": "2021-09-13T00:00:00.000Z",
-          "wordCount": 1045,
-          "title": "Review: The Museum of Portable Sound",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/3bgmaoj9/21631632213721.png"
-          }
-        },
-        {
-          "id": "d3f8f428-1a31-4354-861d-84d56f074a90",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the September 2021 issue of Reviews in Digital Humanities, guest edited by Mary Caton Lingold",
-          "link": "https://reviewsindh.pubpub.org/pub/ed-note-september-2021",
-          "publishedOn": "2021-09-13T00:00:00.000Z",
-          "wordCount": 1816,
-          "title": "Editors' Note: September 2021",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/yveogmtn/51631534876413.png"
           }
         }
       ]
@@ -7396,15 +7354,6 @@
           "publishedOn": "2021-09-17T08:19:56.000Z",
           "wordCount": 495,
           "title": "Belgium joins CLARIN ERIC as a member"
-        },
-        {
-          "id": "5590 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "Stakeholders’ Workshop on European Research Infrastructures Consortia (ERICs)\n\n            \nSince the entry into force of the Regulation on European Research Infrastructures Consortia (ERICs) in 2009, the Commission granted the \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n   legal status to 22 research infrastructures. The Commission tasked an Expert Group ‘EGERIC’, chaired by Carlo Rizzuto, to assess the implementation of the ERIC Regulation. This included identifying best practices and bottlenecks as well as providing recommendations.\nUnder the auspices of the Slovenian Presidency of the EU, the Commission invites \n    \nEuropean Research Area\n\r\n\r\nSee: http://en.wikipedia.org/wiki/European_Research_Area\n\r\nread more\n\n   stakeholders to discuss the findings of the Expert Group, based on presentations by the EGERIC experts, along four lines:\nGovernance of the ERIC system\nThe ERICs as instruments to integrate and interconnect national and multidisciplinary resources\nThe ERICs in operation: key issues\nERIC sustainability: towards an innovative funding model supporting demand\nThe event will take place on 13-14 September 2021, Online and is organised with the support of EGERIC.\nDetails\nDate: 13-14 September 2021, Online\nDetailed Programme\nThe objectives of the workshop and description of the sessions\nPractical information\nRegistration available at this link,  password: ERIC2021 \nConnect using the following links \n\nDay 1: 13 September\nDay 2: 14 September\nThe workshop documentation (notably the Expert Group draft report and latest programme) is available in the ERIC workshop public folder of the CIRCABC sharing platform.\n \nElisa Gorgaini\n 13 September 2021",
-          "link": "https://www.clarin.eu/news/stakeholders-workshop-european-research-infrastructures-consortia-erics",
-          "publishedOn": "2021-09-13T07:55:53.000Z",
-          "wordCount": 380,
-          "title": "Stakeholders’ Workshop on European Research Infrastructures Consortia (ERICs)"
         }
       ]
     },
@@ -7413,6 +7362,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1491 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The EOSC Future project has prepared a draft proposal for the EOSC Interoperability Framework. On 25 March, members of the EOSC community can join a public consultation on the proposal, asking questions and offering feedback on the concept proposed and its governance.",
+          "link": "https://www.dri.ie/learn-more-about-draft-eosc-interoperability-framework-and-have-your-say",
+          "publishedOn": "2022-03-11T12:49:54.000Z",
+          "wordCount": 837,
+          "title": "Learn More about the Draft EOSC Interoperability Framework and Have Your Say!"
+        },
         {
           "id": "1490 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
@@ -8159,15 +8117,6 @@
           "publishedOn": "2021-09-14T11:19:24.000Z",
           "wordCount": 1426,
           "title": "A Focus on International Engagement: DRI, RDA, and Data Sharing #DRI10"
-        },
-        {
-          "id": "1400 at https://www.dri.ie",
-          "author": "Deborah Thorpe",
-          "description": "This blog post records how, on 19 August, practitioners from three performing arts joined Manchán Magan for a lively evening of performance, exploration, and discussion on the theme of intangible cultural heritage.",
-          "link": "https://www.dri.ie/heritageweek2021-blog",
-          "publishedOn": "2021-09-13T11:05:31.000Z",
-          "wordCount": 1645,
-          "title": "Looking back at 'Performing, Promoting and Preserving Ireland’s Intangible Cultural Heritage'"
         }
       ]
     },
