@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-03-16T08:17:58.087Z</updated>
+    <updated>2022-03-17T15:46:32.215Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Social Network of the <i>Prosopography of the Neo-Assyrian Empire</i>]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.74</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.74"/>
+        <updated>2022-03-17T15:46:32.185Z</updated>
+        <summary type="html"><![CDATA[The dataset is a social network of over 17,000 individuals who lived during the so-called Neo-Assyrian period of Mesopotamian history, primarily in the eighth and seventh centuries BCE. The undirected network of individuals connected by co-occurrences in cuneiform documents was semi-automatically extracted from the Prosopography of the Neo-Assyrian Empire. In addition to two weighted versions of the one-mode co-occurrence network, the dataset also contains a two-mode person-text network and rich metadata for each individual. For the first time, the dataset allows large-scale computational analysis of social structures in the Assyrian Empire. The data is primarily stored as plain text and CSV files, inviting scholars to further expand and enrich it. The scripts and files used for creating and standardizing the data are also available in the Zenodo repository.
+ Published on 2022-03-17 13:07:23]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soovijad saavad Transkribust tasuta kasutada]]></title>
+        <id>36030 at http://digihum.ut.ee</id>
+        <link href="http://digihum.ut.ee/event/soovijad-saavad-transkribust-tasuta-kasutada"/>
+        <updated>2022-03-16T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[readcoop.eu/transkribus) on platvorm ajalooliste dokumentide (nii trükitud kui ka käsikirjaliste) digiteerimiseks, tehisintellektipõhiseks tekstituvastuseks, transkriptsiooniks ja otsinguks. Transkribuse tugevuseks on kasutajate loodud tekstituvastuse mudelid, mis toetavad juba praegu üsna palju ajaloolisi trükišrifte (nt ladina, kreeka, saksa fraktuurid jms) ja ka teatavaid tüüpi käekirju. Transkribus pakub võimalust ise oma...
+ Loe lähemalt Soovijad saavad Transkribust tasuta kasutada kohta]]></summary>
+        <author>
+            <name>a71389</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAJS Rar ms 533: Prayer Book]]></title>
+        <id>http://schoenberginstitute.org/?p=16546</id>
+        <link href="https://schoenberginstitute.org/2022/03/16/cajs-rar-ms-533-prayer-book/"/>
+        <updated>2022-03-16T17:32:28.000Z</updated>
+        <summary type="html"><![CDATA[On March 16 we stepped out to the Katz Center with cataloger Louis Meiselman to have a look at CAJS Rar Ms 533, a miniature manuscript of the order of the counting of the Omer. It was written in Amsterdam, Netherlands for Yaʻaḳov ben Yehuda (יעקב בן יהודא; the spelling indicates this patron was Ashkenazic-Germanic),Continue reading "CAJS Rar ms 533: Prayer Book"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMPACT Hour – Launching the IMPACT Hour!]]></title>
+        <id>https://www.digitisation.eu/?p=16648</id>
+        <link href="https://www.digitisation.eu/impact-hour-launching-the-impact-hour/"/>
+        <updated>2022-03-16T14:10:47.000Z</updated>
+        <summary type="html"><![CDATA[On February 21st, we celebrated our 1st IMPACT Hour, quarterly meetings in which our members are able to informally exchange ... 
+Read More
+The post IMPACT Hour – Launching the IMPACT Hour! appeared first on IMPACT Centre of Competence.]]></summary>
+        <author>
+            <name>Impact Centre of Competence</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telling Latinx’s Stories through Digital Humanities and Community-Engaged Projects]]></title>
         <id>https://www.vanderbilt.edu/digitalhumanities/?p=3849</id>
@@ -2871,6 +2915,16 @@ The post Le médialab de Sciences Po cherche un.e post-doc appeared first on dhC
         <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that the Doegen Records Web Project collection is now available on the Repository.]]></summary>
         <author>
             <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing… Nilo Pedrazzini]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=2297</id>
+        <link href="https://livingwithmachines.ac.uk/introducing-nilo-pedrazzini/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introducing-nilo-pedrazzini"/>
+        <updated>2022-01-28T12:31:57.000Z</updated>
+        <summary type="html"><![CDATA[We’ve asked each member of the Living with Machines team to introduce themselves in their initial blog post. What’s your name? Nilo Pedrazzini (pronounced knee-low). What’s your background? I started off as a Russian and English Lang Lit undergrad in Pavia, Italy. I then moved to London in 2014 and worked in hospitality for a […]]]></summary>
+        <author>
+            <name>Nilo Pedrazzini</name>
         </author>
     </entry>
     <entry>

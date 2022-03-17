@@ -170,6 +170,15 @@
       "siteUrl": "http://digihum.ut.ee/feed",
       "articles": [
         {
+          "id": "36030 at http://digihum.ut.ee",
+          "author": "a71389",
+          "description": "readcoop.eu/transkribus) on platvorm ajalooliste dokumentide (nii trükitud kui ka käsikirjaliste) digiteerimiseks, tehisintellektipõhiseks tekstituvastuseks, transkriptsiooniks ja otsinguks. Transkribuse tugevuseks on kasutajate loodud tekstituvastuse mudelid, mis toetavad juba praegu üsna palju ajaloolisi trükišrifte (nt ladina, kreeka, saksa fraktuurid jms) ja ka teatavaid tüüpi käekirju. Transkribus pakub võimalust ise oma...\n Loe lähemalt Soovijad saavad Transkribust tasuta kasutada kohta",
+          "link": "http://digihum.ut.ee/event/soovijad-saavad-transkribust-tasuta-kasutada",
+          "publishedOn": "2022-03-16T22:00:00.000Z",
+          "wordCount": 355,
+          "title": "Soovijad saavad Transkribust tasuta kasutada"
+        },
+        {
           "id": "35371 at http://digihum.ut.ee",
           "author": "a71389",
           "description": "Asukoht: \n\nhttps://us02web.zoom.us/j/89302723181?pwd=aFZnWC9sOThsTUFkYWYvN0FpU0NRZz09\n\n\n\nKõik digihumanitaariast ja selle kõrvalerialast huvitunud on oodatud reedel, 21. jaanuaril kl 14.00-16.00 Zoomi digihumanitaaria arendusseminarile. Tutvustame ...\n Loe lähemalt Digihumanitaaria arendusseminar kohta",
@@ -235,16 +244,20 @@
       ]
     },
     {
-      "title": "Digital Humanities",
-      "feedUrl": "http://www.dh.uni-leipzig.de/wo/feed/",
-      "siteUrl": "http://www.dh.uni-leipzig.de/wo",
-      "articles": []
-    },
-    {
       "title": "Blog | IMPACT Centre of Competence",
       "feedUrl": "http://www.digitisation.eu/blog/feed/",
       "siteUrl": "https://www.digitisation.eu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.digitisation.eu/?p=16648",
+          "author": "Impact Centre of Competence",
+          "description": "On February 21st, we celebrated our 1st IMPACT Hour, quarterly meetings in which our members are able to informally exchange ... \nRead More\nThe post IMPACT Hour – Launching the IMPACT Hour! appeared first on IMPACT Centre of Competence.",
+          "link": "https://www.digitisation.eu/impact-hour-launching-the-impact-hour/",
+          "publishedOn": "2022-03-16T14:10:47.000Z",
+          "wordCount": 1148,
+          "title": "IMPACT Hour – Launching the IMPACT Hour!"
+        }
+      ]
     },
     {
       "title": "News – Global Outlook::Digital Humanities",
@@ -4781,6 +4794,15 @@
           "title": "Introducing… Andy Smith"
         },
         {
+          "id": "https://livingwithmachines.ac.uk/?p=2297",
+          "author": "Nilo Pedrazzini",
+          "description": "We’ve asked each member of the Living with Machines team to introduce themselves in their initial blog post. What’s your name? Nilo Pedrazzini (pronounced knee-low). What’s your background? I started off as a Russian and English Lang Lit undergrad in Pavia, Italy. I then moved to London in 2014 and worked in hospitality for a […]",
+          "link": "https://livingwithmachines.ac.uk/introducing-nilo-pedrazzini/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-nilo-pedrazzini",
+          "publishedOn": "2022-01-28T12:31:57.000Z",
+          "wordCount": 754,
+          "title": "Introducing… Nilo Pedrazzini"
+        },
+        {
           "id": "https://livingwithmachines.ac.uk/?p=2266",
           "author": "Daniel van Strien",
           "description": "summary: we built a book genre classification model using training data created by British Library staff; the model works quite well but not well enough to use for creating catalogue data yet; you can see the process in a tutorial Metadata is a vital tool for helping people use library collections. When you search for […]",
@@ -4887,6 +4909,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.74",
+          "author": null,
+          "description": "The dataset is a social network of over 17,000 individuals who lived during the so-called Neo-Assyrian period of Mesopotamian history, primarily in the eighth and seventh centuries BCE. The undirected network of individuals connected by co-occurrences in cuneiform documents was semi-automatically extracted from the Prosopography of the Neo-Assyrian Empire. In addition to two weighted versions of the one-mode co-occurrence network, the dataset also contains a two-mode person-text network and rich metadata for each individual. For the first time, the dataset allows large-scale computational analysis of social structures in the Assyrian Empire. The data is primarily stored as plain text and CSV files, inviting scholars to further expand and enrich it. The scripts and files used for creating and standardizing the data are also available in the Zenodo repository.\n Published on 2022-03-17 13:07:23",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.74",
+          "publishedOn": "2022-03-17T15:46:32.185Z",
+          "wordCount": 3371,
+          "title": "A Social Network of the <i>Prosopography of the Neo-Assyrian Empire</i>"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.71",
           "author": null,
@@ -5675,6 +5706,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=16546",
+          "author": "simsmss",
+          "description": "On March 16 we stepped out to the Katz Center with cataloger Louis Meiselman to have a look at CAJS Rar Ms 533, a miniature manuscript of the order of the counting of the Omer. It was written in Amsterdam, Netherlands for Yaʻaḳov ben Yehuda (יעקב בן יהודא; the spelling indicates this patron was Ashkenazic-Germanic),Continue reading \"CAJS Rar ms 533: Prayer Book\"",
+          "link": "https://schoenberginstitute.org/2022/03/16/cajs-rar-ms-533-prayer-book/",
+          "publishedOn": "2022-03-16T17:32:28.000Z",
+          "wordCount": 1816,
+          "title": "CAJS Rar ms 533: Prayer Book"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=16453",
           "author": "simsmss",
