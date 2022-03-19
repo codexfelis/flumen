@@ -170,6 +170,15 @@
       "siteUrl": "http://digihum.ut.ee/feed",
       "articles": [
         {
+          "id": "36029 at http://digihum.ut.ee",
+          "author": "a71389",
+          "description": "Loe lähemalt Digihumanitaaria ja infoühiskonna keskuse uus juhataja on Jane Klavan kohta",
+          "link": "http://digihum.ut.ee/event/digihumanitaaria-ja-info%C3%BChiskonna-keskuse-uus-juhataja-jane-klavan",
+          "publishedOn": "2022-03-18T22:00:00.000Z",
+          "wordCount": 248,
+          "title": "Digihumanitaaria ja infoühiskonna keskuse uus juhataja on Jane Klavan"
+        },
+        {
           "id": "36030 at http://digihum.ut.ee",
           "author": "a71389",
           "description": "readcoop.eu/transkribus) on platvorm ajalooliste dokumentide (nii trükitud kui ka käsikirjaliste) digiteerimiseks, tehisintellektipõhiseks tekstituvastuseks, transkriptsiooniks ja otsinguks. Transkribuse tugevuseks on kasutajate loodud tekstituvastuse mudelid, mis toetavad juba praegu üsna palju ajaloolisi trükišrifte (nt ladina, kreeka, saksa fraktuurid jms) ja ka teatavaid tüüpi käekirju. Transkribus pakub võimalust ise oma...\n Loe lähemalt Soovijad saavad Transkribust tasuta kasutada kohta",
@@ -706,15 +715,6 @@
           "publishedOn": "2021-09-23T15:46:17.000Z",
           "wordCount": 469,
           "title": "Joanna Zylinska joins Department of Digital Humanities as Professor of Media Philosophy and Critical Digital Practice"
-        },
-        {
-          "id": "https://blogs.kcl.ac.uk/ddh/?p=3142",
-          "author": "Jonathan Gray",
-          "description": "Congratulations to Kajsa Lonrusten, a recent graduate from our Digital Culture BA, who recently won Best Thesis Prize for her dissertation on “The Circulation of Organised Climate Change Denial on Facebook”. The dissertation drew on approaches from digital methods and digital journalism modules that she attended in order to explore the circulation of material associated … \nContinue reading \"Best Thesis Prize goes to undergraduate dissertation exploring climate disinformation on Facebook\"",
-          "link": "https://blogs.kcl.ac.uk/ddh/2021/09/20/best-ba-thesis-climate-disinformation/",
-          "publishedOn": "2021-09-20T19:57:30.000Z",
-          "wordCount": 349,
-          "title": "Best Thesis Prize goes to undergraduate dissertation exploring climate disinformation on Facebook"
         }
       ]
     },
@@ -2546,15 +2546,6 @@
           "publishedOn": "2021-10-14T20:49:09.000Z",
           "wordCount": 883,
           "title": "Creativity in the Time of COVID Partners: Cody Mejeur, an inclusive Game-Developer"
-        },
-        {
-          "id": "https://dhlc.cal.msu.edu/?p=363",
-          "author": "carrmitc",
-          "description": "Get to Know REACH Art Studio Creativity in the Time of COVID uses a crowdsource survey  to find how people are using various forms of creativity to cope with the stress and loneliness the pandemic brought. To help share the survey with as many people as possible, our team is partnering with numerous community organizations […]",
-          "link": "https://dhlc.cal.msu.edu/2021/09/20/reach-art-studio/",
-          "publishedOn": "2021-09-20T15:14:48.000Z",
-          "wordCount": 921,
-          "title": "REACH-ing to make Art Accessible"
         }
       ]
     },
@@ -2563,6 +2554,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=4836",
+          "author": "DHN Admin",
+          "description": "Do you have an eye for design? Do you know your way around social media platforms? Are you a clear communicator who loves working with a fun team? The Critical Digital Humanities Initiative (CDHI) is seeking a student with a graphic design skills and social media acumen to join our team as a Communications Assistant for Summer 2022, through the University of Toronto Work Study Program.\n\nApplications open April 18, 2022. Click here to read more!",
+          "link": "https://dhn.utoronto.ca/workstudy-summer2022/?utm_source=rss&utm_medium=rss&utm_campaign=workstudy-summer2022",
+          "publishedOn": "2022-03-18T15:21:54.000Z",
+          "wordCount": 1016,
+          "title": "CDHI is Hiring: Communications Assistant (Work Study, Summer 2022)"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=4709",
           "author": "DHN Admin",
@@ -3478,6 +3478,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=7954",
+          "author": "DaigengnaDuoer",
+          "description": "A while ago, I wrote a piece arguing that we, as researchers in the humanities, need a better system to …",
+          "link": "https://digitalorientalist.com/2022/03/18/streamlining-your-academic-digital-workflow-1-reading-and-annotating-with-liquidtext/",
+          "publishedOn": "2022-03-18T13:00:00.000Z",
+          "wordCount": 1844,
+          "title": "Streamlining Your Academic Digital Workflow #1: Reading and Annotating with LiquidText"
+        },
         {
           "id": "http://digitalorientalist.com/?p=7928",
           "author": "elizabethbishop78666",
@@ -4910,6 +4919,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.62",
+          "author": null,
+          "description": "Parallel text datasets are a valuable for educational purposes, machine translation, and cross-language information retrieval, but few are domain-oriented. We have created a Chinese–English parallel dataset in the domain of finance technology, using the Financial Times website, from which we grabbed 60,473 news items from between 2007 and 2021. This dataset is a bilingual Chinese–English parallel dataset of news in the domain of finance. It is open access in its original state without transformation, and has been made not for machine translation as has been used, but for intelligent mining, in which we conducted many experiments using up-to-date text mining techniques: clustering (topic modeling, community detection, k-means), topic prediction (naive Bayes, SVM, LSTM, Bert), and pattern discovery (dictionary based, time series). We present the usage of these techniques as a framework for other studies, not only as an application but with an interpretation.\n Published on 2022-03-18 09:48:18",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.62",
+          "publishedOn": "2022-03-19T08:14:31.056Z",
+          "wordCount": 6718,
+          "title": "Mining an English-Chinese parallel Dataset of Financial News"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.74",
           "author": null,
           "description": "The dataset is a social network of over 17,000 individuals who lived during the so-called Neo-Assyrian period of Mesopotamian history, primarily in the eighth and seventh centuries BCE. The undirected network of individuals connected by co-occurrences in cuneiform documents was semi-automatically extracted from the Prosopography of the Neo-Assyrian Empire. In addition to two weighted versions of the one-mode co-occurrence network, the dataset also contains a two-mode person-text network and rich metadata for each individual. For the first time, the dataset allows large-scale computational analysis of social structures in the Assyrian Empire. The data is primarily stored as plain text and CSV files, inviting scholars to further expand and enrich it. The scripts and files used for creating and standardizing the data are also available in the Zenodo repository.\n Published on 2022-03-17 13:07:23",
@@ -5289,15 +5307,6 @@
           "publishedOn": "2022-01-20T07:07:00.000Z",
           "wordCount": 540,
           "title": "RaDiHum20 Neujahrsfolge 2022"
-        },
-        {
-          "id": "https://radihum20.de/?p=504",
-          "author": "Jonathan D. Geiger",
-          "description": "RaDiHum20 hat mit den beiden Convenorn der DHd AG OCR, also Optical Character Recognition, Elisabeth Engl und Christian Reul gesprochen. Es ging um die AG, ihre Gründung und Entwicklung, die Technologie der optischen Zeichenerkennung und ihrer Relevanz für die Digital Humanities, sowie um die AG Eventserie auf der vDHd2021. Link zur Folge https://www.podcast.de/episode/586870367/radihum20-spricht-mit-der-ag-ocr Die Gründung […]\nDer Beitrag RaDiHum20 spricht mit der AG OCR erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/ocr/",
-          "publishedOn": "2021-09-20T06:21:00.000Z",
-          "wordCount": 1274,
-          "title": "RaDiHum20 spricht mit der AG OCR"
         }
       ]
     },
@@ -8076,15 +8085,6 @@
           "publishedOn": "2021-09-21T11:54:57.000Z",
           "wordCount": 2146,
           "title": "A Reflection on Dublin in the Archives"
-        },
-        {
-          "id": "1401 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "Date: \n\n13 Oct 2021\n\n\nLocation: \n\nOnline\n\n\n\nDRI's Dr Lorraine Grimes will be delivering a talk about undertaking sensitive/traumatic research and its impacts on the researcher as part of a lunchtime webinar series hosted by Trinity College Dublin on how to stay well while doing qualitative research.",
-          "link": "https://www.dri.ie/how-stay-well-while-doing-qualitative-research",
-          "publishedOn": "2021-09-20T09:23:26.000Z",
-          "wordCount": 956,
-          "title": "How to stay well while doing qualitative research"
         }
       ]
     },
