@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-03-19T08:14:31.097Z</updated>
+    <updated>2022-03-20T08:14:06.138Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit Anna Neubert über Projektmanagement in den DH]]></title>
+        <id>https://radihum20.de/?p=552</id>
+        <link href="https://radihum20.de/radihum20-projektmanagement1/"/>
+        <updated>2022-03-20T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Heute präsentieren wie euch die erste Folge unserer dritten Staffel. Diese Staffel haben wir unter das Oberthema Wissenschaftsmanagement gestellt und wir werden euch zu unterschiedlichen Teilbereichen daraus jeweils ein konkretes Projekt vorstellen und eine eher theoretische Reflexion. Das heißt, zu jedem Thema wird es zwei Folgen geben, eine lange, eine kurze. Heute sprechen wir mit […]
+Der Beitrag RaDiHum20 spricht mit Anna Neubert über Projektmanagement in den DH erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Mareike Schumacher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mining an English-Chinese parallel Dataset of Financial News]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.62</id>
@@ -11924,166 +11935,6 @@ Anybody else thinking about organizing a hybrid/local event? And does anybody ha
 Read full topic]]></summary>
         <author>
             <name>tpsmits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflecting on the Publication of DRI's First Metadata Standards]]></title>
-        <id>1403 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/reflecting-publication-dris-first-metadata-standards"/>
-        <updated>2021-09-21T16:11:50.000Z</updated>
-        <summary type="html"><![CDATA[Our third #DRI10 blog reflects on the publication of ‘Dublin Core and the Digital Repository of Ireland’, our first guidelines on preparing metadata for ingestion to the Repository.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Negotiating the Future of Scholarly Communication]]></title>
-        <id>11805 at https://www.force11.org</id>
-        <link href="https://www.force11.org/blog/negotiating-future-scholarly-communication"/>
-        <updated>2021-09-21T15:10:08.000Z</updated>
-        <summary type="html"><![CDATA[The open access movement, which broadly seeks to remove barriers to reading and publishing scientific articles, has grown into a broad coalition of stakeholders transforming scholarly communication. No longer confined to librarians, publishers, and scholarly communication experts, a majority of researchers have now been thrust willingly or unwillingly into negotiating the future of scholarly communication.
-Researchers feel the effects of an outdated publishing ecosystem on a regular basis. Attaching a PDF to an email can result in a personal lawsuit against you. Sharing your article online may lead to a cease and desist letter. You mistakenly cite an article that was retracted years ago because it’s not properly labeled. Publication of years worth of work is held up because of a single, po…]]></summary>
-        <author>
-            <name>Nate Jacobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 questions à … Florence Andreacola]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7845</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/09/21/6-questions-a-florence-andreacola/"/>
-        <updated>2021-09-21T13:53:19.000Z</updated>
-        <summary type="html"><![CDATA[Florence Andreacola est maître de conférences à l’Université Grenoble Alpes. Ses recherches portent sur la place de la culture numérique au musée et lors de l’expérience de visite. Pour y parvenir, elle utilise et interroge des techniques de recherches interdisciplinaires entre informatique, sciences des données et sciences humaines et sociales. Elle interviendra lors de la […]
-The post 6 questions à … Florence Andreacola appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 questions à … Florence Andreacola]]></title>
-        <id>https://dhcenter-unil-epfl.com/?p=7845</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/09/21/6-questions-a-florence-andreacola/"/>
-        <updated>2021-09-21T13:53:19.000Z</updated>
-        <summary type="html"><![CDATA[Florence Andreacola est maître de conférences à l’Université Grenoble Alpes. Ses recherches portent sur la place de la culture numérique au musée et lors de l’expérience de visite. Pour y parvenir, elle utilise et interroge des techniques de recherches interdisciplinaires entre informatique, sciences des données et sciences humaines et sociales. Elle interviendra lors de la […]
-The post 6 questions à … Florence Andreacola appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Funding Opportunity: DARIAH-EU Digital Humanities Open Access Monograph Bursary for First Publications]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=812</id>
-        <link href="https://scholarlytales.hcommons.org/2021/09/21/funding-opportunity-dariah-eu-digital-humanities-open-access-monograph-bursary-for-first-publications/"/>
-        <updated>2021-09-21T13:14:11.000Z</updated>
-        <summary type="html"><![CDATA[DARIAH-EU is launching an annual Open Access Monograph* Bursary for the publication of a first monograph in the field of Digital Humanities. This bursary reflects DARIAH’s commitment to the growing open research culture for Arts and Humanities scholars. Through this funding, the organization hopes to make Open Access publishing a more viable option for early career researchers, who often encounter financial or professional hurdles when considering this publishing route. For more information from DARIAH-EU on the context of Open Access publishing and the specific...]]></summary>
-        <author>
-            <name>Leah Budke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denshi Jisho: Are they still worth your time?]]></title>
-        <id>http://digitalorientalist.com/?p=6290</id>
-        <link href="https://digitalorientalist.com/2021/09/21/denshi-jisho-are-they-still-worth-your-time/"/>
-        <updated>2021-09-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the rise of smartphone technology, the market for electronic dictionaries (J. Denshi jisho 電子辞書) has gradually shrunk. When I …]]></summary>
-        <author>
-            <name>James Harry Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Reflection on Dublin in the Archives]]></title>
-        <id>1402 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/reflection-dublin-archives"/>
-        <updated>2021-09-21T11:54:57.000Z</updated>
-        <summary type="html"><![CDATA[This blog post reflects on our recent Culture Night event 'Dublin in the Archives', and contains links to the recording and presentation slides.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« FinLux » seminar: Schedule for the winter term 2021]]></title>
-        <id>3583 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/finlux-seminar-schedule-winter-term-2021"/>
-        <updated>2021-09-21T11:33:39.000Z</updated>
-        <summary type="html"><![CDATA[From its inception, the C²DH has decided to make the history of the Luxembourg financial centre one of its main research priorities. In this context, the 'FinLux' seminar is held on a monthly basis. It is a place for researchers to discuss ongoing research projects in banking and financial history in a broad sense. The fundamental theme of the seminars is a reflection on which topics, actors, sources, and methods can be used to write the history of the Luxembourg financial centre.
-All sessions start at 18:00 sharp and will take place virtually at https://unilu.webex.com/meet/benoit.majerus. The presentations this semester will be in either French or English. Please e-mail Benoit Majerus (benoit.majerus@uni.lu) in case you wish to participate.
- 
-Winter semester 2021
- 
-5 October 2021
-Gerschenkron’s Blind Spot: Secret Reserves and the Relevance of Internal Financing in the German Chemical Industry, c.1885–1904.
-by Frédéric Steinfeld
- 
-26 October 2021
-Cities in global financial networks
-by Dariusz Wocjik
- 
-30 November 2021
-Global Correspondent Banking in the 20th century: the position of Luxembourg
-by Thibaud Giddey and Catherine R. Schenk
-5 October 2021
-  Contemporary history of Europe
-  Banking and financial history  Economic history
-  Conferences
-  Published  
-Salle des ordinateurs, 1980, BGL]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Social Data School in an Age of Social Distancing]]></title>
-        <id>https://blog.cdh.cam.ac.uk/?p=322</id>
-        <link href="https://blog.cdh.cam.ac.uk/2021/09/21/a-social-data-school-in-an-age-of-social-distancing/"/>
-        <updated>2021-09-21T10:25:30.000Z</updated>
-        <summary type="html"><![CDATA[Heather Stallard: Running an intensive, application only summer school on how to create, use and think about social data during an international lockdown presented both a challenge and an opportunity: does this work online? Is it better?
-The post A Social Data School in an Age of Social Distancing appeared first on The Digital Hum.]]></summary>
-        <author>
-            <name>Heather Stallard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jobs: 1 Full and 2 Assistant Professorships at the Jagiellonian University in Kraków]]></title>
-        <id>discourse.computational-humanities-research.org-topic-916</id>
-        <link href="https://discourse.computational-humanities-research.org/t/jobs-1-full-and-2-assistant-professorships-at-the-jagiellonian-university-in-krakow/916"/>
-        <updated>2021-09-21T09:49:30.000Z</updated>
-        <summary type="html"><![CDATA[The posts are generally in the field of Digital Humanities, with employment at the Faculty of Philology.
-The full professor (tenure with the first 5 year financed from a project: yearly full-time salary 150k-200k PLN gross; negotiable teaching load) also gets 400k PLN grant and additionally can hire 2 postdocs.
-The assistant professors (2,5 years; full-time salary 75k-100k PLN gross) get additional research money 50k PLN. One is a research-only position, the other has a negotiable teaching load.
-The 3 positions are concurrent, so you can bring the whole team! 
-Application submission deadline: 15 November 2021
-Details:
-full professor
-assistant professor ~ more computation, research only
-assistant professor ~ more digitisation
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>JeremiOchab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCLDH to participate in £14.5m Towards a National Collection]]></title>
-        <id>https://blogs.ucl.ac.uk/dh/?p=8196</id>
-        <link href="https://blogs.ucl.ac.uk/dh/2021/09/21/national-collection/"/>
-        <updated>2021-09-21T09:00:21.000Z</updated>
-        <summary type="html"><![CDATA[The Arts and Humanities Research Council (AHRC) has awarded £14.5m to 5 research projects to connect the UK’s cultural artefacts and historical archives in new and transformative ways. The announcement today of the five major projects forming the largest investment of Towards a National Collection, a five-year research programme, reveals the first insights into how […]]]></summary>
-        <author>
-            <name>Lucy Stagg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is remembered lives. Mémoire de la Shoah à l'ère digitale]]></title>
-        <id>3582 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/forum-z/what-remembered-lives-memoire-de-la-shoah-lere-digitale"/>
-        <updated>2021-09-21T08:39:43.000Z</updated>
-        <summary type="html"><![CDATA[Dans le cadre des commémorations du 80e anniversaire du départ du premier convoi de déportation depuis la gare de Luxembourg, dans la nuit du 16 au 17 octobre 1941, le Centre for Contemporary and Digital History (C²DH) – Université du Luxembourg et la Fondation Luxembourgeoise pour la Mémoire de la Shoah ont souhaité organiser cet événement ouvert à tous afin de montrer la façon dont la mémoire des persécutions se prolonge, évolue et se renouvelle à l’ère digitale.
-Grâce à trois conférenciers de réputation internationale et trois ateliers interactifs, les multiples modalités de préservation, d’étude et de diffusion des connaissances sur la Shoah seront évoquées.
-Les communications seront faites en français, allemand et anglais. Des traductions sont prévues.
- 
-Lundi, 18 octobre 2021
-15:00 -…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
         </author>
     </entry>
 </feed>
