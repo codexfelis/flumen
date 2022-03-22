@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-03-21T08:16:03.247Z</updated>
+    <updated>2022-03-22T08:16:00.115Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CLARIAH-AT: Call for Projects &quot;Interoperability and reusability of DH data and tools&quot;]]></title>
+        <id>node/790</id>
+        <link href="https://dig-hum.de/aktuelles/clariah-at-call-for-projects-interoperability-and-reusability-of-dh-data-and-tools"/>
+        <updated>2022-03-22T08:15:27.063Z</updated>
+        <summary type="html"><![CDATA[Liebe Kolleg*innen und Kollegen,
+auch wenn es sich bei dieser Ausschreibung an sich um eine rein österreichische Projektförderung handelt, möchte ich Sie über die CLARIAH-AT…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing Changes in Colombian Wetlands with ArcGIS Story Maps]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=8157</id>
+        <link href="https://sites.temple.edu/tudsc/2022/03/21/visualizing-changes-in-colombian-wetlands-with-arcgis-story-maps/"/>
+        <updated>2022-03-21T21:30:32.000Z</updated>
+        <summary type="html"><![CDATA[By Victoria Sarmiento Story Mapping Land Cover Change For the second part of my blog post for the Scholars Studio, I’ve created a ArcGIS Story Map as part of my project to...
+The post Visualizing Changes in Colombian Wetlands with ArcGIS Story Maps appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
+        <author>
+            <name>Maria Victoria Sarmiento Giraldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Libraries UK becomes a supporter of the Technician Commitment]]></title>
+        <id>https://www.rluk.ac.uk/?p=11790</id>
+        <link href="https://www.rluk.ac.uk/research-libraries-uk-becomes-a-supporter-of-the-technician-commitment/"/>
+        <updated>2022-03-21T14:18:30.000Z</updated>
+        <summary type="html"><![CDATA[This content is password protected. To view it please enter your password below: Password:
+The post Research Libraries UK becomes a supporter of the Technician Commitment appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Collection: Dublin City Council Manuscript Minutes 1841–1881]]></title>
+        <id>1492 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/new-collection-dublin-city-council-manuscript-minutes-1841%E2%80%931881"/>
+        <updated>2022-03-21T12:51:48.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that the Dublin City Council (DCC) Manuscript Minutes 1841–1881 collection is now available in the Repository.]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFP: Algorithmizität als Kultur des Verstehens? AG Digital Humanities Theorie]]></title>
         <id>node/787</id>
@@ -148,6 +191,28 @@ Applications open April 18, 2022. Click here to read more!]]></summary>
         <summary type="html"><![CDATA[A while ago, I wrote a piece arguing that we, as researchers in the humanities, need a better system to …]]></summary>
         <author>
             <name>DaigengnaDuoer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Nominations: Steven Krauwer Award 2022]]></title>
+        <id>5696 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/call-nominations-steven-krauwer-award-2022"/>
+        <updated>2022-03-17T17:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Call for Nominations: Steven Krauwer Award 2022
+
+            
+The call for nominations for the Steven Krauwer Awards 2022 is now open. The awards, named in honour of the first executive director of CLARIN, Steven Krauwer, are given in recognition of outstanding contributions towards CLARIN goals in the areas of language resource building, tool or service development, exemplary use cases, user involvement or knowledge sharing. In 2022, Steven Krauwer Awards will be aawarded in the following categories:
+Early Career CLARIN Researcher, to promote a young person or a group of cooperating young persons aged 35 years or younger.
+CLARIN Achievement, to recognise the work of a person or a group of cooperating people.
+If you know someone eligible for nomination, please contact your National Coordinator by email and describe how this person meets the criteria for the selected award.
+The nomination deadline is 29 April 2022, 17:00 CET.
+The award ceremony will take place at the CLARIN Annual Conference 2022.
+Read the full call
+
+      Elisa Gorgaini
+ 17 March 2022]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
         </author>
     </entry>
     <entry>
@@ -11686,175 +11751,6 @@ Thomas, Angle Chair in the Humanities, professor of history, and associate dean 
 Published by Yale University Press in 2020, the book has additionally received the 2021 Mark Lynton History Prize and was named a finalist for the George Washington Prize.]]></summary>
         <author>
             <name>Anonymous</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PROJECT: Juncture]]></title>
-        <id>https://dhandlib.org/?p=121468</id>
-        <link href="https://dhandlib.org/2021/09/23/project-juncture/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=project-juncture"/>
-        <updated>2021-09-23T20:02:06.000Z</updated>
-        <summary type="html"><![CDATA[JSTOR Labs announced a new project, Juncture: Juncture is a free-to-use, open source framework for converting simple text files into an engaging visual essay. A visual essay is an interactive and responsive web page that augments a text narrative with visual elements to provide depth and context. With Juncture you can create a single essay ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: VeDPH Seminars in Digital and Public Humanities]]></title>
-        <id>https://dhandlib.org/?p=121465</id>
-        <link href="https://dhandlib.org/2021/09/23/event-vedph-seminars-in-digital-and-public-humanities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-vedph-seminars-in-digital-and-public-humanities"/>
-        <updated>2021-09-23T20:01:20.000Z</updated>
-        <summary type="html"><![CDATA[The European Association of Digital Humanities (EADH) announces its fall virtual seminar series in Digital and Public Humanities. 6 October 2021: “Producing Knowledge in the Virtual Space: Approaching Archaeological Data from a Reflexive Digital Perspective,” Nicolò Dell’Unto (Lunds Universitet) 20 October 2021: “Resources, Tools and New Chances of Digital Humanities for Cultural Heritage: Academia and ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Putting Open Social Scholarship into Practice]]></title>
-        <id>https://dhandlib.org/?p=121461</id>
-        <link href="https://dhandlib.org/2021/09/23/cfp-putting-open-social-scholarship-into-practice/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-putting-open-social-scholarship-into-practice"/>
-        <updated>2021-09-23T19:59:36.000Z</updated>
-        <summary type="html"><![CDATA[Putting Open Social Scholarship into Practice, sponsored by the Implementing New Knowledge Environments (INKE) Partnership, Canadian-Australian Partnership for Open Scholarship (CAPOS), and the Social Sciences and Humanities Research Council, announces a call for proposals for its virtual conference: The last 18 months of the COVID-19 pandemic have shone a light on the critical importance of ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Computational Analysis Skills for Large-Scale Humanities Data]]></title>
-        <id>https://dhandlib.org/?p=121463</id>
-        <link href="https://dhandlib.org/2021/09/23/cfp-computational-analysis-skills-for-large-scale-humanities-data/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-computational-analysis-skills-for-large-scale-humanities-data"/>
-        <updated>2021-09-23T19:58:51.000Z</updated>
-        <summary type="html"><![CDATA[The Programming Historian invites proposals of new tutorials dealing with computational analysis of large-scale digital collections, as a part of a special series developed in partnership with the National Archives and Jisc. From the call for proposals: Scholarly research has changed thanks to the proliferation of digital collections and the rapid emergence of computational methodologies ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Digital Scholarship Librarian (Binghamton University)]]></title>
-        <id>https://dhandlib.org/?p=121451</id>
-        <link href="https://dhandlib.org/2021/09/23/job-digital-scholarship-librarian-binghamton-university/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-librarian-binghamton-university"/>
-        <updated>2021-09-23T19:57:34.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: The Digital Scholarship Librarian is part of the Digital Scholarship team within the Digital Initiatives department. Digital Initiatives is a collegial environment, where communication and collaboration are two of our key values for supporting each other, the Libraries, and the campus community. The Digital Scholarship Librarian will collaborate in the development and ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Director of Digital Curation & Open Infrastructure (Carnegie Mellon University)]]></title>
-        <id>https://dhandlib.org/?p=121453</id>
-        <link href="https://dhandlib.org/2021/09/23/job-director-of-digital-curation-open-infrastructure-carnegie-mellon-university/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-director-of-digital-curation-open-infrastructure-carnegie-mellon-university"/>
-        <updated>2021-09-23T19:56:48.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: We’re looking for someone to help us build something different. Carnegie Mellon University prides itself on collaborative, interdisciplinary, pragmatic, groundbreaking research— and that spirit carries into its Libraries. As we shift into a post-pandemic posture, we’re rethinking everything: our physical space, our educational, cultural, and research programs, our collections, and our digital infrastructure. We ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joanna Zylinska joins Department of Digital Humanities as Professor of Media Philosophy and Critical Digital Practice]]></title>
-        <id>https://blogs.kcl.ac.uk/ddh/?p=3156</id>
-        <link href="https://blogs.kcl.ac.uk/ddh/2021/09/23/joanna-zylinska/"/>
-        <updated>2021-09-23T15:46:17.000Z</updated>
-        <summary type="html"><![CDATA[We’re delighted to announce that Joanna Zylinska has been appointed as Professor of Media Philosophy and Critical Digital Practice in the Department of Digital Humanities. Professor Zylinska is a writer, lecturer, artist and curator, working in the areas of digital technologies and new media, ethics, photography and art. Prior to joining King’s in 2021, she … 
-Continue reading "Joanna Zylinska joins Department of Digital Humanities as Professor of Media Philosophy and Critical Digital Practice"]]></summary>
-        <author>
-            <name>Jonathan Gray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDEN: Appel à projets de journées d’études]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7909</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/09/23/pden-appel-a-projets-de-journees-detudes/"/>
-        <updated>2021-09-23T14:36:12.000Z</updated>
-        <summary type="html"><![CDATA[Le Programme Doctoral en Etudes Numériques (PDEN) de l’Université de Lausanne lance un appel à projets de journées d’études organisées par des doctorant.e.s des universités suisses romandes. Le PDEN a pour vocation de fournir des formations courtes pour les doctorant.e.s romand.e.s qui intègrent à la fois les usages aux outils numériques et une réflexion sur les […]
-The post PDEN: Appel à projets de journées d’études appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDEN: Appel à projets de journées d’études]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7909</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/09/23/pden-appel-a-projets-de-journees-detudes/"/>
-        <updated>2021-09-23T14:36:12.000Z</updated>
-        <summary type="html"><![CDATA[Le Programme Doctoral en Etudes Numériques (PDEN) de l’Université de Lausanne lance un appel à projets de journées d’études organisées par des doctorant.e.s des universités suisses romandes. Le PDEN a pour vocation de fournir des formations courtes pour les doctorant.e.s romand.e.s qui intègrent à la fois les usages aux outils numériques et une réflexion sur les […]
-The post PDEN: Appel à projets de journées d’études appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTS: Vincent Kaufmann on the future of Swiss train travel]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7892</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/09/23/rts-vincent-kaufmann-on-the-future-of-swiss-train-travel/"/>
-        <updated>2021-09-23T10:09:29.000Z</updated>
-        <summary type="html"><![CDATA[On September 16th, dhCenter member Vincent Kaufmann was invited by Swiss Public Radio RTS to talk about the future of the Swiss rail industry in light of the COVID-19 pandemic. Vincent Kaufmann, an associate professor of urban sociology at EPFL, gave RTS his expert view on the large investments currently being made by the Swiss […]
-The post RTS: Vincent Kaufmann on the future of Swiss train travel appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTS: Vincent Kaufmann on the future of Swiss train travel]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7892</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/09/23/rts-vincent-kaufmann-on-the-future-of-swiss-train-travel/"/>
-        <updated>2021-09-23T10:09:29.000Z</updated>
-        <summary type="html"><![CDATA[On September 16th, dhCenter member Vincent Kaufmann was invited by Swiss Public Radio RTS to talk about the future of the Swiss rail industry in light of the COVID-19 pandemic. Vincent Kaufmann, an associate professor of urban sociology at EPFL, gave RTS his expert view on the large investments currently being made by the Swiss […]
-The post RTS: Vincent Kaufmann on the future of Swiss train travel appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TILT: a new set of collaborative courses between UNIL and EPFL]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7865</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/09/23/tilt-a-new-set-of-collaborative-courses-between-unil-and-epfl/"/>
-        <updated>2021-09-23T09:22:29.000Z</updated>
-        <summary type="html"><![CDATA[The EPFL College of Humanities announces a new program of courses shared between the University of Lausanne (UNIL) and EPFL: Track for Interdisciplinary Learning and Teaching (TILT). These courses address key issues tied to the digital turn and sustainability through collaborative and hands-on groupwork. From the ecological crisis to the upheavals of the digital transition, […]
-The post TILT: a new set of collaborative courses between UNIL and EPFL appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TILT: a new set of collaborative courses between UNIL and EPFL]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7865</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/09/23/tilt-a-new-set-of-collaborative-courses-between-unil-and-epfl/"/>
-        <updated>2021-09-23T09:22:29.000Z</updated>
-        <summary type="html"><![CDATA[The EPFL College of Humanities announces a new program of courses shared between the University of Lausanne (UNIL) and EPFL: Track for Interdisciplinary Learning and Teaching (TILT). These courses address key issues tied to the digital turn and sustainability through collaborative and hands-on groupwork. From the ecological crisis to the upheavals of the digital transition, […]
-The post TILT: a new set of collaborative courses between UNIL and EPFL appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online dating reveals paradox of the attention economy]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7860</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/09/23/online-dating-reveals-paradox-of-the-attention-economy/"/>
-        <updated>2021-09-23T09:18:52.000Z</updated>
-        <summary type="html"><![CDATA[dhCenter member Jessica Pidoux describes her recently defended thesis in EPFL’s Digital Humanities Doctoral Program (EDDH) on the collective learning processes – both human and machine – that take place on online dating platforms. Pidoux’s public thesis defense was held on September 16th on the EPFL campus, with additional attendance via Zoom. Entitled “Online Dating […]
-The post Online dating reveals paradox of the attention economy appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online dating reveals paradox of the attention economy]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7860</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/09/23/online-dating-reveals-paradox-of-the-attention-economy/"/>
-        <updated>2021-09-23T09:18:52.000Z</updated>
-        <summary type="html"><![CDATA[dhCenter member Jessica Pidoux describes her recently defended thesis in EPFL’s Digital Humanities Doctoral Program (EDDH) on the collective learning processes – both human and machine – that take place on online dating platforms. Pidoux’s public thesis defense was held on September 16th on the EPFL campus, with additional attendance via Zoom. Entitled “Online Dating […]
-The post Online dating reveals paradox of the attention economy appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New DRI Collections Published on Europeana]]></title>
-        <id>1404 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-dri-collections-published-europeana"/>
-        <updated>2021-09-23T08:34:41.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that four collections have been newly aggregated to Europeana from DRI.]]></summary>
-        <author>
-            <name>ainemadden</name>
         </author>
     </entry>
 </feed>
