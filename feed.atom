@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-03-24T08:15:34.989Z</updated>
+    <updated>2022-03-25T08:14:49.820Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accessibility, Discoverability, and Functionality: An Audit of and Recommendations for Digital Language Archives]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.59</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.59"/>
+        <updated>2022-03-25T08:14:48.060Z</updated>
+        <summary type="html"><![CDATA[While digital archiving has long been standard for linguistics, archives themselves are heterogeneous (Aznar & Seifart 2020), and archived linguistic material is important for researchers and communities, particularly for language reclamation (cf. Baldwin & Olds 2007; Whalen et al. 2016; Hinton 2003, 2018; Kung et al. 2020). The format and usability of scholarly archival collections is shaped by the functions of the management practices at the stewarding institution, making an appreciation of the range of access services provided by such institutions relevant to the evaluation of individual collections.
+Here we report on a review of 41 digital language archives. Three factors are examined: 1) accessibility, including metadata and site navigation; 2) discoverability, or searchability and internal navigation; and 3) functionality, the overall ease of data retrieval and use. We recognize that the decisions made by both stewards and depositors can greatly impact the accessibility of archived materials; to that end, we present recommendations for how archives might increase the utility of their holdings for their users. We emphasize that our intention is not to dissuade linguists from using archives because of these issues, and we recognize the tremendous amount of work that goes into the upkeep of digital infrastructure, often with very limited institutional support. Implementing such recommendations at an institutional level can establish a fairer peer-review process of archival collections. By delineating precisely what standards fall under the archive management level and what procedures individual depositors are responsible for, the roles of “archivist” and “depositor” become clearer.
+ Published on 2022-03-24 11:09:26]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transkribus Lite 2.1, improved text editor & new models manager]]></title>
+        <id>https://readcoop.eu/?p=27984</id>
+        <link href="https://readcoop.eu/lite2_1/"/>
+        <updated>2022-03-25T07:36:16.000Z</updated>
+        <summary type="html"><![CDATA[After the successful introduction of Transkribus Lite 2.0, we have now integrated your valuable feedback into the 2.1 release of Transkribus Lite. New view option for the text editor We have added the option to adjust the text-editor layout to your needs. Now you can move the toolbar to the left side of your screen […]
+The post Transkribus Lite 2.1, improved text editor & new models manager appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: Python Basics for Librarians and Archivists (ACRL DSS)]]></title>
+        <id>https://dhandlib.org/?p=122949</id>
+        <link href="https://dhandlib.org/2022/03/24/event-python-basics-for-librarians-and-archivists-acrl-dss/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-python-basics-for-librarians-and-archivists-acrl-dss"/>
+        <updated>2022-03-24T21:27:45.000Z</updated>
+        <summary type="html"><![CDATA[The ACRL Digital Scholarship Section (DSS) Digital Collections Discussion Group, Digital Humanities Discussion Group and Professional Development Committee are hosting a 4-part training series, Python Basics for Librarians and Archivists! From the email announcement: Python Basics for Librarians and Archivists is for those completely new to programming. Learn about variables, functions, flow control, lists, and dictionaries. ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: California Digital Humanities Research Institute]]></title>
+        <id>https://dhandlib.org/?p=122980</id>
+        <link href="https://dhandlib.org/2022/03/24/event-california-digital-humanities-research-institute/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-california-digital-humanities-research-institute"/>
+        <updated>2022-03-24T21:27:10.000Z</updated>
+        <summary type="html"><![CDATA[California Digital Humanities Research Institute (CaliDHRI) has announced its inaugural event, to be held virtually April 17-29, 2022. Hosted by UC Irvine Libraries and UCLA Libraries, CalDHRI plans to “center Black digital humanities thematically, and rotate annually through Latinx, Asian American, and Indigenous Studies topics while focusing on California-centric research questions and datasets.” Keynotes by ...read more]]></summary>
+        <author>
+            <name>Caitlin Christian-Lamb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: DHSI Online Edition]]></title>
+        <id>https://dhandlib.org/?p=122989</id>
+        <link href="https://dhandlib.org/2022/03/24/event-dhsi-online-edition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-dhsi-online-edition"/>
+        <updated>2022-03-24T21:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Registration is now available for the Digital Humanities Summer Institute at the University of Victoria. This year’s DHSI will be held fully online June 6-10 and will feature aligned conferences & events, online workshops, and institute lectures. From the registration page: Aligned Conferences & Events At DHSI 2022—Online Edition, we have seven aligned conferences & ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: Library as Laboratory Series (Internet Archive)]]></title>
+        <id>https://dhandlib.org/?p=122970</id>
+        <link href="https://dhandlib.org/2022/03/24/event-library-as-laboratory-series-internet-archive/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-library-as-laboratory-series-internet-archive"/>
+        <updated>2022-03-24T21:25:55.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Archive presents, Library as Laboratory: A New Series Exploring the Computational Use of Internet Archive Collections. “From web archives to television news to digitized books & periodicals, dozens of projects rely on the collections available at archive.org for computational & bibliographic research across a large digital corpus. This series will feature six sessions highlighting ...read more]]></summary>
+        <author>
+            <name>Nickoal Eichmann-Kalwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: Day of DH 2022 (CenterNet)]]></title>
+        <id>https://dhandlib.org/?p=122975</id>
+        <link href="https://dhandlib.org/2022/03/24/event-day-of-dh-2022-centernet/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-day-of-dh-2022-centernet"/>
+        <updated>2022-03-24T21:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Day of Digital Humanities is a CenterNet initiative that celebrates and highlights the activities of people working in and exploring the digital humanities practitioners across the globe. This year, the international event takes place on 28 April 2022. CentreNet collects global contributions to show the variety of DH events over the world and provide information ...read more]]></summary>
+        <author>
+            <name>Nickoal Eichmann-Kalwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: Digital Humanities Lecture Series (Le Carrefour des SHN/DH-Hub)]]></title>
+        <id>https://dhandlib.org/?p=122978</id>
+        <link href="https://dhandlib.org/2022/03/24/event-digital-humanities-lecture-series-le-carrefour-des-shn-dh-hub/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-digital-humanities-lecture-series-le-carrefour-des-shn-dh-hub"/>
+        <updated>2022-03-24T21:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Digital Humanities Lecture Series is organized by Le Carrefour des SHN/DH-Hub at the University of Ottawa and offered in partnership with Centre de recherche interuniversitaire sur les humanités numériques (CRIHN) at Université de Montréal, and the ThincLab at Guelph University. Remaining lectures include: 1 April 2022: “Data Feminism, Embodied Practices, and Internet Archives,” Dr. Shana ...read more]]></summary>
+        <author>
+            <name>John Russell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPORTUNITY: The Authenticity Project]]></title>
+        <id>https://dhandlib.org/?p=122951</id>
+        <link href="https://dhandlib.org/2022/03/24/opportunity-the-authenticity-project/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=opportunity-the-authenticity-project"/>
+        <updated>2022-03-24T21:23:09.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Library Federation and HBCU Library Alliance announce The Authenticity Project, “an IMLS-funded mentoring and professional development program for early- to mid-career HBCU library staff.” The goal of the project “is to build a more diverse, inclusive, collaborative, and cohesive next-generation digital library workforce, ready to work across types of institutions in building infrastructure ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: 2022 DSS Virtual Professional Development Series]]></title>
+        <id>https://dhandlib.org/?p=122953</id>
+        <link href="https://dhandlib.org/2022/03/24/cfp-2022-dss-virtual-professional-development-series/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-2022-dss-virtual-professional-development-series"/>
+        <updated>2022-03-24T21:22:27.000Z</updated>
+        <summary type="html"><![CDATA[The ACRL Digital Scholarship Section’s (DSS) Professional Development Committee (PDC), in collaboration with the DSS Outreach Committee and the DSS Equity, Diversity and Inclusion Committee, seeks proposals for its 2022 DSS virtual professional development series. From the email call: The Committee accepts proposals on a rolling basis, with the following review dates this spring: Monday, ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: Critical Digital Humanities International Conference]]></title>
+        <id>https://dhandlib.org/?p=122977</id>
+        <link href="https://dhandlib.org/2022/03/24/cfp-critical-digital-humanities-international-conference/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-critical-digital-humanities-international-conference"/>
+        <updated>2022-03-24T21:21:47.000Z</updated>
+        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) at the University of Toronto has released a call for papers for their 2022 Critical Digital Humanities International Conference. The conference foregrounds critical DH research, praxis, and community partnerships. Critical DH is an intersectional field that emphasizes questions of power, social justice, and critical theory in making, analyzing, and ...read more]]></summary>
+        <author>
+            <name>Caitlin Christian-Lamb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOB: Head of Digital Scholarship (Boston College)]]></title>
+        <id>https://dhandlib.org/?p=122972</id>
+        <link href="https://dhandlib.org/2022/03/24/job-head-of-digital-scholarship-boston-college/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-head-of-digital-scholarship-boston-college"/>
+        <updated>2022-03-24T21:20:53.000Z</updated>
+        <summary type="html"><![CDATA[From the announcement: Full-Time Equivalent Hiring Range: $81,650 to $102,050; salary commensurate with relevant experience. The Head of Digital Scholarship will lead the team and colleagues across the libraries to envision, plan and deliver innovative and sustainable digital research services in concert with student, faculty, and library needs. Through exploration of new technologies, and engagement ...read more]]></summary>
+        <author>
+            <name>John Russell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOB: Digital Humanities Librarian (Sarah Lawrence College)]]></title>
+        <id>https://dhandlib.org/?p=122947</id>
+        <link href="https://dhandlib.org/2022/03/24/job-digital-humanities-librarian-sarah-lawrence-college/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-humanities-librarian-sarah-lawrence-college"/>
+        <updated>2022-03-24T21:20:22.000Z</updated>
+        <summary type="html"><![CDATA[From the announcement: Sarah Lawrence College is seeking an intellectually curious technologist to join the Esther Raushenbush Library team in the role of Digital Humanities Librarian. Sarah Lawrence’s unique and innovative student-driven approach to education offers a fertile laboratory for the development of a digital humanities initiative grounded in interdisciplinary collaboration. The Digital Humanities Librarian ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIGE : Assistant-e au Département de sociologie à 80%]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=10124</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/03/24/unige-assistant-e-au-departement-de-sociologie-a-80/"/>
+        <updated>2022-03-24T18:02:32.000Z</updated>
+        <summary type="html"><![CDATA[La Faculté des Sciences de la Société de l’Université de Genève, et son Département de sociologie, ouvrent une inscription pour un poste d’assistant-e à 80%. Entrée en fonction : 1er août 2022 (ou à convenir). La durée de l’engagement est de 5 ans maximum, avec des renouvellements tous les deux ans (2+2+1), sur fonds du […]
+The post UNIGE : Assistant-e au Département de sociologie à 80% appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IMPACT/OPF/IIPC VIRTUAL PANEL: PRESERVATION OF DIGITISED AND BORN-DIGITAL COLLECTIONS]]></title>
         <id>https://www.digitisation.eu/?post_type=tribe_events&amp;p=16624</id>
@@ -11827,40 +11971,6 @@ Read full topic]]></summary>
  Loe lähemalt CLARINi aastakonverents veebis kohta]]></summary>
         <author>
             <name>a71389</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The First of May in German Literature]]></title>
-        <id>https://weltliteratur.net/the-first-of-may-in-german-literature/</id>
-        <link href="https://openmethods.dariah.eu/2021/09/26/the-first-of-may-in-german-literature/"/>
-        <updated>2021-09-26T14:36:29.000Z</updated>
-        <summary type="html"><![CDATA[Introduction by OpenMethods Editor (Erzsébet Tóth-Czifra): Research on date extractions from literature brings us closer to answering big questions of “when literature takes place”.  As Frank Fischer's blog post, First of May in German literature shows, beyond mere quantification, this line of research also yields insights on the cultural significance of certain dates. In this case, the significance of 1st of May in German literature (as reflected in the "Corpus of German-Language Fiction" dataset) was determined with the help of a freely accessible data set and the open access tool HeidelTime. The brief description of the workflow is a smart demonstration of the potential of open DH methods and data sharing in sustainable ways.
-
-Bonus one: the post starts out from briefly touching upon some of Frank's public humanities activities.
-
-Bonus two: mention of the Tiwoli (“Today in World Literature”) app, a fun side product built on to pof the date extraction research.]]></summary>
-        <author>
-            <name>Frank Fischer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch of CLARIN Impact Stories]]></title>
-        <id>5601 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/launch-clarin-impact-stories"/>
-        <updated>2021-09-26T08:09:38.000Z</updated>
-        <summary type="html"><![CDATA[Launch of CLARIN Impact Stories
-
-            
-In this new series we showcase high-quality and innovative research that uses CLARIN tools and resources. These impact stories illustrate the huge variety of disciplines that use the CLARIN infrastructure, highlight the excellent research linked to it, and demonstrate the wider impact that CLARIN and the social sciences and humanities have on broader societal issues. The first impact story features the Helsinki Digital Humanities Hackathon DHH21: ‘Parliamentary Debates in COVID Times’.
-
-      Karina Berger
- 26 September 2021
-
-      
-Tags
-impact stories]]></summary>
-        <author>
-            <name>Karina Berger</name>
         </author>
     </entry>
 </feed>
