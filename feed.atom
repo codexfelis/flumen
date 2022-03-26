@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-03-25T08:14:49.820Z</updated>
+    <updated>2022-03-26T08:14:21.308Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Just give me a font!]]></title>
+        <id>http://digitalorientalist.com/?p=7967</id>
+        <link href="https://digitalorientalist.com/2022/03/25/just-give-me-a-font/"/>
+        <updated>2022-03-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The headache of working with archaic Chinese orthographies Technologically, we scholars of the 21st century are spoiled. We sit at …]]></summary>
+        <author>
+            <name>maddalena poli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centre news vol. 54 - March 2022]]></title>
+        <id>5700 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/centre-news-vol-54-march-2022"/>
+        <updated>2022-03-25T10:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Centre news vol. 54 - March 2022
+
+            
+Upcoming deadline for B-centre assessments
+The deadline for the upcoming B-centre assessment round is 29 April 2022.
+Centre Meeting 2022
+Please save the date: this year's Centre Meeting will take place on 11 and 12 May. It will be a hybrid event, with the possibility to join in person in Utrecht or virtually. More details will follow.
+New Switchboard beta release
+The Switchboard 2.4.1-beta2 is now available for beta testing. 
+Matomo upgrades
+The CLARIN matomo instance has been upgraded from version 4.6.1 to 4.8.0, see the changelogs for details.
+Requests for input and feedback
+25 March, 14:00-15:30 CET: online EOSC Interoperability Framework Consultation
+Until 15 April: CoreTrustSeal requirements 23-25 review
+
+      Dieter Van Uytvanck
+ 25 March 2022
+
+    
+centre news]]></summary>
+        <author>
+            <name>Dieter Van Uytvanck</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accessibility, Discoverability, and Functionality: An Audit of and Recommendations for Digital Language Archives]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.59</id>
@@ -11869,108 +11908,6 @@ Existing projects
 There was a tremendous amount of content work done on the Global Medieval Sourcebook this summer, creating beautifully-formatted PDFs of each text for download along with the XML. We also worked out some technical details with the project's ingestion into the Stanford Digital Repository and the creation of MODS records for the major text collections. I wrote up…]]></summary>
         <author>
             <name>Quinn Dombrowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Library Lending Fit for the 21st Century? Controlled Digital Lending in the UK]]></title>
-        <id>https://www.rluk.ac.uk/?p=10786</id>
-        <link href="https://www.rluk.ac.uk/library-lending-fit-for-the-21st-century-controlled-digital-lending-in-the-uk/"/>
-        <updated>2021-09-27T14:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently, an online event was held to discuss the current status and prospects for Controlled Digital Lending (CDL) in the UK. The event was hosted by Chris Morrison and Jane Secker and jointly run by the National Acquisitions Group and ALT Copyright and Online Learning SIG.  I was asked to make [...]
-The post Library Lending Fit for the 21st Century? Controlled Digital Lending in the UK appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RLUK22 Conference call for papers launched]]></title>
-        <id>https://www.rluk.ac.uk/?p=10799</id>
-        <link href="https://www.rluk.ac.uk/rluk22-conference-call-for-papers-launched/"/>
-        <updated>2021-09-27T13:22:01.000Z</updated>
-        <summary type="html"><![CDATA[#RLUK22: Mapping the new open for research libraries  Open: to be visible, accessible, welcoming, receptive to knowledge and experiences, expansive, and within reach. The RLUK22 Conference call for papers is open for submissions. Now is the time to look forward to the new possibilities for research libraries. Across the research and higher education sector libraries [...]
-The post RLUK22 Conference call for papers launched appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What it really means to do interdisciplinary research]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7963</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/09/27/what-it-really-means-to-do-interdisciplinary-research/"/>
-        <updated>2021-09-27T13:04:53.000Z</updated>
-        <summary type="html"><![CDATA[On September 16th, the EPFL-UNIL Collaborative Research on Science and Society (CROSS) program hosted demonstrations of digital tools and proofs-of-concept resulting from recent mobility and digital humanities projects, as well as roundtables on the importance – and challenges – of supporting interdisciplinary research. Interdisciplinary research has become a buzzword in academia, and is frequently used […]
-The post What it really means to do interdisciplinary research appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What it really means to do interdisciplinary research]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=7963</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/09/27/what-it-really-means-to-do-interdisciplinary-research/"/>
-        <updated>2021-09-27T13:04:53.000Z</updated>
-        <summary type="html"><![CDATA[On September 16th, the EPFL-UNIL Collaborative Research on Science and Society (CROSS) program hosted demonstrations of digital tools and proofs-of-concept resulting from recent mobility and digital humanities projects, as well as roundtables on the importance – and challenges – of supporting interdisciplinary research. Interdisciplinary research has become a buzzword in academia, and is frequently used […]
-The post What it really means to do interdisciplinary research appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing: TimeCapsule]]></title>
-        <id>https://medium.com/p/3468a281438b</id>
-        <link href="https://medium.com/pelagios/introducing-timecapsule-3468a281438b?source=rss-f96d74f645aa------2"/>
-        <updated>2021-09-27T12:22:32.000Z</updated>
-        <summary type="html"><![CDATA[TimeCapsule is a project directed by Johanna Drucker at UCLA, Department of Information Studies and Design|Media Arts.]]></summary>
-        <author>
-            <name>Pelagios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collections Published by Trinity College Dublin Library on DRI]]></title>
-        <id>1406 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collections-published-trinity-college-dublin-library-dri"/>
-        <updated>2021-09-27T10:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Trinity College Dublin (TCD) Library recently published three new collections on the Digital Repository of Ireland (DRI) – Papers of Micheal Davitt, J.D. White Collection, and Papers of John Millington Synge.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The battle for Afghanistan’s libraries]]></title>
-        <id>https://www.rluk.ac.uk/?p=10783</id>
-        <link href="https://www.ft.com/content/82fffcc8-3631-48dc-829d-44f237549a59#new_tab"/>
-        <updated>2021-09-27T10:16:27.000Z</updated>
-        <summary type="html"><![CDATA[After Najiba Hussaini was killed in July 2017 by a Taliban suicide bomber, her fiancé-to-be Hussain Rezai decided that the best way to honour her memory would be to found a library in her name. The Najiba Hussaini Memorial Library grew into a collection of more than 12,000 volumes and a computer lab, helping to [...]
-The post The battle for Afghanistan’s libraries appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come talk at the CHR Open Mic :microphone:]]></title>
-        <id>discourse.computational-humanities-research.org-topic-937</id>
-        <link href="https://discourse.computational-humanities-research.org/t/come-talk-at-the-chr-open-mic/937"/>
-        <updated>2021-09-27T08:19:04.000Z</updated>
-        <summary type="html"><![CDATA[This year CHR is hosting an Open Mic session. Presentations at the Open Mic can be on any topic of interest to the CHR community. It doesn’t have to be about published research, but may also be about ongoing research or about something you’ve learned, a particular technique, or an interesting software package, a visualization technique, or whatever you can think of.
-In short, it doesn’t have to be big. If you are hesitant to tell something about X, it’s probably a very good idea to tell something about it! Don’t think that everyone already knows about it (it is very likely that they don’t), that you not expert enough (you undoubtedly know a lot more about it than most), or that your idea is not interesting (it’s probably better than you think).
-Presentations may be up to 4 minutes in length. Slides, videos or other multimedia are encouraged. If you have an idea for a presentation, please sign up below with a brief description of your idea.
-Laden…
-            
-5 posts - 2 participants
-Read full topic]]></summary>
-        <author>
-            <name>folgert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARINi aastakonverents veebis]]></title>
-        <id>34448 at http://digihum.ut.ee</id>
-        <link href="http://digihum.ut.ee/event/clarini-aastakonverents-veebis-0"/>
-        <updated>2021-09-26T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[...
- Loe lähemalt CLARINi aastakonverents veebis kohta]]></summary>
-        <author>
-            <name>a71389</name>
         </author>
     </entry>
 </feed>
