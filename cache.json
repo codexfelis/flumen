@@ -213,15 +213,6 @@
           "publishedOn": "2021-10-06T14:00:00.000Z",
           "wordCount": 305,
           "title": "Data Science Seminar: Digital Humanities – art is not only for humans anymore"
-        },
-        {
-          "id": "34320 at http://digihum.ut.ee",
-          "author": "a71389",
-          "description": "http://dhnb.eu/conferences/dhnb2022/cfp/?fbclid=IwAR0OHQtGPRcuYi1gJPegW-...\n\n Loe lähemalt Digital Humanities in the Nordic and Baltic Countries 2022 teeside tähtaeg kohta",
-          "link": "http://digihum.ut.ee/event/digital-humanities-nordic-and-baltic-countries-2022-teeside-t%C3%A4htaeg",
-          "publishedOn": "2021-09-30T21:00:00.000Z",
-          "wordCount": 134,
-          "title": "Digital Humanities in the Nordic and Baltic Countries 2022 teeside tähtaeg"
         }
       ]
     },
@@ -1438,6 +1429,15 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=10152",
+          "author": "Celia Luterbacher",
+          "description": "Cette édition de l’émission “Dis, pourquoi” de la RTS présente Frédéric Kaplan, membre du dhCentre et directeur du Laboratoire d’humanités digitales de l’EPFL. Chaque semaine, “Dis, Pourquoi ?” avec Lucas Thorens aborder une thématique différente avec l’aide d’un ou une experte. Le 29 mars, Frédéric Kaplan est l’invité de la RTS et parle de la […]\nThe post Frédéric Kaplan parle de la “Culture Internet” sur RTS appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/03/29/frederic-kaplan-parle-de-la-culture-internet-sur-rts/",
+          "publishedOn": "2022-03-29T15:20:22.000Z",
+          "wordCount": 424,
+          "title": "Frédéric Kaplan parle de la “Culture Internet” sur RTS"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=10124",
           "author": "Heloise schibler",
@@ -3101,6 +3101,15 @@
       "siteUrl": "https://digitaldemocracies.org",
       "articles": [
         {
+          "id": "https://digitaldemocracies.org/?p=2207",
+          "author": "Kayla Hilstob",
+          "description": "This was originally posted by by Svitlana Matviyenko on the Institute of Network Cultures blog on March 29, 2022. March 21-29, 2022 On the 33rd day of the Russia-Ukraine war, I continued receiving …\n  Dispatches from the Place of Imminence by Svitlana Matviyenko, part 7 Read More »\nDispatches from the Place of Imminence by Svitlana Matviyenko, part 7 first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-7/?utm_source=rss&utm_medium=rss&utm_campaign=dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-7",
+          "publishedOn": "2022-03-29T21:19:08.000Z",
+          "wordCount": 2125,
+          "title": "Dispatches from the Place of Imminence by Svitlana Matviyenko, part 7"
+        },
+        {
           "id": "https://digitaldemocracies.org/?p=2181",
           "author": "Kayla Hilstob",
           "description": "Stacy Lee Photo This post was written by Ben Scholl, PhD researcher at the DDI, working on the From Hate to Agonism: Fostering Democratic Exchange Online project. Yuan Stevens– LL.M …\n  Yuan Stevens – Markets, Architectures, Norms, or Law? Regulating Automated Face Recognition in Canada Read More »\nYuan Stevens – Markets, Architectures, Norms, or Law? Regulating Automated Face Recognition in Canada first appeared on Digital Democracies Institute.",
@@ -3316,6 +3325,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=7995",
+          "author": "DaigengnaDuoer",
+          "description": "This is a guest post by Udita Das. Jātaka Stories is a free online repository of jātaka tales. Jātakas are …",
+          "link": "https://digitalorientalist.com/2022/03/29/interviewing-dr-naomi-appleton-about-jataka-stories/",
+          "publishedOn": "2022-03-29T13:00:00.000Z",
+          "wordCount": 1127,
+          "title": "Interviewing Dr. Naomi Appleton about Jātaka Stories"
+        },
         {
           "id": "http://digitalorientalist.com/?p=7967",
           "author": "maddalena poli",
@@ -3765,15 +3783,6 @@
           "publishedOn": "2021-10-05T13:00:00.000Z",
           "wordCount": 1276,
           "title": "NRICH: An extensive online resource for Korean cultural heritage"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=6560",
-          "author": "Cornelis van Lit",
-          "description": "The Three Levels of Digital Humanities I wish to sketch out a general framework that should make it easier to …",
-          "link": "https://digitalorientalist.com/2021/10/01/how-to-level-up-in-dh/",
-          "publishedOn": "2021-10-01T13:00:00.000Z",
-          "wordCount": 2653,
-          "title": "How to level up in DH"
         }
       ]
     },
@@ -5030,6 +5039,20 @@
       "feedUrl": "https://review.gale.com/category/digital-humanities/feed",
       "siteUrl": "https://review.gale.com",
       "articles": [
+        {
+          "id": "https://review.gale.com/?p=13309",
+          "author": "Gale Review Team",
+          "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ One of the most significant shifts that has been taking place in humanities research in recent years is the movement towards team-based projects and public scholarship, in contrast to more traditional models of individual scholarship that favour print publication. The teams that form to engage in ... Read more\nThe post Practical Pedagogy with Gale Digital Scholar Lab, Part II: Approaches to Project-Based Teaching and Learning appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2022/03/29/practical-pedagogy-with-gale-digital-scholar-lab-part-ii/?utm_source=rss&utm_medium=rss&utm_campaign=practical-pedagogy-with-gale-digital-scholar-lab-part-ii",
+          "publishedOn": "2022-03-29T09:00:00.000Z",
+          "wordCount": 1798,
+          "title": "Practical Pedagogy with Gale Digital Scholar Lab, Part II: Approaches to Project-Based Teaching and Learning",
+          "enclosure": {
+            "url": "https://review.gale.com/wp-content/uploads/2022/03/03.-Notes-from-a-DH-Correspondent-Mar.png",
+            "length": "1878000",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://review.gale.com/?p=13253",
           "author": "Gale Ambassadors",
@@ -6350,6 +6373,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "3950 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The history of psychiatry is a history of the difference between normality and madness. However, this difference is becoming increasingly fragile. On the one hand, with the unlocking of psychiatric institutions and the social integration of inmates, madness is becoming everyday normality; on the other hand, behavioural and reaction patterns such as rush, stress or attention deficit are pathologised. Thus, established historiographies, based on the traditional dichotomy, loose purchase on this phenomenon. This is the ground assumption of our project: it takes the erosion of the difference between normal and pathological as the central development in dealing with psychic alterity. This phenomenon lacks adequate historical consideration. Our aim is to historicize the interdependent relationship between the history of psychiatry and historiography, and thus to turn it into an instrument of analysis of the perceived erosion.\n \nWednesday, 20 April 2022\n14.00 - 15.00\nHybrid event: C²DH Open Space and online\nIf you want to participate online, please send an e-mail to vanessa.napolitano@uni.lu to receive the link or participate in person by simply coming to the C²DH.\n\n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/logo_research_seminars_content_list.png?itok=r2xDOs_L\n  Research seminar with Benoît Majerus and Samuel Dal Zilio.\n  20 April 2022\n  Contemporary history of Europe\n  Normal#Verrückt. Contemporary history of an eroding difference\n  Archives  History of psychiatry\n  Research seminars\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/insane-contemporary-history-eroding-difference",
+          "publishedOn": "2022-03-29T12:09:54.000Z",
+          "wordCount": 395,
+          "title": "IN#SANE. The contemporary history of an eroding difference"
+        },
+        {
           "id": "3945 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "The first five years of its existence were rich in projects, publications, and events that contributed to establishing the centre as a national reference for research, teaching, and critical debate on the contemporary history of Luxembourg. At the international level, the C²DH has established itself as a global platform for reflection, experimentation, and development in the field of digital history and historiography.\n \nAcadamic session with Prof. Johanna Drucker\nTo mark this special anniversary, we will have the pleasure to welcome Johanna Drucker, Professor of Bibliographical Studies at the University of California, Los Angeles (UCLA) for a talk entitled Value Exchange: Digitizing Cultural Knowledge Systems. Prof Drucker is internationally known for her work in artists’ books, the history of graphic design, typography, experimental poetry, fine art, and digital humanities.\n\n\n \nThis academic session will be followed by a cocktail reception.\n \nWednesday, 25 May 2022 at 17.00\nGrand Auditoire, Maison du Savoir\nUniversity of Luxembourg, Belval Campus\n \nFor organisational reasons, we thank you in advance to register before 10 May at 5years.c2dh@uni.lu.\nSanitary measures may apply depending on the current regulations.\n \n \n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/5_years_full_width.png?itok=SG_yE6x5\n  To mark the centre's 5th anniversary, we have the pleasure to welcome Johanna Drucker for a talk intitled 'Value Exchange: Digitizing Cultural Knowledge Systems'.\n  25 May 2022\n  Published  \n    Hide image in content detail",
@@ -6591,15 +6623,6 @@
           "publishedOn": "2021-10-12T08:28:54.000Z",
           "wordCount": 411,
           "title": "L’accès aux archives publiques en France: retour sur les dernières évolutions"
-        },
-        {
-          "id": "3599 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "This contribution examines the metaphorical means through which political independence was translated into national identity in Luxembourgish literature between 1900 and 1940. It posits that industrialisation provided an aesthetic canvas for literary modernism and illustrates the ways in which the writer and journalist Batty Weber and his contemporaries sought to modernise a dominant ideological attachment to the soil by instituting the sky as the never-fixed embodiment of ideational change. In the arts, industry as a subject was mainly taken up by avant-garde writers, who constructed the industrial light spectacle and billowing smokes as symbols of intellectual progress and supranational cosmopolitan exchange. Through celebrating the replacement of nature by the machine as the triumph of …",
-          "link": "https://www.c2dh.uni.lu/events/aesthetics-smoke-interwar-luxembourgish-literature",
-          "publishedOn": "2021-10-01T08:42:09.000Z",
-          "wordCount": 545,
-          "title": "The Aesthetics of Smoke in Interwar Luxembourgish Literature"
         }
       ]
     },
@@ -7027,15 +7050,6 @@
           "publishedOn": "2021-10-11T15:16:43.000Z",
           "wordCount": 286,
           "title": "Workshop: Data Management for FAIR CMC corpora"
-        },
-        {
-          "id": "5602 at https://www.clarin.eu",
-          "author": "Dieter Van Uytvanck",
-          "description": "Vacancy at CLARIN ERIC: member of the Board of Directors\n\n            \nIntroduction\nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n  ) will have an opening for the position of member of the Board of Directors (20% fte) who will work closely together with the other directors. The appointment will be for a term of two years, with the possibility of prolongation for another term of two years.\nThe mission of CLARIN ERIC is to develop and maintain Europe’s common language resources and technology infrastructure.  At the same time CLARIN serves as an ecosystem for the exchange of knowledge and experience that is crucial for the uptake of CLARIN within the domains in which digital…",
-          "link": "https://www.clarin.eu/news/vacancy-clarin-eric-member-board-directors",
-          "publishedOn": "2021-10-01T08:25:39.000Z",
-          "wordCount": 1015,
-          "title": "Vacancy at CLARIN ERIC: member of the Board of Directors"
         }
       ]
     },
@@ -7044,6 +7058,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1493 at https://www.dri.ie",
+          "author": "bethknazook",
+          "description": "The EOSC Future project has launched the EOSC Platform Early Adopter Programme with C-SCALE, DICE, EGI-ACE, OpenAIRE Nexus, Reliance and ARCHIVER. Research communities and service providers will have unlimited access to EOSC services and expertise. Get the support you need to scale up your research project, advance your institution or broaden the reach of your services via the EOSC platform. Apply now!",
+          "link": "https://www.dri.ie/applications-invited-eosc-platform-early-adopter-programme",
+          "publishedOn": "2022-03-29T16:12:14.000Z",
+          "wordCount": 909,
+          "title": "Applications Invited for the EOSC Platform Early Adopter Programme"
+        },
         {
           "id": "1492 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
@@ -7709,42 +7732,6 @@
           "publishedOn": "2021-10-06T12:00:23.000Z",
           "wordCount": 871,
           "title": "Three new Trinity College Dublin collections in DRI"
-        },
-        {
-          "id": "1412 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "In a new DRI blog, we chat with Eric Ehigie, political coordinator at Black and Irish, about the organisation’s growth since forming in June 2020, their community engagement and collection work, and the role that Black and Irish plays as a platform in shaping what black Irishness looks like.",
-          "link": "https://www.dri.ie/black-and-irish-expanding-irelands-digital-cultural-heritage",
-          "publishedOn": "2021-10-01T16:18:54.000Z",
-          "wordCount": 2516,
-          "title": "Black and Irish - Expanding Ireland's Digital Cultural Heritage"
-        },
-        {
-          "id": "1411 at https://www.dri.ie",
-          "author": "Natalie Harrower",
-          "description": "Our fifth #DRI10 blog reflects on the exhibition and collections building projects DRI has led, and how these contribute to Repository improvements.",
-          "link": "https://www.dri.ie/building-exhibitions-learning-through-doing-dri10",
-          "publishedOn": "2021-10-01T14:15:12.000Z",
-          "wordCount": 1534,
-          "title": "Building Exhibitions: Learning through doing #DRI10"
-        },
-        {
-          "id": "1410 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "In this blog post, historian Mick O'Farrell provides a fascinating overview of the diary of Herbert G Fitzgerald, which contains a 'wonderfully observant' eyewitness account of life during the Easter Rising of 1916. Mick recently transcribed this diary and it is available to researchers for sustained access on the Repository.",
-          "link": "https://www.dri.ie/1916-diary-herbert-g-fitzgerald",
-          "publishedOn": "2021-10-01T10:31:07.000Z",
-          "wordCount": 2890,
-          "title": "‘Ye fearsome death-dealing Monster’ – the 1916 diary of Herbert G Fitzgerald"
-        },
-        {
-          "id": "1409 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "We are pleased to announce that Ireland’s National Open Research Coordinator Dr Daniel Bangert, who is based at the Digital Repository of Ireland (DRI), has been appointed to the EOSC-A Task Force on Research Careers, Recognition, and Credit.",
-          "link": "https://www.dri.ie/dris-dr-daniel-bangert-appointed-eosc-task-force",
-          "publishedOn": "2021-10-01T08:45:24.000Z",
-          "wordCount": 867,
-          "title": "DRI's Dr Daniel Bangert Appointed to EOSC Task Force"
         }
       ]
     },
