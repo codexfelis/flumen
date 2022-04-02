@@ -688,15 +688,6 @@
           "publishedOn": "2021-10-05T13:48:52.000Z",
           "wordCount": 897,
           "title": "“Techno-snitching is definitely a thing” – Kate Devlin interviewed for Wired piece on Amazon Astro robots"
-        },
-        {
-          "id": "https://blogs.kcl.ac.uk/ddh/?p=3169",
-          "author": "Mercedes Bunz",
-          "description": "The Department of Digital Humanities (DDH) currently has opportunities for academics in marking MA dissertations. The dissertations are covering research in areas such as digital platforms and social media, critique of digital economy, digital humanities and digital asset management and are 15,000 words long. The marking is starting now and feedback and marks are due … \nContinue reading \"Looking for academics to help with our MA dissertation marking\"",
-          "link": "https://blogs.kcl.ac.uk/ddh/2021/10/04/looking-for-academics-to-help-with-our-ma-dissertation-marking/",
-          "publishedOn": "2021-10-04T10:30:29.000Z",
-          "wordCount": 282,
-          "title": "Looking for academics to help with our MA dissertation marking"
         }
       ]
     },
@@ -705,6 +696,15 @@
       "feedUrl": "https://caa-international.org/feed",
       "siteUrl": "https://caa-international.org",
       "articles": [
+        {
+          "id": "https://sites.caa-international.org/main/?p=15927",
+          "author": "lisafischer",
+          "description": "Would you like to join or continue being part of CAA’s Peer Review College? Peer reviewers play a vital role in assessing and providing feedback on submissions to the annual conference. Membership in the review college is for a three-year … Continue reading →",
+          "link": "https://caa-international.org/2022/04/01/call-for-peer-reviewers-closes-6-april-2022/",
+          "publishedOn": "2022-04-01T19:25:28.000Z",
+          "wordCount": 219,
+          "title": "Call for Peer Reviewers Closes 6 April 2022"
+        },
         {
           "id": "https://sites.caa-international.org/main/?p=15882",
           "author": "Jeffrey Glover",
@@ -1456,6 +1456,24 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=10191",
+          "author": "Heloise schibler",
+          "description": "L’Institut des Sciences Sociales (ISS) de l’Université de Lausanne met au concours un poste d’assistant·e diplômé·e en statistique pour les sciences sociales. Entrée en fonction : 1er septembre 2022 Vos activités 50% du taux d’activité sera dédié à la réalisation d’une thèse de doctorat. 50% du taux d’activité sera consacré au soutien des tâches d’enseignement […]\nThe post Job: Assistant·e diplômé·e en statistique pour les sciences sociales à l’UNIL appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/04/01/job-assistant%c2%b7e-diplome%c2%b7e-en-statistique-pour-les-sciences-sociales-a-lunil/",
+          "publishedOn": "2022-04-01T10:15:37.000Z",
+          "wordCount": 604,
+          "title": "Job: Assistant·e diplômé·e en statistique pour les sciences sociales à l’UNIL"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=10170",
+          "author": "Heloise schibler",
+          "description": "Afin de renforcer son équipe travaillant en soutien aux chercheur·e·s de l’UNIL, le Service des Ressources Informationnelles et archives de l’Université de Lausanne est à la recherche d’un ou d’une Data steward (spécialiste en gestion des données de la recherche). Entrée en fonction : de suite. Vos activités Apporter soutien, conseil et expertise aux chercheur·es […]\nThe post Job: Data steward (spécialiste en gestion des données de la recherche) à l’UNIL appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/04/01/job-data-steward-specialiste-en-gestion-des-donnees-de-la-recherche-a-lunil/",
+          "publishedOn": "2022-04-01T09:45:07.000Z",
+          "wordCount": 686,
+          "title": "Job: Data steward (spécialiste en gestion des données de la recherche) à l’UNIL"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=10152",
           "author": "Celia Luterbacher",
@@ -2577,6 +2595,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/800",
+          "author": "406",
+          "description": "Die Zentralbibliothek Zürich sucht für den Bereich Bestandsentwicklung eine/n Metadaten-Experten/Expertin\nDie Details zur Ausschreibung finden Sie unter folgendem Link:\nhttps://…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-metadaten-expertenexpertin-gesucht",
+          "publishedOn": "2022-04-01T10:28:12.000Z",
+          "wordCount": 703,
+          "title": "Stellenangebot: Metadaten-Experten/Expertin gesucht"
+        },
+        {
           "id": "node/799",
           "author": "406",
           "description": "Die DHd-AG Digitales Publizieren veranstaltet heute von 15:15–17:00 Uhr im Rahmen der Essener Tagung „Digitales Publizieren und die Qualitätsfrage. Wege für Open Access in den…",
@@ -3088,15 +3115,6 @@
           "publishedOn": "2021-10-05T08:13:22.914Z",
           "wordCount": 1008,
           "title": "Stellenangebot: Data Curator (m/f/d) (E 13, TV-L) Universität Bayreuth"
-        },
-        {
-          "id": "node/720",
-          "author": "406",
-          "description": "An der Universitäts- und Landesbibliotheks Sachsen-Anhalt in Halle(Saale) ist eine Stelle (E13 TV-L, 75%) als IT-Projektmitarbeiterin*IT-Projektmitarbeiter (m-w-d) im Rahmen des…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-it-projektmitarbeiterin-m-w-d-im-bereich-ocr-75-e13-tv-l-hallesaale",
-          "publishedOn": "2021-10-04T15:23:30.631Z",
-          "wordCount": 698,
-          "title": "Stellenangebot: IT-Projektmitarbeiter*in (m-w-d) im Bereich OCR, 75% E13 TV-L (Halle/Saale)"
         }
       ]
     },
@@ -3370,6 +3388,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=7999",
+          "author": "Adrian Plau",
+          "description": "Written by Rosie Maxton. Wellcome Collection comprises close to 1000 Arabic manuscripts, showcasing a vast array of genres, historical periods …",
+          "link": "https://digitalorientalist.com/2022/04/01/exploring-wellcome-collections-karshuni-manuscripts/",
+          "publishedOn": "2022-04-01T13:00:00.000Z",
+          "wordCount": 1282,
+          "title": "Exploring Wellcome Collection’s Karshuni Manuscripts"
+        },
         {
           "id": "http://digitalorientalist.com/?p=7995",
           "author": "DaigengnaDuoer",
@@ -4445,15 +4472,6 @@
           "publishedOn": "2021-10-05T13:54:53.000Z",
           "wordCount": 452,
           "title": "Talk at the Genoa Science Festival"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2654",
-          "author": "Rachele Sprugnoli",
-          "description": "Talk: Computational Approaches to ancient Greek and Latin\nDate: 2nd November 2021, 15:15-16:00\nLocation: Groningen\nLatin Embeddings and the LiLa Knowledge Base of Interlinked Resources for Latin\n\n\nThe post Computational Approaches to ancient Greek and Latin appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/computational-approaches-to-ancient-greek-and-latin/",
-          "publishedOn": "2021-10-04T09:17:29.000Z",
-          "wordCount": 509,
-          "title": "Computational Approaches to ancient Greek and Latin"
         }
       ]
     },
@@ -4605,15 +4623,6 @@
           "publishedOn": "2021-10-05T13:54:53.000Z",
           "wordCount": 452,
           "title": "Talk at the Genoa Science Festival"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2654",
-          "author": "Rachele Sprugnoli",
-          "description": "Talk: Computational Approaches to ancient Greek and Latin\nDate: 2nd November 2021, 15:15-16:00\nLocation: Groningen\nLatin Embeddings and the LiLa Knowledge Base of Interlinked Resources for Latin\n\n\nThe post Computational Approaches to ancient Greek and Latin appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/computational-approaches-to-ancient-greek-and-latin/",
-          "publishedOn": "2021-10-04T09:17:29.000Z",
-          "wordCount": 509,
-          "title": "Computational Approaches to ancient Greek and Latin"
         }
       ]
     },
@@ -5747,6 +5756,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1057",
+          "author": "Leah Budke",
+          "description": "The first meeting of the spring 2022 edition of the DH Virtual Discussion Group for ECRs in Belgium kicked off on Monday 21 March with a presentation from Gianluca Valenti (University of Liège). We had a total of twenty attendees—some new faces and some familiar ones—who all contributed to an engaging conversation about digital humanities.  This session followed our standard format, which opens with a greeting from the organizers, Julie M. Birkholz (KBR and Ghent University), Margherita Fantoli (KU Leuven),...",
+          "link": "https://scholarlytales.hcommons.org/2022/04/01/recap-march-2022-dh-virtual-discussion-group/",
+          "publishedOn": "2022-04-01T08:47:13.000Z",
+          "wordCount": 2058,
+          "title": "Recap: March 2022 DH Virtual Discussion Group"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1049",
           "author": "Laura Mesotten",
@@ -8475,15 +8493,6 @@
           "publishedOn": "2021-10-05T12:30:32.000Z",
           "wordCount": 1223,
           "title": "AHRC-RLUK Professional Practice Fellowship Scheme for academic and research libraries"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=10939",
-          "author": "Melanie Cheung",
-          "description": "The CounterTenor Project is a collaboration between AHRC, RLUK and US-based countertenor Reginald Mobley. It was inspired by a scoping study commissioned by RLUK, in partnership with the AHRC, to explore and celebrate the contribution of academic and research library staff to knowledge creation and research. Published on 30 June 2021, the report is a [...]\nThe post The CounterTenor Project appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/the-countertenor-project/",
-          "publishedOn": "2021-10-04T10:19:55.000Z",
-          "wordCount": 1344,
-          "title": "The CounterTenor Project"
         }
       ]
     },
