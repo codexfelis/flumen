@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-04-03T08:14:48.546Z</updated>
+    <updated>2022-04-04T08:15:33.272Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFDI4Culture-Veranstaltung: Kulturdaten und Datenqualität – offen über Probleme sprechen 2.5.2022]]></title>
+        <id>node/801</id>
+        <link href="https://dig-hum.de/aktuelles/nfdi4culture-veranstaltung-kulturdaten-und-datenqualit%C3%A4t-%E2%80%93-offen-%C3%BCber-probleme-sprechen"/>
+        <updated>2022-04-03T15:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Am 2.5.2022 lädt das Team Standards, Datenqualität und Kuratierung (Task Area 2) des Konsortiums NFDI4Culture von 10-15 Uhr zu seiner zweiten öffentlichen, digitalen…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrate Whitney Trettien’s first book, Cut/Copy/Paste]]></title>
         <id>1153 at https://pricelab.sas.upenn.edu</id>
@@ -11099,76 +11109,6 @@ The post Job: FORS Project Manager appeared first on dhcenter.]]></summary>
         <summary type="html"><![CDATA[We present a dataset of named entities in three languages: Medieval Latin, Middle High German and Old Norse. The dataset, containing proper nouns of persons and places, was originally created to extract characters from three related medieval texts. Since the annotation is on low-resource pre-modern languages, they may be important to build named-entity recognition tools for languages with little data and high linguistic variation. Published on 2021-10-06 10:29:50]]></summary>
         <author>
             <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Seminar: Digital Humanities – art is not only for humans anymore]]></title>
-        <id>34557 at http://digihum.ut.ee</id>
-        <link href="http://digihum.ut.ee/event/data-science-seminar-digital-humanities-%E2%80%93-art-not-only-humans-anymore"/>
-        <updated>2021-10-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asukoht: 
-
-University of Tartu Delta Centre, room 1037
-
-
-
-Speakers: 
-
-
-
-	• Anna Mischenko (AI_NORN): AI_NORN – programming robots as an art
-
-
-
-	• Eduard Barbu (UniTartuCS): Devices to compute human creativity
-
-
-
-	• Anna Aljanaki (UniTartuCS): Let there be music: when AI learns to compose...
- Loe lähemalt Data Science Seminar: Digital Humanities – art is not only for humans anymore kohta]]></summary>
-        <author>
-            <name>a71389</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three new Trinity College Dublin collections in DRI]]></title>
-        <id>1413 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/three-new-tcd-collections-dri"/>
-        <updated>2021-10-06T12:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Trinity College Dublin (TCD) Library recently published three new collections in DRI: the Oscar Wilde Collection; the Hardiman Atlas; and the Papers of Major Richard William George Hingston.]]></summary>
-        <author>
-            <name>Deborah Thorpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event: DH Virtual Discussion Group for ECRs in Belgium]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=824</id>
-        <link href="https://scholarlytales.hcommons.org/2021/10/06/event-dh-virtual-discussion-group-for-ecrs-in-belgium/"/>
-        <updated>2021-10-06T11:54:12.000Z</updated>
-        <summary type="html"><![CDATA[Are you a Digital Humanities student or early career researcher in Belgium who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual Discussion Group for ECRs! This series is jointly organized by the KU Leuven Libraries Artes DH Commons and the Ghent Centre for Digital Humanities. This Fall 2021 edition follows a successful first year of the series and marks the third edition.   While the last year and a half has proved challenging for so many of us in diverse ways, the DH...]]></summary>
-        <author>
-            <name>Leah Budke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint statement on access to e-book and e-textbook content]]></title>
-        <id>https://www.rluk.ac.uk/?p=11060</id>
-        <link href="https://www.rluk.ac.uk/joint-statement-on-access-to-e-book-and-e-textbook-content/"/>
-        <updated>2021-10-06T10:54:21.000Z</updated>
-        <summary type="html"><![CDATA[RLUK has joined with a wide range of sector bodies and groups in endorsing a joint statement and position paper calling for affordable pricing models for e-books and e-textbooks. Economic and technological changes in the current publishing market have led to libraries being increasingly excluded from, or priced out of, providing e-books and e-textbooks for [...]
-The post Joint statement on access to e-book and e-textbook content appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early steps in digitally mapping Pausanias’s Description of Greece]]></title>
-        <id>https://medium.com/p/26de8775f8f4</id>
-        <link href="https://medium.com/@PelagiosNetwork/early-steps-in-digitally-mapping-pausaniass-description-of-greece-26de8775f8f4?source=rss-f96d74f645aa------2"/>
-        <updated>2021-10-06T08:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Sometime in the second century CE, Pausanias of Magnesia wrote the Periegesis Hellados (). Representing a unique deep dive into ancient…]]></summary>
-        <author>
-            <name>Pelagios</name>
         </author>
     </entry>
 </feed>
