@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-04-04T08:15:33.272Z</updated>
+    <updated>2022-04-05T08:16:14.579Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call For 2022-23 ADHO Conference Coordinating Committee Fellow]]></title>
+        <id>588890 at https://adho.org</id>
+        <link href="https://adho.org/announcements/2022/call-2022-23-adho-conference-coordinating-committee-fellow"/>
+        <updated>2022-04-04T16:37:24.000Z</updated>
+        <summary type="html"><![CDATA[2022-23 ADHO Conference Coordinating Committee Fellow
+The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for a Conference Coordinating Committee (CCC) Fellow - a position that comes with a stipend of The CCC Fellow €500 (Euros). The Fellow will work with the three members of the Conference Coordinating Committee, as well as more broadly with various members of the international ADHO community, to structure and disseminate information about the mechanisms involved with organizing the ADHO conferences.
+The fellow should anticipate spending approximately 3-4 hours per week on the position. The fellowship is well suited for graduate students, young scholars, and academic professionals who wish to develop deeper knowledge of digital humanities and its global communities, c…]]></summary>
+        <author>
+            <name>erdal.ayan@dhturkey.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Collection: Waterford City Maps]]></title>
+        <id>1496 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/new-collection-waterford-city-maps"/>
+        <updated>2022-04-04T14:10:37.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that the Waterford City Maps Collection is now available through the Repository. This collection, which has been made available by Waterford City and County Council, consists of seven high definition, highly detailed maps of the city environs that date from the late seventeenth century to the beginning of the twentieth century.]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blogpost zur Gründung der neuen DHd-AG &quot;Greening DH&quot; veröffentlicht]]></title>
+        <id>node/802</id>
+        <link href="https://dig-hum.de/aktuelles/blogpost-zur-gr%C3%BCndung-der-neuen-dhd-ag-greening-dh-ver%C3%B6ffentlicht"/>
+        <updated>2022-04-04T13:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Der Titel des Blogpostes lautet:
+"Green, greening, greener: launching German-speaking #GreeningDH at the DHd 2022 annual conference"
+Zum Blogpost geht es hier: https://dhd-blog.…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NORF Launches National Action Plan for Open Research Consultation]]></title>
+        <id>1495 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/norf-launches-national-action-plan-open-research-consultation"/>
+        <updated>2022-04-04T10:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Ireland’s National Open Research Forum (NORF) has developed a National Action Plan for Open Research that outlines objectives and actions for the next chapter in Ireland’s transition towards open research.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Data Management Training – KU Leuven Research Coordination Office]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1062</id>
+        <link href="https://scholarlytales.hcommons.org/2022/04/04/research-data-management-training-ku-leuven-research-coordination-office/"/>
+        <updated>2022-04-04T09:36:43.000Z</updated>
+        <summary type="html"><![CDATA[On Tuesday 19 April 2022 (15h-17h CEST), the KU Leuven Research Coordination Office (DOC) will be offering a training on incorporating FAIR data principles into a data management plan (DMP). The FAIR data principles outline key practices related to data management, which ensure that research data and outputs are Findable, Accessible, Interoperable, and Reusable. This training is useful for all researchers, but particularly for those who are carrying out a research project funded by the European Commission (Horizon Europe, MSCA,...]]></summary>
+        <author>
+            <name>Leah Budke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFDI4Culture-Veranstaltung: Kulturdaten und Datenqualität – offen über Probleme sprechen 2.5.2022]]></title>
         <id>node/801</id>
@@ -11033,82 +11087,6 @@ The post CFP – Digital Humanities 2022: “Responding to Asian Diversity” ap
         <summary type="html"><![CDATA[From the announcement: The Open Scholarship Librarian is a critical member of the Libraries’ Digital and Open Scholarship Team, situated within the Department of Research and Scholarship. The Open Scholarship Librarian will collaborate with internal and external partners to create and maintain policies and workflows relating to publishing and dissemination of scholarship. This role involves ...read more]]></summary>
         <author>
             <name>Caitlin Christian-Lamb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isaac Pante dans Allez Savoir! : Transgresser les limites]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=8196</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/10/07/transgresser-les-limites/"/>
-        <updated>2021-10-07T14:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Le magazine de l’UNIL Allez Savoir ! a publié, dans son dernier numéro, un portrait d’Isaac Pante, directeur scientifique (UNIL) du dhCenter UNIL-EPFL. Chercheur et écrivain, Isaac Pante n’aime pas s’enfermer dans un cadre. Spécialiste en cultures et éditions numériques, il ose sans cesse le pas de côté qui ouvre l’imagination et le champ des possibles. […]
-The post Isaac Pante dans Allez Savoir! : Transgresser les limites appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isaac Pante dans Allez Savoir! : Transgresser les limites]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=8196</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/10/07/transgresser-les-limites/"/>
-        <updated>2021-10-07T14:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Le magazine de l’UNIL Allez Savoir ! a publié, dans son dernier numéro, un portrait d’Isaac Pante, directeur scientifique (UNIL) du dhCenter UNIL-EPFL. Chercheur et écrivain, Isaac Pante n’aime pas s’enfermer dans un cadre. Spécialiste en cultures et éditions numériques, il ose sans cesse le pas de côté qui ouvre l’imagination et le champ des possibles. […]
-The post Isaac Pante dans Allez Savoir! : Transgresser les limites appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job UNIL : Chercheur·euse FNS junior dans la recherche en sciences sociales]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=8183</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/10/07/job-unil-chercheur%c2%b7euse-fns-junior-dans-la-recherche-en-sciences-sociales/"/>
-        <updated>2021-10-07T13:55:52.000Z</updated>
-        <summary type="html"><![CDATA[L’Institut des sciences sociales (ISS) de l’Université de Lausanne met au concours un poste de chercheur·euse FNS junior pour un projet financé par le Fonds National Suisse de la recherche scientifique: « Relocating Machine Intelligence : Trusting, Teaching and Tinkering with Robots at School » (ROBOTRUST- Des robots à l’école à l’intelligence des machines ? […]
-The post Job UNIL : Chercheur·euse FNS junior dans la recherche en sciences sociales appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job UNIL : Chercheur·euse FNS junior dans la recherche en sciences sociales]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=8183</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/10/07/job-unil-chercheur%c2%b7euse-fns-junior-dans-la-recherche-en-sciences-sociales/"/>
-        <updated>2021-10-07T13:55:52.000Z</updated>
-        <summary type="html"><![CDATA[L’Institut des sciences sociales (ISS) de l’Université de Lausanne met au concours un poste de chercheur·euse FNS junior pour un projet financé par le Fonds National Suisse de la recherche scientifique: « Relocating Machine Intelligence : Trusting, Teaching and Tinkering with Robots at School » (ROBOTRUST- Des robots à l’école à l’intelligence des machines ? […]
-The post Job UNIL : Chercheur·euse FNS junior dans la recherche en sciences sociales appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job: FORS Project Manager]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=8169</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/10/07/job-fors-project-manager/"/>
-        <updated>2021-10-07T09:03:47.000Z</updated>
-        <summary type="html"><![CDATA[FORS, the Swiss Centre of Expertise in the Social Sciences, implements large-scale national and international surveys, offers data and research information services to researchers and academic institutions, and conducts methodological and thematic research. FORS acquires, documents, preserves and disseminates high quality quantitative and qualitative data and research information in conformity with national and international standards. […]
-The post Job: FORS Project Manager appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job: FORS Project Manager]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=8169</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/10/07/job-fors-project-manager/"/>
-        <updated>2021-10-07T09:03:47.000Z</updated>
-        <summary type="html"><![CDATA[FORS, the Swiss Centre of Expertise in the Social Sciences, implements large-scale national and international surveys, offers data and research information services to researchers and academic institutions, and conducts methodological and thematic research. FORS acquires, documents, preserves and disseminates high quality quantitative and qualitative data and research information in conformity with national and international standards. […]
-The post Job: FORS Project Manager appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Named-Entity Dataset for Medieval Latin, Middle High German and Old Norse]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.36</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.36"/>
-        <updated>2021-10-07T08:13:19.558Z</updated>
-        <summary type="html"><![CDATA[We present a dataset of named entities in three languages: Medieval Latin, Middle High German and Old Norse. The dataset, containing proper nouns of persons and places, was originally created to extract characters from three related medieval texts. Since the annotation is on low-resource pre-modern languages, they may be important to build named-entity recognition tools for languages with little data and high linguistic variation. Published on 2021-10-06 10:29:50]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
         </author>
     </entry>
 </feed>
