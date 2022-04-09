@@ -2220,24 +2220,6 @@
           "publishedOn": "2021-10-12T09:28:07.000Z",
           "wordCount": 286,
           "title": "Les œuvres d’art digitales, un mouvement durable?"
-        },
-        {
-          "id": "https://new.dhcenter-unil-epfl.ch/?p=8092",
-          "author": "Celia Luterbacher",
-          "description": "As a visiting scholar in the EPFL College of Humanities (CDH) for the academic year 2021/22, humanities and digital technologies researcher Pierre Mounier will try to answer the question of how to design and manage digital infrastructures that are both open and sustainable. Pierre Mounier, a research engineer at the École des hautes études en […]\nThe post EPFL CDH visiting scholar to investigate digital infrastructures appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/10/11/epfl-cdh-visiting-scholar-to-investigate-digital-infrastructures/",
-          "publishedOn": "2021-10-11T14:43:14.000Z",
-          "wordCount": 920,
-          "title": "EPFL CDH visiting scholar to investigate digital infrastructures"
-        },
-        {
-          "id": "https://new.dhcenter-unil-epfl.ch/?p=8092",
-          "author": "Celia Luterbacher",
-          "description": "As a visiting scholar in the EPFL College of Humanities (CDH) for the academic year 2021/22, humanities and digital technologies researcher Pierre Mounier will try to answer the question of how to design and manage digital infrastructures that are both open and sustainable. Pierre Mounier, a research engineer at the École des hautes études en […]\nThe post EPFL CDH visiting scholar to investigate digital infrastructures appeared first on dhcenter.",
-          "link": "https://new.dhcenter-unil-epfl.ch/en/2021/10/11/epfl-cdh-visiting-scholar-to-investigate-digital-infrastructures/",
-          "publishedOn": "2021-10-11T14:43:14.000Z",
-          "wordCount": 925,
-          "title": "EPFL CDH visiting scholar to investigate digital infrastructures"
         }
       ]
     },
@@ -2245,7 +2227,17 @@
       "title": "centerNet",
       "feedUrl": "https://dhcenternet.org/rss.xml",
       "siteUrl": "https://dhcenternet.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "1196089 at https://dhcenternet.org",
+          "author": "kdalziel2@unl.edu",
+          "description": "Day of DH Announcement\nDay of DH 2022 will take place on April 28, 2022. Centers and individuals are encouraged to use the hashtags #DayofDH2022 or #DiversityinDH on Twitter or Instagram.\nThis year, digital humanists are encouraged to communicate what they do on Twitter, to share with the global community more about the people behind DH projects, data, and collaborations, and to organize events that bring our local communities together. We are adopting the theme of “the diversity of DH.” We define diversity broadly, to recognize unique global and local accents of DH, to raise visibility of multilingual and non-western DH, and to showcase the multitude of interdisciplinary topics, methods and approaches that connect our communities. We look forward to the variety of events that interpret th…",
+          "link": "https://dhcenternet.org/initiatives/day-of-dh/2022",
+          "publishedOn": "2022-04-08T19:42:37.000Z",
+          "wordCount": 859,
+          "title": "Day of DH 2022"
+        }
+      ]
     },
     {
       "title": "DHLab",
@@ -2998,6 +2990,15 @@
       "siteUrl": "https://digital-history.uni-bielefeld.de",
       "articles": [
         {
+          "id": "https://digital-history.uni-bielefeld.de/?p=673",
+          "author": "Adrian Strothotte",
+          "description": "Die Bielefelder Digital Academy lädt auch 2022 wieder ein, in die Welt digitaler Arbeitstechniken einzutauchen und den persönlichen Werkzeugkasten zu erweitern. Der Schwerpunkt liegt dieses Jahr auf dem digitalen Annotieren von Texten im Bereich der Geisteswissenschaften. Das Team @BieDigital freut sich auf anregende Projekte von Interessierten und Forschenden (M.A.-Studierende im fortgeschrittenen Studium, M.A., PhD, Post…",
+          "link": "https://digital-history.uni-bielefeld.de/2022/04/08/digital-academy-2022-call-for-participation-jetzt-online/",
+          "publishedOn": "2022-04-08T09:38:29.000Z",
+          "wordCount": 301,
+          "title": "Digital Academy 2022 – Call for Participation jetzt online"
+        },
+        {
           "id": "https://digital-history.uni-bielefeld.de/?p=489",
           "author": "Adrian Strothotte",
           "description": "Die AG Annotation steigt ins Vergleichen ein wie, womit und vor allem welche Vergleichspraktiken lassen sich mithilfe des Computers analysieren? Diesen Fragen geht die neue Arbeitsgruppe Annotation nach, die sich am 26.10.2021 von 15 bis 16 Uhr online konstituiert. Das Treffen schließt an den CATMA 6 Workshop am selben Tag vormittags an. Wir planen, den…",
@@ -3262,6 +3263,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=8055",
+          "author": "So Miyagawa",
+          "description": "This time, I (So Miyagawa) decided to interview Arbaab, who is making Sawarda Nubian, an Old Nubian script based font, …",
+          "link": "https://digitalorientalist.com/2022/04/08/making-a-unicode-font-for-the-nubian-language-revitalization-movement/",
+          "publishedOn": "2022-04-08T14:00:00.000Z",
+          "wordCount": 1635,
+          "title": "Making a Unicode Font for the Nubian Language Revitalization Movement"
+        },
         {
           "id": "http://digitalorientalist.com/?p=8037",
           "author": "James Harry Morris",
@@ -5360,54 +5370,6 @@
           "enclosure": {
             "url": "https://assets.pubpub.org/b8tqfegr/31636488598946.png"
           }
-        },
-        {
-          "id": "30abd624-1a7f-40e8-854d-7dd898671201",
-          "author": "Michael J. Kramer",
-          "description": "A review of Connections in Sound, a project exploring Irish fieldwork audio and metadata, directed by Patrick Egan",
-          "link": "https://reviewsindh.pubpub.org/pub/connections-in-sound",
-          "publishedOn": "2021-10-11T00:00:00.000Z",
-          "wordCount": 1172,
-          "title": "Review: Connections in Sound",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/8utk451v/11633623846010.png"
-          }
-        },
-        {
-          "id": "ba3e6953-7273-484a-996f-6b01f1d09e22",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the October 2021 issue of Reviews in Digital Humanities, guest edited by Mary Caton Lingold",
-          "link": "https://reviewsindh.pubpub.org/pub/editors-note-october-2021",
-          "publishedOn": "2021-10-11T00:00:00.000Z",
-          "wordCount": 1755,
-          "title": "Editors' Note: October 2021",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/saje79qk/61633627151341.png"
-          }
-        },
-        {
-          "id": "f568bfc8-0d03-441e-bafd-d8c3d65b53df",
-          "author": "Craig Breaden",
-          "description": "A review of AudiAnnotate, a tool for annotating audio files, directed by Tanya Clement, Ben Brumfield, and Sara Brumfield",
-          "link": "https://reviewsindh.pubpub.org/pub/audiannotate",
-          "publishedOn": "2021-10-11T00:00:00.000Z",
-          "wordCount": 1276,
-          "title": "Review: AudiAnnotate",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/4hknw6y1/21633624741527.png"
-          }
-        },
-        {
-          "id": "39c6fe36-bda3-4594-ad29-edb1bf34670d",
-          "author": "Imani Mosley",
-          "description": "A review of AudibleRVA, a project featuring soundscapes of Richmond, Virginia, directed by Andy McGraw",
-          "link": "https://reviewsindh.pubpub.org/pub/audiblerva",
-          "publishedOn": "2021-10-11T00:00:00.000Z",
-          "wordCount": 1083,
-          "title": "Review: AudibleRVA",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/jtfnv3tz/51633626201320.png"
-          }
         }
       ]
     },
@@ -7041,15 +7003,6 @@
           "publishedOn": "2021-10-21T13:31:58.000Z",
           "wordCount": 224,
           "title": "CLARIN Newsflash 2021 is out!"
-        },
-        {
-          "id": "5604 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "Workshop: Data Management for FAIR CMC corpora\n\n            \nThe virtual workshop 'Data Management for FAIR CMC Corpora' is held in conjunction with the CMC corpora 2021 conference. The workshop, organised with the support of CLARIN, will be held on Wednesday 27 October (the day before the conference) and will detail important aspects of data management as it applies to CMC corpora, for example, how data should be collected, which metadata to record, which data formats are advisable, and which legal concerns need to be considered when CMC corpora are supposed to be Findable, Accessible, Interoperable and Reusable at the end of a project. The workshop is aimed at early career researchers or researchers who are about to start a new project in the field of CMC corpora. Read More\nDetails\nDate: 27 October 2021\nTime: 10:00 - 16:00 (CEST)\nVenue: CLARIN virtual Zoom meeting\nRegistration\n \n\n \n\n      Elisa Gorgaini\n 11 October 2021",
-          "link": "https://www.clarin.eu/news/workshop-data-management-fair-cmc-corpora",
-          "publishedOn": "2021-10-11T15:16:43.000Z",
-          "wordCount": 286,
-          "title": "Workshop: Data Management for FAIR CMC corpora"
         }
       ]
     },
@@ -7059,6 +7012,15 @@
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
         {
+          "id": "1499 at https://www.dri.ie",
+          "author": "Natalie Harrower",
+          "description": "Consider applying if you have a project you think deserves recognition.",
+          "link": "https://www.dri.ie/nominations-are-open-2022-digital-preservation-awards",
+          "publishedOn": "2022-04-08T14:19:30.000Z",
+          "wordCount": 882,
+          "title": "Nominations are open for the 2022 Digital Preservation Awards"
+        },
+        {
           "id": "1498 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
           "description": "In March DRI provided training at an Archives and Records Association (ARA) Ireland event which was a great opportunity to learn more about their organisation. In this interview we hear from ARA Ireland Training Officer, Steven Skeldon.",
@@ -7066,6 +7028,15 @@
           "publishedOn": "2022-04-07T09:39:46.000Z",
           "wordCount": 1441,
           "title": "DRI Blog: Q&A with ARA Ireland Training Officer, Steven Skeldon"
+        },
+        {
+          "id": "1497 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "We are pleased to announce that the Digital Repository of Ireland (DRI) has become a member of the Northern Ireland Museums Council (NIMC). NIMC is the lead body supporting local museums across Northern Ireland.",
+          "link": "https://www.dri.ie/dri-joins-northern-ireland-museum-council",
+          "publishedOn": "2022-04-07T09:04:44.000Z",
+          "wordCount": 821,
+          "title": "DRI Joins Northern Ireland Museums Council"
         },
         {
           "id": "1496 at https://www.dri.ie",
@@ -7723,15 +7694,6 @@
           "publishedOn": "2021-10-12T09:01:10.000Z",
           "wordCount": 1438,
           "title": "The Launch of DRI’s Membership Model #DRI10"
-        },
-        {
-          "id": "1418 at https://www.dri.ie",
-          "author": "Deborah Thorpe",
-          "description": "Date: \n\n4 Nov 2021\n\n\nLocation: \n\nZoom\n\n\n\nA DRI webinar that will introduce the EU Copyright Directive, led by Ariadna Matas of the Europeana Foundation.",
-          "link": "https://www.dri.ie/dri-webinar-eu-copyright-directive",
-          "publishedOn": "2021-10-11T09:09:20.000Z",
-          "wordCount": 707,
-          "title": "DRI Webinar: The EU Copyright Directive"
         }
       ]
     },
@@ -8027,15 +7989,6 @@
           "publishedOn": "2021-11-09T07:18:04.000Z",
           "wordCount": 819,
           "title": "IIU investigating death of man arrested on Osborne last week"
-        },
-        {
-          "id": "11806 at https://www.force11.org",
-          "author": "Danny Kingsley",
-          "description": "[This is the script of the talk I gave to the Frankfurt Conference on ‘Publishing Trends’ – Academic Publishing Track (Monday 11 October)]\nHello, I am speaking to you from Yuggera Country (known as Brisbane) in Australia and pay my respects to the traditional indigenous owners of the land. It is 11.30pm here.\nToday I am going to talk about how the open access community is not singing from the same song sheet, by talking about my lived experience of open across two hemispheres. As you can hear I have an Australian accent, but between 2015 – 2019 I worked at Cambridge University as the Deputy Director of the Libraries with responsibility for Scholarly Communication and Research Services. My time there coincided with a huge upheaval as the Finch Report and subsequent Research Councils UK and …",
-          "link": "https://www.force11.org/blog/its-matter-time-talk-frankfurt-conference-2021",
-          "publishedOn": "2021-10-11T14:35:15.000Z",
-          "wordCount": 1941,
-          "title": "“It’s a matter of time” - talk for Frankfurt Conference 2021"
         }
       ]
     },

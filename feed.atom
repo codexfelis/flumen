@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-04-08T08:15:23.185Z</updated>
+    <updated>2022-04-09T08:14:51.425Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Day of DH 2022]]></title>
+        <id>1196089 at https://dhcenternet.org</id>
+        <link href="https://dhcenternet.org/initiatives/day-of-dh/2022"/>
+        <updated>2022-04-08T19:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Day of DH Announcement
+Day of DH 2022 will take place on April 28, 2022. Centers and individuals are encouraged to use the hashtags #DayofDH2022 or #DiversityinDH on Twitter or Instagram.
+This year, digital humanists are encouraged to communicate what they do on Twitter, to share with the global community more about the people behind DH projects, data, and collaborations, and to organize events that bring our local communities together. We are adopting the theme of “the diversity of DH.” We define diversity broadly, to recognize unique global and local accents of DH, to raise visibility of multilingual and non-western DH, and to showcase the multitude of interdisciplinary topics, methods and approaches that connect our communities. We look forward to the variety of events that interpret th…]]></summary>
+        <author>
+            <name>kdalziel2@unl.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nominations are open for the 2022 Digital Preservation Awards]]></title>
+        <id>1499 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/nominations-are-open-2022-digital-preservation-awards"/>
+        <updated>2022-04-08T14:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Consider applying if you have a project you think deserves recognition.]]></summary>
+        <author>
+            <name>Natalie Harrower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Unicode Font for the Nubian Language Revitalization Movement]]></title>
+        <id>http://digitalorientalist.com/?p=8055</id>
+        <link href="https://digitalorientalist.com/2022/04/08/making-a-unicode-font-for-the-nubian-language-revitalization-movement/"/>
+        <updated>2022-04-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This time, I (So Miyagawa) decided to interview Arbaab, who is making Sawarda Nubian, an Old Nubian script based font, …]]></summary>
+        <author>
+            <name>So Miyagawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Academy 2022 – Call for Participation jetzt online]]></title>
+        <id>https://digital-history.uni-bielefeld.de/?p=673</id>
+        <link href="https://digital-history.uni-bielefeld.de/2022/04/08/digital-academy-2022-call-for-participation-jetzt-online/"/>
+        <updated>2022-04-08T09:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Die Bielefelder Digital Academy lädt auch 2022 wieder ein, in die Welt digitaler Arbeitstechniken einzutauchen und den persönlichen Werkzeugkasten zu erweitern. Der Schwerpunkt liegt dieses Jahr auf dem digitalen Annotieren von Texten im Bereich der Geisteswissenschaften. Das Team @BieDigital freut sich auf anregende Projekte von Interessierten und Forschenden (M.A.-Studierende im fortgeschrittenen Studium, M.A., PhD, Post…]]></summary>
+        <author>
+            <name>Adrian Strothotte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Humanities Commons: More than a Scholarly Network for Humanists]]></title>
         <id>https://scholarlytales.hcommons.org/?p=1069</id>
@@ -66,6 +108,16 @@ The guidelines have been published in a special issue of The Journal of Cultural
         <link href="https://www.dri.ie/dri-blog-qa-ara-ireland-training-officer-steven-skeldon"/>
         <updated>2022-04-07T09:39:46.000Z</updated>
         <summary type="html"><![CDATA[In March DRI provided training at an Archives and Records Association (ARA) Ireland event which was a great opportunity to learn more about their organisation. In this interview we hear from ARA Ireland Training Officer, Steven Skeldon.]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Joins Northern Ireland Museums Council]]></title>
+        <id>1497 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-joins-northern-ireland-museum-council"/>
+        <updated>2022-04-07T09:04:44.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce that the Digital Repository of Ireland (DRI) has become a member of the Northern Ireland Museums Council (NIMC). NIMC is the lead body supporting local museums across Northern Ireland.]]></summary>
         <author>
             <name>l.griffith@ria.ie</name>
         </author>
@@ -11011,125 +11063,6 @@ Veuillez envoyer un mail à vanessa.napolitano@uni.lu pour recevoir le lien.
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop: Data Management for FAIR CMC corpora]]></title>
-        <id>5604 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/workshop-data-management-fair-cmc-corpora"/>
-        <updated>2021-10-11T15:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Workshop: Data Management for FAIR CMC corpora
-
-            
-The virtual workshop 'Data Management for FAIR CMC Corpora' is held in conjunction with the CMC corpora 2021 conference. The workshop, organised with the support of CLARIN, will be held on Wednesday 27 October (the day before the conference) and will detail important aspects of data management as it applies to CMC corpora, for example, how data should be collected, which metadata to record, which data formats are advisable, and which legal concerns need to be considered when CMC corpora are supposed to be Findable, Accessible, Interoperable and Reusable at the end of a project. The workshop is aimed at early career researchers or researchers who are about to start a new project in the field of CMC corpora. Read More
-Details
-Date: 27 October 2021
-Time: 10:00 - 16:00 (CEST)
-Venue: CLARIN virtual Zoom meeting
-Registration
- 
-
- 
-
-      Elisa Gorgaini
- 11 October 2021]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPFL CDH visiting scholar to investigate digital infrastructures]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=8092</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/10/11/epfl-cdh-visiting-scholar-to-investigate-digital-infrastructures/"/>
-        <updated>2021-10-11T14:43:14.000Z</updated>
-        <summary type="html"><![CDATA[As a visiting scholar in the EPFL College of Humanities (CDH) for the academic year 2021/22, humanities and digital technologies researcher Pierre Mounier will try to answer the question of how to design and manage digital infrastructures that are both open and sustainable. Pierre Mounier, a research engineer at the École des hautes études en […]
-The post EPFL CDH visiting scholar to investigate digital infrastructures appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPFL CDH visiting scholar to investigate digital infrastructures]]></title>
-        <id>https://new.dhcenter-unil-epfl.ch/?p=8092</id>
-        <link href="https://new.dhcenter-unil-epfl.ch/en/2021/10/11/epfl-cdh-visiting-scholar-to-investigate-digital-infrastructures/"/>
-        <updated>2021-10-11T14:43:14.000Z</updated>
-        <summary type="html"><![CDATA[As a visiting scholar in the EPFL College of Humanities (CDH) for the academic year 2021/22, humanities and digital technologies researcher Pierre Mounier will try to answer the question of how to design and manage digital infrastructures that are both open and sustainable. Pierre Mounier, a research engineer at the École des hautes études en […]
-The post EPFL CDH visiting scholar to investigate digital infrastructures appeared first on dhcenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“It’s a matter of time” - talk for Frankfurt Conference 2021]]></title>
-        <id>11806 at https://www.force11.org</id>
-        <link href="https://www.force11.org/blog/its-matter-time-talk-frankfurt-conference-2021"/>
-        <updated>2021-10-11T14:35:15.000Z</updated>
-        <summary type="html"><![CDATA[[This is the script of the talk I gave to the Frankfurt Conference on ‘Publishing Trends’ – Academic Publishing Track (Monday 11 October)]
-Hello, I am speaking to you from Yuggera Country (known as Brisbane) in Australia and pay my respects to the traditional indigenous owners of the land. It is 11.30pm here.
-Today I am going to talk about how the open access community is not singing from the same song sheet, by talking about my lived experience of open across two hemispheres. As you can hear I have an Australian accent, but between 2015 – 2019 I worked at Cambridge University as the Deputy Director of the Libraries with responsibility for Scholarly Communication and Research Services. My time there coincided with a huge upheaval as the Finch Report and subsequent Research Councils UK and …]]></summary>
-        <author>
-            <name>Danny Kingsley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Webinar: The EU Copyright Directive]]></title>
-        <id>1418 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-webinar-eu-copyright-directive"/>
-        <updated>2021-10-11T09:09:20.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-4 Nov 2021
-
-
-Location: 
-
-Zoom
-
-
-
-A DRI webinar that will introduce the EU Copyright Directive, led by Ariadna Matas of the Europeana Foundation.]]></summary>
-        <author>
-            <name>Deborah Thorpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Connections in Sound]]></title>
-        <id>30abd624-1a7f-40e8-854d-7dd898671201</id>
-        <link href="https://reviewsindh.pubpub.org/pub/connections-in-sound"/>
-        <updated>2021-10-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Connections in Sound, a project exploring Irish fieldwork audio and metadata, directed by Patrick Egan]]></summary>
-        <author>
-            <name>Michael J. Kramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors' Note: October 2021]]></title>
-        <id>ba3e6953-7273-484a-996f-6b01f1d09e22</id>
-        <link href="https://reviewsindh.pubpub.org/pub/editors-note-october-2021"/>
-        <updated>2021-10-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the October 2021 issue of Reviews in Digital Humanities, guest edited by Mary Caton Lingold]]></summary>
-        <author>
-            <name>Roopika Risam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: AudiAnnotate]]></title>
-        <id>f568bfc8-0d03-441e-bafd-d8c3d65b53df</id>
-        <link href="https://reviewsindh.pubpub.org/pub/audiannotate"/>
-        <updated>2021-10-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of AudiAnnotate, a tool for annotating audio files, directed by Tanya Clement, Ben Brumfield, and Sara Brumfield]]></summary>
-        <author>
-            <name>Craig Breaden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: AudibleRVA]]></title>
-        <id>39c6fe36-bda3-4594-ad29-edb1bf34670d</id>
-        <link href="https://reviewsindh.pubpub.org/pub/audiblerva"/>
-        <updated>2021-10-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of AudibleRVA, a project featuring soundscapes of Richmond, Virginia, directed by Andy McGraw]]></summary>
-        <author>
-            <name>Imani Mosley</name>
         </author>
     </entry>
 </feed>
