@@ -643,33 +643,6 @@
           "publishedOn": "2021-10-20T12:46:32.000Z",
           "wordCount": 1994,
           "title": "CfP for Special Issue “Interdisciplinary Perspectives on Digital Experiment in Museology and Museum Design” of Herança Journal"
-        },
-        {
-          "id": "https://blogs.kcl.ac.uk/ddh/?p=3207",
-          "author": "Jonathan Gray",
-          "description": "We are delighted to announce that Rahel Süß will be joining us as a visiting researcher at the Department of Digital Humanities, King’s College London. During her stay, she will continue her research on a political theory of digital democracy. A key question regards what the task of democracy has become in digital-mediated societies. Beyond demands for … \nContinue reading \"Welcome to Rahel Süß, visiting researcher at the Department of Digital Humanities ✨\"",
-          "link": "https://blogs.kcl.ac.uk/ddh/2021/10/19/rahel-sus-visiting-researcher/",
-          "publishedOn": "2021-10-19T08:46:59.000Z",
-          "wordCount": 509,
-          "title": "Welcome to Rahel Süß, visiting researcher at the Department of Digital Humanities ✨"
-        },
-        {
-          "id": "https://blogs.kcl.ac.uk/ddh/?p=3198",
-          "author": "Jonathan Gray",
-          "description": "Jean-Christophe Plantin (@JCPlantin) is joining the Department of Digital Humanities over the coming months as a visiting researcher. In the following post he discusses what he will be working on. Welcome Jean-Christophe! 🎊 It is an honor to be a Visiting Research Fellow in the Department of Digital Humanities during Fall 2021. I have been … \nContinue reading \"Welcome to Jean-Christophe Plantin, visiting researcher at the Department of Digital Humanities ✨\"",
-          "link": "https://blogs.kcl.ac.uk/ddh/2021/10/19/jean-christophe-plantin-visiting-researcher/",
-          "publishedOn": "2021-10-19T08:36:54.000Z",
-          "wordCount": 563,
-          "title": "Welcome to Jean-Christophe Plantin, visiting researcher at the Department of Digital Humanities ✨"
-        },
-        {
-          "id": "https://blogs.kcl.ac.uk/ddh/?p=3193",
-          "author": "Jonathan Gray",
-          "description": "A workshop on “Interrogating Global Traces of Infrastructure” will take place on 18th November 2021, organised by Urszula Pawlicka-Deger as part of her Marie Skłodowska-Curie DH Infra project. The event is organised together with the King’s Digital Lab, the Department of Digital Humanities at King’s College London and the Critical Infrastructure Studies collective. The schedule … \nContinue reading \"“Interrogating Global Traces of Infrastructure” workshop, 18th November 2021\"",
-          "link": "https://blogs.kcl.ac.uk/ddh/2021/10/19/interrogating-infrastructure-workshop/",
-          "publishedOn": "2021-10-19T07:45:59.000Z",
-          "wordCount": 351,
-          "title": "“Interrogating Global Traces of Infrastructure” workshop, 18th November 2021"
         }
       ]
     },
@@ -2881,24 +2854,6 @@
           "publishedOn": "2021-10-20T08:13:02.441Z",
           "wordCount": 729,
           "title": "Stellenangebot: Systemadministrator*in / Applikationsentwickler*in (m/w/d) (SPK Berlin)"
-        },
-        {
-          "id": "node/722",
-          "author": "406",
-          "description": "Wissenschaftliche/n Mitarbeiter/in (m/w/d) mit Schwerpunkt Digitale Lexikografie und Research Software Engineering\nDie Akademie der Wissenschaften und der Literatur | Mainz sucht…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-wma-mwd-schwerpunkt-digitale-lexikografie-und-research-software-engineering",
-          "publishedOn": "2021-10-19T08:13:26.802Z",
-          "wordCount": 1030,
-          "title": "Stellenangebot: WMA (m/w/d) mit Schwerpunkt Digitale Lexikografie und Research Software Engineering (Akademie Mainz)"
-        },
-        {
-          "id": "node/723",
-          "author": "406",
-          "description": "Die Hochschule Mainz, Fachbereich Technik, und die Akademie der Wissenschaften und der Literatur Mainz besetzen zum Sommersemester 2022 (01.03.2022) gemeinsam folgende…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-tandem-professur-mwd-digitale-methodik-den-geistes-und-kulturwissenschaften",
-          "publishedOn": "2021-10-19T08:13:26.780Z",
-          "wordCount": 763,
-          "title": "Stellenangebot: Tandem-Professur (m/w/d) &quot;Digitale Methodik in den Geistes- und Kulturwissenschaften&quot; (Hochschule Mainz)"
         }
       ]
     },
@@ -3155,15 +3110,6 @@
           "publishedOn": "2021-12-16T19:23:01.000Z",
           "wordCount": 2243,
           "title": "DLCL ATS round-up, fall 2021"
-        },
-        {
-          "id": "856 at https://digitalhumanities.stanford.edu",
-          "author": "Quinn Dombrowski",
-          "description": "PI: Katherine Hill Reischl, Slavic Languages and Literatures\nThis ever-growing project seeks to transform the complexities of early Soviet journals’ graphic environments into useable data. The current iteration of the project’s corpus includes twenty-six distinct titles containing over a hundred thousand articles, poems, editorial commentaries, advertisements, theater listings as well as images representing a variety of genres and media. Through the abstraction of journal elements as data, we seek to produce representations that will make not only the journals’ contents but also big picture structures available to distant reading and analysis for researchers.\nWe ask: What can we ask of periodicals that we might not of other digitized media? What can machine learning tell us about these journals that might be overlooked in ordinary or habitual reading practices? What patterns can we discover across a collection? What types of images or subjects appear and disappear in the history of publication? Are there unexpected points of continuity or difference between a diverse set of journals published at the start of the twentieth century?\nThis Stanford-based extension of the project, begun at Princeton University and in collaboration with ITMO University in St. Petersburg, focuses particularly on the diverse images featured in the journals’ pages. Having begun with the articulation of rudimentary image typologies and applied computer learning to the image corpus (identifying illustrations, photographs, caricature, advertisements as well as subjects), we are currently looking for new ways to extract data related to color values and quantity across the journal runs.\nImage top: Training the model in document segmentation to predict constituent parts of a journal page, from 30 dnei\nImage bottom: Example of a color mask for an image in the journal 30 dnei",
-          "link": "https://digitalhumanities.stanford.edu/soviet-periodicals",
-          "publishedOn": "2021-10-19T18:30:20.000Z",
-          "wordCount": 340,
-          "title": "Russian Computational Periodicals"
         }
       ]
     },
@@ -3630,15 +3576,6 @@
           "publishedOn": "2021-10-22T13:00:00.000Z",
           "wordCount": 1497,
           "title": "Decolonize University-Based Journals"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=6730",
-          "author": "DaigengnaDuoer",
-          "description": "I believe that I am not the only person who often ends up having multiple tabs open on my browser …",
-          "link": "https://digitalorientalist.com/2021/10/19/a-solution-for-the-mess-of-online-bookmarking/",
-          "publishedOn": "2021-10-19T13:00:00.000Z",
-          "wordCount": 1908,
-          "title": "A Solution for the Mess of Online Bookmarking?"
         }
       ]
     },
@@ -3700,24 +3637,6 @@
           "publishedOn": "2021-11-05T07:32:02.000Z",
           "wordCount": 276,
           "title": "Keynote 2 - Jacob Eisenstein 'Uncertainty and Underspecification in Humanities Applications of Natural Language Processing'"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-998",
-          "author": "SaTonelli",
-          "description": "Speaker: Sara Tonelli\n Affiliation: Fondazione Bruno Kessler\nTitle: Getting a Whiff of the Past through the Analysis of Historical Documents\nAbstract: Although olfactory references play a crucial role in our cultural memory, only few works have tried to understand how they are described in historical texts and process them from a computational perspective. As a first step towards olfactory information extraction, I will present ongoing work aimed at defining a theoretical framework to capture this information from a linguistic point of view. This framework has led to the development of a multilingual benchmark with annotated smell events, covering different time periods and domains. Based on this novel dataset, it is now possible to make cross-lingual comparisons, pointing out different attitudes and perceptions of good and bad smells. The annotation effort will also inform the development of NLP-based systems for olfactory information processing. Existing challenges of this task and possible solutions will also be discussed in the talk.\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/keynote-3-sara-tonelli-getting-a-whiff-of-the-past-through-the-analysis-of-historical-documents/998",
-          "publishedOn": "2021-10-19T15:24:02.000Z",
-          "wordCount": 223,
-          "title": "Keynote 3 - Sara Tonelli 'Getting a Whiff of the Past through the Analysis of Historical Documents'"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-997",
-          "author": "iza.romanowska",
-          "description": "Speaker: Iza Romanowska\n Affiliation: Aarhus Institute of Advanced Studies, Denmark and Barcelona Supercomputing Center, Spain\nTitle: Introduction to Agent-based Modelling for Humanities and Beyond\nAbstract: The books have been read, closely and distantly, the words have been counted in all their inflections, and the pots have been classified into thousands of types. What do we do next with our data? The last decade witnessed a quantum leap in humanities scholarship as researchers moved on from describing individual data points to detecting patterns in datasets. Now is the time to take another step, this time from detecting patterns in data to explaining them. To do so, we need simulation.\nIn simple terms, simulation is a formal representation of hypotheses that allow us to see how likely …",
-          "link": "https://discourse.computational-humanities-research.org/t/keynote-1-iza-romanowska-introduction-to-agent-based-modelling-for-humanities-and-beyond/997",
-          "publishedOn": "2021-10-19T15:18:47.000Z",
-          "wordCount": 448,
-          "title": "Keynote 1 - Iza Romanowska 'Introduction to Agent-based Modelling for Humanities and Beyond'"
         }
       ]
     },
@@ -3974,42 +3893,6 @@
           "publishedOn": "2021-10-26T16:56:30.000Z",
           "wordCount": 997,
           "title": "Job opening: Doctoral student (SNSF) in Digital Humanities - University of Lausanne"
-        },
-        {
-          "id": "1360 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "31 Oct 2021 - 00:00\n\n\n\nResearch Associate in Digital Lexicography and Research Software Engineering - Academy of Sciences and Literature | Mainz\n\n\n\nResearch Associate (m/f/d) with focus on Digital Lexicography and Research Software Engineering\nThe Academy of Sciences and Literature | Mainz is looking for a Research Associate (m/f/d) 1.0 EG 13 TV-L with a focus on Digital Lexicography and Research Software Engineering to start as soon as possible and initially for a limited period of 3 years.\nThe Academy of Sciences and Literature | Mainz is a Germany-wide association of scholars and at the same time a funding institution for research projects in the humanities, social sciences and musicology. In the Digital Academy, an interdisciplinary team of computer scientists and humanities scholars w…",
-          "link": "https://eadh.org/news/2021/10/19/research-associate-digital-lexicography-and-research-software-engineering-academy",
-          "publishedOn": "2021-10-19T10:12:08.000Z",
-          "wordCount": 738,
-          "title": "Research Associate in Digital Lexicography and Research Software Engineering - Academy of Sciences and Literature | Mainz"
-        },
-        {
-          "id": "1359 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "1 Nov 2021 - 00:00\n\n\n\nJunior lecturer in digital humanities - University of Lausanne (Switzerland)\n\n\n\nJob opportunity: Junior lecturer in digital humanities at the University of Lausanne (Switzerland)\nThe Department of Language and Information Sciences in the Faculty of Arts of the University of Lausanne invites applications for a position of\njunior lecturer in digital humanities\nwith a focus on history and theory of DH.\nThis is an 80% postdoctoral position for a maximum of 5 years, starting February 1, 2022.\nThe deadline for applications is November 1, 2021.\nFor the offical job posting (in French) and application link, please see: https://career5.successfactors.eu/career?company=universitdP&career_job_req_id=18356&career_ns=job_listing&navBarLevel=JOB_SEARCH\n(only applications via the job…",
-          "link": "https://eadh.org/news/2021/10/19/junior-lecturer-digital-humanities-university-lausanne-switzerland",
-          "publishedOn": "2021-10-19T10:07:37.000Z",
-          "wordCount": 821,
-          "title": "Junior lecturer in digital humanities - University of Lausanne (Switzerland)"
-        },
-        {
-          "id": "1357 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "Assistant Professor in Cultural Analytics or Digital Literary Studies - Washington University, St. Louis\n\n\n\nAs part of a broad initiative in Data Analytics and Digital Technology (https://insideartsci.wustl.edu/digital-transformation-hiring-initiative), Washington University in St. Louis seeks a tenure-track faculty member at the rank of Assistant Professor in the field of Cultural Analytics or Digital Literary Studies (start date July 1, 2022). Depending upon research area and educational background, the primary appointment will be made in either English, Comparative Literature, or Germanic Languages and Literatures with affiliation possible in such programs as Film and Media Studies or Performing Arts. Successful candidates will have a record of or the potential for outstanding teaching …",
-          "link": "https://eadh.org/news/2021/10/19/assistant-professor-cultural-analytics-or-digital-literary-studies-washington-0",
-          "publishedOn": "2021-10-19T09:58:11.000Z",
-          "wordCount": 822,
-          "title": "Assistant Professor in Cultural Analytics or Digital Literary Studies - Washington University, St. Louis"
-        },
-        {
-          "id": "1356 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "Assistant Professor in Cultural Analytics or Digital Literary Studies - Washington University, St. Louis\n\n\n\nAs part of a broad initiative in Data Analytics and Digital Technology (https://insideartsci.wustl.edu/digital-transformation-hiring-initiative), Washington University in St. Louis seeks a tenure-track faculty member at the rank of Assistant Professor in the field of Cultural Analytics or Digital Literary Studies (start date July 1, 2022). Depending upon research area and educational background, the primary appointment will be made in either English, Comparative Literature, or Germanic Languages and Literatures with affiliation possible in such programs as Film and Media Studies or Performing Arts. Successful candidates will have a record of or the potential for outstanding teaching …",
-          "link": "https://eadh.org/news/2021/10/19/assistant-professor-cultural-analytics-or-digital-literary-studies-washington",
-          "publishedOn": "2021-10-19T09:57:15.000Z",
-          "wordCount": 822,
-          "title": "Assistant Professor in Cultural Analytics or Digital Literary Studies - Washington University, St. Louis"
         }
       ]
     },
@@ -5689,15 +5572,6 @@
           "publishedOn": "2021-10-27T11:39:17.000Z",
           "wordCount": 671,
           "title": "Training Opportunity: Two-Day Workshop with the Portable Light Dome System"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=837",
-          "author": "Leah Budke",
-          "description": "On Tuesday 26 October 2021 the KU Leuven Digital Society Institute (DigiSoc) will hold their official launch event. DigiSoc’s mission is to define a solid path towards a positive digital future by understanding, designing, developing and critically reflecting on (new) interactions between people and digitally driven technology. DigiSoc aims to support and encourage excellent research and education as well as create impact on real-life applications and for diverse stakeholder groups. Its envisioned outcome is an inclusive digital society based on responsible, ethical and sustainable (use of) technologies.  The launch will...",
-          "link": "https://scholarlytales.hcommons.org/2021/10/19/event-launch-of-the-ku-leuven-digital-society-institute-digisoc/",
-          "publishedOn": "2021-10-19T14:15:31.000Z",
-          "wordCount": 667,
-          "title": "Event: Launch of the KU Leuven Digital Society Institute (DigiSoc)"
         }
       ]
     },
@@ -7467,24 +7341,6 @@
           "publishedOn": "2021-10-21T10:00:56.000Z",
           "wordCount": 831,
           "title": "DRI is Hiring a Membership Manager"
-        },
-        {
-          "id": "1427 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "In the seventh blog in our #DRI10 series celebrating ten years of DRI, Software Engineer Stuart Kenny reflects on community-driven initiatives that have played a part in DRI's technical developments.",
-          "link": "https://www.dri.ie/software-development-and-communities-dri10",
-          "publishedOn": "2021-10-19T13:57:34.000Z",
-          "wordCount": 1329,
-          "title": "Software Development and Communities #DRI10"
-        },
-        {
-          "id": "1426 at https://www.dri.ie",
-          "author": "Deborah Thorpe",
-          "description": "Date: \n\n8 Nov 2021\n\n\nLocation: \n\nOnline\n\n\n\nWe invite you to join us for a webinar hosted by Dr Lorraine Grimes",
-          "link": "https://www.dri.ie/digitally-archiving-feminist-grassroots-movements",
-          "publishedOn": "2021-10-19T13:53:02.000Z",
-          "wordCount": 641,
-          "title": "DRI Webinar: ‘In Her Shoes: Digitally Archiving Feminist Grassroots Movements and Sensitive Research’"
         }
       ]
     },
