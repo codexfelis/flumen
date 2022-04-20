@@ -2,10 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-04-19T08:16:07.843Z</updated>
+    <updated>2022-04-20T08:18:37.669Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit Markus Frank über Projektmanagement]]></title>
+        <id>https://radihum20.de/?p=560</id>
+        <link href="https://radihum20.de/radihum20-markus-frank-projektmanagement/"/>
+        <updated>2022-04-20T06:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Für unsere heutige Folge haben wir Markus Frank eingeladen. Markus ist an der LMU München in der IT-Gruppe Geisteswissenschaften beschäftigt. Zudem arbeitet er als Studiengangskoordinator, ist in der Lehre tätig und arbeitet an mehreren Projekten mit. Mit Markus haben wir uns über das Thema Projektmanagement unterhalten. Inwiefern die Methoden und Tools aus dem Werkzeugkasten des […]
+Der Beitrag RaDiHum20 spricht mit Markus Frank über Projektmanagement erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Jonathan D. Geiger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking Trove changes over time]]></title>
+        <id>http://wragge.micro.blog/2022/04/20/tracking-trove-changes.html</id>
+        <link href="https://updates.timsherratt.org/2022/04/20/tracking-trove-changes.html"/>
+        <updated>2022-04-20T04:49:46.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been doing a bit of cleaning up, trying to make some old datasets more easily available. In particular I’ve been pulling together harvests of the number of newspaper articles in Trove by year and state. My first harvests date all the way back to 2011, before there was even a Trove API. Unfortunately, I didn’t run the harvests as often as I should’ve and there are some big gaps. Nonetheless, if you’re interested in how Trove’s newspaper corpus has grown and changed over time, you might find them useful. They’re available in this repository and also in Zenodo.
+
+This chart shows how the number of newspaper articles per year in Trove has changed from 2011 to 2022. Note the rapid growth between 2011 and 2015.
+To try and make sure that there’s a more consistent record from now on, I’ve also created a new Git Scraper – a GitHub repository that automatically harvests and saves data at weekly intervals. As well as the number of articles by year and state, it also harvests the number of articles by newspaper and category. As mentioned, these four datasets are updated weekly. If you want to get all the changes over time, you can retrieve earlier versions from the repository’s commit history.
+All the datasets are CC-0 licensed and validated with Frictionless.
+There’s also a notebook in the GLAM Workbench that explores this sort of data.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fluid Matter(s): An Interview with Shigehisa Kuriyama and Natalie Köhle on Image-Based Storytelling, Part 1]]></title>
+        <id>http://digitalorientalist.com/?p=8103</id>
+        <link href="https://digitalorientalist.com/2022/04/19/fluid-matters-an-interview-with-shigehisa-kuriyama-and-natalie-kohle-on-image-based-storytelling-part-1/"/>
+        <updated>2022-04-19T12:07:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the first of two posts about the innovative academic publication Fluid Matter(s), which was created with the storytelling platform …]]></summary>
+        <author>
+            <name>bryceheatherly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online Summer School for Literary Studies and Digital Humanities: 20-23 June 2022]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1104</id>
+        <link href="https://scholarlytales.hcommons.org/2022/04/19/online-summer-school-for-literary-studies-and-digital-humanities-20-23-june-2022/"/>
+        <updated>2022-04-19T09:31:48.000Z</updated>
+        <summary type="html"><![CDATA[The second edition of the Online Summer School for Literary Studies and Digital Humanities organized by Universiteit Leiden, KU Leuven, UR «Transitions» ULiège, LUCAS Center for Arts in Society, and LUCDH will take place from 20-23 June 2022. Are passionate about literature and have your own research project, corpus, or dataset and you want to experiment with the newest possibilities offered within digital humanities research? If you don’t know where to begin, this summer school will help you visualize your...]]></summary>
+        <author>
+            <name>Leah Budke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Receptions of Classical Literature with The Times Digital Archive and Gale Digital Scholar Lab]]></title>
+        <id>https://review.gale.com/?p=13337</id>
+        <link href="https://review.gale.com/2022/04/19/how-gale-resources-support-classical-reception-studies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-gale-resources-support-classical-reception-studies"/>
+        <updated>2022-04-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[| By James Carney, Gale Ambassador at King’s College London | Classical Reception Studies refers to the interpretation, imaginings and reimaginings of the classical world since antiquity. It can illuminate the enduring pertinence of the ancient world throughout history – particularly in the cultural realm where its influence is most pronounced. Gale digital archives and, ... Read more
+The post Exploring Receptions of Classical Literature with The Times Digital Archive and Gale Digital Scholar Lab appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Ambassadors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Funding Opportunity: CLS Infra TNA Fellowships]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1102</id>
+        <link href="https://scholarlytales.hcommons.org/2022/04/19/funding-opportunity-cls-infra-tna-fellowships/"/>
+        <updated>2022-04-19T08:58:02.000Z</updated>
+        <summary type="html"><![CDATA[The Computational Literary Studies Infrastructure (CLS Infra) has opened the second call for applications for the TNA Fellowships. The CLS Infra Fellowship Program provides access to a wide range of data, tools, and knowledge. Scholars from literary studies with an interest in computational literary studies methods are invited to apply for a fellowship grant. Selected fellows will obtain free-of-charge physical access to the infrastructure and will become part of the larger CLS community. Fellows will have the opportunity to interact...]]></summary>
+        <author>
+            <name>Leah Budke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Vacancy: Three-Year Postdoc in Machine Learning]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1100</id>
+        <link href="https://scholarlytales.hcommons.org/2022/04/19/job-vacancy-three-year-postdoc-in-machine-learning/"/>
+        <updated>2022-04-19T08:29:36.000Z</updated>
+        <summary type="html"><![CDATA[The Early Modern History Research Group at KU Leuven is accepting applications for a postdoctoral position on the European Research Council funded project “Regionalizing Infrastructures in Chinese History.” This project examines how large-scale infrastructures such as roads, city walls, and bridges contributed to regional and empire-wide integration, but equally why and how processes of integration regularly broke down, and how large-scale infrastructure projects contributed to countervailing trends including local tensions, local autonomy, and cross-border regional formations. The postdoctoral fellow will...]]></summary>
+        <author>
+            <name>Leah Budke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Solidarity Book Project]]></title>
+        <id>3784723f-422d-4631-ba39-7be12f233061</id>
+        <link href="https://reviewsindh.pubpub.org/pub/solidarity-book-project"/>
+        <updated>2022-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Solidarity Book Project, a collaborative art project supporting access to books for Black and Indigenous communities, directed by Sonya Clark]]></summary>
+        <author>
+            <name>Zanice Bond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Black Power in Washington, D.C. 1961-1998]]></title>
+        <id>43963b54-1599-4a24-b733-f9ee0c37c20d</id>
+        <link href="https://reviewsindh.pubpub.org/pub/black-power-in-washing-dc"/>
+        <updated>2022-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Black Power in Washington, D.C. 1961-1998, an interactive web-based map of Black Power politics, directed by George Derek Musgrove]]></summary>
+        <author>
+            <name>Joshua Crutchfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: The Library of Missing Datasets]]></title>
+        <id>6bdb8931-dbc9-496f-aabb-ea8a75414ff6</id>
+        <link href="https://reviewsindh.pubpub.org/pub/library-of-missing-datasets"/>
+        <updated>2022-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of The Library of Missing Datasets, a series of art installations bringing attention to missing data, directed by Mimi Ọnụọha]]></summary>
+        <author>
+            <name>Zakiya Collier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Braiding Braiding]]></title>
+        <id>9d7dd022-ef04-41d5-8146-2a1c494d6a40</id>
+        <link href="https://reviewsindh.pubpub.org/pub/braiding-braiding"/>
+        <updated>2022-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Braiding Braiding, a web-based exploration of African hair brading, directed by Nontsikelelo Mutiti and Julia Novitch]]></summary>
+        <author>
+            <name>Sheila Chukwulozie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editors' Note: April 2022]]></title>
+        <id>33c5948f-2ad5-4691-9552-442706dd5bdf</id>
+        <link href="https://reviewsindh.pubpub.org/pub/46c0z7ov"/>
+        <updated>2022-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Editors' note on the April 2022 issue of Reviews in Digital Humanities, guest edited by Aleia Brown, Marisa Parham, and Trevor Muñoz]]></summary>
+        <author>
+            <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: BLACK MEME]]></title>
+        <id>a64c29ce-95f0-424e-b0f7-4307a10200a3</id>
+        <link href="https://reviewsindh.pubpub.org/pub/black-meme"/>
+        <updated>2022-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of BLACK MEME, an interactive video essay on Black visual culture since 1900, directed by Legacy Russell]]></summary>
+        <author>
+            <name>Kola Heyward-Rotimi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stellenangebot: Digitalmanager / Digital Scout (m/w/d) (Staatstheater Kassel)]]></title>
         <id>node/806</id>
@@ -10269,47 +10406,6 @@ Location: Bonn, Germany
 The post IANLS Vacation School: Digital Humanities and Neo-Latin Studies appeared first on LiLa: Linking Latin.]]></summary>
         <author>
             <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deadline Extended for Role of Project Manager, Research Data at DRI]]></title>
-        <id>1429 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/deadline-extended-role-project-manager-dri"/>
-        <updated>2021-10-22T14:05:02.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) has extended the deadline for applications for the position of Project Manager, Research Data to 9 November 2021.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decolonize University-Based Journals]]></title>
-        <id>http://digitalorientalist.com/?p=6756</id>
-        <link href="https://digitalorientalist.com/2021/10/22/decolonize-university-based-journals/"/>
-        <updated>2021-10-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Algerian Scientific Journals Platform (ASJP) is an electronic publishing platform developed and managed by the Research Center for Scientific and Technical Information (CERIST) of the Ministry of Higher Education and Scientific Research, of the People's Democratic Republic of Algeria.]]></summary>
-        <author>
-            <name>elizabethbishop78666</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doing Labor History Online: Digital Humanities Skills and Projects]]></title>
-        <id>https://dh.rutgers.edu/?p=77503</id>
-        <link href="https://dh.rutgers.edu/doing-labor-history-online-digital-humanities-skills-and-projects/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=doing-labor-history-online-digital-humanities-skills-and-projects"/>
-        <updated>2021-10-22T12:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Wednesday, October 27th, 1-3 PM (virtual) Doing Labor History Online: Digital Humanities Skills and Projects Speakers: Andrew Gomez | Associate Professor of History, University of Puget Sound Tobias Higbie | Professor of History; Faculty Chair, Labor Studies; Associate Director, Institute for Research on Labor and Employment, UCLA Vilja Hulden | Instructor, History, University of Colorado, Boulder What can the field of digital humanities offer to labor historians and scholars in labor studies? How do online mediums provide new opportunities for making academic research on work, class, and political economy, accessible to public audiences beyond the classroom? How can digital humanities methodologies, and corresponding tools, algorithms,]]></summary>
-        <author>
-            <name>Paolo Scartoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: WMA (m/w/d) TV-L 13, 100%, befristet (IDS Mannheim)]]></title>
-        <id>node/725</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-wma-mwd-tv-l-13-100-befristet-ids-mannheim"/>
-        <updated>2021-10-22T08:12:59.274Z</updated>
-        <summary type="html"><![CDATA[Am IDS ist in der Abteilung Lexik frühestens zum 1. Januar 2022 folgende Stelle zu besetzen:
-Wissenschaftliche Mitarbeiterin / Wissenschaftlichen Mitarbeiter (m/w/d) mit der…]]></summary>
-        <author>
-            <name>406</name>
         </author>
     </entry>
 </feed>
