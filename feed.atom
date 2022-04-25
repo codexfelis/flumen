@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-04-24T08:15:42.915Z</updated>
+    <updated>2022-04-25T08:16:34.321Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Safe the Date: Day of DH 2022 (28.04.22)]]></title>
+        <id>node/808</id>
+        <link href="https://dig-hum.de/aktuelles/safe-the-date-day-of-dh-2022-280422"/>
+        <updated>2022-04-24T13:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Am Donnerstag (28. April 2022) findet der Day of DH 2022 statt.
+Das Thema des DH-Tages lautet „Diversity in DH“.
+Wir vom DHd-Verband würden uns sehr freuen, wenn sich viele aus…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day of DH 2022 (April 28) Save the date!]]></title>
         <id>node/808</id>
@@ -229,6 +241,16 @@ The post Exploring Receptions of Classical Literature with The Times Digital Arc
         <summary type="html"><![CDATA[The Early Modern History Research Group at KU Leuven is accepting applications for a postdoctoral position on the European Research Council funded project “Regionalizing Infrastructures in Chinese History.” This project examines how large-scale infrastructures such as roads, city walls, and bridges contributed to regional and empire-wide integration, but equally why and how processes of integration regularly broke down, and how large-scale infrastructure projects contributed to countervailing trends including local tensions, local autonomy, and cross-border regional formations. The postdoctoral fellow will...]]></summary>
         <author>
             <name>Leah Budke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liewen am Minett revisited]]></title>
+        <id>3982 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/forum-z/liewen-am-minett-revisited"/>
+        <updated>2022-04-19T06:39:42.000Z</updated>
+        <summary type="html"><![CDATA[The “Liewen am Minett” project came to life by an initiative of the Minister of Culture Robert Krieps in 1986. In the photo book’s foreword he stated that the heart of Luxembourg’s industry, “the cradle of its prosperity and the material support of national independence” – the Minett – has been unfairly overlooked, and its “new type of man” – the Minettsdäpp – largely unseen. “It is therefore a kind of injustice,” Krieps continued, “that we want to redress by doing justice to a world which, over the past ten years, has experienced deep anguish and new transformations. We present a snapshot of a part of our country whose rich facets are unknown.” The photo book, curated by Jean Back, exhibited photos of 16 amateur and professional photographers. “Liewen am Minett” was arguably the first soc…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>
@@ -10344,81 +10366,6 @@ If you want to participate online, please send an email to vanessa.napolitano@un
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training Opportunity: Two-Day Workshop with the Portable Light Dome System]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=842</id>
-        <link href="https://scholarlytales.hcommons.org/2021/10/27/training-opportunity-two-day-workshop-with-the-portable-light-dome-system/"/>
-        <updated>2021-10-27T11:39:17.000Z</updated>
-        <summary type="html"><![CDATA[On 13-14 December 2021, VIEW, the KU Leuven Core Facility for Heritage Science and Digitisation Technologies, will be organizing a two-day workshop with the Portable Light Dome system.   The Portable Light Dome system is a dome-shaped structure allowing the automated capture of objects from a fixed position with varying light angles. In total, 228 captures are made in five different spectra: IR, red, green, blue and UV. After processing, interactive visualization of the topography is possible with the five individual spectra or a combination of three (RGB or false color)....]]></summary>
-        <author>
-            <name>Leah Budke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniNE: assistant-e doctorant‐e en journalisme et  communication numérique]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=8524</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/10/27/unine-assistant-e-doctorant%e2%80%90e-en-journalisme-et-communication-numerique/"/>
-        <updated>2021-10-27T10:10:05.000Z</updated>
-        <summary type="html"><![CDATA[L’Académie du journalisme et des médias (AJM) est à la recherche d’un-e assistant-e doctorant-e en journalisme et communication numérique à temps partiel (50%), rattaché à la Faculté des sciences économiques de l’Université de Neuchâtel (UniNE). Entrée en fonction: 1 janvier 2022 ou à convenir. Description du domaine et contexte de recherche Le poste d’assistant-doctorant concerné […]
-The post UniNE: assistant-e doctorant‐e en journalisme et  communication numérique appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch of DRI Community Archive Scheme and DRI Early Career Research Award #DRI10]]></title>
-        <id>1430 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/launch-dri-community-archive-scheme-and-dri-early-career-research-award-dri10"/>
-        <updated>2021-10-27T09:10:37.000Z</updated>
-        <summary type="html"><![CDATA[The latest blog in our #DRI10 series celebrating 10 years of DRI reflects on the launch of two important DRI initiatives – the DRI Community Archive Scheme and the DRI Early Career Research Award.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invited talk at the “Digital Dante Days”]]></title>
-        <id>https://lila-erc.eu/?p=2694</id>
-        <link href="https://lila-erc.eu/digital-dante-days/"/>
-        <updated>2021-10-27T07:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Invited Talk: Digital Dante Days
-Date: 16th November 2021, 4:30 pm CET
-Location: Venice and Online
-UDante. L’opera latina di Dante nella LiLa Knowledge Base.
-
-
-The post Invited talk at the “Digital Dante Days” appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invited talk at the “Digital Dante Days”]]></title>
-        <id>https://lila-erc.eu/?p=2694</id>
-        <link href="https://lila-erc.eu/digital-dante-days/"/>
-        <updated>2021-10-27T07:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Invited Talk: Digital Dante Days
-Date: 16th November 2021, 4:30 pm CET
-Location: Venice and Online
-UDante. L’opera latina di Dante nella LiLa Knowledge Base.
-
-
-The post Invited talk at the “Digital Dante Days” appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zack McCune – Conflict, Consensus, and Creativity: Wikipedia at 20]]></title>
-        <id>https://digitaldemocracies.org/?p=1814</id>
-        <link href="https://digitaldemocracies.org/zack-mccune-conflict-consensus-and-creativity-wikipedia-at-20/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=zack-mccune-conflict-consensus-and-creativity-wikipedia-at-20"/>
-        <updated>2021-10-26T20:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Zack visited the Digital Democracies Institute to discuss “three remarkable things at root in Wikipedia: conflict consensus and creativity” and how they might be worth revisiting for discussions of online …
-  Zack McCune – Conflict, Consensus, and Creativity: Wikipedia at 20 Read More »
-Zack McCune – Conflict, Consensus, and Creativity: Wikipedia at 20 first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Kayla Hilstob</name>
         </author>
     </entry>
 </feed>
