@@ -1259,6 +1259,15 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=10397",
+          "author": "Celia Luterbacher",
+          "description": "Swiss roboticists and economists from EPFL and University of Lausanne developed a method for estimating the probability of jobs being automated by future intelligent robots and suggesting career transitions with lower risks and minimal retraining effort. When it comes to the future of intelligent robots, the first question people ask is often: how many jobs […]\nThe post How to compete with robots appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/04/25/how-to-compete-with-robots/",
+          "publishedOn": "2022-04-25T09:48:14.000Z",
+          "wordCount": 1308,
+          "title": "How to compete with robots"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=10388",
           "author": "Celia Luterbacher",
           "description": "Le media en ligne Heidi.news a publié un article sur la phénomène de la formation numérique en Suisse romande pour les étudiants et étudiantes en sciences humaines et sociales, avec un interview de notre directeur académique de l’Université de Lausanne Isaac Pante. L’article aborde des programmes à l’UNIL (Master en humanités numériques) et à l’Université […]\nThe post Formation numérique: Isaac Pante est interviewé par Heidi.news appeared first on dhCenter.",
@@ -2013,15 +2022,6 @@
           "publishedOn": "2021-11-01T13:13:31.000Z",
           "wordCount": 668,
           "title": "Job: Digital Humanities Research Software Engineer"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8538",
-          "author": "Celia Luterbacher",
-          "description": "On October 21st and 22nd, the UNIL-EPFL dhCenter co-organized an online event with an unconventional format, which invited digital humanities researchers to engage in a dialogue on a variety of emerging issues with a common theme: the digitalization of culture and society. The online-only event was organized with the collaboration of infoclio.ch; the Universities of […]\nThe post Online ‘unconference’ turns a critical eye on digital society appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/10/28/online-unconference-turns-a-critical-eye-on-digital-society/",
-          "publishedOn": "2021-10-28T08:20:37.000Z",
-          "wordCount": 878,
-          "title": "Online ‘unconference’ turns a critical eye on digital society"
         }
       ]
     },
@@ -2068,6 +2068,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=4955",
+          "author": "DHN Admin",
+          "description": "by Elizabeth Parke, Senior Research Associate Collaborative Digital Research, OVPR at UTM and the Critical Digital Humanities Initiative. It was in 2016, as the newly hired University of Toronto, Digital […]",
+          "link": "https://dhn.utoronto.ca/digital-humanities-and-teaching-technical-skills-to-novice-learners-with-the-carpentries/?utm_source=rss&utm_medium=rss&utm_campaign=digital-humanities-and-teaching-technical-skills-to-novice-learners-with-the-carpentries",
+          "publishedOn": "2022-04-25T19:05:12.000Z",
+          "wordCount": 1438,
+          "title": "Digital Humanities and Teaching Technical Skills to Novice Learners with The Carpentries"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=4939",
           "author": "DHN Admin",
@@ -2211,15 +2220,6 @@
           "publishedOn": "2021-10-30T20:08:11.000Z",
           "wordCount": 659,
           "title": "Welcome to the CDHI Blog"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=4304",
-          "author": "Tanya Rohrmoser",
-          "description": "Congratulations to the Award Recipients of the 4th Annual DH Conference! It is our great pleasure to announce the winners of 4th Annual DH Conference’s presentation awards. A very warm congratulations to […]",
-          "link": "https://dhn.utoronto.ca/digital-humanities-conference-award-winners/?utm_source=rss&utm_medium=rss&utm_campaign=digital-humanities-conference-award-winners",
-          "publishedOn": "2021-10-28T13:24:33.000Z",
-          "wordCount": 389,
-          "title": "Digital Humanities Conference Award Winners"
         }
       ]
     },
@@ -4208,6 +4208,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.76",
+          "author": null,
+          "description": "Using the reparation movement for Japanese colonial and wartime atrocities as a case study, this paper explores the applicability of graph database management systems to network analysis research and teaching in the field of digital humanities. Since the late 1980s, Asian victims of Japanese colonial and wartime atrocities (such as the infamous “comfort women” system) began to sue the Japanese government and corporations with the help of local and Japanese lawyers and activists. This paper uses the plethora of publicly available court materials produced by the movement to study social networks in this transnational historical justice movement and illustrate how graph database management systems can upgrade traditional network analysis methodologies in digital humanities. By inputting the data about lawsuits and lawyers in the movement into graph database applications like Neo4j and GraphXR, the paper demonstrates the advantages of managing network data in graph database structure in terms of scalability, modifiability, intuitive visibility, query efficiency, and analysis potential over relational database structure, which is the mainstream in network analysis research.\n Published on 2022-04-25 13:37:52",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.76",
+          "publishedOn": "2022-04-26T08:16:18.068Z",
+          "wordCount": 7245,
+          "title": "Networking for Historical Justice: The Application of Graph Database Management Systems to Network Analysis Projects and the Case Study of the Reparation Movement for Japanese Colonial and Wartime Atrocities"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.59",
           "author": null,
           "description": "While digital archiving has long been standard for linguistics, archives themselves are heterogeneous (Aznar & Seifart 2020), and archived linguistic material is important for researchers and communities, particularly for language reclamation (cf. Baldwin & Olds 2007; Whalen et al. 2016; Hinton 2003, 2018; Kung et al. 2020). The format and usability of scholarly archival collections is shaped by the functions of the management practices at the stewarding institution, making an appreciation of the range of access services provided by such institutions relevant to the evaluation of individual collections.\nHere we report on a review of 41 digital language archives. Three factors are examined: 1) accessibility, including metadata and site navigation; 2) discoverability, or searchability and internal navigation; and 3) functionality, the overall ease of data retrieval and use. We recognize that the decisions made by both stewards and depositors can greatly impact the accessibility of archived materials; to that end, we present recommendations for how archives might increase the utility of their holdings for their users. We emphasize that our intention is not to dissuade linguists from using archives because of these issues, and we recognize the tremendous amount of work that goes into the upkeep of digital infrastructure, often with very limited institutional support. Implementing such recommendations at an institutional level can establish a fairer peer-review process of archival collections. By delineating precisely what standards fall under the archive management level and what procedures individual depositors are responsible for, the roles of “archivist” and “depositor” become clearer.\n Published on 2022-03-24 11:09:26",
@@ -5649,23 +5658,22 @@
       "title": "CAA UK",
       "feedUrl": "https://uk.caa-international.org/feed",
       "siteUrl": "https://uk.caa-international.org",
-      "articles": [
-        {
-          "id": "https://uk.caa-international.org/?p=1258",
-          "author": "lawrenceshaw",
-          "description": "The 2021 CAA-UK conference will soon be opening for registration. Running across the 10th and 11th of November, this online conference will be hosted on Zoom and registration will be made available via Eventbrite. As with last years conference, the … Continue reading →",
-          "link": "https://uk.caa-international.org/2021/10/28/caa-uk-2021-conference-time-table-and-abstracts/",
-          "publishedOn": "2021-10-28T11:36:39.000Z",
-          "wordCount": 394,
-          "title": "CAA UK 2021 Conference Time Table and Abstracts"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tim Sherratt",
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/04/26/microblog-offers-another.html",
+          "author": null,
+          "description": "Micro.blog offers another alternative for people wanting more control over their socials. I’m posting this from my Micro account – it’ll be cross-posted to Mastodon & Twitter, saved to GitHub, syndicated via RSS, and accessible from updates.timsherratt.org",
+          "link": "https://updates.timsherratt.org/2022/04/26/microblog-offers-another.html",
+          "publishedOn": "2022-04-26T04:55:10.000Z",
+          "wordCount": 53,
+          "title": "Untitled"
+        },
         {
           "id": "http://wragge.micro.blog/2022/04/20/tracking-trove-changes.html",
           "author": null,
@@ -6228,24 +6236,6 @@
           "publishedOn": "2021-10-29T11:15:08.000Z",
           "wordCount": 734,
           "title": "Peripherien im Zentrum. Schulbildung im Grenzland im Europa der Zwischenkriegszeit"
-        },
-        {
-          "id": "3634 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Comment mettre en place une mobilité transfrontalière respectueuse de l'environnement dans la Grande Région et en Europe? Comment la numérisation va-t-elle affecter nos emplois? Et comment pouvons-nous façonner l'Europe ensemble, de manière sociale et équitable?  \nVenez discuter et débattre de ces questions lors de l'atelier transfrontalier sur l'avenir \"FutureLabEU\"! L'événement aura lieu en ligne dans le cadre de la conférence sur l'avenir de l'Europe, les 24 et 26 novembre 2021.\nNous vous invitons à venir développer vos idées pour la Grande Région SaarLorLux et donner des solutions pour l'Europe numérique, durable et sociale de demain avec d'autres jeunes de la Sarre, de la Lorraine et du Luxembourg.\nAvec le soutien d'experts du monde scientifique et politique, vous pourrez échanger des…",
-          "link": "https://www.c2dh.uni.lu/events/futurelabeu-partageons-nos-idees-pour-leurope",
-          "publishedOn": "2021-10-28T12:46:38.000Z",
-          "wordCount": 592,
-          "title": "FutureLabEU - Partageons nos idées pour l'Europe!"
-        },
-        {
-          "id": "3633 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Comics are often used in research as a counter-narrative for an Americanisation of European societies in the second half of the 20th century. The Franco-Belgian bande dessinée school meanwhile appears as a symbol of a successful resistance against the American superheroes.\nThis presentation of my thesis research has two primary aims:\non the one hand to portray the history of Franco-Belgian comics diffusion in a (Western) European context,\nbut on the other hand to critically examine the hypothesis of Europeanisation in the 1960s.\nWhile there is interest in the field of translation strategies that have been applied to central works of the Franco-Belgian school, there has been little attention paid to the editorial practices of the 1960s that facilitated this translation. Comics circulate across language barriers, and so allow insights into the relationship between different countries and cultures, the circulation of cultural goods inside and outside the production space, and the role of cultural mediators. Comics are also just one aspect of a transmedial and transnational space of the 1960s, factors that are most clearly indicated by comics magazines such as Journal de Tintin and Pilote, and these examples and their translations will form the main corpus of primary sources. This thesis will therefore consider the lens of publishing practice in order to shed a new light on these crucial aspects.\n \nWednesday, 17 Novvember 2021\n14.00 - 15.00\nC²DH open space and Webex\nIf you want to participate online, please send an email to vanessa.napolitano@uni.lu to receive the link.\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/logo_research_seminars_content_list.png?itok=r2xDOs_L\n  Research seminar with Jessica Burton, PhD candidate at the C²DH.\n  17 November 2021\n  Popkult60\n  Media history\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/europeanisation-comics-industry-franco-belgian-school-foundation-european-cultural-identity",
-          "publishedOn": "2021-10-28T08:10:06.000Z",
-          "wordCount": 496,
-          "title": "A Europeanisation of the Comics Industry: The Franco-Belgian School as a Foundation of a European Cultural Identity through Media in the 1960s"
         }
       ]
     },
@@ -6260,6 +6250,42 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5715 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "Darja Fišer Appointed Executive Director of CLARIN ERIC\n\n            \n\n  \n  \n            \n  \n\n\n\n      \n\nDarja Fišer has been appointed Executive Director of CLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n  . She will start the new position in January 2023. She will take over from Franciska de Jong, who has held the position since 2015.\nDarja Fišer has been Vice Executive Director of CLARIN ERIC (2019-2020) and Director of User Involvement for CLARIN ERIC (2016-2019). With a background in corpus linguistics and language resource creation, she has brought the activities to stimulate the use of the CLARIN infrastructure to the next level. One of Darja Fišer’s foca…",
+          "link": "https://www.clarin.eu/news/darja-fiser-appointed-executive-director-clarin-eric",
+          "publishedOn": "2022-04-22T11:17:28.000Z",
+          "wordCount": 518,
+          "title": "Darja Fišer Appointed Executive Director of CLARIN ERIC"
+        },
+        {
+          "id": "5711 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "New Impact Story: Donate Speech Database to Boost Research and Innovation\n\n            \n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \nRead the new impact story about Donate Speech, a project that has collected around 4000 hours of colloquial Finnish speech to boost the development of language-based artificial intelligence applications for Finnish. This large resource of everyday, spontaneous speech was designed with commercial use in mind and could be used to develop a range of IT and speech processing applications, such as subtitling, translation, and voice-enabled interfaces. \n \nRead the full impact story here. \n\n      Karina Berger\n 19 April 2022",
+          "link": "https://www.clarin.eu/blog/new-impact-story-donate-speech-database-boost-research-and-innovation",
+          "publishedOn": "2022-04-19T11:52:23.000Z",
+          "wordCount": 238,
+          "title": "New Impact Story: Donate Speech Database to Boost Research and Innovation"
+        },
+        {
+          "id": "5708 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "Tour de CLARIN: Interview with Sidsel Boldsen\n\n            \n\n\n\n  \n  \n            \n    \n\n              \n                  \n\n  \n \n\n \nSidsel Boldsen is a PhD Student in Natural Language Processing (\n    \nNatural Language Processing\n\r\nSee: http://en.wikipedia.org/wiki/Natural_language_processing\n\r\nread more\n\n  ) and digital humanities, with a special interest in historical languages and linguistic knowledge representation. She is part of the interdisciplinary research project ‘Script and Text in Time and Place’ at the University of Copenhagen.\n \n \n \n\n1. Please describe your academic background and current position. \nI’ve just handed in my PhD thesis, and am due to defend it at the beginning of May. My background is in historical linguistics and comparative linguistics, which I did for my BA. B…",
+          "link": "https://www.clarin.eu/blog/tour-de-clarin-interview-sidsel-boldsen",
+          "publishedOn": "2022-04-12T13:27:58.000Z",
+          "wordCount": 1877,
+          "title": "Tour de CLARIN: Interview with Sidsel Boldsen"
+        },
+        {
+          "id": "5707 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "Tour de CLARIN: The Danish CLARIN Knowledge Centre DANSK\n\n            \nWritten by Costanza Navarretta\nDANSK (DANish helpdeSK) became a certified CLARIN Knowledge Centre in 2016. It involves two Danish institutions:\nThe Department of Nordic Studies and Linguistics at the University of Copenhagen  \nThe Danish Language Council.\nThe Department of Nordic Studies and Linguistics (NorS) offers support on written and spoken Danish, as well as on the digitisation and annotation of older Danish texts. The Centre for Language Technology (CST), which is part of the department, also hosts the CLARIN-DK infrastructure. \nThe Danish Language Council (DSN) answers questions about the Danish language and its usage via telephone, email, and the online portal ‘Hjælp til Dansk’ (Help to Danish). The portal pro…",
+          "link": "https://www.clarin.eu/blog/tour-de-clarin-danish-clarin-knowledge-centre-dansk",
+          "publishedOn": "2022-04-12T13:11:56.000Z",
+          "wordCount": 548,
+          "title": "Tour de CLARIN: The Danish CLARIN Knowledge Centre DANSK"
+        },
         {
           "id": "5700 at https://www.clarin.eu",
           "author": "Dieter Van Uytvanck",
@@ -7256,24 +7282,6 @@
           "publishedOn": "2021-11-02T15:59:08.000Z",
           "wordCount": 1154,
           "title": "DRI and Europeana #DRI10"
-        },
-        {
-          "id": "1432 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "DRI Education and Outreach Manager, Dr Deborah Thorpe has joined a working group that will research and discuss new and emerging technologies in a museum context.",
-          "link": "https://www.dri.ie/deborah-thorpe-joins-working-group-museum-technologies",
-          "publishedOn": "2021-10-28T09:27:41.000Z",
-          "wordCount": 748,
-          "title": "DRI’s Dr Deborah Thorpe Joins Working Group on Museum Technologies"
-        },
-        {
-          "id": "1431 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "The Digital Repository of Ireland (DRI) is pleased to share that the European Federation of Academies of Sciences and Humanities (ALLEA) has published the statement ‘Equity in Open Access’.",
-          "link": "https://www.dri.ie/allea-equity-in-open-access",
-          "publishedOn": "2021-10-28T08:44:31.000Z",
-          "wordCount": 613,
-          "title": "ALLEA Publishes Statement on 'Equity in Open Access'"
         }
       ]
     },
@@ -7841,15 +7849,6 @@
           "publishedOn": "2021-10-29T11:27:35.000Z",
           "wordCount": 1096,
           "title": "CCC Town Hall: Understanding the new UKRI Open Access Policy"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=11164",
-          "author": "Melanie Cheung",
-          "description": "In the context of ongoing Elsevier ScienceDirect journals agreement negotiations, we are sharing the following statement alongside the UK higher education sector: Our universities are fully committed to the approach being taken by the UK’s Elsevier Negotiation Team and support the recommendation to reject the most recent proposal from Elsevier on the basis it does not [...]\nThe post Russell Group statement on negotiations between HE sector and Elsevier appeared first on Research Libraries UK.",
-          "link": "https://russellgroup.ac.uk/news/statement-on-negotiations-between-he-sector-and-elsevier/#new_tab",
-          "publishedOn": "2021-10-28T11:53:32.000Z",
-          "wordCount": 545,
-          "title": "Russell Group statement on negotiations between HE sector and Elsevier"
         }
       ]
     },
