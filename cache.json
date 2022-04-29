@@ -1268,6 +1268,24 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=10506",
+          "author": "Heloise schibler",
+          "description": "La revue Études digitales défend une approche herméneutique, critique, rhétorique et poétique des technologies. Elle se veut résolument transdisciplinaire. Son dernier numéro est consacré à la visualisation des données. Deux membres du dhCenter ont publié un papier dans  “Cartographie et visualisation : Regards d’épistémologues et de concepteurs”. Beaude, Boris, “Voir et prévoir le social au […]\nThe post Études digitales 2020 – 2 n°10  : Cartographie et visualisation appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/04/28/etudes-digitales-2020-2-n10-cartographie-et-visualisation/",
+          "publishedOn": "2022-04-28T15:52:38.000Z",
+          "wordCount": 473,
+          "title": "Études digitales 2020 – 2 n°10  : Cartographie et visualisation"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=10482",
+          "author": "Celia Luterbacher",
+          "description": "EPFL startup School Rebound has developed a revolutionary application that uses artificial intelligence to help students improve their handwriting in a fun and personalized way. Nearly 15,000 students in Switzerland, France, and Italy are already putting it to work. Handwriting problems affect nearly 25% of children aged 5 to 12. These problems, if not managed […]\nThe post Innovative application helps students learn to write appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/04/28/innovative-application-helps-students-learn-to-write/",
+          "publishedOn": "2022-04-28T10:00:47.000Z",
+          "wordCount": 1217,
+          "title": "Innovative application helps students learn to write"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=10435",
           "author": "Celia Luterbacher",
           "description": "The Érasme doctoral school of the Sorbonne Paris Nord University is inviting applications for a PhD project on “Artificial intelligence devices and algorithmic data processing in culture: industrialization and regulation”. The present call for a doctoral contract focuses on the theme of artificial intelligence (AI) devices and algorithmic data processing in culture. The thesis can […]\nThe post PhD opportunity: Artificial intelligence devices and algorithmic data processing in culture appeared first on dhCenter.",
@@ -4449,6 +4467,15 @@
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
         {
+          "id": "http://miriamposner.com/classes/dh201w19/tutorials-guides/data-cleaning-and-manipulation/getting-started-with-openrefine/",
+          "author": "Author on Source",
+          "description": "Introduction: Open Refine, the freely accessible successor to Google Refine, is an ideal tool for cleaning up data series and thus obtaining more sustainable results. Entries can be searched in alphabetical order or sorted by frequency, so that typing errors or slightly different variants can be easily found and adjusted. For example, with the help of the software, I discovered two such discrepancies in my Augustinian Correspondence Database, which I am now able to correct with one click in the programme. I was shown that I had noted \"As a reference to Jerome's letter it's not counted\" five times and \"As a reference to Jerome's letter, it's not counted\" three times. Consequently, if I searched the database for this expression, I would not see all the results. A second discrepancy was between the entry \"continuing reference (marked by Nam)\" and the entry \"continuing reference (marked by nam)\". Thanks to Open Refine, such errors can be completely avoided in the future.\n\nThe tutorial by Miriam Posner is a useful introduction to come in touch with the software. However, the first step of the installation is already out of date. While version 3.1 was still the latest when the tutorial was published, it is now version 3.5.2. Under Windows, you can now distinguish between a version that requires Java and a version with embedded OpenJDK Java, which I found very pleasing.\n\nIf needed, there are links at the end of the tutorial to other introductions that go into more depth.",
+          "link": "https://openmethods.dariah.eu/2022/04/27/getting-started-with-openrefine-digital-humanities-201/",
+          "publishedOn": "2022-04-27T13:26:00.000Z",
+          "wordCount": 1169,
+          "title": "Getting started with OpenRefine – Digital Humanities 201"
+        },
+        {
           "id": "http://openmethods.dariah.eu/?p=3189",
           "author": "Marinella Testori",
           "description": "Introduction: If you are looking for solutions to translate narratological concepts to annotation guidelines to tag or mark-up your texts for both qualitative and quantitative analysis, then Edward Kearns’s paper “Annotation Guidelines for narrative levels, time features, and subjective narration styles in fiction” is for you! The tag set is designed to be used in XML, but they can be flexibly adopted to other working environments too, including for instance CATMA.  The use of the tags is illustrated on a corpus of modernist fiction.\nThe guidelines have been published in a special issue of The Journal of Cultural Analytics (vol. 6, issue 4) entirely devoted to the illustration of the Systematic Analysis of Narrative levels Through Annotation (SANTA) project, serving as the broader intellectual context to the guidelines.  All articles in the special issue are open peer reviewed , open access, and are available in both PDF and XML formats.\n[Click ‘Read more’ for the full post!]",
@@ -5779,6 +5806,42 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2022/04/29/followed-up-my.html",
+          "author": null,
+          "description": "Followed up my last FOI request about HASS research infrastructure to find out why the appendix was missing, & now it’s available! Includes an interesting (& selective) list of HASS infrastructure projects. www.dropbox.com/sh/uq7vz4…",
+          "link": "https://updates.timsherratt.org/2022/04/29/followed-up-my.html",
+          "publishedOn": "2022-04-29T06:59:38.000Z",
+          "wordCount": 49,
+          "title": "Untitled"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/04/28/and-with-that.html",
+          "author": null,
+          "description": "And with that I think I’ll call it quits for #DayofDH2022 in this part of the world. Time to go check the backyard for pademelons before turning in. Hope all the DH-y types around the world have an interesting, inspiring & productive day!",
+          "link": "https://updates.timsherratt.org/2022/04/28/and-with-that.html",
+          "publishedOn": "2022-04-28T12:57:40.000Z",
+          "wordCount": 59,
+          "title": "Untitled"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/04/28/ok-ive-created.html",
+          "author": null,
+          "description": "Ok, I’ve created a new #GLAMWorkbench meta issue to try and bring together all the things I’m trying to do to improve & automate the code & documentation. This should help me keep track of things… github.com/GLAM-Work… #DayofDH2022",
+          "link": "https://updates.timsherratt.org/2022/04/28/ok-ive-created.html",
+          "publishedOn": "2022-04-28T12:49:31.000Z",
+          "wordCount": 54,
+          "title": "Untitled"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/04/28/a-couple-of.html",
+          "author": null,
+          "description": "A couple of hours of #DayofDH2022 left – feeling a bit uninspired, so I’m going to do some pruning & reorganising of the #GLAMWorkbench issues list: github.com/GLAM-Work…",
+          "link": "https://updates.timsherratt.org/2022/04/28/a-couple-of.html",
+          "publishedOn": "2022-04-28T11:33:41.000Z",
+          "wordCount": 43,
+          "title": "Untitled"
+        },
+        {
           "id": "http://wragge.micro.blog/2022/04/28/hmm-didnt-get.html",
           "author": null,
           "description": "Hmm, didn’t get any writing done and now it’s time to cook dinner for the family. Bit of a frustrating day really. Might do a bit of coding later. #DayofDH2022",
@@ -6856,6 +6919,24 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1507 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "Date: \n\n25 May 2022\n\n\nLocation: \n\nZoom\n\n\n\nMay’s coffee morning takes place on Wednesday 25 of May at 10.00 am for half an hour. This month’s host is Damien Burke, Province Archivist of the Irish Jesuit Archives. Damien will discuss his recent work at the archives, such as online cataloguing, and future developments at the Irish Jesuit Archives.",
+          "link": "https://www.dri.ie/dri-virtual-coffee-morning-may",
+          "publishedOn": "2022-04-28T10:29:13.000Z",
+          "wordCount": 570,
+          "title": "DRI Virtual Coffee Morning: May"
+        },
+        {
+          "id": "1506 at https://www.dri.ie",
+          "author": "bethknazook",
+          "description": "Train_the_trainer_visual 2.png",
+          "link": "https://www.dri.ie/train-trainer-learn-how-prepare-training-european-open-science-cloud-eosc-0",
+          "publishedOn": "2022-04-27T09:49:47.000Z",
+          "wordCount": 617,
+          "title": "Train the trainer: Learn how to prepare training with the European Open Science Cloud (EOSC)"
+        },
         {
           "id": "1504 at https://www.dri.ie",
           "author": "clarelanigan",
