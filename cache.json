@@ -1234,6 +1234,15 @@
       "siteUrl": "https://dhblog.sdsu.edu",
       "articles": [
         {
+          "id": "https://dhblog.sdsu.edu/?p=585",
+          "author": "Pam Lach",
+          "description": "This spring, the DH Center welcomed three new student assistants to the team. They’ll be working to develop new tool tutorials for us. Mik Knight Hi! My name is Mik and I am a second-year Master’s student in the department of Women’s Studies. My research takes a technofeminist approach to dissecting social media censorship, digital […]",
+          "link": "https://dhblog.sdsu.edu/dh-news/meet-the-newest-dh-center-student-assistants",
+          "publishedOn": "2022-04-30T00:25:44.000Z",
+          "wordCount": 708,
+          "title": "Meet the Newest DH Center Student ASsistants"
+        },
+        {
           "id": "https://dhblog.sdsu.edu/?p=578",
           "author": "Brent Ameneyro",
           "description": "Updating this Blog The Digital Humanities Blog is being updated to include E-Lit resources and updates on my progress as SDSU’s first ever E-Lit Programs Assistant. I hope these humble blog posts will not only serve as a way of informing the current faculty and students of my work, but also as a guide for […]",
@@ -2076,15 +2085,6 @@
           "publishedOn": "2021-11-02T14:27:55.000Z",
           "wordCount": 495,
           "title": "“De la division du travail algorithmique” dans Libération"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8593",
-          "author": "Celia Luterbacher",
-          "description": "The British Library Living with Machines (LwM) project is inviting applications for a Digital Humanities Research Software Engineer (DH RSE) by November 7. LwM is an ambitious large-scale project in data science and the digital humanities. Researchers from a range of disciplines – including historians, software engineers, data scientists, geographers, computational linguists, library professionals and […]\nThe post Job: Digital Humanities Research Software Engineer appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/01/job-digital-humanities-research-software-engineer/",
-          "publishedOn": "2021-11-01T13:13:31.000Z",
-          "wordCount": 668,
-          "title": "Job: Digital Humanities Research Software Engineer"
         }
       ]
     },
@@ -3100,6 +3100,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=8126",
+          "author": "Michele Eduarda Brasil de Sá",
+          "description": "Many people may be unaware, but Brazil has the most numerous Japanese community outside Japan, with a population of more …",
+          "link": "https://digitalorientalist.com/2022/04/29/the-historical-museum-of-japanese-immigration-in-brazil-digital-resources-for-researching-japanese-immigration/",
+          "publishedOn": "2022-04-29T12:00:00.000Z",
+          "wordCount": 1449,
+          "title": "The Historical Museum of Japanese Immigration in Brazil  – Digital resources for researching Japanese immigration"
+        },
         {
           "id": "http://digitalorientalist.com/?p=8114",
           "author": "Fatma Aladag",
@@ -5806,6 +5815,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2022/04/30/and-so-it.html",
+          "author": null,
+          "description": "And so it starts… #GLAMWorkbench",
+          "link": "https://updates.timsherratt.org/2022/04/30/and-so-it.html",
+          "publishedOn": "2022-04-30T05:39:07.000Z",
+          "wordCount": 21,
+          "title": "Untitled"
+        },
+        {
           "id": "http://wragge.micro.blog/2022/04/29/followed-up-my.html",
           "author": null,
           "description": "Followed up my last FOI request about HASS research infrastructure to find out why the appendix was missing, & now it’s available! Includes an interesting (& selective) list of HASS infrastructure projects. www.dropbox.com/sh/uq7vz4…",
@@ -6029,24 +6047,6 @@
           "publishedOn": "2021-11-04T04:28:30.000Z",
           "wordCount": 175,
           "title": "Coming up! GLAM Workbench at ResBaz(s)"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/11/01/new-video-using.html",
-          "author": null,
-          "description": "The latest help video for the GLAM Workbench walks through the web app version of the Trove Newspaper & Gazette Harvester. Just paste in your search url and Trove API key and you can harvest thousands of digitised newspaper articles in minutes!",
-          "link": "https://updates.timsherratt.org/2021/11/01/new-video-using.html",
-          "publishedOn": "2021-10-31T23:32:00.000Z",
-          "wordCount": 78,
-          "title": "New video – using the Trove Newspaper & Gazette Harvester"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/11/01/harvest-newspaper-issues.html",
-          "author": null,
-          "description": "An inquiry on Twitter prompted me to put together a notebook that you can use to download all available issues of a newspaper as PDFs. It was really just a matter of copying code from other tools and making a few modifications. The first step harvests a list of available issues for a particular newspaper from Trove. You can then download the PDFs of those issues, supplying an optional date range. Beware – this could consume a lot of disk space!\nThe PDF file names have the following structure:\n[newspaper identifier]-[issue date as YYYYMMDD]-[issue identifier].pdf\n\nFor example:\n903-19320528-1791051.pdf\n\n903 – the Glen Innes Examiner\n19320528 – 28 May 1932\n1791051 – to view in Trove just add this to http://nla.gov.au/nla.news-issue, eg http://nla.gov.au/nla.news-issue1791051\nI also took the opportunity to create a new Harvesting data heading in the Trove newspapers section of the GLAM Workbench. #dhhacks",
-          "link": "https://updates.timsherratt.org/2021/11/01/harvest-newspaper-issues.html",
-          "publishedOn": "2021-10-31T22:53:00.000Z",
-          "wordCount": 170,
-          "title": "Harvest newspaper issues as PDFs"
         }
       ]
     },
@@ -6197,6 +6197,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "3988 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Social Media and the World Wide Web have reconfigured what we know about the past. In this talk, author and public historian Jason Steinhauer will discuss how social media shapes what we know about history, and why some information about the past becomes visible online, and why other information we never see.\nJason Steinhauer is an author, public historian, podcast host, founder of the History Communication Institute, creator of History Club and a Global Fellow at The Wilson Center. He is the author of the best-selling book History, Disrupted: How Social Media & the World Wide Web Have Changed the Past.\n \nMonday, 16 May 2022\n14.00 - 15.00\nHybrid event\nMaison du Savoir, MSA 3.240 & Webex\n2, avenue de l'Université\nL-4365 Esch-sur-Alzette\n \n\n\n\nPlease register via Eventbrite to follow the talk online or send an e-mail to marie-laure.glowacki@uni.lu to attend in-person.\n \nLegal notice.\n \n \n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/jason_steinhauer_full_width.jpg?itok=z801RB0x\n  Talk with author and public historian Jason Steinhauer.\n  16 May 2022\n  Public history\n  Public History as the New Citizen Science of the Past (PHACS)\n  Media history  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/how-social-media-has-changed-history",
+          "publishedOn": "2022-04-27T13:12:17.000Z",
+          "wordCount": 354,
+          "title": "How Social Media has Changed History"
+        },
         {
           "id": "3982 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
