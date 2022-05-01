@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-04-30T08:15:39.984Z</updated>
+    <updated>2022-05-01T08:16:02.206Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/05/01/new-articles-available.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/01/new-articles-available.html"/>
+        <updated>2022-05-01T04:03:53.000Z</updated>
+        <summary type="html"><![CDATA[New articles available this week from specific Trove newspapers:
++39,296 from Daily News (WA)
++39,810 from Australian Jewish Herald (Vic)
++104,190 from Sunraysia Daily (Vic)
+More: github.com/wragge/tr…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/05/01/changes-to-trove.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/01/changes-to-trove.html"/>
+        <updated>2022-05-01T03:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Changes to Trove newspapers in the last week:
++211,393 articles available
++15,738 articles with corrections
++8,233 articles with tags
++499 articles with comments
+More here: github.com/wragge/tr…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Hosts DHd2024 &amp; DHd2025]]></title>
+        <id>node/809</id>
+        <link href="https://dig-hum.de/aktuelles/call-for-hosts-dhd2024-dhd2025"/>
+        <updated>2022-04-30T17:34:41.000Z</updated>
+        <summary type="html"><![CDATA[DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…]]></summary>
+        <author>
+            <name>414</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>http://wragge.micro.blog/2022/04/30/and-so-it.html</id>
@@ -10733,80 +10772,6 @@ Iginio Gagliardone – Demystifying the COVID-19 Infodemic: Conspiracy, Context 
         <summary type="html"><![CDATA[If you are interested in the nexus between cultural heritage and FAIR data, or generally in ways to open up archives for improved accessibility, recordings of two recent keynote talks on these topics by DRI's Director Natalie Harrower are now available.]]></summary>
         <author>
             <name>Natalie Harrower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping the state of the art of Named-Entity Recognition for early modern documents. New Publication.]]></title>
-        <id>https://blogs.ucl.ac.uk/dh/?p=8215</id>
-        <link href="https://blogs.ucl.ac.uk/dh/2021/11/02/8215/"/>
-        <updated>2021-11-02T16:47:33.000Z</updated>
-        <summary type="html"><![CDATA[[posted by Julianne Nyhan on behalf of Marco Humbel] This blog post reports on our recent paper: Humbel, M., Nyhan, J., Vlachidis, A., Sloan, K. and Ortolja-Baird, A. (2021), “Named-entity recognition for early modern textual documents: a review of capabilities and challenges with strategies for the future”, Journal of Documentation, https://doi.org/10.1108/JD-02-2021-0032 Link to full text […]]]></summary>
-        <author>
-            <name>Julianne Nyhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI and Europeana #DRI10]]></title>
-        <id>1433 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-and-europeana-dri10"/>
-        <updated>2021-11-02T15:59:08.000Z</updated>
-        <summary type="html"><![CDATA[In the latest blog in our #DRI10 series, DRI Software Engineer Dr Kathryn Cassidy reflects on our involvement in the Europeana Common Culture project, which led to us becoming an accredited Europeana National Aggregator.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LJS 418: Martyrdom of Saint Blaise]]></title>
-        <id>http://schoenberginstitute.org/?p=15951</id>
-        <link href="https://schoenberginstitute.org/2021/11/02/ljs-418-martyrdom-of-saint-blaise/"/>
-        <updated>2021-11-02T15:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Coffee With A Codex on Monday, November 1, featured LJS 418, a 13th century Italian account of the martyrdom of Saint Blaise, bishop of Sebaste in Armenia, followed by readings and chants for a Mass of Saint Blaise. Additional texts, probably in different hands, at the end of the manuscript are mostly for baptisms, butContinue reading "LJS 418: Martyrdom of Saint Blaise"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How words acquire their meaning]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=8589</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/11/02/how-words-acquire-their-meaning/"/>
-        <updated>2021-11-02T15:34:47.000Z</updated>
-        <summary type="html"><![CDATA[Researchers in EPFL’s College of Humanities have used machine learning to reveal how humans bridge the often-significant gaps between signal and meaning in communication. dhCenter members Robert Lieck and Martin Rohrmeier of the Digital and Cognitive Musicology Laboratory (DCML) used machine learning and artificial intelligence to explore the alignments and misalignments between signals – such […]
-The post How words acquire their meaning appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“De la division du travail algorithmique” dans Libération]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=8607</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/11/02/de-la-division-du-travail-algorithmique-dans-liberation/"/>
-        <updated>2021-11-02T14:27:55.000Z</updated>
-        <summary type="html"><![CDATA[Intervention de Florian Jaton, chercheur au STSLAb et membre du dhCenter, dans le quotidien français Libération. L’article “De la division du travail algorithmique”, publié le 28 octobre dernier, fait état de son livre The Constitution of Algorithms (MIT Press). Les programmes qui régissent nos vies numériques ne sont pas que d’étranges boîtes noires qui agissent […]
-The post “De la division du travail algorithmique” dans Libération appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Need a Better System: Streamlining Academic Digital Workflow from Reading to Writing]]></title>
-        <id>http://digitalorientalist.com/?p=6969</id>
-        <link href="https://digitalorientalist.com/2021/11/02/we-need-a-better-system-streamlining-academic-digital-workflow-from-reading-to-writing/"/>
-        <updated>2021-11-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are in an age of unprecedented information access. As academics in the humanities, we all have too much information …]]></summary>
-        <author>
-            <name>DaigengnaDuoer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DH2022@Tokyo 発表論文募集中]]></title>
-        <id>66 at https://www.jadh.org</id>
-        <link href="https://www.jadh.org/node/66"/>
-        <updated>2021-11-02T06:51:54.000Z</updated>
-        <summary type="html"><![CDATA[アジアでは初開催となるADHOのDH2022が発表論文を募集しています。
-https://dh2022.adho.org/
-締切りは　11/30ですので、ふるってご応募ください。]]></summary>
-        <author>
-            <name>adminweb</name>
         </author>
     </entry>
     <entry>

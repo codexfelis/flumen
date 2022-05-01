@@ -118,15 +118,6 @@
           "publishedOn": "2021-11-15T09:41:38.000Z",
           "wordCount": 275,
           "title": "Job Advert: Digital Humanities Lecturer/Associate Professor"
-        },
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8215",
-          "author": "Julianne Nyhan",
-          "description": "[posted by Julianne Nyhan on behalf of Marco Humbel] This blog post reports on our recent paper: Humbel, M., Nyhan, J., Vlachidis, A., Sloan, K. and Ortolja-Baird, A. (2021), “Named-entity recognition for early modern textual documents: a review of capabilities and challenges with strategies for the future”, Journal of Documentation, https://doi.org/10.1108/JD-02-2021-0032 Link to full text […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2021/11/02/8215/",
-          "publishedOn": "2021-11-02T16:47:33.000Z",
-          "wordCount": 2107,
-          "title": "Mapping the state of the art of Named-Entity Recognition for early modern documents. New Publication."
         }
       ]
     },
@@ -2067,24 +2058,6 @@
           "publishedOn": "2021-11-05T13:12:31.000Z",
           "wordCount": 1255,
           "title": "Hackathon generates new tools for digital text collections"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8589",
-          "author": "Celia Luterbacher",
-          "description": "Researchers in EPFL’s College of Humanities have used machine learning to reveal how humans bridge the often-significant gaps between signal and meaning in communication. dhCenter members Robert Lieck and Martin Rohrmeier of the Digital and Cognitive Musicology Laboratory (DCML) used machine learning and artificial intelligence to explore the alignments and misalignments between signals – such […]\nThe post How words acquire their meaning appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/02/how-words-acquire-their-meaning/",
-          "publishedOn": "2021-11-02T15:34:47.000Z",
-          "wordCount": 983,
-          "title": "How words acquire their meaning"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8607",
-          "author": "Heloise schibler",
-          "description": "Intervention de Florian Jaton, chercheur au STSLAb et membre du dhCenter, dans le quotidien français Libération. L’article “De la division du travail algorithmique”, publié le 28 octobre dernier, fait état de son livre The Constitution of Algorithms (MIT Press). Les programmes qui régissent nos vies numériques ne sont pas que d’étranges boîtes noires qui agissent […]\nThe post “De la division du travail algorithmique” dans Libération appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/02/de-la-division-du-travail-algorithmique-dans-liberation/",
-          "publishedOn": "2021-11-02T14:27:55.000Z",
-          "wordCount": 495,
-          "title": "“De la division du travail algorithmique” dans Libération"
         }
       ]
     },
@@ -2306,6 +2279,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/809",
+          "author": "414",
+          "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…",
+          "link": "https://dig-hum.de/aktuelles/call-for-hosts-dhd2024-dhd2025",
+          "publishedOn": "2022-04-30T17:34:41.000Z",
+          "wordCount": 1341,
+          "title": "Call for Hosts DHd2024 &amp; DHd2025"
+        },
         {
           "id": "node/808",
           "author": "406",
@@ -3558,15 +3540,6 @@
           "publishedOn": "2021-11-05T12:00:00.000Z",
           "wordCount": 1442,
           "title": "Crowdsourcing for Ottoman Studies: Zooniverse"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=6969",
-          "author": "DaigengnaDuoer",
-          "description": "We are in an age of unprecedented information access. As academics in the humanities, we all have too much information …",
-          "link": "https://digitalorientalist.com/2021/11/02/we-need-a-better-system-streamlining-academic-digital-workflow-from-reading-to-writing/",
-          "publishedOn": "2021-11-02T12:00:00.000Z",
-          "wordCount": 1419,
-          "title": "We Need a Better System: Streamlining Academic Digital Workflow from Reading to Writing"
         }
       ]
     },
@@ -5395,15 +5368,6 @@
           "publishedOn": "2021-11-08T19:42:59.000Z",
           "wordCount": 1330,
           "title": "Ms. Codex 2032: 18th Century Prayer Book"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=15951",
-          "author": "simsmss",
-          "description": "Coffee With A Codex on Monday, November 1, featured LJS 418, a 13th century Italian account of the martyrdom of Saint Blaise, bishop of Sebaste in Armenia, followed by readings and chants for a Mass of Saint Blaise. Additional texts, probably in different hands, at the end of the manuscript are mostly for baptisms, butContinue reading \"LJS 418: Martyrdom of Saint Blaise\"",
-          "link": "https://schoenberginstitute.org/2021/11/02/ljs-418-martyrdom-of-saint-blaise/",
-          "publishedOn": "2021-11-02T15:45:54.000Z",
-          "wordCount": 1407,
-          "title": "LJS 418: Martyrdom of Saint Blaise"
         }
       ]
     },
@@ -5814,6 +5778,24 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/05/01/new-articles-available.html",
+          "author": null,
+          "description": "New articles available this week from specific Trove newspapers:\n+39,296 from Daily News (WA)\n+39,810 from Australian Jewish Herald (Vic)\n+104,190 from Sunraysia Daily (Vic)\nMore: github.com/wragge/tr…",
+          "link": "https://updates.timsherratt.org/2022/05/01/new-articles-available.html",
+          "publishedOn": "2022-05-01T04:03:53.000Z",
+          "wordCount": 43,
+          "title": "Untitled"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/05/01/changes-to-trove.html",
+          "author": null,
+          "description": "Changes to Trove newspapers in the last week:\n+211,393 articles available\n+15,738 articles with corrections\n+8,233 articles with tags\n+499 articles with comments\nMore here: github.com/wragge/tr…",
+          "link": "https://updates.timsherratt.org/2022/05/01/changes-to-trove.html",
+          "publishedOn": "2022-05-01T03:57:07.000Z",
+          "wordCount": 42,
+          "title": "Untitled"
+        },
         {
           "id": "http://wragge.micro.blog/2022/04/30/and-so-it.html",
           "author": null,
@@ -7539,15 +7521,6 @@
           "publishedOn": "2021-11-03T14:49:44.000Z",
           "wordCount": 786,
           "title": "Interested in Cultural Heritage and Fair Data?"
-        },
-        {
-          "id": "1433 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "In the latest blog in our #DRI10 series, DRI Software Engineer Dr Kathryn Cassidy reflects on our involvement in the Europeana Common Culture project, which led to us becoming an accredited Europeana National Aggregator.",
-          "link": "https://www.dri.ie/dri-and-europeana-dri10",
-          "publishedOn": "2021-11-02T15:59:08.000Z",
-          "wordCount": 1154,
-          "title": "DRI and Europeana #DRI10"
         }
       ]
     },
@@ -7877,15 +7850,6 @@
           "publishedOn": "2021-11-16T12:04:51.000Z",
           "wordCount": 67,
           "title": "日本語論文誌『デジタル・ヒューマニティーズ』第三号投稿募集のお知らせ"
-        },
-        {
-          "id": "66 at https://www.jadh.org",
-          "author": "adminweb",
-          "description": "アジアでは初開催となるADHOのDH2022が発表論文を募集しています。\nhttps://dh2022.adho.org/\n締切りは　11/30ですので、ふるってご応募ください。",
-          "link": "https://www.jadh.org/node/66",
-          "publishedOn": "2021-11-02T06:51:54.000Z",
-          "wordCount": 57,
-          "title": "DH2022@Tokyo 発表論文募集中"
         }
       ]
     },
