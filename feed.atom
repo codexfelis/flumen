@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-01T08:16:02.206Z</updated>
+    <updated>2022-05-02T08:17:21.292Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Working with Trove data – a collection of tools and resources]]></title>
+        <id>http://wragge.micro.blog/2022/05/02/working-with-trove.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/02/working-with-trove.html"/>
+        <updated>2022-05-02T04:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The ARDC is organising a couple of public forums to help gather researcher requirements for the Trove component of the HASS RDC. One of the roundtables will look at ‘Existing tools that utilise Trove data and APIs’. Last year I wrote a summary of what the GLAM Workbench can contribute to the development of humanities research infrastructure, particularly in regard to Trove. I thought it might be useful to update that list to include recent additions to the GLAM Workbench, as well as a range of other datasets, software, tools, and interfaces that exist outside of the GLAM Workbench.
+Since last year’s post I’ve also been working hard to integrate the GLAM Workbench with other eResearch services such as Nectar and CloudStor, and to document and support the ways that individuals and institutio…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annual General Meeting]]></title>
+        <id>https://aa-dh.org/?p=460</id>
+        <link href="https://aa-dh.org/2022/05/02/annual-general-meeting/"/>
+        <updated>2022-05-02T02:47:06.000Z</updated>
+        <summary type="html"><![CDATA[The Annual General Meeting of the Australasian Association for Digital Humanities will be held as an electronic forum on Wednesday May 18 2022. Agenda Minutes of previous Annual General Meeting Minutes of 2018 AGM attached Financial Report Financial Statement attached Ratification of election results The positions of President and Vice-President have been filled by co-option: … Continue reading "Annual General Meeting"]]></summary>
+        <author>
+            <name>Simon Musgrave</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>http://wragge.micro.blog/2022/05/01/new-articles-available.html</id>
@@ -10732,56 +10753,6 @@ The programs of all three ResBaz events are chock full of excellent opportunitie
 Iginio Gagliardone – Demystifying the COVID-19 Infodemic: Conspiracy, Context and the Agency of Users first appeared on Digital Democracies Institute.]]></summary>
         <author>
             <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Infrastructure and Digital Humanities: A Reflection and CFP]]></title>
-        <id>https://www.vanderbilt.edu/digitalhumanities/?p=3635</id>
-        <link href="https://www.vanderbilt.edu/digitalhumanities/on-infrastructure-and-digital-humanities-a-reflection-and-cfp/"/>
-        <updated>2021-11-03T17:23:50.000Z</updated>
-        <summary type="html"><![CDATA[by Maren Loveland, Mellon Graduate Fellow, English & CMAP As a current DH Fellow, my research explores how infrastructured environments are mediated by digital technologies—namely through mapping, photography, and film. More specifically, I am curious about how these mediations affect the way infrastructures are imagined and aestheticized, and how they become objects of narrative and...]]></summary>
-        <author>
-            <name>romeroda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCU Library Publish Seán Lester Collection on DRI]]></title>
-        <id>1436 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dcu-library-publish-sean-lester-collection-dri"/>
-        <updated>2021-11-03T17:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Dublin City University (DCU) Library has published its first collection on DRI –  the Diaries of the former Irish diplomat, Seán Lester.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch of DRI Instagram Account]]></title>
-        <id>1435 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/launch-dri-instagram-account"/>
-        <updated>2021-11-03T16:47:09.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is excited to announce that we will be launching a DRI Instagram account during  Explore Your Archive (EYA) Week, which runs from 20-28 Nov 2021.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interested in Cultural Heritage and Fair Data?]]></title>
-        <id>1434 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/interested-cultural-heritage-and-fair-data"/>
-        <updated>2021-11-03T14:49:44.000Z</updated>
-        <summary type="html"><![CDATA[If you are interested in the nexus between cultural heritage and FAIR data, or generally in ways to open up archives for improved accessibility, recordings of two recent keynote talks on these topics by DRI's Director Natalie Harrower are now available.]]></summary>
-        <author>
-            <name>Natalie Harrower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BECOME A DHNB AFFILIATE INSTITUTION]]></title>
-        <id>https://dhnb.eu/?p=2023</id>
-        <link href="https://dhnb.eu/new-dhnb-membership/"/>
-        <updated>2021-11-01T10:16:46.000Z</updated>
-        <summary type="html"><![CDATA[DHNB introduces a new type of members aimed at institutions. Benefits: Information about affiliates and their activities will be promoted on the DHNB website and through other DHNB communication platforms Affiliates will be promoted as the DHNB conference supporters The DHNB annual conference fees will be reduced for two representatives of the Affiliate Institution As […]]]></summary>
-        <author>
-            <name>Olga Holownia</name>
         </author>
     </entry>
 </feed>
