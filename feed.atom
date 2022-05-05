@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-04T08:17:33.102Z</updated>
+    <updated>2022-05-05T08:17:25.091Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Practices in Coding for Digital Humanities]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/34337/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/34337/"/>
+        <updated>2022-05-05T07:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Mary Chester-Kadwell - Research Software Engineering Coordinator, Cambridge Digital Humanities Please note this workshop has limited spaces and an application process in place. Application forms should be completed by noon, Sunday 8 May 2022. Successful applicants will be notified by the end-of-day Tuesday 10 May 2022. This course introduces best practices and techniques to help you better]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opportunities]]></title>
+        <id>https://www.cdh.cam.ac.uk/opportunities/</id>
+        <link href="https://www.cdh.cam.ac.uk/opportunities/"/>
+        <updated>2022-05-04T15:47:09.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Khanh Vo!]]></title>
+        <id>https://dhn.utoronto.ca/?p=5018</id>
+        <link href="https://dhn.utoronto.ca/welcome-to-khanh-vo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=welcome-to-khanh-vo"/>
+        <updated>2022-05-04T15:42:07.000Z</updated>
+        <summary type="html"><![CDATA[The CDHI warmly welcomes Khanh V.N. Vo as the 2022-23 JHI-CDHI Digital Humanities Postdoctoral Fellow. Dr. Vo (Ph.D. College of William and Mary, 2021) completed her doctorate in American Studies […]]]></summary>
+        <author>
+            <name>DHN Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Proposal]]></title>
+        <id>https://www.cdh.cam.ac.uk/mphil/research-proposal/</id>
+        <link href="https://www.cdh.cam.ac.uk/mphil/research-proposal/"/>
+        <updated>2022-05-04T14:22:46.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Courses]]></title>
+        <id>https://www.cdh.cam.ac.uk/mphil/courses/</id>
+        <link href="https://www.cdh.cam.ac.uk/mphil/courses/"/>
+        <updated>2022-05-04T13:48:59.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPhil]]></title>
+        <id>https://www.cdh.cam.ac.uk/mphil/</id>
+        <link href="https://www.cdh.cam.ac.uk/mphil/"/>
+        <updated>2022-05-04T13:47:43.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laetitia Della Bianca new paper on self-tracking apps]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=10572</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/05/04/laetitia-della-bianca-new-paper-on-self-tracking-apps/"/>
+        <updated>2022-05-04T13:21:31.000Z</updated>
+        <summary type="html"><![CDATA[dhCenter member Laetitia Della Bianca has published an article in the journal Learning, Media and Technology. It is entitled “Configuring the body as pedagogical site : towards a conceptual tool to unpack and situate multiple ontologies of the body in self-tracking apps” and is part of the special issue dedicated to “Feminist perspectives on learning, […]
+The post Laetitia Della Bianca new paper on self-tracking apps appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Leonardo Impett]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/"/>
+        <updated>2022-05-04T12:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Dr Leonardo Impett is a University Assistant Professor in Digital Humanities and convenor of the MPhil in Digital Humanities. He was previously Assistant Professor of Computer Science at Durham University. Leonardo has a background in information engineering and machine learning, having worked or studied at the Cambridge Machine Learning Lab, the Cambridge Computer Lab's Rainbow]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Social Data School 2022]]></title>
         <id>https://www.cdh.cam.ac.uk/about/programme/dataschools/social-data-school-2022/</id>
