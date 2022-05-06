@@ -2,10 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-05T08:17:25.091Z</updated>
+    <updated>2022-05-06T08:17:58.073Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CfP: DH_Budapest_2022 conference & DARIAH Days]]></title>
+        <id>1405 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2022/05/05/cfp-dhbudapest2022-conference-dariah-days"/>
+        <updated>2022-05-05T16:53:33.000Z</updated>
+        <summary type="html"><![CDATA[15 Jun 2022 - 00:00
+
+
+
+CfP: DH_Budapest_2022 conference & DARIAH Days
+
+
+
+DH_Budapest_2022 conference & DARIAH Days, organized by ELTE University. Please find the CFP of the conference enclosed. 
+Website: https://elte-dh.hu/en/conf22/  
+https://easychair.org/my/conference?conf=dh-budapest-2022]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAKING AI: Advancing creative approaches to the design of AI systems through the craft of making them]]></title>
+        <id>1404 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2022/05/05/making-ai-advancing-creative-approaches-design-ai-systems-through-craft-making-them"/>
+        <updated>2022-05-05T16:47:55.000Z</updated>
+        <summary type="html"><![CDATA[20 Jun 2022 - 00:00
+
+
+
+MAKING AI: Advancing creative approaches to the design of AI systems through the craft of making them
+
+
+
+AI Yesterday, a digital zine and transmedia forum, is hosting a workshop on AI’s materiality at ACM Creativity & Cognition June 20th in Venice. We are looking for participants to join us in a day of making, research and reflection with the physical materials that underpin AI systems. Those that are conventionally considered to ‘make’ AI through the design of AI systems are largely divorced from AI’s materiality and the craft of making AI. We hope to push participants beyond the theoretical knowing of AI materiality to tactile knowing through a practice-based approach to ‘making’ AI. Reorienting the focus of AI to materials and the supply chain as sites of creative intervention could leverage the potential of sensory, tactile experiences to spur re-imaginations of AI technologies and infrastructures.
+https://aiyesterday.com/ACM-C-C-Workshop
+ 
+Project Team: Margaret McGrath, Nancy Salem, Laurel Boxall
+Funders: TORCH-Minderoo Fund in AI Governance]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New version of nopaque released: now including a Transkribus HTR pipeline]]></title>
+        <id>https://readcoop.eu/?p=28707</id>
+        <link href="https://readcoop.eu/transkribus-nopaque-pipeline/"/>
+        <updated>2022-05-05T15:40:19.000Z</updated>
+        <summary type="html"><![CDATA[The new version of the nopaque software programme has just been released, now with a completely new Transkribus HTR pipeline. What is nopaque? nopaque is a custom-built web application developed […]
+The post New version of nopaque released: now including a Transkribus HTR pipeline appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ilaria Cesaroni]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/ilaria-cesaroni/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/ilaria-cesaroni/"/>
+        <updated>2022-05-05T13:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Ilaria Cesaroni is a third-year PhD candidate in Humanism and Technologies at the University of Macerata. She graduated in Modern Philology at the University of Macerata, worked on the correspondence between Monaldo Leopardi and Carlo Antici. Her work aims to constitute the digital epistolary of Giacomo Leopardi’s father, Monaldo, embedded in a very dense intellectual]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appel à articles: Journalistes et publics face aux « fake news »]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=10601</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/05/05/appel-a-articles-journalistes-et-publics-face-aux-fake-news/"/>
+        <updated>2022-05-05T13:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Un appel à articles est proposé pour le supplément A 2023 de la revue scientifique “Les enjeux de l’information et de la communication”. Ce numéro, consacré aux Journalistes et publics face aux “fake news” est coordonné par Vincent Carlino (CHUS/Crem, Université catholique de l’Ouest) et par Nathalie Pignard-Cheynel (Académie du journalisme et des médias, Université […]
+The post Appel à articles: Journalistes et publics face aux « fake news » appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDHI Digital Humanities Developer]]></title>
+        <id>https://dhn.utoronto.ca/?p=5027</id>
+        <link href="https://dhn.utoronto.ca/cdhi-digital-humanities-developer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cdhi-digital-humanities-developer"/>
+        <updated>2022-05-05T13:12:24.000Z</updated>
+        <summary type="html"><![CDATA[The CDHI invites applications for a Digital Humanities (DH) Developer to work collaboratively with faculty researchers on the complete lifecycle of digital scholarship projects. We are looking for someone with strong front-end development skills who is a collaborative, creative, and strategic thinker able to work closely with faculty to define research project goals and attainable deliverables within grant and research timelines and schedules. This is a term appointment until April 2024 with the possibility of renewal/extension. Applications are due May 26, 2022.]]></summary>
+        <author>
+            <name>Tanya Rohrmoser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Technician Commitment and the role of research and academic libraries as centres of technical and specialist expertise]]></title>
+        <id>https://www.rluk.ac.uk/?p=12013</id>
+        <link href="https://www.rluk.ac.uk/the-technician-commitment-and-the-role-of-research-and-academic-libraries-as-centres-of-technical-and-specialist-expertise/"/>
+        <updated>2022-05-05T10:53:08.000Z</updated>
+        <summary type="html"><![CDATA[On 27 April almost 100 colleagues came together for an interactive virtual seminar and workshop to explore the application of the Technician Commitment to research and academic libraries. Co-convened by Research Libraries UK and the AHRC, the event included a series of case study presentations and facilitated discussions. It considered the range of library [...]
+The post The Technician Commitment and the role of research and academic libraries as centres of technical and specialist expertise appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Practices in Coding for Digital Humanities]]></title>
         <id>https://www.cdh.cam.ac.uk/events/34337/</id>
