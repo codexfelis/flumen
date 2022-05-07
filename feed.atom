@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-06T08:17:58.073Z</updated>
+    <updated>2022-05-07T08:16:21.190Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Place-Making Narrative Data: Management Issues in the Context of Open Science and Data Curation in France]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.75</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.75"/>
+        <updated>2022-05-07T08:16:19.800Z</updated>
+        <summary type="html"><![CDATA[The Places dataset is still in-process and being added to on a regular basis. It is comprised of complete data management documentation and ethics documentation in English and French, concept notes in English and French, and participant data files that include .csv metadata sheets, .wav audio recordings of interviews, .jpeg photographs of the place of the interview and open ELAN .eaf transcriptions. The participant interview data relies on a narrative inquiry methodology and is collected in one-on-one interviews with researchers on the theme of anglophone expatriation and adaptation to French socio-physical space. These interviews are informal and interactive, aiming for a sharing of experience, since the researchers are, themselves, anglophone expatriates. The aim of this accompanying article is to provide information on the dataset through a concomitant reflection on the research context in France and the affordances of the increasingly powerful TGIR Huma-Num digital humanities infrastructure, as well as the tensions that are prevalent in the Franco-European space between the demands of Open Science and the restrictions of the European General Data Protection Regulations. These affordances and this tension have framed the process that has resulted in the Places data architecture.
+ Published on 2022-05-06 11:58:37]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/05/07/ive-got-a.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/07/ive-got-a.html"/>
+        <updated>2022-05-07T06:37:29.000Z</updated>
+        <summary type="html"><![CDATA[I’ve got a site, I suppose I need to add some content now… glam-workbook.net #GLAMWorkbook]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Text for Japanese]]></title>
+        <id>http://digitalorientalist.com/?p=8183</id>
+        <link href="https://digitalorientalist.com/2022/05/06/live-text-for-japanese/"/>
+        <updated>2022-05-06T23:13:23.000Z</updated>
+        <summary type="html"><![CDATA[Since the launch of iOS 15 and an iPadOS 15.1, iPhone and iPad users have been able to use Live …]]></summary>
+        <author>
+            <name>James Harry Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ateliers scientifiques : Introduction à l’étude du jeu vidéo pour les classes des gymnases vaudois]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=10629</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/05/06/ateliers-scientifiques-introduction-a-letude-du-jeu-video-pour-les-classes-des-gymnases-vaudois/"/>
+        <updated>2022-05-06T14:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Le GameLab UNIL-EPFL et L’éprouvette (UNIL) proposent désormais aux enseignant.e.s des gymnases vaudois des ateliers d’introduction à l’étude du jeu vidéo. Ces ateliers offrent la possibilité aux élèves de 15 à 19 ans de décortiquer la manière dont sont produits les jeux vidéo et de s’initier aux outils d’analyse de productions culturelles multisémiotiques et numériques […]
+The post Ateliers scientifiques : Introduction à l’étude du jeu vidéo pour les classes des gymnases vaudois appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Robert Ralley]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-robert-ralley/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-robert-ralley/"/>
+        <updated>2022-05-06T13:22:19.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myth-Busting Digital History: Some Lessons from Shades of Red]]></title>
+        <id>4001 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/myth-busting-digital-history-some-lessons-shades-red"/>
+        <updated>2022-05-06T12:40:10.000Z</updated>
+        <summary type="html"><![CDATA[This presentation combines two goals: (1) it gives a short introduction to my first book Shades of Red in which I used computational methods to study the intellectual history of Finnish socialism at the turn of the twentieth century, and (2) it tries to challenge some widely spread “myths” about digital history I have heard during the project.
+The first myth concerns the claim that the rise of digital history has led (and will increasingly lead) to a more limited range of primary sources used in research for especially the younger generations of historians prefer easily available machine-readable datasets. The counter argument would be that historians are not at the mercy of data providers but could become more active in the digitisation decisions, not only by lobbying memory organisations…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 postes pour doctorant·es dans le cadre du projet « Exégèse de Paul au XVIe siècle »]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=10621</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/05/06/4-postes-pour-doctorant%c2%b7es-dans-le-cadre-du-projet-exegese-de-paul-au-xvie-siecle/"/>
+        <updated>2022-05-06T08:46:30.000Z</updated>
+        <summary type="html"><![CDATA[La faculté de théologie de l’Université de Zurich et l’Institut d’histoire de la Réformation de l’Université de Genève mettent au concours 4 postes pour doctorant·es. Entrée en fonction : 01.08.2022 (ou à convenir). Les postes s’inscrivent dans le cadre du projet « Exégèse de Paul au XVIe siècle », financé par le FNS. Le projet […]
+The post 4 postes pour doctorant·es dans le cadre du projet « Exégèse de Paul au XVIe siècle » appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CfP: DH_Budapest_2022 conference & DARIAH Days]]></title>
         <id>1405 at https://eadh.org</id>
@@ -11182,74 +11255,6 @@ No further details were provided.
 A service will be held for the 44-year-old father of two on Wednesday.]]></summary>
         <author>
             <name>David Foster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ms. Codex 2032: 18th Century Prayer Book]]></title>
-        <id>http://schoenberginstitute.org/?p=15985</id>
-        <link href="https://schoenberginstitute.org/2021/11/08/ms-codex-2032-18th-century-prayer-book/"/>
-        <updated>2021-11-08T19:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Coffee With a Codex on Monday, November 8, featured Schoenberg Curator of Manuscripts Nick Herman with Ms. Codex 2032, a book of prayers for a lay reader’s private use during the Mass. Unlike a book of hours, which was designed for private contemplation, this book was made to be taken to Mass so the userContinue reading "Ms. Codex 2032: 18th Century Prayer Book"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PapyGreek Treebanks: A Dataset of Linguistically Annotated Greek Documentary Papyri]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.55</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.55"/>
-        <updated>2021-11-08T14:42:35.591Z</updated>
-        <summary type="html"><![CDATA[The PapyGreek Treebanks dataset contains documentary texts written in Postclassical Greek (ca. 300 BCE–700 CE), morphosyntactically annotated according to Dependency Grammar. The source of the texts is the Duke Databank of Documentary Papyri (DDbDP), which preserves the modern editorial treatment of the documents in TEI Epidoc XML encoding. Aiming to expose linguistic variation in the DDbDP, we have annotated two versions of a selection of documents: the plain transcription and an editorially corrected version. The dataset also comprises metadata about the documents’ dating and provenance, text type, and the persons involved. Furthermore, it facilitates linguistic research on these texts.
- Published on 2021-11-05 11:05:43]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invited Talk at the University of Verona]]></title>
-        <id>https://lila-erc.eu/?p=2702</id>
-        <link href="https://lila-erc.eu/invited-talk-verona-2021/"/>
-        <updated>2021-11-08T10:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Invited Talk: Digital Dante Days
-Date: 24th November 2021, 17 pm CET
-Location: Verona
-Lemmi, alberi e classi. Dall'Index Thomisticus ai Linked Data.
-
-
-The post Invited Talk at the University of Verona appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invited Talk at the University of Verona]]></title>
-        <id>https://lila-erc.eu/?p=2702</id>
-        <link href="https://lila-erc.eu/invited-talk-verona-2021/"/>
-        <updated>2021-11-08T10:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Invited Talk: Digital Dante Days
-Date: 24th November 2021, 17 pm CET
-Location: Verona
-Lemmi, alberi e classi. Dall'Index Thomisticus ai Linked Data.
-
-
-The post Invited Talk at the University of Verona appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More thoughts on the Trove researcher platform for advanced research]]></title>
-        <id>http://wragge.micro.blog/2021/11/08/more-thoughts-on.html</id>
-        <link href="https://updates.timsherratt.org/2021/11/08/more-thoughts-on.html"/>
-        <updated>2021-11-08T02:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Previously on ‘What could we do with $2.3 million?’, the National Library of Australia produced a draft plan for an ‘Advanced Researcher Platform’ that was thoroughly inadequate. Rather than submit this plan to the ARDC for consideration as part of the HASS RDC process, the NLA wisely decided to make some fundamental changes. The redrafted draft is now available for re-feedback. This is where we pick up the story…
-So what has changed?
-Generally speaking there seem to be two major changes.
-There’s a much greater focus on consultation and collaboration.
-There’s less detail about what will actually be developed.
-These two changes can work together positively. The details of what’s being developed can be worked out through consultation, ensuring that what’s developed meets real research needs.…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
 </feed>

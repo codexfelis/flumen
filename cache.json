@@ -1178,6 +1178,24 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=10629",
+          "author": "Heloise schibler",
+          "description": "Le GameLab UNIL-EPFL et L’éprouvette (UNIL) proposent désormais aux enseignant.e.s des gymnases vaudois des ateliers d’introduction à l’étude du jeu vidéo. Ces ateliers offrent la possibilité aux élèves de 15 à 19 ans de décortiquer la manière dont sont produits les jeux vidéo et de s’initier aux outils d’analyse de productions culturelles multisémiotiques et numériques […]\nThe post Ateliers scientifiques : Introduction à l’étude du jeu vidéo pour les classes des gymnases vaudois appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/05/06/ateliers-scientifiques-introduction-a-letude-du-jeu-video-pour-les-classes-des-gymnases-vaudois/",
+          "publishedOn": "2022-05-06T14:54:14.000Z",
+          "wordCount": 584,
+          "title": "Ateliers scientifiques : Introduction à l’étude du jeu vidéo pour les classes des gymnases vaudois"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=10621",
+          "author": "Heloise schibler",
+          "description": "La faculté de théologie de l’Université de Zurich et l’Institut d’histoire de la Réformation de l’Université de Genève mettent au concours 4 postes pour doctorant·es. Entrée en fonction : 01.08.2022 (ou à convenir). Les postes s’inscrivent dans le cadre du projet « Exégèse de Paul au XVIe siècle », financé par le FNS. Le projet […]\nThe post 4 postes pour doctorant·es dans le cadre du projet « Exégèse de Paul au XVIe siècle » appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/05/06/4-postes-pour-doctorant%c2%b7es-dans-le-cadre-du-projet-exegese-de-paul-au-xvie-siecle/",
+          "publishedOn": "2022-05-06T08:46:30.000Z",
+          "wordCount": 729,
+          "title": "4 postes pour doctorant·es dans le cadre du projet « Exégèse de Paul au XVIe siècle »"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=10601",
           "author": "Heloise schibler",
           "description": "Un appel à articles est proposé pour le supplément A 2023 de la revue scientifique “Les enjeux de l’information et de la communication”. Ce numéro, consacré aux Journalistes et publics face aux “fake news” est coordonné par Vincent Carlino (CHUS/Crem, Université catholique de l’Ouest) et par Nathalie Pignard-Cheynel (Académie du journalisme et des médias, Université […]\nThe post Appel à articles: Journalistes et publics face aux « fake news » appeared first on dhCenter.",
@@ -3001,6 +3019,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=8183",
+          "author": "James Harry Morris",
+          "description": "Since the launch of iOS 15 and an iPadOS 15.1, iPhone and iPad users have been able to use Live …",
+          "link": "https://digitalorientalist.com/2022/05/06/live-text-for-japanese/",
+          "publishedOn": "2022-05-06T23:13:23.000Z",
+          "wordCount": 813,
+          "title": "Live Text for Japanese"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=8166",
           "author": "DaigengnaDuoer",
           "description": "A while ago, I wrote a piece arguing that we, as researchers in the humanities, need a better system to …",
@@ -3949,15 +3976,6 @@
           "publishedOn": "2021-11-22T09:25:20.000Z",
           "wordCount": 550,
           "title": "Winter School at the University of Padova"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2702",
-          "author": "Rachele Sprugnoli",
-          "description": "Invited Talk: Digital Dante Days\nDate: 24th November 2021, 17 pm CET\nLocation: Verona\nLemmi, alberi e classi. Dall'Index Thomisticus ai Linked Data.\n\n\nThe post Invited Talk at the University of Verona appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/invited-talk-verona-2021/",
-          "publishedOn": "2021-11-08T10:41:38.000Z",
-          "wordCount": 465,
-          "title": "Invited Talk at the University of Verona"
         }
       ]
     },
@@ -4091,15 +4109,6 @@
           "publishedOn": "2021-11-22T09:25:20.000Z",
           "wordCount": 550,
           "title": "Winter School at the University of Padova"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2702",
-          "author": "Rachele Sprugnoli",
-          "description": "Invited Talk: Digital Dante Days\nDate: 24th November 2021, 17 pm CET\nLocation: Verona\nLemmi, alberi e classi. Dall'Index Thomisticus ai Linked Data.\n\n\nThe post Invited Talk at the University of Verona appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/invited-talk-verona-2021/",
-          "publishedOn": "2021-11-08T10:41:38.000Z",
-          "wordCount": 465,
-          "title": "Invited Talk at the University of Verona"
         }
       ]
     },
@@ -4206,6 +4215,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.75",
+          "author": null,
+          "description": "The Places dataset is still in-process and being added to on a regular basis. It is comprised of complete data management documentation and ethics documentation in English and French, concept notes in English and French, and participant data files that include .csv metadata sheets, .wav audio recordings of interviews, .jpeg photographs of the place of the interview and open ELAN .eaf transcriptions. The participant interview data relies on a narrative inquiry methodology and is collected in one-on-one interviews with researchers on the theme of anglophone expatriation and adaptation to French socio-physical space. These interviews are informal and interactive, aiming for a sharing of experience, since the researchers are, themselves, anglophone expatriates. The aim of this accompanying article is to provide information on the dataset through a concomitant reflection on the research context in France and the affordances of the increasingly powerful TGIR Huma-Num digital humanities infrastructure, as well as the tensions that are prevalent in the Franco-European space between the demands of Open Science and the restrictions of the European General Data Protection Regulations. These affordances and this tension have framed the process that has resulted in the Places data architecture.\n Published on 2022-05-06 11:58:37",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.75",
+          "publishedOn": "2022-05-07T08:16:19.800Z",
+          "wordCount": 6428,
+          "title": "Place-Making Narrative Data: Management Issues in the Context of Open Science and Data Curation in France"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.76",
           "author": null,
@@ -4358,15 +4376,6 @@
           "publishedOn": "2021-11-15T12:10:00.567Z",
           "wordCount": 3102,
           "title": "Normalized Datasets of Roth’s Reconstruction of Marcion’s <i>Gospel</i>"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.55",
-          "author": null,
-          "description": "The PapyGreek Treebanks dataset contains documentary texts written in Postclassical Greek (ca. 300 BCE–700 CE), morphosyntactically annotated according to Dependency Grammar. The source of the texts is the Duke Databank of Documentary Papyri (DDbDP), which preserves the modern editorial treatment of the documents in TEI Epidoc XML encoding. Aiming to expose linguistic variation in the DDbDP, we have annotated two versions of a selection of documents: the plain transcription and an editorially corrected version. The dataset also comprises metadata about the documents’ dating and provenance, text type, and the persons involved. Furthermore, it facilitates linguistic research on these texts.\n Published on 2021-11-05 11:05:43",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.55",
-          "publishedOn": "2021-11-08T14:42:35.591Z",
-          "wordCount": 2705,
-          "title": "PapyGreek Treebanks: A Dataset of Linguistically Annotated Greek Documentary Papyri"
         }
       ]
     },
@@ -5318,15 +5327,6 @@
           "publishedOn": "2021-11-15T20:05:29.000Z",
           "wordCount": 1434,
           "title": "LJS 266 and Ms. Roll 1588: Genealogy"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=15985",
-          "author": "simsmss",
-          "description": "Coffee With a Codex on Monday, November 8, featured Schoenberg Curator of Manuscripts Nick Herman with Ms. Codex 2032, a book of prayers for a lay reader’s private use during the Mass. Unlike a book of hours, which was designed for private contemplation, this book was made to be taken to Mass so the userContinue reading \"Ms. Codex 2032: 18th Century Prayer Book\"",
-          "link": "https://schoenberginstitute.org/2021/11/08/ms-codex-2032-18th-century-prayer-book/",
-          "publishedOn": "2021-11-08T19:42:59.000Z",
-          "wordCount": 1330,
-          "title": "Ms. Codex 2032: 18th Century Prayer Book"
         }
       ]
     },
@@ -5747,6 +5747,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2022/05/07/ive-got-a.html",
+          "author": null,
+          "description": "I’ve got a site, I suppose I need to add some content now… glam-workbook.net #GLAMWorkbook",
+          "link": "https://updates.timsherratt.org/2022/05/07/ive-got-a.html",
+          "publishedOn": "2022-05-07T06:37:29.000Z",
+          "wordCount": 31,
+          "title": "Untitled"
+        },
+        {
           "id": "http://wragge.micro.blog/2022/05/02/working-with-trove.html",
           "author": null,
           "description": "The ARDC is organising a couple of public forums to help gather researcher requirements for the Trove component of the HASS RDC. One of the roundtables will look at ‘Existing tools that utilise Trove data and APIs’. Last year I wrote a summary of what the GLAM Workbench can contribute to the development of humanities research infrastructure, particularly in regard to Trove. I thought it might be useful to update that list to include recent additions to the GLAM Workbench, as well as a range of other datasets, software, tools, and interfaces that exist outside of the GLAM Workbench.\nSince last year’s post I’ve also been working hard to integrate the GLAM Workbench with other eResearch services such as Nectar and CloudStor, and to document and support the ways that individuals and institutio…",
@@ -5988,15 +5997,6 @@
           "publishedOn": "2021-11-11T06:03:43.000Z",
           "wordCount": 239,
           "title": "A template for GLAM Workbench development"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/11/08/more-thoughts-on.html",
-          "author": null,
-          "description": "Previously on ‘What could we do with $2.3 million?’, the National Library of Australia produced a draft plan for an ‘Advanced Researcher Platform’ that was thoroughly inadequate. Rather than submit this plan to the ARDC for consideration as part of the HASS RDC process, the NLA wisely decided to make some fundamental changes. The redrafted draft is now available for re-feedback. This is where we pick up the story…\nSo what has changed?\nGenerally speaking there seem to be two major changes.\nThere’s a much greater focus on consultation and collaboration.\nThere’s less detail about what will actually be developed.\nThese two changes can work together positively. The details of what’s being developed can be worked out through consultation, ensuring that what’s developed meets real research needs.…",
-          "link": "https://updates.timsherratt.org/2021/11/08/more-thoughts-on.html",
-          "publishedOn": "2021-11-08T02:15:00.000Z",
-          "wordCount": 2060,
-          "title": "More thoughts on the Trove researcher platform for advanced research"
         }
       ]
     },
@@ -6147,6 +6147,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4001 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "This presentation combines two goals: (1) it gives a short introduction to my first book Shades of Red in which I used computational methods to study the intellectual history of Finnish socialism at the turn of the twentieth century, and (2) it tries to challenge some widely spread “myths” about digital history I have heard during the project.\nThe first myth concerns the claim that the rise of digital history has led (and will increasingly lead) to a more limited range of primary sources used in research for especially the younger generations of historians prefer easily available machine-readable datasets. The counter argument would be that historians are not at the mercy of data providers but could become more active in the digitisation decisions, not only by lobbying memory organisations…",
+          "link": "https://www.c2dh.uni.lu/events/myth-busting-digital-history-some-lessons-shades-red",
+          "publishedOn": "2022-05-06T12:40:10.000Z",
+          "wordCount": 750,
+          "title": "Myth-Busting Digital History: Some Lessons from Shades of Red"
+        },
         {
           "id": "3993 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6442,6 +6451,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-robert-ralley/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-robert-ralley/",
+          "publishedOn": "2022-05-06T13:22:19.000Z",
+          "wordCount": 163,
+          "title": "Dr Robert Ralley"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/ilaria-cesaroni/",
           "author": null,
