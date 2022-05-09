@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-08T08:15:53.320Z</updated>
+    <updated>2022-05-09T08:16:47.119Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Code of Conduct]]></title>
+        <id>https://www.cdh.cam.ac.uk/code-of-conduct/</id>
+        <link href="https://www.cdh.cam.ac.uk/code-of-conduct/"/>
+        <updated>2022-05-09T08:12:50.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>http://wragge.micro.blog/2022/05/08/141629.html</id>
@@ -11049,172 +11058,6 @@ The new repository is configured to do various things automatically, such as gen
 This is just the first step. There’s more documentation to come, but you’re very welcome to try it out. And, of course, if you are interested in contributing to the development of the GLAM Workbench, let me know and I’ll help get you set up!]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for papers_Online Meeting "Programming in Digital Humanities", University of Évora, Portugal]]></title>
-        <id>1371 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2021/11/10/call-papersonline-meeting-programming-digital-humanities-university-evora-portugal"/>
-        <updated>2021-11-10T11:04:25.000Z</updated>
-        <summary type="html"><![CDATA[8 Dec 2021 - 00:00
-
-
-
-Call for papers_Online Meeting "Programming in Digital Humanities", University of Évora, Portugal
-
-
-
-On behalf of the Organizing Committee of the online meeting "Programming in Digital Humanities", 16-17th December, I am pleased to share relevant information about this upcoming event on:
-https://sites.google.com/uevora.pt/programmingdhs
-Programming in Digital Humanities (DH) is one of the most challenging topics in this field of knowledge and research. Unfortunately, a significant number of DH’ers coming from areas of knowledge such as literature, philology, history, etc., still experience great difficulties when it comes to use programming languages to handle their data and display it. This meeting aims to address these difficulties and discuss the latest developments associated to programming in DHs by bringing together scientists from different areas within the community.
-For registration and submission of abstracts, please use the Indico platform, where you will be asked to create a user profile:
-https://indico.hpc.uevora.pt/event/8/
- 
-The organising committee,
-Sandra Boto 
-Miguel A. Avillez
-Carla Castro]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postdoc on the Anthropology of AI in Islam: computational and social network analysis (0,70 FTE)]]></title>
-        <id>1370 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2021/11/10/postdoc-anthropology-ai-islam-computational-and-social-network-analysis-070-fte"/>
-        <updated>2021-11-10T10:55:14.000Z</updated>
-        <summary type="html"><![CDATA[28 Nov 2021 - 00:00
-
-
-
-Postdoc on the Anthropology of AI in Islam: computational and social network analysis (0,70 FTE)  
-
-
-
-The Institute of Cultural Anthropology and Development Sociology of the Faculty of Social and Behavioural Sciences is looking for a
-Postdoc on the Anthropology of AI in Islam: computational and social network analysis (0,70 FTE)  
-Vacancy number 21-543 9924
-Deadline for applying: November 28, 2021
-Project description
-The Leiden University Institute of Cultural Anthropology and Development Sociology (CADS) is host to the NWO-Vici research project One Among Zeroes |0100| Towards an Anthropology of Everyday AI in Islam (VI.C. 201.058) funded by the Netherlands Organization for Scientific Research.
-Project abstract
-The |0100| Project investigates the Islamic Information …]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar recording now available: ‘In Her Shoes: Digitally Archiving Feminist Grassroots Movements and Sensitive Research’, Dr Lorraine Grimes]]></title>
-        <id>1439 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/webinar-recording-and-slides-now-available-%E2%80%98-her-shoes-digitally-archiving-feminist-grassroots"/>
-        <updated>2021-11-10T10:52:08.000Z</updated>
-        <summary type="html"><![CDATA[We invite you to (re)watch this lunchtime talk by Dr Grimes from November 2021]]></summary>
-        <author>
-            <name>Deborah Thorpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[**Extended deadline** Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London]]></title>
-        <id>1369 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2021/11/10/extended-deadline-job-openings-two-postdoc-researchers-fix-term-until-end-sep-2024"/>
-        <updated>2021-11-10T10:47:30.000Z</updated>
-        <summary type="html"><![CDATA[2 Jan 2022 - 00:00
-
-
-
-**Extended deadline** Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London
-
-
-
-﻿Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London
-Closing Date: 25 Nov 2021 2 Jan 2022 23:59
-The Department of Information Studies at University College London is looking to appoint two postdoctoral researchers (from immediate start until 30th September 2024 1.0FTE) on the AHRC funded project, “The Sloane Lab: Looking back to build future shared collections”, led by UCL in partnership with the British Museum and Natural History Museum.
-The Sloane Lab project has been fund…]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London]]></title>
-        <id>1369 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2021/11/10/job-openings-two-postdoc-researchers-fix-term-until-end-sep-2024-1fte-work-sloane"/>
-        <updated>2021-11-10T10:47:30.000Z</updated>
-        <summary type="html"><![CDATA[25 Nov 2021 - 00:00
-
-
-
-Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London
-
-
-
-﻿Job openings: Two Postdoc Researchers (fix term until end Sep 2024, 1FTE) to work on Sloane Lab (AHRC funded Digital Humanities Project) University College London
-Closing Date: 25 Nov 2021 23:59
-The Department of Information Studies at University College London is looking to appoint two postdoctoral researchers (from immediate start until 30th September 2024 1.0FTE) on the AHRC funded project, “The Sloane Lab: Looking back to build future shared collections”, led by UCL in partnership with the British Museum and Natural History Museum.
-The Sloane Lab project has been funded under the ‘Towards a National…]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar recording and slides now available: The EU Copyright Directive]]></title>
-        <id>1438 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/webinar-recording-and-slides-now-available-eu-copyright-directive"/>
-        <updated>2021-11-10T10:29:36.000Z</updated>
-        <summary type="html"><![CDATA[We would like to thank Ariadna Matas and Gyta Berasnevičiūtė, and invite you to watch the webinar and download the slideshow.]]></summary>
-        <author>
-            <name>Deborah Thorpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Producing & Interpreting Networks of Journal Articles in Psychology, 1887-1902]]></title>
-        <id>3651 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/producing-interpreting-networks-journal-articles-psychology-1887-1902"/>
-        <updated>2021-11-10T08:13:34.000Z</updated>
-        <summary type="html"><![CDATA[My team has been collecting full runs of psychology journals from around the turn of the 20th century and, using statistical methods, converting them into networks not of people, as is the typical practice, but of the articles themselves. This leaves us with the question of how to interpret clusters of articles that are associated with each other by the vocabularies they contain. In this talk, I will ask you to participate in our interpretive process and help to name the clusters yourselves (then we can see how your labels line up with the ones that we came up with). The journal we will be using is the American Journal of Psychology, from its founding by Granville Stanley Hall in 1887 up to 1902.
- 
-Christopher Green works in the Historical, Theoretical, & Critical Studies of Psychology Program at York University in Toronto, Canada. He has PhDs in Cognitive Science and in the Philosophy of Science. For the past decade his lab has been conducting digital research on the history of psychology. His most recent book is Psychology and Its Cities: A New History of Early American Psychology (Routledge, 2019). 
- 
-Wednesday, 18 November 2021
-14.00 - 15.00
-C²DH Open Space and Webex
- 
-If you want to participate online, please send an e-mail to vanessa.napolitano@uni.lu to receive the link.
-18 November 2021
-  Data Science  Methodology  Network analysis
-  Hands-on History
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[livestreaming] South Florida vs Bethune-Cookman Live @stream Free Online]]></title>
-        <id>12962 at https://www.force11.org</id>
-        <link href="https://www.force11.org/blog/livestreaming-south-florida-vs-bethune-cookman-live-stream-free-online"/>
-        <updated>2021-11-09T22:18:01.000Z</updated>
-        <summary type="html"><![CDATA[25 sec ago South Florida vs. Bethune-Cookman: How to watch NCAAM online, TV channel, live stream info, game time
-How to watch South Florida vs. Bethune-Cookman College Basketball game.The South Florida Bulls host the Bethune-Cookman Wildcats in Week 1 of the NCAAM season!
-Watch Now >> https://just-watch-now.site/v/nba/?v=ncaam+streams
-Watch Now >> https://just-watch-now.site/v/nba/?v=ncaam+streams
-The South Florida enter Week 1 on a six-game winning streak, beating the Panthers, Giants, Patriots, and Vikings in October to give Bulls a 6-1 record. In the AFC, the Bethune-Cookman are still alive in the competitive AFC West. The Raiders and Bethune-Cookman lead the way at 5-2 and 4-3, respectively, but the South Florida and Bethune-Cookman aren’t too far behind with matching 4-4 records. Afte…]]></summary>
-        <author>
-            <name>David Foster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Bob Jones University vs Wofford Live Stream Free]]></title>
-        <id>12960 at https://www.force11.org</id>
-        <link href="https://www.force11.org/blog/watch-bob-jones-university-vs-wofford-live-stream-free"/>
-        <updated>2021-11-09T22:17:31.000Z</updated>
-        <summary type="html"><![CDATA[How To Watch NCAAM Division I Basketball Bob Jones University vs Wofford Live and TV guide, NCAAM Division I Online Free 10th November 2021.NCAAM Division I Basketball Bob Jones University vs Wofford Live: team news, kickoff time, predictions, live Online
-==
-WATCH;; https://ncaambasketballlive.blogspot.com/2021/11/livestream.html
-==
-How to Live  NCAAM Division I Basketball Bob Jones University vs Wofford Live Basketball Online Free 10th November 2021.After suffering a shocking defeat, the will be hoping to beat St.in
-NCAAM Division I Basketball Bob Jones University vs Wofford Live is gridiron Basketball Online Free 10th November 2021 played by  NCAAM Division I Basketball Bob Jones University vs Wofford teams in the . It ranks among the most popular interscholastic sports in both countries…]]></summary>
-        <author>
-            <name>David Foster</name>
         </author>
     </entry>
 </feed>
