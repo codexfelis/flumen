@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-11T08:19:03.032Z</updated>
+    <updated>2022-05-12T08:16:43.227Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/05/12/til-you-can.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/12/til-you-can.html"/>
+        <updated>2022-05-12T07:25:51.000Z</updated>
+        <summary type="html"><![CDATA[TIL you can do date maths in Trove. Searching for date:[NOW-10YEAR TO NOW] in newspapers & gazettes returns articles from the last 10 years. Try it: trove.nla.gov.au/search/ca…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LJS 347: Consolation of Philosophy]]></title>
+        <id>http://schoenberginstitute.org/?p=16746</id>
+        <link href="https://schoenberginstitute.org/2022/05/11/ljs-347-consolation-of-philosophy/"/>
+        <updated>2022-05-11T20:39:31.000Z</updated>
+        <summary type="html"><![CDATA[On May 11, Dot Porter brought out LJS 347, an incomplete and heavily glossed 14th century English copy of Boethius’s Consolation of Philosophy, one of the most enduring and influential texts which remained popular throughout the middle ages. We also took a look at Ms. Codex 1081, a 15th century copy of the text fromContinue reading "LJS 347: Consolation of Philosophy"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ms. Coll. 728, folder 23: Theology]]></title>
+        <id>http://schoenberginstitute.org/?p=16742</id>
+        <link href="https://schoenberginstitute.org/2022/05/11/ms-coll-728-folder-23-theology/"/>
+        <updated>2022-05-11T14:28:59.000Z</updated>
+        <summary type="html"><![CDATA[On April 27 Kathryn Phipps, Ph.D. Candidate in Hispanic Studies, brought out Ms. Coll. 728, folder 23, a highly calligraphic document (Escrito curioso) consisting of a short theological treatise in Spanish followed by religiously themed illustrations, acrostics, poems, odes, and elegies, all in Latin. The text is written by someone using an obvious pen name,Continue reading "Ms. Coll. 728, folder 23: Theology"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social media and digital development]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/34776/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/34776/"/>
+        <updated>2022-05-11T11:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Speaker: Dr Anan Wan Assistant Professor of Strategic Communication Sequence A.Q. Miller School of Journalism and Mass Communications, Kansas State University, the US This is the third seminar in the Browsed · Bridged · Beyond network. Further information will follow.]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chen Qu]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/susan-qu/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/susan-qu/"/>
+        <updated>2022-05-11T10:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Chen is a PhD student in Urban Studies, whose research interests lie in human–environment relationships. She has several years’ research and practice experience in urban planning/design, resilient/sustainable cities and health studies. Her focus this year has been on digital tool development for education and learning, the potential of digital data and coding in research and]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUMAC'22: The 4th workshop on Structuring and Understanding of Multimedia heritAge Contents @ ACM Multimedia 2022]]></title>
         <id>discourse.computational-humanities-research.org-topic-1790</id>
@@ -11263,49 +11313,6 @@ The post EPFL SHS Prize 2020-2021: a more sustainable path for e-waste appeared 
         <updated>2021-11-14T18:10:57.000Z</updated>
         <summary type="html"><![CDATA[Wir freuen uns sehr, die Gründung einer neuen DHd-AG namens "Spiele" bekannt geben zu dürfen.
 Die AG „Spiele“ will das Thema Spiele in all seinen Ausformungen mit Methoden,…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: Wissenschaftliches Volontariat (Kulturstiftung des Bundes, Halle/Saale)]]></title>
-        <id>node/731</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-wissenschaftliches-volontariat-kulturstiftung-des-bundes-hallesaale"/>
-        <updated>2021-11-13T17:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Die Kulturstiftung des Bundes mit Sitz in Halle an der Saale bietet zum 01.02.2022 ein wissenschaftliches Volontariat (m/w/d, Vollzeit) an.
-Die Kulturstiftung des Bundes (KSB)…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: WMA (m/w/d) &quot;Konzeption eines gemeinsamen Datenraumes&quot; (Museum Wiesbaden)]]></title>
-        <id>node/730</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-wma-mwd-konzeption-eines-gemeinsamen-datenraumes-museum-wiesbaden"/>
-        <updated>2021-11-13T17:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Der Mandant Historisches Erbe Hessen, in dem die Landesmuseen Darmstadt und Wiesbaden, die Museumslandschaft Hessen Kassel, die Staatlichen Schlösser und Gärten Hessen sowie das…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebote im Bauhaus-Archiv / Museum für Gestaltung (Berlin)]]></title>
-        <id>node/729</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebote-im-bauhaus-archiv-museum-f%C3%BCr-gestaltung-berlin"/>
-        <updated>2021-11-13T16:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Im Bauhaus-Archiv - Museum für Gestaltung sind aktuell zwei Stellen ausgeschrieben:
-Stellenausschreibung Projektleiter*in Digitales Bauhaus-Archiv
-Stellenausschreibung…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: MitarbeiterIn für Sachgebiet Projektprüfung (Kulturstiftung des Bundes, Halle/Saale)]]></title>
-        <id>node/728</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-mitarbeiterin-f%C3%BCr-sachgebiet-projektpr%C3%BCfung-kulturstiftung-des-bundes"/>
-        <updated>2021-11-13T15:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Die Kulturstiftung des Bundes mit Sitz in Halle an der Saale sucht ab 01.01.2022 eine/n Mitarbeiter/in für das Sachgebiet Projektprüfung (m/w/d, Vollzeit, Entgeltgruppe 6 TVöD…]]></summary>
         <author>
             <name>406</name>
         </author>
