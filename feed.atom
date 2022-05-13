@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-12T08:16:43.227Z</updated>
+    <updated>2022-05-13T08:15:23.086Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Social Reform International Congresses and Organizations (1846–1914): From Sources to Data]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.69</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.69"/>
+        <updated>2022-05-13T08:15:21.431Z</updated>
+        <summary type="html"><![CDATA[TIC-Collaborative was a collaborative digital humanities project that focused on transnational intellectual cooperation (TIC) in the long nineteenth century, in particular on transnational connections in the field of social reform. The dataset contains information on over 1650 international congresses and 450 organizations and conference series related to the social question. The project focussed on the Low Countries and a selection of reform areas.
+ Published on 2022-05-12 11:59:01]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New UKRI survey]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/new-ukri-digital-research-initiatives/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/new-ukri-digital-research-initiatives/"/>
+        <updated>2022-05-12T15:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Survey on software, skills and infrastructure for research A survey studying the practices and barriers that UK researchers from all disciplines face when using software and computing in their research. The results will contribute towards UKRI Digital Research Infrastructure policy and help direct funding, so it is vital that we hear from a broad range]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interdisciplinary CROSS program invites proposals on the theme of ‘crisis’]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=10685</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/05/12/interdisciplinary-cross-program-invites-proposals-on-the-theme-of-crisis/"/>
+        <updated>2022-05-12T09:25:55.000Z</updated>
+        <summary type="html"><![CDATA[The interdisciplinary Collaborative Research on Science and Society (CROSS) program in EPFL’s College of Humanities is now accepting joint project proposals from researcher at EPFL and the University of Lausanne on the theme of ‘crisis’. The CROSS program aims to support research projects that deal with current issues in society and technology, and that bring […]
+The post Interdisciplinary CROSS program invites proposals on the theme of ‘crisis’ appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Celia Luterbacher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>http://wragge.micro.blog/2022/05/12/til-you-can.html</id>
@@ -11304,17 +11336,6 @@ The post EPFL SHS Prize 2020-2021: a more sustainable path for e-waste appeared 
         <summary type="html"><![CDATA[A review of Digitizing Rochester's Religions, a public history project on religious communities in Rochester, New York, directed by Margarita S. Guillory and Daniel Gorman, Jr.]]></summary>
         <author>
             <name>Jonathan D. Lawrence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neue DHd-AG &quot;Spiele&quot; gegründet]]></title>
-        <id>node/734</id>
-        <link href="https://dig-hum.de/aktuelles/neue-dhd-ag-spiele-gegr%C3%BCndet"/>
-        <updated>2021-11-14T18:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Wir freuen uns sehr, die Gründung einer neuen DHd-AG namens "Spiele" bekannt geben zu dürfen.
-Die AG „Spiele“ will das Thema Spiele in all seinen Ausformungen mit Methoden,…]]></summary>
-        <author>
-            <name>406</name>
         </author>
     </entry>
 </feed>
