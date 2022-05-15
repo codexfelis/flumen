@@ -91,15 +91,6 @@
           "publishedOn": "2021-11-22T15:13:28.000Z",
           "wordCount": 347,
           "title": "Sloane Lab project features in Financial Times article"
-        },
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8229",
-          "author": "Lucy Stagg",
-          "description": "The Department of Information Studies at UCL is are seeking to appoint two Research Fellows to contribute to project “The Sloane Lab: Looking back to build future shared collections”, led by UCL in partnership with the British Museum and Natural History Museum. The Sloane Lab project has been funded under the ‘Towards a National Collection’ […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2021/11/16/rf-sloane-lab/",
-          "publishedOn": "2021-11-16T11:36:09.000Z",
-          "wordCount": 433,
-          "title": "Research Fellow vacancies for The Sloane Lab"
         }
       ]
     },
@@ -3395,15 +3386,6 @@
           "publishedOn": "2021-11-19T11:45:00.000Z",
           "wordCount": 1866,
           "title": "Old Chinese Prêt-à-porter. A double-edged sword."
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7040",
-          "author": "Cornelis van Lit",
-          "description": "Infrastructure in academia is what gives cohesion to a subject. It is a meeting place you know you can go …",
-          "link": "https://digitalorientalist.com/2021/11/16/building-dh-infrastructure-for-the-study-of-asia-middle-east-and-africa-how-they-do-it-in-france/",
-          "publishedOn": "2021-11-16T12:00:00.000Z",
-          "wordCount": 1393,
-          "title": "Building DH Infrastructure for the Study of Asia, Middle East, and Africa:  How they do it in France"
         }
       ]
     },
@@ -3456,15 +3438,6 @@
           "publishedOn": "2021-11-19T09:54:37.000Z",
           "wordCount": 141,
           "title": "CHR 2021 – Questionnaire"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-1580",
-          "author": "folgert",
-          "description": "If you have any questions about CHR2021 or run into certain issues, please let us know here. You can also send a PM to one of the @moderators.\n3 posts - 2 participants\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/questions-about-chr2021/1580",
-          "publishedOn": "2021-11-16T13:55:57.000Z",
-          "wordCount": 114,
-          "title": "Questions about CHR2021?"
         }
       ]
     },
@@ -4080,15 +4053,6 @@
           "publishedOn": "2021-11-17T13:46:31.000Z",
           "wordCount": 1016,
           "title": "Press Tracer: Visualise Newspaper Lineage"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=2132",
-          "author": "Olivia Vane",
-          "description": "In this blogpost we introduce ‘Macromap’: an interactive ‘small multiples’ visualisation for historical map collections. How can we get a handle on very large, partially-digitised collections of maps? We need a map of the maps. Macromap is designed to help researchers understand what map sheets the British Ordnance Survey (OS) made, when and where. It […]",
-          "link": "https://livingwithmachines.ac.uk/macromap-interactive-maps-in-time/?utm_source=rss&utm_medium=rss&utm_campaign=macromap-interactive-maps-in-time",
-          "publishedOn": "2021-11-16T16:51:01.000Z",
-          "wordCount": 3102,
-          "title": "Macromap: Interactive Maps in Time"
         }
       ]
     },
@@ -4625,20 +4589,6 @@
           "enclosure": {
             "url": "https://review.gale.com/wp-content/uploads/2021/11/Header.png",
             "length": "166396",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://review.gale.com/?p=13049",
-          "author": "Gale Ambassadors",
-          "description": "| By Robert Youngs do Patrocinio, Gale Ambassador at University College London| This post will focus on raising awareness of the Rasta struggle to practise their religion, principally using Gale’s Archives Unbound collections, an extensive database of primary sources included in Gale Reference Complete that many university students such as myself can utilise when conducting ... Read more\nThe post Unearthing and Decolonising the Rasta Voice appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2021/11/16/unearthing-the-rasta-voice/?utm_source=rss&utm_medium=rss&utm_campaign=unearthing-the-rasta-voice",
-          "publishedOn": "2021-11-16T10:00:00.000Z",
-          "wordCount": 1594,
-          "title": "Unearthing and Decolonising the Rasta Voice",
-          "enclosure": {
-            "url": "https://review.gale.com/wp-content/uploads/2021/11/Rastafarians-Blog-Header.png",
-            "length": "1993800",
             "type": "image/png"
           }
         }
@@ -5596,6 +5546,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/05/15/another-overdue-maintenance.html",
+          "author": null,
+          "description": "Another overdue maintenance task completed! The Tung Wah Newspaper index has been migrated from a custom Django app on a now defunct web host, to a nice, neat Datasette instance on Heroku. https://resources.chineseaustralia.org/tung_wah_newspaper_index",
+          "link": "https://updates.timsherratt.org/2022/05/15/another-overdue-maintenance.html",
+          "publishedOn": "2022-05-15T05:56:53.000Z",
+          "wordCount": 49,
+          "title": "Untitled"
+        },
         {
           "id": "http://wragge.micro.blog/2022/05/12/til-you-can.html",
           "author": null,
@@ -8407,15 +8366,6 @@
           "publishedOn": "2022-02-07T14:31:42.000Z",
           "wordCount": 125,
           "title": "JADH SIGLITH第3回研究会「DHスタートアップ相談会」開催のお知らせ"
-        },
-        {
-          "id": "67 at https://www.jadh.org",
-          "author": "adminweb",
-          "description": "日本語論文誌『デジタル・ヒューマニティーズ』では、2022年2月28日を締切りとして、第三号の投稿を募集いたします。\n投稿の要領等については以下のURLをご覧ください。\nバックナンバー・投稿要領等：\nhttps://www.jadh.org/jjdh\n投稿先サイト：\nhttps://journals.jadh.org/index.php/jjdh\nみなさまの投稿を心よりお待ちいたしております。",
-          "link": "https://www.jadh.org/node/67",
-          "publishedOn": "2021-11-16T12:04:51.000Z",
-          "wordCount": 67,
-          "title": "日本語論文誌『デジタル・ヒューマニティーズ』第三号投稿募集のお知らせ"
         }
       ]
     },
