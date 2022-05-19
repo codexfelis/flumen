@@ -12,6 +12,15 @@
       "siteUrl": "https://blogs.ucl.ac.uk/dh",
       "articles": [
         {
+          "id": "https://blogs.ucl.ac.uk/dh/?p=8264",
+          "author": "Adam Crymble",
+          "description": "Join us 5-6:30pm Thursday (19 May 2022) via Zoom for our very own Professor Tim Williams (Archaeology), for the next Digital Humanities Longview seminar, which explores digital scholarship and the Silk Road. Professor Williams’ research considers urban archaeology, especially in Roman, Islamic, and Central Asian contexts. He’s the Director of a long-running research project at […]",
+          "link": "https://blogs.ucl.ac.uk/dh/2022/05/18/penultimate-dh-longview-seminar/",
+          "publishedOn": "2022-05-18T10:44:17.000Z",
+          "wordCount": 356,
+          "title": "Penultimate DH Longview Seminar"
+        },
+        {
           "id": "https://blogs.ucl.ac.uk/dh/?p=8259",
           "author": "Lucy Stagg",
           "description": "The VISion for Art (VISART) workshop is an interdisciplinary workshop held with the European Conference on Computer Vision (ECCV) on a bi-annual basis. The workshop is now on its 6th edition and has had great success over ten years since starting in Florence (2012), with the 2022 edition in Tel Aviv, Israel. The success has […]",
@@ -5425,7 +5434,17 @@
       "title": "TEI: Text Encoding Initiative",
       "feedUrl": "https://tei-c.org/feed",
       "siteUrl": "https://tei-c.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tei-c.org/?p=31314",
+          "author": "Martina Scholger",
+          "description": "The TEI2022 Program Committee is pleased to announce its call for proposals for the 22th annual Conference and Members’ Meeting of the Text Encoding Initiative Consortium (TEI), which will be held 13-16 September 2022 (Tue-Fri) at Newcastle University, Newcastle Upon Tyne, United Kingdom with pre-conference workshops 12-13 September 2022 (Mon-Tue). Conference site: https://conferences.ncl.ac.uk/tei2022/ ConfTool site: https://www.conftool.pro/tei2022/   […]",
+          "link": "https://tei-c.org/2022/05/18/call-for-papers-tei-2022/",
+          "publishedOn": "2022-05-18T11:32:35.000Z",
+          "wordCount": 1174,
+          "title": "Call for Papers – TEI 2022"
+        }
+      ]
     },
     {
       "title": "CAA UK",
@@ -6252,6 +6271,24 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/research/project-archive/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/project-archive/",
+          "publishedOn": "2022-05-19T07:58:24.000Z",
+          "wordCount": 314,
+          "title": "Project Archive"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/restaging-public-spaces/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/restaging-public-spaces/",
+          "publishedOn": "2022-05-18T09:52:22.000Z",
+          "wordCount": 1029,
+          "title": "Re-staging public spaces"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/events/34807/",
           "author": null,
           "description": "Dr Anne Alexander, Cambridge Digital Humanities Ensuring long-term access to digital data is often a difficult task: both hardware and code decay much more rapidly than many other means of information storage. Digital data created in the 1980s is frequently unreadable, whereas books and manuscripts written in the 980s are still legible. This Basics session explores good",
@@ -7032,6 +7069,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5718 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "CLARIN ERIC is looking for a Head of Operations (0.7 - 1.0 fte)\n\n            \nJob Description\nCLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n   is looking for a ‘Head of Operations’  who will work closely with the CLARIN Board of Directors and the staff at the central CLARIN Office.\nThe main tasks for which the Head of Operations will be responsible are: overseeing the implementation of strategic decisions taken by the Board of Directors in close coordination with the Executive Director and coordinating the central CLARIN Office workflows and their alignment with the CLARIN network and the wider infrastructural ecosystem.\nThe Head of Operations will be based at…",
+          "link": "https://www.clarin.eu/news/clarin-eric-looking-head-operations",
+          "publishedOn": "2022-05-09T15:28:39.000Z",
+          "wordCount": 571,
+          "title": "CLARIN ERIC is looking for a Head of Operations (0.7 - 1.0 fte)"
+        },
         {
           "id": "5718 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
