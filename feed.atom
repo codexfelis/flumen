@@ -2,10 +2,157 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-19T08:17:45.362Z</updated>
+    <updated>2022-05-20T08:17:17.278Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit Melanie Seltmann und Torsten Roeder über Community-Management bei DHall]]></title>
+        <id>https://radihum20.de/?p=564</id>
+        <link href="https://radihum20.de/radihum20-community-management-bei-dhall/"/>
+        <updated>2022-05-20T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Für unsere heutige Folge zum Thema Communitymanagement und -building in den Digital Humanities haben wir Melanie Seltmann und Torsten Roeder zu uns eingeladen. Beide haben am Aufbau des #DHall-Discord-Servers mitgewirkt und sind hier nach wie vor aktiv. In dieser Folge berichten sie uns von den Anfängen des Servers, was hier so passiert und wie man […]
+Der Beitrag RaDiHum20 spricht mit Melanie Seltmann und Torsten Roeder über Community-Management bei DHall erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Jonathan D. Geiger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convert your Trove newspaper searches to an API query with just one click!]]></title>
+        <id>http://wragge.micro.blog/2022/05/20/convert-your-trove.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/20/convert-your-trove.html"/>
+        <updated>2022-05-20T05:43:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m thinking about the Trove Researcher Platform discussions & ways of integrating Trove with other apps and platforms (like the GLAM Workbench).
+As a simple demo I modifed my Trove Proxy app to convert a newspaper search url from the Trove web interface into an API query (using the trove-query-parser package). The proxy app then redirects you to the Trove API Console so you can see the results of the API query without needing a key.
+To make it easy to use, I created a bookmarklet that encodes your current url and feeds it to the proxy. To use it just:
+Drag this link to your bookmarks toolbar: Open Trove API Console.
+Run a search in Trove’s newspapers.
+Click on the bookmarklet.
+This little hack provides a bit of ‘glue’ to help researchers think their about search results as data, and explore other possibilities for download and analysis. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ms. Codex 1136: Medicine & Magic of Women]]></title>
+        <id>http://schoenberginstitute.org/?p=16829</id>
+        <link href="https://schoenberginstitute.org/2022/05/19/ms-codex-1136-medicine-magic-of-women/"/>
+        <updated>2022-05-19T15:45:43.000Z</updated>
+        <summary type="html"><![CDATA[On May 18, Curator Dot Porter brought out Ms. Codex 1136, 15th c. German copy of De secretis mulierum (also known as Secreta mulierum), a work erroneously attributed to Albertus Magnus, including an unidentified commentary. Our catalog record describes the text as “concerning various issues of women’s health,” but it’s so much more than that!Continue reading "Ms. Codex 1136: Medicine & Magic of Women"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Other Cambridge DH projects]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/project-archive/other-cambridge-dh-projects/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/project-archive/other-cambridge-dh-projects/"/>
+        <updated>2022-05-19T13:53:33.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeking a new UCLDH Associate Director (ECR), a voluntary role]]></title>
+        <id>https://blogs.ucl.ac.uk/dh/?p=8267</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2022/05/19/associate-director-ecr/"/>
+        <updated>2022-05-19T12:00:10.000Z</updated>
+        <summary type="html"><![CDATA[The UCL Centre for Digital Humanities (UCLDH) was founded in 2010 as a cross-faculty research centre that brings together a vibrant network of people who teach and research digital humanities in a wide range of disciplines, in the heart of London. We are seeking a new Associate Director – Early Career (ECR) from within the […]]]></summary>
+        <author>
+            <name>Lucy Stagg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EnrichEuropeana+ and the Dublin Transcription Project]]></title>
+        <id>1513 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/enricheuropeana-and-dublin-transcription-project"/>
+        <updated>2022-05-19T11:54:42.000Z</updated>
+        <summary type="html"><![CDATA[In a new blog, Dr Kathryn Cassidy introduces us to the EnrichEuropeana+ project and the ongoing crowdsourced transcription work that is taking place as part of this project.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dutch-language webinar on transcription and OCR tool Transkribus on May 31]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1121</id>
+        <link href="https://scholarlytales.hcommons.org/2022/05/19/dutch-language-webinar-on-transcription-and-ocr-tool-transkribus-on-may-31/"/>
+        <updated>2022-05-19T09:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Are you a Dutch speaker who needs to transcribe old or new hand-written materials, or do optical character recognition (OCR) on print materials? Check out this upcoming webinar on Transkribus in Dutch, taking place on May 31, 2022, at 16h CEST: Dit webinar van Dr. Annemieke Romein geeft een overzicht van de basis van Transkribus in het Nederlands. U leert hoe u documenten upload naar Transkribus, de lay-out analyse uitvoert, handmatige transcripties doet om trainingsdata te genereren, hoe u de...]]></summary>
+        <author>
+            <name>Nele Noppe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cultural Heritage Data School 2021]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/programme/dataschools/cultural-heritage2021/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/programme/dataschools/cultural-heritage2021/"/>
+        <updated>2022-05-19T09:41:04.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancelled: Cambridge Social Data School 2020]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cancelled-cambridge-social-data-school-2020/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cancelled-cambridge-social-data-school-2020/"/>
+        <updated>2022-05-19T09:06:23.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#CfP Shifts in language and culture: computational approaches to variation and change - October 5-7 2022]]></title>
+        <id>1410 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2022/05/19/cfp-shifts-language-and-culture-computational-approaches-variation-and-change"/>
+        <updated>2022-05-19T08:56:51.000Z</updated>
+        <summary type="html"><![CDATA[1 Aug 2022 - 00:00
+
+
+
+#CfP Shifts in language and culture: computational approaches to variation and change - October 5-7 2022
+
+
+
+Call for Papers
+8TH ESTONIAN DIGITAL HUMANITIES CONFERENCE
+ 
+Shifts in language and culture: computational approaches to variation and change
+October 5-7 2022
+Variation and change are universal phenomena of both language and culture. The research objects of humanities - human culture, behavior and communication - are by nature continually undergoing diversification and shifts. Additionally, the rise of global online communication in recent decades has added an unprecedented dimension to these dynamics, as access to wider public outside one’s immediate communities is in everyone’s reach, digital channels have taken over some of the functions of oral communication…]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#jobopportunity Digital Repository Fellow, University of Exeter]]></title>
+        <id>1409 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2022/05/19/jobopportunity-digital-repository-fellow-university-exeter"/>
+        <updated>2022-05-19T08:47:41.000Z</updated>
+        <summary type="html"><![CDATA[#jobopportunity Digital Repository Fellow, University of Exeter
+
+
+
+Digital Repository Fellow
+Job description
+College of Humanities
+This UKRI funded post is available from 30 June 2022 until 29 March 2024.
+https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=718424ZkzQ&WVID=3817591jNg&LANG=USA 
+The post
+You will support the work of Prof. Elena Isayev in the College of Humanities, supporting the Global Challenges Research Fund (GCRF) Imagining Futures Through Un/Archived Pasts project, funded by UKRI/ Arts and Humanities Research Council.
+We seek to recruit a Digital Repository Fellow to be part of Imagining Futures through Un/Archived Pasts – an international project which addresses the power of who decides whose history gets to be remembered into the future and …]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDH Cultural Heritage Data School 2020]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cdh-cultural-heritage-data-school-2020/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cdh-cultural-heritage-data-school-2020/"/>
+        <updated>2022-05-19T08:44:05.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Project Archive]]></title>
         <id>https://www.cdh.cam.ac.uk/research/project-archive/</id>
@@ -11214,23 +11361,6 @@ Elonora Litta: Linking Latin.
 The post Winter School at the University of Padova appeared first on LiLa: Linking Latin.]]></summary>
         <author>
             <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(BOXING.FIGHT)Crawford vs Porter Live Stream Full Fight How To Watch 2021 Boxing Online PPV Broadcast Free]]></title>
-        <id>13289 at https://www.force11.org</id>
-        <link href="https://www.force11.org/blog/boxingfightcrawford-vs-porter-live-stream-full-fight-how-watch-2021-boxing-online-ppv-broadcast"/>
-        <updated>2021-11-21T01:52:28.000Z</updated>
-        <summary type="html"><![CDATA[Top Rank Boxing on ESPN+ PPV (11/20/21): How to Watch Crawford vs. Porter | Start time, Live stream PPV (Links to an external site.) (Links to an external site.)
-When: Saturday, November 20 at 7 PM ET (prelims), 9 PM ET (main card)
-Streaming: Watch with ESPN+ PPV (Links to an external site.)
- 
-Watch the Top Rank Boxing on ESPN+ PPV WATCH NOW (Links to an external site.)
-Arguably one of the biggest boxing events of the year is set for Saturday night in Las Vegas, as a fight for the WBO Welterweight Championship.
-That bout features the undefeated Terence “Bud” Crawford defending the belt against the strong “Showtime” Shawn Porter.
-Coming off a run to the quarterfinals this past summer at the Tokyo Olympics, welterweight Delante “Tiger” Johnson is ready for his professional debut and it will …]]></summary>
-        <author>
-            <name>Yumeko Jabami</name>
         </author>
     </entry>
 </feed>
