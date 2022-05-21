@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-20T08:17:17.278Z</updated>
+    <updated>2022-05-21T08:16:37.290Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tracing Changes in Shape of Historical Artefacts Across Time Using 3D Scans: A New Computational Approach]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.61</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.61"/>
+        <updated>2022-05-21T08:16:36.551Z</updated>
+        <summary type="html"><![CDATA[This paper pioneers a new computational approach for the study of changes in shape of objects across time. Previously, such a study was undertaken by scholars using a purely visual approach and relied on images of objects or in-person observations. This paper’s approach is based on 3D scans of historical artefacts. Sample points are extracted from these 3D scans and the distance between analogous points across different objects is computed using an approximation of the Wasserstein metric, namely the Sinkhorn distance. In this paper, the approach is demonstrated on a small set of ancient Greek vessels of the Krater, Pelike, and Kylix types, as the variation in their shapes across time is well known to archaeologists. Results offer, for the first time, a way of quantifying differences between objects. Benefits of this approach lie in its ability to quantify change, to study complex 3D material, and to analyse large datasets of objects, opening the possibility of constructing new large-scale studies of object shape across time and geographical regions. These have a range of applications in art history, archaeology, digital humanities, museology and extended reality studies.
+ Published on 2022-05-20 12:09:58]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professur (w/m/d) für „Bibliothekswissenschaft – Technologien, Systeme und Dienste&quot; (W 2), Fachhochschule Potsdam (Deadline 24.05.22)]]></title>
+        <id>node/811</id>
+        <link href="https://dig-hum.de/aktuelles/professur-wmd-f%C3%BCr-%E2%80%9Ebibliothekswissenschaft-%E2%80%93-technologien-systeme-und-dienste-w-2"/>
+        <updated>2022-05-21T08:16:23.478Z</updated>
+        <summary type="html"><![CDATA[An der Fachhochschule Potsdam ist folgende Stelle ausgeschrieben:
+Professur (w/m/d) für „Bibliothekswissenschaft – Technologien, Systeme und Dienste" (W 2)
+Kennziffer 16/2022…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autographic Atlas of Korea: Interview with Dr. Maya Stiller]]></title>
+        <id>http://digitalorientalist.com/?p=8193</id>
+        <link href="https://digitalorientalist.com/2022/05/20/autographic-atlas-of-korea-interview-with-dr-maya-stiller/"/>
+        <updated>2022-05-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Autographic Atlas of Korea (AAOK) is a digital project and website that presents a rare opportunity for scholars from …]]></summary>
+        <author>
+            <name>Elizabeth Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/newsletter/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/newsletter/"/>
+        <updated>2022-05-20T09:35:10.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RaDiHum20 spricht mit Melanie Seltmann und Torsten Roeder über Community-Management bei DHall]]></title>
         <id>https://radihum20.de/?p=564</id>
@@ -11219,148 +11261,6 @@ The post Abstracts accepted at AIUCD 2022 appeared first on LiLa: Linking Latin.
         <summary type="html"><![CDATA[by Meghan McGinley, Mellon Graduate Fellow, French & Italian I initially conceived of my DH project “Mapping the Tarot: Game and Divination Across Time” as a means to trace the cultural histories of the game of tarot using ArcGIS, an online mapping tool that allows for interactive digital storytelling. In conjunction with the George Clulow-United...]]></summary>
         <author>
             <name>romeroda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ms. Codex 840: Grammar]]></title>
-        <id>http://schoenberginstitute.org/?p=16042</id>
-        <link href="https://schoenberginstitute.org/2021/11/22/ms-codex-840-grammar/"/>
-        <updated>2021-11-22T19:28:58.000Z</updated>
-        <summary type="html"><![CDATA[For Coffee With A Codex on November 22 we brought out Ms. Codex 840, an 15th century Italian treatise on the part of grammar dealing with spelling and with the nature and value of letters and their combinations. This is an attractive little book, only 6.5 inches (120mm) tall, and bound in a contemporary parchmentContinue reading "Ms. Codex 840: Grammar"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undergraduate Fellowships in Critical Digital Humanities]]></title>
-        <id>https://dhn.utoronto.ca/?p=4387</id>
-        <link href="https://dhn.utoronto.ca/dh-undergrad-winter2022/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dh-undergrad-winter2022"/>
-        <updated>2021-11-22T18:27:18.000Z</updated>
-        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) is pleased to announce new Fellowships in Critical Digital Humanities (DH) research to support qualified undergraduate students registered in any program at the University of Toronto. The program embeds undergraduate student researchers within existing critical digital humanities research projects at U of T. This call supports undergrad researchers for the period between Jan. 3, 2022 and April 30, 2022. Applications are due December 10, 2021.]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Digital Humanities Learning Communities]]></title>
-        <id>https://dhn.utoronto.ca/?p=4381</id>
-        <link href="https://dhn.utoronto.ca/dh-learning-comm/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dh-learning-comm"/>
-        <updated>2021-11-22T18:16:20.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Humanities Learning Community Grant is a grant of up to $2000 offered in support of groups of four or more individuals co-working towards specific digital humanities research during the Winter and Spring 2022 semesters. Applications are due December 10, 2021.]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities 2022: “Responding to Asian Diversity”]]></title>
-        <id>588823 at https://adho.org</id>
-        <link href="https://adho.org/announcements/2021/digital-humanities-2022-%E2%80%9Cresponding-asian-diversity%E2%80%9D"/>
-        <updated>2021-11-22T17:51:36.000Z</updated>
-        <summary type="html"><![CDATA[The official website of DH2022 has launched! The conference will take place at Toshi Center Hotel, Tokyo, Japan, between 25 and 29 July 2022. There is the possibility to participate both in-person and online (asynchronous only). Abstracts are due December 10th, 2021, 11:59 PM Hawaii Standard Time (GMT-10).
-Theme - English
-The theme is “Responding to Asian Diversity.” Proposals that relate to the pan-Asian theme are particularly invited, but submissions from all who work in all digital humanities disciplines, methodologies, and pedagogies are encouraged as well. 
-Thème - Français
-Le thème des conférences pour l’année 2022 est “Répondre à la diversité asiatique”. Nous encourageons particulièrement des propositions reliées au thème panasiatique, mais nous encourageons aussi toutes les soumissions de ceux qui travaillent dans toutes les disciplines, méthodes et pédagogies des humanités numériques.
-Tema - Español
-El tema de la conferencia de 2022 es “En Respuesta a la Diversidad Asiática”. Invitamos en especial propuestas que se relacionen con temáticas pan-asiáticas, pero invitamos también propuestas sobre cualquiera de las disciplinas, metodologías y pedagogías de las humanidades digitales.
-Thema - Deutsch
-Das Thema der Konferenz 2022 ist “Reaktionen auf die Diversität Asiens”. Wir laden besonders dazu ein, Beiträge einzureichen, die sich mit pan-asiatischen Themen beschäftigen, begrüßen aber Beiträge aus allen Disziplinen, Methoden und der Pädagogik der digitalen Geisteswissenschaften.
-Tema - Italiano
-Il tema della conferenza del 2022 è “Interagire con la diversità asiatica”. Invitiamo in particolare proposte che si riferiscono al tema pan-asiatico, ma incoraggiamo contributi da parte di tutti coloro che lavorano nelle discipline, con le metodologie e le pedagogie delle digital humanities.
- 
-
-
-Post Date: 
-
-Thursday, November 25, 2021]]></summary>
-        <author>
-            <name>anna.sofial96@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linked Pasts 7 proposal accepted]]></title>
-        <id>https://lila-erc.eu/?p=2713</id>
-        <link href="https://lila-erc.eu/linked-pasts-7/"/>
-        <updated>2021-11-22T17:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Conference: Linked Pasts 7
-Date: 13th-21st December 2021
-Location: online
-The post Linked Pasts 7 proposal accepted appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linked Pasts 7 proposal accepted]]></title>
-        <id>https://lila-erc.eu/?p=2713</id>
-        <link href="https://lila-erc.eu/linked-pasts-7/"/>
-        <updated>2021-11-22T17:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Conference: Linked Pasts 7
-Date: 13th-21st December 2021
-Location: online
-The post Linked Pasts 7 proposal accepted appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neues DH-Forschungsprojekt im DHd-Projekteschaufenster: Auden Musulin Papers]]></title>
-        <id>node/739</id>
-        <link href="https://dig-hum.de/aktuelles/neues-dh-forschungsprojekt-im-dhd-projekteschaufenster-auden-musulin-papers"/>
-        <updated>2021-11-22T16:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Wir freuen uns, mit "Auden Musulin Papers: Digitale Edition der Briefe W. H. Audens an Stella Musulin" ein neues DH-Forschungsprojekt im DHd-Projekteschaufenster präsentieren zu…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sloane Lab project features in Financial Times article]]></title>
-        <id>https://blogs.ucl.ac.uk/dh/?p=8231</id>
-        <link href="https://blogs.ucl.ac.uk/dh/2021/11/22/sloane-lab-financial-times/"/>
-        <updated>2021-11-22T15:13:28.000Z</updated>
-        <summary type="html"><![CDATA[The Sloane Lab: Looking back to build future shared collections is one of 5 AHRC-funded research projects to connect the UK’s cultural artefacts and historical archives in new and transformative ways. The project features in an article, ‘Search for a digital national collection‘, published in the Financial Times today, 22nd November 2021. Professor Julianne Nyhan, […]]]></summary>
-        <author>
-            <name>Lucy Stagg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find research data repositories for the humanities – the data deposit recommendation service]]></title>
-        <id>https://link.springer.com/article/10.1007/s42803-021-00030-7</id>
-        <link href="https://openmethods.dariah.eu/2021/11/22/find-research-data-repositories-for-the-humanities-the-data-deposit-recommendation-service-springerlink/"/>
-        <updated>2021-11-22T14:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: Finding  suitable research data repositories that best match the technical or legal requirements of your research data is not always an easy task. This paper, authored by Stephan Buddenbohm, Maaikew de Jong, Jean-Luc Minel  and Yoann Moranville showcase the demonstrator instance of the Data Deposit Recommendation Service (DDRS), an application built on top of the re3data database specifically for scholars working in the Humanities domain. The paper  also highlights further directions of developing the tool, many of which implicitly bring sustainability issues to the table.]]></summary>
-        <author>
-            <name>Author on Source</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter School at the University of Padova]]></title>
-        <id>https://lila-erc.eu/?p=2706</id>
-        <link href="https://lila-erc.eu/winter-school-padova/"/>
-        <updated>2021-11-22T09:25:20.000Z</updated>
-        <summary type="html"><![CDATA[Winter School:  Mobility & Humanities
-Date: 1st December 2021
-Location: Padova, Italy
-
-Elonora Litta: Linking Latin. 
-The post Winter School at the University of Padova appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter School at the University of Padova]]></title>
-        <id>https://lila-erc.eu/?p=2706</id>
-        <link href="https://lila-erc.eu/winter-school-padova/"/>
-        <updated>2021-11-22T09:25:20.000Z</updated>
-        <summary type="html"><![CDATA[Winter School:  Mobility & Humanities
-Date: 1st December 2021
-Location: Padova, Italy
-
-Elonora Litta: Linking Latin. 
-The post Winter School at the University of Padova appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Rachele Sprugnoli</name>
         </author>
     </entry>
 </feed>
