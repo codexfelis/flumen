@@ -195,6 +195,15 @@
       "siteUrl": "https://www.digitisation.eu",
       "articles": [
         {
+          "id": "https://www.digitisation.eu/?post_type=tribe_events&p=16688",
+          "author": "Impact Centre of Competence",
+          "description": "The General Assembly (GA) and the Web Archiving Conference (WAC) 2022 will be hosted online by the Library of Congress ... \nRead More\nThe post Web Archiving Conference 2022 appeared first on IMPACT Centre of Competence.",
+          "link": "https://www.digitisation.eu/event/web-archiving-conference-2022/",
+          "publishedOn": "2022-05-22T22:00:00.000Z",
+          "wordCount": 604,
+          "title": "Web Archiving Conference 2022"
+        },
+        {
           "id": "https://www.digitisation.eu/?post_type=tribe_events&p=16624",
           "author": "Impact Centre of Competence",
           "description": "The Open Preservation Foundation (OPF), the Impact Centre of Competence in Digitisation (IMPACT) and the International Internet Preservation Consortium (IIPC) ... \nRead More\nThe post IMPACT/OPF/IIPC VIRTUAL PANEL: PRESERVATION OF DIGITISED AND BORN-DIGITAL COLLECTIONS appeared first on IMPACT Centre of Competence.",
@@ -537,15 +546,6 @@
           "publishedOn": "2021-12-08T09:18:46.000Z",
           "wordCount": 1496,
           "title": "The Faust Shop: actors on a new stage"
-        },
-        {
-          "id": "https://blog.cdh.cam.ac.uk/?p=347",
-          "author": "Heather Stallard",
-          "description": "Robert Good: I am an artist interested in words, text and language and in particular the migration of knowledge from the printed page to the internet, so I was excited to be included as an artist observer for this year's Social Data School.\nThe post Art and Data: Some Reflections on the Cambridge Social Data School 2021 appeared first on The Digital Hum.",
-          "link": "https://blog.cdh.cam.ac.uk/2021/11/24/art-and-data/",
-          "publishedOn": "2021-11-24T11:21:59.000Z",
-          "wordCount": 1475,
-          "title": "Art and Data: Some Reflections on the Cambridge Social Data School 2021"
         }
       ]
     },
@@ -3577,15 +3577,6 @@
           "publishedOn": "2021-12-10T14:48:20.000Z",
           "wordCount": 473,
           "title": "Call for participation: Conference series \"The Art Museum in the Digital Age\" (January 17–21, 2022)"
-        },
-        {
-          "id": "1374 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "5 Dec 2021 - 00:00\n\n\n\nJob: Data Curator (m/f/d) (E 13, TV-L) - University of Bayreuth\n\n\n\nThe University of Bayreuth is a research-oriented university with internationally competitive, interdisciplinary focus areas in research and teaching. At the beginning of 2019, the „Africa Multiple“ Cluster of Excellence (EXC 2052) will commence operations with funding from the Excellence Strategy of Germany‘s federal and state governments. The aim of the cluster is to reconfigure African studies at both the conceptual and the structural levels. The cluster is conceived as a transformative space for the systematic study of African and African diasporic ways of life, enabling new forms of inter- and transdisciplinary cooperation. For the establishment of new forms of interdisciplinary digital research t…",
-          "link": "https://eadh.org/news/2021/11/24/job-data-curator-mfd-e-13-tv-l-university-bayreuth",
-          "publishedOn": "2021-11-24T18:14:19.000Z",
-          "wordCount": 903,
-          "title": "Job: Data Curator (m/f/d) (E 13, TV-L) - University of Bayreuth"
         }
       ]
     },
@@ -4446,6 +4437,66 @@
       "feedUrl": "https://reviewsindh.pubpub.org/rss.xml",
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
+        {
+          "id": "bd5eab5f-f6ff-4f95-85e0-e18e8eb497ca",
+          "author": "Roopika Risam",
+          "description": "Editors' note on the May 2022 issue of Reviews in Digital Humanities, guest edited by Aleia Brown, Marisa Parham, and Trevor Muñoz",
+          "link": "https://reviewsindh.pubpub.org/pub/editors-note-may-2022",
+          "publishedOn": "2022-05-23T00:00:00.000Z",
+          "wordCount": 1940,
+          "title": "Editors' Note: May 2022",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/flfe87if/21652888475703.png"
+          }
+        },
+        {
+          "id": "61f21ad4-a515-4f36-b86b-286db6a51384",
+          "author": "Marisa Parham",
+          "description": "A review of Forever Gwen Brooks, a website generating variations of the final poem in Gwendolyn Brooks' 1969 chapbook RIOT, created by Lilian-Yvonne Bertram",
+          "link": "https://reviewsindh.pubpub.org/pub/forever-gwen-brooks",
+          "publishedOn": "2022-05-23T00:00:00.000Z",
+          "wordCount": 1490,
+          "title": "Review: Forever Gwen Brooks",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/ztjhos39/21652896530491.png"
+          }
+        },
+        {
+          "id": "57b7093b-5955-4875-91cc-0f5542263b64",
+          "author": "J.T. Roane",
+          "description": "Review of The Oak of Jerusalem, a StoryMap of  Great Dismal Swamp, created by Christy Hyman",
+          "link": "https://reviewsindh.pubpub.org/pub/oak-of-jerusalem",
+          "publishedOn": "2022-05-23T00:00:00.000Z",
+          "wordCount": 1501,
+          "title": "Review: The Oak of Jerusalem",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/gemv4q02/11652910300469.png"
+          }
+        },
+        {
+          "id": "76071c26-4c5a-480c-8936-aa9e2b80dd55",
+          "author": "Caitlin Pollock",
+          "description": "A review of Treasury of Weary Souls, a collection of insurance policies that underwrote enslaved people as property, directed by Michael Ralph",
+          "link": "https://reviewsindh.pubpub.org/pub/treasury-of-weary-souls",
+          "publishedOn": "2022-05-23T00:00:00.000Z",
+          "wordCount": 1781,
+          "title": "Review: Treasury of Weary Souls",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/akxp70pz/21652894257329.png"
+          }
+        },
+        {
+          "id": "523ddba8-1869-49cf-8905-7e5707cefa11",
+          "author": "Julian C. Chambliss",
+          "description": "A review of Black Craftspeople Digital Archive, an archive of the lives and experiences of Black craftspeople during the 18th and 19th centuries, directed by Tiffany Momon and Torren L. Gatson",
+          "link": "https://reviewsindh.pubpub.org/pub/black-craftspeople-digital-archive",
+          "publishedOn": "2022-05-23T00:00:00.000Z",
+          "wordCount": 1407,
+          "title": "Review: Black Craftspeople Digital Archive",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/s53wc2bm/31652895450729.png"
+          }
+        },
         {
           "id": "3784723f-422d-4631-ba39-7be12f233061",
           "author": "Zanice Bond",
@@ -6235,15 +6286,6 @@
           "publishedOn": "2021-11-25T07:11:34.000Z",
           "wordCount": 541,
           "title": "L’essor de la sidérurgie luxembourgeoise du XIXe siècle au début du XXe siècle. Les conditions de développement technique et économique du Bassin Minier."
-        },
-        {
-          "id": "3671 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "In the British referendum on 23 June 2016, the majority of the electorate (51.89%) voted for the United Kingdom’s withdrawal from the European Union, or “Brexit”. Based on the referendum result, the UK – which signed the Treaty of Accession to the European Economic Community on 22 January 1972, under the Luxembourg Presidency of the Council of the EEC – left the EU, at the end of a procedure governed by article 50 of the Treaty on European Union (TEU). Initially scheduled for the end of March 2019, the withdrawal was postponed three times and only took effect on 31 January 2020, following a transitional period. The Withdrawal Agreement covers various issues including the protection of the rights of EU citizens in the UK and British citizens living in EU countries, post-Brexit financial com…",
-          "link": "https://www.c2dh.uni.lu/events/brexit-reality-portraits",
-          "publishedOn": "2021-11-24T08:02:04.000Z",
-          "wordCount": 1470,
-          "title": "Brexit Reality Portraits"
         }
       ]
     },
@@ -7500,15 +7542,6 @@
           "publishedOn": "2021-11-25T11:09:03.000Z",
           "wordCount": 229,
           "title": "CLARIN Newsflash November 2021 is Out!"
-        },
-        {
-          "id": "5621 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "A Recap on the Workshop on Data Management for FAIR CMC Corpora\n\n            \n \n Blog post by Jennifer-Carmen Frey, Alexander König, Egon W. Stemle\nAbout\nOn 27 October, a virtual workshop on ‘Data Management for FAIR CMC Corpora was held in association with the 8th Conference on CMC and Social Media Corpora for the Humanities (cmccorpora21) that took place in hybrid form, virtually and in Nijmegen, the Netherlands on October 28-29. The workshop was organised by the recently established CLARIN K-Centre for Computer-Mediated Communication and Social Media Corpora (CKCMC) with support from CLARIN-ERIC.\nThe workshop aimed at early career researchers and researchers about to start a new corpus linguistic project involving corpora of computer-mediated communication (CMC). It touched upon various…",
-          "link": "https://www.clarin.eu/blog/recap-workshop-data-management-fair-cmc-corpora",
-          "publishedOn": "2021-11-24T16:32:47.000Z",
-          "wordCount": 670,
-          "title": "A Recap on the Workshop on Data Management for FAIR CMC Corpora"
         }
       ]
     },
@@ -8578,15 +8611,6 @@
           "publishedOn": "2021-12-01T13:51:28.000Z",
           "wordCount": 1137,
           "title": "International Library Associations Applaud UNESCO Open Science Recommendation"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=11218",
-          "author": "Melanie Cheung",
-          "description": "Research Libraries UK, working with a number of our national and international partners, is re-issuing its major survey, first conducted in May-June 2021, regarding the development and delivery of Virtual Reading Room and Virtual Teaching Space services. The aim is to document the most recent developments and innovations in the area by the RLUK [...]\nThe post Major international survey (stage 2): Virtual Reading Rooms and Virtual Teaching Spaces appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/vrr-and-vts-survey-stage2/",
-          "publishedOn": "2021-11-24T11:55:51.000Z",
-          "wordCount": 1525,
-          "title": "Major international survey (stage 2): Virtual Reading Rooms and Virtual Teaching Spaces"
         }
       ]
     },
