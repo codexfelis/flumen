@@ -409,6 +409,24 @@
       "siteUrl": "https://adho.org/news",
       "articles": [
         {
+          "id": "588900 at https://adho.org",
+          "author": "erdal.ayan@dhturkey.org",
+          "description": "ADHO is seeking a new Secretary of its Executive Board, starting immediately. As with all ADHO Offices, it is an unremunerated position appointed by ADHO’s governing body, the Constituent Organization Board (COB).\nThe ADHO Executive Board Secretary works closely with the EB, the Constituent Organization Board (COB), and occasionally with various officers of the Constituent Organizations, to organize, record, and communicate ADHO governance meetings, documents, decisions, and action items. They also serve as record keepers, holders of institutional memory, and reference sources for ADHO policy, decisions, and custom. The Secretary is appointed by the COB and reports to the Executive Board (EB).\nIn the first several months (2022) the incumbent will act as ADHO EB Deputy Secretary, working in…",
+          "link": "https://adho.org/announcements/2022/call-nominations-applicants-adho-executive-board-secretary",
+          "publishedOn": "2022-05-24T14:15:01.000Z",
+          "wordCount": 669,
+          "title": "Call for Nominations / Applicants - ADHO Executive Board Secretary"
+        },
+        {
+          "id": "588899 at https://adho.org",
+          "author": "drupaladmin",
+          "description": "ADHO’s Intersectional Inclusion Task Force (initially the Anti-racism Task Force) emerges from a direct and pressing need to address systemic inequalities within ADHO and the broader DH community connected to its activities,* including but not limited to race, class, gender, ability, caste, tribe, sexuality, nationality, geographical location, religion, health, language, or other social categories, which are often exacerbated by an unrestrained techno-positivism in current global contexts. This task force extends and amplifies the conversations initiated by the statement on Black Lives Matter, Structural Racism, and Establishment Violence, and seeks to acknowledge, listen, and learn from people, organizations, and communities that have been marginalized. The members of this task force repr…",
+          "link": "https://adho.org/announcements/2022/announcing-adhos-intersectional-inclusion-task-force",
+          "publishedOn": "2022-05-24T10:15:24.000Z",
+          "wordCount": 528,
+          "title": "Announcing ADHO's Intersectional Inclusion Task Force"
+        },
+        {
           "id": "588891 at https://adho.org",
           "author": "drupaladmin",
           "description": "Recognizing a singular achievement in the digital humanities, the Zampolli Prize is named in honor of Professor Antonio Zampolli (1937-2003), who was a founding member of the Association for Literary and Linguistic Computing (ALLC), ALLC President from 1983-2003, and a leader in establishing the Text Encoding Initiative (TEI) and the TEI Consortium. ADHO awards the prize triennially at its annual conference. Voyant Tools is the fourth recipient of the Zampolli Prize.\nVoyant Tools is an open-source text analysis platform created by a team led by the late Dr. Stéfan Sinclair of McGill University, who served as the project’s leader, principal designer and programmer until his passing in August of 2020, and Dr. Geoffrey Rockwell, Professor of Philosophy and Digital Humanities at the University…",
@@ -507,10 +525,19 @@
       "articles": []
     },
     {
-      "title": "The Digital Hum",
+      "title": "Blog - CDH",
       "feedUrl": "https://blog.cdh.cam.ac.uk/feed",
-      "siteUrl": "https://blog.cdh.cam.ac.uk",
+      "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/?p=34175",
+          "author": "Heather Stallard",
+          "description": "My animation for the Cambridge Cultural Heritage Data School 2022 public event (Anti)Colonial archives in the digital age is an alternative form of record: a kind of visual minute-taking. As with all minutes (and indeed all archives?), it is partial, informed by my own impression of the talks and discussions that took place. It might […]\nThe post A space for reflection: (Anti)Colonial archives in the digital age first appeared on CDH.",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/a-space-for-reflection-anticolonial-archives-in-the-digital-age/",
+          "publishedOn": "2022-04-06T13:48:11.000Z",
+          "wordCount": 750,
+          "title": "A space for reflection: (Anti)Colonial archives in the digital age"
+        },
         {
           "id": "https://blog.cdh.cam.ac.uk/?p=397",
           "author": "Heather Stallard",
@@ -521,6 +548,15 @@
           "title": "A space for reflection: (Anti)Colonial archives in the digital age"
         },
         {
+          "id": "https://www.cdh.cam.ac.uk/?p=33207",
+          "author": "chameleon",
+          "description": "Twice a week, a group of Cambridge students from across the disciplines meet up online or in a room to find digital evidence of human rights violations for Amnesty International.  Cambridge’s Digital Verification Corps, hosted by the Centre of Governance and Human Rights, is one of seven university student groups trained up by Amnesty to […]\nThe post What is Open Source Investigation for Academics? first appeared on CDH.",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/this-is-a-blog-post/",
+          "publishedOn": "2022-02-22T17:27:25.000Z",
+          "wordCount": 1028,
+          "title": "What is Open Source Investigation for Academics?"
+        },
+        {
           "id": "https://blog.cdh.cam.ac.uk/?p=390",
           "author": "Heather Stallard",
           "description": "The post What is Open Source Investigation for Academics? appeared first on The Digital Hum.",
@@ -528,6 +564,15 @@
           "publishedOn": "2022-02-22T09:06:00.000Z",
           "wordCount": 1398,
           "title": "What is Open Source Investigation for Academics?"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/?p=33365",
+          "author": "Sarah Williams",
+          "description": "‘Just fancy that! One does depend On one’s own creatures, in the end.’ (Mephistopheles commenting on Wagner’s Homunculus project in Johann Wolfgang Goethe’s ‘Faust: Part Two, Act II, translated by David Luke.)   Digital technologies and automated actors organise our daily interactions and spaces. Effortlessly we become actors on a new stage of emerging digital […]\nThe post The Faust Shop: actors on a new stage first appeared on CDH.",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/the-faust-shop-actors-on-a-new-stage/",
+          "publishedOn": "2021-12-08T14:04:29.000Z",
+          "wordCount": 1040,
+          "title": "The Faust Shop: actors on a new stage"
         },
         {
           "id": "https://blog.cdh.cam.ac.uk/?p=367",
@@ -1833,42 +1878,6 @@
           "publishedOn": "2021-11-30T10:55:28.000Z",
           "wordCount": 425,
           "title": "Workshop on Computational Methods in the Humanities 2022"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8885",
-          "author": "Celia Luterbacher",
-          "description": "The Collaborative Research on Science and Society (CROSS) program in EPFL’s College of Humanities (CDH) is pleased to announce that it will fund three research projects for the year 2022, all on the theme of responsible innovation. The CROSS program has awarded the funds to three interdisciplinary projects at EPFL and the University of Lausanne […]\nThe post CROSS funds three projects on responsible innovation appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/26/cross-funds-three-projects-on-responsible-innovation/",
-          "publishedOn": "2021-11-26T14:26:24.000Z",
-          "wordCount": 1070,
-          "title": "CROSS funds three projects on responsible innovation"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8877",
-          "author": "Celia Luterbacher",
-          "description": "The Durham University Department of Computer Science is seeking an assistant professor in computer science (digital humanities). The successful candidate will work within the department’s Artificial Intelligence and Human Systems research group (AIHS). Research themes of the AIHS include artificial intelligence, bias in AI, Explainable AI, data analytics, natural language processing, digital humanities, human-centred computing, […]\nThe post Durham University seeks assistant professor in computer science (digital humanities) appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/26/durham-university-seeks-assistant-professor-in-computer-science-digital-humanities/",
-          "publishedOn": "2021-11-26T09:40:51.000Z",
-          "wordCount": 525,
-          "title": "Durham University seeks assistant professor in computer science (digital humanities)"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8874",
-          "author": "Celia Luterbacher",
-          "description": "The KU Leuven Core Facility VIEW is seeking candidates for a one-year postdoctoral scholarship position (extendable for up to two years) for an early-career researcher in the field of heritage studies. VIEW “investigates the characteristics of documentary heritage through an interdisciplinary approach…and facilitates research in the fields of diagnosis, conservation and new technologies for the […]\nThe post Postdoctoral Scholarship: Research Project on Heritage Science and Documentary Heritage appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/26/postdoctoral-scholarship-research-project-on-heritage-science-and-documentary-heritage/",
-          "publishedOn": "2021-11-26T09:10:17.000Z",
-          "wordCount": 568,
-          "title": "Postdoctoral Scholarship: Research Project on Heritage Science and Documentary Heritage"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8871",
-          "author": "Celia Luterbacher",
-          "description": "The University of Rostock is seeking proposals on Machine Learning and Data Mining for Digital Scholarly Editions for its conference, to be held on-site in Northern Germany from 9-10 June 2022. The main purpose of the conference is to foster the discussion on Machine Learning and Data Mining techniques in the area of Digital Scholarly […]\nThe post Call for papers: Machine Learning and Data Mining for Digital Scholarly Editions appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/26/call-for-papers-machine-learning-and-data-mining-for-digital-scholarly-editions/",
-          "publishedOn": "2021-11-26T08:54:58.000Z",
-          "wordCount": 700,
-          "title": "Call for papers: Machine Learning and Data Mining for Digital Scholarly Editions"
         }
       ]
     },
@@ -2794,6 +2803,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=8253",
+          "author": "bryceheatherly",
+          "description": "This is the second of two posts about the innovative academic publication Fluid Matter(s), which was created with the storytelling platform Shorthand and …",
+          "link": "https://digitalorientalist.com/2022/05/24/fluid-matters-an-interview-with-shigehisa-kuriyama-and-natalie-kohle-on-image-based-storytelling-part-2/",
+          "publishedOn": "2022-05-24T13:00:00.000Z",
+          "wordCount": 1545,
+          "title": "Fluid Matter(s): An Interview with Shigehisa Kuriyama and Natalie Köhle on Image-Based Storytelling, Part 2"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=8193",
           "author": "Elizabeth Lee",
           "description": "The Autographic Atlas of Korea (AAOK) is a digital project and website that presents a rare opportunity for scholars from …",
@@ -3242,15 +3260,6 @@
           "publishedOn": "2021-11-30T12:00:00.000Z",
           "wordCount": 1961,
           "title": "What We Hold and What We Must Pass On: A Review of Digitization of Manuscripts at IGNCA in India"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7158",
-          "author": "James Harry Morris",
-          "description": "Long term readers of the Digital Orientalist will likely remember pieces that I wrote on “Digital Resources for Japanese Palaeography” …",
-          "link": "https://digitalorientalist.com/2021/11/26/minna-de-honkoku-and-the-cambridge-summer-school-in-japanese-early-modern-palaeography-an-interview-part-1/",
-          "publishedOn": "2021-11-26T12:03:30.000Z",
-          "wordCount": 701,
-          "title": "Minna de Honkoku and the Cambridge Summer School in Japanese Early Modern Palaeography: An Interview, Part 1"
         }
       ]
     },
@@ -3874,6 +3883,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.72",
+          "author": null,
+          "description": "In common with many technical aspects of digital humanities, the TEI has a reputation for being difficult to teach and difficult to learn, with potential practitioners put off by the large and (at first sight) intimidating set of guidelines, the seemingly complex hierarchical structure and the profusion of angle brackets. One-to-one or small group teaching in the context of a specific project is often the preferred method, where the short but steep learning curve required to engage with the TEI can be addressed in a way which is relevant to the aims and experience of the learner. This, however, is not a particularly efficient way of teaching. In this article, the authors discuss their experience of teaching (and learning) the TEI, and how lessons learned in contexts relating to specific projects might feed into the teaching of TEI in a more general setting – the Digital Humanities at Oxford Summer School being the prime example.\n Published on 2022-05-24 13:09:19",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.72",
+          "publishedOn": "2022-05-25T08:17:12.101Z",
+          "wordCount": 9741,
+          "title": "Teaching the Text Encoding Initiative: Context, Community and Collaboration"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.61",
           "author": null,
           "description": "This paper pioneers a new computational approach for the study of changes in shape of objects across time. Previously, such a study was undertaken by scholars using a purely visual approach and relied on images of objects or in-person observations. This paper’s approach is based on 3D scans of historical artefacts. Sample points are extracted from these 3D scans and the distance between analogous points across different objects is computed using an approximation of the Wasserstein metric, namely the Sinkhorn distance. In this paper, the approach is demonstrated on a small set of ancient Greek vessels of the Krater, Pelike, and Kylix types, as the variation in their shapes across time is well known to archaeologists. Results offer, for the first time, a way of quantifying differences between objects. Benefits of this approach lie in its ability to quantify change, to study complex 3D material, and to analyse large datasets of objects, opening the possibility of constructing new large-scale studies of object shape across time and geographical regions. These have a range of applications in art history, archaeology, digital humanities, museology and extended reality studies.\n Published on 2022-05-20 12:09:58",
@@ -4273,6 +4291,20 @@
       "feedUrl": "https://review.gale.com/category/digital-humanities/feed",
       "siteUrl": "https://review.gale.com",
       "articles": [
+        {
+          "id": "https://review.gale.com/?p=13418",
+          "author": "Gale Review Team",
+          "description": "│By Sarah L Ketchley, Senior Digital Humanities Specialist│ An integral part of the workflow of any digital humanities project involving text generated automatically by Optical Character Recognition (OCR) is the correction of so-called OCR errors. The process is also called ‘data cleaning’. This post will explore some of the considerations researchers should be aware of ... Read more\nThe post Doing the Digital Laundry? Notes on Cleaning Unstructured Text Data appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2022/05/24/notes-on-cleaning-unstructured-text-data/?utm_source=rss&utm_medium=rss&utm_campaign=notes-on-cleaning-unstructured-text-data",
+          "publishedOn": "2022-05-24T09:00:00.000Z",
+          "wordCount": 1785,
+          "title": "Doing the Digital Laundry? Notes on Cleaning Unstructured Text Data",
+          "enclosure": {
+            "url": "https://review.gale.com/wp-content/uploads/2022/05/05.-Notes-from-a-DH-Correspondent-May.png",
+            "length": "2071579",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://review.gale.com/?p=13375",
           "author": "Gale Ambassadors",
@@ -5973,6 +6005,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4033 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The conference will address the continuous and complex transformation of European industrial regions from industrialization to de- and post-industrialization, from the 1870s to the 1970s and beyond. The geographical scope ranges from the industrial regions of Western Europe in Portugal, Luxembourg, the Netherlands and Great Britain to the far north of Norway and Central and Eastern Europe (former GDR and Poland). The comparative long-term perspective will shed light on the different conditions of regional development and the cycles of boom and bust in the European context. The focus will be on four main topics: the housing situation of workers and their families, the decline of mining regions, the socio-political resistance of industrial workers, and the journalistic and visual representat…",
+          "link": "https://www.c2dh.uni.lu/events/boom-bust-history-industrial-regions-1870-1970-and-beyond",
+          "publishedOn": "2022-05-23T11:23:57.000Z",
+          "wordCount": 904,
+          "title": "From Boom to Bust: the History of Industrial Regions (1870-1970 and beyond)"
+        },
+        {
           "id": "4012 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "The virtual exhibition Minett Stories deals with the history and identity of Minett, the industrial region in southern Luxembourg, in 22 chapters. For a century (approx. 1870-1970) the Minett was shaped by iron ore mining and the iron and steel industry. Rapid economic and population growth, urbanisation and labor migration have had a major impact on the history of the region, as have economic crises, environmental pollution and precarious housing and living conditions.\nRemixing Industrial Pasts in the Digital Age is a project of the Luxembourg Centre for Contemporary and Digital History (C²DH ), launched in fall 2019 and funded by the European Capital of Culture Esch2022 asbl.\nThe \"Minett Stories\" virtual exhibition was developed in collaboration between the Remix team, Milan-based design studio Calibro and Bergamo-based software company Inmagik. The Remix team spent two and a half years researching and sourcing the underlying sources, designing the exhibition, and writing all the storyboards, scripts, story texts, and captions for the 22 exhibition chapters. The focus was on various forms of transmedia storytelling, including several interactive video documentaries, graphic novels, interactive maps, interactive podcasts, and two radio plays. The virtual exhibition will officially open on 28 May 2022.\n \nSaturday, 28 May 2022\n10.30 - 13.30\nSalle Ellipse, Luxembourg Learning Centre\n7, Ënnert den Héichiewen\nL-4362 Esch-Belval\nPlease confirm your participation before 23 May 2022 at vanessa.napolitano@uni.lu.\n \n \n28 May 2022\n  Public history\n  Remixing Industrial Pasts in the Digital Age: Sounds, Images, Ecologies, Practices and Materialities in Space and Time\n  Public History  Regional history\n  Outreach\n  Published  \n    Hide image in content detail",
@@ -6222,6 +6263,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-oliver-dunn/",
+          "author": null,
+          "description": "Dr Oliver Dunn, Research Associate with the Cambridge Group for the History of Population and Social Structure, has recently contributed to top-tier journals, such as the Economic History Review, writing about transport in early modern (1600-1800) Britain. He also co-directs a digital humanities project (www.osiris-ai.com) to better harness machine learning algorithms for the collection of",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-oliver-dunn/",
+          "publishedOn": "2022-05-24T10:21:36.000Z",
+          "wordCount": 256,
+          "title": "Dr Oliver Dunn"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/news/professor-tim-hitchcock-visiting-cdh/",
           "author": null,
@@ -7094,6 +7144,15 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5729 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "A Recap on CLARIN Café: Bilingual and Multilingual Corpora\n\n            \nAbout\nThe CLARIN Café on Bilingual and Multilingual Corpora took place on 29 April 2022. More than forty participants from various countries and organisations participated in the online event. The event was organised by Eva Soroli, Thomas Gaillat and Franck Cinato, and was divided into two parts: \nPart I: The CLARIN infrastructure and the new French CLARIN Knowledge Centre CORLI, dedicated to providing expertise in corpus linguistics and the languages spoken in France, and to support academic communities through actions towards FAIR and Open data\nPart II: Examples of parallel, comparable and dialectal corpora (new or already published), together with demonstrations on how to collect/build, annotate, explore, analyse a…",
+          "link": "https://www.clarin.eu/blog/recap-clarin-cafe-bilingual-and-multilingual-corpora",
+          "publishedOn": "2022-05-24T09:10:42.000Z",
+          "wordCount": 1548,
+          "title": "A Recap on CLARIN Café: Bilingual and Multilingual Corpora"
+        },
+        {
           "id": "5718 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
           "description": "CLARIN ERIC is looking for a Head of Operations (0.7 - 1.0 fte)\n\n            \nJob Description\nCLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n   is looking for a ‘Head of Operations’  who will work closely with the CLARIN Board of Directors and the staff at the central CLARIN Office.\nThe main tasks for which the Head of Operations will be responsible are: overseeing the implementation of strategic decisions taken by the Board of Directors in close coordination with the Executive Director and coordinating the central CLARIN Office workflows and their alignment with the CLARIN network and the wider infrastructural ecosystem.\nThe Head of Operations will be based at…",
@@ -7470,24 +7529,6 @@
           "publishedOn": "2021-12-09T14:13:58.000Z",
           "wordCount": 235,
           "title": "Call for Abstracts: CLARIN2022"
-        },
-        {
-          "id": "5626 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "Call for Papers: Digital Parliamentary Data in Action\n\n            \nThe call for papers for the workshop ‘Digital Parliamentary Data in Action’ co-located with the 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022) is now open.\nThe accessibility of parliamentary data is a democratic issue and raises questions about how such datasets can be used to empower citizen participation and enhance the transparency of political work and decision making. Hence, curation and research of parliamentary records, as well as the development of new tools and user interfaces relevant for the parliamentary data are embedded in critical societal discussions, and bear consequences from both scholarly and citizen perspectives.\nThese developments have led to enhanced opportunities and challenges for research and development. The workshop therefore draws together scholars across different disciplines to explore and showcase results and ongoing work on creating, publishing, and using digital parliamentary data in digital humanities research and applications. The aim is to foster interaction between the scholars in the humanities, social sciences, and computational sciences.\nDeadline for submitting the papers: 13 January 2022\nRead more and apply\n\n      Elisa Gorgaini\n 26 November 2021",
-          "link": "https://www.clarin.eu/news/call-papers-digital-parliamentary-data-action",
-          "publishedOn": "2021-11-26T11:33:23.000Z",
-          "wordCount": 328,
-          "title": "Call for Papers: Digital Parliamentary Data in Action"
-        },
-        {
-          "id": "5625 at https://www.clarin.eu",
-          "author": "Jakob Lenardič",
-          "description": "Tour de CLARIN: Interview with Zrinka Kolaković\n\n            \n\n\n \n  \n\n\n\n      \n\nThis interview is with Zrinka Kolaković, who holds a postdoctoral position at the Department of Slavic Languages and Literatures at the University of Klagenfurt. Before that, she worked at the University of Gießen, the University of Regensburg, and the University of Zagreb. Her current and future research interests are mainly focused on clitics and aspect. The interview was additionally edited and proofread by Krystyna Kupiszewska.\n \n \n \n \n \n \nPlease introduce yourself – your academic background and current position.\n \nIn 2008, I graduated from the University of Zagreb with a degree in Educational Science (Pedagogy) and Croatian Language and Literature. The profound theoretical linguistic knowledge of my mother…",
-          "link": "https://www.clarin.eu/blog/tour-de-clarin-interview-zrinka-kolakovic",
-          "publishedOn": "2021-11-26T10:50:07.000Z",
-          "wordCount": 3260,
-          "title": "Tour de CLARIN: Interview with Zrinka Kolaković"
         }
       ]
     },
@@ -7496,6 +7537,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1519 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that the Irish Jesuit Archives has made their collection ‘Photographs of Irish Jesuits in Hong Kong’ available in the Repository. The collection, which consists of twenty photographs of Irish Jesuits in Hong Kong between 1929 and 1937, can now be explored.",
+          "link": "https://www.dri.ie/new-collection-photographs-irish-jesuits-hong-kong-irish-jesuit-archive",
+          "publishedOn": "2022-05-23T17:42:28.000Z",
+          "wordCount": 955,
+          "title": "New Collection: Photographs of Irish Jesuits in Hong Kong from the Irish Jesuit Archive"
+        },
         {
           "id": "1518 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
