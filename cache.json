@@ -1934,6 +1934,15 @@
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
         {
+          "id": "https://dhn.utoronto.ca/?p=5089",
+          "author": "DHN Admin",
+          "description": "PhD Candidate Ariana Ellis recaps CDHI Visiting Scholar Lecture from Dr. Angus Mol, 11 March 2022.",
+          "link": "https://dhn.utoronto.ca/leaky-magic-dr-angus-mol-on-video-games-and-history/?utm_source=rss&utm_medium=rss&utm_campaign=leaky-magic-dr-angus-mol-on-video-games-and-history",
+          "publishedOn": "2022-05-27T18:18:30.000Z",
+          "wordCount": 2245,
+          "title": "Leaky Magic: Dr. Angus Mol on Video Games and History"
+        },
+        {
           "id": "https://dhn.utoronto.ca/?p=5050",
           "author": "Tanya Rohrmoser",
           "description": "Professor Thy Phu (Arts, Culture, and Media, UTSC and Associate Director, CDHI) has been awarded $449,922 through the SSHRC Race, Gender, and Diversity Initiative Grant competition. The Refugee States partnership will build the capacity of non-profit organizations and peer researchers to create and preserve knowledge that they want and need through the development of workshops on visual and digital storytelling.",
@@ -2802,6 +2811,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=8222",
+          "author": "Matthew Hayes",
+          "description": "Over the last decade, the growing number of accessible digital archives and repositories has been matched by the continued development …",
+          "link": "https://digitalorientalist.com/2022/05/27/digital-literacies-in-and-beyond-the-classroom-some-reflections-on-dh-in-teaching-with-dr-paula-r-curtis/",
+          "publishedOn": "2022-05-27T13:00:00.000Z",
+          "wordCount": 2716,
+          "title": "Digital Literacies in and Beyond the Classroom: Some Reflections on DH in Teaching with Dr. Paula R. Curtis"
+        },
         {
           "id": "http://digitalorientalist.com/?p=8253",
           "author": "bryceheatherly",
@@ -5030,15 +5048,6 @@
           "publishedOn": "2021-12-07T15:31:18.000Z",
           "wordCount": 1578,
           "title": "Ms. Codex 331: Miracle stories & Saints Lives"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=16061",
-          "author": "simsmss",
-          "description": "For Coffee With A Codex on November 29 we took at look at LJS 490, a German astronomical compendium written in the mid-fifteenth century. Cities in the Baden-Württemberg region of Germany are mentioned frequently, which probably means that it was written there, or for use there. The manuscript includes a variety of different texts, manyContinue reading \"LJS 490: Astronomy\"",
-          "link": "https://schoenberginstitute.org/2021/11/29/ljs-490-astronomy/",
-          "publishedOn": "2021-11-29T19:56:43.000Z",
-          "wordCount": 1324,
-          "title": "LJS 490: Astronomy"
         }
       ]
     },
@@ -5047,6 +5056,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1126",
+          "author": "Leah Budke",
+          "description": "Sources here; sources there; sources everywhere! Do you need help finding a better system to organize your reference materials for your Phd project? You are in luck! The Artes Research team in collaboration with research support from the Faculty of Law will offer a workshop to help PhD researchers get started with the reference management software Zotero. What can you expect? The session will start with an introduction to the basic functionalities of Zotero including the various ways to add...",
+          "link": "https://scholarlytales.hcommons.org/2022/05/27/workshop-getting-started-with-zotero-for-phd-research/",
+          "publishedOn": "2022-05-27T11:54:39.000Z",
+          "wordCount": 1778,
+          "title": "Workshop: Getting Started with Zotero for PhD Research"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1121",
           "author": "Nele Noppe",
@@ -7592,6 +7610,15 @@
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
         {
+          "id": "1520 at https://www.dri.ie",
+          "author": "Natalie Harrower",
+          "description": "Ireland’s National Open Research Forum (NORF) will be announcing a Call for Proposals to address six priority Actions in the National Action Plan for Open Research.",
+          "link": "https://www.dri.ie/norf-2022-funding-call-pre-announcement",
+          "publishedOn": "2022-05-27T10:12:45.000Z",
+          "wordCount": 558,
+          "title": "NORF 2022 Funding Call Pre-announcement"
+        },
+        {
           "id": "1519 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
           "description": "The Digital Repository of Ireland (DRI) is delighted to announce that the Irish Jesuit Archives has made their collection ‘Photographs of Irish Jesuits in Hong Kong’ available in the Repository. The collection, which consists of twenty photographs of Irish Jesuits in Hong Kong between 1929 and 1937, can now be explored.",
@@ -8157,15 +8184,6 @@
           "publishedOn": "2021-12-07T10:48:18.000Z",
           "wordCount": 659,
           "title": "EOSC Logo Competition"
-        },
-        {
-          "id": "1446 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "DRI has published a new collection of training videos exploring topics such as preparing metadata, navigating DRI’s repository, and ingesting and publishing digital objects.",
-          "link": "https://www.dri.ie/new-collection-dri-training-videos",
-          "publishedOn": "2021-11-29T16:41:27.000Z",
-          "wordCount": 667,
-          "title": "New Collection of DRI Training Videos"
         }
       ]
     },
