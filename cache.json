@@ -218,17 +218,7 @@
       "title": "News – Global Outlook::Digital Humanities",
       "feedUrl": "http://www.globaloutlookdh.org/news/feed",
       "siteUrl": "http://www.globaloutlookdh.org",
-      "articles": [
-        {
-          "id": "http://www.globaloutlookdh.org/?p=11913",
-          "author": "Sara Petrollino",
-          "description": "On December 13th, 2021 we will be hosting the second meeting of GO::DH Conversations with Benito Trollip. He will talk about “Gender terminology research in Afrikaans with corpus data: collecting, enhancing, and finding meaning“. Click here for more information and… Continue Reading →",
-          "link": "http://www.globaloutlookdh.org/global-outlookdigital-humanities-conversations/",
-          "publishedOn": "2021-11-30T10:18:16.000Z",
-          "wordCount": 135,
-          "title": "GO::DH Conversations: second meeting"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "aaDH",
@@ -1869,24 +1859,6 @@
           "publishedOn": "2021-12-01T09:51:58.000Z",
           "wordCount": 417,
           "title": "New Podcast series by CHCI"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8920",
-          "author": "Celia Luterbacher",
-          "description": "The COESO Project (Collaborative Engagement on Societal Issues) has two limited contract/freelance job openings, to be start as soon as possible: a Data Engineer/Data Scientist for data analytics and machine learning (ML) system design, and an NLP engineer and data scientist. The COESO Project’s mission is to “enable strong growth of citizen science projects in […]\nThe post Two job openings with the COESO project appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/30/two-job-openings-with-the-coeso-project/",
-          "publishedOn": "2021-11-30T11:22:04.000Z",
-          "wordCount": 925,
-          "title": "Two job openings with the COESO project"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=8904",
-          "author": "Celia Luterbacher",
-          "description": "The Lausanne Lab for Computational and Statistical Text Analysis invites paper submissions for the second edition of the Workshop on Computational Methods in the Humanities 2022 (COMHUM 2022), to be held on June 9 and 10 at the University of Lausanne (UNIL). The COMHUM workshop series positions itself as an international forum primarily devoted to […]\nThe post Workshop on Computational Methods in the Humanities 2022 appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/11/30/workshop-on-computational-methods-in-the-humanities-2022/",
-          "publishedOn": "2021-11-30T10:55:28.000Z",
-          "wordCount": 425,
-          "title": "Workshop on Computational Methods in the Humanities 2022"
         }
       ]
     },
@@ -2126,6 +2098,24 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/812",
+          "author": "406",
+          "description": "The Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH), a research department of the Austrian Academy of Sciences (OeAW), Austria’s leading non-university…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-project-scientist-acdh-ch-%C3%B6sterreichische-akademie-der-wissenschaften",
+          "publishedOn": "2022-05-29T08:15:52.910Z",
+          "wordCount": 893,
+          "title": "Stellenangebot: Project Scientist ACDH-CH, Österreichische Akademie der Wissenschaften"
+        },
+        {
+          "id": "node/813",
+          "author": "406",
+          "description": "Die Friedrich-Alexander-Universität Erlangen-Nürnberg schreibt im Rahmen des neuen DFG- geförderten Graduiertenkollegs 2806 Literatur und Öffentlichkeit in differenten…",
+          "link": "https://dig-hum.de/aktuelles/mehrere-stellenangebote-am-neuen-graduiertenkolleg-literatur-und-%C3%B6ffentlichkeit",
+          "publishedOn": "2022-05-29T08:15:52.899Z",
+          "wordCount": 764,
+          "title": "Mehrere Stellenangebote am neuen Graduiertenkolleg &quot;Literatur und Öffentlichkeit in differenten Gegenwartskulturen&quot; (FAU Erlangen-Nürnberg)"
+        },
         {
           "id": "node/811",
           "author": "406",
@@ -2593,15 +2583,6 @@
           "publishedOn": "2021-12-04T08:13:27.199Z",
           "wordCount": 1017,
           "title": "DHd2022: Programm und Anmeldung"
-        },
-        {
-          "id": "node/745",
-          "author": "406",
-          "description": "Der Verband »Digital Humanities im deutschsprachigen Raum e.V.«,  das Konsortium »NFDI4Culture«, der »Verein für Geistes- und  Kulturwissenschaftliche Forschungsinfrastrukturen«,…",
-          "link": "https://dig-hum.de/aktuelles/gentle-reminder-stipendien-f%C3%BCr-die-dhd2022-potsdam-deadline-20122021",
-          "publishedOn": "2021-11-30T16:33:58.000Z",
-          "wordCount": 774,
-          "title": "Gentle Reminder: Stipendien für die DHd2022 in Potsdam (Deadline: 20.12.2021)"
         }
       ]
     },
@@ -3269,15 +3250,6 @@
           "publishedOn": "2021-12-03T12:00:00.000Z",
           "wordCount": 612,
           "title": "Minna de Honkoku and the Cambridge Summer School in Japanese Early Modern Palaeography: An Interview, Part 2"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7200",
-          "author": "DaigengnaDuoer",
-          "description": "A post by our guest contributor, Shruti Dixit, a Ph.D. candidate in the Divinity School at the University of St. …",
-          "link": "https://digitalorientalist.com/2021/11/30/what-we-hold-and-what-we-must-pass-on-a-review-of-digitization-of-manuscripts-at-ignca-in-india/",
-          "publishedOn": "2021-11-30T12:00:00.000Z",
-          "wordCount": 1961,
-          "title": "What We Hold and What We Must Pass On: A Review of Digitization of Manuscripts at IGNCA in India"
         }
       ]
     },
@@ -3886,17 +3858,7 @@
       "title": "Stories by Pelagios on Medium",
       "feedUrl": "https://medium.com/@PelagiosNetwork/feed",
       "siteUrl": "https://medium.com/@PelagiosNetwork?source=rss-f96d74f645aa------2",
-      "articles": [
-        {
-          "id": "https://medium.com/p/3c18bf0ca5d3",
-          "author": "Pelagios",
-          "description": "By Matteo Romanello",
-          "link": "https://medium.com/pelagios/introducing-ajax-multi-commentary-3c18bf0ca5d3?source=rss-f96d74f645aa------2",
-          "publishedOn": "2021-11-30T07:54:50.000Z",
-          "wordCount": 409,
-          "title": "Introducing: Ajax Multi-Commentary"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Digital Linguistics - Medium",
@@ -4070,24 +4032,6 @@
           "publishedOn": "2021-12-22T08:14:55.452Z",
           "wordCount": 6692,
           "title": "Old Catalan Morphosyntax: Developing an Annotated Corpus"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.51",
-          "author": null,
-          "description": "This position paper outlines curation as a distinct area of linguistics which supports the assessment of existing linguistic data sets. The starting point of the discussion lies in the work with legacy materials and necessary skills for reviewing them. The discussion of skills and knowledge relevant for this task lays out requirements for training and preparing academics and professionals for curation in ways that creates career options. Due to the importance of properly maintained data sets and the time-consuming nature of curation, this specialisation deserves the same merit as other areas of linguistics and should be treated equally.\n Published on 2021-11-30 10:50:54",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.51",
-          "publishedOn": "2021-11-30T15:15:56.648Z",
-          "wordCount": 6616,
-          "title": "The Curation of Language Data as a Distinct Academic Activity: A Call to Action for Researchers, Educators, Funders, and Policymakers"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.52",
-          "author": null,
-          "description": "The “Whose Crisis?” project is in response to a continually evolving global health pandemic, COVID-19. In this context, the dominant discourses have been generated in the Global North, overwhelmingly by a minority of wealthy and powerful authors, reflecting narrowly on a crisis that, while impacting the whole world, is experienced in vastly different ways. This article frames and contextualises data from this project through an introduction to the background, contexts, and methods of a project designed to reflect the lived experiences of, perspectives on, and responses to COVID-19 in vulnerable communities across sub-Saharan Africa. The project has been carried out by a large team of collaborators who prioritise the lived experiences, customs, and needs of the communities engaged through a culturally responsive and arts-based research approach. The article points to the methodological implications of arts-based research to explore plural perspectives in participatory ways, and the socio-political possibilities of amplifying the voices of under-represented and under-served communities in Africa, in terms of global health in a pandemic context.\n Published on 2021-11-30 11:03:37",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.52",
-          "publishedOn": "2021-11-30T15:15:54.063Z",
-          "wordCount": 6512,
-          "title": "Whose Crisis? COVID-19 Explored through Arts and Cultural Practices of African Communities"
         }
       ]
     },
@@ -4427,20 +4371,6 @@
           "enclosure": {
             "url": "https://review.gale.com/wp-content/uploads/2022/01/Notes-from-a-DH-Correspondent-4-1.png",
             "length": "2124264",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://review.gale.com/?p=13076",
-          "author": "Gale Review Team",
-          "description": "|By Gale Digital Scholar Lab Product Management team| Gale Digital Scholar Lab creates new possibilities by offering solutions to the most common challenges facing researchers in the digital humanities today. Since its launch in 2018, the team has engaged with librarians, instructors, and students to find out what they’d like to see in the tool and how ... Read more\nThe post New Experience for Gale Digital Scholar Lab appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2021/11/30/new-experience-for-gale-digital-scholar-lab/?utm_source=rss&utm_medium=rss&utm_campaign=new-experience-for-gale-digital-scholar-lab",
-          "publishedOn": "2021-11-30T10:00:00.000Z",
-          "wordCount": 731,
-          "title": "New Experience for Gale Digital Scholar Lab",
-          "enclosure": {
-            "url": "https://review.gale.com/wp-content/uploads/2021/11/Header.png",
-            "length": "166396",
             "type": "image/png"
           }
         }
@@ -5477,6 +5407,42 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/05/29/files-digitised-by.html",
+          "author": null,
+          "description": "Files digitised by the National Archives of Australia this week: 25,981\nTop series:\n+14,025 in B884 (CMF personnel dossiers)\n+7,652 in A2572 (Bonegilla name index cards)\nSee: github.com/wragge/na…",
+          "link": "https://updates.timsherratt.org/2022/05/29/files-digitised-by.html",
+          "publishedOn": "2022-05-29T04:40:08.000Z",
+          "wordCount": 44,
+          "title": "Untitled"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/05/29/new-in-trove.html",
+          "author": null,
+          "description": "New in Trove this week:\nBerrigan Advocate (NSW)\nTingha Spectator & North Western Journal (NSW)\nTingha Miner & North Western Advocate (NSW)\nBoggy Camp Tingha & Bora Creek (NSW)\nSee: github.com/wragge/tr…",
+          "link": "https://updates.timsherratt.org/2022/05/29/new-in-trove.html",
+          "publishedOn": "2022-05-29T04:33:27.000Z",
+          "wordCount": 47,
+          "title": "Untitled"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/05/29/major-changes-to.html",
+          "author": null,
+          "description": "Major changes to Trove newspaper titles this week:\n+30,713 in Queanbeyan Age (NSW, end date now 1944)\n+10,014 in Daily News (WA)\n+179 in Inverell Argus (NSW)\nSee: github.com/wragge/tr…",
+          "link": "https://updates.timsherratt.org/2022/05/29/major-changes-to.html",
+          "publishedOn": "2022-05-29T04:27:15.000Z",
+          "wordCount": 45,
+          "title": "Untitled"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/05/29/added-to-trove.html",
+          "author": null,
+          "description": "Added to Trove newspapers this week:\n+43,015 articles\n+10,263 articles with corrections\n+7,499 articles with tags\n+243 articles with comments\nSee: github.com/wragge/tr…",
+          "link": "https://updates.timsherratt.org/2022/05/29/added-to-trove.html",
+          "publishedOn": "2022-05-29T04:21:15.000Z",
+          "wordCount": 38,
+          "title": "Untitled"
+        },
         {
           "id": "http://wragge.micro.blog/2022/05/26/using-datasette-on.html",
           "author": null,

@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-05-28T08:17:41.388Z</updated>
+    <updated>2022-05-29T08:16:29.999Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: Project Scientist ACDH-CH, Österreichische Akademie der Wissenschaften]]></title>
+        <id>node/812</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-project-scientist-acdh-ch-%C3%B6sterreichische-akademie-der-wissenschaften"/>
+        <updated>2022-05-29T08:15:52.910Z</updated>
+        <summary type="html"><![CDATA[The Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH), a research department of the Austrian Academy of Sciences (OeAW), Austria’s leading non-university…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mehrere Stellenangebote am neuen Graduiertenkolleg &quot;Literatur und Öffentlichkeit in differenten Gegenwartskulturen&quot; (FAU Erlangen-Nürnberg)]]></title>
+        <id>node/813</id>
+        <link href="https://dig-hum.de/aktuelles/mehrere-stellenangebote-am-neuen-graduiertenkolleg-literatur-und-%C3%B6ffentlichkeit"/>
+        <updated>2022-05-29T08:15:52.899Z</updated>
+        <summary type="html"><![CDATA[Die Friedrich-Alexander-Universität Erlangen-Nürnberg schreibt im Rahmen des neuen DFG- geförderten Graduiertenkollegs 2806 Literatur und Öffentlichkeit in differenten…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/05/29/files-digitised-by.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/29/files-digitised-by.html"/>
+        <updated>2022-05-29T04:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Files digitised by the National Archives of Australia this week: 25,981
+Top series:
++14,025 in B884 (CMF personnel dossiers)
++7,652 in A2572 (Bonegilla name index cards)
+See: github.com/wragge/na…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/05/29/new-in-trove.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/29/new-in-trove.html"/>
+        <updated>2022-05-29T04:33:27.000Z</updated>
+        <summary type="html"><![CDATA[New in Trove this week:
+Berrigan Advocate (NSW)
+Tingha Spectator & North Western Journal (NSW)
+Tingha Miner & North Western Advocate (NSW)
+Boggy Camp Tingha & Bora Creek (NSW)
+See: github.com/wragge/tr…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/05/29/major-changes-to.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/29/major-changes-to.html"/>
+        <updated>2022-05-29T04:27:15.000Z</updated>
+        <summary type="html"><![CDATA[Major changes to Trove newspaper titles this week:
++30,713 in Queanbeyan Age (NSW, end date now 1944)
++10,014 in Daily News (WA)
++179 in Inverell Argus (NSW)
+See: github.com/wragge/tr…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/05/29/added-to-trove.html</id>
+        <link href="https://updates.timsherratt.org/2022/05/29/added-to-trove.html"/>
+        <updated>2022-05-29T04:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Added to Trove newspapers this week:
++43,015 articles
++10,263 articles with corrections
++7,499 articles with tags
++243 articles with comments
+See: github.com/wragge/tr…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leaky Magic: Dr. Angus Mol on Video Games and History]]></title>
         <id>https://dhn.utoronto.ca/?p=5089</id>
@@ -11159,101 +11237,6 @@ Papers Past newspapers in DigitalNZ – displays details of the Papers Past news
         <summary type="html"><![CDATA[Thank you all for a great Lightning Talks event! It was wonderful to hear about […]]]></summary>
         <author>
             <name>Param Ajmera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gentle Reminder: Stipendien für die DHd2022 in Potsdam (Deadline: 20.12.2021)]]></title>
-        <id>node/745</id>
-        <link href="https://dig-hum.de/aktuelles/gentle-reminder-stipendien-f%C3%BCr-die-dhd2022-potsdam-deadline-20122021"/>
-        <updated>2021-11-30T16:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Der Verband »Digital Humanities im deutschsprachigen Raum e.V.«,  das Konsortium »NFDI4Culture«, der »Verein für Geistes- und  Kulturwissenschaftliche Forschungsinfrastrukturen«,…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Curation of Language Data as a Distinct Academic Activity: A Call to Action for Researchers, Educators, Funders, and Policymakers]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.51</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.51"/>
-        <updated>2021-11-30T15:15:56.648Z</updated>
-        <summary type="html"><![CDATA[This position paper outlines curation as a distinct area of linguistics which supports the assessment of existing linguistic data sets. The starting point of the discussion lies in the work with legacy materials and necessary skills for reviewing them. The discussion of skills and knowledge relevant for this task lays out requirements for training and preparing academics and professionals for curation in ways that creates career options. Due to the importance of properly maintained data sets and the time-consuming nature of curation, this specialisation deserves the same merit as other areas of linguistics and should be treated equally.
- Published on 2021-11-30 10:50:54]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whose Crisis? COVID-19 Explored through Arts and Cultural Practices of African Communities]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.52</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.52"/>
-        <updated>2021-11-30T15:15:54.063Z</updated>
-        <summary type="html"><![CDATA[The “Whose Crisis?” project is in response to a continually evolving global health pandemic, COVID-19. In this context, the dominant discourses have been generated in the Global North, overwhelmingly by a minority of wealthy and powerful authors, reflecting narrowly on a crisis that, while impacting the whole world, is experienced in vastly different ways. This article frames and contextualises data from this project through an introduction to the background, contexts, and methods of a project designed to reflect the lived experiences of, perspectives on, and responses to COVID-19 in vulnerable communities across sub-Saharan Africa. The project has been carried out by a large team of collaborators who prioritise the lived experiences, customs, and needs of the communities engaged through a culturally responsive and arts-based research approach. The article points to the methodological implications of arts-based research to explore plural perspectives in participatory ways, and the socio-political possibilities of amplifying the voices of under-represented and under-served communities in Africa, in terms of global health in a pandemic context.
- Published on 2021-11-30 11:03:37]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What We Hold and What We Must Pass On: A Review of Digitization of Manuscripts at IGNCA in India]]></title>
-        <id>http://digitalorientalist.com/?p=7200</id>
-        <link href="https://digitalorientalist.com/2021/11/30/what-we-hold-and-what-we-must-pass-on-a-review-of-digitization-of-manuscripts-at-ignca-in-india/"/>
-        <updated>2021-11-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A post by our guest contributor, Shruti Dixit, a Ph.D. candidate in the Divinity School at the University of St. …]]></summary>
-        <author>
-            <name>DaigengnaDuoer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two job openings with the COESO project]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=8920</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/11/30/two-job-openings-with-the-coeso-project/"/>
-        <updated>2021-11-30T11:22:04.000Z</updated>
-        <summary type="html"><![CDATA[The COESO Project (Collaborative Engagement on Societal Issues) has two limited contract/freelance job openings, to be start as soon as possible: a Data Engineer/Data Scientist for data analytics and machine learning (ML) system design, and an NLP engineer and data scientist. The COESO Project’s mission is to “enable strong growth of citizen science projects in […]
-The post Two job openings with the COESO project appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop on Computational Methods in the Humanities 2022]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=8904</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/11/30/workshop-on-computational-methods-in-the-humanities-2022/"/>
-        <updated>2021-11-30T10:55:28.000Z</updated>
-        <summary type="html"><![CDATA[The Lausanne Lab for Computational and Statistical Text Analysis invites paper submissions for the second edition of the Workshop on Computational Methods in the Humanities 2022 (COMHUM 2022), to be held on June 9 and 10 at the University of Lausanne (UNIL). The COMHUM workshop series positions itself as an international forum primarily devoted to […]
-The post Workshop on Computational Methods in the Humanities 2022 appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GO::DH Conversations: second meeting]]></title>
-        <id>http://www.globaloutlookdh.org/?p=11913</id>
-        <link href="http://www.globaloutlookdh.org/global-outlookdigital-humanities-conversations/"/>
-        <updated>2021-11-30T10:18:16.000Z</updated>
-        <summary type="html"><![CDATA[On December 13th, 2021 we will be hosting the second meeting of GO::DH Conversations with Benito Trollip. He will talk about “Gender terminology research in Afrikaans with corpus data: collecting, enhancing, and finding meaning“. Click here for more information and… Continue Reading →]]></summary>
-        <author>
-            <name>Sara Petrollino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Experience for Gale Digital Scholar Lab]]></title>
-        <id>https://review.gale.com/?p=13076</id>
-        <link href="https://review.gale.com/2021/11/30/new-experience-for-gale-digital-scholar-lab/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-experience-for-gale-digital-scholar-lab"/>
-        <updated>2021-11-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[|By Gale Digital Scholar Lab Product Management team| Gale Digital Scholar Lab creates new possibilities by offering solutions to the most common challenges facing researchers in the digital humanities today. Since its launch in 2018, the team has engaged with librarians, instructors, and students to find out what they’d like to see in the tool and how ... Read more
-The post New Experience for Gale Digital Scholar Lab appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Review Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing: Ajax Multi-Commentary]]></title>
-        <id>https://medium.com/p/3c18bf0ca5d3</id>
-        <link href="https://medium.com/pelagios/introducing-ajax-multi-commentary-3c18bf0ca5d3?source=rss-f96d74f645aa------2"/>
-        <updated>2021-11-30T07:54:50.000Z</updated>
-        <summary type="html"><![CDATA[By Matteo Romanello]]></summary>
-        <author>
-            <name>Pelagios</name>
         </author>
     </entry>
     <entry>
