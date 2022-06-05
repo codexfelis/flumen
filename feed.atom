@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-04T08:15:03.429Z</updated>
+    <updated>2022-06-05T08:15:54.738Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/06/05/getting-to-work.html</id>
+        <link href="https://updates.timsherratt.org/2022/06/05/getting-to-work.html"/>
+        <updated>2022-06-05T06:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Getting to work migrating the Real Face of White Australia transcription site from scribeAPI (no longer maintained) to Zooniverse Panoptes. First the workflows and config, then the subjects, then the current transcription data…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ms. Codex 1056: Illuminated Book of Hours]]></title>
         <id>http://schoenberginstitute.org/?p=16928</id>
@@ -11114,158 +11124,6 @@ On Day 2, we again start the day with a keynote timed for participants in UTC an
 Karrmen Crey – Indigenous Epistemologies first appeared on Digital Democracies Institute.]]></summary>
         <author>
             <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Proposals: Graduate Seed Grants 2022–2023]]></title>
-        <id>https://dh.rutgers.edu/?p=77530</id>
-        <link href="https://dh.rutgers.edu/seed-grant-cfp2022/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=seed-grant-cfp2022"/>
-        <updated>2021-12-07T18:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Deadline: March 1, 2022 Award: up to $1,000 (maximum) Funding/Project Period: April 1, 2022–March 31, 2023 Click here to download this CFP as a PDF file. The Rutgers Digital Humanities Initiative (DHI) invites proposals from graduate students in any Rutgers-New Brunswick humanities department or program for seed grants of up to $1,000 to support digital humanities projects in research and/or public outreach. These projects may, but need not, be related to the applicant’s dissertation research. Grants will support projects conducted during the 12 months from the date of award (i.e. April 1, 2022–March 30, 2023). Prospective applicants are strongly encouraged to attend a workshop on formulating]]></summary>
-        <author>
-            <name>Andrew Goldstone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Nominations: ACH Executive Council (Q&A Event 12/15)]]></title>
-        <id>https://ach.org/?p=2277</id>
-        <link href="https://ach.org/blog/2021/12/07/call-for-nominations-ach-executive-council-qa-event-12-15/"/>
-        <updated>2021-12-07T17:15:41.000Z</updated>
-        <summary type="html"><![CDATA[ACH seeks three new Executive Council Representatives to serve a 4-year term (2022-2026) as well as one or more Vice-President/President Elect(s). The current co-VPs will be available to answer questions via email, or at a Zoom event on December 15th at 4 PM Eastern / 1 PM Pacific. Nominations are due January 15, 2022 via…Continue reading.]]></summary>
-        <author>
-            <name>Quinn Dombrowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop 2: Dr. Kanta Dihal, ‘Global AI Narratives & Decolonizing AI – Collaborative, Cross-sectoral Research for Social Justice’]]></title>
-        <id>https://www.aeolian-network.net/?p=434</id>
-        <link href="https://www.aeolian-network.net/workshop-2-dr-kanta-dihal/"/>
-        <updated>2021-12-07T16:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Kanta Dihal (Leverhulme Center for the Future of Intelligence, University of Cambridge) presented her paper ‘Global AI Narratives & Decolonizing AI – Collaborative, Cross-sectoral Research for Social Justice’ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Monday 25th October 2021.]]></summary>
-        <author>
-            <name>AEOLIAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop 2: Caroline Sinders, ‘In Defense of Useful Art: How art allows for confrontation, exploration, and systematic problem solving’]]></title>
-        <id>https://www.aeolian-network.net/?p=432</id>
-        <link href="https://www.aeolian-network.net/workshop-2-caroline-sinders/"/>
-        <updated>2021-12-07T16:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Caroline Sinders (Independent / London College of Communication) presented her paper ‘In Defense of Useful Art: How art allows for confrontation, exploration, and systematic problem solving’ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Monday 25th October 2021. Abstract: Can artwork be useful, can it be productive, […]]]></summary>
-        <author>
-            <name>AEOLIAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop 2: Glen Worthey, ‘Does Information Want to Be Free?’]]></title>
-        <id>https://www.aeolian-network.net/?p=430</id>
-        <link href="https://www.aeolian-network.net/workshop-2-glen-worthey/"/>
-        <updated>2021-12-07T16:29:38.000Z</updated>
-        <summary type="html"><![CDATA[Glen Worthey (HathiTrust Research Centre, University of Illinois)presented his paper ‘Does Information Want to Be Free?’ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Monday 25th October 2021. Abstract: Whether or not we actually believe it, and regardless of both its intended and its accepted interpretations, Stewart […]]]></summary>
-        <author>
-            <name>AEOLIAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop 2: Jeff Steward, ‘Elephants on Parade or: A Cavalcade of Discoveries from Five CV Systems’]]></title>
-        <id>https://www.aeolian-network.net/?p=426</id>
-        <link href="https://www.aeolian-network.net/workshop-2-jeff-steward/"/>
-        <updated>2021-12-07T16:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Jeff Steward (Harvard Art Museums) presented his paper ‘Elephants on Parade or: A Cavalcade of Discoveries from Five CV System‘ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Monday 25th October 2021. Abstract: In 2014 the Harvard Art Museums (HAM) started exploring third party AI systems as […]]]></summary>
-        <author>
-            <name>AEOLIAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ms. Codex 331: Miracle stories & Saints Lives]]></title>
-        <id>http://schoenberginstitute.org/?p=16107</id>
-        <link href="https://schoenberginstitute.org/2021/12/07/cwac-ms-codex-331/"/>
-        <updated>2021-12-07T15:31:18.000Z</updated>
-        <summary type="html"><![CDATA[On December 6, 2021, we welcomed Mario Sassi, PhD Student in Italian Studies, to guest host Coffee With A Codex. Mario introduced us to Ms. Codex 331, a 15th century Tuscan collection of miracle stories and lives of the saints. The stories in Ms. Codex 331 include moral stories, illustrating that there will be eternalContinue reading "Ms. Codex 331: Miracle stories & Saints Lives"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop 2: Dr. Katherine McDonough, ‘Maps as [Open] [Humanities] Data: From Access to Analysis’]]></title>
-        <id>https://www.aeolian-network.net/?p=398</id>
-        <link href="https://www.aeolian-network.net/workshop-2-mcdonough/"/>
-        <updated>2021-12-07T15:20:12.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Katherine McDonough (The Alan Turing Institute) presented her paper ‘Maps as [Open] [Humanities] Data: From Access to Analysis‘ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Monday 25th October 2021. Abstract: Creating data from maps means transforming visual and text content from images of scanned map […]]]></summary>
-        <author>
-            <name>AEOLIAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compte rendu de manifestation: Atelier sur la préservation des jeux vidéos]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=9017</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/12/07/compte-rendu-de-manifestation-atelier-sur-la-preservation-des-jeux-videos/"/>
-        <updated>2021-12-07T13:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Le second atelier consacré à la préservation des jeux vidéos en Suisse, organisé conjointement par infoclio.ch, Memoriav et le projet Pixelvetica, avec le soutien du dhCenter UNIL-EPFL, s’est tenu le 25 octobre 2021 à la Haus der Elektronischen Kunst (HEK) de Bâle. Cette journée a été l’occasion pour des participants d’horizons très divers d’aborder les […]
-The post Compte rendu de manifestation: Atelier sur la préservation des jeux vidéos appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digitizing Cultural Heritage in Contemporary China: An Introduction to “Sinorelic”￼]]></title>
-        <id>http://digitalorientalist.com/?p=7236</id>
-        <link href="https://digitalorientalist.com/2021/12/07/digitizing-cultural-heritage-in-contemporary-china-an-introduction-to-sinorelic%ef%bf%bc/"/>
-        <updated>2021-12-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What is Sinorelic? Sinorelic (华夏古迹图) is a Chinese-language online platform for collecting and sharing data about cultural heritage sites. Developed …]]></summary>
-        <author>
-            <name>bryceheatherly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop 2: Introduction]]></title>
-        <id>https://www.aeolian-network.net/?p=442</id>
-        <link href="https://www.aeolian-network.net/workshop-2-introduction/"/>
-        <updated>2021-12-07T11:40:54.000Z</updated>
-        <summary type="html"><![CDATA[US Principle Investigator Glen Worthey and host Christopher Loughnane present an introduction to the second workshop for the AEOLIAN Network, ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Monday 25th October 2021.]]></summary>
-        <author>
-            <name>AEOLIAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop 2: Day 1 Roundtable]]></title>
-        <id>https://www.aeolian-network.net/?p=438</id>
-        <link href="https://www.aeolian-network.net/workshop-2-day-1-roundtable/"/>
-        <updated>2021-12-07T11:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Christopher Loughnane, Glen Worthey, Claire Warwick and presenters Kanta Dihal, Katherine McDonough, Jeff Steward and Caroline Sinders join this roundtable for the workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ to discuss the day, answer questions and explore wider topics of the theme on Monday 25th October 2021.]]></summary>
-        <author>
-            <name>AEOLIAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOSC Logo Competition]]></title>
-        <id>1447 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/eosc-logo-competition"/>
-        <updated>2021-12-07T10:48:18.000Z</updated>
-        <summary type="html"><![CDATA[Design the new logo of the European Open Science Cloud (EOSC) and win €5,000.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop 2: Dr. Erinma Ochu, ‘Stewarding the AI Commons’]]></title>
-        <id>https://www.aeolian-network.net/?p=461</id>
-        <link href="https://www.aeolian-network.net/workshop-2-dr-erinma-ochu-stewarding-the-ai-commons/"/>
-        <updated>2021-12-07T09:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Erinma Ochu (Manchester Metropolitan University) presented their paper ‘Stewarding the AI Commons’ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Tuesday 26th October 2021. Abstract: Industry 4.0 (hardware, software, data, AI) has the potential to shape daily lives and cultures, rapidly changing the way we learn, […]]]></summary>
-        <author>
-            <name>AEOLIAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNSF-funded PhD position in translation studies at UNIGE]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=9014</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2021/12/07/snsf-funded-phd-position-in-translation-studies-at-unige/"/>
-        <updated>2021-12-07T08:14:58.000Z</updated>
-        <summary type="html"><![CDATA[As part of a Weave project funded by the Swiss National Science Foundation (SNSF), the Transius Centre (Department of Translation, Faculty of Translation and Interpreting, University of Geneva) has an opening for a PhD candidate in Translation Studies, to begin in March, 2022. The research project is entitled ‘Places of Translation: A Comparative Study of […]
-The post SNSF-funded PhD position in translation studies at UNIGE appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
         </author>
     </entry>
     <entry>
