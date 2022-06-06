@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-05T08:15:54.738Z</updated>
+    <updated>2022-06-06T08:15:48.366Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -10957,6 +10957,16 @@ Read the full call
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Workshop 2: Dr. Erinma Ochu, ‘Stewarding the AI Commons’]]></title>
+        <id>https://www.aeolian-network.net/?p=461</id>
+        <link href="https://www.aeolian-network.net/workshop-2-dr-erinma-ochu-stewarding-the-ai-commons/"/>
+        <updated>2021-12-09T12:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Erinma Ochu (Manchester Metropolitan University) presented their paper ‘Stewarding the AI Commons’ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Tuesday 26th October 2021. Abstract: Industry 4.0 (hardware, software, data, AI) has the potential to shape daily lives and cultures, rapidly changing the way we learn, […]]]></summary>
+        <author>
+            <name>AEOLIAN</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Workshop 2: Dr. Samantha Shorey, ‘Working Futures for AI in Organizations’]]></title>
         <id>https://www.aeolian-network.net/?p=444</id>
         <link href="https://www.aeolian-network.net/workshop-2-dr-samantha-shorey/"/>
@@ -11058,85 +11068,6 @@ Both are HTML pages that embed visualisations created using Altair. The visualis
 This and many other presentations about the GLAM Workbench are listed here. It seems I’ve given at least 11 talks and workshops this year! #dhhacks]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACH Advocacy Leads to New Opportunities for Text and Video Analysis]]></title>
-        <id>https://ach.org/?p=2279</id>
-        <link href="https://ach.org/blog/2021/12/08/ach-advocacy-leads-to-new-opportunities-for-text-and-video-analysis/"/>
-        <updated>2021-12-08T16:56:36.000Z</updated>
-        <summary type="html"><![CDATA[In late October 2021, the Librarian of Congress granted a new exemption to section 1201 of the Digital Millennium Copyright Act (DMCA) that supports the computational analysis of multimedia, including texts (in the form of encrypted ebooks) and video (in the form of encrypted DVDs). The new ruling opens up exciting new opportunities for digital…Continue reading.]]></summary>
-        <author>
-            <name>Quinn Dombrowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Faust Shop: actors on a new stage]]></title>
-        <id>https://www.cdh.cam.ac.uk/?p=33365</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/the-faust-shop-actors-on-a-new-stage/"/>
-        <updated>2021-12-08T14:04:29.000Z</updated>
-        <summary type="html"><![CDATA[‘Just fancy that! One does depend On one’s own creatures, in the end.’ (Mephistopheles commenting on Wagner’s Homunculus project in Johann Wolfgang Goethe’s ‘Faust: Part Two, Act II, translated by David Luke.)   Digital technologies and automated actors organise our daily interactions and spaces. Effortlessly we become actors on a new stage of emerging digital […]
-The post The Faust Shop: actors on a new stage first appeared on CDH.]]></summary>
-        <author>
-            <name>Sarah Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing our Delivery Plan]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=2250</id>
-        <link href="https://livingwithmachines.ac.uk/sharing-our-delivery-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sharing-our-delivery-plan"/>
-        <updated>2021-12-08T12:35:05.000Z</updated>
-        <summary type="html"><![CDATA[While the size, complexity and composition of our project may be unusual (particularly in the humanities) the questions we’re asked by others tell us that much of what we’ve learnt about working together on an emergent, blue sky research project could be useful for other projects. Today we’re sharing the first version of our ‘Delivery […]]]></summary>
-        <author>
-            <name>Mia Ridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Faust Shop: actors on a new stage]]></title>
-        <id>https://blog.cdh.cam.ac.uk/?p=367</id>
-        <link href="https://blog.cdh.cam.ac.uk/2021/12/08/the-faust-shop-actors-on-a-new-stage/"/>
-        <updated>2021-12-08T09:18:46.000Z</updated>
-        <summary type="html"><![CDATA[Dr Annja Neumann discusses the media arts-based research the Faust Shop she is in the process of developing. She asks how you can buy back your digital soul by stepping onto a new stage. The Faust Shop is part of her research project on the re-staging of public spaces in a digitized world.
-The post The Faust Shop: actors on a new stage appeared first on The Digital Hum.]]></summary>
-        <author>
-            <name>Heather Stallard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 2 of FORCE2021]]></title>
-        <id>12439 at https://www.force11.org</id>
-        <link href="https://www.force11.org/blog/day-2-force2021"/>
-        <updated>2021-12-08T05:50:37.000Z</updated>
-        <summary type="html"><![CDATA[At the end of Day 1, we have had 1,300 + registrations for FORCE2021: Joining Forces to Advance the Future of Research Communications! 
-
-On Day 2, we again start the day with a keynote timed for participants in UTC and adjacent time zones: Dr. Shamila Nair-Bedouelle, Assistant Director-General for Natural Sciences, UNESCO. Her keynote “How open science can help us achieve the Sustainable Development Goals (SDGs)?” positions FORCE2021 as the first international event to discuss the impact of the UNESCO Recommendation on Open Science since its recent ratification. This topic is near and dear to my heart, and I may just set an alarm to catch it at 5AM from the US East Coast. If you can’t make that happen for yourself, remember that after the conference concludes we will have recordings of all…]]></summary>
-        <author>
-            <name>Jennifer Miller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karrmen Crey – Indigenous Epistemologies]]></title>
-        <id>https://digitaldemocracies.org/?p=1915</id>
-        <link href="https://digitaldemocracies.org/karrmen-crey-indigenous-epistemologies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=karrmen-crey-indigenous-epistemologies"/>
-        <updated>2021-12-07T21:09:12.000Z</updated>
-        <summary type="html"><![CDATA[As the convener of the new DDI research stream Indigenous Epistemologies, Dr. Karrmen Crey presented to the team some of the themes and direction that will shape the research. The …
-  Karrmen Crey – Indigenous Epistemologies Read More »
-Karrmen Crey – Indigenous Epistemologies first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 1 of FORCE2021]]></title>
-        <id>12419 at https://www.force11.org</id>
-        <link href="https://www.force11.org/blog/day1-force2021"/>
-        <updated>2021-12-07T00:11:52.000Z</updated>
-        <summary type="html"><![CDATA[Start your first day of the conference with our first keynote, by Dr. Leslie Chan, Director of the Knowledge Production Lab at the University of Toronto, Scarborough. His keynote message is “Beyond diversity and inclusion: Challenging structural racism and systemic biases in academic knowledge production.” 
-A community discussion will follow immediately after the keynote, with panelists Dr. Daniela Saderi; Joy Owango, Executive Director of the Training Centre in Communication; and Dr. Jo Havemann reporting on their work to advance equity in scholarly practice and communication.
-The keynote and discussion are scheduled to take place during waking hours for much of Africa, Asia, and Europe.
-Next up are Community Presentations, a series of lightning talks. This would make a great lunch and le…]]></summary>
-        <author>
-            <name>Jennifer Miller</name>
         </author>
     </entry>
     <entry>
