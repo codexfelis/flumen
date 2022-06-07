@@ -330,15 +330,6 @@
           "publishedOn": "2022-01-25T19:05:04.000Z",
           "wordCount": 258,
           "title": "Call for Participation: ACH @ MLA 2023 Panel on Extended Reality"
-        },
-        {
-          "id": "https://ach.org/?p=2282",
-          "author": "paigecm",
-          "description": "Session 11; Thursday, January 6th, 12:00-1:15pm Note: We are in the process of transitioning to a virtual session to accommodate those unable to travel. However, as of this posting (Dec. 9) most panel participants will be at the conference, and we are looking into a physical location that might accommodate a hybrid experience. Washington, DC…Continue reading.",
-          "link": "https://ach.org/blog/2021/12/09/ach-mla-teaching-with-data-feminism/",
-          "publishedOn": "2021-12-09T14:56:51.000Z",
-          "wordCount": 1001,
-          "title": "ACH @ MLA: Teaching with Data Feminism"
         }
       ]
     },
@@ -1732,15 +1723,6 @@
           "publishedOn": "2021-12-10T11:21:15.000Z",
           "wordCount": 696,
           "title": "CfP: DARIAH annual event 2022 – Storytelling"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9040",
-          "author": "Celia Luterbacher",
-          "description": "The COESO research project (Collaborative Engagement on Societal Issues) will fund five new pilot projects for up to EUR50,000 each to implement innovative citizen science projects in social sciences and humanities. COESO is a research project, coordinated by OpenEdition and EHESS, dedicated to the development of citizen science and participatory research in the area of […]\nThe post COESO open call for citizen science projects in social sciences and humanities appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/12/09/coeso-open-call-for-citizen-science-projects-in-social-sciences-and-humanities/",
-          "publishedOn": "2021-12-09T14:59:36.000Z",
-          "wordCount": 525,
-          "title": "COESO open call for citizen science projects in social sciences and humanities"
         }
       ]
     },
@@ -4673,6 +4655,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=16954",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 308, a letter patent dated Gloucester, 16 August 1347, written in England. The document is printed on parchment with Great Seal of England in white wax (very worn, especially at edges) suspended on a parchmentContinue reading \"Manuscript Monday: LJS 308 – Edward III letter patent\"",
+          "link": "https://schoenberginstitute.org/2022/06/06/manuscript-monday-ljs-308-edward-iii-letter-patent/",
+          "publishedOn": "2022-06-06T16:29:19.000Z",
+          "wordCount": 1553,
+          "title": "Manuscript Monday: LJS 308 – Edward III letter patent"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=16928",
           "author": "simsmss",
           "description": "On June 1, Curator Dot Porter brought out Ms. Codex 1056, an illuminated book of hours written in Rouen, France. It was written ca. 1475, although the binding – leather over board – is slightly newer, dating from the early 16th century. Saint Barbara is on the front cover, John the Baptist is on theContinue reading \"Ms. Codex 1056: Illuminated Book of Hours\"",
@@ -5146,15 +5137,6 @@
           "publishedOn": "2021-12-23T15:31:34.000Z",
           "wordCount": 602,
           "title": "Interview: ReproducibiliTea journal club at KU Leuven looking for coordinators and participants"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=877",
-          "author": "Nele Baplu",
-          "description": "Until 31 January 2022 KU Leuven users have trial access to the Oxford Research Encyclopedia of Literature Why Oxford Research Encyclopedias? You are welcome to send any feedback about the trial to your Artes subject specialist.",
-          "link": "https://scholarlytales.hcommons.org/2021/12/09/trial-access-oxford-research-encyclopedia-of-literature/",
-          "publishedOn": "2021-12-09T11:01:51.000Z",
-          "wordCount": 473,
-          "title": "Trial access: Oxford Research Encyclopedia of Literature"
         }
       ]
     },
@@ -5711,24 +5693,6 @@
           "publishedOn": "2022-01-28T04:01:15.000Z",
           "wordCount": 668,
           "title": "Testing, testing..."
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/12/09/some-big-pictures.html",
-          "author": null,
-          "description": "One of the things I really like about Jupyter is the fact that I can share notebooks in a variety of different formats. Tools like QueryPic can run as simple web apps using Voila, static versions of notebooks can be viewed using NBViewer, and live versions can be spun up as required on Binder. It’s also possible to export notebooks at PDFs, slideshows, or just plain-old HTML pages. Just recently I realised I could export notebooks to HTML using the same template I use for Voila. This gives me another way of sharing – static web pages delivered via the main GLAM Workbench site.\nHere’s a couple of examples:\nPapers Past newspapers in DigitalNZ – showing which Papers Past newspapers are available through DigitalNZ\nTrove newspapers – number of issues per day, 1803–2020 – the number of newspaper issues published every day in Trove\n\nBoth are HTML pages that embed visualisations created using Altair. The visualisations are rendered using javascript, and even though the notebook isn’t running in a live computing environment, there’s some basic interactivity built-in – for example, you can hover for more details, and click on the DigitalNZ chart to search for articles from a newspaper. More to come! #dhhacks",
-          "link": "https://updates.timsherratt.org/2021/12/09/some-big-pictures.html",
-          "publishedOn": "2021-12-08T23:44:24.000Z",
-          "wordCount": 237,
-          "title": "Some big pictures of newspapers in Trove and DigitalNZ"
-        },
-        {
-          "id": "http://wragge.micro.blog/2021/12/09/exploring-glam-data.html",
-          "author": null,
-          "description": "The video of my key story presentation at ResBaz Queensland (simulcast via ResBaz Sydney) is now available on Vimeo. In it, I explore some of the possibilities of GLAM data by retracing my own journey through WWI service records, The Real Face of White Australia, #redactionart, and Trove – ending up at the GLAM Workbench, which brings together a lot of my tools and resources in a form that anyone can use. The slides are also available, and there’s an archived version of everything in Zenodo.\n\nThis and many other presentations about the GLAM Workbench are listed here. It seems I’ve given at least 11 talks and workshops this year! #dhhacks",
-          "link": "https://updates.timsherratt.org/2021/12/09/exploring-glam-data.html",
-          "publishedOn": "2021-12-08T23:13:48.000Z",
-          "wordCount": 137,
-          "title": "Exploring GLAM data at ResBaz"
         }
       ]
     },
@@ -5817,42 +5781,6 @@
           "publishedOn": "2022-02-08T13:39:10.000Z",
           "wordCount": 404,
           "title": "Workshop 3: Prof. Jason R. Baron, ‘Challenges in Providing Access To The Digital Universe: Are Algorithms The Answer?’"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=461",
-          "author": "AEOLIAN",
-          "description": "Dr. Erinma Ochu (Manchester Metropolitan University) presented their paper ‘Stewarding the AI Commons’ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Tuesday 26th October 2021. Abstract: Industry 4.0 (hardware, software, data, AI) has the potential to shape daily lives and cultures, rapidly changing the way we learn, […]",
-          "link": "https://www.aeolian-network.net/workshop-2-dr-erinma-ochu-stewarding-the-ai-commons/",
-          "publishedOn": "2021-12-09T12:24:00.000Z",
-          "wordCount": 328,
-          "title": "Workshop 2: Dr. Erinma Ochu, ‘Stewarding the AI Commons’"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=444",
-          "author": "AEOLIAN",
-          "description": "Dr. Samantha Shorey (University of Texas at Austin) presented her paper ‘Working Futures for AI in Organizations‘ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Tuesday 26th October 2021. Abstract: The promise (or the threat) that artificial intelligence will eliminate human labor is a recurring theme in […]",
-          "link": "https://www.aeolian-network.net/workshop-2-dr-samantha-shorey/",
-          "publishedOn": "2021-12-09T11:45:14.000Z",
-          "wordCount": 439,
-          "title": "Workshop 2: Dr. Samantha Shorey, ‘Working Futures for AI in Organizations’"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=436",
-          "author": "AEOLIAN",
-          "description": "Eun Seo Jo (Stanford University) presented her paper ‘Digital Archives at the Intersection of New Archival History and AI‘ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Tuesday 26th October 2021. Abstract: Digitization of historical archives in troves has ushered in a new era of data science […]",
-          "link": "https://www.aeolian-network.net/workshop-2-eun-seo-jo/",
-          "publishedOn": "2021-12-09T11:34:32.000Z",
-          "wordCount": 378,
-          "title": "Workshop 2: Eun Seo Jo, ‘Digital Archives at the Intersection of New Archival History and AI’"
-        },
-        {
-          "id": "https://www.aeolian-network.net/?p=488",
-          "author": "AEOLIAN",
-          "description": "Dr. David De Roure (Oxford University) presented his paper ‘Emerging scholarly practice and scholarly primitives: a case study in Music and AI’ at the second AEOLIAN workshop ‘Reimagining Industry / Academic / Cultural Heritage Partnerships in AI’ on Tuesday 26th October 2021. Abstract: Our knowledge infrastructure has evolved to support digital scholarship, as we adopt […]",
-          "link": "https://www.aeolian-network.net/workshop-2-david-de-roure-emerging-scholarly-practice-and-scholarly-primitives-a-case-study-in-music-and-ai/",
-          "publishedOn": "2021-12-09T11:30:00.000Z",
-          "wordCount": 358,
-          "title": "Workshop 2: David De Roure, ‘Emerging scholarly practice and scholarly primitives: a case study in Music and AI’"
         }
       ]
     },
@@ -5861,6 +5789,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4060 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Vom 15. bis 17. Juni tagt die 22. internationale Migrationskonferenz in Düdelingen. Diese Veranstaltungsreihe wurde von dem Trierer Institut für Regional-und Migrationsforschung (IRM) initiert. Sie wird inzwischen von einem Pool von internationalen Partnern getragen und findet abwechselnd in Deutschland (Köln), Luxemburg, Österreich (Klagenfurt) und der Schweiz (Olten) statt.\nDie diesjährige Ausgabe wird hybrid, lokal als Präsenzveranstaltung und Online in Zusammenarbeit mit der Stadt Düdelingen und dem C²DH der Universität Luxemburg ausgerichtet. Das aktualisierte Programm kann auf der Konferenzwebseite www.migrationskonferenz.ch eingesehen werden.\nKonferenzsprachen sind Deutsch und Englisch.\n15 June 2022 to 17 June 2022\n  Contemporary history of Luxembourg\n  Migration history\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/migration-und-multikulturelles-zusammenleben",
+          "publishedOn": "2022-06-07T07:38:04.000Z",
+          "wordCount": 282,
+          "title": "Migration und multikulturelles Zusammenleben"
+        },
         {
           "id": "4048 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6148,15 +6085,6 @@
           "publishedOn": "2022-01-11T08:24:02.000Z",
           "wordCount": 520,
           "title": "On Not Knowing: Reasoning with Uncertainty in Digital Literary Studies"
-        },
-        {
-          "id": "3694 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Data visualization is very often viewed as an equivalent of statistical representation of data in all its forms. This representation serves effectively certain objectives such as abstraction, reduction, standardization, or legibility, of interest to some disciplines and use cases, namely business, engineering, and science. Numerous tools and programming languages allow to visualize data according to these principles. Other disciplines and areas of knowledge, such as history, literature, art, journalism, or education, are confronted with the need to use the same tools ignoring some fundamental principles of their own disciplines, to program from scratch new visual vocabularies and functionalities, or to use design tools that are disconnected from the data.\nAs part of my research, I study the needs of the different disciplines and areas of knowledge, based on their own definitions of data and data visualization, the relationship between the two of them, and the user interaction; but I also experiment with transforming the visualizations from one paradigm to another, so that they can be used in interdisciplinary projects, or to open new approaches to data visualization within the disciplines themselves. During this presentation of my early research, I will present the initial description of the paradigms with a visual gallery of examples. And the first ideas of transformation of the visualizations between paradigms.\n \nWednesday, 19 January 2022\n14.00 - 15.00\nOnline - Webex\nIf you want to participate, please send an e-mail to vanessa.napolitano@uni.lu to receive the link.\n19 January 2022\n  Digital history & historiography\n  LuxTime Machine\n  Data Science  Visualisation\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/interdisciplinary-data-visualization",
-          "publishedOn": "2021-12-09T06:32:08.000Z",
-          "wordCount": 435,
-          "title": "Interdisciplinary Data Visualization"
         }
       ]
     },
@@ -7467,15 +7395,6 @@
           "publishedOn": "2021-12-14T15:54:18.000Z",
           "wordCount": 998,
           "title": "End of a Decade"
-        },
-        {
-          "id": "5637 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "Call for Abstracts: CLARIN2022\n\n            \nThe call for the submission of extended abstracts for the CLARIN Annual Conference 2022 (CLARIN2022) is now open.\nThe CLARIN Annual Conference is organised for the wider humanities and social sciences community in order to exchange experiences in working with the CLARIN infrastructure, share best practices, and discuss plans for future developments. In 2022, we hope to at least partially return to the traditional face-to-face format, with CLARIN2022 to be held in Prague, Czechia.\nYou are invited to submit your abstract until 15 April 2022\nRead the full call\n\n      Elisa Gorgaini\n 9 December 2021",
-          "link": "https://www.clarin.eu/news/call-abstracts-clarin2022",
-          "publishedOn": "2021-12-09T14:13:58.000Z",
-          "wordCount": 235,
-          "title": "Call for Abstracts: CLARIN2022"
         }
       ]
     },
@@ -8255,15 +8174,6 @@
           "publishedOn": "2021-12-10T19:21:01.000Z",
           "wordCount": 1058,
           "title": "A Round of Applause for FORCE2021!"
-        },
-        {
-          "id": "12440 at https://www.force11.org",
-          "author": "Jennifer Miller",
-          "description": "We are heading into the third and final day of FORCE2021: Joining Forces to Advance the Future of Research Communications! \nThe day’s full lineup is pretty well timed for Africa and Europe, as long as you’re prepared to stay festive into the evening for the Closing Remarks and Open Publishing Awards starting at 21:00 UTC! Keep in mind you have no early flight home to catch the next morning!\nYou’ll start the day with some sessions well-timed to also be accessible in Asia:\nFirst, join the panel Discoverability in (a) Crisis with speakers Dr. Suzanne Dumouchel, Dr. Brigitte Mathiak, and Nancy Kwangwa, Manager for Scholarly Communication and Publishing at the University of Zimbabwe Library. \nNext, there will be a Community Conversation on Open Metadata–come and join to kickstart the next metad…",
-          "link": "https://www.force11.org/blog/day3-force2021",
-          "publishedOn": "2021-12-09T01:06:20.000Z",
-          "wordCount": 951,
-          "title": "Day 3 of FORCE2021"
         }
       ]
     },
