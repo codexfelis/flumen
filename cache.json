@@ -906,6 +906,24 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11050",
+          "author": "Celia Luterbacher",
+          "description": "The EPFL College of Humanities congratulates Daniel Harasim, also a member of the dhCenter, for earning an EPFL Doctoral Program Thesis Distinction for his PhD research in the Digital and Cognitive Musicology Lab (DCML). Harasim was awarded the distinction for his thesis, The Learnability of the Grammar of Jazz: Bayesian Inference of Hierarchical Structures in […]\nThe post Daniel Harasim receives EDDH thesis distinction appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/06/10/daniel-harasim-receives-eddh-thesis-distinction/",
+          "publishedOn": "2022-06-10T10:14:50.000Z",
+          "wordCount": 671,
+          "title": "Daniel Harasim receives EDDH thesis distinction"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11043",
+          "author": "Heloise schibler",
+          "description": "La sociologue Marine Kneubühler, chargée de recherche à l’Institut des sciences sociales (SSP, UNIL), a publié un article dans le dernier numéro de la Revue d’Anthropologie des connaissances (RAC) sur le fonctionnement général et les usages des logiciels speech-to-text. Cet article a été réalisé dans le cadre du projet Compascience 2.0, mené en partenariat avec […]\nThe post Qu’advient-il de la sémantique et de l’interaction dans les transcriptions automatiques d’un logiciel ? appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/06/10/quadvient-il-de-la-semantique-et-de-linteraction-dans-les-transcriptions-automatiques-dun-logiciel/",
+          "publishedOn": "2022-06-10T10:12:16.000Z",
+          "wordCount": 464,
+          "title": "Qu’advient-il de la sémantique et de l’interaction dans les transcriptions automatiques d’un logiciel ?"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=11023",
           "author": "Celia Luterbacher",
           "description": "The Journal for Digital Legal History (DLH), a diamond Open Access and peer-reviewed international journal hosted by the Open UGent platform, is inviting contributions from researchers working on legal history with digital, empirical and computational approaches for its first annual issue, to be published in November 2022. The journal welcomes all research questions and outputs […]\nThe post Journal for Digital Legal History: General Call for Contributions appeared first on dhCenter.",
@@ -1615,15 +1633,6 @@
           "publishedOn": "2021-12-16T14:12:11.000Z",
           "wordCount": 974,
           "title": "Appel à projets cantonal « Création de jeux vidéo » 2021"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9089",
-          "author": "Celia Luterbacher",
-          "description": "French artist Caroline Corbasson has joined EPFL’s Laboratory for the History of Science and Technology (LHST), led by dhCenter member Jérôme Baudry, for a residency as part of the College of Humanities (CDH) Artist-in-Residence (AiR) program. She will study the scientific concepts of scale and distance through a short film depicting human relationships. Originally from […]\nThe post Artist-in-residence to explore scale and distance through film appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2021/12/13/artist-in-residence-to-explore-scale-and-distance-through-film/",
-          "publishedOn": "2021-12-13T10:30:22.000Z",
-          "wordCount": 773,
-          "title": "Artist-in-residence to explore scale and distance through film"
         }
       ]
     },
@@ -2558,6 +2567,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=8275",
+          "author": "tomnewhallucla",
+          "description": "Continuing our series of interviews with scholars working in Digital Humanities in Japan, this is the first of a two-part …",
+          "link": "https://digitalorientalist.com/2022/06/10/digital-humanities-and-buddhist-studies-in-japan-an-interview-with-kiyonori-nagasaki-1-2/",
+          "publishedOn": "2022-06-10T12:45:00.000Z",
+          "wordCount": 2801,
+          "title": "Digital Humanities and Buddhist Studies in Japan: An Interview with Kiyonori Nagasaki (1/2)"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=8334",
           "author": "maddalena poli",
           "description": "The Digital Orientalist’s conference is approaching. Join us on June 25th for a series of talks presenting new ideas and …",
@@ -3081,6 +3099,15 @@
       "feedUrl": "https://eadh.org/feed",
       "siteUrl": "https://eadh.org/feed",
       "articles": [
+        {
+          "id": "1413 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "3 Jul 2022 - 00:00\n\n\n\nCall for papers: \"Digital Diplomatics 2022\", 28-30. Sept. Graz\n\n\n\nThe ERC Advanced Grant Project “From Digital to Distant Diplomatics”\nThe international conference is intended to offer all scholars\nDeadline for the proposals is 3rd July 2022. Please find further\nhttps://didip.hypotheses.org/files/2022/05/Call-for-Papers.pdf",
+          "link": "https://eadh.org/news/2022/06/11/call-papers-digital-diplomatics-2022-28-30-sept-graz",
+          "publishedOn": "2022-06-11T07:30:59.000Z",
+          "wordCount": 426,
+          "title": "Call for papers: \"Digital Diplomatics 2022\", 28-30. Sept. Graz"
+        },
         {
           "id": "1412 at https://eadh.org",
           "author": "Communication Coordinator",
@@ -4534,78 +4561,6 @@
           "enclosure": {
             "url": "https://assets.pubpub.org/1dnmw4vr/31642100645936.png"
           }
-        },
-        {
-          "id": "29ffe4d4-ec6d-4b76-b9c5-cb2f55dc1eab",
-          "author": "Molly Mann",
-          "description": "A review of ArchivalGossip, a website and database focusing on the role of gossip in the 19th century, directed by Katrin Horn",
-          "link": "https://reviewsindh.pubpub.org/pub/archivalgossip",
-          "publishedOn": "2021-12-13T00:00:00.000Z",
-          "wordCount": 1196,
-          "title": "Review: ArchivalGossip",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/1altiwkf/11639173348758.png"
-          }
-        },
-        {
-          "id": "fcc8b9ed-b731-4a03-b530-178c14adad66",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the November 2021 issue of Reviews in Digital Humanities",
-          "link": "https://reviewsindh.pubpub.org/pub/editors-note-december-2021",
-          "publishedOn": "2021-12-13T00:00:00.000Z",
-          "wordCount": 690,
-          "title": "Editors' Note: December 2021",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/3jl3zi48/21639054464337.png"
-          }
-        },
-        {
-          "id": "7b47d8a1-1480-47ca-bd83-d7a684e5d893",
-          "author": "Crystal Hall",
-          "description": "A review of Dante Visualised, a text analysis tool for data visualization, developed by Ginestra Ferraro",
-          "link": "https://reviewsindh.pubpub.org/pub/dante-visualised",
-          "publishedOn": "2021-12-13T00:00:00.000Z",
-          "wordCount": 1357,
-          "title": "Review: Dante Visualised",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/vzgcxvfd/61639059034446.jpg"
-          }
-        },
-        {
-          "id": "7d145dcb-2fff-4099-8b6c-c0487d4acd7e",
-          "author": "Abigail Droge",
-          "description": "Review of The East End Digital Library, a project that makes 19th-century archives of London's East End available to the public, directed by Heidi Kaufman",
-          "link": "https://reviewsindh.pubpub.org/pub/east-end-digital-library",
-          "publishedOn": "2021-12-13T00:00:00.000Z",
-          "wordCount": 1989,
-          "title": "Review: The East End Digital Library",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/c346fojs/01639180148668.png"
-          }
-        },
-        {
-          "id": "6f3a23ff-b1c4-4951-88cf-ba9eb62e23a6",
-          "author": "Alicja Bielak",
-          "description": "A review of Furnace and Fugue, a digital edition of Michael Maier's Atalantia fugiens, directed by Allison Levy",
-          "link": "https://reviewsindh.pubpub.org/pub/furnace-and-fugue",
-          "publishedOn": "2021-12-13T00:00:00.000Z",
-          "wordCount": 1126,
-          "title": "Review: Furnace and Fugue",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/i4vcxag9/61639154455263.png"
-          }
-        },
-        {
-          "id": "839c2179-61e8-4ba3-ad68-f7d48ddb141b",
-          "author": "Roopika Risam",
-          "description": "A review of Undisciplining the Victorian Classroom, a pedagogical resource that reimagines teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki",
-          "link": "https://reviewsindh.pubpub.org/pub/undisciplining-victorian-classroom",
-          "publishedOn": "2021-12-13T00:00:00.000Z",
-          "wordCount": 1448,
-          "title": "Undisciplining the Victorian Classroom",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/84yr8mpg/41632828274471.png"
-          }
         }
       ]
     },
@@ -4829,15 +4784,6 @@
           "publishedOn": "2021-12-20T21:34:36.000Z",
           "wordCount": 1284,
           "title": "LJS 46: Herbal"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=16129",
-          "author": "simsmss",
-          "description": "For Coffee With A Codex on Monday, December 13, we brought out Ms. Codex 1248, a miniature manuscript of music and prayers from a monastic context. It’s very small, only 82 x 60mm (about 3 x 2 inches), the perfect size to fit in the palm of a not-so-large hand. Although the bulk of theContinue reading \"Ms. Codex 1248: Liturgical miscellany\"",
-          "link": "https://schoenberginstitute.org/2021/12/13/ms-codex-1248-liturgical-miscellany/",
-          "publishedOn": "2021-12-13T19:00:00.000Z",
-          "wordCount": 1302,
-          "title": "Ms. Codex 1248: Liturgical miscellany"
         }
       ]
     },
@@ -8415,24 +8361,6 @@
           "publishedOn": "2021-12-21T14:56:30.000Z",
           "wordCount": 1170,
           "title": "RLUK, SCONUL, Jisc and partners raise concerns about Pearson price increase"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=11280",
-          "author": "Melanie Cheung",
-          "description": "RLUK and The National Archives (TNA) are pleased to announce the four new Fellows for the Professional Fellowship Scheme 2022-23. After a very competitive application round, the four successful candidates will commence the work on their proposed projects in February 2022. Professional Fellowships last for a year and are structured around short-term visits to [...]\nThe post RLUK and The National Archives Professional Fellows for 2022-23 announced appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/rluk-and-the-national-archives-professional-fellows-for-2022-23-announced/",
-          "publishedOn": "2021-12-13T13:15:44.000Z",
-          "wordCount": 1646,
-          "title": "RLUK and The National Archives Professional Fellows for 2022-23 announced"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=11295",
-          "author": "Melanie Cheung",
-          "description": "In October 2020, UK Research and Innovation (UKRI) commissioned OAPEN to carry out a gap analysis of technical infrastructure for open access monographs, edited works and book chapters. This report presents the results of the gap analysis. It aims to inform UKRI on infrastructure requirements for OA monographs as part of its considerations for introducing [...]\nThe post UKRI Gap Analysis of Open Access Monographs Infrastructure appeared first on Research Libraries UK.",
-          "link": "https://zenodo.org/record/5771945#.YbcjUyynxN0#new_tab",
-          "publishedOn": "2021-12-13T12:58:37.000Z",
-          "wordCount": 641,
-          "title": "UKRI Gap Analysis of Open Access Monographs Infrastructure"
         }
       ]
     },
