@@ -91,6 +91,15 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=2236",
+          "author": "Olga Holownia",
+          "description": "The next DHNB conference will be held online on 08.-10. March, 2023. The conference with the theme “Sustainability: Environment – Community – Digital” is organized in collaboration between the University of Oslo, the University of Bergen, and the University of Stavanger. The CfP with more information in the theme will follow soon.",
+          "link": "https://dhnb.eu/dhnb-2023-conference-save-the-date/",
+          "publishedOn": "2022-06-10T17:13:44.000Z",
+          "wordCount": 139,
+          "title": "DHNB 2023 Conference – Save the date!"
+        },
+        {
           "id": "https://dhnb.eu/?p=2160",
           "author": "Olga Holownia",
           "description": "#ScienceForUkraine is a community group of volunteer students and research scientists from academic institutions in Europe and around the world. #ScienceForUkraine’s mission is to collect and disseminate information about support opportunities at the university, national, and international level for graduate students and researchers directly affiliated to an academic institution in Ukraine. On the initiative’s website: […]",
@@ -224,24 +233,6 @@
           "publishedOn": "2021-12-17T05:51:42.000Z",
           "wordCount": 261,
           "title": "aaDH Elections 2022"
-        },
-        {
-          "id": "https://aa-dh.org/?p=442",
-          "author": "Tully Barnett",
-          "description": "A message from Simon Musgrave, aaDH Secretary: The terms of several members of the aaDH Executive Committee are concluding. aaDH President Professor Paul Millar announced his decision to step down at the end of the 2021 DHA conference with one year left of his term, and the role has been filled by Associate Professor Rachel … Continue reading \"The aaDH calls for nominations for its Executive Committee\"",
-          "link": "https://aa-dh.org/2021/12/14/the-aadh-calls-for-nominations-for-its-executive-committee/",
-          "publishedOn": "2021-12-14T12:17:19.000Z",
-          "wordCount": 738,
-          "title": "The aaDH calls for nominations for its Executive Committee"
-        },
-        {
-          "id": "https://aa-dh.org/?p=437",
-          "author": "Tully Barnett",
-          "description": "At the end of the successful #DHA2021 – Digital Humanities Australasia, aaDH’s biennial conference – Paul Millar announced the end of his term as President for aaDH after three years of service in the role and the hosting of a supremely successful conference. Millar has one year left on his term and, in accordance with … Continue reading \"Announcing aaDH’s new President\"",
-          "link": "https://aa-dh.org/2021/12/14/announcing-aadhs-new-president/",
-          "publishedOn": "2021-12-14T12:05:08.000Z",
-          "wordCount": 605,
-          "title": "Announcing aaDH’s new President"
         }
       ]
     },
@@ -1873,6 +1864,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/815",
+          "author": "406",
+          "description": "Die 10. Jahrestagung des Verbands „Digital Humanities im deutschsprachigen Raum e.V.“ wird vom 13. bis 17. März 2023 an den Universitäten Trier und Luxemburg unter dem Thema „Open…",
+          "link": "https://dig-hum.de/aktuelles/cfp-dhd-2023",
+          "publishedOn": "2022-06-11T09:51:47.000Z",
+          "wordCount": 763,
+          "title": "CfP DHd 2023"
+        },
+        {
           "id": "node/814",
           "author": "406",
           "description": "Wir freuen uns, fünf neue DH-Forschungsprojekte im DHd-Projekteschaufenster präsentieren zu dürfen:\nÄsthetiken des Zugangs. Datenvisualisierungen in der digitalen…",
@@ -3024,15 +3024,6 @@
           "publishedOn": "2021-12-17T12:05:00.000Z",
           "wordCount": 1788,
           "title": "Legacy cataloguing and TEI: David Pingree and Wellcome Collection"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7162",
-          "author": "The Digital Orientalist",
-          "description": "This article has been contributed by James Frances Loftus III. Information about the author is included at the end of …",
-          "link": "https://digitalorientalist.com/2021/12/14/examining-the-merits-of-3d-sliced-segmental-extraction-a-case-study-of-prehistoric-japanese-ceramics/",
-          "publishedOn": "2021-12-14T13:00:00.000Z",
-          "wordCount": 2663,
-          "title": "Examining the Merits of 3D Sliced Segmental Extraction: A Case Study of Prehistoric Japanese Ceramics"
         }
       ]
     },
@@ -4443,6 +4434,18 @@
           }
         },
         {
+          "id": "839c2179-61e8-4ba3-ad68-f7d48ddb141b",
+          "author": "Roopika Risam",
+          "description": "A review of Undisciplining the Victorian Classroom, a pedagogical resource for teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki",
+          "link": "https://reviewsindh.pubpub.org/pub/undisciplining-victorian-classroom",
+          "publishedOn": "2022-02-14T00:00:00.000Z",
+          "wordCount": 1497,
+          "title": "Review: Undisciplining the Victorian Classroom",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/84yr8mpg/41632828274471.png"
+          }
+        },
+        {
           "id": "54a4b258-ad5a-4a07-8f8d-cb0156e4d4d7",
           "author": "Roopika Risam",
           "description": "Editors' note on the February 2022 issue of Reviews in Digital Humanities",
@@ -5131,24 +5134,6 @@
           "publishedOn": "2021-12-15T20:15:16.000Z",
           "wordCount": 1551,
           "title": "Designing a Wikidata Project"
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8013",
-          "author": "Laurie Fitzpatrick",
-          "description": "By Laurie Fitzpatrick Introduction In my previous blog post, Digital New Sweden, Part 1: Creating a Database of New Sweden Colonizers, I discussed how I combined data from newly digitized primary sources...\nThe post Digital New Sweden, Part 2: Visualizing a Database of New Sweden Colonizers with Gephi appeared first on Loretta C. Duckworth Scholars Studio.",
-          "link": "https://sites.temple.edu/tudsc/2021/12/14/digital-new-sweden-part-2-visualizing-a-database-of-new-sweden-colonizers-with-gephi/",
-          "publishedOn": "2021-12-14T18:11:11.000Z",
-          "wordCount": 2056,
-          "title": "Digital New Sweden, Part 2: Visualizing a Database of New Sweden Colonizers with Gephi"
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8007",
-          "author": "Laurie Fitzpatrick",
-          "description": "By Laurie Fitzpatrick Project Background I am investigating novel ways to use newly digitized primary sources in my research into the New Sweden colony in early modern North America. This small Scandinavian...\nThe post Digital New Sweden, Part 1: Creating a Database of New Sweden Colonizers appeared first on Loretta C. Duckworth Scholars Studio.",
-          "link": "https://sites.temple.edu/tudsc/2021/12/14/digital-new-sweden-part-1-creating-a-database-of-new-sweden-colonizers/",
-          "publishedOn": "2021-12-14T18:09:03.000Z",
-          "wordCount": 1579,
-          "title": "Digital New Sweden, Part 1: Creating a Database of New Sweden Colonizers"
         }
       ]
     },
@@ -6008,6 +5993,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/videos/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/media/videos/",
+          "publishedOn": "2022-06-10T10:39:45.000Z",
+          "wordCount": 458,
+          "title": "Video"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/34862/",
           "author": null,
@@ -7310,15 +7304,6 @@
           "publishedOn": "2021-12-15T09:54:44.000Z",
           "wordCount": 202,
           "title": "New CLARIN Impact Story"
-        },
-        {
-          "id": "5640 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "End of a Decade\n\n            \n \nBlog post by Franciska de Jong, CLARIN ERIC Executive Director\n\n\nCLARIN is fast approaching the end of its first decade as an independent organisation and research infrastructure under the \n    \n\r\n\tEuropean Strategy Forum for Research Infrastructures See: https://www.esfri.eu\r\n\r\nread more\n\n   framework. It will take just a little more than two months until the end of February, which would normally have been the moment for memorable celebrations and festivities. Unfortunately, with the ongoing limitations due to the pandemic which is dominating so many aspects of our lives, we will have to be a bit more patient and wait for the situation to improve, hopefully later in 2022. So, if you are keen to take part in the celebrations, please make sure to check the CL…",
-          "link": "https://www.clarin.eu/blog/end-decade",
-          "publishedOn": "2021-12-14T15:54:18.000Z",
-          "wordCount": 998,
-          "title": "End of a Decade"
         }
       ]
     },

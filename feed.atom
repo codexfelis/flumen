@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-11T08:15:21.104Z</updated>
+    <updated>2022-06-12T08:14:45.736Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CfP DHd 2023]]></title>
+        <id>node/815</id>
+        <link href="https://dig-hum.de/aktuelles/cfp-dhd-2023"/>
+        <updated>2022-06-11T09:51:47.000Z</updated>
+        <summary type="html"><![CDATA[Die 10. Jahrestagung des Verbands „Digital Humanities im deutschsprachigen Raum e.V.“ wird vom 13. bis 17. März 2023 an den Universitäten Trier und Luxemburg unter dem Thema „Open…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call for papers: "Digital Diplomatics 2022", 28-30. Sept. Graz]]></title>
         <id>1413 at https://eadh.org</id>
@@ -28,6 +38,16 @@ https://didip.hypotheses.org/files/2022/05/Call-for-Papers.pdf]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DHNB 2023 Conference – Save the date!]]></title>
+        <id>https://dhnb.eu/?p=2236</id>
+        <link href="https://dhnb.eu/dhnb-2023-conference-save-the-date/"/>
+        <updated>2022-06-10T17:13:44.000Z</updated>
+        <summary type="html"><![CDATA[The next DHNB conference will be held online on 08.-10. March, 2023. The conference with the theme “Sustainability: Environment – Community – Digital” is organized in collaboration between the University of Oslo, the University of Bergen, and the University of Stavanger. The CfP with more information in the theme will follow soon.]]></summary>
+        <author>
+            <name>Olga Holownia</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Digital Humanities and Buddhist Studies in Japan: An Interview with Kiyonori Nagasaki (1/2)]]></title>
         <id>http://digitalorientalist.com/?p=8275</id>
         <link href="https://digitalorientalist.com/2022/06/10/digital-humanities-and-buddhist-studies-in-japan-an-interview-with-kiyonori-nagasaki-1-2/"/>
@@ -35,6 +55,15 @@ https://didip.hypotheses.org/files/2022/05/Call-for-Papers.pdf]]></summary>
         <summary type="html"><![CDATA[Continuing our series of interviews with scholars working in Digital Humanities in Japan, this is the first of a two-part …]]></summary>
         <author>
             <name>tomnewhallucla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/videos/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/videos/"/>
+        <updated>2022-06-10T10:39:45.000Z</updated>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -7914,6 +7943,16 @@ For more information and registration, please visit the event page.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Review: Undisciplining the Victorian Classroom]]></title>
+        <id>839c2179-61e8-4ba3-ad68-f7d48ddb141b</id>
+        <link href="https://reviewsindh.pubpub.org/pub/undisciplining-victorian-classroom"/>
+        <updated>2022-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Undisciplining the Victorian Classroom, a pedagogical resource for teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki]]></summary>
+        <author>
+            <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Editors' Note: February 2022]]></title>
         <id>54a4b258-ad5a-4a07-8f8d-cb0156e4d4d7</id>
         <link href="https://reviewsindh.pubpub.org/pub/editors-note-february-2022"/>
@@ -10844,82 +10883,6 @@ Tags
 impact stories]]></summary>
         <author>
             <name>Karina Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital New Sweden, Part 2: Visualizing a Database of New Sweden Colonizers with Gephi]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8013</id>
-        <link href="https://sites.temple.edu/tudsc/2021/12/14/digital-new-sweden-part-2-visualizing-a-database-of-new-sweden-colonizers-with-gephi/"/>
-        <updated>2021-12-14T18:11:11.000Z</updated>
-        <summary type="html"><![CDATA[By Laurie Fitzpatrick Introduction In my previous blog post, Digital New Sweden, Part 1: Creating a Database of New Sweden Colonizers, I discussed how I combined data from newly digitized primary sources...
-The post Digital New Sweden, Part 2: Visualizing a Database of New Sweden Colonizers with Gephi appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
-        <author>
-            <name>Laurie Fitzpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital New Sweden, Part 1: Creating a Database of New Sweden Colonizers]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8007</id>
-        <link href="https://sites.temple.edu/tudsc/2021/12/14/digital-new-sweden-part-1-creating-a-database-of-new-sweden-colonizers/"/>
-        <updated>2021-12-14T18:09:03.000Z</updated>
-        <summary type="html"><![CDATA[By Laurie Fitzpatrick Project Background I am investigating novel ways to use newly digitized primary sources in my research into the New Sweden colony in early modern North America. This small Scandinavian...
-The post Digital New Sweden, Part 1: Creating a Database of New Sweden Colonizers appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
-        <author>
-            <name>Laurie Fitzpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End of a Decade]]></title>
-        <id>5640 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/end-decade"/>
-        <updated>2021-12-14T15:54:18.000Z</updated>
-        <summary type="html"><![CDATA[End of a Decade
-
-            
- 
-Blog post by Franciska de Jong, CLARIN ERIC Executive Director
-
-
-CLARIN is fast approaching the end of its first decade as an independent organisation and research infrastructure under the 
-    
-
-	European Strategy Forum for Research Infrastructures See: https://www.esfri.eu
-
-read more
-
-   framework. It will take just a little more than two months until the end of February, which would normally have been the moment for memorable celebrations and festivities. Unfortunately, with the ongoing limitations due to the pandemic which is dominating so many aspects of our lives, we will have to be a bit more patient and wait for the situation to improve, hopefully later in 2022. So, if you are keen to take part in the celebrations, please make sure to check the CL…]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Examining the Merits of 3D Sliced Segmental Extraction: A Case Study of Prehistoric Japanese Ceramics]]></title>
-        <id>http://digitalorientalist.com/?p=7162</id>
-        <link href="https://digitalorientalist.com/2021/12/14/examining-the-merits-of-3d-sliced-segmental-extraction-a-case-study-of-prehistoric-japanese-ceramics/"/>
-        <updated>2021-12-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article has been contributed by James Frances Loftus III. Information about the author is included at the end of …]]></summary>
-        <author>
-            <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The aaDH calls for nominations for its Executive Committee]]></title>
-        <id>https://aa-dh.org/?p=442</id>
-        <link href="https://aa-dh.org/2021/12/14/the-aadh-calls-for-nominations-for-its-executive-committee/"/>
-        <updated>2021-12-14T12:17:19.000Z</updated>
-        <summary type="html"><![CDATA[A message from Simon Musgrave, aaDH Secretary: The terms of several members of the aaDH Executive Committee are concluding. aaDH President Professor Paul Millar announced his decision to step down at the end of the 2021 DHA conference with one year left of his term, and the role has been filled by Associate Professor Rachel … Continue reading "The aaDH calls for nominations for its Executive Committee"]]></summary>
-        <author>
-            <name>Tully Barnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing aaDH’s new President]]></title>
-        <id>https://aa-dh.org/?p=437</id>
-        <link href="https://aa-dh.org/2021/12/14/announcing-aadhs-new-president/"/>
-        <updated>2021-12-14T12:05:08.000Z</updated>
-        <summary type="html"><![CDATA[At the end of the successful #DHA2021 – Digital Humanities Australasia, aaDH’s biennial conference – Paul Millar announced the end of his term as President for aaDH after three years of service in the role and the hosting of a supremely successful conference. Millar has one year left on his term and, in accordance with … Continue reading "Announcing aaDH’s new President"]]></summary>
-        <author>
-            <name>Tully Barnett</name>
         </author>
     </entry>
     <entry>
