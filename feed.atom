@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-12T08:14:45.736Z</updated>
+    <updated>2022-06-13T08:15:58.062Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/06/13/ok-ive-submitted.html</id>
+        <link href="https://updates.timsherratt.org/2022/06/13/ok-ive-submitted.html"/>
+        <updated>2022-06-13T07:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Ok, I’ve submitted my Libraries Tasmania translator to the Zotero repository for inclusion. No doubt a bit of additional tweaking will be required. github.com/zotero/tr…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CfP DHd 2023]]></title>
         <id>node/815</id>
@@ -10811,78 +10821,6 @@ The post Querying Wikidata with SPARQL appeared first on Loretta C. Duckworth Sc
 The post Editing in the World of Wikidata: What Does It Mean? appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
         <author>
             <name>Synatra Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a Wikidata Project]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8051</id>
-        <link href="https://sites.temple.edu/tudsc/2021/12/15/designing-wikidata/"/>
-        <updated>2021-12-15T20:15:16.000Z</updated>
-        <summary type="html"><![CDATA[By Dr. Synatra Smith Would you like to enhance the digital visibility of artists in your city? Wikidata is a linked open data platform that stores the structured data that connects to...
-The post Designing a Wikidata Project appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
-        <author>
-            <name>Synatra Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New project: SUPERB to promote forest restoration and adaptation across Europe]]></title>
-        <id>https://blogs.kcl.ac.uk/ddh/?p=3236</id>
-        <link href="https://blogs.kcl.ac.uk/ddh/2021/12/15/new-project-superb/"/>
-        <updated>2021-12-15T19:38:18.000Z</updated>
-        <summary type="html"><![CDATA[I’ll be part of a new research project on forest restoration and adaptation, led by the European Forest Institute and funded under the European Union’s H2020 programme. Together with Jonathan Gray, I’ll co-lead a team at the Department of Digital Humanities, King’s College London exploring how humanities-based digital methods can be used to understand forest issues and to explore engagement around … 
-Continue reading "New project: SUPERB to promote forest restoration and adaptation across Europe"]]></summary>
-        <author>
-            <name>Liliana Bounegru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Welcomes Dún Laoghaire-Rathdown County Council as Member]]></title>
-        <id>1449 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-welcomes-dun-laoghaire-rathdown-county-council-member"/>
-        <updated>2021-12-15T16:05:02.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that Dún Laoghaire-Rathdown County Council (DLRCoCo) has joined as our latest member.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job opportunity: Associate Professor in Information Studies]]></title>
-        <id>https://blogs.ucl.ac.uk/dh/?p=8242</id>
-        <link href="https://blogs.ucl.ac.uk/dh/2021/12/15/job-associate-professor/"/>
-        <updated>2021-12-15T12:03:02.000Z</updated>
-        <summary type="html"><![CDATA[UCL Dept of Information Studies are seeking an innovative researcher and experienced lecturer to appoint to a full-time post beginning in March 2022. They are particularly interested in applicants with demonstrable experience and expertise in cross disciplinary research which intersects with one or more of the broad areas represented in the Department, which includes Digital […]]]></summary>
-        <author>
-            <name>Lucy Stagg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New CLARIN Impact Story]]></title>
-        <id>5641 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/new-clarin-impact-story"/>
-        <updated>2021-12-15T09:54:44.000Z</updated>
-        <summary type="html"><![CDATA[New CLARIN Impact Story
-
-            
-
-  
-  
-            
-  
-
-
-
-      
-
-Read CLARIN’s new Impact Story about the Rotterdam-based project ‘Stories in Motion: Oral History as Sustainable Data in Urban Settings’. The project is working with a community oral history project in order to develop a system to digitise, curate and deposit the material in openly accessible archives and research repositories. Read more here.
-
-      Karina Berger
- 15 December 2021
-
-      
-Tags
-impact stories]]></summary>
-        <author>
-            <name>Karina Berger</name>
         </author>
     </entry>
     <entry>
