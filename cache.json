@@ -215,15 +215,6 @@
           "publishedOn": "2022-05-02T02:47:06.000Z",
           "wordCount": 529,
           "title": "Annual General Meeting"
-        },
-        {
-          "id": "https://aa-dh.org/?p=446",
-          "author": "Simon Musgrave",
-          "description": "Details of candidates will be posted here as they become available.",
-          "link": "https://aa-dh.org/2021/12/17/446/",
-          "publishedOn": "2021-12-17T05:51:42.000Z",
-          "wordCount": 261,
-          "title": "aaDH Elections 2022"
         }
       ]
     },
@@ -663,15 +654,6 @@
           "publishedOn": "2022-03-01T15:46:03.000Z",
           "wordCount": 566,
           "title": "Stéfan Sinclair Memorial Scholarship"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=925",
-          "author": "Milena Radzikowska",
-          "description": "L’Association for Computers and the Humanities (ACH) et la Société canadienne pour les humanités numériques/ Canadian Society for Digital Humanities (CSDH/SCHN) organisent du 17 au 19 mai 2022, DH Unbound, une conférence virtuelle collaborative. Le 19 mai, la programmation sera proposée en collaboration avec Humanistica 2022. Pour en savoir plus sur DH Unbound 2022, consultez la page À propos.  […]",
-          "link": "https://csdh-schn.org/join-us-at-dh-unbound-2022-2/",
-          "publishedOn": "2021-12-17T03:52:29.000Z",
-          "wordCount": 204,
-          "title": "DH Unbound 2022! CFP Français"
         }
       ]
     },
@@ -887,6 +869,15 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11083",
+          "author": "Celia Luterbacher",
+          "description": "Dans cet article du Courrier, publié le 13 juin, le membre du dhCenter Vincent Kaufmann et ses collègues du Laboratoire de sociologie urbaine de l’EPFL expliquent pourquoi les modèles de «quartiers durables» à haute densité développés à la fin du XXe siècle, pourtant étayés par des labels qualitatifs et autres processus «participatifs», ne répondent plus […]\nThe post Le Courrier: Refonder politiquement le territoire appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/06/14/le-courrier-refonder-politiquement-le-territoire/",
+          "publishedOn": "2022-06-14T09:07:44.000Z",
+          "wordCount": 411,
+          "title": "Le Courrier: Refonder politiquement le territoire"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=11072",
           "author": "Celia Luterbacher",
@@ -1864,6 +1855,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/816",
+          "author": "406",
+          "description": "Das Deutsche Literaturarchiv Marbach (DLA), die Klassik Stiftung Weimar (KSW) und die Herzog August Bibliothek Wolfenbüttel (HAB) erforschen mehr als ein halbes Jahrtausend…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-koordinator-mwd-klassik-stiftung-weimar",
+          "publishedOn": "2022-06-14T19:21:00.000Z",
+          "wordCount": 815,
+          "title": "Stellenangebot: Koordinator (m/w/d) Klassik Stiftung Weimar"
+        },
+        {
           "id": "node/815",
           "author": "406",
           "description": "Die 10. Jahrestagung des Verbands „Digital Humanities im deutschsprachigen Raum e.V.“ wird vom 13. bis 17. März 2023 an den Universitäten Trier und Luxemburg unter dem Thema „Open…",
@@ -2558,6 +2558,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=8410",
+          "author": "maddalena poli",
+          "description": "The following is the schedule of the Digital Orientalist’s 2022 Zoom conference “Infrastructures.” You can find titles and abstracts here; …",
+          "link": "https://digitalorientalist.com/2022/06/14/infrastructures-the-digital-orientalists-2022-online-conference/",
+          "publishedOn": "2022-06-14T12:00:00.000Z",
+          "wordCount": 625,
+          "title": "Infrastructures. The Digital Orientalist’s 2022 online conference."
+        },
+        {
           "id": "http://digitalorientalist.com/?p=8275",
           "author": "tomnewhallucla",
           "description": "Continuing our series of interviews with scholars working in Digital Humanities in Japan, this is the first of a two-part …",
@@ -3006,15 +3015,6 @@
           "publishedOn": "2021-12-21T13:00:00.000Z",
           "wordCount": 3846,
           "title": "Online Resources for Buddhist Studies and the Development of Digital Humanities, Past, Present and Future: An Interview with Charles Muller, Editor of the DDB and CJKV-E Dictionaries"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7444",
-          "author": "Adrian Plau",
-          "description": "By Alexandra Eveleigh, Stephanie Cornwell, and Adrian Plau. Wellcome Collection holds one of the world’s most unique manuscript collections. The …",
-          "link": "https://digitalorientalist.com/2021/12/17/legacy-cataloguing-and-tei-david-pingree-and-wellcome-collection/",
-          "publishedOn": "2021-12-17T12:05:00.000Z",
-          "wordCount": 1788,
-          "title": "Legacy cataloguing and TEI: David Pingree and Wellcome Collection"
         }
       ]
     },
@@ -3341,15 +3341,6 @@
           "publishedOn": "2021-12-24T08:19:55.000Z",
           "wordCount": 1887,
           "title": "Call for Papers: Bodies of Knowledge: Speculating about Libraries, Archives, and the Future of Information"
-        },
-        {
-          "id": "1377 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "Call for participation: Digital Humanities in the Nordic and Baltic Countries (DHNB) annual conference\n\n\n\nThe Digital Humanities in the Nordic and Baltic Countries (DHNB) annual conference will be hosted March 15-18 2022 in Uppsala, Sweden. Registration has now opened.\nThemed “Digital Humanities in Action”, this year's conference highlights the relationship between digital humanities theory and praxis and society, bringing together technical implementation with critical discourse to correspond to broader cultural and institutional settings. DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond.\nDHNB 2022 is organised jointly by the Centre for Digital Humanities Uppsala (CDHU), the Department of ALM at Uppsala University, and the Uppsala University Library. DHNB 2022 is an on-site conference in Uppsala, with the possibility to participate digitally.",
-          "link": "https://eadh.org/news/2021/12/17/call-participation-digital-humanities-nordic-and-baltic-countries-dhnb-annual",
-          "publishedOn": "2021-12-17T13:35:51.000Z",
-          "wordCount": 441,
-          "title": "Call for participation: Digital Humanities in the Nordic and Baltic Countries (DHNB) annual conference"
         }
       ]
     },
@@ -3860,6 +3851,15 @@
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
         {
+          "id": "http://openmethods.dariah.eu/?p=3236",
+          "author": "Alíz Horváth",
+          "description": "Introduction: This post introduces two tools developed by the Max Planck Institute for the History of Science, LoGaRT and RISE with a focus on Asia and Eurasia. [...]The concept of LoGaRT - treating local gazetteers as “databases” by themselves - is an innovative and pertinent way to articulate the essence of the platform: providing opportunities for multi-level analysis from the close reading of the sources (using, for example, the carousel mode) to the large-scale, “bird’s eye view” of the materials across geographical and temporal boundaries. Local gazetteers are predominantly textual sources – this characteristic of the collection is reflected in the capabilities of LoGaRT as well, since some of its key capabilities include data search (using Chinese characters), collection and analysis, as well as tagging and dataset comparison. That said, LoGaRT also offers integrated visualization tools and supports the expansion of the collection and tagging features to the images used in a number of gazetteers. The opportunity to smoothly intertwine these visual and textual collections with Chinese historical maps (see CHMap) is an added, and much welcome, advantage of the tool, which helps to develop sophisticated and multifaceted analyses.\n[Click ‘Read more’ for the full post!]",
+          "link": "https://openmethods.dariah.eu/2022/06/15/logart-and-rise-two-multilingual-tools-from-the-max-planck-institute-for-the-history-of-science/",
+          "publishedOn": "2022-06-15T07:39:57.000Z",
+          "wordCount": 1388,
+          "title": "LoGaRT and RISE: Two multilingual tools from the Max Planck Institute for the History of Science"
+        },
+        {
           "id": "http://openmethods.dariah.eu/?p=3206",
           "author": "Marinella Testori",
           "description": "https://openmethods.dariah.eu/2022/05/11/open-source-tool-allows-users-to-create-interactive-timelines-digital-humanities-at-a-state/ OpenMethods introduction to: Collaborative Digital Projects in the Undergraduate Humanities Classroom: Case Studies with Timeline JS 2022-05-11 07:28:36 Marinella Testori Blog post Creation Data Designing Digital Humanities English Methods…",
@@ -4033,6 +4033,15 @@
       "feedUrl": "https://readcoop.eu/feed",
       "siteUrl": "https://readcoop.eu",
       "articles": [
+        {
+          "id": "https://readcoop.eu/?p=29289",
+          "author": "Florian Stauder",
+          "description": "We are excited to launch our new “Ask Us Anything” webinar series, where attendees can ask us about anything related to Transkribus, handwritten text recognition, transcribing and related topics. This […]\nThe post New Webinar: Ask Us Anything About Transkribus appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/new-webinar-ask-us-anything-about-transkribus/",
+          "publishedOn": "2022-06-15T04:26:48.000Z",
+          "wordCount": 1434,
+          "title": "New Webinar: Ask Us Anything About Transkribus"
+        },
         {
           "id": "https://readcoop.eu/?p=29215",
           "author": "Florian Stauder",
@@ -4813,6 +4822,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1139",
+          "author": "Laura Mesotten",
+          "description": "KU Leuven Libraries Artes has signed up for Sidestone Press’s library program. Sidestone Press is an academic publishing house founded by scholars, for scholars. They have one clear ambition: to make scientific information available to all. Through their digital e-book library they provide free online reading worldwide (in HTML format). Researchers and students affiliated with KU Leuven can now also freely download the PDF format of all publications and buy a print copy with 25% discount. By joining the library...",
+          "link": "https://scholarlytales.hcommons.org/2022/06/14/ku-leuven-libraries-artes-supports-sidestone-press/",
+          "publishedOn": "2022-06-14T08:43:24.000Z",
+          "wordCount": 1518,
+          "title": "KU Leuven Libraries Artes supports Sidestone Press"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1135",
           "author": "Nele Baplu",
@@ -7295,15 +7313,6 @@
           "publishedOn": "2021-12-18T14:46:05.000Z",
           "wordCount": 1228,
           "title": "Tour d e CLARIN: The CLARIN PL-B-Centre"
-        },
-        {
-          "id": "5646 at https://www.clarin.eu",
-          "author": "Dieter Van Uytvanck",
-          "description": "Centre news vol. 53 - December 2021\n\n            \nLog4j vulnerability \nLast week, a serious log4j issue (CVE-2021-44228) was discovered that potentially enables remote code execution.\nMore background information\nhttps://www.lunasec.io/docs/blog/log4j-zero-day/\nhttps://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/\nhttps://github.com/NorthwaveSecurity/log4jcheck\nVulnerability Scanner: https://github.com/1lann/log4shelldetect \nImpact on central CLARIN services\nMany of the CLARIN services are implemented in Java, and therefore use log4j. Our team has been (and remains) analyzing and patching the central services that are affected. So far, the biggest theoretical risk is associated with UnityIDM, as used for the CLARIN Identity Provider. This service has been patche…",
-          "link": "https://www.clarin.eu/blog/centre-news-vol-53-december-2021",
-          "publishedOn": "2021-12-17T10:34:52.000Z",
-          "wordCount": 732,
-          "title": "Centre news vol. 53 - December 2021"
         }
       ]
     },
