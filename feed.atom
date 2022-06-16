@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-15T08:18:44.630Z</updated>
+    <updated>2022-06-16T08:18:35.764Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Under development – a Zotero translator for Libraries Tasmania!]]></title>
+        <id>http://wragge.micro.blog/2022/06/16/under-development-a.html</id>
+        <link href="https://updates.timsherratt.org/2022/06/16/under-development-a.html"/>
+        <updated>2022-06-16T01:48:31.000Z</updated>
+        <summary type="html"><![CDATA[I’ve created a Zotero translator for the Libraries Tasmania catalogue. Using it, you can save metadata and digital resources to your own research database with a single click. Libraries Tasmania actually has three catalogues rolled into one – the main library catalogue, the archives catalogue, and the names index. The translator works across all three. Features include:
+Select and save items from a page of search results.
+Save individual items across the full range of formats. (By default, individual records in the catalogue open in a modal overlay. For Zotero to recognise the item you need to click on the Permalink button and open the record on a separate page.)
+Automatically download digital images and PDFs attached to records. This works when the record points to a particular page – it won’t download multiple images from a single link. However, if a record contains multiple links to digitised pages (such as the Convict records in the Names Index), you’ll get them all!
+Fields in the Archives catalogue and Name Index that don’t map to Zotero properties are saved as key/value pairs in Zotero’s ‘Extra’ field
+
+I’ve submitted the translator for inclusion in the official repository, but you’re welcome to take it for a test run in the meantime. Just follow these steps:
+Find out where your Zotero data folder is. From Zotero go to Edit > Preferences > Advanced > Files and Folders and click on Show Data Directory.
+Open the translator file here. Then right click and choose Save as, navigate to your Zotero data folder, and save it in the ‘translators’ folder.
+Restart Zotero and your browser.
+Head to the Libraries Tasmania catalogue and try it!
+Let me know if you strike any problems. #dhhacks]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DLCL ATS round-up, winter & spring 2022]]></title>
+        <id>876 at https://digitalhumanities.stanford.edu</id>
+        <link href="https://digitalhumanities.stanford.edu/dlcl-ats-round-winter-spring-2022"/>
+        <updated>2022-06-15T17:59:49.000Z</updated>
+        <summary type="html"><![CDATA[In almost four years at Stanford, I've never missed one of my quarterly round-ups, but March 2022 was unlike any other month of my life. When Russia invaded Ukraine at the end of February, I ended up getting together with Anna Kijas from Tufts and Sebastian Majstorovic from the Austrian Center for Digital Humanities and Cultural Heritage to co-found Saving Ukrainian Cultural Heritage Online (SUCHO), a rapid-response DH effort that's brought together over 1,300 volunteers from around the world to archive Ukrainian cultural heritage websites. Especially for the first six weeks, it consumed my life day and night; writing up winter quarter wasn't a priority. But summer starts this week, and before I get too caught up in summer plans, it's time for a look back over the last half-year.
+Classes
+W…]]></summary>
+        <author>
+            <name>Quinn Dombrowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annuncio della task force sull'inclusione intersezionale dell'ADHO]]></title>
+        <id>588906 at https://adho.org</id>
+        <link href="https://adho.org/node/588906"/>
+        <updated>2022-06-15T13:13:41.000Z</updated>
+        <summary type="html"><![CDATA[English | Español
+Intersectional Inclusion Task Force, la task force per l'inclusione intersezionale di ADHO (inizialmente Task Force Anti-Razzismo), nasce dall'esigenza diretta e pressante di affrontare le disuguaglianze sistemiche all'interno di ADHO e della più ampia comunità DH connessa alle sue attività*, tra cui, ma non solo, razza, classe, genere, abilità, casta, tribù, sessualità, nazionalità, posizione geografica, religione, salute, lingua o altre categorie sociali, spesso esacerbate da un tecno-positivismo sfrenato negli attuali contesti globali.
+Questa task force estende e amplifica le conversazioni avviate dalla dichiarazione su "Black Lives Matter, Structural Racism, and Establishment Violence" e cerca di riconoscere, ascoltare e imparare da persone, organizzazioni e comunità …]]></summary>
+        <author>
+            <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centre Meeting 2022]]></title>
+        <id>5745 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/centre-meeting-2022"/>
+        <updated>2022-06-15T12:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Centre Meeting 2022
+
+            
+
+
+  
+  
+            
+    
+
+              
+              
+              
+                  
+
+  
+ 
+The Centre Meeting is the annual gathering for everyone involved in setting up or hosting a CLARIN centre, with a special focus on the technical infrastructure. 
+After two years of virtual Centre Meetings, this year’s edition took a hybrid form: participants were able to join the event in person in Utrecht or attend the meeting virtually via Zoom.The first day of the Centre Meeting began with a meeting of the Standing Committee on CLARIN Technical Centres (SCCTC), during which Martin Matthiesen was re-elected as 
+    
+Standing Committee for CLARIN Technical Centres
+
+read more
+
+   chair. After an extended lunch break allowing for catch-ups and informal exchanges on the CLARIN technical infrastructure, the afternoon continued with the themed sessions. Among others, topics included discussions on remote back-ups of data and workflows for dealing with sensitive data. For a complete overview, and the slides to the themed sessions, please visit the event page. The first day of the Centre Meeting ended with a group dinner at De Utrechter.
+The second day of the Centre Meeting was solely dedicated to the CLARIN technical task forces, with meetings of the Federated Content Search and 
+    Component Metadata Infrastructure
+See: http://www.clarin.eu/cmdi
+read more
+
+  , as well as the Persistent Identifiers task forces being held.
+The hybrid form of the meeting was a true success, allowing more than 30 participants to join this year’s Centre Meeting and share their thoughts and expertise with other CLARIN colleagues.
+ 
+
+Julia Misersky
+ 15 June 2022]]></summary>
+        <author>
+            <name>Julia Misersky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From women's gallery to queer feminist knowledge production – Gender discourses in Museums of Industry and Technology in historical perspective]]></title>
+        <id>4075 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/womens-gallery-queer-feminist-knowledge-production-gender-discourses-museums-industry-and"/>
+        <updated>2022-06-15T11:04:41.000Z</updated>
+        <summary type="html"><![CDATA[When women like two-time Nobel laureate Marie Skłodowska Curie appear in exhibitions on the history of technology and science, this might be a good sign for the visibility of women in STEM. However, it goes too far to take Curie’s presence as a proof for a gender sensitive museum practice. With initiatives like Queering Museums, museums start(ed) to discuss broader visions of gender diversity and queer(y)ing museum practices. But when and under what circumstances do museums begin to discuss what kind of gender knowledge they produce? How do museum makers reflect on gender gaps and biases in collections, exhibitions, and education, steering towards a more gender-informed museum making? Applying a Science and Technology Studies (STS) framework on selected case studies, this talk will discuss how museums put gender theory to practice and highlight the spatio-temporal situatedness of museum knowledge production about gender in historical perspective.
+ 
+Wednesday, 29 June 2022
+14.00 - 15.00
+C²DH Open Space and Webex
+If you wish to participate, please send an e-mail to vanessa.napolitano@uni.lu to receive the link - or simply join us in person.
+29 June 2022
+  Public history
+  Cultural policies  Gender studies  Museology
+  Research seminars
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LoGaRT and RISE: Two multilingual tools from the Max Planck Institute for the History of Science]]></title>
         <id>http://openmethods.dariah.eu/?p=3236</id>
@@ -10813,40 +10924,6 @@ Please introduce yourself – your academic background and current position.
 I am a sociologist. I did my PhD at the University of Warsaw in the Institute of Applied Social Sciences. The topic of my thesis was occupational prestige from an individual perspective, and I was interested in how people with highly prestigious positions on the labour market feel their prestige and how it affects their professional and private biographies. Since April 2020 I have been working at the SWPS University of Social Scie…]]></summary>
         <author>
             <name>Karina Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tour d e CLARIN: The CLARIN PL-B-Centre]]></title>
-        <id>5666 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/tour-d-e-clarin-clarin-pl-b-centre"/>
-        <updated>2021-12-18T14:46:05.000Z</updated>
-        <summary type="html"><![CDATA[Tour d e CLARIN: The CLARIN PL-B-Centre
-
-            
-
- 
-Written by Krzysztof Hwaszcz and Jan Wieczorek
-The Polish consortium CLARIN-PL, which is a founding member of CLARIN 
-    
-European Research Infrastructure Consortium
-
-See: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en
-
-read more
-
-  , operating since 2012, was already presented in Tour de CLARIN in 2018 (Volume 1). Not much has changed since then in terms of organisation and scope: the centre is based at the Wrocław University of Science and Technology (Department of Computational Intelligence) and is still coordinated by Maciej Piasecki. From the user’s point of view, the B-centre constitutes the pillar of the Polish CLARIN infrastructure, as it is focused on the development a…]]></summary>
-        <author>
-            <name>Karina Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graduate Digital Humanities Project Partner Grants: February-August 2022]]></title>
-        <id>https://dhn.utoronto.ca/?p=4438</id>
-        <link href="https://dhn.utoronto.ca/grad-dh-projectpartner/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grad-dh-projectpartner"/>
-        <updated>2021-12-17T20:24:48.000Z</updated>
-        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) is pleased to announce new grants to support critical digital humanities (DH) research, focusing on funding qualified graduate students registered in any program at the University of Toronto. The program embeds graduate student researchers within existing critical digital humanities research projects at U of T, many of which are also collaborations with librarians and/or community organizations. This call supports grad researchers for the period between February 15, 2022 and August 31, 2022. U of T graduate students at registered in any program, along with a faculty member and/or librarian co-lead, are invited to apply to the program.]]></summary>
-        <author>
-            <name>DHN Admin</name>
         </author>
     </entry>
     <entry>

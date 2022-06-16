@@ -318,6 +318,15 @@
       "siteUrl": "https://adho.org/news",
       "articles": [
         {
+          "id": "588906 at https://adho.org",
+          "author": "drupaladmin",
+          "description": "English | Español\nIntersectional Inclusion Task Force, la task force per l'inclusione intersezionale di ADHO (inizialmente Task Force Anti-Razzismo), nasce dall'esigenza diretta e pressante di affrontare le disuguaglianze sistemiche all'interno di ADHO e della più ampia comunità DH connessa alle sue attività*, tra cui, ma non solo, razza, classe, genere, abilità, casta, tribù, sessualità, nazionalità, posizione geografica, religione, salute, lingua o altre categorie sociali, spesso esacerbate da un tecno-positivismo sfrenato negli attuali contesti globali.\nQuesta task force estende e amplifica le conversazioni avviate dalla dichiarazione su \"Black Lives Matter, Structural Racism, and Establishment Violence\" e cerca di riconoscere, ascoltare e imparare da persone, organizzazioni e comunità …",
+          "link": "https://adho.org/node/588906",
+          "publishedOn": "2022-06-15T13:13:41.000Z",
+          "wordCount": 590,
+          "title": "Annuncio della task force sull'inclusione intersezionale dell'ADHO"
+        },
+        {
           "id": "588905 at https://adho.org",
           "author": "drupaladmin",
           "description": "English\nEl Grupo de trabajo de inclusión interseccional de ADHO (inicialmente el Grupo de trabajo contra el racismo) surge de una necesidad directa y apremiante de abordar las desigualdades sistémicas dentro de ADHO y la comunidad relacionada con sus actividades.*\nDichas desigualdades incluyen, entre otros factores, raza, clase, género, (dis)capacidad, casta, tribu, sexualidad, nacionalidad, ubicación geográfica, religión, salud, idioma u otras categorías sociales, que a menudo se ven exacerbadas por un tecnopositivismo desenfrenado en los contextos globales actuales. Este equipo de trabajo amplía y amplifica las conversaciones iniciadas por el comunicado sobre Black Lives Matter, el racismo estructural y la violencia institucional, y busca reconocer, escuchar y aprender de personas, organ…",
@@ -1831,15 +1840,6 @@
           "publishedOn": "2022-01-21T16:34:32.000Z",
           "wordCount": 1751,
           "title": "DH Beyond the Human: A Re-Cap of the CDHI’s Fourth Lightning Lunch (2021–2022)"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=4438",
-          "author": "DHN Admin",
-          "description": "The Critical Digital Humanities Initiative (CDHI) is pleased to announce new grants to support critical digital humanities (DH) research, focusing on funding qualified graduate students registered in any program at the University of Toronto. The program embeds graduate student researchers within existing critical digital humanities research projects at U of T, many of which are also collaborations with librarians and/or community organizations. This call supports grad researchers for the period between February 15, 2022 and August 31, 2022. U of T graduate students at registered in any program, along with a faculty member and/or librarian co-lead, are invited to apply to the program.",
-          "link": "https://dhn.utoronto.ca/grad-dh-projectpartner/?utm_source=rss&utm_medium=rss&utm_campaign=grad-dh-projectpartner",
-          "publishedOn": "2021-12-17T20:24:48.000Z",
-          "wordCount": 1328,
-          "title": "Graduate Digital Humanities Project Partner Grants: February-August 2022"
         }
       ]
     },
@@ -2541,6 +2541,15 @@
       "feedUrl": "https://digitalhumanities.stanford.edu/rss.xml",
       "siteUrl": "https://digitalhumanities.stanford.edu",
       "articles": [
+        {
+          "id": "876 at https://digitalhumanities.stanford.edu",
+          "author": "Quinn Dombrowski",
+          "description": "In almost four years at Stanford, I've never missed one of my quarterly round-ups, but March 2022 was unlike any other month of my life. When Russia invaded Ukraine at the end of February, I ended up getting together with Anna Kijas from Tufts and Sebastian Majstorovic from the Austrian Center for Digital Humanities and Cultural Heritage to co-found Saving Ukrainian Cultural Heritage Online (SUCHO), a rapid-response DH effort that's brought together over 1,300 volunteers from around the world to archive Ukrainian cultural heritage websites. Especially for the first six weeks, it consumed my life day and night; writing up winter quarter wasn't a priority. But summer starts this week, and before I get too caught up in summer plans, it's time for a look back over the last half-year.\nClasses\nW…",
+          "link": "https://digitalhumanities.stanford.edu/dlcl-ats-round-winter-spring-2022",
+          "publishedOn": "2022-06-15T17:59:49.000Z",
+          "wordCount": 2753,
+          "title": "DLCL ATS round-up, winter & spring 2022"
+        },
         {
           "id": "871 at https://digitalhumanities.stanford.edu",
           "author": "Quinn Dombrowski",
@@ -5190,6 +5199,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2022/06/16/under-development-a.html",
+          "author": null,
+          "description": "I’ve created a Zotero translator for the Libraries Tasmania catalogue. Using it, you can save metadata and digital resources to your own research database with a single click. Libraries Tasmania actually has three catalogues rolled into one – the main library catalogue, the archives catalogue, and the names index. The translator works across all three. Features include:\nSelect and save items from a page of search results.\nSave individual items across the full range of formats. (By default, individual records in the catalogue open in a modal overlay. For Zotero to recognise the item you need to click on the Permalink button and open the record on a separate page.)\nAutomatically download digital images and PDFs attached to records. This works when the record points to a particular page – it won’t download multiple images from a single link. However, if a record contains multiple links to digitised pages (such as the Convict records in the Names Index), you’ll get them all!\nFields in the Archives catalogue and Name Index that don’t map to Zotero properties are saved as key/value pairs in Zotero’s ‘Extra’ field\n\nI’ve submitted the translator for inclusion in the official repository, but you’re welcome to take it for a test run in the meantime. Just follow these steps:\nFind out where your Zotero data folder is. From Zotero go to Edit > Preferences > Advanced > Files and Folders and click on Show Data Directory.\nOpen the translator file here. Then right click and choose Save as, navigate to your Zotero data folder, and save it in the ‘translators’ folder.\nRestart Zotero and your browser.\nHead to the Libraries Tasmania catalogue and try it!\nLet me know if you strike any problems. #dhhacks",
+          "link": "https://updates.timsherratt.org/2022/06/16/under-development-a.html",
+          "publishedOn": "2022-06-16T01:48:31.000Z",
+          "wordCount": 321,
+          "title": "Under development – a Zotero translator for Libraries Tasmania!"
+        },
+        {
           "id": "http://wragge.micro.blog/2022/06/13/ok-ive-submitted.html",
           "author": null,
           "description": "Ok, I’ve submitted my Libraries Tasmania translator to the Zotero repository for inclusion. No doubt a bit of additional tweaking will be required. github.com/zotero/tr…",
@@ -5707,6 +5725,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4075 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "When women like two-time Nobel laureate Marie Skłodowska Curie appear in exhibitions on the history of technology and science, this might be a good sign for the visibility of women in STEM. However, it goes too far to take Curie’s presence as a proof for a gender sensitive museum practice. With initiatives like Queering Museums, museums start(ed) to discuss broader visions of gender diversity and queer(y)ing museum practices. But when and under what circumstances do museums begin to discuss what kind of gender knowledge they produce? How do museum makers reflect on gender gaps and biases in collections, exhibitions, and education, steering towards a more gender-informed museum making? Applying a Science and Technology Studies (STS) framework on selected case studies, this talk will discuss how museums put gender theory to practice and highlight the spatio-temporal situatedness of museum knowledge production about gender in historical perspective.\n \nWednesday, 29 June 2022\n14.00 - 15.00\nC²DH Open Space and Webex\nIf you wish to participate, please send an e-mail to vanessa.napolitano@uni.lu to receive the link - or simply join us in person.\n29 June 2022\n  Public history\n  Cultural policies  Gender studies  Museology\n  Research seminars\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/womens-gallery-queer-feminist-knowledge-production-gender-discourses-museums-industry-and",
+          "publishedOn": "2022-06-15T11:04:41.000Z",
+          "wordCount": 421,
+          "title": "From women's gallery to queer feminist knowledge production – Gender discourses in Museums of Industry and Technology in historical perspective"
+        },
         {
           "id": "4072 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6973,6 +7000,15 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5745 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "Centre Meeting 2022\n\n            \n\n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \n \nThe Centre Meeting is the annual gathering for everyone involved in setting up or hosting a CLARIN centre, with a special focus on the technical infrastructure. \nAfter two years of virtual Centre Meetings, this year’s edition took a hybrid form: participants were able to join the event in person in Utrecht or attend the meeting virtually via Zoom.The first day of the Centre Meeting began with a meeting of the Standing Committee on CLARIN Technical Centres (SCCTC), during which Martin Matthiesen was re-elected as \n    \nStanding Committee for CLARIN Technical Centres\n\r\nread more\n\n   chair. After an extended lunch break allowing for catch-ups and informal exchanges on the CLARIN technical infrastructure, the afternoon continued with the themed sessions. Among others, topics included discussions on remote back-ups of data and workflows for dealing with sensitive data. For a complete overview, and the slides to the themed sessions, please visit the event page. The first day of the Centre Meeting ended with a group dinner at De Utrechter.\nThe second day of the Centre Meeting was solely dedicated to the CLARIN technical task forces, with meetings of the Federated Content Search and \n    Component Metadata Infrastructure\r\nSee: http://www.clarin.eu/cmdi\nread more\n\n  , as well as the Persistent Identifiers task forces being held.\nThe hybrid form of the meeting was a true success, allowing more than 30 participants to join this year’s Centre Meeting and share their thoughts and expertise with other CLARIN colleagues.\n \n\nJulia Misersky\n 15 June 2022",
+          "link": "https://www.clarin.eu/blog/centre-meeting-2022",
+          "publishedOn": "2022-06-15T12:23:26.000Z",
+          "wordCount": 382,
+          "title": "Centre Meeting 2022"
+        },
+        {
           "id": "5733 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
           "description": "CLARIN Newsflash May 2022 is Out!\n\n            \n\n  \n  \n            \n  \n\n\n\n      \n\nEvery month, CLARIN publishes a newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.\nRead the most recent CLARIN Newsflash: March 2022 here\nSubscribing to it is the ideal way of staying informed.\nSubscribe here\nPast issues of the CLARIN newsflash\nYou are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.\n\n      Elisa Gorgaini\n 25 May 2022",
@@ -7304,15 +7340,6 @@
           "publishedOn": "2021-12-19T08:25:55.000Z",
           "wordCount": 1848,
           "title": "Tour de CLARIN: Interview with Olga Czeranowska"
-        },
-        {
-          "id": "5666 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Tour d e CLARIN: The CLARIN PL-B-Centre\n\n            \n\n \nWritten by Krzysztof Hwaszcz and Jan Wieczorek\nThe Polish consortium CLARIN-PL, which is a founding member of CLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n  , operating since 2012, was already presented in Tour de CLARIN in 2018 (Volume 1). Not much has changed since then in terms of organisation and scope: the centre is based at the Wrocław University of Science and Technology (Department of Computational Intelligence) and is still coordinated by Maciej Piasecki. From the user’s point of view, the B-centre constitutes the pillar of the Polish CLARIN infrastructure, as it is focused on the development a…",
-          "link": "https://www.clarin.eu/blog/tour-d-e-clarin-clarin-pl-b-centre",
-          "publishedOn": "2021-12-18T14:46:05.000Z",
-          "wordCount": 1228,
-          "title": "Tour d e CLARIN: The CLARIN PL-B-Centre"
         }
       ]
     },
