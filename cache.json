@@ -879,6 +879,15 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11123",
+          "author": "Heloise schibler",
+          "description": "The DARIAH research infrastructure is recruiting its new Director (M/F), to start on January 1, 2023. This is a half-time position (0.5 FTE), which will allow candidates to stay connected to the research world. The successful candidate will join the Board of Directors, along with the two existing Directors. Each director is appointed for a […]\nThe post Job: DARIAH’s Board of Directors is looking for a new member appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/06/16/job-dariahs-board-of-directors-is-looking-for-a-new-member/",
+          "publishedOn": "2022-06-16T11:48:30.000Z",
+          "wordCount": 274,
+          "title": "Job: DARIAH’s Board of Directors is looking for a new member"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=11083",
           "author": "Celia Luterbacher",
           "description": "Dans cet article du Courrier, publié le 13 juin, le membre du dhCenter Vincent Kaufmann et ses collègues du Laboratoire de sociologie urbaine de l’EPFL expliquent pourquoi les modèles de «quartiers durables» à haute densité développés à la fin du XXe siècle, pourtant étayés par des labels qualitatifs et autres processus «participatifs», ne répondent plus […]\nThe post Le Courrier: Refonder politiquement le territoire appeared first on dhCenter.",
@@ -5199,6 +5208,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2022/06/16/i-wrote-up.html",
+          "author": null,
+          "description": "I wrote up something for the #GLAMWorkbook on ‘Empty searches and hacking urls’: glam-workbook.net/url-hacki…",
+          "link": "https://updates.timsherratt.org/2022/06/16/i-wrote-up.html",
+          "publishedOn": "2022-06-16T12:48:27.000Z",
+          "wordCount": 30,
+          "title": "Untitled"
+        },
+        {
           "id": "http://wragge.micro.blog/2022/06/16/under-development-a.html",
           "author": null,
           "description": "I’ve created a Zotero translator for the Libraries Tasmania catalogue. Using it, you can save metadata and digital resources to your own research database with a single click. Libraries Tasmania actually has three catalogues rolled into one – the main library catalogue, the archives catalogue, and the names index. The translator works across all three. Features include:\nSelect and save items from a page of search results.\nSave individual items across the full range of formats. (By default, individual records in the catalogue open in a modal overlay. For Zotero to recognise the item you need to click on the Permalink button and open the record on a separate page.)\nAutomatically download digital images and PDFs attached to records. This works when the record points to a particular page – it won’t download multiple images from a single link. However, if a record contains multiple links to digitised pages (such as the Convict records in the Names Index), you’ll get them all!\nFields in the Archives catalogue and Name Index that don’t map to Zotero properties are saved as key/value pairs in Zotero’s ‘Extra’ field\n\nI’ve submitted the translator for inclusion in the official repository, but you’re welcome to take it for a test run in the meantime. Just follow these steps:\nFind out where your Zotero data folder is. From Zotero go to Edit > Preferences > Advanced > Files and Folders and click on Show Data Directory.\nOpen the translator file here. Then right click and choose Save as, navigate to your Zotero data folder, and save it in the ‘translators’ folder.\nRestart Zotero and your browser.\nHead to the Libraries Tasmania catalogue and try it!\nLet me know if you strike any problems. #dhhacks",
@@ -7331,15 +7349,6 @@
           "publishedOn": "2021-12-21T13:37:54.000Z",
           "wordCount": 237,
           "title": "Campaign on Data Citation"
-        },
-        {
-          "id": "5667 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Tour de CLARIN: Interview with Olga Czeranowska\n\n            \n \nInterview conducted by Jakob Lenardič\n \nOlga Czeranowska is a sociologist working in the field of migrant studies. She and her team have performed sentiment analysis of Polish Twitter posts with the cooperation of CLARIN-PL.\n \nPlease introduce yourself – your academic background and current position.\nI am a sociologist. I did my PhD at the University of Warsaw in the Institute of Applied Social Sciences. The topic of my thesis was occupational prestige from an individual perspective, and I was interested in how people with highly prestigious positions on the labour market feel their prestige and how it affects their professional and private biographies. Since April 2020 I have been working at the SWPS University of Social Scie…",
-          "link": "https://www.clarin.eu/blog/tour-de-clarin-interview-olga-czeranowska",
-          "publishedOn": "2021-12-19T08:25:55.000Z",
-          "wordCount": 1848,
-          "title": "Tour de CLARIN: Interview with Olga Czeranowska"
         }
       ]
     },
@@ -7348,6 +7357,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1528 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "Ireland’s National Open Research Forum (NORF) has opened a call for Expressions of Interest for actions funded by the NORF 2022 Open Research Fund. This call targets six priority actions in Ireland’s National Action Plan for Open Research.",
+          "link": "https://www.dri.ie/norf-2022-funding-call-expressions-interest",
+          "publishedOn": "2022-06-16T11:01:44.000Z",
+          "wordCount": 605,
+          "title": "NORF 2022 Funding Call for Expressions of Interest"
+        },
         {
           "id": "1527 at https://www.dri.ie",
           "author": "ainemadden",
