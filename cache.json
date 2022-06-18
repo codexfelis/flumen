@@ -2330,24 +2330,6 @@
           "publishedOn": "2021-12-21T08:14:29.232Z",
           "wordCount": 722,
           "title": "Verlängerung der Bewerbungsfrist für Stipendien für die DHd2022 (5.1.22)"
-        },
-        {
-          "id": "node/751",
-          "author": "406",
-          "description": "Wir bitten um Verständnis dafür, dass zwischen dem 20. Dezember 2021 und dem 9. Januar 2022 keine neuen Mitgliedsanträge bearbeitet werden können.\nDie Antragstellung ist zwar…",
-          "link": "https://dig-hum.de/aktuelles/anmeldung-f%C3%BCr-die-dhd-mitgliedschaft",
-          "publishedOn": "2021-12-20T08:14:42.178Z",
-          "wordCount": 710,
-          "title": "Anmeldung für die DHd-Mitgliedschaft"
-        },
-        {
-          "id": "node/752",
-          "author": "406",
-          "description": "Der Verband »Digital Humanities im deutschsprachigen Raum e.V.«,  das Konsortium »NFDI4Culture«, der »Verein für Geistes- und  Kulturwissenschaftliche Forschungsinfrastrukturen«,…",
-          "link": "https://dig-hum.de/aktuelles/morgen-20122021-endet-die-bewerbungsfrist-f%C3%BCr-stipendien-f%C3%BCr-die-dhd2022-potsdam",
-          "publishedOn": "2021-12-20T08:14:42.153Z",
-          "wordCount": 751,
-          "title": "MORGEN (20.12.2021) endet die Bewerbungsfrist für Stipendien für die DHd2022 in Potsdam"
         }
       ]
     },
@@ -2575,6 +2557,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=8406",
+          "author": "DaigengnaDuoer",
+          "description": "This is a guest post by Ann Marie Davis (The Ohio State University), Katherine Matsuura (Harvard University), and Yukari Sugiyama …",
+          "link": "https://digitalorientalist.com/2022/06/17/visualizing-an-online-database-for-notable-japanese-collections-in-north-america/",
+          "publishedOn": "2022-06-17T13:00:00.000Z",
+          "wordCount": 2479,
+          "title": "Visualizing an Online Database for Notable Japanese Collections in North America"
+        },
         {
           "id": "http://digitalorientalist.com/?p=8410",
           "author": "maddalena poli",
@@ -5186,6 +5177,15 @@
       "siteUrl": "https://tei-c.org",
       "articles": [
         {
+          "id": "https://tei-c.org/?p=31333",
+          "author": "Martina Scholger",
+          "description": "The TEI Consortium created the Rahtz Prize for TEI Ingenuity in memory of Sebastian Rahtz, who contributed significantly to the TEI infrastructure. The award is intended to honour Sebastian’s noteworthy technical and philosophical contributions to the TEI, and to encourage innovation in the TEI community. The Rahtz Prize for TEI Ingenuity is awarded to an […]",
+          "link": "https://tei-c.org/2022/06/17/rahtz-prize-for-ingenuity-2022-call-for-nominations-and-self-submissions/",
+          "publishedOn": "2022-06-17T14:37:15.000Z",
+          "wordCount": 533,
+          "title": "Rahtz Prize for Ingenuity 2022 — Call for nominations and self-submissions"
+        },
+        {
           "id": "https://tei-c.org/?p=31314",
           "author": "Martina Scholger",
           "description": "The TEI2022 Program Committee is pleased to announce its call for proposals for the 22th annual Conference and Members’ Meeting of the Text Encoding Initiative Consortium (TEI), which will be held 13-16 September 2022 (Tue-Fri) at Newcastle University, Newcastle Upon Tyne, United Kingdom with pre-conference workshops 12-13 September 2022 (Mon-Tue). Conference site: https://conferences.ncl.ac.uk/tei2022/ ConfTool site: https://www.conftool.pro/tei2022/   […]",
@@ -7018,6 +7018,15 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5747 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "The Charles Translator for Ukraine: A development by LINDAT/CLARIAH-CZ\n\n            \nThe automatic translator for Czech and Ukrainian, recently developed at the Institute of Formal and Applied Linguistics (ÚFAL) of Charles University, is now also available as a mobile application for Android. Users can download the Charles Translator for Ukraine app free of charge from the Google Play store. \nThe translator was developed with support of the LINDAT/CLARIAH-CZ, and runs on the LINDAT technical infrastructure. It was developed in record time after the Russian invasion of Ukraine and the subsequent wave of refugees into the Czech Republic, and it has been freely available for non-commercial purposes since mid-March at https://translator.cuni.cz. The web service has logged almost a quarter of a million hits in April, which, together with the demand from owners of smart mobile devices running Android, has triggered the development of a mobile application. \nThe application allows translation between Czech and Ukrainian in both audio and text form, and phonetic transcriptions between Latin and Cyrillic are available for translations. \nThe release of the mobile application is a significant event in the historical context of research and development of machine translation at the ÚFAL and also at LINDAT/CLARIAH-CZ. The importance of this moment was enhanced by the introduction of the new name of the Czech-Ukrainian translation system Charles Translator for Ukraine, thereby subscribing to the brand name Charles University. With the addition of translation pairs of languages, the name should be narrowed down to Charles Translator in the future, allowing the researchers from ÚFAL to combine this new translator, developed in connection with the war in Ukraine, with the existing translation service available in LINDAT for other languages.\n\n      Julia Misersky\n 17 June 2022",
+          "link": "https://www.clarin.eu/news/charles-translator-ukraine-development-lindatclariah-cz",
+          "publishedOn": "2022-06-17T09:04:27.000Z",
+          "wordCount": 426,
+          "title": "The Charles Translator for Ukraine: A development by LINDAT/CLARIAH-CZ"
+        },
+        {
           "id": "5745 at https://www.clarin.eu",
           "author": "Julia Misersky",
           "description": "Centre Meeting 2022\n\n            \n\n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \n \nThe Centre Meeting is the annual gathering for everyone involved in setting up or hosting a CLARIN centre, with a special focus on the technical infrastructure. \nAfter two years of virtual Centre Meetings, this year’s edition took a hybrid form: participants were able to join the event in person in Utrecht or attend the meeting virtually via Zoom.The first day of the Centre Meeting began with a meeting of the Standing Committee on CLARIN Technical Centres (SCCTC), during which Martin Matthiesen was re-elected as \n    \nStanding Committee for CLARIN Technical Centres\n\r\nread more\n\n   chair. After an extended lunch break allowing for catch-ups and informal exchanges on the CLARIN technical infrastructure, the afternoon continued with the themed sessions. Among others, topics included discussions on remote back-ups of data and workflows for dealing with sensitive data. For a complete overview, and the slides to the themed sessions, please visit the event page. The first day of the Centre Meeting ended with a group dinner at De Utrechter.\nThe second day of the Centre Meeting was solely dedicated to the CLARIN technical task forces, with meetings of the Federated Content Search and \n    Component Metadata Infrastructure\r\nSee: http://www.clarin.eu/cmdi\nread more\n\n  , as well as the Persistent Identifiers task forces being held.\nThe hybrid form of the meeting was a true success, allowing more than 30 participants to join this year’s Centre Meeting and share their thoughts and expertise with other CLARIN colleagues.\n \n\nJulia Misersky\n 15 June 2022",
@@ -7977,15 +7986,6 @@
           "publishedOn": "2022-01-04T11:58:11.000Z",
           "wordCount": 932,
           "title": "DRI is Hiring an Operations and Communications Manager"
-        },
-        {
-          "id": "1450 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that An Post Museum and Archive has published its latest collection on the Repository – the ‘Post early for Christmas posters’ collection.",
-          "link": "https://www.dri.ie/new-collection-publication-post-museum-and-archive",
-          "publishedOn": "2021-12-20T11:38:49.000Z",
-          "wordCount": 782,
-          "title": "New Collection Publication from An Post Museum and Archive"
         }
       ]
     },
