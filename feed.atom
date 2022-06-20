@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-19T08:14:50.895Z</updated>
+    <updated>2022-06-20T08:17:43.448Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit dem DHd-Vorstand über Community-Management]]></title>
+        <id>https://radihum20.de/?p=575</id>
+        <link href="https://radihum20.de/community-management-dhd-vorstand/"/>
+        <updated>2022-06-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Für unsere heutige Folge haben wir Evelyn Gius (Technische Universität Darmstadt), Lars Wieneke (Luxembourg Centre for Contemporary and Digital History, Universität Luxemburg) und Christof Schöch (Universität Trier) aus dem Vorstand des DHd-Verbandes zu Gast – dem größten Verband für die digitalen Geisteswissenschaften im deutschsprachigen Raum. Mit unseren drei Gästen haben wir über das Thema Community-Management […]
+Der Beitrag RaDiHum20 spricht mit dem DHd-Vorstand über Community-Management erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Jonathan D. Geiger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>http://wragge.micro.blog/2022/06/19/main-changes-to.html</id>
@@ -10823,17 +10834,6 @@ Dara Kelly – Indigenous Gifting and Reciprocity Economies: The Trickster and t
 The post Meilleurs voeux pour la nouvelle année | Best wishes for a happy New Year appeared first on dhCenter.]]></summary>
         <author>
             <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Catalan Morphosyntax: Developing an Annotated Corpus]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.54</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.54"/>
-        <updated>2021-12-22T08:14:55.452Z</updated>
-        <summary type="html"><![CDATA[This paper presents a full procedure for the development of a Part-of-Speech (POS) tagged corpus of Old Catalan. As an extremely low-resource language with rich inflection and frequent homographs, Old Catalan poses non-trivial problems in the development of a searchable constituency-based treebank. We demonstrate, however, that a semi- supervised method of incrementally building training data using both neural and memory-based taggers, together with the Pyrrha annotation tool is highly efficient and yields accurate results. We propose that this simple and effective method could easily be extended to other low-resource historical languages for which no NLP tools exist yet.
- Published on 2021-12-21 11:08:40]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
         </author>
     </entry>
     <entry>
