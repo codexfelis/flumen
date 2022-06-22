@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-21T08:26:28.114Z</updated>
+    <updated>2022-06-22T08:19:53.305Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CLARIN at LREC2022: Wednesday 22]]></title>
+        <id>5751 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/clarin-lrec2022-wednesday-22"/>
+        <updated>2022-06-21T17:03:22.000Z</updated>
+        <summary type="html"><![CDATA[CLARIN at LREC2022: Wednesday 22
+
+            
+ You can see today's CLARIN presence at LREC2022 below. To consult the full schedule of CLARIN's presence at LREC2022 click here.
+9:30 - 10:50 (Poster Area 2)
+ 
+
+
+Session P14: Corpora and Annotation (2)
+ 
+	Chair: Ogrodniczuk, Maciej
+ALIGNMEET: A Comprehensive Tool for Meeting Annotation, Alignment, and Evaluation (Peter Polák, Muskaan Singh, Anna Nedoluzhko and Ondřej Bojar)
+Spoken Language Treebanks in Universal Dependencies: an Overview (Kaja Dobrovoljc)
+11:10 - 12:30 (Poster Area 1)
+ 
+
+
+Session P18: Corpora and Annotation (3)  
+Evolving Large Text Corpora: Four Versions of the Icelandic Gigaword Corpus (Starkaður Barkarson, Steinþór Steingrímsson, Hildur Hafsteinsdóttir)
+
+
+
+15:15 - 16:35 (Poster Area 2)
+ 
+
+
+Session P22: Lexicons (2)
+ 
+	Chair: Yildiz, Olcay Taner
+Constructing a Lexical Resource of Russian Derivational Morphology (Lukáš Kyjánek, Olga Lyashevskaya, Anna Nedoluzhko, Daniil Vodolazsky and Zdeněk Žabokrtský)
+
+
+
+
+15:15 - 16:35 (Poster Area 2)
+ 
+
+
+
+Session P26: Dialogue and
+Conversational Systems (2)
+ELITR Minuting Corpus: A Novel Dataset for Automatic Minuting from Multi-Party Meetings in English and Czech (Anna Nedoluzhko, Muskaan Singh, Marie Hledíková, Tirthankar Ghosal and Ondřej Bojar)
+
+
+
+15:15 - 16:35 (Poster Area 2)
+ 
+
+
+Session: P24 - Evaluation and Validation Methodologies (2)
+ 
+	Chair: Zeldes, Amir
+Quality and Efficiency of Manual Annotation: Pre-annotation Bias
+16:55 - 18:35 (Poster Area 1)
+Session P27: Corpora and Annotation (4)
+ 
+Chair: Pęzik, Piotr  
+The Bulgarian Event Corpus: Overview and Initial NER Experiments (Petya Osenova, Kiril Simov, Iva Marinova and Melania Berbatova)
+
+
+
+
+
+      Elisa Gorgaini
+ 21 June 2022]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Biblical Hebrew Reader Generator]]></title>
+        <id>http://digitalorientalist.com/?p=8343</id>
+        <link href="https://digitalorientalist.com/2022/06/21/the-biblical-hebrew-reader-generator/"/>
+        <updated>2022-06-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post serves as a quick introduction to a tool I recently found via Twitter: The Biblical Hebrew Reader Generator. …]]></summary>
+        <author>
+            <name>Jonathan Robker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLARIN at LREC2022: Tuesday 21]]></title>
         <id>5750 at https://www.clarin.eu</id>
@@ -124,6 +208,17 @@ Elisa Gorgaini
     <entry>
         <title type="html"><![CDATA[Understanding the application of Transkribus in research]]></title>
         <id>https://readcoop.eu/?p=29366</id>
+        <link href="https://readcoop.eu/transkribus-in-research/"/>
+        <updated>2022-06-20T14:33:44.000Z</updated>
+        <summary type="html"><![CDATA[By Joe Nockels, University of Edinburgh As part of his PhD research at the University of Edinburgh and National Library of Scotland (NLS), Joe Nockels underwent a systematic review of […]
+The post Understanding the application of Transkribus in research appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the application of Transkribus in research]]></title>
+        <id>https://readcoop.eu/?p=29366</id>
         <link href="https://readcoop.eu/understanding-the-application-of-transkribus-in-research/"/>
         <updated>2022-06-20T14:33:44.000Z</updated>
         <summary type="html"><![CDATA[By Joe Nockels, University of Edinburgh, j.h.nockels@104246 As part of his PhD research at the University of Edinburgh and National Library of Scotland (NLS), Joe Nockels underwent a systematic review […]
@@ -140,6 +235,36 @@ The post Understanding the application of Transkribus in research appeared first
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 311, a collection of two Arabic medical texts translated into Hebrew, written in Italy in the 15th century. This manuscript contains books 1-3 and the beginning of Book 4 of Avicenna’s 11th-century comprehensive medical work,Continue reading "Manuscript Monday: LJS 311 – Medical Texts"]]></summary>
         <author>
             <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Impact Story: Navigating the GDPR with Innovative Educational Materials]]></title>
+        <id>5749 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/new-impact-story-navigating-gdpr-innovative-educational-materials"/>
+        <updated>2022-06-20T10:28:38.000Z</updated>
+        <summary type="html"><![CDATA[New Impact Story: Navigating the GDPR with Innovative Educational Materials
+
+            
+
+  
+  
+            
+    
+
+              
+              
+                  
+
+  
+This latest impact story showcases the project ‘Privacy in Research: Asking the Right Questions’, an engaging response to the challenges faced by researchers working with sensitive data. Commended as best practice by the Council of Europe, the project team has developed a portfolio of modular and interactive educational materials designed to help researchers and students navigate the maze of privacy concerns when embarking on research involving personal data covered by the General Data Protection Regulation (GDPR). 
+The project is important in the context of open science and the FAIR principles, as it facilitates the responsible sharing and reuse of data that is relevant for a range of research areas, as well as clinical applications, artificial intelligence and education more widely.
+ 
+Read the full impact story here: https://www.clarin.eu/impact-stories/navigating-gdpr-bringing-agency-research-communities
+
+      Karina Berger
+ 20 June 2022]]></summary>
+        <author>
+            <name>Karina Berger</name>
         </author>
     </entry>
     <entry>
@@ -302,6 +427,51 @@ Intersectional Inclusion Task Force, la task force per l'inclusione interseziona
 Questa task force estende e amplifica le conversazioni avviate dalla dichiarazione su "Black Lives Matter, Structural Racism, and Establishment Violence" e cerca di riconoscere, ascoltare e imparare da persone, organizzazioni e comunità …]]></summary>
         <author>
             <name>drupaladmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Recap of the Centre Meeting 2022]]></title>
+        <id>5745 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/recap-centre-meeting-2022"/>
+        <updated>2022-06-15T12:23:26.000Z</updated>
+        <summary type="html"><![CDATA[A Recap of the Centre Meeting 2022
+
+            
+
+
+  
+  
+            
+    
+
+              
+              
+              
+                  
+
+  
+ 
+The Centre Meeting is the annual gathering for everyone involved in setting up or hosting a CLARIN centre, with a special focus on the technical infrastructure. 
+After two years of virtual Centre Meetings, this year’s edition took a hybrid form: participants were able to join the event in person in Utrecht or attend the meeting virtually via Zoom.The first day of the Centre Meeting began with a meeting of the Standing Committee on CLARIN Technical Centres (SCCTC), during which Martin Matthiesen was re-elected as 
+    
+Standing Committee for CLARIN Technical Centres
+
+read more
+
+   chair. After an extended lunch break allowing for catch-ups and informal exchanges on the CLARIN technical infrastructure, the afternoon continued with the themed sessions. Among others, topics included discussions on remote back-ups of data and workflows for dealing with sensitive data. For a complete overview, and the slides to the themed sessions, please visit the event page. The first day of the Centre Meeting ended with a group dinner at De Utrechter.
+The second day of the Centre Meeting was solely dedicated to the CLARIN technical task forces, with meetings of the Federated Content Search and 
+    Component Metadata Infrastructure
+See: http://www.clarin.eu/cmdi
+read more
+
+  , as well as the Persistent Identifiers task forces being held.
+The hybrid form of the meeting was a true success, allowing more than 30 participants to join this year’s Centre Meeting and share their thoughts and expertise with other CLARIN colleagues.
+ 
+
+Julia Misersky
+ 15 June 2022]]></summary>
+        <author>
+            <name>Julia Misersky</name>
         </author>
     </entry>
     <entry>
@@ -10907,36 +11077,6 @@ Wir freuen uns sehr auf unsere nächste Jahrestagung DHd2022 in Potsdam.
 Herzliche Grüße und bleiben Sie…]]></summary>
         <author>
             <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Missionary Linguistics – Latin, Portuguese and Japanese resources online]]></title>
-        <id>http://digitalorientalist.com/?p=7337</id>
-        <link href="https://digitalorientalist.com/2021/12/24/missionary-linguistics-latin-portuguese-and-japanese-resources-online/"/>
-        <updated>2021-12-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the mid-90s, I was an undergraduate student taking Latin and Japanese classes. People looked at me as if I …]]></summary>
-        <author>
-            <name>Michele Eduarda Brasil de Sá</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Papers: Bodies of Knowledge: Speculating about Libraries, Archives, and the Future of Information]]></title>
-        <id>1378 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2021/12/24/call-papers-bodies-knowledge-speculating-about-libraries-archives-and-future"/>
-        <updated>2021-12-24T08:19:55.000Z</updated>
-        <summary type="html"><![CDATA[31 Mar 2022 - 00:00
-
-
-
-Call for Papers: Bodies of Knowledge: Speculating about Libraries, Archives, and the Future of Information
-
-
-
-“Accessing.”
-— Data, Star Trek: The Next Generation
-Vector invites proposals for articles for a special issue on speculative fiction and libraries, as well as adjacent themes, e.g. speculative angles on archives, collections, repositories, simulations, antilibraries, catalogues, metadata, preservation, curation, media archaeology, literary publics, open access, search, big data, taxonomies, folksonomies, epistemes, architectures of knowledge, hypomnemata, the history and future of print, oral traditions, embodied knowledge, book stores, index cards, bibliographic management, scholarly apparatuses, indexes, performance archiving, back-ups, more-than-human know…]]></summary>
-        <author>
-            <name>Communication Fellow</name>
         </author>
     </entry>
     <entry>

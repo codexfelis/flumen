@@ -2540,6 +2540,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=8343",
+          "author": "Jonathan Robker",
+          "description": "This post serves as a quick introduction to a tool I recently found via Twitter: The Biblical Hebrew Reader Generator. …",
+          "link": "https://digitalorientalist.com/2022/06/21/the-biblical-hebrew-reader-generator/",
+          "publishedOn": "2022-06-21T14:00:00.000Z",
+          "wordCount": 1550,
+          "title": "The Biblical Hebrew Reader Generator"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=8406",
           "author": "DaigengnaDuoer",
           "description": "This is a guest post by Ann Marie Davis (The Ohio State University), Katherine Matsuura (Harvard University), and Yukari Sugiyama …",
@@ -2988,15 +2997,6 @@
           "publishedOn": "2021-12-28T13:00:00.000Z",
           "wordCount": 1751,
           "title": "Organizing Browser-heavy Workflows"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7337",
-          "author": "Michele Eduarda Brasil de Sá",
-          "description": "In the mid-90s, I was an undergraduate student taking Latin and Japanese classes. People looked at me as if I …",
-          "link": "https://digitalorientalist.com/2021/12/24/missionary-linguistics-latin-portuguese-and-japanese-resources-online/",
-          "publishedOn": "2021-12-24T13:00:00.000Z",
-          "wordCount": 1660,
-          "title": "Missionary Linguistics – Latin, Portuguese and Japanese resources online"
         }
       ]
     },
@@ -3314,15 +3314,6 @@
           "publishedOn": "2022-01-18T16:48:38.000Z",
           "wordCount": 645,
           "title": "Online Symposium Computer legacies: Narrating histories of digital media in museums, 27th January 2022"
-        },
-        {
-          "id": "1378 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "31 Mar 2022 - 00:00\n\n\n\nCall for Papers: Bodies of Knowledge: Speculating about Libraries, Archives, and the Future of Information\n\n\n\n“Accessing.”\n— Data, Star Trek: The Next Generation\nVector invites proposals for articles for a special issue on speculative fiction and libraries, as well as adjacent themes, e.g. speculative angles on archives, collections, repositories, simulations, antilibraries, catalogues, metadata, preservation, curation, media archaeology, literary publics, open access, search, big data, taxonomies, folksonomies, epistemes, architectures of knowledge, hypomnemata, the history and future of print, oral traditions, embodied knowledge, book stores, index cards, bibliographic management, scholarly apparatuses, indexes, performance archiving, back-ups, more-than-human know…",
-          "link": "https://eadh.org/news/2021/12/24/call-papers-bodies-knowledge-speculating-about-libraries-archives-and-future",
-          "publishedOn": "2021-12-24T08:19:55.000Z",
-          "wordCount": 1887,
-          "title": "Call for Papers: Bodies of Knowledge: Speculating about Libraries, Archives, and the Future of Information"
         }
       ]
     },
@@ -3987,6 +3978,15 @@
       "feedUrl": "https://readcoop.eu/feed",
       "siteUrl": "https://readcoop.eu",
       "articles": [
+        {
+          "id": "https://readcoop.eu/?p=29366",
+          "author": "Florian Stauder",
+          "description": "By Joe Nockels, University of Edinburgh As part of his PhD research at the University of Edinburgh and National Library of Scotland (NLS), Joe Nockels underwent a systematic review of […]\nThe post Understanding the application of Transkribus in research appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/transkribus-in-research/",
+          "publishedOn": "2022-06-20T14:33:44.000Z",
+          "wordCount": 2454,
+          "title": "Understanding the application of Transkribus in research"
+        },
         {
           "id": "https://readcoop.eu/?p=29366",
           "author": "Florian Stauder",
@@ -7050,6 +7050,15 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5751 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "CLARIN at LREC2022: Wednesday 22\n\n            \n You can see today's CLARIN presence at LREC2022 below. To consult the full schedule of CLARIN's presence at LREC2022 click here.\n9:30 - 10:50 (Poster Area 2)\n \n\n\nSession P14: Corpora and Annotation (2)\n \n\tChair: Ogrodniczuk, Maciej\nALIGNMEET: A Comprehensive Tool for Meeting Annotation, Alignment, and Evaluation (Peter Polák, Muskaan Singh, Anna Nedoluzhko and Ondřej Bojar)\nSpoken Language Treebanks in Universal Dependencies: an Overview (Kaja Dobrovoljc)\n11:10 - 12:30 (Poster Area 1)\n \n\n\nSession P18: Corpora and Annotation (3)  \nEvolving Large Text Corpora: Four Versions of the Icelandic Gigaword Corpus (Starkaður Barkarson, Steinþór Steingrímsson, Hildur Hafsteinsdóttir)\n\n\n\n15:15 - 16:35 (Poster Area 2)\n \n\n\nSession P22: Lexicons (2)\n \n\tChair: Yildiz, Olcay Taner\nConstructing a Lexical Resource of Russian Derivational Morphology (Lukáš Kyjánek, Olga Lyashevskaya, Anna Nedoluzhko, Daniil Vodolazsky and Zdeněk Žabokrtský)\n\n\n\n\n15:15 - 16:35 (Poster Area 2)\n \n\n\n\nSession P26: Dialogue and\nConversational Systems (2)\nELITR Minuting Corpus: A Novel Dataset for Automatic Minuting from Multi-Party Meetings in English and Czech (Anna Nedoluzhko, Muskaan Singh, Marie Hledíková, Tirthankar Ghosal and Ondřej Bojar)\n\n\n\n15:15 - 16:35 (Poster Area 2)\n \n\n\nSession: P24 - Evaluation and Validation Methodologies (2)\n \n\tChair: Zeldes, Amir\nQuality and Efficiency of Manual Annotation: Pre-annotation Bias\n16:55 - 18:35 (Poster Area 1)\nSession P27: Corpora and Annotation (4)\n \nChair: Pęzik, Piotr  \nThe Bulgarian Event Corpus: Overview and Initial NER Experiments (Petya Osenova, Kiril Simov, Iva Marinova and Melania Berbatova)\n\n\n\n\n\n      Elisa Gorgaini\n 21 June 2022",
+          "link": "https://www.clarin.eu/news/clarin-lrec2022-wednesday-22",
+          "publishedOn": "2022-06-21T17:03:22.000Z",
+          "wordCount": 410,
+          "title": "CLARIN at LREC2022: Wednesday 22"
+        },
+        {
           "id": "5750 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
           "description": "CLARIN at LREC2022: Tuesday 21\n\n            \nYou can see today's CLARIN presence at LREC2022 below. To consult the full schedule of CLARIN's presence at LREC2022 click here.\n \n\n\n\n\n\n11:40- 13:00 (Poster Area 1) \n \n\nSession P1: Language Resource Infrastructures and Policy issues. Chair: Labropoulou, Penny\nLanguage Technologies for the Creation of Multilingual Terminologies. Lessons Learned from the SSHOC Project (Federica Gamba, Francesca Frontini, Daan Broeder and Monica Monachini) \n\n\n\n15:15 - 16:35 (Auditorium)\nSession O5: Language Resource Policies and Management.\nChair: Di Persio, Denise, Co-Chair: Frontini, Francesca\n Ethical Issues in Language Resources and Language Technology – A Tentative Categorisation (Paweł Kamocki and Andreas Witt) \n\n\n\n16:55 - 18:15 (Poster Area 1)\nSession P12: Evaluation and Validation Methodologies (1)\nChair: Refaee, Eshrag Ali A.\nThe Subject Annotations of the Danish Parliament Corpus (2009-2017) - Evaluation with Automatic Multi-label Classification. (Costanza Navarretta and Dorte Haltrup Hansen)\n\n\n\n\n \nElisa Gorgaini\n 21 June 2022",
@@ -7059,6 +7068,15 @@
           "title": "CLARIN at LREC2022: Tuesday 21"
         },
         {
+          "id": "5749 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "New Impact Story: Navigating the GDPR with Innovative Educational Materials\n\n            \n\n  \n  \n            \n    \n\n              \n              \n                  \n\n  \nThis latest impact story showcases the project ‘Privacy in Research: Asking the Right Questions’, an engaging response to the challenges faced by researchers working with sensitive data. Commended as best practice by the Council of Europe, the project team has developed a portfolio of modular and interactive educational materials designed to help researchers and students navigate the maze of privacy concerns when embarking on research involving personal data covered by the General Data Protection Regulation (GDPR). \nThe project is important in the context of open science and the FAIR principles, as it facilitates the responsible sharing and reuse of data that is relevant for a range of research areas, as well as clinical applications, artificial intelligence and education more widely.\n \nRead the full impact story here: https://www.clarin.eu/impact-stories/navigating-gdpr-bringing-agency-research-communities\n\n      Karina Berger\n 20 June 2022",
+          "link": "https://www.clarin.eu/blog/new-impact-story-navigating-gdpr-innovative-educational-materials",
+          "publishedOn": "2022-06-20T10:28:38.000Z",
+          "wordCount": 290,
+          "title": "New Impact Story: Navigating the GDPR with Innovative Educational Materials"
+        },
+        {
           "id": "5747 at https://www.clarin.eu",
           "author": "Julia Misersky",
           "description": "The Charles Translator for Ukraine: A development by LINDAT/CLARIAH-CZ\n\n            \nThe automatic translator for Czech and Ukrainian, recently developed at the Institute of Formal and Applied Linguistics (ÚFAL) of Charles University, is now also available as a mobile application for Android. Users can download the Charles Translator for Ukraine app free of charge from the Google Play store. \nThe translator was developed with support of the LINDAT/CLARIAH-CZ, and runs on the LINDAT technical infrastructure. It was developed in record time after the Russian invasion of Ukraine and the subsequent wave of refugees into the Czech Republic, and it has been freely available for non-commercial purposes since mid-March at https://translator.cuni.cz. The web service has logged almost a quarter of a million hits in April, which, together with the demand from owners of smart mobile devices running Android, has triggered the development of a mobile application. \nThe application allows translation between Czech and Ukrainian in both audio and text form, and phonetic transcriptions between Latin and Cyrillic are available for translations. \nThe release of the mobile application is a significant event in the historical context of research and development of machine translation at the ÚFAL and also at LINDAT/CLARIAH-CZ. The importance of this moment was enhanced by the introduction of the new name of the Czech-Ukrainian translation system Charles Translator for Ukraine, thereby subscribing to the brand name Charles University. With the addition of translation pairs of languages, the name should be narrowed down to Charles Translator in the future, allowing the researchers from ÚFAL to combine this new translator, developed in connection with the war in Ukraine, with the existing translation service available in LINDAT for other languages.\n\n      Julia Misersky\n 17 June 2022",
@@ -7066,6 +7084,15 @@
           "publishedOn": "2022-06-17T09:04:27.000Z",
           "wordCount": 426,
           "title": "The Charles Translator for Ukraine: A development by LINDAT/CLARIAH-CZ"
+        },
+        {
+          "id": "5745 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "A Recap of the Centre Meeting 2022\n\n            \n\n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \n \nThe Centre Meeting is the annual gathering for everyone involved in setting up or hosting a CLARIN centre, with a special focus on the technical infrastructure. \nAfter two years of virtual Centre Meetings, this year’s edition took a hybrid form: participants were able to join the event in person in Utrecht or attend the meeting virtually via Zoom.The first day of the Centre Meeting began with a meeting of the Standing Committee on CLARIN Technical Centres (SCCTC), during which Martin Matthiesen was re-elected as \n    \nStanding Committee for CLARIN Technical Centres\n\r\nread more\n\n   chair. After an extended lunch break allowing for catch-ups and informal exchanges on the CLARIN technical infrastructure, the afternoon continued with the themed sessions. Among others, topics included discussions on remote back-ups of data and workflows for dealing with sensitive data. For a complete overview, and the slides to the themed sessions, please visit the event page. The first day of the Centre Meeting ended with a group dinner at De Utrechter.\nThe second day of the Centre Meeting was solely dedicated to the CLARIN technical task forces, with meetings of the Federated Content Search and \n    Component Metadata Infrastructure\r\nSee: http://www.clarin.eu/cmdi\nread more\n\n  , as well as the Persistent Identifiers task forces being held.\nThe hybrid form of the meeting was a true success, allowing more than 30 participants to join this year’s Centre Meeting and share their thoughts and expertise with other CLARIN colleagues.\n \n\nJulia Misersky\n 15 June 2022",
+          "link": "https://www.clarin.eu/blog/recap-centre-meeting-2022",
+          "publishedOn": "2022-06-15T12:23:26.000Z",
+          "wordCount": 393,
+          "title": "A Recap of the Centre Meeting 2022"
         },
         {
           "id": "5745 at https://www.clarin.eu",
