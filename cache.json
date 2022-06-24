@@ -1855,6 +1855,24 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/819",
+          "author": "406",
+          "description": "Mit über sechs Millionen Medien und mehr als einer halben Million Besucherinnen und Besucher pro Jahr ist die Zentralbibliothek Zürich eine der grössten Schweizer Bibliotheken.…",
+          "link": "https://dig-hum.de/aktuelles/veranstaltungshinweise-abendvortr%C3%A4ge-der-zentralbibliothek-z%C3%BCrich-2930622",
+          "publishedOn": "2022-06-23T20:10:03.000Z",
+          "wordCount": 801,
+          "title": "Veranstaltungshinweise Abendvorträge in der Zentralbibliothek Zürich (29.+30.6.22)"
+        },
+        {
+          "id": "node/818",
+          "author": "406",
+          "description": "Zum internationalen Workshop „Digital History Projects in times of crisis and war“ lädt das Internationale Bildungs- und Begegnungswerk gGmbH in Dortmund vom 10. bis 13. August…",
+          "link": "https://dig-hum.de/aktuelles/internationaler-workshop-chisinau-digital-history-projects-times-of-crisis-and-war",
+          "publishedOn": "2022-06-23T19:05:33.000Z",
+          "wordCount": 855,
+          "title": "Internationaler Workshop Chisinau &quot;Digital History Projects in times of crisis and war&quot; (Bewerbung bis 30.06.22)"
+        },
+        {
           "id": "node/817",
           "author": "406",
           "description": "Das Sammeln, Archivieren und Bereitstellen des digitalen Mediums Computerspiel stellt GLAM-Institutionen vor zahlreiche Herausforderungen, die es möglichst homogen, aber auch mit…",
@@ -2342,6 +2360,15 @@
       "feedUrl": "https://digitaldemocracies.org/feed",
       "siteUrl": "https://digitaldemocracies.org",
       "articles": [
+        {
+          "id": "https://digitaldemocracies.org/?p=4017",
+          "author": "Kayla Hilstob",
+          "description": "Simon Fraser University has received $6.22 million (CAD) from the Mellon Foundation to support an effort to counter the impacts of discriminatory online misinformation and algorithms, and foster more just …\n  SFU researchers receive over $6 million to tackle online disinformation, foster data fluencies Read More »\nSFU researchers receive over $6 million to tackle online disinformation, foster data fluencies first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/sfu-researchers-receive-over-6-million-to-tackle-online-disinformation-foster-data-fluencies/?utm_source=rss&utm_medium=rss&utm_campaign=sfu-researchers-receive-over-6-million-to-tackle-online-disinformation-foster-data-fluencies",
+          "publishedOn": "2022-06-23T22:57:59.000Z",
+          "wordCount": 1034,
+          "title": "SFU researchers receive over $6 million to tackle online disinformation, foster data fluencies"
+        },
         {
           "id": "https://digitaldemocracies.org/?p=3985",
           "author": "Kayla Hilstob",
@@ -5223,6 +5250,24 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2022/06/24/the-trove-newspapers.html",
+          "author": null,
+          "description": "The Trove Newspapers section of the #GLAMWorkbench has been updated! Voilá was causing a problem in QueryPic, stopping results from being downloaded. A package update did the trick! Everything now updated & tested. glam-workbench.net/trove-new…",
+          "link": "https://updates.timsherratt.org/2022/06/24/the-trove-newspapers.html",
+          "publishedOn": "2022-06-24T06:38:04.000Z",
+          "wordCount": 50,
+          "title": "Untitled"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/06/24/some-more-glamworkbench.html",
+          "author": null,
+          "description": "Some more #GLAMWorkbench maintenance – this app to download a high-res page images from Trove newspapers now doesn’t require an API key if you have a url, & some display problems have been fixed. trove-newspaper-apps.herokuapp.com/voila/ren…",
+          "link": "https://updates.timsherratt.org/2022/06/24/some-more-glamworkbench.html",
+          "publishedOn": "2022-06-24T04:40:33.000Z",
+          "wordCount": 51,
+          "title": "Untitled"
+        },
+        {
           "id": "http://wragge.micro.blog/2022/06/23/the-trove-newspaper.html",
           "author": null,
           "description": "The Trove Newspaper and Gazette Harvester section of the #GLAMWorkbench has been updated! No major changes to notebooks, just lots of background maintenance stuff such as updating packages, testing, linting notebooks etc. glam-workbench.net/trove-har…",
@@ -7463,6 +7508,15 @@
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
         {
+          "id": "1529 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that Clare County Archives and Clare County Library Service have joined DRI as our 39th member. They are the ninth local authority service to join DRI.",
+          "link": "https://www.dri.ie/dri-welcomes-clare-county-archives-and-clare-county-library-service-new-member",
+          "publishedOn": "2022-06-23T08:26:34.000Z",
+          "wordCount": 924,
+          "title": "DRI welcomes Clare County Archives and Clare County Library Service as a new member"
+        },
+        {
           "id": "1528 at https://www.dri.ie",
           "author": "ainemadden",
           "description": "Ireland’s National Open Research Forum (NORF) has opened a call for Expressions of Interest for actions funded by the NORF 2022 Open Research Fund. This call targets six priority actions in Ireland’s National Action Plan for Open Research.",
@@ -8089,170 +8143,7 @@
       "title": "Comments on:",
       "feedUrl": "https://www.force11.org/blogs/feed",
       "siteUrl": null,
-      "articles": [
-        {
-          "id": "12488 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "IIHF World Juniors 2022 Live Stream We understand that you are looking forward to learning more about the IIHF World Junior Hockey Championship 2022. Well, gathering the necessary detailed information from a reliable site about this championship is a difficult task. We care about you, so we’ve compiled the most recent information about the IIHF 2022.\n===============================\nCLICK HERE TO WATCH LIVE\nCLICK HERE TO WATCH LIVE\n===============================\nThe IIHF junior championship is essentially a hockey championship league held every year and attracts contestants from all over Europe. The IIHF will be held this year in 2022. It will begin on December 26th, 2021. The championship, however, will last until January 5th, 2022, with the gold medal game.\nHowever, the event’s location …",
-          "link": "https://www.force11.org/blog/2022-world-junior-ice-hockey-championships-live",
-          "publishedOn": "2021-12-26T18:01:33.000Z",
-          "wordCount": 1310,
-          "title": "2022 World Junior Ice Hockey Championships Live"
-        },
-        {
-          "id": "12487 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "IIHF World Juniors 2022 Live Stream We understand that you are looking forward to learning more about the IIHF World Junior Hockey Championship 2022. Well, gathering the necessary detailed information from a reliable site about this championship is a difficult task. We care about you, so we’ve compiled the most recent information about the IIHF 2022.\n===============================\nCLICK HERE TO WATCH LIVE\nCLICK HERE TO WATCH LIVE\n===============================\nThe IIHF junior championship is essentially a hockey championship league held every year and attracts contestants from all over Europe. The IIHF will be held this year in 2022. It will begin on December 26th, 2021. The championship, however, will last until January 5th, 2022, with the gold medal game.\nHowever, the event’s location …",
-          "link": "https://www.force11.org/blog/2022-iihf-ice-hockey-world-championship-live-broadcast",
-          "publishedOn": "2021-12-26T18:00:53.000Z",
-          "wordCount": 1313,
-          "title": "2022 Iihf Ice Hockey World Championship LIVE @BROADCAST"
-        },
-        {
-          "id": "12486 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "IIHF World Juniors 2022 Live Stream We understand that you are looking forward to learning more about the IIHF World Junior Hockey Championship 2022. Well, gathering the necessary detailed information from a reliable site about this championship is a difficult task. We care about you, so we’ve compiled the most recent information about the IIHF 2022.\n===============================\nCLICK HERE TO WATCH LIVE\nCLICK HERE TO WATCH LIVE\n===============================\nThe IIHF junior championship is essentially a hockey championship league held every year and attracts contestants from all over Europe. The IIHF will be held this year in 2022. It will begin on December 26th, 2021. The championship, however, will last until January 5th, 2022, with the gold medal game.\nHowever, the event’s location …",
-          "link": "https://www.force11.org/blog/iihf-world-juniors-2022-live-stream",
-          "publishedOn": "2021-12-26T18:00:02.000Z",
-          "wordCount": 1307,
-          "title": "IIHF World Juniors 2022 Live Stream"
-        },
-        {
-          "id": "12485 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "IIHF World Juniors 2022 Live Stream We understand that you are looking forward to learning more about the IIHF World Junior Hockey Championship 2022. Well, gathering the necessary detailed information from a reliable site about this championship is a difficult task. We care about you, so we’ve compiled the most recent information about the IIHF 2022.\n===============================\nCLICK HERE TO WATCH LIVE\nCLICK HERE TO WATCH LIVE\n===============================\nThe IIHF junior championship is essentially a hockey championship league held every year and attracts contestants from all over Europe. The IIHF will be held this year in 2022. It will begin on December 26th, 2021. The championship, however, will last until January 5th, 2022, with the gold medal game.\nHowever, the event’s location …",
-          "link": "https://www.force11.org/blog/iihf-world-junior-championship-2022-live26122021",
-          "publishedOn": "2021-12-26T17:58:28.000Z",
-          "wordCount": 1310,
-          "title": "IIHF World Junior Championship 2022 | Live@26/12/2021"
-        },
-        {
-          "id": "12484 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Carolina Panthers vs Tampa Bay Buccaneers Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup be…",
-          "link": "https://www.force11.org/blog/carolina-panthers-vs-tampa-bay-buccaneers-live-online",
-          "publishedOn": "2021-12-26T17:07:43.000Z",
-          "wordCount": 1101,
-          "title": "Carolina Panthers vs Tampa Bay Buccaneers Live Online"
-        },
-        {
-          "id": "12483 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas New York Jets vs Jacksonville Jaguars Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwee…",
-          "link": "https://www.force11.org/blog/new-york-jets-vs-jacksonville-jaguars-live-online",
-          "publishedOn": "2021-12-26T17:06:57.000Z",
-          "wordCount": 1101,
-          "title": "New York Jets vs Jacksonville Jaguars Live Online"
-        },
-        {
-          "id": "12482 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Los Angeles Rams vs Minnesota Vikings Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwee…",
-          "link": "https://www.force11.org/blog/los-angeles-rams-vs-minnesota-vikings-live-online",
-          "publishedOn": "2021-12-26T17:06:12.000Z",
-          "wordCount": 1101,
-          "title": "Los Angeles Rams vs Minnesota Vikings Live Online"
-        },
-        {
-          "id": "12481 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Baltimore Ravens vs Cincinnati Bengals Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwe…",
-          "link": "https://www.force11.org/blog/baltimore-ravens-vs-cincinnati-bengals-live-online",
-          "publishedOn": "2021-12-26T17:05:25.000Z",
-          "wordCount": 1097,
-          "title": "Baltimore Ravens vs Cincinnati Bengals Live Online"
-        },
-        {
-          "id": "12480 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Atlanta Falcons vs Detroit Lions Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup between the…",
-          "link": "https://www.force11.org/blog/atlanta-falcons-vs-detroit-lions-live-online",
-          "publishedOn": "2021-12-26T17:04:45.000Z",
-          "wordCount": 1097,
-          "title": "Atlanta Falcons vs Detroit Lions Live Online"
-        },
-        {
-          "id": "12479 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Los Angeles Chargers vs Houston Texans Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwe…",
-          "link": "https://www.force11.org/blog/los-angeles-chargers-vs-houston-texans-live-online",
-          "publishedOn": "2021-12-26T17:03:58.000Z",
-          "wordCount": 1101,
-          "title": "Los Angeles Chargers vs Houston Texans Live Online"
-        },
-        {
-          "id": "12478 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Buffalo Bills vs New England Patriots Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwee…",
-          "link": "https://www.force11.org/blog/buffalo-bills-vs-new-england-patriots-live-online",
-          "publishedOn": "2021-12-26T17:03:10.000Z",
-          "wordCount": 1101,
-          "title": "Buffalo Bills vs New England Patriots Live Online"
-        },
-        {
-          "id": "12477 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Tampa Bay Buccaneers vs Carolina Panthers Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup be…",
-          "link": "https://www.force11.org/blog/tampa-bay-buccaneers-vs-carolina-panthers-live-streamreddit",
-          "publishedOn": "2021-12-26T17:00:37.000Z",
-          "wordCount": 1101,
-          "title": ">@Tampa Bay Buccaneers vs Carolina Panthers Live Stream@Reddit"
-        },
-        {
-          "id": "12476 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Jacksonville Jaguars vs New York Jets Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwee…",
-          "link": "https://www.force11.org/blog/jacksonville-jaguars-vs-new-york-jets-live-streamreddit",
-          "publishedOn": "2021-12-26T16:59:35.000Z",
-          "wordCount": 1101,
-          "title": ">@Jacksonville Jaguars vs New York Jets Live Stream@Reddit"
-        },
-        {
-          "id": "12475 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Minnesota Vikings vs Los Angeles Rams Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwee…",
-          "link": "https://www.force11.org/blog/minnesota-vikings-vs-los-angeles-rams-live-streamreddit",
-          "publishedOn": "2021-12-26T16:58:54.000Z",
-          "wordCount": 1101,
-          "title": ">@Minnesota Vikings vs Los Angeles Rams Live Stream@Reddit"
-        },
-        {
-          "id": "12474 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Cincinnati Bengals vs Baltimore Ravens Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwe…",
-          "link": "https://www.force11.org/blog/cincinnati-bengals-vs-baltimore-ravens-live-streamreddit",
-          "publishedOn": "2021-12-26T16:58:05.000Z",
-          "wordCount": 1097,
-          "title": ">@Cincinnati Bengals vs Baltimore Ravens Live Stream@Reddit"
-        },
-        {
-          "id": "12473 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Detroit Lions vs Atlanta Falcons Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup between the…",
-          "link": "https://www.force11.org/blog/detroit-lions-vs-atlanta-falcons-live-streamreddit",
-          "publishedOn": "2021-12-26T16:57:10.000Z",
-          "wordCount": 1097,
-          "title": ">@Detroit Lions vs Atlanta Falcons Live Stream@Reddit"
-        },
-        {
-          "id": "12472 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas Houston Texans vs Los Angeles Chargers Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwe…",
-          "link": "https://www.force11.org/blog/houston-texans-vs-los-angeles-chargers-live-streamreddit",
-          "publishedOn": "2021-12-26T16:56:24.000Z",
-          "wordCount": 1101,
-          "title": ">@Houston Texans vs Los Angeles Chargers Live Stream@Reddit"
-        },
-        {
-          "id": "12471 at https://www.force11.org",
-          "author": "Heather DuFresne",
-          "description": "NFL has turned Santa Claus! Christmas New England Patriots vs Buffalo Bills Live has some good news for basketball fans in India as the world’s top professional basketball league – NFL – has five blockbuster games lined up on Christmas Day 2021. All five games can be seen live on TV and on live streaming\n \nLive Stream: https://itvpro.org/nfl\n \nNeither team has gotten off to a great start to their current campaign -- both teams are currently positioned on the periphery of the crowded playoff picture in the Eastern Conference. Absences and injuries have played a part in both teams' slow starts, but both will be looking to bounce back over the remainder of the season, and a big win on Christmas would represent a solid start. \nChristmas Day 2021 starts with an Eastern Conference matchup betwee…",
-          "link": "https://www.force11.org/blog/new-england-patriots-vs-buffalo-bills-live-streamreddit",
-          "publishedOn": "2021-12-26T16:55:23.000Z",
-          "wordCount": 1101,
-          "title": ">@New England Patriots vs Buffalo Bills Live Stream@Reddit"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Japanese Association for Digital Humanities",
