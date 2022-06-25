@@ -870,6 +870,24 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11161",
+          "author": "Heloise schibler",
+          "description": "Frédéric Kaplan et Isabella di Leonardo, tout deux membres du dhCenter, interviennent dans un excellent reportage de la RTS sur le projet Lausanne Time Machine, présenté lors des DHdays 2022. “Un projet de l’EPFL et de l’UNIL mêlant patrimoine historique et intelligence artificielle montre Lausanne telle qu’elle était au XVIIe siècle.” Le reportage, diffusé dans […]\nThe post Le projet Lausanne Time Machine dans le 19h30 de la RTS appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/06/24/le-projet-lausanne-time-machine-dans-le-19h30-de-la-rts/",
+          "publishedOn": "2022-06-24T14:26:43.000Z",
+          "wordCount": 394,
+          "title": "Le projet Lausanne Time Machine dans le 19h30 de la RTS"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11147",
+          "author": "Heloise schibler",
+          "description": "S’inscrivant dans la problématique actuelle des frontières entre l’humain et le technologique, cette anthologie rassemble des écrits d’artistes, ainsi que des entretiens de metteurs en scène et performeurs travaillant avec la technologie numérique. Dirigée par Izabella Pluta (Centre d’études théâtrales), Scènes numériques réunit 65 contributions groupées en sept parties consacrées au temps, à l’espace, à […]\nThe post Scènes numériques. Anthologie critique d’écrits et d’entretiens d’artistes appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/06/24/scenes-numeriques-anthologie-critique-decrits-et-dentretiens-dartistes/",
+          "publishedOn": "2022-06-24T11:05:41.000Z",
+          "wordCount": 451,
+          "title": "Scènes numériques. Anthologie critique d’écrits et d’entretiens d’artistes"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=11123",
           "author": "Heloise schibler",
           "description": "The DARIAH research infrastructure is recruiting its new Director (M/F), to start on January 1, 2023. This is a half-time position (0.5 FTE), which will allow candidates to stay connected to the research world. The successful candidate will join the Board of Directors, along with the two existing Directors. Each director is appointed for a […]\nThe post Job: DARIAH’s Board of Directors is looking for a new member appeared first on dhCenter.",
@@ -2577,6 +2595,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=8419",
+          "author": "Cornelis van Lit",
+          "description": "For most beginners’ purposes, specialized DH tools (like Transkribus, Voyant Tools, or any specialized database) are already a major boost …",
+          "link": "https://digitalorientalist.com/2022/06/24/writing-from-right-to-left-in-a-left-to-right-digital-world/",
+          "publishedOn": "2022-06-24T14:00:00.000Z",
+          "wordCount": 1231,
+          "title": "Writing from right-to-left in a left-to-right digital world"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=8343",
           "author": "Jonathan Robker",
           "description": "This post serves as a quick introduction to a tool I recently found via Twitter: The Biblical Hebrew Reader Generator. …",
@@ -3663,6 +3690,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.78",
+          "author": null,
+          "description": "Motifs in folktales and myths have been identified and articulated by scholars, and the computational identification and discovery of such motifs is an area of ongoing research. Achieving this goal means meeting scientific requirements (that methods be comparable and replicable) and requirements for collaboration (that multi-disciplinary teams can reliably access data). To support those requirements, access to consistent reference datasets is needed. Unfortunately, these datasets are not openly available in a format that supports their use in data science. Here we report work in progress toward this goal, having converted the Ashliman Folktexts collection into a public dataset of annotated tale texts. The data can be accessed at doi.org/10.5281/zenodo.6575263.\n Published on 2022-06-24 11:47:11",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.78",
+          "publishedOn": "2022-06-25T08:15:10.629Z",
+          "wordCount": 5581,
+          "title": "Bearing a Bag-of-Tales: An Open Corpus of Annotated Folktales for Reproducible Research"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.72",
           "author": null,

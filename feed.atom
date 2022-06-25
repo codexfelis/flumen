@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-24T08:16:45.626Z</updated>
+    <updated>2022-06-25T08:15:26.080Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bearing a Bag-of-Tales: An Open Corpus of Annotated Folktales for Reproducible Research]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.78</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.78"/>
+        <updated>2022-06-25T08:15:10.629Z</updated>
+        <summary type="html"><![CDATA[Motifs in folktales and myths have been identified and articulated by scholars, and the computational identification and discovery of such motifs is an area of ongoing research. Achieving this goal means meeting scientific requirements (that methods be comparable and replicable) and requirements for collaboration (that multi-disciplinary teams can reliably access data). To support those requirements, access to consistent reference datasets is needed. Unfortunately, these datasets are not openly available in a format that supports their use in data science. Here we report work in progress toward this goal, having converted the Ashliman Folktexts collection into a public dataset of annotated tale texts. The data can be accessed at doi.org/10.5281/zenodo.6575263.
+ Published on 2022-06-24 11:47:11]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le projet Lausanne Time Machine dans le 19h30 de la RTS]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=11161</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/24/le-projet-lausanne-time-machine-dans-le-19h30-de-la-rts/"/>
+        <updated>2022-06-24T14:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Frédéric Kaplan et Isabella di Leonardo, tout deux membres du dhCenter, interviennent dans un excellent reportage de la RTS sur le projet Lausanne Time Machine, présenté lors des DHdays 2022. “Un projet de l’EPFL et de l’UNIL mêlant patrimoine historique et intelligence artificielle montre Lausanne telle qu’elle était au XVIIe siècle.” Le reportage, diffusé dans […]
+The post Le projet Lausanne Time Machine dans le 19h30 de la RTS appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing from right-to-left in a left-to-right digital world]]></title>
+        <id>http://digitalorientalist.com/?p=8419</id>
+        <link href="https://digitalorientalist.com/2022/06/24/writing-from-right-to-left-in-a-left-to-right-digital-world/"/>
+        <updated>2022-06-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For most beginners’ purposes, specialized DH tools (like Transkribus, Voyant Tools, or any specialized database) are already a major boost …]]></summary>
+        <author>
+            <name>Cornelis van Lit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scènes numériques. Anthologie critique d’écrits et d’entretiens d’artistes]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=11147</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/24/scenes-numeriques-anthologie-critique-decrits-et-dentretiens-dartistes/"/>
+        <updated>2022-06-24T11:05:41.000Z</updated>
+        <summary type="html"><![CDATA[S’inscrivant dans la problématique actuelle des frontières entre l’humain et le technologique, cette anthologie rassemble des écrits d’artistes, ainsi que des entretiens de metteurs en scène et performeurs travaillant avec la technologie numérique. Dirigée par Izabella Pluta (Centre d’études théâtrales), Scènes numériques réunit 65 contributions groupées en sept parties consacrées au temps, à l’espace, à […]
+The post Scènes numériques. Anthologie critique d’écrits et d’entretiens d’artistes appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>http://wragge.micro.blog/2022/06/24/the-trove-newspapers.html</id>
