@@ -3052,15 +3052,6 @@
           "publishedOn": "2021-12-31T13:00:00.000Z",
           "wordCount": 1676,
           "title": "The Digital Orientalist’s Recap of 2021"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7323",
-          "author": "Jonathan Robker",
-          "description": "Organizing browser items in a heavy online workflow can present challenges. Opening one tab inevitably leads to opening more tabs …",
-          "link": "https://digitalorientalist.com/2021/12/28/organizing-browser-heavy-workflows/",
-          "publishedOn": "2021-12-28T13:00:00.000Z",
-          "wordCount": 1751,
-          "title": "Organizing Browser-heavy Workflows"
         }
       ]
     },
@@ -5285,6 +5276,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/06/26/noticed-that-querypic.html",
+          "author": null,
+          "description": "Noticed that QueryPic was having a problem with some date queries. Should be fixed in the latest release of the Trove Newspapers section of the #GLAMWorkbench: glam-workbench.net/trove-new… #maintenance #researchinfrastructure",
+          "link": "https://updates.timsherratt.org/2022/06/26/noticed-that-querypic.html",
+          "publishedOn": "2022-06-26T01:48:52.000Z",
+          "wordCount": 45,
+          "title": "Untitled"
+        },
         {
           "id": "http://wragge.micro.blog/2022/06/24/the-trove-newspapers.html",
           "author": null,

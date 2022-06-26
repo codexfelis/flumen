@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-25T08:15:26.080Z</updated>
+    <updated>2022-06-26T08:15:12.215Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/06/26/noticed-that-querypic.html</id>
+        <link href="https://updates.timsherratt.org/2022/06/26/noticed-that-querypic.html"/>
+        <updated>2022-06-26T01:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Noticed that QueryPic was having a problem with some date queries. Should be fixed in the latest release of the Trove Newspapers section of the #GLAMWorkbench: glam-workbench.net/trove-new… #maintenance #researchinfrastructure]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bearing a Bag-of-Tales: An Open Corpus of Annotated Folktales for Reproducible Research]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.78</id>
@@ -11015,16 +11025,6 @@ Since joining CLARIN as an observer, a number of activities have been organised 
  Published on 2021-12-29 11:51:43]]></summary>
         <author>
             <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organizing Browser-heavy Workflows]]></title>
-        <id>http://digitalorientalist.com/?p=7323</id>
-        <link href="https://digitalorientalist.com/2021/12/28/organizing-browser-heavy-workflows/"/>
-        <updated>2021-12-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizing browser items in a heavy online workflow can present challenges. Opening one tab inevitably leads to opening more tabs …]]></summary>
-        <author>
-            <name>Jonathan Robker</name>
         </author>
     </entry>
     <entry>
