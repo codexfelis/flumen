@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-27T08:18:08.055Z</updated>
+    <updated>2022-06-28T08:18:14.043Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025 rare books for Louvain 2025]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1148</id>
+        <link href="https://scholarlytales.hcommons.org/2022/06/28/2025-rare-books-for-louvain-2025/"/>
+        <updated>2022-06-28T07:53:48.000Z</updated>
+        <summary type="html"><![CDATA[In 2025, it will be 600 years since a university was founded in Leuven, the forerunner of today’s KU Leuven. In anticipation to these festivities, KU Leuven Libraries, in collaboration with UCLouvain, is putting its academic collection in the spotlight. Thanks to the efforts of the past months and years, images of 2025 rare books published by Leuven professors have now been uploaded to the Lovaniensia platform. However, this enormous growth – in May 2020, about 400 works were available...]]></summary>
+        <author>
+            <name>Rebecca Burke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/06/28/ahead-of-my.html</id>
+        <link href="https://updates.timsherratt.org/2022/06/28/ahead-of-my.html"/>
+        <updated>2022-06-27T22:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of my session at #OzHA2022 tomorrow, I’ve updated the NAA section of the  #GLAMWorkbench. Come along to find out how to harvest file details, digitsed images, and PDFs, from a search in RecordSearch! github.com/GLAM-Work…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing… Kalle Westerling]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=2291</id>
+        <link href="https://livingwithmachines.ac.uk/introducing-kalle-westerling/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introducing-kalle-westerling"/>
+        <updated>2022-06-27T13:24:51.000Z</updated>
+        <summary type="html"><![CDATA[We’ve asked each member of the Living with Machines team to introduce themselves in their initial blog post. What’s your name? Kalle Westerling. What’s your background? Prior to working with Living with Machines, I completed my PhD in Theatre and Performance at the City University of New York (CUNY). My academic interest lies in the […]]]></summary>
+        <author>
+            <name>Kalle Westerling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1629 – Commentaria ad Rehtoricam]]></title>
+        <id>http://schoenberginstitute.org/?p=16972</id>
+        <link href="https://schoenberginstitute.org/2022/06/27/manuscript-monday-ms-codex-1629-commentaria-ad-rehtoricam/"/>
+        <updated>2022-06-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1629, an early Renaissance commentary on most of the Rhetorica ad Herennium, the earliest comprehensive Latin treatise on rhetoric, attributed to Cicero throughout the Middle Ages. It was written in Italy in 1342 (accordingContinue reading "Manuscript Monday: Ms. Codex 1629 – Commentaria ad Rehtoricam"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cornell University :  2023-24 Society for the Humanities Fellowships]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=11170</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/27/cornell-university-2023-24-society-for-the-humanities-fellowships/"/>
+        <updated>2022-06-27T08:55:19.000Z</updated>
+        <summary type="html"><![CDATA[The Society for the Humanities at Cornell University invites applications for residential fellowships from scholars whose research projects reflect on the 2023-24 theme of Crossing. Up to six Fellows will be appointed. The fellowships are held for one academic year. Each Society Fellow will receive $56,000. “Crossing begins by opening a possibility: to meet or to pass by, […]
+The post Cornell University :  2023-24 Society for the Humanities Fellowships appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Humanities Intern – Isabel]]></title>
         <id>https://digitalhumanities.exeter.ac.uk/?p=896</id>
@@ -11125,17 +11176,6 @@ Since joining CLARIN as an observer, a number of activities have been organised 
         <updated>2021-12-31T08:14:15.022Z</updated>
         <summary type="html"><![CDATA[These are the first normalized, peer-reviewed, and morphologically enriched datasets to be published based on the reconstructions of Marcion’s Gospel by Matthias Klinghardt and Andrea Nicolotti. Two files were generated for each reconstruction: the first consisting of human-readable Postclassical Greek; the second of lemmatized and morphologically tagged text following the openly licensed BibleWorks Greek Morphology schema. Among several recent critical reconstructions of Marcion’s Gospel, those of Klinghardt and Nicolotti stand out as ambitiously maximalist and fully continuous, with considerably higher word counts than found in other recent reconstructions. These are the fourth and final batch in a series of normalized and enriched Greek datasets of major reconstructions of Marcion’s Gospel published by JOHD.
  Published on 2021-12-30 12:08:10]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Normalized Datasets of Hahn’s and Zahn’s Reconstructions of Marcion’s <i>Gospel</i>]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.63</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.63"/>
-        <updated>2021-12-30T08:14:15.571Z</updated>
-        <summary type="html"><![CDATA[These four datasets are the first born-digital, normalized, lexicographically enriched, and peer-reviewed versions of the reconstructions of Marcion’s Gospel made by August Hahn in 1832 and Theodor Zahn in 1892. Two dataset files were generated for each reconstruction: the first consisting of human-readable Postclassical Greek; the second of lemmatized and morphologically tagged text following the openly licensed BibleWorks Greek Morphology schema. These datasets represent another batch in a series of normalized and enriched datasets of major reconstructions of Marcion’s Gospel published by JOHD.
- Published on 2021-12-29 11:51:43]]></summary>
         <author>
             <name>Journal of Open Humanities Data Latest Articles</name>
         </author>
