@@ -1882,6 +1882,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/820",
+          "author": "406",
+          "description": "Am 17. Juli 2022 jährt sich die Gründung des DHd-Verbands zum 10. Mal!\nWir wollen zu diesem freudigen Anlass die Community dazu einzuladen, ihre Erinnerungen an die Gründung oder…",
+          "link": "https://dig-hum.de/aktuelles/save-the-date-am-17072022-wird-der-dhd-10-jahre",
+          "publishedOn": "2022-06-28T19:24:04.000Z",
+          "wordCount": 792,
+          "title": "Save the Date: Am 17.07.2022 wird der DHd 10 Jahre!"
+        },
+        {
           "id": "node/819",
           "author": "406",
           "description": "Mit über sechs Millionen Medien und mehr als einer halben Million Besucherinnen und Besucher pro Jahr ist die Zentralbibliothek Zürich eine der grössten Schweizer Bibliotheken.…",
@@ -2388,6 +2397,15 @@
       "siteUrl": "https://digitaldemocracies.org",
       "articles": [
         {
+          "id": "https://digitaldemocracies.org/?p=4036",
+          "author": "Kayla Hilstob",
+          "description": "This post was written by Anthony Burton, PhD Candidate and researcher at the Digital Democracies Institute, on the Beyond Verification:Authenticity and the Spread of Mis/Disinformation project. Dr. Jonathan Beller, Professor in …\n  Jonathan Beller – Poetry Against Calamity: Decolonial Ecography and Post-Capitalist Economic Media Read More »\nJonathan Beller – Poetry Against Calamity: Decolonial Ecography and Post-Capitalist Economic Media first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/jonathan-beller-poetry-against-calamity-decolonial-ecography-and-post-capitalist-economic-media/?utm_source=rss&utm_medium=rss&utm_campaign=jonathan-beller-poetry-against-calamity-decolonial-ecography-and-post-capitalist-economic-media",
+          "publishedOn": "2022-06-28T19:13:46.000Z",
+          "wordCount": 1125,
+          "title": "Jonathan Beller – Poetry Against Calamity: Decolonial Ecography and Post-Capitalist Economic Media"
+        },
+        {
           "id": "https://digitaldemocracies.org/?p=4017",
           "author": "Kayla Hilstob",
           "description": "Simon Fraser University has received $6.22 million (CAD) from the Mellon Foundation to support an effort to counter the impacts of discriminatory online misinformation and algorithms, and foster more just …\n  SFU researchers receive over $6 million to tackle online disinformation, foster data fluencies Read More »\nSFU researchers receive over $6 million to tackle online disinformation, foster data fluencies first appeared on Digital Democracies Institute.",
@@ -2612,6 +2630,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=8455",
+          "author": "DaigengnaDuoer",
+          "description": "The Digital Orientalist is happy to announce its annual open call for editors, contributors, and team members. We would be …",
+          "link": "https://digitalorientalist.com/2022/06/28/open-call-for-editors-contributors-and-team-members-2022/",
+          "publishedOn": "2022-06-28T13:00:00.000Z",
+          "wordCount": 576,
+          "title": "Open Call for Editors, Contributors, and Team Members 2022"
+        },
         {
           "id": "http://digitalorientalist.com/?p=8419",
           "author": "Cornelis van Lit",
@@ -3061,15 +3088,6 @@
           "publishedOn": "2022-01-04T13:00:00.000Z",
           "wordCount": 1179,
           "title": "Data Cleaning Chinese Text with OpenRefine: Facet"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7540",
-          "author": "DaigengnaDuoer",
-          "description": "With a larger and more diverse editorial team, the Digital Orientalist has published 92 posts in total in the year …",
-          "link": "https://digitalorientalist.com/2021/12/31/the-digital-orientalists-recap-of-2021/",
-          "publishedOn": "2021-12-31T13:00:00.000Z",
-          "wordCount": 1676,
-          "title": "The Digital Orientalist’s Recap of 2021"
         }
       ]
     },
@@ -3851,15 +3869,6 @@
           "publishedOn": "2022-01-03T11:07:09.862Z",
           "wordCount": 1997,
           "title": "Corpus of the Epigraphy of the Italian Peninsula in the 1<sup>st</sup> Millennium BCE (CEIPoM)"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.70",
-          "author": null,
-          "description": "These are the first normalized, peer-reviewed, and morphologically enriched datasets to be published based on the reconstructions of Marcion’s Gospel by Matthias Klinghardt and Andrea Nicolotti. Two files were generated for each reconstruction: the first consisting of human-readable Postclassical Greek; the second of lemmatized and morphologically tagged text following the openly licensed BibleWorks Greek Morphology schema. Among several recent critical reconstructions of Marcion’s Gospel, those of Klinghardt and Nicolotti stand out as ambitiously maximalist and fully continuous, with considerably higher word counts than found in other recent reconstructions. These are the fourth and final batch in a series of normalized and enriched Greek datasets of major reconstructions of Marcion’s Gospel published by JOHD.\n Published on 2021-12-30 12:08:10",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.70",
-          "publishedOn": "2021-12-31T08:14:15.022Z",
-          "wordCount": 3561,
-          "title": "Normalized Datasets of Klinghardt’s and Nicolotti’s Reconstructions of Marcion’s Gospel"
         }
       ]
     },
@@ -4171,6 +4180,20 @@
       "feedUrl": "https://review.gale.com/category/digital-humanities/feed",
       "siteUrl": "https://review.gale.com",
       "articles": [
+        {
+          "id": "https://review.gale.com/?p=13497",
+          "author": "Gale Review Team",
+          "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ Getting to grips with the scope and content of a digital primary source archive held by an institution’s library can be daunting, particularly if the archive consists of thousands of documents in a variety of formats. For an individual researcher, the task of sifting through vast quantities ... Read more\nThe post Separating the Wheat from the Chaff: Identifying Themes and Topics in Archives Using Gale Digital Scholar Lab appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2022/06/28/identifying-themes-and-topics-in-archives-using-gale-digital-scholar-lab/?utm_source=rss&utm_medium=rss&utm_campaign=identifying-themes-and-topics-in-archives-using-gale-digital-scholar-lab",
+          "publishedOn": "2022-06-28T09:00:00.000Z",
+          "wordCount": 1649,
+          "title": "Separating the Wheat from the Chaff: Identifying Themes and Topics in Archives Using Gale Digital Scholar Lab",
+          "enclosure": {
+            "url": "https://review.gale.com/wp-content/uploads/2022/06/06.-Notes-from-a-DH-Correspondent-June.png",
+            "length": "2053790",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://review.gale.com/?p=13448",
           "author": "Gale Ambassadors",
