@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-06-30T08:03:54.919Z</updated>
+    <updated>2022-07-01T15:05:20.790Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Editors, Contributors, and What we do at the Digital Orientalist]]></title>
+        <id>http://digitalorientalist.com/?p=8459</id>
+        <link href="https://digitalorientalist.com/2022/07/01/editors-contributors-and-what-we-do-at-the-digital-orientalist/"/>
+        <updated>2022-07-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A driving idea behind our magazine is direct experience: If you want to learn DH, why not immediately write about …]]></summary>
+        <author>
+            <name>maddalena poli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Educational Resources in the UK]]></title>
+        <id>https://www.rluk.ac.uk/?p=12182</id>
+        <link href="https://www.rluk.ac.uk/oers-in-the-uk/"/>
+        <updated>2022-07-01T11:42:06.000Z</updated>
+        <summary type="html"><![CDATA[I was recently asked to speak at the sherif event Open Educational Resources: a viable solution? I took the opportunity to look back at the headline history of OER advocacy and activity internationally with a view to see how these might inform the future of OERs in the UK. As a long-term [...]
+The post Open Educational Resources in the UK appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Virtual Coffee Morning: July]]></title>
+        <id>1530 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-virtual-coffee-morning-july"/>
+        <updated>2022-07-01T09:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Date: 
+
+27 Jul 2022
+
+
+Location: 
+
+Zoom
+
+
+
+July’s coffee morning will take place on Wednesday 27 of July at 10.00 am for forty-five minutes. This extended coffee morning will be hosted by DRI members Joe Lee (Joe Lee Community Films), and Emma Bowell (Cork Community Media Hub) who will be discussing the digital preservation of audio-visual material.]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Éducation et formation : inclusion, numérique et bien-être]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=11208</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/30/education-et-formation-inclusion-numerique-et-bien-etre/"/>
+        <updated>2022-06-30T13:40:50.000Z</updated>
+        <summary type="html"><![CDATA[Trois congrès internationaux dans le domaine de l’éducation et de la formation, habituellement organisés de façon indépendante, seront réuni à l’Université de Lausanne en septembre 2022 lors de la semaine internationale de l’éducation et de la formation (SIEF). Le format de cet événement vise à favoriser le dialogue entre les différentes disciplines, institutions et espaces […]
+The post Éducation et formation : inclusion, numérique et bien-être appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IARLA – The Great Resignation era: attracting and retaining library talent]]></title>
+        <id>https://www.rluk.ac.uk/?p=12173</id>
+        <link href="https://www.rluk.ac.uk/iarla-the-great-resignation-era-attracting-and-retaining-library-talent/"/>
+        <updated>2022-06-30T10:48:47.000Z</updated>
+        <summary type="html"><![CDATA[IARLA (ARL, CARL, CAUL, LIBER and RLUK) hosted an online event on 14 June 2022 on the Great Resignation. Over 100 individuals attended from Australia, Canada, Europe, the United Kingdom and the United States. In a wide-ranging discussion, panelists and delegates shared their views and opinions regarding the talent crunch for research libraries, how [...]
+The post IARLA – The Great Resignation era: attracting and retaining library talent appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Égalité de genre et transformation numérique]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=11198</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/30/egalite-de-genre-et-transformation-numerique/"/>
+        <updated>2022-06-30T09:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Le projet “Égalité de genre et transformation numérique” est le fruit d’une collaboration entre le Bureau de l’égalité de l’UNIL, le Bureau de l’égalité de l’EPFL, la HES-SO, la HEG-FR, le dhCenter UNIL-EPFL et l’association StrukturELLE. Il est soutenu par Swissuniversities, dans le cadre du programme de financement de projets P7 “Diversité, inclusion et égalité […]
+The post Égalité de genre et transformation numérique appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer School „Visual Data Literacy“ (19.-21.9.22, LMU München)]]></title>
         <id>node/821</id>
@@ -892,18 +967,6 @@ Head to the Libraries Tasmania catalogue and try it!
 Let me know if you strike any problems. #dhhacks]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DLCL ATS round-up, winter & spring 2022]]></title>
-        <id>876 at https://digitalhumanities.stanford.edu</id>
-        <link href="https://digitalhumanities.stanford.edu/dlcl-ats-round-winter-spring-2022"/>
-        <updated>2022-06-15T17:59:49.000Z</updated>
-        <summary type="html"><![CDATA[In almost four years at Stanford, I've never missed one of my quarterly round-ups, but March 2022 was unlike any other month of my life. When Russia invaded Ukraine at the end of February, I ended up getting together with Anna Kijas from Tufts and Sebastian Majstorovic from the Austrian Center for Digital Humanities and Cultural Heritage to co-found Saving Ukrainian Cultural Heritage Online (SUCHO), a rapid-response DH effort that's brought together over 1,300 volunteers from around the world to archive Ukrainian cultural heritage websites. Especially for the first six weeks, it consumed my life day and night; writing up winter quarter wasn't a priority. But summer starts this week, and before I get too caught up in summer plans, it's time for a look back over the last half-year.
-Classes
-W…]]></summary>
-        <author>
-            <name>Quinn Dombrowski</name>
         </author>
     </entry>
     <entry>
@@ -10373,19 +10436,6 @@ This month’s Impact Story illustrates the possibility to trace, almost in real
  24 January 2022]]></summary>
         <author>
             <name>Karina Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATS Revisited: I still love my job after 3 years, and you might, too]]></title>
-        <id>871 at https://digitalhumanities.stanford.edu</id>
-        <link href="https://digitalhumanities.stanford.edu/ats-revisited-i-still-love-my-job-after-3-years-and-you-might-too"/>
-        <updated>2022-01-24T04:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Almost three years ago, I wrote a blog post about how much I liked my job as an Academic Technology Specialist in Stanford's Division of Literatures, Cultures, and Languages. We had a position open for the same position based out of History, and I hoped to go beyond the weird title and expansive job description to get at what it's actually like to do this job.
-Once again, we've got an opening for a History ATS. There's been a few changes to the job description -- including one that impacts my earlier blog post -- but most of what I wrote there still stands. If you're interested in what it looks like to do this job, go read that blog post first, then come back here for a few new details and thoughts.
-Term-limited position
-Unlike the previous History ATS job posting, this time the listing is…]]></summary>
-        <author>
-            <name>Quinn Dombrowski</name>
         </author>
     </entry>
     <entry>
