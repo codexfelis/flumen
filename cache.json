@@ -430,6 +430,15 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/?p=34960",
+          "author": "Heather Stallard",
+          "description": "Over his lifetime, Charles Darwin generated an enormous written archive and amassed a wide array of specimens and objects. Much of this is now housed amongst the various collections at the University of Cambridge. Cambridge University Library houses an archive of Darwin’s personal and scientific manuscripts that occupy sixty linear metres of shelving. Work is […]\nThe post Dimensions of Darwin first appeared on CDH.",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/",
+          "publishedOn": "2022-06-30T13:36:13.000Z",
+          "wordCount": 1010,
+          "title": "Dimensions of Darwin"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/?p=34175",
           "author": "Heather Stallard",
           "description": "My animation for the Cambridge Cultural Heritage Data School 2022 public event (Anti)Colonial archives in the digital age is an alternative form of record: a kind of visual minute-taking. As with all minutes (and indeed all archives?), it is partial, informed by my own impression of the talks and discussions that took place. It might […]\nThe post A space for reflection: (Anti)Colonial archives in the digital age first appeared on CDH.",
@@ -3871,15 +3880,6 @@
           "publishedOn": "2022-01-13T08:15:45.527Z",
           "wordCount": 7580,
           "title": "From Static to Interactive Maps: Drawing Diachronic Maps of (Latin) Modality with <i>Pygmalion</i>"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.65",
-          "author": null,
-          "description": "The Corpus of the Epigraphy of the Italian Peninsula in the 1st Millennium BCE (CEIPoM) is a linguistic database which covers the Oscan, Umbrian, Old Sabellic, Messapic and Venetic languages, as well as epigraphic Latin up to 100 BCE. The database is hosted on GitHub and Zenodo, and provides manually annotated linguistic information on all levels of language structure, ranging from phonology to syntax. In providing a high-resolution digital dataset for language varieties that have until now been largely restricted to printed reference works, this corpus opens up new avenues for research into this unique ancient linguistic area.\n Published on 2022-01-03 09:56:16",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.65",
-          "publishedOn": "2022-01-03T11:07:09.862Z",
-          "wordCount": 1997,
-          "title": "Corpus of the Epigraphy of the Italian Peninsula in the 1<sup>st</sup> Millennium BCE (CEIPoM)"
         }
       ]
     },
@@ -6366,6 +6366,24 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/",
+          "author": null,
+          "description": "Over his lifetime, Charles Darwin generated an enormous written archive and amassed a wide array of specimens and objects. Much of this is now housed amongst the various collections at the University of Cambridge. Cambridge University Library houses an archive of Darwin’s personal and scientific manuscripts that occupy sixty linear metres of shelving. Work is",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/",
+          "publishedOn": "2022-06-30T15:48:26.000Z",
+          "wordCount": 1010,
+          "title": "Dimensions of Darwin"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/governance/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/governance/",
+          "publishedOn": "2022-06-30T14:03:47.000Z",
+          "wordCount": 455,
+          "title": "Governance"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/",
           "author": null,

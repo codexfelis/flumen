@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-07-01T15:05:20.790Z</updated>
+    <updated>2022-07-02T08:03:55.382Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -49,6 +49,25 @@ July’s coffee morning will take place on Wednesday 27 of July at 10.00 am for 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dimensions of Darwin]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/"/>
+        <updated>2022-06-30T15:48:26.000Z</updated>
+        <summary type="html"><![CDATA[Over his lifetime, Charles Darwin generated an enormous written archive and amassed a wide array of specimens and objects. Much of this is now housed amongst the various collections at the University of Cambridge. Cambridge University Library houses an archive of Darwin’s personal and scientific manuscripts that occupy sixty linear metres of shelving. Work is]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governance]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/governance/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/governance/"/>
+        <updated>2022-06-30T14:03:47.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Éducation et formation : inclusion, numérique et bien-être]]></title>
         <id>https://dhcenter-unil-epfl.ch/?p=11208</id>
         <link href="https://dhcenter-unil-epfl.ch/en/2022/06/30/education-et-formation-inclusion-numerique-et-bien-etre/"/>
@@ -57,6 +76,17 @@ July’s coffee morning will take place on Wednesday 27 of July at 10.00 am for 
 The post Éducation et formation : inclusion, numérique et bien-être appeared first on dhCenter.]]></summary>
         <author>
             <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dimensions of Darwin]]></title>
+        <id>https://www.cdh.cam.ac.uk/?p=34960</id>
+        <link href="https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/"/>
+        <updated>2022-06-30T13:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Over his lifetime, Charles Darwin generated an enormous written archive and amassed a wide array of specimens and objects. Much of this is now housed amongst the various collections at the University of Cambridge. Cambridge University Library houses an archive of Darwin’s personal and scientific manuscripts that occupy sixty linear metres of shelving. Work is […]
+The post Dimensions of Darwin first appeared on CDH.]]></summary>
+        <author>
+            <name>Heather Stallard</name>
         </author>
     </entry>
     <entry>
@@ -11277,17 +11307,6 @@ I have been trained in computer science with a specialisation in NLP. My thesis 
 Since joining CLARIN as an observer, a number of activities have been organised to help French researchers understand what CLARIN can do for them. On 16 November 2018, the CA2LI research team of the CLARIN-FR member 'Laboratoire de Recherche sur le Langage' hosted a study day entitled ‘Lier recherche et formation professionnelle: des corpus à l'interface’ (Corpora at the Interface between Research and Vocational Training) at the Maison des Sciences de l’Homme, Université Clermont Auvergne (France). The main goal was to bring together researchers, trainers, and practitioners in the fields of language sciences, education, and healthcare to discuss ways in which multi-modal research corpora can be exploited from a pedagogical perspective for vocation…]]></summary>
         <author>
             <name>Karina Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corpus of the Epigraphy of the Italian Peninsula in the 1<sup>st</sup> Millennium BCE (CEIPoM)]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.65</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.65"/>
-        <updated>2022-01-03T11:07:09.862Z</updated>
-        <summary type="html"><![CDATA[The Corpus of the Epigraphy of the Italian Peninsula in the 1st Millennium BCE (CEIPoM) is a linguistic database which covers the Oscan, Umbrian, Old Sabellic, Messapic and Venetic languages, as well as epigraphic Latin up to 100 BCE. The database is hosted on GitHub and Zenodo, and provides manually annotated linguistic information on all levels of language structure, ranging from phonology to syntax. In providing a high-resolution digital dataset for language varieties that have until now been largely restricted to printed reference works, this corpus opens up new avenues for research into this unique ancient linguistic area.
- Published on 2022-01-03 09:56:16]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
         </author>
     </entry>
     <entry>
