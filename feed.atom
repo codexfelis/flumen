@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-07-03T08:03:31.759Z</updated>
+    <updated>2022-07-04T08:03:43.696Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities Intern – Maya]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=915</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2022/07/digital-humanities-intern-maya/"/>
+        <updated>2022-07-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What a year! I have loved working at the Digital Humanities Lab over my third year at Exeter – I have had the opportunity to try so many different activities and have seen a side of the History Faculty and Department I would not normally get to experience as a student. Most enlightening has been […]]]></summary>
+        <author>
+            <name>Gemma Poulton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Editors, Contributors, and What we do at the Digital Orientalist]]></title>
         <id>http://digitalorientalist.com/?p=8459</id>
@@ -2541,6 +2551,16 @@ Click on the bookmarklet.
 This little hack provides a bit of ‘glue’ to help researchers think their about search results as data, and explore other possibilities for download and analysis. #dhhacks]]></summary>
         <author>
             <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aaDH’s Executive Committee for 2022]]></title>
+        <id>https://aa-dh.org/?p=479</id>
+        <link href="https://aa-dh.org/2022/05/20/aadhs-executive-committee-for-2022/"/>
+        <updated>2022-05-20T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[The current executive committee for aaDH is as follows: President: Associate Professor Rachel Hendery, Western Sydney University Vice-President: Dr Tully Barnett, Flinders UniversitySecretary: Dr Simon Musgrave, Monash University Communications Manager: Dr Tyne Daile Sumner, University of MelbourneTreasurer: Dr Susan Ford, Australian National University Member: Dr Terhi Nurmikko-Fuller, Australian National UniversityMember: Alexander Ritchie, University of OtagoMember: … Continue reading "aaDH’s Executive Committee for 2022"]]></summary>
+        <author>
+            <name>Tully Barnett</name>
         </author>
     </entry>
     <entry>
@@ -9932,6 +9952,16 @@ For the Webex link please contact Adelina Stefan at oana.stefan@uni.lu.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DHA2021 Conference Paper Awards]]></title>
+        <id>https://aa-dh.org/?p=484</id>
+        <link href="https://aa-dh.org/2022/02/01/dha2021-conference-paper-awards/"/>
+        <updated>2022-02-01T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2021 Digital Humanities Australia conference, the biennial conference of the Australasian Association for Digital Humanities, was hosted by Canterbury University with the theme “Ka Renarena Te Taukaea | Creating Communities”. While the quality of the research shared across the whole conference was very high, the conference committee awarded a series of highly commended papers … Continue reading "DHA2021 Conference Paper Awards"]]></summary>
+        <author>
+            <name>Tully Barnett</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DRI Virtual Coffee Morning - February]]></title>
         <id>1463 at https://www.dri.ie</id>
         <link href="https://www.dri.ie/dri-virtual-coffee-morning-february"/>
@@ -11218,26 +11248,6 @@ The Flight into Egypt, Walters Art Museum, MS W.188, f.112r It’s been a rough 
         <summary type="html"><![CDATA[In December 2021, the Digital Repository of Ireland (DRI) collaborated with DRI members Dublin City Library and Archive (DLCA) to share images from the Fáilte Ireland Tourism Photographic Collection as part of an Archive Advent Calendar campaign. In a new blog, we reflect on what we learned by exploring this collection.]]></summary>
         <author>
             <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEUTE endet die Bewerbungsfrist für die DHd2022-Stipendien!]]></title>
-        <id>node/757</id>
-        <link href="https://dig-hum.de/aktuelles/heute-endet-die-bewerbungsfrist-f%C3%BCr-die-dhd2022-stipendien"/>
-        <updated>2022-01-05T16:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Zur DHd2022 in Potsdam vergeben der Verband »Digital Humanities im deutschsprachigen Raum e.V.«, das Konsortium »NFDI4Culture«, der Verein »Geistes- und kulturwissenschaftliche…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: Fachinformatiker*in im Bereich Musikinformatik/Digital Humanities (in Teilzeit, 50 %) Uni Bonn]]></title>
-        <id>node/756</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-fachinformatikerin-im-bereich-musikinformatikdigital-humanities-teilzeit-50"/>
-        <updated>2022-01-05T15:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Die Rheinische Friedrich-Wilhelms-Universität Bonn ist eine internationale Forschungsuniversität mit einem breiten Fächerspektrum. 200 Jahre Geschichte, rund 35.000 Studierende,…]]></summary>
-        <author>
-            <name>406</name>
         </author>
     </entry>
     <entry>
