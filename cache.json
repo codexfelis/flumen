@@ -168,6 +168,15 @@
       "siteUrl": "https://www.digitisation.eu",
       "articles": [
         {
+          "id": "https://www.digitisation.eu/event/liber-2022/",
+          "author": "Impact Centre of Competence",
+          "description": "Held in late June or early July, the conference brings library directors and their staff together for three days of ... \nRead More\nThe post LIBER 2022 appeared first on IMPACT Centre of Competence.",
+          "link": "https://www.digitisation.eu/event/liber-2022/",
+          "publishedOn": "2022-07-05T22:00:00.000Z",
+          "wordCount": 439,
+          "title": "LIBER 2022"
+        },
+        {
           "id": "https://www.digitisation.eu/?post_type=tribe_events&p=16688",
           "author": "Impact Centre of Competence",
           "description": "The General Assembly (GA) and the Web Archiving Conference (WAC) 2022 will be hosted online by the Library of Congress ... \nRead More\nThe post Web Archiving Conference 2022 appeared first on IMPACT Centre of Competence.",
@@ -3108,15 +3117,6 @@
           "publishedOn": "2022-01-11T13:00:00.000Z",
           "wordCount": 1027,
           "title": "From the Land of Braj: A Photographic Database"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7487",
-          "author": "Fatma Aladag",
-          "description": "The “Text Encoding Initiative” (TEI) offers the most comprehensive guide to the computerized coding of texts in the humanities field …",
-          "link": "https://digitalorientalist.com/2022/01/07/text-encoding-initiative-tei-for-ottoman-studies/",
-          "publishedOn": "2022-01-07T13:00:00.000Z",
-          "wordCount": 1610,
-          "title": "Text Encoding Initiative (TEI) for Ottoman Studies"
         }
       ]
     },
@@ -3183,6 +3183,15 @@
       "feedUrl": "https://eadh.org/feed",
       "siteUrl": "https://eadh.org/feed",
       "articles": [
+        {
+          "id": "1415 at https://eadh.org",
+          "author": "Communication Fellow",
+          "description": "25 Sep 2022 - 00:00\n\n\n\nCall for Applications: Ph.D. Fellowships in Digital Visual Studies\n\n\n\nThe Max Planck Society (MPG) and the University of Zurich (UZH) invite applications for interdisciplinary predoctoral fellowships in the field of Digital Visual Studies (DVS) for a duration of 1+2 years. The program is part of a 5-year cross-institutional Digital Humanities research project funded by the MPG, supported by the Bibliotheca Hertziana – Max Planck Institute for Art History (BHMPI) and collaborating with the Swiss Art Research Infrastructure (SARI) and the UZH Digital Society Initiative (DSI). \nThe fellows will carry out cutting-edge multidisciplinary research at the intersection of Art and Architectural History and Computer Science in a program specifically designed to tackle the curre…",
+          "link": "https://eadh.org/news/2022/07/05/call-applications-phd-fellowships-digital-visual-studies",
+          "publishedOn": "2022-07-05T15:16:39.000Z",
+          "wordCount": 962,
+          "title": "Call for Applications: Ph.D. Fellowships in Digital Visual Studies"
+        },
         {
           "id": "1414 at https://eadh.org",
           "author": "Communication Fellow",
@@ -4748,6 +4757,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17056",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to University of Pennsylvania Library’s Ms. Codex 1630, an early Renaissance commentary on most of the Rhetorica ad Herennium, a 15th-century copy of a systematic treatise on rhetoric composed in the first century B.C. and frequently attributed to CiceroContinue reading \"Manuscript Monday: Ms. Codex 1630 – Rhetorica ad Herennium\"",
+          "link": "https://schoenberginstitute.org/2022/07/05/manuscript-monday-ms-codex-1630-rhetorica-ad-herennium/",
+          "publishedOn": "2022-07-05T13:00:00.000Z",
+          "wordCount": 1130,
+          "title": "Manuscript Monday: Ms. Codex 1630 – Rhetorica ad Herennium"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=16972",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1629, an early Renaissance commentary on most of the Rhetorica ad Herennium, the earliest comprehensive Latin treatise on rhetoric, attributed to Cicero throughout the Middle Ages. It was written in Italy in 1342 (accordingContinue reading \"Manuscript Monday: Ms. Codex 1629 – Commentaria ad Rehtoricam\"",
@@ -4971,15 +4989,6 @@
           "publishedOn": "2022-01-12T21:04:30.000Z",
           "wordCount": 1214,
           "title": "Ms. Codex 1057: Ferial Psalter"
-        },
-        {
-          "id": "http://schoenberginstitute.org/2022/01/07/fragmentology-in-the-covid-era-classroom/",
-          "author": "simsmss",
-          "description": "Originally posted on Manuscript Road Trip: \nThe Flight into Egypt, Walters Art Museum, MS W.188, f.112r It’s been a rough few years, friends. We have all been through so much during the pandemic, and for students and teachers the pivots and policies have been particularly difficult and frustrating. Trying to stay safe, learning to teach…",
-          "link": "https://schoenberginstitute.org/2022/01/07/fragmentology-in-the-covid-era-classroom/",
-          "publishedOn": "2022-01-07T16:42:00.000Z",
-          "wordCount": 956,
-          "title": "Fragmentology in the COVID-era Classroom"
         }
       ]
     },
@@ -5248,15 +5257,6 @@
           "publishedOn": "2022-01-11T10:07:05.000Z",
           "wordCount": 786,
           "title": "CFP: DH Benelux Conference 2022"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=923",
-          "author": "Nele Noppe",
-          "description": "Starting this week, we’ll be posting weekly summaries of new digital scholarschip resources that were added to the Artes Digital Scholarship Community on Zotero (learn more about this group and join with your Zotero account to get the group’s resources right in Zotero on your desktop). In this inaugural edition, we have some great project management tips that are really about research data management (RDM), ways of using RSS feeds to keep track of updates on a website, how to...",
-          "link": "https://scholarlytales.hcommons.org/2022/01/07/new-digital-scholarship-resources-this-week-dec-21-28-2021/",
-          "publishedOn": "2022-01-07T15:30:04.000Z",
-          "wordCount": 1044,
-          "title": "New digital scholarship resources added over the winter holiday"
         }
       ]
     },
@@ -7740,6 +7740,24 @@
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
         {
+          "id": "1532 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "Applications are invited for the position of Project Manager, WorldFAIR at the Digital Repository of Ireland (DRI), located at the Royal Irish Academy.",
+          "link": "https://www.dri.ie/dri-hiring-project-manager-worldfair-0",
+          "publishedOn": "2022-07-05T16:01:49.000Z",
+          "wordCount": 848,
+          "title": "DRI is Hiring - Project Manager, WorldFAIR"
+        },
+        {
+          "id": "1531 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "Applications are invited for the position of Project Manager, WorldFAIR at the Digital Repository of Ireland (DRI), located at the Royal Irish Academy.",
+          "link": "https://www.dri.ie/dri-hiring-project-manager-worldfair",
+          "publishedOn": "2022-07-05T16:01:31.000Z",
+          "wordCount": 848,
+          "title": "DRI is Hiring - Project Manager, WorldFAIR"
+        },
+        {
           "id": "1530 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
           "description": "Date: \n\n27 Jul 2022\n\n\nLocation: \n\nZoom\n\n\n\nJuly’s coffee morning will take place on Wednesday 27 of July at 10.00 am for forty-five minutes. This extended coffee morning will be hosted by DRI members Joe Lee (Joe Lee Community Films), and Emma Bowell (Cork Community Media Hub) who will be discussing the digital preservation of audio-visual material.",
@@ -8359,15 +8377,6 @@
           "publishedOn": "2022-01-12T09:34:17.000Z",
           "wordCount": 824,
           "title": "Irish Unmarried Mothers in Britain - Speaker: ​Dr Lorraine Grimes"
-        },
-        {
-          "id": "1452 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "In December 2021, the Digital Repository of Ireland (DRI) collaborated with DRI members Dublin City Library and Archive (DLCA) to share images from the Fáilte Ireland Tourism Photographic Collection as part of an Archive Advent Calendar campaign. In a new blog, we reflect on what we learned by exploring this collection.",
-          "link": "https://www.dri.ie/exploring-failte-ireland-tourism-photographic-collection",
-          "publishedOn": "2022-01-07T11:37:46.000Z",
-          "wordCount": 1627,
-          "title": "Exploring the Fáilte Ireland Tourism Photographic Collection"
         }
       ]
     },
