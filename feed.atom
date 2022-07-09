@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-07-08T08:04:02.214Z</updated>
+    <updated>2022-07-09T08:03:42.195Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://wragge.micro.blog/2022/07/09/coz-i-love.html</id>
+        <link href="https://updates.timsherratt.org/2022/07/09/coz-i-love.html"/>
+        <updated>2022-07-09T07:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Coz I love making work for myself, I’ve started pulling datasets out of #GLAMWorkbench code repos & creating new data repos for them. This way they’ll have their own version histories in Zenodo. Here’s the first: github.com/GLAM-Work…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for DH Jobs in London 2022]]></title>
+        <id>https://blogs.ucl.ac.uk/dh/?p=8269</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2022/07/08/looking-for-dh-jobs-in-london-2022/"/>
+        <updated>2022-07-08T15:57:54.000Z</updated>
+        <summary type="html"><![CDATA[My postgraduate digital humanities students are working away diligently on their dissertations, but understandably they’ve also got one eye on what might come next. For most of them, that means a transition into the world of work. With a great set of interdisciplinary skills, the ability to talk tech, and an aptitude for humanistic ways […]]]></summary>
+        <author>
+            <name>Adam Crymble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Welcomes OS200 as a New Member]]></title>
+        <id>1533 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-welcomes-os200-new-member"/>
+        <updated>2022-07-08T13:28:12.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that the all-Ireland research project, OS200: Digitally Re-Mapping Ireland’s Ordnance Survey Heritage, has joined DRI as our fortieth member]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aufruf zur Blogparade zum 10. Jahrestag der Gründung des DHd-Verbands #DHd10]]></title>
+        <id>node/833</id>
+        <link href="https://dig-hum.de/aktuelles/aufruf-zur-blogparade-zum-10-jahrestag-der-gr%C3%BCndung-des-dhd-verbands-dhd10"/>
+        <updated>2022-07-08T11:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Am 17. Juli 2022 jährt sich die Gründung des DHd-Verbands in Hamburg zum 10. Mal! Aus diesem freudigen Anlass wollen wir mit der Community unter dem Motto „Der DHd-Verband feiert…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call for Open Volunteer Positions]]></title>
         <id>https://sites.caa-international.org/main/?p=16187</id>
@@ -11381,40 +11421,6 @@ The post Réflexions sur les humanités numériques — origines, définitions, 
         <summary type="html"><![CDATA[A review of Baltimore Traces, a multimedia teaching project on Baltimore, directed by Nicole King and Bill Shewbridge]]></summary>
         <author>
             <name>Brandon Walsh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neue DHd-AG &quot;Greening DH&quot; gegründet]]></title>
-        <id>node/759</id>
-        <link href="https://dig-hum.de/aktuelles/neue-dhd-ag-greening-dh-gegr%C3%BCndet"/>
-        <updated>2022-01-10T16:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Wir freuen uns sehr, die Gründung einer neuen DHd-AG namens "Greening DH" bekannt geben zu dürfen.
-Ziele der AG „Greening DH“
-Diese AG geht davon aus, dass die Ausübung der…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appel à participation: Intelligence artificielle et archives du web]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=9194</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/01/10/appel-a-participation-intelligence-artificielle-et-archives-du-web/"/>
-        <updated>2022-01-10T10:35:07.000Z</updated>
-        <summary type="html"><![CDATA[La Bibliothèque nationale de France (BnF) lance pour la première fois un appel à participation pour signaler des sites français à archiver dans le cadre de sa future collecte Intelligence artificielle 2022. La Bibliothèque nationale de France archive chaque année, pour le patrimoine et la recherche,  les contenus diffusés sur le web en rapport avec […]
-The post Appel à participation: Intelligence artificielle et archives du web appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPFL: The art of science meets the science of art]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=9190</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/01/10/epfl-the-art-of-science-meets-the-science-of-art/"/>
-        <updated>2022-01-10T10:18:21.000Z</updated>
-        <summary type="html"><![CDATA[In a unique collaboration with ECAL/University of Art and Design Lausanne, EPFL researchers have developed an algorithm designed to generate some of the world’s first Chinese typefaces, using machine learning. One-thousand years ago during the medieval Song dynasty, the artist and engineer Bi Sheng invented the first movable type printing technology, using porcelain and wood […]
-The post EPFL: The art of science meets the science of art appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
         </author>
     </entry>
     <entry>
