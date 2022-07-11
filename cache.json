@@ -1909,6 +1909,24 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/835",
+          "author": "406",
+          "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, https://dig-hum.de) und die führende wissenschaftliche Konferenz für…",
+          "link": "https://dig-hum.de/aktuelles/erinnerung-call-for-hosts-f%C3%BCr-die-jahreskonferenzen-dhd2024-und-dhd2025",
+          "publishedOn": "2022-07-10T17:53:14.000Z",
+          "wordCount": 1342,
+          "title": "Erinnerung: Call for Hosts für die Jahreskonferenzen DHd2024 und DHd2025"
+        },
+        {
+          "id": "node/834",
+          "author": "406",
+          "description": "Am Institut für Erziehungswissenschaft der Wirtschafts- und Sozialwissenschaftlichen Fakultät sind zwei Stellen für\nAkademische Mitarbeiter:innen (Promotion)\n(m/w/d; E 13 TV-L; 50…",
+          "link": "https://dig-hum.de/aktuelles/2-stellenangebote-wma-institut-f%C3%BCr-erziehungswissenschaft-uni-tuebingen",
+          "publishedOn": "2022-07-10T14:58:51.000Z",
+          "wordCount": 1079,
+          "title": "2 Stellenangebote: WMA (Institut für Erziehungswissenschaft, Uni Tuebingen)"
+        },
+        {
           "id": "node/833",
           "author": "406",
           "description": "Am 17. Juli 2022 jährt sich die Gründung des DHd-Verbands in Hamburg zum 10. Mal! Aus diesem freudigen Anlass wollen wir mit der Community unter dem Motto „Der DHd-Verband feiert…",
@@ -2584,15 +2602,6 @@
           "publishedOn": "2022-02-08T22:42:02.000Z",
           "wordCount": 1352,
           "title": "Timnit Gebru – Welcome to the Distributed AI Research Institute (DAIR)"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=1959",
-          "author": "Kayla Hilstob",
-          "description": "Catherine D’Ignazio and Lauren Klein joined us at the Digital Democracies Institute to close our 2021 fall speaker series. They came to share some highlights from their co-authored open source …\n  What Does Feminist Data Science Look Like? –  Catherine D’Ignazio and Lauren Klein Read More »\nWhat Does Feminist Data Science Look Like? –  Catherine D’Ignazio and Lauren Klein first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/what-does-feminist-data-science-look-like-catherine-dignazio-and-lauren-klein/?utm_source=rss&utm_medium=rss&utm_campaign=what-does-feminist-data-science-look-like-catherine-dignazio-and-lauren-klein",
-          "publishedOn": "2022-01-11T20:05:18.000Z",
-          "wordCount": 1842,
-          "title": "What Does Feminist Data Science Look Like? –  Catherine D’Ignazio and Lauren Klein"
         }
       ]
     },
@@ -7644,51 +7653,6 @@
           "publishedOn": "2022-01-24T10:49:02.000Z",
           "wordCount": 236,
           "title": "New Impact Story: Using a Monitor Newspaper Corpus to Trace Changing Language as a Result of COVID-19"
-        },
-        {
-          "id": "5660 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Tour de CLARIN: Interview with Menno van Zaanen\n\n            \n \nWritten by Jakob Lenardic\n    \n\n              \n              \n                  \n\n  \n \n \n \n \n \n\nMenno van Zaanen is Professor of Digital Humanities at the South African Centre for Digital Language Resources (SADiLaR).\n \n1. Could you please introduce yourself, your academic background and current work?\nI am Menno van Zaanen, research manager and Professor in Digital Humanities at the South African Centre for Digital Language Resources (SADiLaR). I received a Master’s degree in computer science (focusing on 'low-level' computer science, such as operating systems and computer networks) at the Vrije Universiteit, and a Master’s degree in computational linguistics at the University of Amsterdam (both in Amsterdam, the Netherlands).…",
-          "link": "https://www.clarin.eu/blog/tour-de-clarin-interview-menno-van-zaanen",
-          "publishedOn": "2022-01-12T15:01:31.000Z",
-          "wordCount": 2231,
-          "title": "Tour de CLARIN: Interview with Menno van Zaanen"
-        },
-        {
-          "id": "5659 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Tour de CLARIN: SADiLaR and the International Year of Indigenous Languages 2019 \n\n            \n \nWritten by Liané van den Bergh\nUNESCO declared 2019 the International Year of Indigenous Languages (IYIL2019), which offered an international platform for promoting all indigenous languages, based on five key elements:\nIncreasing understanding, reconciliation and international cooperation\nCreation of favourable conditions for knowledge-sharing and dissemination of good practices with regard to indigenous languages\nIntegration of indigenous languages into a standard setting\nEmpowerment through capacity building and\nGrowth and development through elaboration of new knowledge. \nThe above-mentioned elements fall right within SADiLaR’s mandate to serve South Africa as a research infrastructure to en…",
-          "link": "https://www.clarin.eu/blog/tour-de-clarin-sadilar-and-international-year-indigenous-languages-2019",
-          "publishedOn": "2022-01-12T14:47:18.000Z",
-          "wordCount": 1019,
-          "title": "Tour de CLARIN: SADiLaR and the International Year of Indigenous Languages 2019"
-        },
-        {
-          "id": "5658 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Tour de CLARIN: Setswana Test Suite and Treebank\n\n            \n \nWritten by Liané van den Bergh and Ansu Berg\nThe Setswana Test Suite and Treebank resource was developed as part of the PhD study of Ansu Berg, who performed a rule-based computational syntactic analysis of Setswana with a specific focus on simple sentences in the Setswana language. In order to develop a parser for Setswana, Ansu employed Lexical Functional Grammar (LFG) to frame the description of Setswana grammar. LFG is a non-derivational, constraint-based theory of grammar that distinguishes between two levels of syntactic analysis of a natural language utterance; namely, a constituent and a functional structure. Figure 1 shows the LFG constituent structure for the Setswana simple sentence mosadi ga a ketla a reka ditlhak…",
-          "link": "https://www.clarin.eu/blog/tour-de-clarin-setswana-test-suite-and-treebank",
-          "publishedOn": "2022-01-12T14:22:09.000Z",
-          "wordCount": 797,
-          "title": "Tour de CLARIN: Setswana Test Suite and Treebank"
-        },
-        {
-          "id": "5657 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Tour de CLARIN: NCHLT Web Services and CTexTools\n\n            \n \nWritten by Martin Puttkammer\nOver the past two decades, research and development projects in South African language technologies (mostly funded by the South African government through their National Centre for Human Language Technologies initiative) have generated several natural language processing (\n    \nNatural Language Processing\n\r\nSee: http://en.wikipedia.org/wiki/Natural_language_processing\n\r\nread more\n\n  ) resources in the form of data, core technologies, applications, and systems, which are immensely valuable for the future development of the official South African languages. Although these tools and resources can be obtained in a timely fashion from the Resource Management Agency of the South African Centre for Digit…",
-          "link": "https://www.clarin.eu/blog/tour-de-clarin-nchlt-web-services-and-ctextools",
-          "publishedOn": "2022-01-12T13:40:51.000Z",
-          "wordCount": 664,
-          "title": "Tour de CLARIN: NCHLT Web Services and CTexTools"
-        },
-        {
-          "id": "5656 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Tour de CLARIN: South Africa\n\n            \nWritten by Liané van den Bergh and Juan Steyn\nThe South African Centre for Digital Language Resources (SADiLaR) forms part of the South African Research Infrastructure Roadmap (SARIR) programme of the South African government’s Department of Science and Innovation (DSI). SADiLaR joined CLARIN as an observer in 2018 and is the only digital language research centre outside Europe which forms part of the European CLARIN research network as a C-Centre (a metadata providing centre). Current efforts are directed towards SADiLaR becoming a B-Centre (a service providing centre) in the near future.\nSADiLaR’s mandate is to support researchers through facilitating the creation and access to digital data through its Digitization Programme and building overall…",
-          "link": "https://www.clarin.eu/blog/tour-de-clarin-south-africa",
-          "publishedOn": "2022-01-12T12:47:42.000Z",
-          "wordCount": 971,
-          "title": "Tour de CLARIN: South Africa"
         }
       ]
     },
@@ -8317,33 +8281,6 @@
           "publishedOn": "2022-01-17T11:34:01.000Z",
           "wordCount": 865,
           "title": "DRI Becomes a Member of the Irish Museums Association"
-        },
-        {
-          "id": "1455 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "The EOSC Future project and Research Data Alliance (RDA) have launched a series of open calls to support the development of a European Open Science Cloud (EOSC) that is receptive and responsive to the evolving needs of the EU's research communities.",
-          "link": "https://www.dri.ie/eosc-future-and-rda-open-call-domain-ambassadors",
-          "publishedOn": "2022-01-12T17:10:38.000Z",
-          "wordCount": 640,
-          "title": "EOSC-Future and RDA Open Call for Domain Ambassadors"
-        },
-        {
-          "id": "1454 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "Date: \n\n1 Feb 2022\n\n\nLocation: \n\nOnline\n\n\n\nDRI's Dr Lorraine Grimes will be contributing to an academic discussion with experts in the field of records and redress.",
-          "link": "https://www.dri.ie/records-and-redress-dialogue-irish-mother-and-baby-institutions-and-canadian-residential-schools",
-          "publishedOn": "2022-01-12T10:38:41.000Z",
-          "wordCount": 647,
-          "title": "Records and Redress: A Dialogue on Irish Mother and Baby Institutions and Canadian Residential Schools"
-        },
-        {
-          "id": "1453 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "Date: \n\n19 Jan 2022\n\n\nLocation: \n\nOnline\n\n\n\nDRI's Dr Lorraine Grimes will be speaking about her research on unmarried mothers in Britain at a seminar run by Manchester & Lancashire Family History Society (FHS).",
-          "link": "https://www.dri.ie/irish-unmarried-mothers-britain-speaker-lorraine-grimes",
-          "publishedOn": "2022-01-12T09:34:17.000Z",
-          "wordCount": 824,
-          "title": "Irish Unmarried Mothers in Britain - Speaker: ​Dr Lorraine Grimes"
         }
       ]
     },
