@@ -613,6 +613,15 @@
       "siteUrl": "https://cdrh.unl.edu",
       "articles": [
         {
+          "id": "2655 at https://cdrh.unl.edu",
+          "author": "Anonymous",
+          "description": "Image: \n\n\n\n\nLink: \n\nNew research experience has historical, legal focus\n\n\n\nAD Banse examined the scrawled words on his screen and realized that after a few days of examining century-old documents, he was becoming more adept at deciphering the often faded, often perplexing handwriting and vernacular of the era.\n“I think there’s both a challenge, as well as a riveting aspect, to it,” Banse said. “The most challenging aspect has been understanding sometimes illegible writing.”\nWhat had him riveted was reading an enslaved person’s story from more than 50 pages of a habeas corpus petition.\n“There are moments while I’m working where I’m taken aback, when I remember these are true stories of people who had to combat very difficult traumas in their lives,” Banse said.\nBanse, a senior at St. Olaf C…",
+          "link": "https://cdrh.unl.edu/new-research-experience-has-historical-legal-focus",
+          "publishedOn": "2022-07-12T05:24:00.000Z",
+          "wordCount": 1016,
+          "title": "New research experience has historical, legal focus"
+        },
+        {
           "id": "2653 at https://cdrh.unl.edu",
           "author": "Anonymous",
           "description": "Image: \n\n\n\n\nLink: \n\nWisnicki's leadership helps net $350K for COVE collaborative\n\n\n\nA multi-institutional open access publishing and pedagogical tool, whose leadership includes Adrian S. Wisnicki of the University of Nebraska–Lincoln, has received one of the largest grants this round from the National Endowment for the Humanities.\n[media:2:left]The Collaborative Organization for Virtual Education, or COVE, received $350,000 from NEH, which was announced April 13. Wisnicki, associate professor of English, is one of the grant’s two co-principal investigators.\nCOVE, a nonprofit open access endeavor, publishes peer-reviewed scholarly editions and hosts a “flipped classroom” environment, where students build projects with COVE’s online tools. The project began in 2014 when the North American Vi…",
@@ -5359,6 +5368,24 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2022/07/14/calling-all-tasmanian.html",
+          "author": null,
+          "description": "I’ve created a Zotero translator for the Libraries Tasmania catalogue. Using it, you can save metadata and digital resources to your own research database with a single click. Libraries Tasmania actually has three catalogues rolled into one – the main library catalogue, the Archives catalogue, and the Names Index. The translator works across all three. Features include:\nSelect and save items from a page of search results.\nSave individual items across the full range of formats. (By default, individual records in the catalogue open in a modal overlay. For Zotero to recognise the item you need to click on the Permalink button and open the record on a separate page.)\nAutomatically download digital images and PDFs attached to records. This works when the record points to a particular page – it won’t download multiple images from a single link. However, if a record contains multiple links to digitised pages (such as the Convict records in the Names Index), you’ll get them all!\nFields in the Archives catalogue and Name Index that don’t map to Zotero properties are saved as key/value pairs in Zotero’s ‘Extra’ field\n\nThe translator is now included in the main Zotero repository so should install and update itself automatically. If the Zotero browser extension doesn’t seem to be detecting Libraries Tasmania items you can force an update by right clicking on the Zotero icon in your browser toolbar and clicking on Preferences > Advanced > Update translators.\nMy work on this translator was not entirely altruistic – it’s going to be very useful in the Everyday Heritage project as Kate Bagnall and I try to bring together sources relating to Chinese heritage in Tasmania.\nBut I’m also very happy to be able to update my spreadsheet of Zotero support in Australian GLAM organisations and put Libraries Tasmania in the green! #dhhacks",
+          "link": "https://updates.timsherratt.org/2022/07/14/calling-all-tasmanian.html",
+          "publishedOn": "2022-07-14T00:04:03.000Z",
+          "wordCount": 350,
+          "title": "Calling all Tasmanian historians – you can now save resources from Libraries Tasmania into Zotero!"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/07/13/updated-dataset-harvests.html",
+          "author": null,
+          "description": "Updated dataset! Harvests of Trove list metadata from 2018, 2020, and 2022 are now available on Zenodo: doi.org/10.5281/z… Another addition to the growing collection of historical Trove data. #GLAMWorkbench",
+          "link": "https://updates.timsherratt.org/2022/07/13/updated-dataset-harvests.html",
+          "publishedOn": "2022-07-13T13:04:24.000Z",
+          "wordCount": 45,
+          "title": "Untitled"
+        },
+        {
           "id": "http://wragge.micro.blog/2022/07/10/updated-dataset-details.html",
           "author": null,
           "description": "Updated dataset! Details of 2,201,090 unique public tags added to 9,370,614 resources in Trove between August 2008 and July 2022. Useful for exploring folksonomies, and the way people organise and use massive online resources like Trove. doi.org/10.5281/z…",
@@ -7714,6 +7741,15 @@
           "publishedOn": "2022-07-12T10:52:02.000Z",
           "wordCount": 838,
           "title": "DRI Welcomes Dunkineely Community Ltd as a New Member"
+        },
+        {
+          "id": "1537 at https://www.dri.ie",
+          "author": "Deborah Thorpe",
+          "description": "A blog post describing how DRI resources have featured in the research of researcher Orlaith Harford",
+          "link": "https://www.dri.ie/using-digital-archives-historical-research-collections-relating-tobacco-dri-2",
+          "publishedOn": "2022-07-12T10:14:50.000Z",
+          "wordCount": 1991,
+          "title": "Using digital archives for historical research: Collections relating to tobacco in DRI"
         },
         {
           "id": "1533 at https://www.dri.ie",
