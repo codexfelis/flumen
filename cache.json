@@ -924,6 +924,15 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11277",
+          "author": "Celia Luterbacher",
+          "description": "This special issue of the Journal of Digital History, to be published in the fall of 2023, welcomes contributions that introduce and discuss digital toolkits for exploring historic source materials, be they sonic, textual, visual, or audiovisual, by October 31, 2022. In line with the journal’s publication standards, the toolkits should be open source and […]\nThe post Call for special issue for the Journal of Digital History: Digital Tools appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/07/14/call-for-special-issue-for-the-journal-of-digital-history-digital-tools/",
+          "publishedOn": "2022-07-14T09:12:54.000Z",
+          "wordCount": 782,
+          "title": "Call for special issue for the Journal of Digital History: Digital Tools"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=11267",
           "author": "Celia Luterbacher",
           "description": "Whether it’s jazz recordings, concert footage, photographs or interviews, EPFL researchers are applying machine learning and digital museology techniques to archives of cultural data to achieve new artistic and creative experiences. Though the word ‘archive’ often connotes endless shelves of undisturbed books or film canisters, modern digitization techniques have made cultural archives more accessible as […]\nThe post Bringing cultural archives to life appeared first on dhCenter.",
@@ -2402,15 +2411,6 @@
           "publishedOn": "2022-01-17T21:24:13.000Z",
           "wordCount": 881,
           "title": "Stellenausschreibung: WMA im Bereich Informatik/Digital Humanities (50%) am Sorbischen Institut in Bautzen (mobile Arbeit möglich)"
-        },
-        {
-          "id": "node/762",
-          "author": "406",
-          "description": "Die Max-Planck-Gesellschaft zur Förderung der Wissenschaften e. V. (MPG) ist eine von Bund und Ländern finanzierte Selbstverwaltungsorganisation der Wissenschaft. Sie betreibt in…",
-          "link": "https://dig-hum.de/aktuelles/reminder-stellenangebot-wissenschaftlicher-archivar-mwd-befristet-mpg-berlin",
-          "publishedOn": "2022-01-16T12:16:56.000Z",
-          "wordCount": 865,
-          "title": "Reminder: Stellenangebot Wissenschaftlicher Archivar (m/w/d) (befristet, MPG, Berlin)"
         }
       ]
     },
@@ -4019,6 +4019,15 @@
       "feedUrl": "https://radihum20.de/feed",
       "siteUrl": "https://radihum20.de/",
       "articles": [
+        {
+          "id": "https://radihum20.de/?p=586",
+          "author": "Jascha Schmitz",
+          "description": "Liebe Zuhörer:Innen! Wir machen von Juli bis September eine urlaubsbedingte Sommerpause, das heißt es wird erst wieder am 20. Oktober eine neue Folge RaDiHum20 geben. Um Euch die lange Zwischenzeit zu überbrücken, könnt Ihr gerne noch mal einen Blick in unseren Backlog werfen, wo bestimmt noch einige spannende Folgen zu finden sind, die Ihr noch […]\nDer Beitrag Sommerpause: Nächste Folge am 20. Oktober 2022 erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/sommerpause-naechste-folge-am-20-oktober-2022/?utm_source=rss&utm_medium=rss&utm_campaign=sommerpause-naechste-folge-am-20-oktober-2022",
+          "publishedOn": "2022-07-15T06:00:00.000Z",
+          "wordCount": 494,
+          "title": "Sommerpause: Nächste Folge am 20. Oktober 2022"
+        },
         {
           "id": "https://radihum20.de/?p=575",
           "author": "Jonathan D. Geiger",
@@ -6451,6 +6460,24 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/events/34986/",
+          "author": null,
+          "description": "In this workshop you will be introduced to the MorphoSource platform, which is a repository for researchers, curators, and everybody to find, view, download, and upload 3D scans and data of natural history, scientific specimens, and cultural objects. Contributions come from museums, researchers, scholars and specialists to share findings, increase impact, and improve access to",
+          "link": "https://www.cdh.cam.ac.uk/events/34986/",
+          "publishedOn": "2022-07-14T15:17:56.000Z",
+          "wordCount": 446,
+          "title": "An introduction to the MorphoSource platform"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/34985/",
+          "author": null,
+          "description": "In this workshop, you will learn about the various features of the exhibit.so platform, led by Ed Silverton, from Mnemoscene and introduced by Andy Corrigan from Cambridge Digital Library. Cambridge Digital Humanities (CDH) is working with Mnemoscene to develop a local instance of the Exhibit tool that will be available to University of Cambridge users.",
+          "link": "https://www.cdh.cam.ac.uk/events/34985/",
+          "publishedOn": "2022-07-14T15:16:12.000Z",
+          "wordCount": 542,
+          "title": "An introduction to Exhibit.so platform"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/",
           "author": null,
           "description": "Over his lifetime, Charles Darwin generated an enormous written archive and amassed a wide array of specimens and objects. Much of this is now housed amongst the various collections at the University of Cambridge. Cambridge University Library houses an archive of Darwin’s personal and scientific manuscripts that occupy sixty linear metres of shelving. Work is",
@@ -7741,6 +7768,15 @@
           "publishedOn": "2022-07-12T10:52:02.000Z",
           "wordCount": 838,
           "title": "DRI Welcomes Dunkineely Community Ltd as a New Member"
+        },
+        {
+          "id": "1537 at https://www.dri.ie",
+          "author": "Deborah Thorpe",
+          "description": "A blog post describing how DRI resources have featured in the research of researcher Orlaith Harford",
+          "link": "https://www.dri.ie/research-history-tobacco",
+          "publishedOn": "2022-07-12T10:14:50.000Z",
+          "wordCount": 2013,
+          "title": "Using digital archives for historical research: Collections relating to tobacco in DRI"
         },
         {
           "id": "1537 at https://www.dri.ie",
