@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-07-16T08:03:49.445Z</updated>
+    <updated>2022-07-17T08:03:59.561Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HAPPY BIRTHDAY DHd]]></title>
+        <id>node/838</id>
+        <link href="https://dig-hum.de/aktuelles/happy-birthday-dhd"/>
+        <updated>2022-07-17T06:04:55.000Z</updated>
+        <summary type="html"><![CDATA[HEUTE ist es soweit!
+Unter dem Motto "Der DHd-Verband feiert sein 10. Jubiläum - Ich feiere mit!" laden wir alle aus der #DH-community ein, die schönsten Erinnerungen aus den…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ausschreibung: DHd Communications Fellowship]]></title>
+        <id>node/837</id>
+        <link href="https://dig-hum.de/aktuelles/ausschreibung-dhd-communications-fellowship"/>
+        <updated>2022-07-16T14:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Der DHd-Verband sucht zum nächstmöglichen Zeitpunkt eine*n neue*n Communication Fellow (m/w/d).
+Was gehört zu den Aufgaben?
+Zu den Aufgaben gehören neben der Erstellung von…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Erinnerung: Aufruf zur Blogparade zum 10. Jahrestag der Gründung des DHd-Verbands #DHd10]]></title>
         <id>node/836</id>
@@ -11282,100 +11305,6 @@ The post UK universities near Elsevier deal after publisher drops price appeared
         <summary type="html"><![CDATA[The 17th International Conference on Open Repositories, OR2022, will be held in Denver, Colorado, USA from June 6th to June 9th, 2022. The organisers are pleased to invite contributions to the program.]]></summary>
         <author>
             <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Symposium Computer legacies: Narrating histories of digital media in museums, 27th January 2022]]></title>
-        <id>1379 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2022/01/18/online-symposium-computer-legacies-narrating-histories-digital-media-museums-27th"/>
-        <updated>2022-01-18T16:48:38.000Z</updated>
-        <summary type="html"><![CDATA[27 Jan 2022 - 00:00
-
-
-
-Online Symposium Computer legacies: Narrating histories of digital media in museums, 27th January 2022
-
-
-
-How do museums narrate histories of computing and digital media? 
-JOIN US for the "Computer legacies" online symposium on 27 January 2022 at 3:30 PM – 6:30 PM GMT. 
-The symposium builds on research conducted within the AHRC-funded project Circuits of Practice: Narrating Histories of Computing and Digital Media in Museum Environments and will provide a forum to explore new approaches for a historical heritage centred around the emergence and development of computing and digital media.
-The event will feature a presentation of work conducted in the Circuits of Practice’s Digital Atelier, an ensemble developing alternative, challenging, creative ways of understanding…]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humanistica 2022]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=9291</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/01/18/9291/"/>
-        <updated>2022-01-18T15:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Le colloque Humanistica 2022 se déroulera à Montréal et en ligne du 19 au 21 mai 2022. Il est organisé dans le cadre du Centre de recherche interuniversitaire sur les humanités numériques (CRIHN). Humanistica, l’association francophone des humanités numériques créée en 2014, a organisé en 2020 son premier colloque à Bordeaux puis un second à […]
-The post Humanistica 2022 appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shuge: the world’s libraries. Or, just a website that works for you.]]></title>
-        <id>http://digitalorientalist.com/?p=7603</id>
-        <link href="https://digitalorientalist.com/2022/01/18/7603/"/>
-        <updated>2022-01-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An old mantra among digital circles: online resources to access material circulating in digital formats are so numerous that it …]]></summary>
-        <author>
-            <name>maddalena poli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The Penn & Slavery Project]]></title>
-        <id>7fefa591-e2b2-4efd-8332-e2430525ee94</id>
-        <link href="https://reviewsindh.pubpub.org/pub/penn-and-slavery-project"/>
-        <updated>2022-01-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of The Penn & Slavery Project, an app investigating the University of Pennsylvania's relationship to slavery, reviewed by Elizabeth Losh]]></summary>
-        <author>
-            <name>Elizabeth Losh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Digital Oral Histories for Reconciliation]]></title>
-        <id>ab882336-c25b-485a-bf96-0f765c41e786</id>
-        <link href="https://reviewsindh.pubpub.org/pub/digital-oral-histories-for-reconciliation"/>
-        <updated>2022-01-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Review of Digital Oral Histories for Reconciliation, a virtual reality experience on the Nova Scotia Home for Coloured Children, directed by Kristina Llewellyn]]></summary>
-        <author>
-            <name>Jasmine Clark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Indian Community Cookbooks Project]]></title>
-        <id>bf9c5bcd-a1e8-4638-b00e-e43301d51f64</id>
-        <link href="https://reviewsindh.pubpub.org/pub/indian-community-cookbooks-project"/>
-        <updated>2022-01-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Indian Community Cookbooks Project, an archive of community cookbooks from India, directed by Khushi Gupta, Muskaan Pal, and Ananya Pujary]]></summary>
-        <author>
-            <name>Souvik Mukherjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The Delek Archives]]></title>
-        <id>70585113-5f7e-4fdc-a236-898af5ec0144</id>
-        <link href="https://reviewsindh.pubpub.org/pub/the-delek-archives"/>
-        <updated>2022-01-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of The Delek Archives, a blog documenting casteism and Islamophobia in Indian schools, directed by Titas Bose and Bhaswar Faisal Khan]]></summary>
-        <author>
-            <name>Arjun Ghosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenausschreibung: WMA im Bereich Informatik/Digital Humanities (50%) am Sorbischen Institut in Bautzen (mobile Arbeit möglich)]]></title>
-        <id>node/765</id>
-        <link href="https://dig-hum.de/aktuelles/stellenausschreibung-wma-im-bereich-informatikdigital-humanities-50-am-sorbischen-institut"/>
-        <updated>2022-01-17T21:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Das Sorbische Institut · Serbski institut sucht zum nächstmöglichen Zeitpunkt eine/n
-wissenschaftliche/n Mitarbeiter/in (m/w/d) im Bereich Informatik/Digital Humanities.
-Es…]]></summary>
-        <author>
-            <name>406</name>
         </author>
     </entry>
     <entry>

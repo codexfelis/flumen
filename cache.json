@@ -1669,15 +1669,6 @@
           "publishedOn": "2022-01-20T06:26:14.000Z",
           "wordCount": 1087,
           "title": "EPFL: A label for digital responsibility"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9291",
-          "author": "Heloise schibler",
-          "description": "Le colloque Humanistica 2022 se déroulera à Montréal et en ligne du 19 au 21 mai 2022. Il est organisé dans le cadre du Centre de recherche interuniversitaire sur les humanités numériques (CRIHN). Humanistica, l’association francophone des humanités numériques créée en 2014, a organisé en 2020 son premier colloque à Bordeaux puis un second à […]\nThe post Humanistica 2022 appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/01/18/9291/",
-          "publishedOn": "2022-01-18T15:20:18.000Z",
-          "wordCount": 840,
-          "title": "Humanistica 2022"
         }
       ]
     },
@@ -1917,6 +1908,24 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/838",
+          "author": "406",
+          "description": "HEUTE ist es soweit!\nUnter dem Motto \"Der DHd-Verband feiert sein 10. Jubiläum - Ich feiere mit!\" laden wir alle aus der #DH-community ein, die schönsten Erinnerungen aus den…",
+          "link": "https://dig-hum.de/aktuelles/happy-birthday-dhd",
+          "publishedOn": "2022-07-17T06:04:55.000Z",
+          "wordCount": 759,
+          "title": "HAPPY BIRTHDAY DHd"
+        },
+        {
+          "id": "node/837",
+          "author": "406",
+          "description": "Der DHd-Verband sucht zum nächstmöglichen Zeitpunkt eine*n neue*n Communication Fellow (m/w/d).\nWas gehört zu den Aufgaben?\nZu den Aufgaben gehören neben der Erstellung von…",
+          "link": "https://dig-hum.de/aktuelles/ausschreibung-dhd-communications-fellowship",
+          "publishedOn": "2022-07-16T14:02:07.000Z",
+          "wordCount": 898,
+          "title": "Ausschreibung: DHd Communications Fellowship"
+        },
         {
           "id": "node/836",
           "author": "406",
@@ -2402,15 +2411,6 @@
           "publishedOn": "2022-01-19T17:03:40.000Z",
           "wordCount": 1232,
           "title": "Stellenangebot: Referent*in im Bundesarchiv (befristet, Berlin-Lichterfelde oder Koblenz)"
-        },
-        {
-          "id": "node/765",
-          "author": "406",
-          "description": "Das Sorbische Institut · Serbski institut sucht zum nächstmöglichen Zeitpunkt eine/n\nwissenschaftliche/n Mitarbeiter/in (m/w/d) im Bereich Informatik/Digital Humanities.\nEs…",
-          "link": "https://dig-hum.de/aktuelles/stellenausschreibung-wma-im-bereich-informatikdigital-humanities-50-am-sorbischen-institut",
-          "publishedOn": "2022-01-17T21:24:13.000Z",
-          "wordCount": 881,
-          "title": "Stellenausschreibung: WMA im Bereich Informatik/Digital Humanities (50%) am Sorbischen Institut in Bautzen (mobile Arbeit möglich)"
         }
       ]
     },
@@ -3090,15 +3090,6 @@
           "publishedOn": "2022-01-21T13:00:00.000Z",
           "wordCount": 1364,
           "title": "AABC – African Alphabets of the Bayreuth Cluster"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7603",
-          "author": "maddalena poli",
-          "description": "An old mantra among digital circles: online resources to access material circulating in digital formats are so numerous that it …",
-          "link": "https://digitalorientalist.com/2022/01/18/7603/",
-          "publishedOn": "2022-01-18T13:00:00.000Z",
-          "wordCount": 1699,
-          "title": "Shuge: the world’s libraries. Or, just a website that works for you."
         }
       ]
     },
@@ -3416,15 +3407,6 @@
           "publishedOn": "2022-01-20T18:02:13.000Z",
           "wordCount": 747,
           "title": "#job RESEARCH DATA ENGINEER -  Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)"
-        },
-        {
-          "id": "1379 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "27 Jan 2022 - 00:00\n\n\n\nOnline Symposium Computer legacies: Narrating histories of digital media in museums, 27th January 2022\n\n\n\nHow do museums narrate histories of computing and digital media? \nJOIN US for the \"Computer legacies\" online symposium on 27 January 2022 at 3:30 PM – 6:30 PM GMT. \nThe symposium builds on research conducted within the AHRC-funded project Circuits of Practice: Narrating Histories of Computing and Digital Media in Museum Environments and will provide a forum to explore new approaches for a historical heritage centred around the emergence and development of computing and digital media.\nThe event will feature a presentation of work conducted in the Circuits of Practice’s Digital Atelier, an ensemble developing alternative, challenging, creative ways of understanding…",
-          "link": "https://eadh.org/news/2022/01/18/online-symposium-computer-legacies-narrating-histories-digital-media-museums-27th",
-          "publishedOn": "2022-01-18T16:48:38.000Z",
-          "wordCount": 645,
-          "title": "Online Symposium Computer legacies: Narrating histories of digital media in museums, 27th January 2022"
         }
       ]
     },
@@ -4702,54 +4684,6 @@
           "title": "Review: East Asia For All",
           "enclosure": {
             "url": "https://assets.pubpub.org/bwl4utws/41644669054770.jpg"
-          }
-        },
-        {
-          "id": "7fefa591-e2b2-4efd-8332-e2430525ee94",
-          "author": "Elizabeth Losh",
-          "description": "A review of The Penn & Slavery Project, an app investigating the University of Pennsylvania's relationship to slavery, reviewed by Elizabeth Losh",
-          "link": "https://reviewsindh.pubpub.org/pub/penn-and-slavery-project",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 1425,
-          "title": "Review: The Penn & Slavery Project",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/5otvecbj/61642187684262.png"
-          }
-        },
-        {
-          "id": "ab882336-c25b-485a-bf96-0f765c41e786",
-          "author": "Jasmine Clark",
-          "description": "Review of Digital Oral Histories for Reconciliation, a virtual reality experience on the Nova Scotia Home for Coloured Children, directed by Kristina Llewellyn",
-          "link": "https://reviewsindh.pubpub.org/pub/digital-oral-histories-for-reconciliation",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 1629,
-          "title": "Review: Digital Oral Histories for Reconciliation",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/0mw7253x/11642185896912.png"
-          }
-        },
-        {
-          "id": "bf9c5bcd-a1e8-4638-b00e-e43301d51f64",
-          "author": "Souvik Mukherjee",
-          "description": "A review of Indian Community Cookbooks Project, an archive of community cookbooks from India, directed by Khushi Gupta, Muskaan Pal, and Ananya Pujary",
-          "link": "https://reviewsindh.pubpub.org/pub/indian-community-cookbooks-project",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 1122,
-          "title": "Review: Indian Community Cookbooks Project",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/7tl4l1he/11642182310183.png"
-          }
-        },
-        {
-          "id": "70585113-5f7e-4fdc-a236-898af5ec0144",
-          "author": "Arjun Ghosh",
-          "description": "A review of The Delek Archives, a blog documenting casteism and Islamophobia in Indian schools, directed by Titas Bose and Bhaswar Faisal Khan",
-          "link": "https://reviewsindh.pubpub.org/pub/the-delek-archives",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 1234,
-          "title": "Review: The Delek Archives",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/5jvlqkrm/41642098915092.jpg"
           }
         }
       ]
