@@ -1642,33 +1642,6 @@
           "publishedOn": "2022-01-25T13:01:29.000Z",
           "wordCount": 587,
           "title": "CFP: 2022 IIIF Annual Conference"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9328",
-          "author": "Heloise schibler",
-          "description": "Charlotte Mazel-Cabasse, première directrice opérationnelle du dhCenter UNIL-EPFL, a quitté ses fonctions au 31 décembre 2021. Karl Aberer et Isaac Pante, directeurs académiques pour l’UNIL et l’EPFL, assurent conjointement la direction opérationnelle du dhCenter à partir du 1er janvier 2022.  Arrivée en 2018 à Lausanne après 10 ans passés aux États-Unis, Charlotte Mazel-Cabasse a eu […]\nThe post Départ de Charlotte Mazel-Cabasse, directrice exécutive / Departure of Executive Director Charlotte Mazel-Cabasse appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/01/20/le-dhcenter-unil-epfl-annonce-le-depart-de-charlotte-mazel-cabasse-directrice-executive-the-dhcenter-announces-the-departure-of-executive-director-charlotte-mazel-cabasse/",
-          "publishedOn": "2022-01-20T13:57:37.000Z",
-          "wordCount": 1666,
-          "title": "Départ de Charlotte Mazel-Cabasse, directrice exécutive / Departure of Executive Director Charlotte Mazel-Cabasse"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9314",
-          "author": "Heloise schibler",
-          "description": "Le Labo@ID (Numérique – Pédagogie – Recherche), nouvellement créé au tout début de l’année, a pour mission d’être une cellule d’appui aux enseignants-chercheurs de l’Université Paris Nanterre (UPN), et est destinée à les accompagner dans leurs projets de recherche et de développement pédagogique en lien avec le numérique. Dans ce cadre, deux postes sont mis […]\nThe post Université Paris Nanterre : deux postes au sein du nouveau Labo@ID appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/01/20/universite-paris-nanterre-deux-postes-au-sein-du-nouveau-laboid/",
-          "publishedOn": "2022-01-20T11:06:43.000Z",
-          "wordCount": 690,
-          "title": "Université Paris Nanterre : deux postes au sein du nouveau Labo@ID"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9304",
-          "author": "Celia Luterbacher",
-          "description": "With the launch of the Digital Trust Label, developed by the Swiss Digital Initiative with the help of EPFL experts, users can clearly identify trustworthy digital services. Providers of digital services can now declare their digital responsibility in a credible manner.   Awareness of digital risks and demand for more digital transparency and accountability are […]\nThe post EPFL: A label for digital responsibility appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/01/20/epfl-a-label-for-digital-responsibility/",
-          "publishedOn": "2022-01-20T06:26:14.000Z",
-          "wordCount": 1087,
-          "title": "EPFL: A label for digital responsibility"
         }
       ]
     },
@@ -3389,15 +3362,6 @@
           "publishedOn": "2022-01-25T17:06:31.000Z",
           "wordCount": 1295,
           "title": "CfP 2nd workshop on Computational Methods in the Humanities (COMHUM 2022)"
-        },
-        {
-          "id": "1382 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "15 Feb 2022 - 00:00\n\n\n\n#job RESEARCH DATA ENGINEER -  Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)\n\n\n\nThe Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH), a research department of the Austrian Academy of Sciences (OeAW), Austria’s leading non-university research institution, is seeking a\nRESEARCH DATA ENGINEER (F*M)\nYou will join an internationally networked team, pursuing research at the intersection between information and communication technology and humanities studies. Your work will involve processing and publishing of semi-structured textual data from linguistics and literature studies projects. To get an impression on our work, we invite you to have a look at our code repositories, other projects from the fields or prototypical applic…",
-          "link": "https://eadh.org/news/2022/01/20/job-research-data-engineer-austrian-centre-digital-humanities-and-cultural-heritage",
-          "publishedOn": "2022-01-20T18:02:13.000Z",
-          "wordCount": 747,
-          "title": "#job RESEARCH DATA ENGINEER -  Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)"
         }
       ]
     },
@@ -3720,6 +3684,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.82",
+          "author": null,
+          "description": "The dataset covers a statistically representative quantitative questionnaire survey conducted with 430 children with the aim of assessing their knowledge, habits and attitudes towards wood and trees. The goal of the study was to examine the variables that affect environmental awareness and the use of wood in the future. The dataset contains 430 rows (participants) and 49 columns (variables). Data has a reuse potential in the fields of childhood pedagogy and environmental education research but also opens new ways for demonstrating the formula of statistical representativeness or machine-learning analyses such as clustering techniques, associative learning, or decision trees.\n Published on 2022-07-18 11:59:04",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.82",
+          "publishedOn": "2022-07-19T08:05:04.395Z",
+          "wordCount": 2083,
+          "title": "Assessing Attitudes Towards Wood in the Context of Family Habits: Potential for Reuse of Raw Data from a Questionnaire Survey"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.78",
           "author": null,
           "description": "Motifs in folktales and myths have been identified and articulated by scholars, and the computational identification and discovery of such motifs is an area of ongoing research. Achieving this goal means meeting scientific requirements (that methods be comparable and replicable) and requirements for collaboration (that multi-disciplinary teams can reliably access data). To support those requirements, access to consistent reference datasets is needed. Unfortunately, these datasets are not openly available in a format that supports their use in data science. Here we report work in progress toward this goal, having converted the Ashliman Folktexts collection into a public dataset of annotated tale texts. The data can be accessed at doi.org/10.5281/zenodo.6575263.\n Published on 2022-06-24 11:47:11",
@@ -3993,6 +3966,15 @@
       "siteUrl": "https://radihum20.de/",
       "articles": [
         {
+          "id": "https://radihum20.de/?p=593",
+          "author": "Mareike Schumacher",
+          "description": "Der DHd, der Verband für digital Humanities im deutschsprachigen Raum, wird 10 Jahre alt und das ist für uns ein Grund zu feiern. Mit diesem Post beteiligen wir uns darum an der Blogparade, zu der der Verband aufgerufen hat. Der DHd-Verband hat für uns eine ganz besondere Bedeutung, denn 2020 trafen wir – d.h. Lisa, […]\nDer Beitrag #DHd10: Der DHd bei RaDiHum20 erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/dhd10-der-dhd-bei-radihum20/?utm_source=rss&utm_medium=rss&utm_campaign=dhd10-der-dhd-bei-radihum20",
+          "publishedOn": "2022-07-18T12:41:02.000Z",
+          "wordCount": 1795,
+          "title": "#DHd10: Der DHd bei RaDiHum20"
+        },
+        {
           "id": "https://radihum20.de/?p=586",
           "author": "Jascha Schmitz",
           "description": "Liebe Zuhörer:Innen! Wir machen von Juli bis September eine urlaubsbedingte Sommerpause, das heißt es wird erst wieder am 20. Oktober eine neue Folge RaDiHum20 geben. Um Euch die lange Zwischenzeit zu überbrücken, könnt Ihr gerne noch mal einen Blick in unseren Backlog werfen, wo bestimmt noch einige spannende Folgen zu finden sind, die Ihr noch […]\nDer Beitrag Sommerpause: Nächste Folge am 20. Oktober 2022 erschien zuerst auf RaDiHum 20.",
@@ -4072,31 +4054,13 @@
           "publishedOn": "2022-03-20T08:03:00.000Z",
           "wordCount": 674,
           "title": "RaDiHum20 spricht mit Anna Neubert über Projektmanagement in den DH"
-        },
-        {
-          "id": "https://radihum20.de/?p=531",
-          "author": "Jascha Schmitz",
-          "description": "RaDiHum20 meldet sich voll verstrahlt aus der Staffelplanungsphase / Winterpause mit einer Neujahrsfolge! Gemeinsam mit unserem neuen Co-Host Jascha schauen wir auf die letzten anderthalb Jahre DH-Podcasting zurück und besprechen, was wir in Zukunft mit RaDiHum20 vorhaben. Gleichzeitig verabschieden wir uns schweren Herzens von Patrick, dem wir alles Gute für die Zukunft wünschen! Wir sprechen in […]\nDer Beitrag RaDiHum20 Neujahrsfolge 2022 erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/radihum20-neujahrsfolge-2022/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-neujahrsfolge-2022",
-          "publishedOn": "2022-01-20T07:07:00.000Z",
-          "wordCount": 564,
-          "title": "RaDiHum20 Neujahrsfolge 2022"
-        },
-        {
-          "id": "https://radihum20.de/?p=531",
-          "author": "Jascha Schmitz",
-          "description": "RaDiHum20 meldet sich voll verstrahlt aus der Staffelplanungsphase / Winterpause mit einer Neujahrsfolge! Gemeinsam mit unserem neuen Co-Host Jascha schauen wir auf die letzten anderthalb Jahre DH-Podcasting zurück und besprechen, was wir in Zukunft mit RaDiHum20 vorhaben. Gleichzeitig verabschieden wir uns schweren Herzens von Patrick, dem wir alles Gute für die Zukunft wünschen! Wir sprechen in […]\nDer Beitrag RaDiHum20 Neujahrsfolge 2022 erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/radihum20-neujahrsfolge-2022/",
-          "publishedOn": "2022-01-20T07:07:00.000Z",
-          "wordCount": 540,
-          "title": "RaDiHum20 Neujahrsfolge 2022"
         }
       ]
     },
     {
       "title": "READ-COOP",
       "feedUrl": "https://readcoop.eu/feed",
-      "siteUrl": "https://readcoop.eu",
+      "siteUrl": "https://readcoop.eu/",
       "articles": [
         {
           "id": "https://readcoop.eu/?p=29492",
@@ -4201,15 +4165,6 @@
             "length": "19586556",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://readcoop.eu/?p=27611",
-          "author": "Florian Stauder",
-          "description": "With the start of 2022 we hit another milestone: More than 100 institutions and private persons are now members of READ-COOP. This is fully in line with with why we are a co-operative: Achieve together what one cannot do alone. A co-operative society, like we are, combines the best of two worlds. We can be […]\nThe post We are 100+! appeared first on READ-COOP.",
-          "link": "https://readcoop.eu/we-are-100/",
-          "publishedOn": "2022-01-20T09:19:21.000Z",
-          "wordCount": 1469,
-          "title": "We are 100+!"
         }
       ]
     },
@@ -8368,6 +8323,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=12277",
+          "author": "Melanie Cheung",
+          "description": "RLUK is seeking a Deputy Executive Director. The Deputy Executive Director reports to the Executive Director and provides support for the Executive Director and RLUK Board in key areas of knowledge and expertise, with responsibility for delivery of aspects of the RLUK strategy. The Deputy Executive Director will support the Executive Director and the RLUK [...]\nThe post RLUK is seeking a Deputy Executive Director appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk-is-seeking-a-deputy-executive-director/",
+          "publishedOn": "2022-07-18T16:02:00.000Z",
+          "wordCount": 1223,
+          "title": "RLUK is seeking a Deputy Executive Director"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=12179",
           "author": "Melanie Cheung",
