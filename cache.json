@@ -107,15 +107,6 @@
           "publishedOn": "2022-03-14T21:30:21.000Z",
           "wordCount": 257,
           "title": "#ScienceForUkraine"
-        },
-        {
-          "id": "https://dhnb.eu/?p=2090",
-          "author": "Olga Holownia",
-          "description": "The Nomination Committee of DHNB opens the call for nominations for five positions for the next election period which starts on 15 February 2022. Board members are normally elected for a 3-year period, and three positions are open for the period 2022-2025. In addition, one position is open for the period 2022-2024, and one position for the […]",
-          "link": "https://dhnb.eu/dhnb-board-call-for-nominations/",
-          "publishedOn": "2022-01-21T12:30:42.000Z",
-          "wordCount": 500,
-          "title": "DHNB BOARD: CALL FOR NOMINATIONS"
         }
       ]
     },
@@ -1665,17 +1656,7 @@
       "title": "DHLab",
       "feedUrl": "https://dhlab.nl/feed",
       "siteUrl": "https://dhlab.nl",
-      "articles": [
-        {
-          "id": "https://dhlab.nl/?p=291",
-          "author": null,
-          "description": "Elli Bleeker and Ronald Haentjens Dekker‘s ‘COLLaiTE: An Artificial Intelligence Approach to Comparing Text Versions’ project has been awarded the Open eScience Call 2021. The Open eScience open call supports research that requires the development and application of advanced digital technologies and research software. COLLaiTE addresses an urgent methodological research challenge that can count on ... Read more ‘COLLaiTE: An Artificial Intelligence Approach to Comparing Text Versions’ funded!",
-          "link": "https://dhlab.nl/collaite-an-artificial-intelligence-approach-to-comparing-text-versions-funded/",
-          "publishedOn": "2022-01-21T11:36:20.000Z",
-          "wordCount": 264,
-          "title": "‘COLLaiTE: An Artificial Intelligence Approach to Comparing Text Versions’ funded!"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Digital Humanities & Literary Cognition Lab",
@@ -1858,15 +1839,6 @@
           "publishedOn": "2022-01-26T16:37:52.000Z",
           "wordCount": 944,
           "title": "Call for Funding: CDHI Postdoctoral Fellowship in Community Data (2022-24)"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=4561",
-          "author": "DHN Admin",
-          "description": "By Tracy O’Brien The fifth CDHI Lightning Lunch of the 2021–22 year took digital humanities research “beyond the human” to discuss how technology affects the non-human world and how the […]",
-          "link": "https://dhn.utoronto.ca/dh-beyond-the-human-a-re-cap/?utm_source=rss&utm_medium=rss&utm_campaign=dh-beyond-the-human-a-re-cap",
-          "publishedOn": "2022-01-21T16:34:32.000Z",
-          "wordCount": 1751,
-          "title": "DH Beyond the Human: A Re-Cap of the CDHI’s Fourth Lightning Lunch (2021–2022)"
         }
       ]
     },
@@ -3045,15 +3017,6 @@
           "publishedOn": "2022-01-25T13:00:00.000Z",
           "wordCount": 1929,
           "title": "Decolonize University-Based Databases"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7213",
-          "author": "DaigengnaDuoer",
-          "description": "This is a post by our guest contributors, Ulrich Rebstock and Marvin Müller The application AABC (African Alphabets of the …",
-          "link": "https://digitalorientalist.com/2022/01/21/aabc-african-alphabets-of-the-bayreuth-cluster/",
-          "publishedOn": "2022-01-21T13:00:00.000Z",
-          "wordCount": 1364,
-          "title": "AABC – African Alphabets of the Bayreuth Cluster"
         }
       ]
     },
@@ -3097,15 +3060,6 @@
           "publishedOn": "2022-01-28T20:05:25.000Z",
           "wordCount": 188,
           "title": "Free Tableau Data Analysis/Visualization Power Start Workshop Series, Monday Evenings 2/7, 2/14 and 2/21 from 6:00-9:00 PM ET"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-1760",
-          "author": "ash",
-          "description": "Dear CHR community,\nWe, together with CLS INFRA team, seek for your help and want to invite you to participate in the quick survey to map the current landscape and future directions in teaching computational literary studies!\nCLS INFRA project aims to  create unified and easy access to a wide range of European and national infrastructures for the Computational Literary Studies community. This includes: connecting the resources and establishing standardized access to them, providing training environments and consolidating research networks, promoting the theoretical considerations for computational work on literature.\nWith this survey, CLS INFRA is looking for your help to find out which areas of research you would like to see represented in learning the computational and research skills necessary for data-driven studies of literature. Everyone with interest in the subject is invited to partake in the survey, regardless of experience level. The survey takes about 10-15 minutes to complete and you will help us shape the future of computational literary studies! \nThe results of this survey will be used to supplement the current offer in training and schooling: CLS INFRA is organizing a series of Training Schools in the directions outlined by the research community.\nTake me to the survey.\nThanks in advance for your time – and for forwarding the survey to those who might be interested!\nBest wishes on behalf of the CLS INFRA project team,\nWeb\nTwitter\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/research-skills-in-computational-literary-studies-a-survey/1760",
-          "publishedOn": "2022-01-21T11:03:05.000Z",
-          "wordCount": 285,
-          "title": "Research skills in computational literary studies, a survey"
         }
       ]
     },
@@ -4640,6 +4594,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17068",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1632, a printed edition of John Minsheu’s Dialogos apazibles / Dialoghi piacevoli (Venice: Presso Giacomo Sarzina, 1626), dialogues in Spanish with parallel translations by Lorenzo Franciosini in Italian of 8 dialogues in a varietyContinue reading \"Manuscript Monday: Ms. Codex 1632 – Hybrid dialogues\"",
+          "link": "https://schoenberginstitute.org/2022/07/19/manuscript-monday-ms-codex-1632-hybrid-dialogues/",
+          "publishedOn": "2022-07-19T13:00:00.000Z",
+          "wordCount": 1097,
+          "title": "Manuscript Monday: Ms. Codex 1632 – Hybrid dialogues"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17061",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1631, a collection of printed and manuscript works concerning the history of Ostfriesland, primarily copies of official documents. It was compiled by Carl Oldenhove (Latinized form Carolus in inscription), Aurich, Germany, after 1718. AContinue reading \"Manuscript Monday: Ms. Codex 1631 – Ostfriesland history\"",
@@ -5122,15 +5085,6 @@
           "publishedOn": "2022-01-28T15:08:50.000Z",
           "wordCount": 752,
           "title": "Job Vacancy: Full-time FED-tWIN Position with Focus on Belgian Digital Book Heritage"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=957",
-          "author": "Nele Noppe",
-          "description": "Welcome to another week of new digital scholarschip resources added to the Artes Digital Scholarship Community on Zotero (learn more about this group and join with your Zotero account to get the group’s resources right in Zotero on your desktop). It’s a brief one; we’re currently reading a lot of excellent data management plans from new PhD researchers, which will be their own blog post sometime in February. In this edition: a fantastic new open access resource on data management in linguistics, unfortunate mishaps...",
-          "link": "https://scholarlytales.hcommons.org/2022/01/21/new-digital-scholarship-resources-january-15-21/",
-          "publishedOn": "2022-01-21T14:04:50.000Z",
-          "wordCount": 911,
-          "title": "New digital scholarship resources, January 15-21"
         }
       ]
     },
@@ -7631,6 +7585,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1540 at https://www.dri.ie",
+          "author": "bethknazook",
+          "description": "As part of the EOSC Future project, the Research Data Alliance (RDA) has issued two new open calls for Domain Ambassadors and Cross-disciplinary Adoption projects. These calls for proposals belong to a series of ‘RDA open calls’ supporting a European Open Science Cloud (EOSC) that satisfies the FAIR data and resource management needs of Europe’s research communities. Applications are open until 15 September 2022 16.00 CEST, via the EOSC Future Grants Platform.",
+          "link": "https://www.dri.ie/2nd-round-eosc-futurerda-open-calls-domain-ambassadors-and-cross-disciplinary-projects",
+          "publishedOn": "2022-07-18T10:47:49.000Z",
+          "wordCount": 1137,
+          "title": "Second Round of EOSC Future/RDA Open Calls for Domain Ambassadors and Cross-Disciplinary Projects"
+        },
         {
           "id": "1538 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
