@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-07-20T08:04:38.411Z</updated>
+    <updated>2022-07-21T08:03:27.964Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In Memoriam: Scott Enderle]]></title>
+        <id>1163 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/podcast/3/memoriam-scott-enderle"/>
+        <updated>2022-07-20T19:45:52.000Z</updated>
+        <summary type="html"><![CDATA[This special episode of the Price Lab Podcast is dedicated to our colleague and friend Scott Enderle who died on September 11, 2021. Scott was one of the DH Specialists associated with the Price Lab and a leading thinker and innovator in quantitative literary analysis. More importantly, he was simply one of the best people most of us knew. This episode combines some found audio of Scott talking about his work with thoughts and reflections from some of the people with whom he worked closely.
+Content Warning: This episode is very different from the others. It is quite sad at times and it deals with the death of a beloved member of our community, Scott Enderle. We were so lucky to get to work with Scott everyday at Penn but his presence loomed large in digital humanities and he had friends, fans, and collaborators all over the world. We're making this episode available for everyone but especially for those who knew and admired Scott.
+
+
+Podcast Season: 
+
+3
+
+Podcast Episode: 
+
+14
+
+
+
+
+
+
+Podcast Embed: 
+
+
+
+
+
+Podcast PubDate: 
+
+Wednesday, July 20, 2022]]></summary>
+        <author>
+            <name>svarner@upenn.edu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1632 – Hybrid dialogues]]></title>
         <id>http://schoenberginstitute.org/?p=17068</id>
@@ -2746,6 +2781,16 @@ See: github.com/wragge/tr…]]></summary>
         <summary type="html"><![CDATA[Ireland’s National Open Research Forum (NORF) will be announcing a Call for Proposals to address six priority Actions in the National Action Plan for Open Research.]]></summary>
         <author>
             <name>Natalie Harrower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DH Benelux 2022 long paper: Historic machines from ‘prams’ to ‘Parliament’: new avenues for collaborative linguistic research]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=2507</id>
+        <link href="https://livingwithmachines.ac.uk/dh-benelux-2022-long-paper-historic-machines-from-prams-to-parliament-new-avenues-for-collaborative-linguistic-research/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dh-benelux-2022-long-paper-historic-machines-from-prams-to-parliament-new-avenues-for-collaborative-linguistic-research"/>
+        <updated>2022-05-26T20:31:00.000Z</updated>
+        <summary type="html"><![CDATA[How can a simple research question like 'what was a machine?' provide an opportunity to engage the public with our work while also generating data for analysis and new avenues of research in a radically collaborative way?]]></summary>
+        <author>
+            <name>Mia Ridge</name>
         </author>
     </entry>
     <entry>
