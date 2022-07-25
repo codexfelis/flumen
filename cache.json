@@ -1821,15 +1821,6 @@
           "publishedOn": "2022-02-12T15:28:59.000Z",
           "wordCount": 1543,
           "title": "Power, Inequality, and DH: A Re-Cap of the CDHI’s Fifth Lightning Lunch (2021-2022)"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=4580",
-          "author": "DHN Admin",
-          "description": "The Critical Digital Humanities Initiative (CDHI) is pleased to announce a new postdoctoral fellowship program, with a focus on Community Data. The program will support two interdisciplinary postdoctoral fellows for two academic years, 2022-24. One fellow will be affiliated with the University of Toronto Faculty of Information (iSchool). One fellow will be affiliated with University of Toronto Scarborough (UTSC).",
-          "link": "https://dhn.utoronto.ca/community-data-postdocs/?utm_source=rss&utm_medium=rss&utm_campaign=community-data-postdocs",
-          "publishedOn": "2022-01-26T16:37:52.000Z",
-          "wordCount": 944,
-          "title": "Call for Funding: CDHI Postdoctoral Fellowship in Community Data (2022-24)"
         }
       ]
     },
@@ -1844,6 +1835,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/839",
+          "author": "406",
+          "description": "Die Kulturstiftung des Bundes fördert Kunst- und Kulturvorhaben im Rahmen der Zuständigkeit des Bundes. Ein Schwerpunkt ist die Förderung innovativer Programme und Projekte im…",
+          "link": "https://dig-hum.de/aktuelles/mehrere-stellenausschreibungen-der-kulturstiftung-des-bundes-hallesaale-0",
+          "publishedOn": "2022-07-24T13:57:33.000Z",
+          "wordCount": 801,
+          "title": "Mehrere Stellenausschreibungen bei der Kulturstiftung des Bundes (Halle/Saale)"
+        },
         {
           "id": "node/838",
           "author": "406",
@@ -3408,15 +3408,6 @@
           "publishedOn": "2022-01-31T11:33:50.000Z",
           "wordCount": 715,
           "title": "Sentiment Analysis per il latino: un viaggio da Seneca a Dante Alighieri"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2807",
-          "author": "Eleonora Litta",
-          "description": "Webinar: Humane Technology Lab\nDate: 9th March 2022, 18:30 CET\nLocation: Università Cattolica del Sacro Cuore, Milano\nThe post Webinar: Cosa c’entrano le Scienze Umanistiche con le Tecnologie? appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/webinar-cosa-centrano-le-scienze-umanistiche-con-le-tecnologie/",
-          "publishedOn": "2022-01-26T16:32:16.000Z",
-          "wordCount": 602,
-          "title": "Webinar: Cosa c’entrano le Scienze Umanistiche con le Tecnologie?"
         }
       ]
     },
@@ -3505,15 +3496,6 @@
           "publishedOn": "2022-01-31T11:33:50.000Z",
           "wordCount": 715,
           "title": "Sentiment Analysis per il latino: un viaggio da Seneca a Dante Alighieri"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2807",
-          "author": "Eleonora Litta",
-          "description": "Webinar: Humane Technology Lab\nDate: 9th March 2022, 18:30 CET\nLocation: Università Cattolica del Sacro Cuore, Milano\nThe post Webinar: Cosa c’entrano le Scienze Umanistiche con le Tecnologie? appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/webinar-cosa-centrano-le-scienze-umanistiche-con-le-tecnologie/",
-          "publishedOn": "2022-01-26T16:32:16.000Z",
-          "wordCount": 602,
-          "title": "Webinar: Cosa c’entrano le Scienze Umanistiche con le Tecnologie?"
         }
       ]
     },
@@ -4247,6 +4229,66 @@
       "feedUrl": "https://reviewsindh.pubpub.org/rss.xml",
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
+        {
+          "id": "b2b791df-3019-47b1-80b5-5ddf4fe45998",
+          "author": "Spencer D. C. Keralis",
+          "description": "A review of Linked Archives, a digital tool for linked data in archives, led by Jason Ensor and Helen Bones",
+          "link": "https://reviewsindh.pubpub.org/pub/linked-archives",
+          "publishedOn": "2022-07-25T00:00:00.000Z",
+          "wordCount": 1459,
+          "title": "Review: Linked Archives",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/dgpg44ml/61658686160891.png"
+          }
+        },
+        {
+          "id": "a2fe4c74-2342-42b1-b0d1-1542140e3c07",
+          "author": "Katrina Jagodinsky",
+          "description": "A review of They Came on Waves of Ink, a digital mapping project of a U.S. Customs ledger for the Puget Sound Customs District, directed by Sean Fraga",
+          "link": "https://reviewsindh.pubpub.org/pub/they-came-on-waves-of-ink",
+          "publishedOn": "2022-07-25T00:00:00.000Z",
+          "wordCount": 1460,
+          "title": "Review: They Came on Waves of Ink",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/pmcltl3f/11658684589729.png"
+          }
+        },
+        {
+          "id": "5bcb058d-1451-451b-8ee1-1c5f3dbe4b70",
+          "author": "Rebekah Aycock",
+          "description": "A review of Mapping Memphis, a geospatial project using funeral ledger data, directed by Abigail Norris",
+          "link": "https://reviewsindh.pubpub.org/pub/mapping-memphis",
+          "publishedOn": "2022-07-25T00:00:00.000Z",
+          "wordCount": 1174,
+          "title": "Review: Mapping Memphis",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/0vsstge4/31658676247569.png"
+          }
+        },
+        {
+          "id": "f3c216dd-0ec5-42a2-8b98-6a145577264b",
+          "author": "Cristina Migliaccio",
+          "description": "Two reviews of DECIMA, a project mapping 16th and 17th century Tuscany, directed by Nicholas Terpstra and Colin Rose",
+          "link": "https://reviewsindh.pubpub.org/pub/decima",
+          "publishedOn": "2022-07-25T00:00:00.000Z",
+          "wordCount": 2213,
+          "title": "Reviews: DECIMA",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/6w1ec0ai/21658693117324.png"
+          }
+        },
+        {
+          "id": "fd5fdafc-ab61-4996-af2a-5eaa2951918d",
+          "author": "Roopika Risam",
+          "description": "Editors' Note on the July 2022 issue of Reviews in Digital Humanities",
+          "link": "https://reviewsindh.pubpub.org/pub/editors-note-july-2022",
+          "publishedOn": "2022-07-25T00:00:00.000Z",
+          "wordCount": 802,
+          "title": "Editors' Note: July 2022",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/kg4h4ky7/71658675466543.png"
+          }
+        },
         {
           "id": "b191fb9d-f215-4271-842b-2f0438e69d44",
           "author": "Roopika Risam",
