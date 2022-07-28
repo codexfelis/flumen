@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-07-27T08:07:42.737Z</updated>
+    <updated>2022-07-28T08:03:30.960Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Catching up – some recent GLAM Workbench updates!]]></title>
+        <id>http://wragge.micro.blog/2022/07/28/catching-up-some.html</id>
+        <link href="https://updates.timsherratt.org/2022/07/28/catching-up-some.html"/>
+        <updated>2022-07-28T04:59:13.000Z</updated>
+        <summary type="html"><![CDATA[There’s been lots of small updates to the GLAM Workbench over the last couple of months and I’ve fallen behind in sharing details. So here’s an omnibus list of everything I can remember…
+Data
+Weekly harvests of basic Trove newspaper data continue, there’s now about three months worth. You can view a summary of the harvested data through the brand new Trove Newspaper Data Dashboard. The Dashboard is generated from a Jupyter notebook and is updated whenever there’s a new data harvest.
+There’s also weekly harvests of files digitised by the NAA, now 16 months worth of data.
+Updated harvest of Trove public tags (Zenodo) – includes 2,201,090 unique public tags added to 9,370,614 resources in Trove between August 2008 and July 2022.
+I’ve started moving other pre-harvested datasets out of the GLAM…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cindy Ma – Streaming to transgress: The racial politics of reactionary YouTubers and their audiences]]></title>
+        <id>https://digitaldemocracies.org/?p=4170</id>
+        <link href="https://digitaldemocracies.org/cindy-ma-streaming-to-transgress-the-racial-politics-of-reactionary-youtubers-and-their-audiences/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cindy-ma-streaming-to-transgress-the-racial-politics-of-reactionary-youtubers-and-their-audiences"/>
+        <updated>2022-07-27T16:27:37.000Z</updated>
+        <summary type="html"><![CDATA[This post was written by Carina Albrecht, PhD Candidate and Mellon-SFU fellow at the Digital Democracies Institute. On June 8, 2022, we had the pleasure of hosting Cindy Ma at …
+  Cindy Ma – Streaming to transgress: The racial politics of reactionary YouTubers and their audiences Read More »
+Cindy Ma – Streaming to transgress: The racial politics of reactionary YouTubers and their audiences first appeared on Digital Democracies Institute.]]></summary>
+        <author>
+            <name>Kayla Hilstob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notice Re Repository Downtime]]></title>
+        <id>1546 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/notice-re-repository-downtime"/>
+        <updated>2022-07-27T15:45:35.000Z</updated>
+        <summary type="html"><![CDATA[In order to perform essential maintenance, the workspace on the DRI Repository will be offline between 8am and 10am Thursday 28th of July, 2022.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Call for Volunteers: Join the SSH Open Marketplace Editorial Board]]></title>
+        <id>5766 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/open-call-volunteers-join-ssh-open-marketplace-editorial-board"/>
+        <updated>2022-07-27T14:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Open Call for Volunteers: Join the SSH Open Marketplace Editorial Board
+
+            
+The infrastructures behind the sustainability of the SSH Open Marketplace, CESSDA, DARIAH, and CLARIN are welcoming applications to appoint 7 to 10 volunteer moderators as members of the Editorial Board.
+The SSH Open Marketplace is a discovery portal which pools and contextualises resources for Social Sciences and Humanities research communities: tools, services, training materials, datasets, publications and workflows.
+The Editorial Team, liaising with the service providers and the end-users of the service (SSH researchers and support staff for researchers) ensures the technical running of operation, the effectiveness of the curation process and the editorial policy’s successful implementation. The Edito…]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Premier lauréat de la Bourse commémorative Stéfan Sinclair]]></title>
         <id>https://csdh-schn.org/?p=1089</id>
@@ -11034,43 +11086,6 @@ The post Sentiment Analysis per il latino: un viaggio da Seneca a Dante Alighier
         <summary type="html"><![CDATA[New Report Published by DRI]]></summary>
         <author>
             <name>Deborah Thorpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Portraits in DH: DISCO Network]]></title>
-        <id>https://ach.org/?p=2302</id>
-        <link href="https://ach.org/blog/2022/01/29/portraits-in-dh-disco-network/"/>
-        <updated>2022-01-29T18:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Creating Equitable and Just Futures in the Digital About the interviewer, Dr. Kevin C. Winstead: As a Council of Library and Information Research (CLIR) Postdoctoral Fellow for African American and African Studies Data Curation with the Center for Black Digital Research at Penn State University, my work has closely followed the evolution of Black Digital…Continue reading.]]></summary>
-        <author>
-            <name>jwoowinter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zotero support in Australian GLAMs]]></title>
-        <id>http://wragge.micro.blog/2022/01/29/zotero-support-in.html</id>
-        <link href="https://updates.timsherratt.org/2022/01/29/zotero-support-in.html"/>
-        <updated>2022-01-29T06:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Last year I started compiling information about the level of Zotero integration provided by Australian GLAM organisations though their online collections. The basic test is, can Zotero capture useful, structured information about an item from the collection interface. The results are not great.
-Zotero extracts information from a web site using a variety of 'translators'. Some of these translators look for generic information embedded in a web page, such as <TITLE> and <META> tags. Others are written to work with widely-used software systems, such as library catalogues. For bespoke systems, custom translators can be created to extract the necessary data. But sometimes, the data just isn't available in a form Zotero can access.
-custom translator for it many years ago. There's also a custom translator for Trove's digitised newspapers, but the translator for other parts of Trove was broken by the site's upgrade in 2020. 
-  
-Dublin Core metadata in web pages, and Australian government agencies were expected to make use of AGLS to aid web discovery. But it seems these are no longer priorities.
-  
-The good news is we can fix this, either by supporting and encouraging GLAM organisations to embed useful metadata, or by creating custom translators. There's been a lot of talk about HASS research infrastructure over the last six months, and it seems to me that some integration and cooperation in this area would make a big difference to the way researchers work with GLAM collections.
-online form available if you'd like to contribute new results to the spreadsheet, or update existing details.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forgeries]]></title>
-        <id>http://schoenberginstitute.org/?p=16262</id>
-        <link href="https://schoenberginstitute.org/2022/01/28/forgeries/"/>
-        <updated>2022-01-28T22:06:39.000Z</updated>
-        <summary type="html"><![CDATA[For Coffee With A Codex on Wednesday, January 26, Schoenberg Curator of Manuscripts Nick Herman showed us several forgeries and reproductions from Kislak collections. The first manuscript is LJS 102, an Ethiopian manuscript written in Ge’ez. The text is religious, Account of Creation by the Trinity (Zena nagaromu, f. 1r), followed by hymns. The manuscriptContinue reading "Forgeries"]]></summary>
-        <author>
-            <name>dotporter</name>
         </author>
     </entry>
     <entry>
