@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-07-28T08:03:30.960Z</updated>
+    <updated>2022-07-29T08:03:46.781Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Where did all those NSW articles go? Trove Newspapers Data Dashboard update!]]></title>
+        <id>http://wragge.micro.blog/2022/07/29/where-did-all.html</id>
+        <link href="https://updates.timsherratt.org/2022/07/29/where-did-all.html"/>
+        <updated>2022-07-29T03:20:34.000Z</updated>
+        <summary type="html"><![CDATA[I was looking at my Trove Newspapers Data Dashboard again last night trying to figure out why the number of newspaper articles from NSW seemed to have dropped by more than 700,000 since my harvesting began. It took me a while to figure out, but it seems that the search index was rebuilt on 31 May, and that caused some major shifts in the distribution of articles by state, as reported by the main result API. So the indexing of the articles changed, not the actual number of articles. Interestingly, the number of articles by state reported by the newspaper API doesn’t show the same fluctuations.
+
+This adds another layer of complexity to understanding how Trove changes over time. To try and document such things, I’ve added a ‘Significant events’ section to the Dashboard. I’ve also included a new ‘Total articles by publication state’ section that compares results from the result and newspaper APIs. This should make it easier to identify such issues in the future.
+Stay alert people – remember, search interfaces lie!]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New ADHO Communications Streams: A new website, newsletter, and podcast!]]></title>
+        <id>https://adho.org/?p=1333</id>
+        <link href="https://adho.org/2022/07/28/new-website/"/>
+        <updated>2022-07-28T13:37:00.000Z</updated>
+        <summary type="html"><![CDATA[We are so pleased to announce the launch of a new website for ADHO along with a newsletter and podcast! Built in WordPress, our new website features much of the same content from the previous website with some important updates and is designed with accessibility and usability as guiding principles. Perhaps most significantly, the site… Read More »New ADHO Communications Streams: A new website, newsletter, and podcast!]]></summary>
+        <author>
+            <name>hannah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professor Shreepali Patel]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-shreepali-patel/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-shreepali-patel/"/>
+        <updated>2022-07-28T13:09:24.000Z</updated>
+        <summary type="html"><![CDATA[Shreepali is Professor of Film & Screen, University of the Arts London, filmmaker and writer. A former BBC producer/director, her practice-led research is underpinned by 30 years of film and broadcast industry experience. She provides story consultancy and the development of new strategies and creative intervention to support the preservation of identity, culture and heritage and to surface]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Catching up – some recent GLAM Workbench updates!]]></title>
         <id>http://wragge.micro.blog/2022/07/28/catching-up-some.html</id>
@@ -184,6 +217,16 @@ Zoom
 August’s coffee morning will be hosted by Niamh McCabe Senior Programme Manager for Grants for the RIA who will be discussing the range of grants that the RIA run throughout the year.]]></summary>
         <author>
             <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join the ADHO Executive Board and Committees]]></title>
+        <id>https://adho.org/?p=1355</id>
+        <link href="https://adho.org/2022/07/25/join-adho-eb-committees/"/>
+        <updated>2022-07-25T13:03:12.000Z</updated>
+        <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks nominations of committed individuals who would like to actively help further DH in all its breadth and diversity for the following volunteer positions: Deputy Treasurer (Incoming) Deputy Communications Officer Conference Coordinating Committee Deputy Chair (Incoming) Awards Committee Chair All of these positions have a global reach, but… Read More »Join the ADHO Executive Board and Committees]]></summary>
+        <author>
+            <name>hannah</name>
         </author>
     </entry>
     <entry>
@@ -1629,6 +1672,16 @@ You are welcome to submit a news item with CLARIN-related news (or call for pape
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Anuncio del grupo de trabajo de inclusión interseccional de la ADHO]]></title>
+        <id>https://adho.org/2022/06/22/anuncio-del-grupo-de-trabajo-de-inclusion-interseccional-de-la-adho/</id>
+        <link href="https://adho.org/2022/06/22/anuncio-del-grupo-de-trabajo-de-inclusion-interseccional-de-la-adho/"/>
+        <updated>2022-06-22T01:52:44.000Z</updated>
+        <summary type="html"><![CDATA[English | Italiano El Grupo de trabajo de inclusión interseccional de ADHO (inicialmente el Grupo de trabajo contra el racismo) surge de una necesidad directa y apremiante de abordar las desigualdades sistémicas dentro de ADHO y la comunidad relacionada con sus actividades.* Dichas desigualdades incluyen, entre otros factores, raza, clase, género, (dis)capacidad, casta, tribu, sexualidad,… Read More »Anuncio del grupo de trabajo de inclusión interseccional de la ADHO]]></summary>
+        <author>
+            <name>hannah</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CLARIN at LREC2022: Wednesday 22]]></title>
         <id>5751 at https://www.clarin.eu</id>
         <link href="https://www.clarin.eu/news/clarin-lrec2022-wednesday-22"/>
@@ -2184,6 +2237,16 @@ The post New Webinar: Ask Us Anything About Transkribus appeared first on READ-C
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Annuncio della task force sull’inclusione intersezionale dell’ADHO]]></title>
+        <id>https://adho.org/?p=1028</id>
+        <link href="https://adho.org/2022/06/15/annuncio-della-task-force-sullinclusione-intersezionale-delladho/"/>
+        <updated>2022-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[English | Español Intersectional Inclusion Task Force, la task force per l’inclusione intersezionale di ADHO (inizialmente Task Force Anti-Razzismo), nasce dall’esigenza diretta e pressante di affrontare le disuguaglianze sistemiche all’interno di ADHO e della più ampia comunità DH connessa alle sue attività*, tra cui, ma non solo, razza, classe, genere, abilità, casta, tribù, sessualità, nazionalità,… Read More »Annuncio della task force sull’inclusione intersezionale dell’ADHO]]></summary>
+        <author>
+            <name>hannah</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stellenangebot: Koordinator (m/w/d) Klassik Stiftung Weimar]]></title>
         <id>node/816</id>
         <link href="https://dig-hum.de/aktuelles/stellenangebot-koordinator-mwd-klassik-stiftung-weimar"/>
@@ -2284,6 +2347,16 @@ Dichas desigualdades incluyen, entre otros factores, raza, clase, género, (dis)
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 304, a dogale written in Venice, dated 6 March 1574. The manuscript is a commission from Alvise Mocenigo, doge of Venice, addressed to Girolamo Priuli (not to be confused with the Girolamo Priuli, of theContinue reading "Manuscript Monday: LJS 304 – Dogale"]]></summary>
         <author>
             <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anuncio del grupo de trabajo de inclusión interseccional de la ADHO]]></title>
+        <id>https://adho.org/?p=1024</id>
+        <link href="https://adho.org/2022/06/13/anuncio-del-grupo-de-trabajo-de-inclusion-interseccional-de-la-adho-2/"/>
+        <updated>2022-06-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[English | Italiano El Grupo de trabajo de inclusión interseccional de ADHO (inicialmente el Grupo de trabajo contra el racismo) surge de una necesidad directa y apremiante de abordar las desigualdades sistémicas dentro de ADHO y la comunidad relacionada con sus actividades.* Dichas desigualdades incluyen, entre otros factores, raza, clase, género, (dis)capacidad, casta, tribu, sexualidad,… Read More »Anuncio del grupo de trabajo de inclusión interseccional de la ADHO]]></summary>
+        <author>
+            <name>hannah</name>
         </author>
     </entry>
     <entry>
@@ -3303,6 +3376,16 @@ In the first several months (2022) the incumbent will act as ADHO EB Deputy Secr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Call for Nominations / Applicants – ADHO Executive Board Secretary]]></title>
+        <id>https://adho.org/?p=1020</id>
+        <link href="https://adho.org/2022/05/24/call-for-nominations-applicants-adho-executive-board-secretary/"/>
+        <updated>2022-05-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ADHO is seeking a new Secretary of its Executive Board, starting immediately. As with all ADHO Offices, it is an unremunerated position appointed by ADHO’s governing body, the Constituent Organization Board (COB). The ADHO Executive Board Secretary works closely with the EB, the Constituent Organization Board (COB), and occasionally with various officers of the Constituent… Read More »Call for Nominations / Applicants – ADHO Executive Board Secretary]]></summary>
+        <author>
+            <name>hannah</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dr Oliver Dunn]]></title>
         <id>https://www.cdh.cam.ac.uk/about/people/dr-oliver-dunn/</id>
         <link href="https://www.cdh.cam.ac.uk/about/people/dr-oliver-dunn/"/>
@@ -3367,6 +3450,16 @@ The post Doing the Digital Laundry? Notes on Cleaning Unstructured Text Data app
         <summary type="html"><![CDATA[Director Caroline Bassett featured in Alumni magazine: What does it means to be human in a technological world? Every new wave of technology creates profound questions about what it means to be human, says Professor Caroline Bassett. Read the article here: https://magazine.alumni.cam.ac.uk/what-does-it-means-to-be-human-in-a-technological-world/ Words: Amelia Tait Photography: Sara Agutoli]]></summary>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing ADHO’s Intersectional Inclusion Task Force]]></title>
+        <id>https://adho.org/?p=999</id>
+        <link href="https://adho.org/2022/05/24/announcing-adhos-intersectional-inclusion-task-force/"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Español | Italiano ADHO’s Intersectional Inclusion Task Force (initially the Anti-racism Task Force) emerges from a direct and pressing need to address systemic inequalities within ADHO and the broader DH community connected to its activities,* including but not limited to race, class, gender, ability, caste, tribe, sexuality, nationality, geographical location, religion, health, language, or other… Read More »Announcing ADHO’s Intersectional Inclusion Task Force]]></summary>
+        <author>
+            <name>hannah</name>
         </author>
     </entry>
     <entry>
@@ -6292,6 +6385,16 @@ There’s also a notebook in the GLAM Workbench that explores this sort of data.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zampolli Prize Awarded to Voyant Tools]]></title>
+        <id>https://adho.org/?p=997</id>
+        <link href="https://adho.org/2022/04/20/zampolli-prize-awarded-to-voyant-tools/"/>
+        <updated>2022-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recognizing a singular achievement in the digital humanities, the Zampolli Prize is named in honor of Professor Antonio Zampolli (1937-2003), who was a founding member of the Association for Literary and Linguistic Computing (ALLC), ALLC President from 1983-2003, and a leader in establishing the Text Encoding Initiative (TEI) and the TEI Consortium. ADHO awards the… Read More »Zampolli Prize Awarded to Voyant Tools]]></summary>
+        <author>
+            <name>hannah</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fluid Matter(s): An Interview with Shigehisa Kuriyama and Natalie Köhle on Image-Based Storytelling, Part 1]]></title>
         <id>http://digitalorientalist.com/?p=8103</id>
         <link href="https://digitalorientalist.com/2022/04/19/fluid-matters-an-interview-with-shigehisa-kuriyama-and-natalie-kohle-on-image-based-storytelling-part-1/"/>
@@ -7221,6 +7324,16 @@ Zum Blogpost geht es hier: https://dhd-blog.…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Call For 2022-23 ADHO Conference Coordinating Committee Fellow]]></title>
+        <id>https://adho.org/?p=994</id>
+        <link href="https://adho.org/2022/04/04/call-for-2022-23-adho-conference-coordinating-committee-fellow/"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for a Conference Coordinating Committee (CCC) Fellow – a position that comes with a stipend of The CCC Fellow €500 (Euros). The Fellow will work with the three members of the Conference Coordinating Committee, as well as more broadly with various members of the international ADHO… Read More »Call For 2022-23 ADHO Conference Coordinating Committee Fellow]]></summary>
+        <author>
+            <name>hannah</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NFDI4Culture-Veranstaltung: Kulturdaten und Datenqualität – offen über Probleme sprechen 2.5.2022]]></title>
         <id>node/801</id>
         <link href="https://dig-hum.de/aktuelles/nfdi4culture-veranstaltung-kulturdaten-und-datenqualit%C3%A4t-%E2%80%93-offen-%C3%BCber-probleme-sprechen"/>
@@ -7914,6 +8027,16 @@ Dispatches from the Place of Imminence by Svitlana Matviyenko, part 6 first appe
         <summary type="html"><![CDATA[This is a copy of a post I wrote for the Zooniverse forum, sharing our progress with volunteers on our crowdsourcing projects. We’ve set various lines of analysis running to work out which newspaper titles to look at next, working on a possible ‘locations’ task to get more fine-grained data about accidents to include in […]]]></summary>
         <author>
             <name>Mia Ridge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Hosts, DH2024]]></title>
+        <id>https://adho.org/?p=873</id>
+        <link href="https://adho.org/2022/03/22/call-for-hosts-dh2024/"/>
+        <updated>2022-03-22T14:41:03.000Z</updated>
+        <summary type="html"><![CDATA[The Conference Coordinating Committee of the Alliance of Digital Humanities Organizations (ADHO) invites proposals to host the Digital Humanities Conference in 2024. Digital Humanities (DH) is ADHO’s annual international conference. ADHO’s constituent organizations are the European Association for Digital Humanities (EADH); the Association for Computers and the Humanities (ACH); the Canadian Society for Digital Humanities… Read More »Call for Hosts, DH2024]]></summary>
+        <author>
+            <name>Anna Sofia Lippolis</name>
         </author>
     </entry>
     <entry>
