@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-08-01T08:04:05.852Z</updated>
+    <updated>2022-08-02T08:03:55.538Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet Our New DH Associate Director]]></title>
+        <id>https://dhblog.sdsu.edu/?p=600</id>
+        <link href="https://dhblog.sdsu.edu/dh-news/meet-our-new-dh-associate-director"/>
+        <updated>2022-08-01T22:30:58.000Z</updated>
+        <summary type="html"><![CDATA[The DH Initiative enthusiastically welcomes our newest DH Associate Director for Fall 2022. Dr. Sureshi Jayawardene will be working on a few major projects in the next two years. The first of which is to bring Digital Humanities to the Africana Studies, American Indian Studies, Asian American Studies, and Chicano and Chicana Studies in the […]]]></summary>
+        <author>
+            <name>Pam Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ausschreibung: DHd Communications Fellowship (Verlängerte Bewerbungsfrist: 31.08.22)]]></title>
+        <id>node/841</id>
+        <link href="https://dig-hum.de/aktuelles/ausschreibung-dhd-communications-fellowship-verl%C3%A4ngerte-bewerbungsfrist-310822"/>
+        <updated>2022-08-01T19:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Was gehört zu den Aufgaben?
+Zu den Aufgaben gehören neben der Erstellung von Beiträgen für den DHd-Blog vor allem die Betreuung des DHd Twitter-Accounts (ggf. Instagram und…]]></summary>
+        <author>
+            <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Anti) Colonial Archives]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/programme/dataschools/anti-colonial-archives/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/programme/dataschools/anti-colonial-archives/"/>
+        <updated>2022-08-01T13:26:13.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition]]></title>
+        <id>http://schoenberginstitute.org/?p=17082</id>
+        <link href="https://schoenberginstitute.org/2022/08/01/manuscript-monday-ms-codex-1639-proceedings-of-inquisition/"/>
+        <updated>2022-08-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1639, proceedings of the Inquisition in Mexico concerning riots in Mexico City and elsewhere in 1767. A compilation of various letters, declarations, and legal documents, many with signatures and many noted as reviewed byContinue reading "Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View embedded JSON metadata for Trove's digitised books and journals]]></title>
+        <id>http://wragge.micro.blog/2022/08/01/view-embedded-json.html</id>
+        <link href="https://updates.timsherratt.org/2022/08/01/view-embedded-json.html"/>
+        <updated>2022-08-01T08:22:47.000Z</updated>
+        <summary type="html"><![CDATA[The metadata for digitised books and journals in Trove can seem a bit sparse, but there’s quite a lot of useful metadata embedded within Trove’s web pages that isn’t displayed to users or made available through the Trove API. This notebook in the GLAM Workbench shows you how you can access it. To make it even easier, I’ve added a new endpoint to my Trove Proxy that returns the metadata in JSON format.
+Just pass the url of a digitised book or journal as a parameter named url to https://trove-proxy.herokuapp.com/metadata/. For example:
+https://trove-proxy.herokuapp.com/metadata/?url=https://nla.gov.au/nla.obj-2906940941
+
+I’ve created a simple bookmarklet to make it simpler to open the proxy. To use it just:
+Drag this link to your bookmarks toolbar: Get Trove work metadata
+View a digitised book or journal in Trove.
+Click on the bookmarklet to view the metadata in JSON format.
+To view the JSON data in your browser you might need to install an extension like JSONView.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Greetings from the New Presidents]]></title>
         <id>https://ach.org/?p=2409</id>
@@ -11093,64 +11151,6 @@ Digital Black Feminism traces the long history of Black women's relationships wi
         <summary type="html"><![CDATA[Shuge 書格 is a free, online database of Chinese rare books, which offers a continuously expanding collection of high-quality scans for …]]></summary>
         <author>
             <name>bryceheatherly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#jobopportunity Recrutement d'un.e ingénieur.e d'études pour l'ANR TopUrbi]]></title>
-        <id>1384 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2022/02/03/jobopportunity-recrutement-dune-ingenieure-detudes-pour-lanr-topurbi"/>
-        <updated>2022-02-03T16:14:01.000Z</updated>
-        <summary type="html"><![CDATA[17 Feb 2022 - 00:00
-
-
-
-#jobopportunity Recrutement d'un.e ingénieur.e d'études pour l'ANR TopUrbi
-
-
-
-Dans le cadre du projet ANR Top Urbi (2022-2026), consacré à la topographie de l'urbanisme impérial de l'Amérique hispanique au XVIIIe siècle, nous recherchons un.e ingenieur.e. d'étude qui serait chargé.e de mettre en œuvre un protocole d'enrichissement structurel et sémantique par un balisage en XML/TEI du Diccionario geográfico-histórico de las Indias occidentales d'Antonio d'Alcedo.
-La personne intégrera une équipe composée d'historien.nes, d'anthropologues, d'archéologues, de linguistes et de spécialistes en analyse textuelle et géomatique.
- 
-La fiche détaillée du poste ainsi que le lien pour postuler sont accessibles via ce lien : https://emploi.cnrs.fr/Offres/CDD/UMR7227-BANDAS-001/Default.aspx
- 
-Le contrat est d'une durée de 1 an et débute le 1er mars 2022.
-La date limite de candidature est fixée au 17 février 2022.
-Le poste est principalement localisé à Paris.]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A PhD at the University of Padua]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=9506</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/02/03/a-phd-at-the-university-of-padua/"/>
-        <updated>2022-02-03T09:32:40.000Z</updated>
-        <summary type="html"><![CDATA[The University of Padua offers a fellowship to complete a PhD in the field of Science and Technology Studies. The successful candidate will be based at Pa.S.T.I.S – Padova Science Technology and Innovation Studies. Pa.S.T.I.S Pa.S.T.I.S. is a social sciences research unit focused on the study of science and technology, innovation processes, and communication with […]
-The post A PhD at the University of Padua appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[University of St. Gallen : Open position for a PhD in Science and Technology Studies]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=9490</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/02/03/university-of-st-gallen-open-position-for-a-phd-in-science-and-technology-studies/"/>
-        <updated>2022-02-03T08:20:06.000Z</updated>
-        <summary type="html"><![CDATA[The Department of Technology Studies (Technology Studies, SHSS) of the University of St. Gallen offer the opportunity to undertake a doctoral degree in the DOK-Program (50-70%, duration: max. 5 years). The PhD student will work as a research/teaching assistant 10-20% as part of the Technology Studies team of Prof. Tanja Schneider and the remainder of the workload […]
-The post University of St. Gallen : Open position for a PhD in Science and Technology Studies appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traces of Tomorrow: Decolonizing Vietnamese Commercial Paintings with 3D Scanning and CNC Machining]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8116</id>
-        <link href="https://sites.temple.edu/tudsc/2022/02/02/traces-of-tomorrow-decolonizing-vietnamese-commercial-paintings-with-3d-scanning-and-cnc-machining/"/>
-        <updated>2022-02-02T21:38:31.000Z</updated>
-        <summary type="html"><![CDATA[By Chau Nguyen Intro During my MFA in Painting at the Tyler School of Art and Architecture, I’ve embarked on a quest to incorporate Makerspace technologies into my art practice through fellowship...
-The post Traces of Tomorrow: Decolonizing Vietnamese Commercial Paintings with 3D Scanning and CNC Machining appeared first on Loretta C. Duckworth Scholars Studio.]]></summary>
-        <author>
-            <name>Chau Nguyen</name>
         </author>
     </entry>
     <entry>

@@ -962,6 +962,15 @@
       "siteUrl": "https://dhblog.sdsu.edu",
       "articles": [
         {
+          "id": "https://dhblog.sdsu.edu/?p=600",
+          "author": "Pam Lach",
+          "description": "The DH Initiative enthusiastically welcomes our newest DH Associate Director for Fall 2022. Dr. Sureshi Jayawardene will be working on a few major projects in the next two years. The first of which is to bring Digital Humanities to the Africana Studies, American Indian Studies, Asian American Studies, and Chicano and Chicana Studies in the […]",
+          "link": "https://dhblog.sdsu.edu/dh-news/meet-our-new-dh-associate-director",
+          "publishedOn": "2022-08-01T22:30:58.000Z",
+          "wordCount": 561,
+          "title": "Meet Our New DH Associate Director"
+        },
+        {
           "id": "https://dhblog.sdsu.edu/?p=585",
           "author": "Pam Lach",
           "description": "This spring, the DH Center welcomed three new student assistants to the team. They’ll be working to develop new tool tutorials for us. Mik Knight Hi! My name is Mik and I am a second-year Master’s student in the department of Women’s Studies. My research takes a technofeminist approach to dissecting social media censorship, digital […]",
@@ -1687,24 +1696,6 @@
           "publishedOn": "2022-02-08T09:37:48.000Z",
           "wordCount": 1300,
           "title": "Appel à contribuer au numéro: « Numérisation du patrimoine et modélisation des connaissances »"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9506",
-          "author": "Heloise schibler",
-          "description": "The University of Padua offers a fellowship to complete a PhD in the field of Science and Technology Studies. The successful candidate will be based at Pa.S.T.I.S – Padova Science Technology and Innovation Studies. Pa.S.T.I.S Pa.S.T.I.S. is a social sciences research unit focused on the study of science and technology, innovation processes, and communication with […]\nThe post A PhD at the University of Padua appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/02/03/a-phd-at-the-university-of-padua/",
-          "publishedOn": "2022-02-03T09:32:40.000Z",
-          "wordCount": 591,
-          "title": "A PhD at the University of Padua"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9490",
-          "author": "Heloise schibler",
-          "description": "The Department of Technology Studies (Technology Studies, SHSS) of the University of St. Gallen offer the opportunity to undertake a doctoral degree in the DOK-Program (50-70%, duration: max. 5 years). The PhD student will work as a research/teaching assistant 10-20% as part of the Technology Studies team of Prof. Tanja Schneider and the remainder of the workload […]\nThe post University of St. Gallen : Open position for a PhD in Science and Technology Studies appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/02/03/university-of-st-gallen-open-position-for-a-phd-in-science-and-technology-studies/",
-          "publishedOn": "2022-02-03T08:20:06.000Z",
-          "wordCount": 583,
-          "title": "University of St. Gallen : Open position for a PhD in Science and Technology Studies"
         }
       ]
     },
@@ -1925,6 +1916,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/841",
+          "author": "406",
+          "description": "Was gehört zu den Aufgaben?\nZu den Aufgaben gehören neben der Erstellung von Beiträgen für den DHd-Blog vor allem die Betreuung des DHd Twitter-Accounts (ggf. Instagram und…",
+          "link": "https://dig-hum.de/aktuelles/ausschreibung-dhd-communications-fellowship-verl%C3%A4ngerte-bewerbungsfrist-310822",
+          "publishedOn": "2022-08-01T19:58:14.000Z",
+          "wordCount": 901,
+          "title": "Ausschreibung: DHd Communications Fellowship (Verlängerte Bewerbungsfrist: 31.08.22)"
+        },
         {
           "id": "node/839",
           "author": "406",
@@ -3352,15 +3352,6 @@
           "publishedOn": "2022-02-16T14:26:47.000Z",
           "wordCount": 776,
           "title": "CfP El’Manuscript-2022 - “Textual Heritage and Information Technologies” International Conference"
-        },
-        {
-          "id": "1384 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "17 Feb 2022 - 00:00\n\n\n\n#jobopportunity Recrutement d'un.e ingénieur.e d'études pour l'ANR TopUrbi\n\n\n\nDans le cadre du projet ANR Top Urbi (2022-2026), consacré à la topographie de l'urbanisme impérial de l'Amérique hispanique au XVIIIe siècle, nous recherchons un.e ingenieur.e. d'étude qui serait chargé.e de mettre en œuvre un protocole d'enrichissement structurel et sémantique par un balisage en XML/TEI du Diccionario geográfico-histórico de las Indias occidentales d'Antonio d'Alcedo.\nLa personne intégrera une équipe composée d'historien.nes, d'anthropologues, d'archéologues, de linguistes et de spécialistes en analyse textuelle et géomatique.\n \nLa fiche détaillée du poste ainsi que le lien pour postuler sont accessibles via ce lien : https://emploi.cnrs.fr/Offres/CDD/UMR7227-BANDAS-001/Default.aspx\n \nLe contrat est d'une durée de 1 an et débute le 1er mars 2022.\nLa date limite de candidature est fixée au 17 février 2022.\nLe poste est principalement localisé à Paris.",
-          "link": "https://eadh.org/news/2022/02/03/jobopportunity-recrutement-dune-ingenieure-detudes-pour-lanr-topurbi",
-          "publishedOn": "2022-02-03T16:14:01.000Z",
-          "wordCount": 435,
-          "title": "#jobopportunity Recrutement d'un.e ingénieur.e d'études pour l'ANR TopUrbi"
         }
       ]
     },
@@ -4636,6 +4627,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17082",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1639, proceedings of the Inquisition in Mexico concerning riots in Mexico City and elsewhere in 1767. A compilation of various letters, declarations, and legal documents, many with signatures and many noted as reviewed byContinue reading \"Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition\"",
+          "link": "https://schoenberginstitute.org/2022/08/01/manuscript-monday-ms-codex-1639-proceedings-of-inquisition/",
+          "publishedOn": "2022-08-01T13:00:00.000Z",
+          "wordCount": 1079,
+          "title": "Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17075",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1634, plans of fortifications for use at the royal academy of artillery and fortification founded in Turin in 1678, consisting entirely of figures of plans and elevations, some with landscape elements added in theContinue reading \"Manuscript Monday: Ms. Codex 1634 – Plans of fortifications\"",
@@ -5143,15 +5143,6 @@
           "publishedOn": "2022-02-08T21:17:48.000Z",
           "wordCount": 1356,
           "title": "Digital Practices for the Study of Cultural Heritage (Part 1)"
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8116",
-          "author": "Chau Nguyen",
-          "description": "By Chau Nguyen Intro During my MFA in Painting at the Tyler School of Art and Architecture, I’ve embarked on a quest to incorporate Makerspace technologies into my art practice through fellowship...\nThe post Traces of Tomorrow: Decolonizing Vietnamese Commercial Paintings with 3D Scanning and CNC Machining appeared first on Loretta C. Duckworth Scholars Studio.",
-          "link": "https://sites.temple.edu/tudsc/2022/02/02/traces-of-tomorrow-decolonizing-vietnamese-commercial-paintings-with-3d-scanning-and-cnc-machining/",
-          "publishedOn": "2022-02-02T21:38:31.000Z",
-          "wordCount": 1202,
-          "title": "Traces of Tomorrow: Decolonizing Vietnamese Commercial Paintings with 3D Scanning and CNC Machining"
         }
       ]
     },
@@ -5216,6 +5207,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/08/01/view-embedded-json.html",
+          "author": null,
+          "description": "The metadata for digitised books and journals in Trove can seem a bit sparse, but there’s quite a lot of useful metadata embedded within Trove’s web pages that isn’t displayed to users or made available through the Trove API. This notebook in the GLAM Workbench shows you how you can access it. To make it even easier, I’ve added a new endpoint to my Trove Proxy that returns the metadata in JSON format.\nJust pass the url of a digitised book or journal as a parameter named url to https://trove-proxy.herokuapp.com/metadata/. For example:\nhttps://trove-proxy.herokuapp.com/metadata/?url=https://nla.gov.au/nla.obj-2906940941\n\nI’ve created a simple bookmarklet to make it simpler to open the proxy. To use it just:\nDrag this link to your bookmarks toolbar: Get Trove work metadata\nView a digitised book or journal in Trove.\nClick on the bookmarklet to view the metadata in JSON format.\nTo view the JSON data in your browser you might need to install an extension like JSONView.",
+          "link": "https://updates.timsherratt.org/2022/08/01/view-embedded-json.html",
+          "publishedOn": "2022-08-01T08:22:47.000Z",
+          "wordCount": 193,
+          "title": "View embedded JSON metadata for Trove's digitised books and journals"
+        },
         {
           "id": "http://wragge.micro.blog/2022/07/29/where-did-all.html",
           "author": null,
@@ -6281,6 +6281,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/anti-colonial-archives/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/programme/dataschools/anti-colonial-archives/",
+          "publishedOn": "2022-08-01T13:26:13.000Z",
+          "wordCount": 544,
+          "title": "(Anti) Colonial Archives"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/dr-shreepali-patel/",
           "author": null,
