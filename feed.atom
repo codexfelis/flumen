@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-08-04T08:04:37.409Z</updated>
+    <updated>2022-08-05T08:04:17.953Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KAHD: Katukinan-Arawan-Harakmbut Database (Pre-release)]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.80</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.80"/>
+        <updated>2022-08-05T08:04:05.844Z</updated>
+        <summary type="html"><![CDATA[Katukinan, Arawan, and Harakmbut are small language families spoken in south-western Amazonia. These families have received some attention, but there are no consistently transcribed and machine-readable datasets available for them. We address this lacuna by introducing the first publicly available linguistic dataset of Arawan languages as the first part of the Katukinan-Arawan-Harakmbut Database, created with the goal of providing and regularly updating a list of lexical items in a consistent transcription and with cognacy annotation. The database is being developed to be used in quantitative and genealogical investigations.
+ Published on 2022-08-03 10:46:09]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Anti) Colonial Archives Working Group]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/dataschools/anti-colonial-archives/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/anti-colonial-archives/"/>
+        <updated>2022-08-04T16:56:26.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/"/>
+        <updated>2022-08-04T16:31:42.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Giulia Grisot]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/"/>
+        <updated>2022-08-04T16:26:13.000Z</updated>
+        <summary type="html"><![CDATA[I am a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally. I am currently part of the research project "High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century". My PhD]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Blaney]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/"/>
+        <updated>2022-08-04T16:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan is Digital Humanities Research Software Engineer at CDH. Previously he worked on Digital Humanities projects at the Institute of Historical Research, University of London, and before that at the Oxford Digital Library in the Bodleian. Going back even further, he worked as a lexicographer at Oxford University Press, across the range of English dictionaries]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/"/>
+        <updated>2022-08-04T14:13:20.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grace  Sanders Johnson]]></title>
         <id>1172 at https://pricelab.sas.upenn.edu</id>
@@ -143,6 +201,17 @@ Winnie W. C. Lai (she/her/hers) is a PhD candidate in Music (specializing in Sou
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exploring EDI best practice in libraries and archives. A DCDC22 session report.]]></title>
+        <id>https://www.rluk.ac.uk/?p=12304</id>
+        <link href="https://www.rluk.ac.uk/exploring-edi-best-practice-in-libraries-and-archives/"/>
+        <updated>2022-08-03T08:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Last month saw the virtual Discovering Collections, Discovering Communities (DCDC) conference which brought together around 400 professionals from across the library, archive, academic and cultural heritage communities. The conference took place on 11th-15th July 2022 and explored how digital and inclusive innovation is transforming the cultural heritage and academic sectors and their relationship with [...]
+The post Exploring EDI best practice in libraries and archives. A DCDC22 session report. appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Christina Kamposiori</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zachary  Lesser]]></title>
         <id>1165 at https://pricelab.sas.upenn.edu</id>
         <link href="https://pricelab.sas.upenn.edu/fellows/lesser-zachary"/>
@@ -189,6 +258,15 @@ August, 2022—August, 2023]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Methods Fellowships 2022/23]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/"/>
+        <updated>2022-08-02T15:05:48.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing the Gale Digital Humanities User Engagement Program]]></title>
         <id>https://review.gale.com/?p=13578</id>
         <link href="https://review.gale.com/2022/08/02/introducing-the-gale-digital-humanities-user-engagement-program/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introducing-the-gale-digital-humanities-user-engagement-program"/>
@@ -229,6 +307,24 @@ The post Interdisciplinary CROSS program invites proposals on the theme of ‘cr
 Zu den Aufgaben gehören neben der Erstellung von Beiträgen für den DHd-Blog vor allem die Betreuung des DHd Twitter-Accounts (ggf. Instagram und…]]></summary>
         <author>
             <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cambridge Data Schools]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/dataschools/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/"/>
+        <updated>2022-08-01T13:38:18.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Past Data Schools]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/"/>
+        <updated>2022-08-01T13:37:35.000Z</updated>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -2089,6 +2185,15 @@ The Bulgarian Event Corpus: Overview and Initial NER Experiments (Petya Osenova,
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cultural Heritage Data School 2022]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/cultural-heritage2022/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/cultural-heritage2022/"/>
+        <updated>2022-06-21T09:46:12.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CLARIN at LREC2022: Tuesday 21]]></title>
         <id>5750 at https://www.clarin.eu</id>
         <link href="https://www.clarin.eu/news/clarin-lrec2022-tuesday-21"/>
@@ -2994,6 +3099,15 @@ The post 15  Archives Who Are Members Of READ-COOP appeared first on READ-COOP.]
 The post 15  Archives Who Are Members Of READ-COOP appeared first on READ-COOP.]]></summary>
         <author>
             <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Data School 2022]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/social-data-school-2022/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/social-data-school-2022/"/>
+        <updated>2022-06-07T13:45:22.000Z</updated>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -11256,17 +11370,6 @@ The post The LASLA corpus is now linked to LiLa appeared first on LiLa: Linking 
 The post The LASLA corpus is now linked to LiLa appeared first on LiLa: Linking Latin.]]></summary>
         <author>
             <name>Eleonora Litta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<i>By the People</i> Crowdsourcing Datasets from the Library of Congress]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.67</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.67"/>
-        <updated>2022-02-05T08:10:50.466Z</updated>
-        <summary type="html"><![CDATA[The By the People (BTP) datasets comprise text of selected collections of the Library of Congress (LOC) created by volunteers in the By the People crowdsourced transcription program, which invites public transcription of historical documents. All transcriptions are created and reviewed by volunteers in a consensus-based model in which two or more volunteers must agree on a transcription for it to be considered complete. Resulting transcriptions are added to the digital collections alongside the images to enable search and accessibility of the collections. Additionally, completed transcription “campaigns” are published as freely downloadable datasets of .CSV files containing all campaign transcriptions, as well as minimal metadata. The datasets can support a multitude of purposes including computational research in fields such as history, linguistics, economics, and political science.
- Published on 2022-02-04 13:04:56]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
         </author>
     </entry>
     <entry>

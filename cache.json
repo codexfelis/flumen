@@ -3634,6 +3634,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.80",
+          "author": null,
+          "description": "Katukinan, Arawan, and Harakmbut are small language families spoken in south-western Amazonia. These families have received some attention, but there are no consistently transcribed and machine-readable datasets available for them. We address this lacuna by introducing the first publicly available linguistic dataset of Arawan languages as the first part of the Katukinan-Arawan-Harakmbut Database, created with the goal of providing and regularly updating a list of lexical items in a consistent transcription and with cognacy annotation. The database is being developed to be used in quantitative and genealogical investigations.\n Published on 2022-08-03 10:46:09",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.80",
+          "publishedOn": "2022-08-05T08:04:05.844Z",
+          "wordCount": 5288,
+          "title": "KAHD: Katukinan-Arawan-Harakmbut Database (Pre-release)"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.82",
           "author": null,
           "description": "The dataset covers a statistically representative quantitative questionnaire survey conducted with 430 children with the aim of assessing their knowledge, habits and attitudes towards wood and trees. The goal of the study was to examine the variables that affect environmental awareness and the use of wood in the future. The dataset contains 430 rows (participants) and 49 columns (variables). Data has a reuse potential in the fields of childhood pedagogy and environmental education research but also opens new ways for demonstrating the formula of statistical representativeness or machine-learning analyses such as clustering techniques, associative learning, or decision trees.\n Published on 2022-07-18 11:59:04",
@@ -3740,15 +3749,6 @@
           "publishedOn": "2022-03-11T08:15:07.673Z",
           "wordCount": 6796,
           "title": "Teaching Linked Open Data using Bibliographic Metadata"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.67",
-          "author": null,
-          "description": "The By the People (BTP) datasets comprise text of selected collections of the Library of Congress (LOC) created by volunteers in the By the People crowdsourced transcription program, which invites public transcription of historical documents. All transcriptions are created and reviewed by volunteers in a consensus-based model in which two or more volunteers must agree on a transcription for it to be considered complete. Resulting transcriptions are added to the digital collections alongside the images to enable search and accessibility of the collections. Additionally, completed transcription “campaigns” are published as freely downloadable datasets of .CSV files containing all campaign transcriptions, as well as minimal metadata. The datasets can support a multitude of purposes including computational research in fields such as history, linguistics, economics, and political science.\n Published on 2022-02-04 13:04:56",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.67",
-          "publishedOn": "2022-02-05T08:10:50.466Z",
-          "wordCount": 3480,
-          "title": "<i>By the People</i> Crowdsourcing Datasets from the Library of Congress"
         }
       ]
     },
@@ -6332,6 +6332,78 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/anti-colonial-archives/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/anti-colonial-archives/",
+          "publishedOn": "2022-08-04T16:56:26.000Z",
+          "wordCount": 550,
+          "title": "(Anti) Colonial Archives Working Group"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/",
+          "publishedOn": "2022-08-04T16:31:42.000Z",
+          "wordCount": null,
+          "title": "Learning"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/",
+          "author": null,
+          "description": "I am a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally. I am currently part of the research project \"High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century\". My PhD",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/",
+          "publishedOn": "2022-08-04T16:26:13.000Z",
+          "wordCount": 492,
+          "title": "Dr Giulia Grisot"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/",
+          "author": null,
+          "description": "Jonathan is Digital Humanities Research Software Engineer at CDH. Previously he worked on Digital Humanities projects at the Institute of Historical Research, University of London, and before that at the Oxford Digital Library in the Bodleian. Going back even further, he worked as a lexicographer at Oxford University Press, across the range of English dictionaries",
+          "link": "https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/",
+          "publishedOn": "2022-08-04T16:18:33.000Z",
+          "wordCount": 409,
+          "title": "Jonathan Blaney"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/",
+          "publishedOn": "2022-08-04T14:13:20.000Z",
+          "wordCount": 757,
+          "title": "About"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/",
+          "publishedOn": "2022-08-02T15:05:48.000Z",
+          "wordCount": 3000,
+          "title": "Methods Fellowships 2022/23"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/",
+          "publishedOn": "2022-08-01T13:38:18.000Z",
+          "wordCount": 667,
+          "title": "Cambridge Data Schools"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/",
+          "publishedOn": "2022-08-01T13:37:35.000Z",
+          "wordCount": 386,
+          "title": "Past Data Schools"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/anti-colonial-archives/",
           "author": null,
           "description": "",
@@ -6413,6 +6485,15 @@
           "title": "People"
         },
         {
+          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/cultural-heritage2022/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/cultural-heritage2022/",
+          "publishedOn": "2022-06-21T09:46:12.000Z",
+          "wordCount": 2226,
+          "title": "Cultural Heritage Data School 2022"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/media/videos/",
           "author": null,
           "description": "",
@@ -6429,6 +6510,15 @@
           "publishedOn": "2022-06-08T07:30:06.000Z",
           "wordCount": 714,
           "title": "Rewiring the Bechdel Test: Experiments in Computational Feminism"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/social-data-school-2022/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/social-data-school-2022/",
+          "publishedOn": "2022-06-07T13:45:22.000Z",
+          "wordCount": 3688,
+          "title": "Social Data School 2022"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/research/project-archive/ghost-fictions/",
@@ -8387,6 +8477,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=12304",
+          "author": "Christina Kamposiori",
+          "description": "Last month saw the virtual Discovering Collections, Discovering Communities (DCDC) conference which brought together around 400 professionals from across the library, archive, academic and cultural heritage communities. The conference took place on 11th-15th July 2022 and explored how digital and inclusive innovation is transforming the cultural heritage and academic sectors and their relationship with [...]\nThe post Exploring EDI best practice in libraries and archives. A DCDC22 session report. appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/exploring-edi-best-practice-in-libraries-and-archives/",
+          "publishedOn": "2022-08-03T08:24:44.000Z",
+          "wordCount": 2444,
+          "title": "Exploring EDI best practice in libraries and archives. A DCDC22 session report."
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=12287",
           "author": "Melanie Cheung",
