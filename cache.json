@@ -1660,24 +1660,6 @@
           "publishedOn": "2022-02-14T13:04:26.000Z",
           "wordCount": 585,
           "title": "CfP: special issue of the Journal of Digital History on Web History of Society and Social Institutions"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9634",
-          "author": "Heloise schibler",
-          "description": "Une nouvelle capsule vidéo, réalisée par #ASAnumerica, le pôle de réflexion de l’Institut d’archéologie et des sciences de l’Antiquité de l’UNIL, est à retrouver sur la chaîne YouTube de la Faculté des lettres. Dans cette capsule, Isabelle Marthot-Santaniello (Département d’Histoire ancienne de l’Université de Bâle) présente le projet D-Scribes dont elle est la directrice. Financé par […]\nThe post Papyrologie numérique appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/02/10/papyrologie-numerique/",
-          "publishedOn": "2022-02-10T15:00:14.000Z",
-          "wordCount": null,
-          "title": "Papyrologie numérique"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9628",
-          "author": "Heloise schibler",
-          "description": "Parution de l’ouvrage du professeur Dominique Vinck (ISS-STS Lab, UNIL), membre du dhCenter, et de Frédéric Goulet, sociologue (Cirad), aux éditions Les Presses des Mines. Résumé Usage réduit d’antibiotiques, ville sans voiture, agriculture sans pesticide, basse consommation énergétique, menus sans viande, etc. Cette liste, allongeable à souhait, amène à un constat sans appel. Les réponses […]\nThe post Faire sans, faire avec moins – Les nouveaux horizons de l’innovation appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/02/10/faire-sans-faire-avec-moins-les-nouveaux-horizons-de-linnovation/",
-          "publishedOn": "2022-02-10T14:31:42.000Z",
-          "wordCount": 631,
-          "title": "Faire sans, faire avec moins – Les nouveaux horizons de l’innovation"
         }
       ]
     },
@@ -1714,6 +1696,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=5611",
+          "author": "DHN Admin",
+          "description": "With the exciting addition of three new postdoctoral fellows this summer, we wanted to get to know a little more about them as we head into the fall term. First up: meet Katie Mackinnon — our new Postdoctoral Fellow in Community Data.",
+          "link": "https://dhn.utoronto.ca/meet-our-postdoctoral-fellows-katie-mackinnon/?utm_source=rss&utm_medium=rss&utm_campaign=meet-our-postdoctoral-fellows-katie-mackinnon",
+          "publishedOn": "2022-08-08T19:11:45.000Z",
+          "wordCount": 975,
+          "title": "Meet Our Postdoctoral Fellows! Katie Mackinnon"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=5428",
           "author": "DHN Admin",
@@ -3677,6 +3668,20 @@
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
         {
+          "id": "http://openmethods.dariah.eu/?p=3242",
+          "author": "Erzsebet Tóth-Czifra",
+          "description": "The conversation below is a special, summer episode of our Spotlight series.  It is a collaboration between OpenMethods and the Humanista podcast and this it comes as a podcast, in which Alíz Horváth, owner of the Humanista podcast series and proud Editorial Team member of OpenMethods, is asking Shih-Pei Chen, scholar and Digital Content Curator at the Max Plank Institute for the History of Science about the text analysis tools LoGaRT, RISE and SHINE; non-Latin scripted Digital Humanities, why local gazetteers are goldmines to Asian Studies, how digitization changes, broadens the kinds research questions one can study,  where are the challenges in the access to cultural heritage and liaising with proprietary infrastructure providers... and many more! Enjoy!",
+          "link": "https://openmethods.dariah.eu/2022/08/08/openmethods-spotlights-4-improving-access-to-asian-cultural-heritage-and-enabling-new-ways-to-connect-and-study-them-a-podcast-with-aliz-horvath-and-shih-pei-chen/",
+          "publishedOn": "2022-08-08T11:51:51.000Z",
+          "wordCount": 1933,
+          "title": "OpenMethods Spotlights #4 Improving access to Asian cultural heritage and enabling new ways to connect and study them: a podcast with Alíz Horváth and Shih-Pei Chen",
+          "enclosure": {
+            "url": "https://openmethods.dariah.eu/wp-content/uploads/2022/08/Shih-Pei-Chen.mp3",
+            "length": "44002516",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "http://openmethods.dariah.eu/?p=3236",
           "author": "Alíz Horváth",
           "description": "Introduction: This post introduces two tools developed by the Max Planck Institute for the History of Science, LoGaRT and RISE with a focus on Asia and Eurasia. [...]The concept of LoGaRT - treating local gazetteers as “databases” by themselves - is an innovative and pertinent way to articulate the essence of the platform: providing opportunities for multi-level analysis from the close reading of the sources (using, for example, the carousel mode) to the large-scale, “bird’s eye view” of the materials across geographical and temporal boundaries. Local gazetteers are predominantly textual sources – this characteristic of the collection is reflected in the capabilities of LoGaRT as well, since some of its key capabilities include data search (using Chinese characters), collection and analysis, as well as tagging and dataset comparison. That said, LoGaRT also offers integrated visualization tools and supports the expansion of the collection and tagging features to the images used in a number of gazetteers. The opportunity to smoothly intertwine these visual and textual collections with Chinese historical maps (see CHMap) is an added, and much welcome, advantage of the tool, which helps to develop sophisticated and multifaceted analyses.\n[Click ‘Read more’ for the full post!]",
@@ -3711,15 +3716,6 @@
           "publishedOn": "2022-04-07T10:43:47.000Z",
           "wordCount": 1360,
           "title": "Annotation Guidelines For narrative levels, time features, and subjective narration styles in fiction (SANTA 2)."
-        },
-        {
-          "id": "https://github.com/CateAgostini/IIIF",
-          "author": "Author on Source",
-          "description": "Introduction: In this resource, Caterina Agostini, PhD in Italian from Rutgers University, Project Manager at The Center for Digital Humanities at Princeton shares two handouts of workshops she organized and co-taught on the International Image Interoperability Framework (IIIF). They provide a gentle introduction to IIIF and clear overview of features (displaying, editing, annotating, sharing and comparing images along universal standards), examples and resources. The handouts could be of interest to anyone interested in the design and teaching of Open Educational Resources on IIF.\n[Click ‘Read more’ for the full post!]",
-          "link": "https://openmethods.dariah.eu/2022/02/10/github-cateagostini-iiif/",
-          "publishedOn": "2022-02-10T15:13:40.000Z",
-          "wordCount": 974,
-          "title": "GitHub – CateAgostini/IIIF"
         }
       ]
     },
@@ -4596,6 +4592,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17088",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1641, Late 17th-century copy of Thomas More’s negative biography of Richard III of England, copied from the version edited by John Rastell in the Workes of Sir Thomas More knyght (London, 1557), including sideContinue reading \"Manuscript Monday: Ms. Codex 1641 – The history of King Richard the Third\"",
+          "link": "https://schoenberginstitute.org/2022/08/08/manuscript-monday-ms-codex-1641-the-history-of-king-richard-the-third/",
+          "publishedOn": "2022-08-08T13:00:00.000Z",
+          "wordCount": 1068,
+          "title": "Manuscript Monday: Ms. Codex 1641 – The history of King Richard the Third"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17082",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1639, proceedings of the Inquisition in Mexico concerning riots in Mexico City and elsewhere in 1767. A compilation of various letters, declarations, and legal documents, many with signatures and many noted as reviewed byContinue reading \"Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition\"",
@@ -5051,15 +5056,6 @@
           "publishedOn": "2022-02-11T09:32:55.000Z",
           "wordCount": 601,
           "title": "KBR Digital Heritage Seminar Series: Image Processing"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=985",
-          "author": "Rebecca Burke",
-          "description": "On Monday 9 May 2022 KU Leuven will organize the 2022 edition of the Open Science day as a hybrid event, online and at the Irish College in Leuven. The Open Science day is an event where researchers share experiences about Open Science. It offers researchers the opportunity to enter into conversation with university leadership including rector Luc Sels. Next to these debates, there will be two interactive panel sessions and a poster session. The panel sessions will be dedicated...",
-          "link": "https://scholarlytales.hcommons.org/2022/02/10/cfp-open-science-day-ku-leuven-2022/",
-          "publishedOn": "2022-02-10T16:15:20.000Z",
-          "wordCount": 680,
-          "title": "CFP: Open Science day KU Leuven 2022"
         }
       ]
     },
@@ -5149,6 +5145,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/08/09/zotero-now-saves.html",
+          "author": null,
+          "description": "I’ve made a small change to the Zotero translator for the National Library of Australia’s catalogue. Now, if there’s a link to a digitised version of the work in Trove, that link will be saved in Zotero’s url field. This makes it quicker and easier to view digitised items – just click on the ‘URL’ label in Zotero to open the link.\nIt’s also handy if you’re viewing a digitised work in Trove and want to capture the metadata about it. Just click on the ‘View catalogue’ link in the details tab of a Trove item, then use Zotero to save the details from the catalogue.",
+          "link": "https://updates.timsherratt.org/2022/08/09/zotero-now-saves.html",
+          "publishedOn": "2022-08-08T23:52:53.000Z",
+          "wordCount": 148,
+          "title": "Zotero now saves links to digitised items in Trove from the NLA catalogue!"
+        },
         {
           "id": "http://wragge.micro.blog/2022/08/01/view-embedded-json.html",
           "author": null,
@@ -6188,6 +6193,24 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/",
+          "publishedOn": "2022-08-08T13:00:38.000Z",
+          "wordCount": 671,
+          "title": "Cambridge Data Schools"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/programme/learning/anti-colonial-archives/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/programme/learning/anti-colonial-archives/",
+          "publishedOn": "2022-08-04T16:56:26.000Z",
+          "wordCount": 552,
+          "title": "(Anti) Colonial Archives Working Group"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/learning/dataschools/anti-colonial-archives/",
           "author": null,
           "description": "",
@@ -6258,6 +6281,15 @@
           "publishedOn": "2022-08-01T13:38:18.000Z",
           "wordCount": 667,
           "title": "Cambridge Data Schools"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/",
+          "publishedOn": "2022-08-01T13:37:35.000Z",
+          "wordCount": 390,
+          "title": "Past Data Schools"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/",
@@ -6350,6 +6382,15 @@
           "title": "People"
         },
         {
+          "id": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/cultural-heritage2022/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/cultural-heritage2022/",
+          "publishedOn": "2022-06-21T09:46:12.000Z",
+          "wordCount": 2230,
+          "title": "Cultural Heritage Data School 2022"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cultural-heritage2022/",
           "author": null,
           "description": "",
@@ -6384,6 +6425,15 @@
           "publishedOn": "2022-06-08T07:30:06.000Z",
           "wordCount": 714,
           "title": "Rewiring the Bechdel Test: Experiments in Computational Feminism"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/social-data-school-2022/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/social-data-school-2022/",
+          "publishedOn": "2022-06-07T13:45:22.000Z",
+          "wordCount": 3692,
+          "title": "Social Data School 2022"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/social-data-school-2022/",
