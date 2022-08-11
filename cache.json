@@ -1688,6 +1688,15 @@
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
         {
+          "id": "https://dhn.utoronto.ca/?p=5652",
+          "author": "Tanya Rohrmoser",
+          "description": "CDHI is hiring a Digital Projects Assistant, who will work directly with the CDHI Managing Director and the Event and Program Coordinator. The successful applicant will have the opportunity to work collaboratively with other members of the CDHI team.",
+          "link": "https://dhn.utoronto.ca/cdhi-is-hiring-digital-projects-assistant-work-study-fall-2022/?utm_source=rss&utm_medium=rss&utm_campaign=cdhi-is-hiring-digital-projects-assistant-work-study-fall-2022",
+          "publishedOn": "2022-08-10T13:39:06.000Z",
+          "wordCount": 862,
+          "title": "CDHI is Hiring: Digital Projects Assistant (Work Study, Fall 2022)"
+        },
+        {
           "id": "https://dhn.utoronto.ca/?p=5611",
           "author": "DHN Admin",
           "description": "With the exciting addition of three new postdoctoral fellows this summer, we wanted to get to know a little more about them as we head into the fall term. First up: meet Katie Mackinnon — our new Postdoctoral Fellow in Community Data.",
@@ -1857,15 +1866,6 @@
           "publishedOn": "2022-02-23T18:07:26.000Z",
           "wordCount": 1295,
           "title": "Summer Undergraduate Fellowships in Critical Digital Humanities"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=4607",
-          "author": "DHN Admin",
-          "description": "CDHI grad fellow Tia Sager provides a recap of Lightning Lunch #5, “Power, Inequality, and DH\".",
-          "link": "https://dhn.utoronto.ca/power-inequality-and-dh/?utm_source=rss&utm_medium=rss&utm_campaign=power-inequality-and-dh",
-          "publishedOn": "2022-02-12T15:28:59.000Z",
-          "wordCount": 1543,
-          "title": "Power, Inequality, and DH: A Re-Cap of the CDHI’s Fifth Lightning Lunch (2021-2022)"
         }
       ]
     },
@@ -6174,6 +6174,42 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/ai-forensics/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/ai-forensics/",
+          "publishedOn": "2022-08-11T06:55:55.000Z",
+          "wordCount": 671,
+          "title": "AI Forensics"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/",
+          "publishedOn": "2022-08-10T10:42:04.000Z",
+          "wordCount": 393,
+          "title": "Projects"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35093/",
+          "author": null,
+          "description": "Experiments in computational feminism The Bechdel test – named after cartoonist Alison Bechdel – asks three simple questions of every work of fiction: does it include two named women? Do they talk to one another? About something besides a man? The test has inspired much academic as well as popular discussion. It has also been",
+          "link": "https://www.cdh.cam.ac.uk/events/35093/",
+          "publishedOn": "2022-08-10T09:07:16.000Z",
+          "wordCount": 628,
+          "title": "Rewiring the Bechdel Test: Results"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35045/",
+          "author": null,
+          "description": "CDH Learning invites applications for new Methods Fellows for the academic year 2022/23. The Methods Fellowship programme offers teaching, research and professional staff and postgraduate students at the University of Cambridge the opportunity to develop and deliver innovative teaching in digital methods. They contribute to an interdisciplinary programme that attracts over 500 participants across the",
+          "link": "https://www.cdh.cam.ac.uk/events/35045/",
+          "publishedOn": "2022-08-10T09:05:08.000Z",
+          "wordCount": 522,
+          "title": "Information session: CDH Methods Fellowship 2022/23"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/media/blog/cultural-heritage-data-school-2022/",
           "author": null,

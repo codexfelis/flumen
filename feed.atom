@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-08-10T08:05:08.123Z</updated>
+    <updated>2022-08-11T08:03:48.801Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Forensics]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/projects/ai-forensics/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/projects/ai-forensics/"/>
+        <updated>2022-08-11T06:55:55.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDHI is Hiring: Digital Projects Assistant (Work Study, Fall 2022)]]></title>
+        <id>https://dhn.utoronto.ca/?p=5652</id>
+        <link href="https://dhn.utoronto.ca/cdhi-is-hiring-digital-projects-assistant-work-study-fall-2022/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cdhi-is-hiring-digital-projects-assistant-work-study-fall-2022"/>
+        <updated>2022-08-10T13:39:06.000Z</updated>
+        <summary type="html"><![CDATA[CDHI is hiring a Digital Projects Assistant, who will work directly with the CDHI Managing Director and the Event and Program Coordinator. The successful applicant will have the opportunity to work collaboratively with other members of the CDHI team.]]></summary>
+        <author>
+            <name>Tanya Rohrmoser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Projects]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/projects/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/projects/"/>
+        <updated>2022-08-10T10:42:04.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewiring the Bechdel Test: Results]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35093/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35093/"/>
+        <updated>2022-08-10T09:07:16.000Z</updated>
+        <summary type="html"><![CDATA[Experiments in computational feminism The Bechdel test – named after cartoonist Alison Bechdel – asks three simple questions of every work of fiction: does it include two named women? Do they talk to one another? About something besides a man? The test has inspired much academic as well as popular discussion. It has also been]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Information session: CDH Methods Fellowship 2022/23]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35045/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35045/"/>
+        <updated>2022-08-10T09:05:08.000Z</updated>
+        <summary type="html"><![CDATA[CDH Learning invites applications for new Methods Fellows for the academic year 2022/23. The Methods Fellowship programme offers teaching, research and professional staff and postgraduate students at the University of Cambridge the opportunity to develop and deliver innovative teaching in digital methods. They contribute to an interdisciplinary programme that attracts over 500 participants across the]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From our Digital Bookshelf: “Embedding Creativity into Digital Resources,” by Christina Kamposiori, Claire Warwick, and Simon Mahony]]></title>
         <id>https://scholarlytales.hcommons.org/?p=1170</id>
@@ -11131,16 +11179,6 @@ For more information and registration, please visit the event page.
         <summary type="html"><![CDATA[On February 11, 2022, we held a discussion of how to conceptualize and plan a digital humanities project, led by DH Initiative faculty members Andrew Goldstone, Francesca Giannetti, Paul Israel, Kristin O’Brassill-Kulfan, and Sean Silver. The workshop was especially aimed at graduate students planning to apply for a Digital Humanities Seed Grant (due March 1). A video recording of the session is available here. The workshop handout is reproduced below, together with a few additional notes on other resources and example projects (include past seed grant recipients) mentioned in the discussion. Key considerations What is the research question? What story do you want to tell?]]></summary>
         <author>
             <name>Andrew Goldstone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power, Inequality, and DH: A Re-Cap of the CDHI’s Fifth Lightning Lunch (2021-2022)]]></title>
-        <id>https://dhn.utoronto.ca/?p=4607</id>
-        <link href="https://dhn.utoronto.ca/power-inequality-and-dh/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=power-inequality-and-dh"/>
-        <updated>2022-02-12T15:28:59.000Z</updated>
-        <summary type="html"><![CDATA[CDHI grad fellow Tia Sager provides a recap of Lightning Lunch #5, “Power, Inequality, and DH".]]></summary>
-        <author>
-            <name>DHN Admin</name>
         </author>
     </entry>
     <entry>
