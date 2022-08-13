@@ -804,6 +804,15 @@
       "siteUrl": "https://dh.rutgers.edu",
       "articles": [
         {
+          "id": "https://dh.rutgers.edu/?p=77705",
+          "author": "Francesca Giannetti",
+          "description": "Download these position descriptions as a PDF. Data Science Graduate Specialist (two positions) Digital Humanities and Social Sciences Graduate Specialist Diversity in Data Graduate Specialist Overview The New Brunswick Libraries (NBL) Graduate Specialist Program provides opportunities for Rutgers–New Brunswick graduate students to use and develop their skills in a variety of methodologies while working with the Libraries to deliver consulting, workshops, and training. NBL hires Graduate Specialists to provide support to researchers in topics and methods of growing importance in the scholarly world. Graduate Specialists help the Libraries to expand the range of services offered by bringing advanced skillsets in the latest research methods and",
+          "link": "https://dh.rutgers.edu/fall-2022-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=fall-2022-jobs",
+          "publishedOn": "2022-08-12T18:14:30.000Z",
+          "wordCount": 1890,
+          "title": "Graduate Specialist Positions"
+        },
+        {
           "id": "https://dh.rutgers.edu/?p=77661",
           "author": "Andrew Goldstone",
           "description": "The Rutgers Digital Humanities Initiative is pleased to announce the recipients of its graduate seed grants for 2022–2023: Maria Teresa De Luca (Italian) and Paolo Scartoni (Italian) Divine Networks: An Interactive Visualization of Dante’s Comedy Sam Hege (History) Civil and Labor Rights in the Southwest: A Digital History of the United Packinghouse Workers of America Alexander Liebman (Geography) Programmed Landscapes: The Production of Digital Nature in the Valle del Cauca Lisette Varón-Carvajal (History) Colombia’s Popular Healers: Past and Present The DH Initiative gratefully acknowledges the support of the School of Arts and Sciences for the seed grant program. Grant recipients will present their work at",
@@ -1624,24 +1633,6 @@
           "publishedOn": "2022-02-15T10:21:12.000Z",
           "wordCount": 466,
           "title": "Semaine internationale de l’éducation et de la formation à l’UNIL"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9652",
-          "author": "Celia Luterbacher",
-          "description": "DhCenter member Yannick Rochat, a researcher on video game culture and gamification in the EPFL College of Humanities, spoke to Swiss newspaper Le Temps about the online word game, Wordle. Rochat, co-founder of the UNIL-EPFL GameLab, was interviewed by the French-language paper following the purchase of the viral game, which was developed by a British […]\nThe post Wordle: Yannick Rochat interviewed by Le Temps about the word game phenomenon appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/02/14/wordle-yannick-rochat-interviewed-by-le-temps-about-the-word-game-phenomenon/",
-          "publishedOn": "2022-02-14T15:31:36.000Z",
-          "wordCount": 467,
-          "title": "Wordle: Yannick Rochat interviewed by Le Temps about the word game phenomenon"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=9644",
-          "author": "Celia Luterbacher",
-          "description": "This special issue of the Journal of Digital History aims to broaden the field of historical web research by advancing new understandings of the processes related to the development of the WWW from a historical perspective. The Journal for Digital History offers a unique open-access publishing model in the historical sciences that promotes a new […]\nThe post CfP: special issue of the Journal of Digital History on Web History of Society and Social Institutions appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/02/14/cfp-special-issue-of-the-journal-of-digital-history-on-web-history-of-society-and-social-institutions/",
-          "publishedOn": "2022-02-14T13:04:26.000Z",
-          "wordCount": 585,
-          "title": "CfP: special issue of the Journal of Digital History on Web History of Society and Social Institutions"
         }
       ]
     },
@@ -2556,15 +2547,6 @@
           "publishedOn": "2022-03-01T00:27:42.000Z",
           "wordCount": 2815,
           "title": "Dispatches from the Place of Imminence by Svitlana Matviyenko"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=2058",
-          "author": "Kayla Hilstob",
-          "description": "The Royal Society of Canada (RSC) hosted a town hall to discuss the recent RSC Task Force on Covid-19 policy briefing: “Protecting Expert Advice for the Public: Promoting Safety and …\n  Protecting Expert Advice for the Public: Promoting Safety and Improved Communications – A Town Hall Read More »\nProtecting Expert Advice for the Public: Promoting Safety and Improved Communications – A Town Hall first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/protecting-expert-advice-for-the-public-promoting-safety-and-improved-communications-a-town-hall/?utm_source=rss&utm_medium=rss&utm_campaign=protecting-expert-advice-for-the-public-promoting-safety-and-improved-communications-a-town-hall",
-          "publishedOn": "2022-02-14T16:48:52.000Z",
-          "wordCount": 1328,
-          "title": "Protecting Expert Advice for the Public: Promoting Safety and Improved Communications – A Town Hall"
         }
       ]
     },
@@ -3526,6 +3508,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.83",
+          "author": null,
+          "description": "This dataset covers 41,341 manual event annotations of six German prose texts from the 19th and early 20th century comprising 290,997 tokens. For each text, the dataset includes annotations by two annotators and gold standard annotations. These annotations were used for the automation of narratological event annotations (Vauth, Hatzel, Gius, & Biemann, 2021), a reflection of inter annotator agreements in literary studies (Gius & Vauth, 2022) and the development of an event based plot model (Gius & Vauth, accepted).\n Published on 2022-08-12 11:01:27",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.83",
+          "publishedOn": "2022-08-13T08:03:51.236Z",
+          "wordCount": 1696,
+          "title": "Event Annotations of Prose"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.80",
           "author": null,
           "description": "Katukinan, Arawan, and Harakmbut are small language families spoken in south-western Amazonia. These families have received some attention, but there are no consistently transcribed and machine-readable datasets available for them. We address this lacuna by introducing the first publicly available linguistic dataset of Arawan languages as the first part of the Katukinan-Arawan-Harakmbut Database, created with the goal of providing and regularly updating a list of lexical items in a consistent transcription and with cognacy annotation. The database is being developed to be used in quantitative and genealogical investigations.\n Published on 2022-08-03 10:46:09",
@@ -3706,6 +3697,15 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1173 at https://pricelab.sas.upenn.edu",
+          "author": "perezste@upenn.edu",
+          "description": "Academic Title: \n\nContemporary Publishing Fellow, Center for Research Date and Digital Scholarship, University of Pennsylvania\n\n\n\nCosette Bruhns Alonso is Contemporary Publishing Fellow at the Center for Research Data and Digital Scholarship. In this role, she spearheads a pilot collaboration with University of Pennsylvania Press to design and develop born-digital publications through innovative uses of digital tools, data, and interactive media-rich enhancements. She also joins the Price Lab for Digital Humanities as a 2022-2023 Mellon Seminar Fellow where she will be developing a digital project entitled, Technologies of Representation: the Decameron in Medieval to Modern Media. She is currently appointed to the Library Publishing Coalition’s Diversity, Equity, and Inclusion Committee during 2022-2024.\nCosette has most recently held the position of Diversity in Digital Publishing & Italian Studies Postdoctoral Research Associate at Brown University, where she facilitated the NEH Institute on Advanced Topics in the Digital Humanities, Born-Digital Scholarly Publishing: Resources and Roadmaps, supported the editorial and digital development of faculty publications, and curated an exhibition at the Rockefeller Library on Giovanni Boccaccio’s Decameron and Covid-era viral art.\nCosette holds a PhD and MA in Italian Studies from the University of Chicago, and a BA in Philosophy from the New School. Her primary area of research and teaching is in 13th-16th century Italian art and literature, with a focus on visual culture, the representation of race and gender, and intersections between literature, media, and technology. Current projects include a born-digital publication and translation of Benedetto Varchi’s Due Lezioni and a print monograph on visual representation in medieval Italian literature.\n\n\nFellowship Date: \n\nAugust, 2022—August, 2023",
+          "link": "https://pricelab.sas.upenn.edu/fellows/bruhns-alonso-cosette",
+          "publishedOn": "2022-08-12T17:33:54.000Z",
+          "wordCount": 468,
+          "title": "Cosette  Bruhns Alonso"
+        },
         {
           "id": "1172 at https://pricelab.sas.upenn.edu",
           "author": "perezste@upenn.edu",
@@ -3927,6 +3927,20 @@
       "feedUrl": "https://readcoop.eu/feed",
       "siteUrl": "https://readcoop.eu/",
       "articles": [
+        {
+          "id": "https://readcoop.eu/?p=29723",
+          "author": "Florian Stauder",
+          "description": "Ever had trouble reading someone else’s handwriting?  Well, it may reassure you to know that it’s not only humans that have this problem, but computers too. While computers have been […]\nThe post What is handwriting recognition and how does it work? appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/what-is-handwriting-recognition-and-how-does-it-work/",
+          "publishedOn": "2022-08-12T05:55:53.000Z",
+          "wordCount": 2289,
+          "title": "What is handwriting recognition and how does it work?",
+          "enclosure": {
+            "url": "https://readcoop.eu/wp-content/uploads/2022/08/hwr.mp4",
+            "length": "7676458",
+            "type": "video/mp4"
+          }
+        },
         {
           "id": "https://readcoop.eu/?p=29578",
           "author": "Florian Stauder",
@@ -4505,66 +4519,6 @@
           "enclosure": {
             "url": "https://assets.pubpub.org/zftaihf1/01647624692493.png"
           }
-        },
-        {
-          "id": "839c2179-61e8-4ba3-ad68-f7d48ddb141b",
-          "author": "Roopika Risam",
-          "description": "A review of Undisciplining the Victorian Classroom, a pedagogical resource for teaching Victorian studies through a race-conscious lens, directed by Pearl Chaozon Bauer, Ryan D. Fong, Sophia Hsu, and Adrian S. Wisnicki",
-          "link": "https://reviewsindh.pubpub.org/pub/undisciplining-victorian-classroom",
-          "publishedOn": "2022-02-14T00:00:00.000Z",
-          "wordCount": 1497,
-          "title": "Review: Undisciplining the Victorian Classroom",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/84yr8mpg/41632828274471.png"
-          }
-        },
-        {
-          "id": "54a4b258-ad5a-4a07-8f8d-cb0156e4d4d7",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the February 2022 issue of Reviews in Digital Humanities",
-          "link": "https://reviewsindh.pubpub.org/pub/editors-note-february-2022",
-          "publishedOn": "2022-02-14T00:00:00.000Z",
-          "wordCount": 827,
-          "title": "Editors' Note: February 2022",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/6h8uoqr5/41644759382266.png"
-          }
-        },
-        {
-          "id": "32bf84e4-1f39-42b9-9bad-b908ef4003ab",
-          "author": "Núria Sara Miras Boronat",
-          "description": "A review of the Jane Addams Papers Project, a scholarly editing project on the work of Jane Addams, directed by Cathy Moran Hajo",
-          "link": "https://reviewsindh.pubpub.org/pub/jane-addams-papers-project",
-          "publishedOn": "2022-02-14T00:00:00.000Z",
-          "wordCount": 1103,
-          "title": "Review: The Jane Addams Papers Project",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/0epco7wo/31644676984481.png"
-          }
-        },
-        {
-          "id": "72a81b60-5660-4e90-8a07-bdb41c215caa",
-          "author": "Mattie Burkert",
-          "description": "A review of Literature in Context, a digital anthology of literature, directed by Tonya Howe",
-          "link": "https://reviewsindh.pubpub.org/pub/literature-in-context",
-          "publishedOn": "2022-02-14T00:00:00.000Z",
-          "wordCount": 1326,
-          "title": "Review: Literature in Context",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/g0jqyltn/51644758940101.png"
-          }
-        },
-        {
-          "id": "efc7fd58-5c57-4296-8b79-a2b92178e2dd",
-          "author": "Paul Vierthaler",
-          "description": "A review of East Asia For All, a podcast analyzing East Asian pop culture, directed by Stephanie Montgomery and Melissa Brzycki",
-          "link": "https://reviewsindh.pubpub.org/pub/east-asia-for-all",
-          "publishedOn": "2022-02-14T00:00:00.000Z",
-          "wordCount": 1244,
-          "title": "Review: East Asia For All",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/bwl4utws/41644669054770.jpg"
-          }
         }
       ]
     },
@@ -4806,15 +4760,6 @@
           "publishedOn": "2022-02-21T15:42:27.000Z",
           "wordCount": 1590,
           "title": "Ms. Codex 63 & Ms. Codex 188: Lope de Vega in manuscript"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=16320",
-          "author": "simsmss",
-          "description": "On February 9 we brought out two manuscripts from the Schoenberg Collection, both Hebrew manuscripts written in Italy. The first one was LJS 470, a 16th century collection of medical recipes, folk remedies, charms, and spells, which was joined by LJS 471, a volume of 14th-century Latin medical works translated into Hebrew and copied inContinue reading \"LJS 470 and LJS 471: Medicine & Magic\"",
-          "link": "https://schoenberginstitute.org/2022/02/14/ljs-470-and-ljs-471-medicine-magic/",
-          "publishedOn": "2022-02-14T16:30:19.000Z",
-          "wordCount": 1267,
-          "title": "LJS 470 and LJS 471: Medicine & Magic"
         }
       ]
     },
@@ -5029,15 +4974,6 @@
           "publishedOn": "2022-02-17T09:04:44.000Z",
           "wordCount": 2004,
           "title": "KU Leuven Faculty of Arts AI and DH Training Sessions"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=989",
-          "author": "Leah Budke",
-          "description": "Are you an early career researcher in the field of Digital Humanities or a student interested in DH approaches who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual Discussion Group for ECRs! This series is jointly organized by the KU Leuven Libraries Artes DH Commons and the Ghent Centre for Digital Humanities.   Our first two sessions this spring will continue the “under-the-hood” format. In these sessions, a volunteer from our...",
-          "link": "https://scholarlytales.hcommons.org/2022/02/14/digital-humanities-virtual-discussion-group-for-ecrs-in-belgium-spring-2022-edition/",
-          "publishedOn": "2022-02-14T11:43:00.000Z",
-          "wordCount": 2331,
-          "title": "Digital Humanities Virtual Discussion Group for ECRs in Belgium: Spring 2022 Edition"
         }
       ]
     },
@@ -6175,6 +6111,33 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/media/photos/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/media/photos/",
+          "publishedOn": "2022-08-11T14:24:02.000Z",
+          "wordCount": 348,
+          "title": "Photos"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/media/",
+          "publishedOn": "2022-08-11T14:16:45.000Z",
+          "wordCount": 353,
+          "title": "Media"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/",
+          "author": null,
+          "description": "Anne Alexander has been Director of Learning at CDH since its foundation. She was previously Co-ordinator of the Cambridge Digital Humanities Network. Her research interests include ethics of big data, activist media in the Middle East and the political economy of the Internet. She is a member of the Data Ethics Group and the Humanities and",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/",
+          "publishedOn": "2022-08-11T11:22:17.000Z",
+          "wordCount": 459,
+          "title": "Dr Anne Alexander"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/research/projects/ai-forensics/",
           "author": null,
           "description": "",
@@ -6227,6 +6190,15 @@
           "publishedOn": "2022-08-08T13:00:38.000Z",
           "wordCount": 671,
           "title": "Cambridge Data Schools"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/",
+          "publishedOn": "2022-08-04T16:56:26.000Z",
+          "wordCount": 553,
+          "title": "(Anti) Colonial Archives Working Group"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/about/programme/learning/anti-colonial-archives/",
@@ -7683,15 +7655,6 @@
           "publishedOn": "2022-02-17T10:00:07.000Z",
           "wordCount": 227,
           "title": "New Impact Story: IceTaboo Database with Commercial Application"
-        },
-        {
-          "id": "5679 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "The Registration for ENRIITC Your Industry Outreach: Workshop for Social Sciences and Humanities is now Open\n\n            \n\nCLARIN and DARIAH with support from ENRIITC are jointly organising an industry outreach online workshop where leading research infrastructures and networks from the social sciences and humanities are invited to exchange on past and present innovation and collaboration activities with non-academic and/or commercial partners. \nThe aim of the event is to identify common challenges regarding the skills needed to reach out beyond academia (e.g. more effective communication, how to translate the value of the infrastructure to non-academic and/or commercial entities etc.), as well as a set of common SSH training topics that are relevant for non-academic entities when considering the research infrastructure service offer.\nDetails\nDate and time: \n11 March 2022, 10:00 - 14:00 (CET)\nMain Event Organisers:\nFranciska de Jong, Iulianna van der Lek, John Picard (CLARIN)\nJennifer Edmond, Francesca Morselli (DARIAH)\nEnvisaged Participants:\nRepresentatives of RIs in the SSH domain and relevant networks\nRepresentatives from non-academic partners (public sector and industry) who have experience collaborating with research infrastructures and/or research performing organisations.\nRegistration:\nFor more information and registration, please visit the event page.\n    \n\n              \n              \n              \n                  \n\n  \n\n      Elisa Gorgaini\n 14 February 2022",
-          "link": "https://www.clarin.eu/news/registration-enriitc-your-industry-outreach-workshop-social-sciences-and-humanities-now-open",
-          "publishedOn": "2022-02-14T13:02:15.000Z",
-          "wordCount": 345,
-          "title": "The Registration for ENRIITC Your Industry Outreach: Workshop for Social Sciences and Humanities is now Open"
         }
       ]
     },
