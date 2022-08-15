@@ -312,15 +312,6 @@
           "publishedOn": "2022-02-22T17:25:58.000Z",
           "wordCount": 167,
           "title": "Amanda Visconti, Deputy Secretary"
-        },
-        {
-          "id": "https://ach.org/?p=2328",
-          "author": "jwoowinter",
-          "description": "The ACH mentoring group is sponsoring a yearlong, public book club based on the English-language version of Programming Historian. Open to all (including non-members of ACH), newcomers to the topic and to digital humanities work through a Programming Historian lesson together in a supportive environment with one or two more experienced participants able to help and answer questions.…Continue reading.",
-          "link": "https://ach.org/blog/2022/02/15/ach-programming-historian-workshop-on-twine-in-the-classroom/",
-          "publishedOn": "2022-02-15T20:38:09.000Z",
-          "wordCount": 195,
-          "title": "ACH Programming Historian Workshop on Twine in the Classroom"
         }
       ]
     },
@@ -605,6 +596,24 @@
       "feedUrl": "https://caa-international.org/feed",
       "siteUrl": "https://caa-international.org",
       "articles": [
+        {
+          "id": "https://sites.caa-international.org/main/?p=16303",
+          "author": "lisafischer",
+          "description": "The Call for Sessions for the CAA 2023 is open. CAA2023, which will be held in Amsterdam, Netherlands, from 3 to 6 April 2023, will be the organisation’s 50th conference. To learn more and submit your session proposal, please see the Call for Sessions. Proposals must be received by 19 August 2022.",
+          "link": "https://caa-international.org/2022/08/14/call-for-sessions-for-caa-2023/",
+          "publishedOn": "2022-08-14T20:47:50.000Z",
+          "wordCount": 131,
+          "title": "Call for Sessions for CAA 2023"
+        },
+        {
+          "id": "https://sites.caa-international.org/main/?p=16301",
+          "author": "lisafischer",
+          "description": "Three Executive Steering Committee (ESC) Positions are up for election: Secretary, Membership Secretary, and Bursaries and Student/Low-Income Officer positions. The Secretary and Membership Secretary are willing to stand for another term. If you are interested in running for one of these positions, please consult the Call for Officers for more information about the duties of […]",
+          "link": "https://caa-international.org/2022/08/14/call-for-open-esc-positions-3/",
+          "publishedOn": "2022-08-14T20:39:25.000Z",
+          "wordCount": 144,
+          "title": "Call for Open ESC Positions"
+        },
         {
           "id": "https://sites.caa-international.org/main/?p=16187",
           "author": "Jeffrey Glover",
@@ -3172,24 +3181,6 @@
           "publishedOn": "2022-02-28T11:00:18.000Z",
           "wordCount": 95,
           "title": "Ukrainian Researchers who enter Poland can seek help with the Academy of Young Scientists"
-        },
-        {
-          "id": "1387 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "***Updated information*** CfP El’Manuscript-2022 - “Textual Heritage and Information Technologies” International Conference\n\n\n\n# El’Manuscript-2022 - “Textual Heritage and Information Technologies” : Conference Postponed\nThe El'Manuscript 2022 Conference has to be postponed until further notice.\nA new CfP will be issued as soon as the situation allows it.\n \n \n \n \nThe Organizing Committee is pleased to invite submissions of abstracts for the El’Manuscript-2022 international conference on the creation and development of information systems for storage, description, processing, analysis, and publication of medieval and early modern hand-written and printed texts and documentary records. Any person involved in the creation or application of these resources —including researchers; instructors; …",
-          "link": "https://eadh.org/news/2022/02/16/updated-information-cfp-elmanuscript-2022-textual-heritage-and-information",
-          "publishedOn": "2022-02-16T14:26:47.000Z",
-          "wordCount": 811,
-          "title": "***Updated information*** CfP El’Manuscript-2022 - “Textual Heritage and Information Technologies” International Conference"
-        },
-        {
-          "id": "1387 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "15 Mar 2022 - 00:00\n\n\n\nCfP El’Manuscript-2022 - “Textual Heritage and Information Technologies” International Conference\n\n\n\nThe Organizing Committee is pleased to invite submissions of abstracts for the El’Manuscript-2022 international conference on the creation and development of information systems for storage, description, processing, analysis, and publication of medieval and early modern hand-written and printed texts and documentary records. Any person involved in the creation or application of these resources —including researchers; instructors; staff of libraries, museums, and archives; programmers, and undergraduate and graduate students— is welcome to participate.\nEl’Manuscript 2022 is the ninth in a series of biennial international conferences entitled “Textual Heritage and Infor…",
-          "link": "https://eadh.org/news/2022/02/16/cfp-elmanuscript-2022-textual-heritage-and-information-technologies-international",
-          "publishedOn": "2022-02-16T14:26:47.000Z",
-          "wordCount": 776,
-          "title": "CfP El’Manuscript-2022 - “Textual Heritage and Information Technologies” International Conference"
         }
       ]
     },
@@ -5009,6 +5000,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/08/15/new-glam-data.html",
+          "author": null,
+          "description": "There’s lots of GLAM data out there if you know where to look! For the past few years I’ve been harvesting a list of datasets published by Australian galleries, libraries, archives, and museums through open government data portals. I’ve just updated the harvest and there’s now 463 datasets containing 1,192 files. There’s a human-readable version of the list that you can browse. If you just want the data you can download it as a CSV. Or if you’d like to search the list there’s a database version hosted on Glitch. The harvesting and processing code is available in this notebook.\nThe GLAM data from government portals section of the GLAM Workbench provides more information and a summary of results.  For example, here’s a list of the number of data files by GLAM institution.\n\nMost of the datase…",
+          "link": "https://updates.timsherratt.org/2022/08/15/new-glam-data.html",
+          "publishedOn": "2022-08-15T06:43:44.000Z",
+          "wordCount": 429,
+          "title": "New GLAM data to search, visualise and explore using the GLAM Workbench!"
+        },
         {
           "id": "http://wragge.micro.blog/2022/08/09/zotero-now-saves.html",
           "author": null,
@@ -8489,15 +8489,6 @@
           "publishedOn": "2022-02-25T10:43:25.000Z",
           "wordCount": 1418,
           "title": "RLUK Space: Hybrid and blended working approaches and the role of space in libraries"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=11546",
-          "author": "Melanie Cheung",
-          "description": "Authors: Emma Ganley, Anne-Marie Coriat, Sarah Shenow & David Prosser Various factors contribute to low reproducibility and replicability of scientific findings. Whilst not all of these are necessarily problematic, there is growing acceptance that there is room for improvement. Many sectoral organisations have a role to play in this, by refining incentives and rewards, promoting [...]\nThe post BMC research notes: Systemic problems require systemic solutions: the need for coordination and cooperation to improve research quality appeared first on Research Libraries UK.",
-          "link": "https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-05932-5#new_tab",
-          "publishedOn": "2022-02-15T20:25:37.000Z",
-          "wordCount": 2864,
-          "title": "BMC research notes: Systemic problems require systemic solutions: the need for coordination and cooperation to improve research quality"
         }
       ]
     },

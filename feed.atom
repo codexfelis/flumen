@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-08-14T08:03:46.407Z</updated>
+    <updated>2022-08-15T08:04:43.012Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New GLAM data to search, visualise and explore using the GLAM Workbench!]]></title>
+        <id>http://wragge.micro.blog/2022/08/15/new-glam-data.html</id>
+        <link href="https://updates.timsherratt.org/2022/08/15/new-glam-data.html"/>
+        <updated>2022-08-15T06:43:44.000Z</updated>
+        <summary type="html"><![CDATA[There’s lots of GLAM data out there if you know where to look! For the past few years I’ve been harvesting a list of datasets published by Australian galleries, libraries, archives, and museums through open government data portals. I’ve just updated the harvest and there’s now 463 datasets containing 1,192 files. There’s a human-readable version of the list that you can browse. If you just want the data you can download it as a CSV. Or if you’d like to search the list there’s a database version hosted on Glitch. The harvesting and processing code is available in this notebook.
+The GLAM data from government portals section of the GLAM Workbench provides more information and a summary of results.  For example, here’s a list of the number of data files by GLAM institution.
+
+Most of the datase…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Sessions for CAA 2023]]></title>
+        <id>https://sites.caa-international.org/main/?p=16303</id>
+        <link href="https://caa-international.org/2022/08/14/call-for-sessions-for-caa-2023/"/>
+        <updated>2022-08-14T20:47:50.000Z</updated>
+        <summary type="html"><![CDATA[The Call for Sessions for the CAA 2023 is open. CAA2023, which will be held in Amsterdam, Netherlands, from 3 to 6 April 2023, will be the organisation’s 50th conference. To learn more and submit your session proposal, please see the Call for Sessions. Proposals must be received by 19 August 2022.]]></summary>
+        <author>
+            <name>lisafischer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Open ESC Positions]]></title>
+        <id>https://sites.caa-international.org/main/?p=16301</id>
+        <link href="https://caa-international.org/2022/08/14/call-for-open-esc-positions-3/"/>
+        <updated>2022-08-14T20:39:25.000Z</updated>
+        <summary type="html"><![CDATA[Three Executive Steering Committee (ESC) Positions are up for election: Secretary, Membership Secretary, and Bursaries and Student/Low-Income Officer positions. The Secretary and Membership Secretary are willing to stand for another term. If you are interested in running for one of these positions, please consult the Call for Officers for more information about the duties of […]]]></summary>
+        <author>
+            <name>lisafischer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Event Annotations of Prose]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.83</id>
@@ -11000,67 +11033,6 @@ There's quite detailed documentation available, including an example of adding a
 create an issue in the GitHub repository. #dhhacks]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[***Updated information*** CfP El’Manuscript-2022 - “Textual Heritage and Information Technologies” International Conference]]></title>
-        <id>1387 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2022/02/16/updated-information-cfp-elmanuscript-2022-textual-heritage-and-information"/>
-        <updated>2022-02-16T14:26:47.000Z</updated>
-        <summary type="html"><![CDATA[***Updated information*** CfP El’Manuscript-2022 - “Textual Heritage and Information Technologies” International Conference
-
-
-
-# El’Manuscript-2022 - “Textual Heritage and Information Technologies” : Conference Postponed
-The El'Manuscript 2022 Conference has to be postponed until further notice.
-A new CfP will be issued as soon as the situation allows it.
- 
- 
- 
- 
-The Organizing Committee is pleased to invite submissions of abstracts for the El’Manuscript-2022 international conference on the creation and development of information systems for storage, description, processing, analysis, and publication of medieval and early modern hand-written and printed texts and documentary records. Any person involved in the creation or application of these resources —including researchers; instructors; …]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CfP El’Manuscript-2022 - “Textual Heritage and Information Technologies” International Conference]]></title>
-        <id>1387 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2022/02/16/cfp-elmanuscript-2022-textual-heritage-and-information-technologies-international"/>
-        <updated>2022-02-16T14:26:47.000Z</updated>
-        <summary type="html"><![CDATA[15 Mar 2022 - 00:00
-
-
-
-CfP El’Manuscript-2022 - “Textual Heritage and Information Technologies” International Conference
-
-
-
-The Organizing Committee is pleased to invite submissions of abstracts for the El’Manuscript-2022 international conference on the creation and development of information systems for storage, description, processing, analysis, and publication of medieval and early modern hand-written and printed texts and documentary records. Any person involved in the creation or application of these resources —including researchers; instructors; staff of libraries, museums, and archives; programmers, and undergraduate and graduate students— is welcome to participate.
-El’Manuscript 2022 is the ninth in a series of biennial international conferences entitled “Textual Heritage and Infor…]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACH Programming Historian Workshop on Twine in the Classroom]]></title>
-        <id>https://ach.org/?p=2328</id>
-        <link href="https://ach.org/blog/2022/02/15/ach-programming-historian-workshop-on-twine-in-the-classroom/"/>
-        <updated>2022-02-15T20:38:09.000Z</updated>
-        <summary type="html"><![CDATA[The ACH mentoring group is sponsoring a yearlong, public book club based on the English-language version of Programming Historian. Open to all (including non-members of ACH), newcomers to the topic and to digital humanities work through a Programming Historian lesson together in a supportive environment with one or two more experienced participants able to help and answer questions.…Continue reading.]]></summary>
-        <author>
-            <name>jwoowinter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMC research notes: Systemic problems require systemic solutions: the need for coordination and cooperation to improve research quality]]></title>
-        <id>https://www.rluk.ac.uk/?p=11546</id>
-        <link href="https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-05932-5#new_tab"/>
-        <updated>2022-02-15T20:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Authors: Emma Ganley, Anne-Marie Coriat, Sarah Shenow & David Prosser Various factors contribute to low reproducibility and replicability of scientific findings. Whilst not all of these are necessarily problematic, there is growing acceptance that there is room for improvement. Many sectoral organisations have a role to play in this, by refining incentives and rewards, promoting [...]
-The post BMC research notes: Systemic problems require systemic solutions: the need for coordination and cooperation to improve research quality appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
         </author>
     </entry>
     <entry>
