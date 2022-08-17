@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-08-16T08:03:48.616Z</updated>
+    <updated>2022-08-17T08:03:54.664Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From our Digital Bookshelf: “Rethinking research data” by Kristin Briney]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1193</id>
+        <link href="https://scholarlytales.hcommons.org/2022/08/16/from-our-digital-bookshelf-rethinking-research-data-by-kristen-briney/"/>
+        <updated>2022-08-16T19:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Research data management (RDM) is as old as research itself. Scholars across the centuries have developed ways to organize and preserve the materials they work with. In today’s age of seemingly boundless technological possibilities, tool options, and ideas, more and more funders and institutions are outlining formal requirements around RDM to help overwhelmed researchers find their way to the latest best practices in handling data. These requirements aren’t always experienced as helpful, of course. The lingo of RDM can sound...]]></summary>
+        <author>
+            <name>Nele Noppe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minor Lables]]></title>
+        <id>1175 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/projects/minor-lables"/>
+        <updated>2022-08-16T16:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Detecting Genre in Pitchfork Reviews
+
+
+Project Start Date: 
+
+August, 2021
+
+
+
+We analyze 23,000 reviews from Pitchfork.com to establish a network of over 7,000 artists based on their co-presence in reviews. We use Gephi's (Louvain community detection) modularity class feature to sort the network into closely connected groups. However, because this process is non-deterministic, we improve on its results by running it 10,000 times. Using this novel "metamodularity" method we can show how often any two artists were sorted into the same group. For instance, the jazz musician Alice Coltrane was grouped with John Coltrane 10,000 times, with Sly and the Family Stone 4,939 times, and with Guns n’ Roses one time. With these data, we can visualize how the largely undifferentiated mass of artists fragments into more and more connected groups could be described as genres. 
+While some of the genres suggested by this method are incredibly specific, one notable exception is the group of African American musicians, which is remarkably large and stable. The artists within it range from Flying Lotus to Motown legend Marvin Gaye to trap rapper Young Thug to R&B singer-songwriter Sade to gangster rapper Tupac Shakur to funk innovators Funkadelic to cross-over hip hop star Cardi B. This is a far more capacious group than most rock clusters along aesthetic, market, and even historic grounds. This may reflect real world connections, yet it is also possible that this metamodularity difference reflects a bias at Pitchfork, where a (historically) rock-oriented hipster aesthetic and a (historically) largely white male audience may correspond to a relative lack of nuance when covering Black artists (historically). In any case, it is fair to say based on these data that Pitchfork has written about Black artists in a structurally unique way over the years relative to their coverage of white artists.
+
+
+
+
+
+
+Insert an Image: 
+
+
+
+
+Project Principal Investigator: 
+
+J.D.  Porter
+Stewart  Varner]]></summary>
+        <author>
+            <name>svarner@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPFL CDH Artist-in-Residence program opens call for second edition]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=11393</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/08/16/epfl-cdh-artist-in-residence-program-opens-call-for-second-edition/"/>
+        <updated>2022-08-16T12:22:15.000Z</updated>
+        <summary type="html"><![CDATA[The College of Humanities Artist-in-Residence program (CDH AiR) ‘Enter the Hyper-Scientific’ has launched its 2023 call, which will support up to four artists for three months of research and experimentation connecting art, humanities, science, and technology. This year’s edition will see a new partnership with the City of Lausanne. Initiated by the EPFL College of […]
+The post EPFL CDH Artist-in-Residence program opens call for second edition appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Celia Luterbacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simone Abbiati]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/simone-abbiati/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/simone-abbiati/"/>
+        <updated>2022-08-16T09:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Simone Abbiati is a second-year PhD student in Transcultural studies in the humanities at the University of Bergamo, with a “department of Excellence” researcher grant for Digital Humanities. He graduated in Contemporary Italian Literature at the University of Milan, worked on the narratological category of spatiality in “The Experience of Pain” by C.E. Gadda (BA)]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Université Paris-Nanterre :  Chargé.e d’études – Humanités numériques / Critical heritage studies]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=11385</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/08/16/universite-paris-nanterre-charge-e-detudes-humanites-numeriques-critical-heritage-studies/"/>
+        <updated>2022-08-16T09:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Le poste s’inscrit dans le cadre du projet ANR COLLABORA, qui vise à développer une réflexion théorique, empirique et politique à propos de plateformes numériques contributives de création, documentation et valorisation des patrimoines. Cette étude se concentre sur la problématique des controverses patrimoniales. Le poste est rattaché au laboratoire Dicen-Idf (Dispositifs d’Information et de Communication […]
+The post Université Paris-Nanterre :  Chargé.e d’études – Humanités numériques / Critical heritage studies appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EOSC Future Announces RDA Call for Domain Ambassadors]]></title>
         <id>5771 at https://www.clarin.eu</id>
@@ -725,6 +802,16 @@ Zu den Aufgaben gehören neben der Erstellung von Beiträgen für den DHd-Blog v
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1639, proceedings of the Inquisition in Mexico concerning riots in Mexico City and elsewhere in 1767. A compilation of various letters, declarations, and legal documents, many with signatures and many noted as reviewed byContinue reading "Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition"]]></summary>
         <author>
             <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Living with Machines present some of their research to date at the Turing catch-up]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=2576</id>
+        <link href="https://livingwithmachines.ac.uk/living-with-machines-present-some-of-their-research-to-date/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=living-with-machines-present-some-of-their-research-to-date"/>
+        <updated>2022-08-01T08:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Emma Griffin (Historian and Co-investigator) gives an introduction to the research project Kaspar Beelan (Research Associate) demonstrates how he’s using the Mitchell’s press directories in his research on the bias of newspapers.  These directories were published annually and were designed to give advertisers an overview of the newspapers of the day. Katherine McDonough (Senior Research […]]]></summary>
+        <author>
+            <name>Léllé Demertzi</name>
         </author>
     </entry>
     <entry>
@@ -1657,6 +1744,16 @@ Akademische Mitarbeiter:innen (Promotion)
         <summary type="html"><![CDATA[Am 17. Juli 2022 jährt sich die Gründung des DHd-Verbands in Hamburg zum 10. Mal! Aus diesem freudigen Anlass wollen wir mit der Community unter dem Motto „Der DHd-Verband feiert…]]></summary>
         <author>
             <name>406</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humanity and technology: In conversation with Jo Guldi]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=2554</id>
+        <link href="https://livingwithmachines.ac.uk/humanity-and-technology-in-conversation-with-jo-guldi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=humanity-and-technology-in-conversation-with-jo-guldi"/>
+        <updated>2022-07-08T08:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Living with Machines invites you to join us for two events with Professor Jo Guldi, where you will hear first hand from one of the world’s leading digital humanists. During this event, you will get insights into recently published historical research on global land rights and land reform and understand more about how the humanities […]]]></summary>
+        <author>
+            <name>Léllé Demertzi</name>
         </author>
     </entry>
     <entry>
@@ -10909,77 +11006,6 @@ Read the paper here
         <summary type="html"><![CDATA[Alliance of Digital Humanities Organizations (ADHO) is extending its call for participants in a new Anti-Racism Task Force. We have received a number of expressions of interest…]]></summary>
         <author>
             <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transkribus and Kirishitanban: Some Initial Experiments]]></title>
-        <id>http://digitalorientalist.com/?p=7796</id>
-        <link href="https://digitalorientalist.com/2022/02/18/transkribus-and-kirishitanban-some-initial-experiments/"/>
-        <updated>2022-02-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inspired by a workshop given by Dr. Alex Mallett (Waseda University) that I attended in May last year, I recently …]]></summary>
-        <author>
-            <name>James Harry Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the New CLARIN Ambassadors]]></title>
-        <id>5681 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/meet-new-clarin-ambassadors"/>
-        <updated>2022-02-18T09:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Meet the New CLARIN Ambassadors
-
-            
-The CLARIN Ambassadors Programme aims to raise awareness about and encourage participation in CLARIN 
-    
-European Research Infrastructure Consortium
-
-See: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en
-
-read more
-
-   in disciplines and communities that are not yet fully integrated in CLARIN. 
-In consultation with the national coordinators and representatives of the User Involvement Committee, three new experts have been selected for the role of CLARIN Ambassadors for the period from 01/09/2021 to 31/08/2023: Eva Soroli, Paul Rayson and Satu Saalasti. The new ambassadors cover diverse areas such as corpus linguistics and neurolinguistics, semantic multilingual natural language processing, as well as multimodal communication in clinical populations.
-The ambassadors will organise events, participate in conferences, initiate projects and disseminate CLARIN resources and services in their respective communities.
-They will work in strict collaboration with the CLARIN 
-    
-Board of Directors
-
-read more
-
-  , and in alignment with their respective national referents (the French CORLI K-centre, CLARIN-UK, and FIN-CLARIN) as well as other relevant initiatives, such as DELAD.
-Read more about the CLARIN Ambassadors Programme on this page.
-    
-
-              
-              
-                  
-
-  
-Eva Soroli
-    
-
-              
-              
-                  
-
-  
-Paul Rayson
-    
-
-              
-              
-                  
-
-  
-Satu Saalasti
-
-
- 
-
-      Elisa Gorgaini
- 18 February 2022]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
         </author>
     </entry>
     <entry>
