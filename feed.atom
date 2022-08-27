@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-08-26T08:04:10.518Z</updated>
+    <updated>2022-08-27T08:04:21.840Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -16,6 +16,16 @@ Repository location: 10.5281/zenodo.6799656.
  Published on 2022-08-25 10:40:45]]></summary>
         <author>
             <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dh+lib Reboot and Call for Review Editors]]></title>
+        <id>https://dhandlib.org/?p=124188</id>
+        <link href="https://dhandlib.org/2022/08/25/dhlib-reboot-and-call-for-review-editors/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dhlib-reboot-and-call-for-review-editors"/>
+        <updated>2022-08-25T19:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Friends and readers, During our restorative hiatus, the dh+lib team has been reflecting on our processes and working to address the challenges and inconveniences that have created extra burdens on our Review editorial team as well as on our Editors-at-Large. We’ve made a number of changes and are about to launch our call for EALs ...read more]]></summary>
+        <author>
+            <name>John Russell</name>
         </author>
     </entry>
     <entry>
@@ -187,6 +197,46 @@ You are welcome to submit a news item with CLARIN-related news (or call for pape
 The post CFP: Workshop on Information Visualization in the (Digital) Humanities appeared first on dhCenter.]]></summary>
         <author>
             <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: A People's Atlas of Nuclear Colorado]]></title>
+        <id>3ac0e572-0dab-4ffc-8872-d8f321f19567</id>
+        <link href="https://reviewsindh.pubpub.org/pub/peoples-atlas-of-nuclear-colorado"/>
+        <updated>2022-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of A People's Atlas of Nuclear Colorado, a project on the Cold War's nuclear legacies, directed by Shiloh Krupar and Sarah Kanouse]]></summary>
+        <author>
+            <name>Elli Mylonas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: jsLDA]]></title>
+        <id>8b76e3fa-20c4-4174-ad0b-e9c24ead29cb</id>
+        <link href="https://reviewsindh.pubpub.org/pub/jslda"/>
+        <updated>2022-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of jsLDA, a browser-based tool for topic modeling, developed by David Mimno]]></summary>
+        <author>
+            <name>Quinn Dombrowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Mina Loy]]></title>
+        <id>739a151d-dc54-442a-813c-0347f619fb34</id>
+        <link href="https://reviewsindh.pubpub.org/pub/mina-loy"/>
+        <updated>2022-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Mina Loy,  a multimedia digital project on the avant-garde works of modernist writer and artist Mina Loy, directed by Suzanne W. Churchill, Linda Kinnahan, and Susan Rosenbaum]]></summary>
+        <author>
+            <name>Kathryn Holland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Pelagios]]></title>
+        <id>d6b1a554-6340-4787-ba7e-b1e61fc09097</id>
+        <link href="https://reviewsindh.pubpub.org/pub/pelagios"/>
+        <updated>2022-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Pelagios, a network promoting semantic geo-annotation, directed by Elton Barker]]></summary>
+        <author>
+            <name>Ivo Zandhuis</name>
         </author>
     </entry>
     <entry>
@@ -10866,134 +10916,6 @@ Dispatches from the Place of Imminence by Svitlana Matviyenko, part 2 first appe
 Dispatches from the Place of Imminence by Svitlana Matviyenko first appeared on Digital Democracies Institute.]]></summary>
         <author>
             <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities Awards: vote for LiLa!]]></title>
-        <id>https://lila-erc.eu/?p=2881</id>
-        <link href="https://lila-erc.eu/digital-humanities-awards-vote-for-lila/"/>
-        <updated>2022-02-28T15:05:15.000Z</updated>
-        <summary type="html"><![CDATA[LiLa has been nominated for the Digital Humanities Awards for the category “Best Data Set“. Please follow the link to the DH Awards voting page and vote for LiLa!
-The post Digital Humanities Awards: vote for LiLa! appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Eleonora Litta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities Awards: vote for LiLa!]]></title>
-        <id>https://lila-erc.eu/?p=2881</id>
-        <link href="https://lila-erc.eu/digital-humanities-awards-vote-for-lila/"/>
-        <updated>2022-02-28T15:05:15.000Z</updated>
-        <summary type="html"><![CDATA[LiLa has been nominated for the Digital Humanities Awards for the category “Best Data Set“. Please follow the link to the DH Awards voting page and vote for LiLa!
-The post Digital Humanities Awards: vote for LiLa! appeared first on LiLa: Linking Latin.]]></summary>
-        <author>
-            <name>Eleonora Litta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten-Year Anniversary for CLARIN]]></title>
-        <id>5688 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/ten-year-anniversary-clarin"/>
-        <updated>2022-02-28T14:02:31.000Z</updated>
-        <summary type="html"><![CDATA[Ten-Year Anniversary for CLARIN
-
-            
-
-  
-  
-            
-    
-
-              
-              
-              
-                  
-
-  
-CLARIN is ten years old! At the end of February 2022, CLARIN celebrates its ten-year anniversary as an independent organisation and research infrastructure. And while in-person celebrations and festivities have had to be postponed until later in the year due to the pandemic, we would like to take this opportunity to express our gratitude to all of you who have contributed to or been part of the CLARIN community over the past decade. Thank you for supporting and enriching CLARIN since its inception in 2012, and for helping it become what it is today: an infrastructure that is a key enabling facility for and by researchers working with language data and services. 
- 
-
-To mark this important milestone, CLARIN is publishing a book this year: CLARIN. The Infrastructure for Language Resources (Berlin: de Gruyter, 2022), edited by Darja Fišer and Andreas Witt. The volume will showcase the rich panorama of resources and services that have been developed over the past years under the umbrella of CLARIN.
-Here’s to the next decade! 
-
-      Elisa Gorgaini
- 28 February 2022]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Appointments to DPC Committees]]></title>
-        <id>1483 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-appointments-dpc-committees"/>
-        <updated>2022-02-28T12:46:44.000Z</updated>
-        <summary type="html"><![CDATA[We are delighted to announce that DRI’s Membership Manager Dr Lisa Griffith has joined the Digital Digital Preservation Coalition’s (DPC) Advocacy and Community Engagement Subcommittee.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukrainian Researchers who enter Poland can seek help with the Academy of Young Scientists]]></title>
-        <id>1391 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2022/02/28/ukrainian-researchers-who-enter-poland-can-seek-help-academy-young-scientists"/>
-        <updated>2022-02-28T11:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian Researchers who enter Poland can seek help with the Academy of Young Scientists
-
-
-
-Ukrainian Researchers who enter Poland due to the war or plan to arrive in the coming days can seek help with the Academy of Young Scientists of the Polish Academy of Sciences which assists with finding accommodation and jobs.
-Contact here mail.amu.pan@gmail.com
-or via Facebook (https://m.facebook.com/AkademiaMlodychUczonych/posts/4633761276751375)
-In your message to please provide: name and surname, number of family members, your discipline and University, contact number, city/university where you are heading (if known)]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukrainian Researchers who enter Poland can seek help with the Academy of Young Scientists]]></title>
-        <id>1390 at https://eadh.org</id>
-        <link href="https://eadh.org/node/1390"/>
-        <updated>2022-02-28T11:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian Researchers who enter Poland can seek help with the Academy of Young Scientists]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukrainian Researchers who enter Poland can seek help with the Academy of Young Scientists]]></title>
-        <id>1389 at https://eadh.org</id>
-        <link href="https://eadh.org/node/1389"/>
-        <updated>2022-02-28T11:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian Researchers who enter Poland can seek help with the Academy of Young Scientists]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DPASSH 2022: Digital Preservation of Religious Collections: Conversations and Collaborations]]></title>
-        <id>1482 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dpassh-2022-digital-preservation-religious-collections-conversations-and-collaborations"/>
-        <updated>2022-02-28T10:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-27 Jun 2022
-
-
-Location: 
-
-Royal Irish Academy, Dublin and Online]]></summary>
-        <author>
-            <name>Deborah Thorpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing and Promoting your Collections Through Europeana]]></title>
-        <id>1481 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/sharing-collections-europeana"/>
-        <updated>2022-02-28T09:48:29.000Z</updated>
-        <summary type="html"><![CDATA[Why, how and when can DRI members add content to Europeana, to widen and deepen engagement with it?]]></summary>
-        <author>
-            <name>Deborah Thorpe</name>
         </author>
     </entry>
     <entry>
