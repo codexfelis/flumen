@@ -282,6 +282,15 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=1500",
+          "author": "hannah",
+          "description": "**UPDATE 31 August 2022: Please note that the usual non-English versions (Deutsch, Español, Français, Italiano) are currently being created and will be posted as soon as possible.** Digital Humanities 2023: “Collaboration as opportunity” The Alliance of Digital Humanities Organizations (ADHO) invites submission of proposals for its annual conference, July 10-14, 2023 at the University of… Read More »Call for Papers: Digital Humanities 2023",
+          "link": "https://adho.org/2022/08/31/call-for-papers-digital-humanities-2023/",
+          "publishedOn": "2022-08-31T15:48:34.000Z",
+          "wordCount": 1391,
+          "title": "Call for Papers: Digital Humanities 2023"
+        },
+        {
           "id": "https://adho.org/?p=1333",
           "author": "hannah",
           "description": "We are so pleased to announce the launch of a new website for ADHO along with a newsletter and podcast! Built in WordPress, our new website features much of the same content from the previous website with some important updates and is designed with accessibility and usability as guiding principles. Perhaps most significantly, the site… Read More »New ADHO Communications Streams: A new website, newsletter, and podcast!",
@@ -3347,6 +3356,15 @@
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
         {
+          "id": "1195 at https://pricelab.sas.upenn.edu",
+          "author": "perezste@upenn.edu",
+          "description": "Monday, October 17, 2022 - 3:30pm—5:00pm\n\n\n\nCollaborative Classroom (Room 113)\nVan Pelt-Dietrich Library Center\n3420 Walnut St, Philadelphia, PA 19104\n\n\n\nInterested in building a digital project but don’t know where to start? In this overview workshop, participants will learn the key questions to ask and document before starting, and how to turn these into a flexible project plan that will reduce stress and set your project up for success. These include:\nIdentifying a project team and defining roles\nFinding support (money and labor)\nIdeation\nScoping\nAccessibility and inclusion\nCopyright and licensing\nPlatform decisions\nCrediting project participants ethically\nDocumentation\nSustainability (of people and of platforms)\nPromotion\nBy the end of the workshop, participants will understand what they need to know before beginning a digital project and have a toolkit of resources to help them plan their own.\nRegistration Required.\n \n\n\n\nRegister\n\n\nSubtitle: \n\nProject Planning\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/digital-scholarship-101",
+          "publishedOn": "2022-08-31T18:18:54.000Z",
+          "wordCount": 327,
+          "title": "Digital Scholarship 101"
+        },
+        {
           "id": "1188 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
           "description": "Project Start Date: \n\nAugust, 2020—August, 2022\n\n\n\nPunk Cubano is the first digital archive dedicated to Cuban punk culture. Published in Spanish in 2020, the site gives access to the music production of 26 Cuban bands, as well as to several short testimonials about the experience of being punk in the island. This archive serves a double purpose: to work as a tool for Cuban musicians to publish their music, and to make information about Cuban punk accessible to anyone with an interest in it. \nThe site was curated and published by Dr. Carmen Torre Perez, with permission from the featured bands/individuals, and the pictures and video testimonials were taken/recorded by Samuel Reina Calvo.\n \nDr. Perez graduated from the Hispanic Studies program at Penn in 2022 and is currently lecuturer at Boston University.\n \n\n\nWebsite: \n\nPunk Cubano\n\n\n\n\n\n\nInsert an Image: \n\n\n\n\nProject Principal Investigator: \n\nCarmen  Torre Perez",
@@ -4773,17 +4791,7 @@
       "title": "DH at Tufts",
       "feedUrl": "https://sites.tufts.edu/digitalhumanities/feed/",
       "siteUrl": "https://sites.tufts.edu/digitalhumanities",
-      "articles": [
-        {
-          "id": "https://sites.tufts.edu/digitalhumanities/?p=949",
-          "author": "Jake Victor Perl",
-          "description": "",
-          "link": "https://sites.tufts.edu/digitalhumanities/2022/03/04/new-dh-course-at-tufts/?utm_source=rss&utm_medium=rss&utm_campaign=new-dh-course-at-tufts",
-          "publishedOn": "2022-03-04T20:20:26.000Z",
-          "wordCount": 145,
-          "title": "New DH course at Tufts!"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "TEI: Text Encoding Initiative",
@@ -4857,6 +4865,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/09/01/making-nsw-postal.html",
+          "author": null,
+          "description": "As part of my work on the Everyday Heritage project I’m looking at how we can make better use of digitised collections to explore the everyday experiences woven around places such as Parramatta Road in Sydney. For example, the NSW Postal Directories from 1886 to 1908 and 1909 to 1950 have been digitised by the State Library of NSW and made available through Trove.  The directories list residences and businesses by name and street location. Using them we can explore changes in the use of Parramatta Road across 60 years of history. But there’s a problem. While you can browse the directories page by page, searching is clunky. Trove’s main search indexes the contents of the directories by ‘article’. Each ‘article’ can be many pages long, so it’s difficult to focus in on the matching text. Clic…",
+          "link": "https://updates.timsherratt.org/2022/09/01/making-nsw-postal.html",
+          "publishedOn": "2022-09-01T06:22:09.000Z",
+          "wordCount": 801,
+          "title": "Making NSW Postal Directories (and other digitised directories) easier to search with the GLAM Workbench and Datasette"
+        },
         {
           "id": "http://wragge.micro.blog/2022/08/29/interested-in-victorian.html",
           "author": null,
@@ -5591,6 +5608,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4149 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The military offensive launched by the Russian Federation against Ukraine in the early hours of 24 February 2022 and the ensuing war on Ukrainian territory have resulted in immense human suffering, a humanitarian tragedy and incalculable material damage. The violation of a country’s territorial integrity and sovereignty – an act in clear breach of the United Nations Charter – has shattered the shared framework of values and principles fostered by multilateralism after the Second World War in the hope of achieving world peace, while leading to an unprecedented outpouring of solidarity for Ukraine and the plight of its people from Western democracies and European and international organisations, including NATO, the UN, the European Union and the Council of Europe, and their Member States and…",
+          "link": "https://www.c2dh.uni.lu/events/voices-war-path-peace-ukrainian-and-international-insights",
+          "publishedOn": "2022-08-31T10:10:47.000Z",
+          "wordCount": 688,
+          "title": "Voices from the War – Path to Peace : Ukrainian and international insights"
+        },
         {
           "id": "4144 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -7475,6 +7501,24 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1552 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "Date: \n\n21 Sep 2022\n\n\nLocation: \n\nZoom\n\n\n\nSeptember’s virtual coffee morning will take place on Wednesday 21 September at 10.00am for half",
+          "link": "https://www.dri.ie/dri-virtual-coffee-morning-september",
+          "publishedOn": "2022-08-31T09:55:17.000Z",
+          "wordCount": 721,
+          "title": "DRI Virtual Coffee Morning: September"
+        },
+        {
+          "id": "1551 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that our annual Community Archive Scheme is open for applications for 2023. The Community Archive Scheme is one way that DRI works to help preserve and steward Cultural Heritage, Social Science and Research Data by giving Community Groups with at-risk digital material a route to preservation.",
+          "link": "https://www.dri.ie/dri%E2%80%99s-annual-community-archive-scheme-opens-2023",
+          "publishedOn": "2022-08-31T07:48:02.000Z",
+          "wordCount": 1203,
+          "title": "DRI’s annual Community Archive Scheme opens for 2023"
+        },
         {
           "id": "1550 at https://www.dri.ie",
           "author": "ainemadden",
