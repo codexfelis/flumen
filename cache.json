@@ -73,6 +73,15 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=2258",
+          "author": "Annika Rockenberger",
+          "description": "The 7th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB2023) will be online from 8–10 March 2023. DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond. DHNB2023 explores the many facets of Sustainability in the Digital Humanities with a […]",
+          "link": "https://dhnb.eu/dhnb2023-call-for-submissions-published/",
+          "publishedOn": "2022-09-02T09:39:39.000Z",
+          "wordCount": 196,
+          "title": "DHNB2023 Call for Submissions published!"
+        },
+        {
           "id": "https://dhnb.eu/?p=2236",
           "author": "Olga Holownia",
           "description": "The next DHNB conference will be held online on 08.-10. March, 2023. The conference with the theme “Sustainability: Environment – Community – Digital” is organized in collaboration between the University of Oslo, the University of Bergen, and the University of Stavanger. The CfP with more information in the theme will follow soon.",
@@ -2167,15 +2176,6 @@
           "publishedOn": "2022-03-08T08:14:46.370Z",
           "wordCount": 820,
           "title": "Die offizielle Pressemitteilung zur Eröffnung der DHd2022-Konferenz ist auf dem DHd-Blog veröffentlicht"
-        },
-        {
-          "id": "node/780",
-          "author": "406",
-          "description": "Morgen, am 07.03.2022, beginnt die 8. Jahrestagung, die DHd2022, des Verbands »Digital Humanities im deutschsprachigen Raum« (DHd). Sie wird ausgerichtet (virtuell) von der…",
-          "link": "https://dig-hum.de/aktuelles/morgen-07032022-beginnt-die-dhd2022",
-          "publishedOn": "2022-03-07T08:14:49.123Z",
-          "wordCount": 722,
-          "title": "MORGEN (07.03.2022) beginnt die DHd2022"
         }
       ]
     },
@@ -3165,6 +3165,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.84",
+          "author": null,
+          "description": "The digital representation and publishing of human history on the web has so far been stuck at the digital unlocking of collections of historical items. Those collections are described by metadata mostly for curation and for findability metadata that are put on the web in the manner of a library catalog. Usually, there is little on ‘aboutness’. This is unfortunate, as modern representations of knowledge and web-based interactive presentation techniques offer ample opportunities for a more complex representation and richer interaction with digital history. In this contribution, we argue for a history in digital data that is treated for what it is: an interpretation, like all history, while remaining traceable to its information carriers.\n Published on 2022-09-02 10:08:20",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.84",
+          "publishedOn": "2022-09-03T08:03:31.338Z",
+          "wordCount": 6810,
+          "title": "Representing Persons and Objects in Complex Historical Events using the Event Model F"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.81",
           "author": null,

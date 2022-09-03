@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-09-02T08:04:09.096Z</updated>
+    <updated>2022-09-03T08:03:38.250Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Representing Persons and Objects in Complex Historical Events using the Event Model F]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.84</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.84"/>
+        <updated>2022-09-03T08:03:31.338Z</updated>
+        <summary type="html"><![CDATA[The digital representation and publishing of human history on the web has so far been stuck at the digital unlocking of collections of historical items. Those collections are described by metadata mostly for curation and for findability metadata that are put on the web in the manner of a library catalog. Usually, there is little on ‘aboutness’. This is unfortunate, as modern representations of knowledge and web-based interactive presentation techniques offer ample opportunities for a more complex representation and richer interaction with digital history. In this contribution, we argue for a history in digital data that is treated for what it is: an interpretation, like all history, while remaining traceable to its information carriers.
+ Published on 2022-09-02 10:08:20]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHNB2023 Call for Submissions published!]]></title>
+        <id>https://dhnb.eu/?p=2258</id>
+        <link href="https://dhnb.eu/dhnb2023-call-for-submissions-published/"/>
+        <updated>2022-09-02T09:39:39.000Z</updated>
+        <summary type="html"><![CDATA[The 7th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB2023) will be online from 8–10 March 2023. DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond. DHNB2023 explores the many facets of Sustainability in the Digital Humanities with a […]]]></summary>
+        <author>
+            <name>Annika Rockenberger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JOB: Digital Humanities Librarian (University of Illinois Urbana-Champaign)]]></title>
         <id>https://dhandlib.org/?p=124267</id>
@@ -10723,16 +10744,6 @@ Rappelons que la fascination pour cette « épopée » parcourt l’Europe, alim
         <updated>2022-03-08T08:14:46.370Z</updated>
         <summary type="html"><![CDATA[Kulturen des digitalen Gedächtnisses – Potsdamer Tagung zu „Digital Humanities“ beginnt
 Sammeln und Archivieren, Erinnern und Gedenken – wie verändert sich das kulturelle…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MORGEN (07.03.2022) beginnt die DHd2022]]></title>
-        <id>node/780</id>
-        <link href="https://dig-hum.de/aktuelles/morgen-07032022-beginnt-die-dhd2022"/>
-        <updated>2022-03-07T08:14:49.123Z</updated>
-        <summary type="html"><![CDATA[Morgen, am 07.03.2022, beginnt die 8. Jahrestagung, die DHd2022, des Verbands »Digital Humanities im deutschsprachigen Raum« (DHd). Sie wird ausgerichtet (virtuell) von der…]]></summary>
         <author>
             <name>406</name>
         </author>
