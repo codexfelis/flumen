@@ -73,6 +73,15 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=2266",
+          "author": "Olga Holownia",
+          "description": "Join us for our second Virtual Coffee Hour on Thursday, 29 September, 2022: 13-14 UTC / 14-15 CET. Registration:  https://bit.ly/DHNB-coffee-hour-Sept2022  AGENDA  Welcome and DHNB updates  New board DHNB 2023 Communication platforms Presentations  Andrius Utka, Associate Professor, Vytautas Magnus University, Mapping DH activities in Lithuania  Max Odsbjerg Pedersen, Information Specialist, Aarhus University Library | The Royal […]",
+          "link": "https://dhnb.eu/dhnb-virtual-coffee-hour-sept2022/",
+          "publishedOn": "2022-09-04T14:46:28.000Z",
+          "wordCount": 199,
+          "title": "DHNB VIRTUAL COFFEE HOUR"
+        },
+        {
           "id": "https://dhnb.eu/?p=2258",
           "author": "Annika Rockenberger",
           "description": "The 7th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB2023) will be online from 8–10 March 2023. DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond. DHNB2023 explores the many facets of Sustainability in the Digital Humanities with a […]",
@@ -2122,24 +2131,6 @@
           "publishedOn": "2022-03-12T08:13:49.421Z",
           "wordCount": 683,
           "title": "Manifest für digitale Editionen"
-        },
-        {
-          "id": "node/784",
-          "author": "406",
-          "description": "Der Verband \"Digital Humanities im deutschsprachigen Raum e.V.\" (DHd) hat seit kurzem einen eigenen Kanal auf YouTube namens \"DHd-Verband\".\nHier können auch die Präsentationen der…",
-          "link": "https://dig-hum.de/aktuelles/neu-dhdyoutube",
-          "publishedOn": "2022-03-09T08:14:15.612Z",
-          "wordCount": 729,
-          "title": "NEU: DHd@YouTube"
-        },
-        {
-          "id": "node/785",
-          "author": "406",
-          "description": "Am 09. März 2022 (Mittwoch) findet im Rahmen der 8. Jahreskonferenz des Verbandes \"Digital Humanities im deutschsprachigen Raum e.V.\" (DHd) von 16:00 bis 18:00 Uhr unsere…",
-          "link": "https://dig-hum.de/aktuelles/dhd-mitgliederversammulung-heute-1600-1800-uhr",
-          "publishedOn": "2022-03-09T08:14:15.593Z",
-          "wordCount": 706,
-          "title": "DHd-Mitgliederversammulung: Heute von 16:00-18:00 Uhr"
         }
       ]
     },
@@ -4491,15 +4482,6 @@
           "publishedOn": "2022-03-16T17:32:28.000Z",
           "wordCount": 1816,
           "title": "CAJS Rar ms 533: Prayer Book"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=16453",
-          "author": "simsmss",
-          "description": "This week for Coffee With A Codex we pulled out Ms. Codex 1630, a 15th-century copy of Rhetorica ad Herennium, the earliest comprehensive Latin treatise on rhetoric, composed in the first century B.C. and frequently attributed to Cicero through the Middle Ages and into the Renaissance. As an added treat, we also looked at Ms.Continue reading \"Ms. Codex 1630 & Ms. Codex 1629: Rhetoric\"",
-          "link": "https://schoenberginstitute.org/2022/03/09/ms-codex-1630-ms-codex-1629-rhetoric/",
-          "publishedOn": "2022-03-09T18:27:58.000Z",
-          "wordCount": 1734,
-          "title": "Ms. Codex 1630 & Ms. Codex 1629: Rhetoric"
         }
       ]
     },
@@ -4829,6 +4811,24 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/09/05/fresh-harvest-of.html",
+          "author": null,
+          "description": "I’ve updated the GLAM Workbench’s harvest of OCRd text from Trove’s digitised periodicals. This is a completely fresh harvest, so should include any corrections made in recent months. It includes:\n1,430 periodicals\nOCRd text from 41,645 issues\nAbout 9gb of text\nThe easiest way to explore the harvest is probably this human-readable list. The list of periodicals with OCRd text is also available as a CSV. You can find more details in the Trove journals section of the GLAM Workbench, and download the complete corpus from CloudStor.\nFinding which periodical issues in Trove have OCRd text you can download is not as easy as it should be. The fullTextInd index doesn’t seem to distinguish between digitised works (with OCR)  and born-digital publications (like PDFs) without downloadable text. You ca…",
+          "link": "https://updates.timsherratt.org/2022/09/05/fresh-harvest-of.html",
+          "publishedOn": "2022-09-05T06:13:16.000Z",
+          "wordCount": 557,
+          "title": "Fresh harvest of OCRd text from Trove's digitised periodicals – 9gb of text to explore and analyse!"
+        },
+        {
+          "id": "http://wragge.micro.blog/2022/09/05/explore-troves-digitised.html",
+          "author": null,
+          "description": "I’ve updated my map displaying places where Trove digitised newspapers were published or distributed. You can view all the places on single map – zoom in for more markers, and click on a marker for title details and a link back to Trove.\n\nIf you want to find newspapers from a particular area, just click on a location using this map to view the 10 closest titles.\n\nYou can view or download the dataset used to construct the map. Place names were extracted from the newspaper titles using the Geoscience Gazetteer.",
+          "link": "https://updates.timsherratt.org/2022/09/05/explore-troves-digitised.html",
+          "publishedOn": "2022-09-05T05:34:05.000Z",
+          "wordCount": 119,
+          "title": "Explore Trove's digitised newspapers by place"
+        },
         {
           "id": "http://wragge.micro.blog/2022/09/01/making-nsw-postal.html",
           "author": null,
@@ -8004,15 +8004,6 @@
           "publishedOn": "2022-03-10T10:39:41.000Z",
           "wordCount": 1988,
           "title": "Archiving Reproductive Health pilot collections now online"
-        },
-        {
-          "id": "1487 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "The Digital Preservation Coalition (DPC) has released a statement on the invasion of Ukraine in February 2022, joining the Secretary-General of the United Nations and many other leaders, agencies, and colleagues around the world in calling for an immediate cessation of Russia’s attack on Ukraine and the ongoing military operations.",
-          "link": "https://www.dri.ie/dpcs-statement-invasion-ukraine",
-          "publishedOn": "2022-03-09T12:48:13.000Z",
-          "wordCount": 880,
-          "title": "DPC's Statement on the Invasion of Ukraine"
         }
       ]
     },
@@ -8210,15 +8201,6 @@
           "publishedOn": "2022-03-14T08:32:41.000Z",
           "wordCount": 1371,
           "title": "Enabling new forms of remote access to library and archive collections – help us to shape the future"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=11550",
-          "author": "Melanie Cheung",
-          "description": "RLUK is a library member organisation of international standing. We represent excellence both collectively and through individual members. Our mission is to shape the research library agenda and contribute to the wider knowledge economy through innovative projects and services that add value and impact to the process of research and researcher-training. As we enter [...]\nThe post RLUK opens applications for new members appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/rluk-new-member-call-2022/",
-          "publishedOn": "2022-03-09T13:35:14.000Z",
-          "wordCount": 1819,
-          "title": "RLUK opens applications for new members"
         }
       ]
     },
