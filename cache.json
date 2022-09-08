@@ -2113,15 +2113,6 @@
           "publishedOn": "2022-03-21T08:15:46.787Z",
           "wordCount": 787,
           "title": "Mehrere Stellenausschreibungen bei der Kulturstiftung des Bundes (Halle/Saale)"
-        },
-        {
-          "id": "node/786",
-          "author": "406",
-          "description": "Das Manifest für digitale Editionen kann auf dem DHd-Blog hier nachgelesen werden:https://dhd-blog.org/?p=17563",
-          "link": "https://dig-hum.de/aktuelles/manifest-f%C3%BCr-digitale-editionen",
-          "publishedOn": "2022-03-12T08:13:49.421Z",
-          "wordCount": 683,
-          "title": "Manifest für digitale Editionen"
         }
       ]
     },
@@ -2630,15 +2621,6 @@
           "publishedOn": "2022-03-15T17:18:48.000Z",
           "wordCount": 1385,
           "title": "Decolonize North Africa’s Historical Records"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7887",
-          "author": "Jonathan Robker",
-          "description": "The first part of this post covered starting a project with eScriptorium and properly segmenting a page to prepare it …",
-          "link": "https://digitalorientalist.com/2022/03/11/introduction-to-escriptorium-htr-for-hebrew-manuscripts-part-2/",
-          "publishedOn": "2022-03-12T01:00:00.000Z",
-          "wordCount": 1340,
-          "title": "Introduction to eScriptorium, HTR for Hebrew Manuscripts, part 2"
         }
       ]
     },
@@ -3227,15 +3209,6 @@
           "publishedOn": "2022-03-17T15:46:32.185Z",
           "wordCount": 3371,
           "title": "A Social Network of the <i>Prosopography of the Neo-Assyrian Empire</i>"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.71",
-          "author": null,
-          "description": "We present a new dataset built on prior work consisting of 1,671,370 randomly sampled pages of English-language prose roughly divided between modes of fictional and non-fictional writing and published between the years 1800 and 2000. In addition to focusing on the “page’’ as the basic bibliographic unit, our work employs a single predictive model for the historical period under consideration in contrast to prior work. Besides publication metadata, we also provide an enriched feature set of 107 features including part-of-speech tags, sentiment scores, word supersenses and more. Our data is designed to give researchers in the digital humanities large yet portable random samples of historical writing across two foundational modes of English prose writing. We present initial insights into transformations of linguistic patterns across this historical period using our enriched features as possible pointers to future work. The data can be accessed at https://doi.org/10.7910/DVN/HAKKUA.\n Published on 2022-03-11 13:11:48",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.71",
-          "publishedOn": "2022-03-12T08:14:14.577Z",
-          "wordCount": 5438,
-          "title": "HATHI 1M: Introducing a Million Page Historical Prose Dataset in English from the Hathi Trust"
         }
       ]
     },
@@ -7492,6 +7465,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1555 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The Digital Repository of Ireland (DRI) is delighted to be participating in the Royal Irish Academy’s (RIA) first Research Open Day on 4 October. The Research Open Day aims to showcase the work of the Academy’s projects, library, and publications to the public through a rich programme of lectures and demonstrations.",
+          "link": "https://www.dri.ie/royal-irish-academy-research-day",
+          "publishedOn": "2022-09-07T10:42:21.000Z",
+          "wordCount": 851,
+          "title": "Royal Irish Academy Research Day"
+        },
         {
           "id": "1554 at https://www.dri.ie",
           "author": "ainemadden",

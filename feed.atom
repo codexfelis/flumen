@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-09-07T08:05:55.374Z</updated>
+    <updated>2022-09-08T08:04:12.785Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Royal Irish Academy Research Day]]></title>
+        <id>1555 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/royal-irish-academy-research-day"/>
+        <updated>2022-09-07T10:42:21.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to be participating in the Royal Irish Academy’s (RIA) first Research Open Day on 4 October. The Research Open Day aims to showcase the work of the Academy’s projects, library, and publications to the public through a rich programme of lectures and demonstrations.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Culture Night 2022]]></title>
         <id>1554 at https://www.dri.ie</id>
@@ -10609,37 +10619,6 @@ Dispatches from the Place of Imminence by Svitlana Matviyenko, part 5 first appe
 Dispatches from the Place of Imminence by Svitlana Matviyenko, part 4 first appeared on Digital Democracies Institute.]]></summary>
         <author>
             <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HATHI 1M: Introducing a Million Page Historical Prose Dataset in English from the Hathi Trust]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.71</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.71"/>
-        <updated>2022-03-12T08:14:14.577Z</updated>
-        <summary type="html"><![CDATA[We present a new dataset built on prior work consisting of 1,671,370 randomly sampled pages of English-language prose roughly divided between modes of fictional and non-fictional writing and published between the years 1800 and 2000. In addition to focusing on the “page’’ as the basic bibliographic unit, our work employs a single predictive model for the historical period under consideration in contrast to prior work. Besides publication metadata, we also provide an enriched feature set of 107 features including part-of-speech tags, sentiment scores, word supersenses and more. Our data is designed to give researchers in the digital humanities large yet portable random samples of historical writing across two foundational modes of English prose writing. We present initial insights into transformations of linguistic patterns across this historical period using our enriched features as possible pointers to future work. The data can be accessed at https://doi.org/10.7910/DVN/HAKKUA.
- Published on 2022-03-11 13:11:48]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manifest für digitale Editionen]]></title>
-        <id>node/786</id>
-        <link href="https://dig-hum.de/aktuelles/manifest-f%C3%BCr-digitale-editionen"/>
-        <updated>2022-03-12T08:13:49.421Z</updated>
-        <summary type="html"><![CDATA[Das Manifest für digitale Editionen kann auf dem DHd-Blog hier nachgelesen werden:https://dhd-blog.org/?p=17563]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to eScriptorium, HTR for Hebrew Manuscripts, part 2]]></title>
-        <id>http://digitalorientalist.com/?p=7887</id>
-        <link href="https://digitalorientalist.com/2022/03/11/introduction-to-escriptorium-htr-for-hebrew-manuscripts-part-2/"/>
-        <updated>2022-03-12T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The first part of this post covered starting a project with eScriptorium and properly segmenting a page to prepare it …]]></summary>
-        <author>
-            <name>Jonathan Robker</name>
         </author>
     </entry>
     <entry>
