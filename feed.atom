@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-09-09T08:04:43.200Z</updated>
+    <updated>2022-09-10T08:04:06.875Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fall 2022 Workshops and Events]]></title>
+        <id>https://dh.rutgers.edu/?p=77738</id>
+        <link href="https://dh.rutgers.edu/fall-2022-events/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fall-2022-events"/>
+        <updated>2022-09-09T16:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back! This schedule introduces our almost “normal” digital humanities programming for Fall 2022. We include several new workshops as well as a mix of online and hybrid options; pay close attention to the registration form for details about attendance modalities. As before, we use the LibCal reservation system together with the rest of the New Brunswick Libraries Graduate Specialist Program. Please go to dh.rutgers.edu/calendar or to libcal.rutgers.edu/calendar/nblworkshops to reserve your spot (the information is the same in both places). The workshops will be taught by Francesca Giannetti, Digital Humanities Librarian. More workshops will be added in October. Introduction to Zotero Monday, September 12, 11:00-12:00,]]></summary>
+        <author>
+            <name>Francesca Giannetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLUK endorses ICOLC statement on the metadata rights of libraries]]></title>
+        <id>https://www.rluk.ac.uk/?p=12424</id>
+        <link href="https://www.rluk.ac.uk/rluk-endorses-icolc-statement-on-the-metadata-rights-of-libraries/"/>
+        <updated>2022-09-09T14:52:59.000Z</updated>
+        <summary type="html"><![CDATA[RLUK has endorsed the International Coalition of Library Consortia (ICOLC)'s statement on the metadata rights of libraries. Metadata and the metadata services that describe library collections are critical in supporting content discovery, knowledge creation, and libraries’ public missions. Metadata describing library collections is not typically copyrightable, and should be considered freely shareable and reusable under [...]
+The post RLUK endorses ICOLC statement on the metadata rights of libraries appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLUK joins steering committee of the Research Libraries Position Description Bank]]></title>
+        <id>https://www.rluk.ac.uk/?p=12411</id>
+        <link href="https://www.rluk.ac.uk/rluk-joins-steering-committee-of-the-research-libraries-position-description-bank/"/>
+        <updated>2022-09-09T14:06:51.000Z</updated>
+        <summary type="html"><![CDATA[The Research Libraries Position Description Bank (RL PD Bank), previously known as the ARL Position Description Bank, will be jointly governed and financed by the Association of Research Libraries (ARL), Association of Southeastern Research Libraries (ASERL), Canadian Association of Research Libraries (CARL), Research Libraries UK (RLUK), and the George A. Smathers Libraries of University [...]
+The post RLUK joins steering committee of the Research Libraries Position Description Bank appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities and Manuscript Archives in Iran]]></title>
+        <id>http://digitalorientalist.com/?p=8445</id>
+        <link href="https://digitalorientalist.com/2022/09/09/digital-humanities-and-manuscript-archives-in-iran/"/>
+        <updated>2022-09-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Professor Dr. Rasul Jafarian has significantly contributed to digital humanities during his services as the director of some of the …]]></summary>
+        <author>
+            <name>Shiva Mihan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cfp: Special issue on Digital tools in Journal of Digital History]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1831</id>
+        <link href="https://discourse.computational-humanities-research.org/t/cfp-special-issue-on-digital-tools-in-journal-of-digital-history/1831"/>
+        <updated>2022-09-09T11:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps of interest to some in this network:
+I’m currently co-editing a special issue on Digital tools for the Journal of Digital History, which provides an innovative and multi-layered publication platform via Jupyter Notebooks. Full cfp can be found here.
+The special issue welcomes contributions that introduce and discuss digital toolkits for exploring historic source materials, be they sonic, textual, visual, or audiovisual. We seek to collect a broad range of publications that demonstrate and critically analyse new ways of exploring the past through computational means and strive to open up and problematize the use of digital methods in historic research.
+In line with the journal’s publication standards, the toolkits should be open source and the articles available in Jupyter Notebooks…]]></summary>
+        <author>
+            <name>MariaEriksson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI is Hiring a Research Associate!]]></title>
+        <id>1558 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-hiring-research-associate"/>
+        <updated>2022-09-09T09:51:33.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is hiring a Research Associate to join our team located at the Royal Irish Academy.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Recap on the CLARIN and Libraries Workshop]]></title>
         <id>5783 at https://www.clarin.eu</id>
@@ -10630,98 +10695,6 @@ http://dhnb.eu[/embed]
         <summary type="html"><![CDATA[#ScienceForUkraine is a community group of volunteer students and research scientists from academic institutions in Europe and around the world. #ScienceForUkraine’s mission is to collect and disseminate information about support opportunities at the university, national, and international level for graduate students and researchers directly affiliated to an academic institution in Ukraine. On the initiative’s website: […]]]></summary>
         <author>
             <name>Olga Holownia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World Language vs Programming Language Debate: An Opinion]]></title>
-        <id>https://www.vanderbilt.edu/digitalhumanities/?p=3841</id>
-        <link href="https://www.vanderbilt.edu/digitalhumanities/the-world-language-vs-programming-language-debate-an-opinion/"/>
-        <updated>2022-03-14T17:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Tyler Anthony – Department of Spanish and Portuguese, CMAP, Mellon Graduate Fellow In recent years, a debate surrounding world language credit has emerged within different educational institutions across the United States. Traditionally, students across the nation are required to meet a certain credit threshold of world language courses, such as Spanish, French, Mandarin, etc. to...]]></summary>
-        <author>
-            <name>romeroda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congratulations to the 2022–2023 Graduate Seed Grant Recipients!]]></title>
-        <id>https://dh.rutgers.edu/?p=77661</id>
-        <link href="https://dh.rutgers.edu/seed-grants2022congrats/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=seed-grants2022congrats"/>
-        <updated>2022-03-14T15:17:44.000Z</updated>
-        <summary type="html"><![CDATA[The Rutgers Digital Humanities Initiative is pleased to announce the recipients of its graduate seed grants for 2022–2023: Maria Teresa De Luca (Italian) and Paolo Scartoni (Italian) Divine Networks: An Interactive Visualization of Dante’s Comedy Sam Hege (History) Civil and Labor Rights in the Southwest: A Digital History of the United Packinghouse Workers of America Alexander Liebman (Geography) Programmed Landscapes: The Production of Digital Nature in the Valle del Cauca Lisette Varón-Carvajal (History) Colombia’s Popular Healers: Past and Present The DH Initiative gratefully acknowledges the support of the School of Arts and Sciences for the seed grant program. Grant recipients will present their work at]]></summary>
-        <author>
-            <name>Andrew Goldstone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCLDH co-authored article nominated for Digital Humanities award]]></title>
-        <id>https://blogs.ucl.ac.uk/dh/?p=8251</id>
-        <link href="https://blogs.ucl.ac.uk/dh/2022/03/14/dh-award/"/>
-        <updated>2022-03-14T09:53:04.000Z</updated>
-        <summary type="html"><![CDATA[An article co-authored by UCLDH team member, Prof Julianne Nyhan and co-author, Dr Alexandra Ortolja-Baird, has been nominated for a Digital Humanities award. As explained on the Digital Humanities Awards website: Digital Humanities Awards are a set of annual awards where the public is able to nominate resources for the recognition of talent and expertise in […]]]></summary>
-        <author>
-            <name>Lucy Stagg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enabling new forms of remote access to library and archive collections – help us to shape the future]]></title>
-        <id>https://www.rluk.ac.uk/?p=11720</id>
-        <link href="https://www.rluk.ac.uk/enabling-new-forms-of-remote-access-to-library-and-archive-collections/"/>
-        <updated>2022-03-14T08:32:41.000Z</updated>
-        <summary type="html"><![CDATA[Research Libraries UK (RLUK), in collaboration with the School of Advanced Study, University of London (SAS), and members of a working group convened by the International Alliance of Research Library Associations (IARLA), is delighted to be launching a new international survey aiming to explore the academic awareness, experience, and perception of Virtual Reading Rooms [...]
-The post Enabling new forms of remote access to library and archive collections – help us to shape the future appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Day 2022]]></title>
-        <id>3931 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/open-day-2022"/>
-        <updated>2022-03-14T06:46:10.000Z</updated>
-        <summary type="html"><![CDATA[The Open Day is a public event offering prospective students the opportunity to discover more about the University of Luxembourg and receive immediate feedback to your questions about the University, its study programmes, how to apply, student life or any other questions you may have.
-Join us at the University of Luxembourg’s presentations and information stands. Staff and students will welcome you and answer your questions regarding the university, its study programmes and international exchange opportunities. The event will also include guided tours and visits of student residences on Belval Campus.
-You will find the C²DH at Place de l’Académie in the [L]aço where you can take part in the Digital Public History experiment A Colônia Luxemburguesa and help to unearth transatlantic steel ties. A bar serving Brazilian cocktails is also waiting for you.
-
-
- 
-Please note that registration is mandatory to attend the Open Day.
-
-
-
- 
-Saturday, 19 March 2022
-from 09.00 to 17.00 on Belval Campus
-More infomation and programme: openday.uni.lu
-19 March 2022
-  Outreach
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dispatches from the Place of Imminence by Svitlana Matviyenko, part 5]]></title>
-        <id>https://digitaldemocracies.org/?p=2129</id>
-        <link href="https://digitaldemocracies.org/dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-5/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-5"/>
-        <updated>2022-03-14T00:40:21.000Z</updated>
-        <summary type="html"><![CDATA[This was originally posted by by Geert Lovink on the Institute of Network Cultures blog on March 12, 2022. March 11, 2022 At 11pm, I go to bed with the intent to …
-  Dispatches from the Place of Imminence by Svitlana Matviyenko, part 5 Read More »
-Dispatches from the Place of Imminence by Svitlana Matviyenko, part 5 first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dispatches from the Place of Imminence by Svitlana Matviyenko, part 4]]></title>
-        <id>https://digitaldemocracies.org/?p=2117</id>
-        <link href="https://digitaldemocracies.org/dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-4/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-4"/>
-        <updated>2022-03-14T00:35:28.000Z</updated>
-        <summary type="html"><![CDATA[This was originally posted by by Geert Lovink on the Institute of Network Cultures blog on March 10, 2022. March 6-10, 2022 After a quiet day on Saturday, March 5th, …
-  Dispatches from the Place of Imminence by Svitlana Matviyenko, part 4 Read More »
-Dispatches from the Place of Imminence by Svitlana Matviyenko, part 4 first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Kayla Hilstob</name>
         </author>
     </entry>
     <entry>
