@@ -64,6 +64,15 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=2284",
+          "author": "Annika Rockenberger",
+          "description": "DHNB2023 ConfTool Opened You can now submit your long papers, panels, show-and-tell presentations as well as workshops to the DHNB2023 conference! Create an account on ConfTool and submit your contribution! The deadline for submissions is 15 October 2022. If you have ideas for other kinds of presentations or contributions to the conference, please contact dhnb2023@dhnb.eu.",
+          "link": "https://dhnb.eu/dhnb2023-conftool-open-for-submissions/",
+          "publishedOn": "2022-09-15T12:12:57.000Z",
+          "wordCount": 123,
+          "title": "DHNB2023 ConfTool Open for Submissions"
+        },
+        {
           "id": "https://dhnb.eu/?p=2266",
           "author": "Olga Holownia",
           "description": "Join us for our second Virtual Coffee Hour on Thursday, 29 September, 2022: 13-14 UTC / 14-15 CET. Registration:  https://bit.ly/DHNB-coffee-hour-Sept2022  AGENDA  Welcome and DHNB updates  New board DHNB 2023 Communication platforms Presentations  Andrius Utka, Associate Professor, Vytautas Magnus University, Mapping DH activities in Lithuania  Max Odsbjerg Pedersen, Information Specialist, Aarhus University Library | The Royal […]",
@@ -577,15 +586,6 @@
           "publishedOn": "2022-04-01T19:25:28.000Z",
           "wordCount": 219,
           "title": "Call for Peer Reviewers Closes 6 April 2022"
-        },
-        {
-          "id": "https://sites.caa-international.org/main/?p=15882",
-          "author": "Jeffrey Glover",
-          "description": "As a follow-up to the ESC’s statement on Ukraine, CAA has established a working group to discuss actions that the organisation will take to respond to the events as they unfold as well as how best to support the membership, … Continue reading →",
-          "link": "https://caa-international.org/2022/03/20/ukraine-crisis-working-group/",
-          "publishedOn": "2022-03-20T13:53:33.000Z",
-          "wordCount": 420,
-          "title": "Ukraine Crisis Working Group"
         }
       ]
     },
@@ -729,6 +729,105 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=124389",
+          "author": "Caitlin Christian-Lamb",
+          "description": "Tanya Clement (U Texas), Andi Gustavson (U Texas), Allyssa Guzman (U Texas), Nathan Alexander Moore (CU Boulder), and Lauren Walker (U Texas) have published a white paper entitled “Good Systems Humanist-in-the-Loop: Responsible Data Operations and Workforce Development in Libraries, Archives, and Museums” on the University of Texas at Austin’s Texas Scholar Works repository. This paper ...read more",
+          "link": "https://dhandlib.org/2022/09/15/recommended-good-systems-humanist-in-the-loop-responsible-data-operations-and-workforce-development-in-libraries-archives-and-museums/?utm_source=rss&utm_medium=rss&utm_campaign=recommended-good-systems-humanist-in-the-loop-responsible-data-operations-and-workforce-development-in-libraries-archives-and-museums",
+          "publishedOn": "2022-09-15T14:44:59.000Z",
+          "wordCount": 849,
+          "title": "RECOMMENDED: Good Systems Humanist-in-the-Loop: Responsible Data Operations and Workforce Development in Libraries, Archives, and Museums"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124363",
+          "author": "Caitlin Christian-Lamb",
+          "description": "Toolkits for Equity has released their latest toolkit, Antiracism Toolkit for Black, Indigenous, and People of Color. Hosted on PubPub in collaboration with Coalition for Diversity & Inclusion in Scholarly Communications (C4DISC), the Society for Scholarly Publishing (SSP), and the Knowledge Futures Group, this toolkit is aimed towards BIPOC as a resource to navigate the scholarly ...read more",
+          "link": "https://dhandlib.org/2022/09/15/resource-antiracism-toolkit-for-black-indigenous-and-people-of-color/?utm_source=rss&utm_medium=rss&utm_campaign=resource-antiracism-toolkit-for-black-indigenous-and-people-of-color",
+          "publishedOn": "2022-09-15T14:44:52.000Z",
+          "wordCount": 729,
+          "title": "RESOURCE: Antiracism Toolkit for Black, Indigenous, and People of Color"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124365",
+          "author": "Hillary Richardson",
+          "description": "Registration for Bucknell University’s Digital Scholarship Conference (#BUDSC22) is now open. This year’s conference, held virtually on October 18-20, is titled “Converging Paths: Digital Scholarship, Social Justice, and Intersecting Communities,” and will focus on the question, “What are the paths through which digital scholarship intersects with communities and social justice?” General registration is $50, and ...read more",
+          "link": "https://dhandlib.org/2022/09/15/event-bucknell-university-digital-scholarship-conference/?utm_source=rss&utm_medium=rss&utm_campaign=event-bucknell-university-digital-scholarship-conference",
+          "publishedOn": "2022-09-15T14:44:03.000Z",
+          "wordCount": 632,
+          "title": "EVENT: Bucknell University Digital Scholarship Conference"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124385",
+          "author": "Caitlin Christian-Lamb",
+          "description": "The Internet Archive is hosting a full-day workshop, Humanities and the Web: Introduction to Web Archive Data Analysis, on November 14, 2022 at the Los Angeles Central Library. Everyday, significant cultural production occurs globally across the web (e.g., e-poetry, electronic literature, news, social media, and more). As a publication medium that is both a primary source ...read more",
+          "link": "https://dhandlib.org/2022/09/15/event-humanities-and-the-web-introduction-to-web-archive-data-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=event-humanities-and-the-web-introduction-to-web-archive-data-analysis",
+          "publishedOn": "2022-09-15T14:43:19.000Z",
+          "wordCount": 707,
+          "title": "EVENT: Humanities and the Web: Introduction to Web Archive Data Analysis"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124367",
+          "author": "Hillary Richardson",
+          "description": "Registration for the Text as Data 2022 conference is now live. This conference is hybrid, with in-person and online registration options, and will be held at Cornell Tech on October 6-7. The deadline for early registration is September 20, 2022. From the registration site: The New Directions in Analyzing Text as Data (TADA) meeting is a leading ...read more",
+          "link": "https://dhandlib.org/2022/09/15/event-text-as-data-2022-tada-2022/?utm_source=rss&utm_medium=rss&utm_campaign=event-text-as-data-2022-tada-2022",
+          "publishedOn": "2022-09-15T14:43:05.000Z",
+          "wordCount": 659,
+          "title": "EVENT: Text as Data 2022 (TADA 2022)"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124369",
+          "author": "Hillary Richardson",
+          "description": "The Alliance of Digital Humanities Organizations has posted a call for papers for Digital Humanities 2023: “Collaboration as Opportunity.” The annual conference will be held in person on July 10-14, 2023, at the University of Graz, Austria. The call asks for papers that explor[e] state of the art in DH and related disciplines, reconnecting with ...read more",
+          "link": "https://dhandlib.org/2022/09/15/cfp-digital-humanities-2023/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-digital-humanities-2023",
+          "publishedOn": "2022-09-15T14:40:06.000Z",
+          "wordCount": 740,
+          "title": "CFP: Digital Humanities 2023"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124387",
+          "author": "Caitlin Christian-Lamb",
+          "description": "WOC+Lib has released an open call for content on their Twitter account. WOC+Lib “works to provide a digital platform for women of color (WOC) within librarianship,” and their submission guidelines can be found here. The open call for content lists possible topics, including: WOC/POC in librarianship Diversity residencies Archives + diversity Current events + librarianship ...read more",
+          "link": "https://dhandlib.org/2022/09/15/cfp-woclib/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-woclib",
+          "publishedOn": "2022-09-15T14:39:07.000Z",
+          "wordCount": 623,
+          "title": "CFP: WOC+Lib"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124383",
+          "author": "Caitlin Christian-Lamb",
+          "description": "The Council on Library and Information Resources (CLIR) has released a call for proposals for its “Pocket Burgundy” series of books. Proposals that are selected come with a $2500 stipend. Traditionally, CLIR’s reports have been in the areas of preservation, digital libraries, emerging technologies, economics of information, international developments, trends in information use, and the ...read more",
+          "link": "https://dhandlib.org/2022/09/15/cfp-pocket-burgundies/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-pocket-burgundies",
+          "publishedOn": "2022-09-15T14:38:35.000Z",
+          "wordCount": 748,
+          "title": "CFP: Pocket Burgundies"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124374",
+          "author": "Hillary Richardson",
+          "description": "The ACRL Digital Scholarship Section’s (DSS) Professional Development Committee (PDC), in collaboration with the DSS Outreach Committee and the DSS Equity, Diversity and Inclusion Committee, seeks proposals for its fall 2022 DSS virtual professional development series. Proposals are accepted with rolling deadlines: September 19, October 17, and November 14. From the submission form: This series ...read more",
+          "link": "https://dhandlib.org/2022/09/15/cfp-virtual-professional-development-program-acrl-dss/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-virtual-professional-development-program-acrl-dss",
+          "publishedOn": "2022-09-15T14:38:10.000Z",
+          "wordCount": 967,
+          "title": "CFP: Virtual Professional Development Program (ACRL DSS)"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124371",
+          "author": "Hillary Richardson",
+          "description": "From the announcement: The Digital Scholarship Librarian will be responsible for sustaining and growing digitized and born-digital collections and for supporting the library’s shifting focus on digital scholarship, technology-focused learning tools, and spaces. A major focus of this position will be supporting the Southern Appalachian Digital Collections Partnership. Founded by Western Carolina University and the University of ...read more",
+          "link": "https://dhandlib.org/2022/09/15/job-digital-scholarship-librarian-western-carolina-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-scholarship-librarian-western-carolina-university",
+          "publishedOn": "2022-09-15T14:36:31.000Z",
+          "wordCount": null,
+          "title": "JOB: Digital Scholarship Librarian (Western Carolina University)"
+        },
+        {
+          "id": "https://dhandlib.org/?p=124357",
+          "author": "Caitlin Christian-Lamb",
+          "description": "From the announcements for Digital Humanities Librarian and Digital Humanities Specialist: The Brown University Library seeks to hire a collaborative, innovative, and creative individual to work as our Digital Humanities Librarian and Digital Humanities Specialist. Working as part of a talented, collaborative team, the person in this position serves a central role in critically thinking ...read more",
+          "link": "https://dhandlib.org/2022/09/15/job-digital-humanities-cohort-hire-brown-university-2-positions/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-humanities-cohort-hire-brown-university-2-positions",
+          "publishedOn": "2022-09-15T14:35:39.000Z",
+          "wordCount": null,
+          "title": "JOB: Digital Humanities Cohort Hire (Brown University, 2 positions)"
+        },
         {
           "id": "https://dhandlib.org/?p=124267",
           "author": "John Russell",
@@ -896,6 +995,15 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11579",
+          "author": "Heloise schibler",
+          "description": "Humanités numériques est une revue francophone publiée en libre accès et consacrée aux usages savants du numérique en sciences humaines et sociales. Éditée par l’association francophone Humanistica et diffusée sur la plateforme OpenEdition Journals, elle offre un lieu de réflexion, de débat scientifique et d’expression aux chercheurs et enseignants dont les travaux s’inscrivent dans ce […]\nThe post CfP: Revue Humanités numériques, vol. 8 (2023) appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/09/15/cfp-revue-humanites-numeriques-vol-8-2023/",
+          "publishedOn": "2022-09-15T14:00:16.000Z",
+          "wordCount": 535,
+          "title": "CfP: Revue Humanités numériques, vol. 8 (2023)"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=11554",
           "author": "Heloise schibler",
@@ -3254,15 +3362,6 @@
           "publishedOn": "2022-03-25T08:14:48.060Z",
           "wordCount": 10742,
           "title": "Accessibility, Discoverability, and Functionality: An Audit of and Recommendations for Digital Language Archives"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.62",
-          "author": null,
-          "description": "Parallel text datasets are a valuable for educational purposes, machine translation, and cross-language information retrieval, but few are domain-oriented. We have created a Chinese–English parallel dataset in the domain of finance technology, using the Financial Times website, from which we grabbed 60,473 news items from between 2007 and 2021. This dataset is a bilingual Chinese–English parallel dataset of news in the domain of finance. It is open access in its original state without transformation, and has been made not for machine translation as has been used, but for intelligent mining, in which we conducted many experiments using up-to-date text mining techniques: clustering (topic modeling, community detection, k-means), topic prediction (naive Bayes, SVM, LSTM, Bert), and pattern discovery (dictionary based, time series). We present the usage of these techniques as a framework for other studies, not only as an application but with an interpretation.\n Published on 2022-03-18 09:48:18",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.62",
-          "publishedOn": "2022-03-19T08:14:31.056Z",
-          "wordCount": 6718,
-          "title": "Mining an English-Chinese parallel Dataset of Financial News"
         }
       ]
     },
@@ -3595,24 +3694,6 @@
           "publishedOn": "2022-04-20T06:17:00.000Z",
           "wordCount": 1147,
           "title": "RaDiHum20 spricht mit Markus Frank über Projektmanagement"
-        },
-        {
-          "id": "https://radihum20.de/?p=552",
-          "author": "Mareike Schumacher",
-          "description": "Heute präsentieren wie euch die erste Folge unserer dritten Staffel. Diese Staffel haben wir unter das Oberthema Wissenschaftsmanagement gestellt und wir werden euch zu unterschiedlichen Teilbereichen daraus jeweils ein konkretes Projekt vorstellen und eine eher theoretische Reflexion. Das heißt, zu jedem Thema wird es zwei Folgen geben, eine lange, eine kurze. Heute sprechen wir mit […]\nDer Beitrag RaDiHum20 spricht mit Anna Neubert über Projektmanagement in den DH erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/radihum20-projektmanagement1/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-projektmanagement1",
-          "publishedOn": "2022-03-20T08:03:00.000Z",
-          "wordCount": 727,
-          "title": "RaDiHum20 spricht mit Anna Neubert über Projektmanagement in den DH"
-        },
-        {
-          "id": "https://radihum20.de/?p=552",
-          "author": "Mareike Schumacher",
-          "description": "Heute präsentieren wie euch die erste Folge unserer dritten Staffel. Diese Staffel haben wir unter das Oberthema Wissenschaftsmanagement gestellt und wir werden euch zu unterschiedlichen Teilbereichen daraus jeweils ein konkretes Projekt vorstellen und eine eher theoretische Reflexion. Das heißt, zu jedem Thema wird es zwei Folgen geben, eine lange, eine kurze. Heute sprechen wir mit […]\nDer Beitrag RaDiHum20 spricht mit Anna Neubert über Projektmanagement in den DH erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/radihum20-projektmanagement1/",
-          "publishedOn": "2022-03-20T08:03:00.000Z",
-          "wordCount": 674,
-          "title": "RaDiHum20 spricht mit Anna Neubert über Projektmanagement in den DH"
         }
       ]
     },
@@ -4838,6 +4919,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2022/09/15/from-pdfs-to.html",
+          "author": null,
+          "description": "A few weeks ago I created a new search interface to the NSW Post Office Directories from 1886 to 1908. Since then, I’ve used the same process on the Sydney Telephone Directories from 1926 to 1954. Both of these publications had been digitised by the State Library of NSW and made available through Trove. To build the new interfaces I downloaded the text from Trove, indexed it by line, and linked it back to the online page images.\nBut there are similar directories from other states that are not available through Trove. The Tasmanian Post Office Directory, for example, has been digitised between 1890 and 1948 and made available as 48 individual PDF files from Libraries Tasmania. While it’s great that they’ve been digitised, it’s not really possible to search them without downloading all the P…",
+          "link": "https://updates.timsherratt.org/2022/09/15/from-pdfs-to.html",
+          "publishedOn": "2022-09-15T12:15:21.000Z",
+          "wordCount": 1087,
+          "title": "From 48 PDFs to one searchable database – opening up the Tasmanian Post Office Directories with the GLAM Workbench"
+        },
         {
           "id": "http://wragge.micro.blog/2022/09/05/fresh-harvest-of.html",
           "author": null,
