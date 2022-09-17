@@ -996,6 +996,24 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11595",
+          "author": "Heloise schibler",
+          "description": "L’association internationale des chercheurs en « Littératures populaires et culture médiatique » (LPCM) organise en octobre 2023 la deuxième édition des Assises de la recherche en cultures populaires et médiatiques.  Dans le prolongement de la première édition qui s’était tenue en 2018, cet événement propose de s’interroger sur les avenir(s) de la recherche dans ces […]\nThe post Appel à contributions : Assises de la recherche en cultures populaires et médiatiques, 2023 appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/09/16/appel-a-contributions-assises-de-la-recherche-en-cultures-populaires-et-mediatiques-2023/",
+          "publishedOn": "2022-09-16T13:12:04.000Z",
+          "wordCount": 431,
+          "title": "Appel à contributions : Assises de la recherche en cultures populaires et médiatiques, 2023"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11590",
+          "author": "Heloise schibler",
+          "description": "The European Open Science Cloud (EOSC) Symposium is the main EOSC annual event and takes place this year in Prague, Czech Republic, from 14th-17th November 2022, as part of the calendar of events of the Czech presidency of the Council of the EU. This coincides with the Second EOSC Tripartite Event on the 15th of November 2022. Over […]\nThe post CfP: The EOSC Symposium appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/09/16/cfp-the-eosc-symposium/",
+          "publishedOn": "2022-09-16T13:00:14.000Z",
+          "wordCount": 684,
+          "title": "CfP: The EOSC Symposium"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=11579",
           "author": "Heloise schibler",
           "description": "Humanités numériques est une revue francophone publiée en libre accès et consacrée aux usages savants du numérique en sciences humaines et sociales. Éditée par l’association francophone Humanistica et diffusée sur la plateforme OpenEdition Journals, elle offre un lieu de réflexion, de débat scientifique et d’expression aux chercheurs et enseignants dont les travaux s’inscrivent dans ce […]\nThe post CfP: Revue Humanités numériques, vol. 8 (2023) appeared first on dhCenter.",
@@ -2194,33 +2212,6 @@
           "publishedOn": "2022-03-22T08:15:27.063Z",
           "wordCount": 897,
           "title": "CLARIAH-AT: Call for Projects &quot;Interoperability and reusability of DH data and tools&quot;"
-        },
-        {
-          "id": "node/787",
-          "author": "406",
-          "description": "Die AG \"Digital Humanities Theorie\" organisiert im kommenden Sommersemester die hybride Tagung \"Algorithmizität als Kultur des Verstehens? Digitale Erkenntnisprozesse in den…",
-          "link": "https://dig-hum.de/aktuelles/cfp-algorithmizit%C3%A4t-als-kultur-des-verstehens-ag-digital-humanities-theorie",
-          "publishedOn": "2022-03-21T08:15:46.817Z",
-          "wordCount": 895,
-          "title": "CFP: Algorithmizität als Kultur des Verstehens? AG Digital Humanities Theorie"
-        },
-        {
-          "id": "node/789",
-          "author": "406",
-          "description": "Das DBFZ befasst sich mit technischen, ökonomischen und ökologischen Fragestellungen auf dem Gebiet der energetischen und integrierten stofflichen Nutzung nachwachsender Rohstoffe…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-forschungsdatenmanagerdata-steward-dbfz-leipzig",
-          "publishedOn": "2022-03-21T08:15:46.796Z",
-          "wordCount": 750,
-          "title": "Stellenangebot: Forschungsdatenmanager/Data Steward (DBFZ Leipzig)"
-        },
-        {
-          "id": "node/788",
-          "author": "406",
-          "description": "Die Kulturstiftung des Bundes fördert Kunst- und Kulturvorhaben im Rahmen der Zuständigkeit des Bundes. Ein Schwerpunkt ist die Förderung innovativer Programme und Projekte im…",
-          "link": "https://dig-hum.de/aktuelles/mehrere-stellenausschreibungen-der-kulturstiftung-des-bundes-hallesaale",
-          "publishedOn": "2022-03-21T08:15:46.787Z",
-          "wordCount": 787,
-          "title": "Mehrere Stellenausschreibungen bei der Kulturstiftung des Bundes (Halle/Saale)"
         }
       ]
     },
@@ -2415,6 +2406,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=8749",
+          "author": "tom_newhall_ucla",
+          "description": "This is the second part of our interview with Professor Kiyonori Nagasaki (twitter @knagasaki), Senior Fellow at the International Institute …",
+          "link": "https://digitalorientalist.com/2022/09/16/digital-humanities-and-buddhist-studies-in-japan-an-interview-with-kiyonori-nagasaki-2-2/",
+          "publishedOn": "2022-09-16T15:00:00.000Z",
+          "wordCount": 2068,
+          "title": "Digital Humanities and Buddhist Studies in Japan: An Interview with Kiyonori Nagasaki (2/2)"
+        },
         {
           "id": "http://digitalorientalist.com/?p=8710",
           "author": "The Digital Orientalist",
@@ -3135,6 +3135,15 @@
       "feedUrl": "https://livingwithmachines.ac.uk/feed",
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=2678",
+          "author": "Maja Maricevic",
+          "description": "Maja Maricevic, Project Co-Investigator and Head of Higher Education and Science at the British Library provides some background about one of our events in our programme of activities around our exhibition at Leeds City Museum… Our fascination with AI and our fear of AI comes across in many different ways, but it often peaks around […]",
+          "link": "https://livingwithmachines.ac.uk/the-role-of-ai-in-creative-and-cultural-industries/?utm_source=rss&utm_medium=rss&utm_campaign=the-role-of-ai-in-creative-and-cultural-industries",
+          "publishedOn": "2022-09-16T16:09:40.000Z",
+          "wordCount": 831,
+          "title": "The role of AI in creative and cultural industries"
+        },
         {
           "id": "https://livingwithmachines.ac.uk/?p=2659",
           "author": "Mia Ridge",
@@ -4279,66 +4288,6 @@
           "title": "Review: BLACK MEME",
           "enclosure": {
             "url": "https://assets.pubpub.org/cgrk7j8f/71650370166398.png"
-          }
-        },
-        {
-          "id": "31304008-2e64-47b4-a827-a00b1bba3b74",
-          "author": "Jennifer Guiliano",
-          "description": "Editors' note on the March 2022 issue of Reviews in Digital Humanities",
-          "link": "https://reviewsindh.pubpub.org/pub/editors-note-march-2022",
-          "publishedOn": "2022-03-21T00:00:00.000Z",
-          "wordCount": 709,
-          "title": "Editors' Note: March 2022",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/atjeh1ok/51647640659365.png"
-          }
-        },
-        {
-          "id": "0896f72d-4091-4237-93b1-2b8e4cba57b2",
-          "author": "Brian Knoth",
-          "description": "A review of The Old Spanish Trail Auto Highway Archive and Map, a digital project on the Old Spanish Trail national roadway, directed by Lindsay Passenger Wieck",
-          "link": "https://reviewsindh.pubpub.org/pub/old-spanish-trail-auto-highway",
-          "publishedOn": "2022-03-21T00:00:00.000Z",
-          "wordCount": 1289,
-          "title": "Review: The Old Spanish Trail Auto Highway Archive and Map",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/y7vttvp6/61647634541106.png"
-          }
-        },
-        {
-          "id": "78b2dd5b-b519-4f19-a7c7-7c354107308c",
-          "author": "Kate McDonald",
-          "description": "A review of Southeast Asia Under Japan, a repository for diverse primary and secondary sources related to studying the occupation of Southeast Asia in World War II, led by Sandeep Ray, Han Xing Yi, and Velusamy Sathiakumar Ragul Balaji",
-          "link": "https://reviewsindh.pubpub.org/pub/southeast-asia-under-japan",
-          "publishedOn": "2022-03-21T00:00:00.000Z",
-          "wordCount": 1267,
-          "title": "Review: Southeast Asia Under Japan",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/om21jrm5/71647626220081.png"
-          }
-        },
-        {
-          "id": "32fbed9d-200e-4974-bfd9-12ceacf953d8",
-          "author": "John F. Barber",
-          "description": "A review of Radio Free Stein, a critical sound project on Gertrude Stein's dramatic works, directed by Adam J. Frank",
-          "link": "https://reviewsindh.pubpub.org/pub/radio-free-stein",
-          "publishedOn": "2022-03-21T00:00:00.000Z",
-          "wordCount": 1218,
-          "title": "Review: Radio Free Stein",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/biykou5l/01647630047377.png"
-          }
-        },
-        {
-          "id": "31fc51cb-1d09-466e-b06b-7101ff29604c",
-          "author": "Miguel Escobar Varela",
-          "description": "A review of The Comédie-Française Registers Project, a digital project featuring register receipts from the French Comédie-Française (1680-1791), directed by Jeff Ravel",
-          "link": "https://reviewsindh.pubpub.org/pub/the-comedie-francaise-registers-project",
-          "publishedOn": "2022-03-21T00:00:00.000Z",
-          "wordCount": 1253,
-          "title": "Review: The Comédie-Française Registers Project",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/zftaihf1/01647624692493.png"
           }
         }
       ]
@@ -7673,6 +7622,15 @@
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
         {
+          "id": "1560 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The Digital Repository of Ireland (DRI) is delighted to share that Archiving Reproductive Health (ARH) has been announced as the winner of the Digital Preservation Award for Safeguarding the Digital Legacy!",
+          "link": "https://www.dri.ie/dri-project-archiving-reproductive-health-wins-digital-preservation-award",
+          "publishedOn": "2022-09-16T15:05:15.000Z",
+          "wordCount": 1220,
+          "title": "DRI Project Archiving Reproductive Health Wins Digital Preservation Award"
+        },
+        {
           "id": "1559 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
           "description": "The Digital Repository of Ireland (DRI) is delighted to be running a one-day symposium ‘Literary Dublin in the Digital Archive’ sponsored by Dublin UNESCO City of Literature and Dublin City Council on Thursday 13 October, in person, at the Royal Irish Academy.",
@@ -8220,24 +8178,6 @@
           "publishedOn": "2022-03-29T16:12:14.000Z",
           "wordCount": 909,
           "title": "Applications Invited for the EOSC Platform Early Adopter Programme"
-        },
-        {
-          "id": "1492 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that the Dublin City Council (DCC) Manuscript Minutes 1841–1881 collection is now available in the Repository.",
-          "link": "https://www.dri.ie/new-collection-dublin-city-council-manuscript-minutes",
-          "publishedOn": "2022-03-21T12:51:48.000Z",
-          "wordCount": 903,
-          "title": "New Collection: Dublin City Council Manuscript Minutes 1841–1881"
-        },
-        {
-          "id": "1492 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that the Dublin City Council (DCC) Manuscript Minutes 1841–1881 collection is now available in the Repository.",
-          "link": "https://www.dri.ie/new-collection-dublin-city-council-manuscript-minutes-1841%E2%80%931881",
-          "publishedOn": "2022-03-21T12:51:48.000Z",
-          "wordCount": 903,
-          "title": "New Collection: Dublin City Council Manuscript Minutes 1841–1881"
         }
       ]
     },
@@ -8444,15 +8384,6 @@
           "publishedOn": "2022-03-23T15:21:02.000Z",
           "wordCount": 549,
           "title": "UK universities reach a three-year agreement with Elsevier"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=11790",
-          "author": "Melanie Cheung",
-          "description": "This content is password protected. To view it please enter your password below: Password:\nThe post Research Libraries UK becomes a supporter of the Technician Commitment appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/research-libraries-uk-becomes-a-supporter-of-the-technician-commitment/",
-          "publishedOn": "2022-03-21T14:18:30.000Z",
-          "wordCount": 752,
-          "title": "Research Libraries UK becomes a supporter of the Technician Commitment"
         }
       ]
     },
