@@ -159,6 +159,15 @@
       "siteUrl": "https://www.digitisation.eu",
       "articles": [
         {
+          "id": "https://www.digitisation.eu/event/tpdl-2022/",
+          "author": "Impact Centre of Competence",
+          "description": "The International Conference on Theory and Practice of Digital Libraries (TPDL) is a yearly date for researchers on Digital Libraries ... \nRead More\nThe post TPDL 2022 appeared first on IMPACT Centre of Competence.",
+          "link": "https://www.digitisation.eu/event/tpdl-2022/",
+          "publishedOn": "2022-09-19T22:00:00.000Z",
+          "wordCount": 603,
+          "title": "TPDL 2022"
+        },
+        {
           "id": "https://www.digitisation.eu/event/87th-ifla-wlic-2022/",
           "author": "Impact Centre of Competence",
           "description": "After three years without the opportunity to meet in person, IFLA WLIC is going once again for a physical conference.WLIC ... \nRead More\nThe post 87th IFLA WLIC 2022 appeared first on IMPACT Centre of Competence.",
@@ -184,15 +193,6 @@
           "publishedOn": "2022-05-22T22:00:00.000Z",
           "wordCount": 604,
           "title": "Web Archiving Conference 2022"
-        },
-        {
-          "id": "https://www.digitisation.eu/?post_type=tribe_events&p=16624",
-          "author": "Impact Centre of Competence",
-          "description": "The Open Preservation Foundation (OPF), the Impact Centre of Competence in Digitisation (IMPACT) and the International Internet Preservation Consortium (IIPC) ... \nRead More\nThe post IMPACT/OPF/IIPC VIRTUAL PANEL: PRESERVATION OF DIGITISED AND BORN-DIGITAL COLLECTIONS appeared first on IMPACT Centre of Competence.",
-          "link": "https://www.digitisation.eu/event/impact-opf-iipc-virtual-panel-preservation-of-digitised-and-born-digital-collections/",
-          "publishedOn": "2022-03-24T13:30:00.000Z",
-          "wordCount": 1008,
-          "title": "IMPACT/OPF/IIPC VIRTUAL PANEL: PRESERVATION OF DIGITISED AND BORN-DIGITAL COLLECTIONS"
         }
       ]
     },
@@ -513,7 +513,7 @@
     {
       "title": "CAA International",
       "feedUrl": "https://caa-international.org/feed",
-      "siteUrl": "https://caa-international.org",
+      "siteUrl": "https://caa-international.org/",
       "articles": [
         {
           "id": "https://sites.caa-international.org/main/?p=16303",
@@ -1516,15 +1516,6 @@
           "publishedOn": "2022-03-29T15:20:22.000Z",
           "wordCount": 424,
           "title": "Frédéric Kaplan parle de la “Culture Internet” sur RTS"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=10124",
-          "author": "Heloise schibler",
-          "description": "La Faculté des Sciences de la Société de l’Université de Genève, et son Département de sociologie, ouvrent une inscription pour un poste d’assistant-e à 80%. Entrée en fonction : 1er août 2022 (ou à convenir). La durée de l’engagement est de 5 ans maximum, avec des renouvellements tous les deux ans (2+2+1), sur fonds du […]\nThe post UNIGE : Assistant-e au Département de sociologie à 80% appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/03/24/unige-assistant-e-au-departement-de-sociologie-a-80/",
-          "publishedOn": "2022-03-24T18:02:32.000Z",
-          "wordCount": 846,
-          "title": "UNIGE : Assistant-e au Département de sociologie à 80%"
         }
       ]
     },
@@ -1561,6 +1552,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=5968",
+          "author": "DHN Admin",
+          "description": "The Critical Digital Humanities Initiative (CDHI) and The Collaborative Digital Research Space (CDRS; pronounced ‘cedars’) are pleased to announce the next phase of the UX Design program launching this fall: […]",
+          "link": "https://dhn.utoronto.ca/the-2022-fall-ux-design-for-dh-accelerator-program/?utm_source=rss&utm_medium=rss&utm_campaign=the-2022-fall-ux-design-for-dh-accelerator-program",
+          "publishedOn": "2022-09-19T19:53:04.000Z",
+          "wordCount": 1416,
+          "title": "Call for Expressions of Interest: UX Design for DH Accelerator Program, Fall 2022"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=5839",
           "author": "mlefaive",
@@ -3299,6 +3299,15 @@
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
         {
+          "id": "http://openmethods.dariah.eu/?p=3269",
+          "author": "Marinella Testori",
+          "description": "In this post, we reach back in time to showcase an older project and highlight its impact on data visualization in Digital Humanities as well as its good practices to make different layers of scholarship available for increased transparency and reusability.  \n\nDeveloped at Stanford with other research partners ('Cultures of Knowledge' at Oxford, the Groupe d'Alembert at CNRS, the KKCC-Circulation of Knowledge and Learned Practices in the 17th-century Dutch Republic, the DensityDesign ResearchLab), the 'Mapping of the Republic of Letters Project' aimed at digitizing and visualizing the intellectual community throughout the XVI and XVIII centuries known as 'Republic of Letters' (an overview of the concept can be found in Bots and Waquet, 1997), to get a better sense of the shape, size and associated intellectual network, its inherent complexities and  boundaries.\n\nBelow  we highlight the different, interrelated\nlayers of making project outputs available and reusable on the long term (way before FAIR data became a widespread policy imperative!): methodological reflections, interactive visualizations, the associated data and its data model schema. All of these layers are published in a trusted repository and are interlinked with each other via their Persistent Identifiers.\n\n[Click ‘Read more’ for the full post!]",
+          "link": "https://openmethods.dariah.eu/2022/09/19/navigating-the-centuries-with-the-mapping-of-the-republic-of-letters-project/",
+          "publishedOn": "2022-09-19T12:37:08.000Z",
+          "wordCount": 1659,
+          "title": "Navigating the centuries with the ‘Mapping of the Republic of Letters’ project."
+        },
+        {
           "id": "http://openmethods.dariah.eu/?p=3242",
           "author": "Erzsebet Tóth-Czifra",
           "description": "The conversation below is a special, summer episode of our Spotlight series.  It is a collaboration between OpenMethods and the Humanista podcast and this it comes as a podcast, in which Alíz Horváth, owner of the Humanista podcast series and proud Editorial Team member of OpenMethods, is asking Shih-Pei Chen, scholar and Digital Content Curator at the Max Plank Institute for the History of Science about the text analysis tools LoGaRT, RISE and SHINE; non-Latin scripted Digital Humanities, why local gazetteers are goldmines to Asian Studies, how digitization changes, broadens the kinds research questions one can study,  where are the challenges in the access to cultural heritage and liaising with proprietary infrastructure providers... and many more! Enjoy!",
@@ -4217,6 +4226,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17171",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to LJS 347, a 14th-century English copy of Boethius’ philosophical dialogue in five books between a narrator and Lady Philosophy which deals with ideas of fate, fortune, and the relationship between free will and divine omniscience, and which wasContinue reading \"Manuscript Monday: LJS 347 – De consolatione philosophiae\"",
+          "link": "https://schoenberginstitute.org/2022/09/19/manuscript-monday-ljs-347-de-consolatione-philosophiae/",
+          "publishedOn": "2022-09-19T16:30:00.000Z",
+          "wordCount": 1285,
+          "title": "Manuscript Monday: LJS 347 – De consolatione philosophiae"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17167",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to LJS 342, copies of 9 documents relating to the illicit use of water and diversion of waterways in the territory of Milan, presumably to compile evidence of the legal status of these assets. The first 8, copies ofContinue reading \"Manuscript Monday: LJS 342 – [Copies of documents relating to water rights in Milan]\"",
@@ -4761,7 +4779,7 @@
     {
       "title": "CAA UK",
       "feedUrl": "https://uk.caa-international.org/feed",
-      "siteUrl": "https://uk.caa-international.org",
+      "siteUrl": "https://uk.caa-international.org/",
       "articles": []
     },
     {
@@ -7264,6 +7282,15 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5792 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "New Impact Story: Discovering Slovenian Language Structure Using Corpora\n\n            \n\n  \n  \n            \n    \n\n              \n              \n                  \n\n  \nJakob Lenardič’s PhD thesis was recently awarded best of the year 2021/2022 at the Faculty of Arts, University of Ljubljana. Read how he combined theoretical and corpus linguistics to explore the subtle characteristics of Slovenian language structure.\n \nSee the full impact story here.\n\n      Karina Berger\n 19 September 2022\n\n    \nCorpora",
+          "link": "https://www.clarin.eu/blog/new-impact-story-discovering-slovenian-language-structure-using-corpora",
+          "publishedOn": "2022-09-19T07:41:45.000Z",
+          "wordCount": 205,
+          "title": "New Impact Story: Discovering Slovenian Language Structure Using Corpora"
+        },
+        {
           "id": "5790 at https://www.clarin.eu",
           "author": "Dieter Van Uytvanck",
           "description": "Centre news vol. 55 - September 2022\n\n            \nUpcoming assessment deadline\nThe deadline for the upcoming B-centre assessment round is 31 October 2022.\nThe report of round 18 is now available.\nNew B-centre\nThe CLARIN:EL National Infrastructure for Language Resources & Technologies in Greece has successfully concluded the CLARIN B-centre assessment. Congratulations!\nNew CoreTrustSeal requirements as of 2023\nThe CoreTrustSeal assessment, which is a prerequisite for B-centre certification, is transitioning to a new version: from the current (2020-2022) requirements to the 2023-2025 version. On 31 October the submission system will close for an upgrade, until early 2023.\nMore details about these versions, including a Changelog, are available at the \n    CoreTrustSeal, successor of the Data Seal of Approval\r\n\r\nSee: https://www.coretrustseal.org\r\nread more\n\n   website.\nPlease note that this transition fits nicely with the B-centre assessment rounds: centres can participate in the upcoming round by 31 October (using the CTS requirements 2020-2022) or in the round afterwards (in spring 2023, using the 2023-2025 CTS requirements).\nCentre Meeting 2022 presentations\nThe slides of the 2022 Centre Meeting have been published on the event page.\n\n      Dieter Van Uytvanck\n 14 September 2022\n\n    \ncentre news",
@@ -8258,15 +8285,6 @@
           "publishedOn": "2022-03-31T11:30:38.000Z",
           "wordCount": 1352,
           "title": "Registration open for the DCDC22 Conference"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=11860",
-          "author": "Melanie Cheung",
-          "description": "UK universities have reached a three-year agreement with Elsevier providing both unlimited open access publishing and access to paywalled journal articles for a significant reduction on current institutional spend.\nThe post UK universities reach a three-year agreement with Elsevier appeared first on Research Libraries UK.",
-          "link": "https://www.jisc.ac.uk/news/jisc-response-to-the-elsevier-open-access-agreement-23-mar-2022#new_tab",
-          "publishedOn": "2022-03-23T15:21:02.000Z",
-          "wordCount": 549,
-          "title": "UK universities reach a three-year agreement with Elsevier"
         }
       ]
     },
