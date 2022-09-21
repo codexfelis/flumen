@@ -593,6 +593,15 @@
       "siteUrl": "https://csdh-schn.org",
       "articles": [
         {
+          "id": "https://csdh-schn.org/?p=1105",
+          "author": "Milena Radzikowska",
+          "description": "Having reached the end of my term as President of CSDH-SCHN I would like to thank the wonderful executive that I got to work with over these years. I’m thrilled that many are staying on and taking on new roles, but also recognize those that have served for years and now turn to other opportunities. We […]",
+          "link": "https://csdh-schn.org/from-our-outgoing-and-incoming-presidents/",
+          "publishedOn": "2022-09-21T03:14:21.000Z",
+          "wordCount": null,
+          "title": "From our outgoing and incoming presidents!"
+        },
+        {
           "id": "https://csdh-schn.org/?p=1089",
           "author": "Kyle Dase",
           "description": "C’est avec grand plaisir que nous annonçons le premier lauréat de la bourse commémorative Stéfan Sinclair. Doctorant à l’université de Toronto, Arun Jacob a présenté au comité d’évaluation un dossier exceptionnel dans le domaine de la théorie critique des humanités numériques. Le comité tient à souligner la qualité de son projet de recherche, de ses […]",
@@ -1755,6 +1764,24 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/850",
+          "author": "406",
+          "description": "Das Austrian Centre for Digital Humanities and Cultural Heritage in Wien sucht derzeit eine Gruppenleitung/Leitung der Forschungsabteilung Literatur- und Textwissenschaft.…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-leitung-der-forschungsabteilung-literatur-und-textwissenschaft-acdh-ch",
+          "publishedOn": "2022-09-20T13:29:08.000Z",
+          "wordCount": 777,
+          "title": "Stellenangebot: Leitung der Forschungsabteilung Literatur- und Textwissenschaft (ACDH-CH)"
+        },
+        {
+          "id": "node/849",
+          "author": "406",
+          "description": "Der „Call for Papers“ für die ADHO DH2023 Konferenz, die unter dem Motto „Collaboration as Opportunity“ von 10. bis 14. Juli 2023 an der Universität Graz stattfinden wird, ist nun…",
+          "link": "https://dig-hum.de/aktuelles/aufruf-zur-einreichung-beitr%C3%A4gen-f%C3%BCr-die-adho-dh2023-konferenz-graz-nun-auch-deutscher",
+          "publishedOn": "2022-09-20T11:15:20.000Z",
+          "wordCount": 808,
+          "title": "Aufruf zur Einreichung von Beiträgen für die ADHO DH2023 Konferenz in Graz nun auch in deutscher Sprache"
+        },
+        {
           "id": "node/848",
           "author": "406",
           "description": "Am C²DH an der Uni Luxembourg suchen wir zum nächstmöglichen Zeitpunkt eine(n) \"Researcher in Data Management for Digital History / Research Data Manager”.\nPrimäre Aufgabe dieser…",
@@ -2335,6 +2362,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=8714",
+          "author": "Michele Eduarda Brasil de Sá",
+          "description": "All scholars engaged in the study of the Japanese diaspora can profit from the treasure trove of resources on the …",
+          "link": "https://digitalorientalist.com/2022/09/20/the-japanese-diaspora-in-digital-sources-the-hoji-shinbun-digital-collection/",
+          "publishedOn": "2022-09-20T13:00:00.000Z",
+          "wordCount": 1299,
+          "title": "The Japanese Diaspora in Digital Sources: The Hoji Shinbun Digital Collection"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=8749",
           "author": "tom_newhall_ucla",
           "description": "This is the second part of our interview with Professor Kiyonori Nagasaki (twitter @knagasaki), Senior Fellow at the International Institute …",
@@ -2630,15 +2666,6 @@
           "publishedOn": "2022-03-29T13:00:00.000Z",
           "wordCount": 1127,
           "title": "Interviewing Dr. Naomi Appleton about Jātaka Stories"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=7967",
-          "author": "maddalena poli",
-          "description": "The headache of working with archaic Chinese orthographies Technologically, we scholars of the 21st century are spoiled. We sit at …",
-          "link": "https://digitalorientalist.com/2022/03/25/just-give-me-a-font/",
-          "publishedOn": "2022-03-25T12:00:00.000Z",
-          "wordCount": 2028,
-          "title": "Just give me a font!"
         }
       ]
     },
@@ -7514,15 +7541,6 @@
           "publishedOn": "2022-04-12T13:11:56.000Z",
           "wordCount": 548,
           "title": "Tour de CLARIN: The Danish CLARIN Knowledge Centre DANSK"
-        },
-        {
-          "id": "5700 at https://www.clarin.eu",
-          "author": "Dieter Van Uytvanck",
-          "description": "Centre news vol. 54 - March 2022\n\n            \nUpcoming deadline for B-centre assessments\nThe deadline for the upcoming B-centre assessment round is 29 April 2022.\nCentre Meeting 2022\nPlease save the date: this year's Centre Meeting will take place on 11 and 12 May. It will be a hybrid event, with the possibility to join in person in Utrecht or virtually. More details will follow.\nNew Switchboard beta release\nThe Switchboard 2.4.1-beta2 is now available for beta testing. \nMatomo upgrades\nThe CLARIN matomo instance has been upgraded from version 4.6.1 to 4.8.0, see the changelogs for details.\nRequests for input and feedback\n25 March, 14:00-15:30 CET: online EOSC Interoperability Framework Consultation\nUntil 15 April: CoreTrustSeal requirements 23-25 review\n\n      Dieter Van Uytvanck\n 25 March 2022\n\n    \ncentre news",
-          "link": "https://www.clarin.eu/blog/centre-news-vol-54-march-2022",
-          "publishedOn": "2022-03-25T10:08:25.000Z",
-          "wordCount": 281,
-          "title": "Centre news vol. 54 - March 2022"
         }
       ]
     },
@@ -7531,6 +7549,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1561 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "DRI's annual Community Archive Scheme is now open. To help any groups who are thinking of applying to develop their application we are running an information session on Monday 10 of October about the scheme and the application process.",
+          "link": "https://www.dri.ie/information-session-2023-community-archive-scheme",
+          "publishedOn": "2022-09-19T08:39:56.000Z",
+          "wordCount": 703,
+          "title": "Information Session for the 2023 Community Archive Scheme"
+        },
         {
           "id": "1560 at https://www.dri.ie",
           "author": "ainemadden",
