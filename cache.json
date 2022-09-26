@@ -46,15 +46,6 @@
           "publishedOn": "2022-04-26T10:35:22.000Z",
           "wordCount": 1310,
           "title": "Vision for Art (VISART) Workshop for interdisciplinary work in Computer Vision and Digital Humanities"
-        },
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8253",
-          "author": "rmapapg",
-          "description": "UCLDH was fortunate to be awarded funds through UKRI’s Research Capital Investment Fund in 2019 in a bid led by our previous director Prof Simon Mahony. The bid funded the purchase of a Bruker Tornado M4+ x-ray fluorescence scanner. This is a unique system that uses x-rays to excite the atoms making up a substance […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2022/03/30/extending-dh-history/",
-          "publishedOn": "2022-03-30T11:52:32.000Z",
-          "wordCount": 680,
-          "title": "Extending the history of digital humanities by 510 million years"
         }
       ]
     },
@@ -672,15 +663,6 @@
           "publishedOn": "2022-05-16T04:19:37.000Z",
           "wordCount": 294,
           "title": "Les nominations aux postes exécutifs sont ouvertes 18 mai au 30 juin"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=1023",
-          "author": "Kyle Dase",
-          "description": "ACENET seeks a Research Consultant specializing in Humanities and Social Sciences (HSS) at St.Francis Xavier University (StFX) in Antigonish, NS. This is a research support position, reporting to ACENET’s Chief Technology Officer. It is a full-time(37.5 hours/week) position with no end date, but subject to external funding. Salary iscommensurate with experience. This position requires a […]",
-          "link": "https://csdh-schn.org/job-opportunity-acenet-research-consultant-in-humanities-and-social-sciences-at-st-francis-xavier-university/",
-          "publishedOn": "2022-03-30T19:32:29.000Z",
-          "wordCount": 351,
-          "title": "Job Opportunity: ACENET Research Consultant in Humanities and Social Sciences at St. Francis Xavier University"
         }
       ]
     },
@@ -1668,15 +1650,6 @@
           "publishedOn": "2022-04-20T13:42:18.000Z",
           "wordCount": 1304,
           "title": "CDHI Research Associate, Digital & Collaborative Research (UTSC)"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=4856",
-          "author": "DHN Admin",
-          "description": "Deadline: 13 May 2022. The CDHI Graduate Fellowship in Critical Digital Humanities supports a small interdisciplinary cohort of University of Toronto Ph.D. candidates engaged in DH research over the 2022-23 academic year. Students form a community of practice and participate in DH methods training workshops, research symposia, other CDHI events.",
-          "link": "https://dhn.utoronto.ca/2022-graduate-fellowship-critical-dh/?utm_source=rss&utm_medium=rss&utm_campaign=2022-graduate-fellowship-critical-dh",
-          "publishedOn": "2022-03-30T17:41:01.000Z",
-          "wordCount": 1391,
-          "title": "Call for Funding: Graduate Fellowship in Critical Digital Humanities"
         }
       ]
     },
@@ -2187,15 +2160,6 @@
           "publishedOn": "2022-04-20T20:15:32.000Z",
           "wordCount": 1542,
           "title": "Dylan Mulvin – Proxies: The Cultural Work of Standing In"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=2207",
-          "author": "Kayla Hilstob",
-          "description": "This was originally posted by by Svitlana Matviyenko on the Institute of Network Cultures blog on March 29, 2022. March 21-29, 2022 On the 33rd day of the Russia-Ukraine war, I continued receiving …\n  Dispatches from the Place of Imminence by Svitlana Matviyenko, part 7 Read More »\nDispatches from the Place of Imminence by Svitlana Matviyenko, part 7 first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-7/?utm_source=rss&utm_medium=rss&utm_campaign=dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-7",
-          "publishedOn": "2022-03-29T21:19:08.000Z",
-          "wordCount": 2125,
-          "title": "Dispatches from the Place of Imminence by Svitlana Matviyenko, part 7"
         }
       ]
     },
@@ -3820,6 +3784,54 @@
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
         {
+          "id": "5889dc9f-aef1-48fe-b2ef-d14434f94332",
+          "author": "Roopika Risam",
+          "description": "Editors' note on the September 2022 issue of Reviews in Digital Humanities, guest edited by Kim Gallon and Kirsten Ostherr",
+          "link": "https://reviewsindh.pubpub.org/pub/editors-note-september-2022",
+          "publishedOn": "2022-09-26T00:00:00.000Z",
+          "wordCount": 2418,
+          "title": "Editors' Note: September 2022",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/nyjfbys0/11663935450725.png"
+          }
+        },
+        {
+          "id": "a27dff0b-b504-4c53-b798-f833d5144800",
+          "author": "Alex Gil",
+          "description": "A review of COVID and Black California, a dashboard exploing how the COVID-19 pandemic affected Black populations in California, led by Paulette Brown-Hinds, Stephanie Williams, Candice Mays, and Alex Reed",
+          "link": "https://reviewsindh.pubpub.org/pub/covid-and-black-california",
+          "publishedOn": "2022-09-26T00:00:00.000Z",
+          "wordCount": 1101,
+          "title": "Review: COVID and Black California",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/bd7uwamh/21663732926401.png"
+          }
+        },
+        {
+          "id": "28d5c0a9-43ad-4b43-b389-272bb060a468",
+          "author": "Yesmar Ozayzun",
+          "description": "A review of Healing Histories, a timeline exploring the COVID-19 pandemic, directed by Cara Page,  Susan Raffo, and Anjali Taneja",
+          "link": "https://reviewsindh.pubpub.org/pub/healing-histories",
+          "publishedOn": "2022-09-26T00:00:00.000Z",
+          "wordCount": 1057,
+          "title": "Review: Healing Histories",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/smhch0jq/11663732910203.png"
+          }
+        },
+        {
+          "id": "9c55a977-8027-47e9-ae0d-6bdc3bfbf044",
+          "author": "Anne Cong-Huyen",
+          "description": "A review of Stop AAPI Hate, a website collecting accounts of anti-Asian racism during the COVID-19 pandemic, directed by Russell Jeung and Aggie Yellow Horse",
+          "link": "https://reviewsindh.pubpub.org/pub/stop-aapi-hate",
+          "publishedOn": "2022-09-26T00:00:00.000Z",
+          "wordCount": 1521,
+          "title": "Review: Stop AAPI Hate",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/0q8j2n8i/61663732942587.png"
+          }
+        },
+        {
           "id": "73f22f31-0f39-4ce0-83fe-4af470c1d5bf",
           "author": "Roopika Risam",
           "description": "Editors' note on the August 2022 issue of Reviews in Digital Humanities",
@@ -4362,15 +4374,6 @@
           "publishedOn": "2022-04-06T18:48:59.000Z",
           "wordCount": 1448,
           "title": "LJS 27: Arithmetic"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=16636",
-          "author": "simsmss",
-          "description": "On March 30 we brought out out Ms. Codex 1065, a 13th century English Bible. We own a number of fragile manuscripts, but this is one of the best examples of fragility for a number of reasons. It was rebound in the 19th century, but has since been removed from that binding, and we nowContinue reading \"Ms. Codex 1065: Fragility\"",
-          "link": "https://schoenberginstitute.org/2022/03/30/ms-codex-1065-fragility/",
-          "publishedOn": "2022-03-30T16:38:13.000Z",
-          "wordCount": 1595,
-          "title": "Ms. Codex 1065: Fragility"
         }
       ]
     },
@@ -5488,6 +5491,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4201 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The presentation shows the results of Anna Bączkowska's research conducted at the University in Luxembourg over the last three months. It focuses on the analysis of immigration discourse retrieved from social media created by Polish immigrants to Luxembourg. The analysis is based on the polska.lu forum which spans the last 15 years. The data were extracted both manually and automatically; thus, three subcorpora were created. The language used by forum interactants was investigated with the aid of corpus linguistics tools in order to notice some trends and tendencies in lexical choices of the forum users as well as the prevailing topics.\n \nWednesday, 28 September 2022 \n\n\n14.00 - 15.00\nC²DH Open Space\n28 September 2022\n  Contemporary history of Luxembourg\n  Migration history\n  Hands-on History\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/polish-immigration-luxembourg-life-work-and-integration-online-discourse-analysis-social",
+          "publishedOn": "2022-09-26T07:49:00.000Z",
+          "wordCount": 346,
+          "title": "Polish immigration to Luxembourg – life, work and integration. Online discourse analysis of social media"
+        },
         {
           "id": "4200 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -8055,15 +8067,6 @@
           "publishedOn": "2022-04-04T10:38:43.000Z",
           "wordCount": 716,
           "title": "NORF Launches National Action Plan for Open Research Consultation"
-        },
-        {
-          "id": "1494 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "Date: \n\n27 Apr 2022\n\n\nLocation: \n\nZoom\n\n\n\nApril’s coffee morning will be hosted by Kathryn Cassidy, Software Engineer at DRI, and Padraic Stack, Senior Librarian at Dublin City Library and Archive (DCLA) and will provide a Transcribathon Project Update.",
-          "link": "https://www.dri.ie/dri-virtual-coffee-morning-april",
-          "publishedOn": "2022-03-30T08:42:25.000Z",
-          "wordCount": 835,
-          "title": "DRI Virtual Coffee Morning: April"
         }
       ]
     },
