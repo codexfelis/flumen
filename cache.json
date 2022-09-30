@@ -879,6 +879,15 @@
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
         {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11662",
+          "author": "Heloise schibler",
+          "description": "Isaac Pante, directeur scientifique du dhCenter pour l’UNIL, et David Javet, médiateur scientifique à l’Éprouvette (UNIL), sont intevenus dans l’émission “CQFD” (La Première/RTS) du 26 septembre. Lors de cette émission, David Javet et Isaac Pante ont présenté le nouveau programme thématique interdisciplinaire “cultures numériques” développé par l’Éprouvette, et notamment l’atelier scientifique “Créons en direct un […]\nThe post CQFD : Les cultures numériques à la une appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/09/29/cqfd-les-cultures-numeriques-a-la-une/",
+          "publishedOn": "2022-09-29T14:33:14.000Z",
+          "wordCount": 363,
+          "title": "CQFD : Les cultures numériques à la une"
+        },
+        {
           "id": "https://dhcenter-unil-epfl.ch/?p=11637",
           "author": "Heloise schibler",
           "description": "Le 9 novembre 2022, un cours public intitulé « Les séries TV et la grande guerre des plateformes » s’intéressera à la manière dont le streaming impacte les contenus proposés. Comment leurs exploitants utilisent-ils les données récoltées pour orienter les scénarios de manière à fidéliser leur public ? Ce cours met en lumière leurs méthodes ainsi que les […]\nThe post Uniscope: Les plateformes de streaming font tout pour encourager le « binge watching » appeared first on dhCenter.",
@@ -2014,15 +2023,6 @@
           "publishedOn": "2022-04-04T13:29:10.000Z",
           "wordCount": 730,
           "title": "Blogpost zur Gründung der neuen DHd-AG &quot;Greening DH&quot; veröffentlicht"
-        },
-        {
-          "id": "node/801",
-          "author": "406",
-          "description": "Am 2.5.2022 lädt das Team Standards, Datenqualität und Kuratierung (Task Area 2) des Konsortiums NFDI4Culture von 10-15 Uhr zu seiner zweiten öffentlichen, digitalen…",
-          "link": "https://dig-hum.de/aktuelles/nfdi4culture-veranstaltung-kulturdaten-und-datenqualit%C3%A4t-%E2%80%93-offen-%C3%BCber-probleme-sprechen",
-          "publishedOn": "2022-04-03T15:43:32.000Z",
-          "wordCount": 781,
-          "title": "NFDI4Culture-Veranstaltung: Kulturdaten und Datenqualität – offen über Probleme sprechen 2.5.2022"
         }
       ]
     },
@@ -3752,6 +3752,18 @@
       "feedUrl": "https://reviewsindh.pubpub.org/rss.xml",
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
+        {
+          "id": "2f03e2b9-6f52-4f43-beca-3027611acc7f",
+          "author": "Kalle Westerling",
+          "description": "A review of London Stage Database, a digital projects that remediates the London Stage Information Book (1970-1978), directed by Mattie Burkert",
+          "link": "https://reviewsindh.pubpub.org/pub/rk38qt09",
+          "publishedOn": "2022-09-29T18:16:05.000Z",
+          "wordCount": 1535,
+          "title": "Review: London Stage Database",
+          "enclosure": {
+            "url": "https://s3.amazonaws.com/assets.pubpub.org/3gsxnoo1zgoaqpl1lp3y57iv4xapel5l.pdf"
+          }
+        },
         {
           "id": "5889dc9f-aef1-48fe-b2ef-d14434f94332",
           "author": "Roopika Risam",

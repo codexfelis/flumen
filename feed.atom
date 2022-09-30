@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-09-29T08:06:01.141Z</updated>
+    <updated>2022-09-30T08:08:20.546Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review: London Stage Database]]></title>
+        <id>2f03e2b9-6f52-4f43-beca-3027611acc7f</id>
+        <link href="https://reviewsindh.pubpub.org/pub/rk38qt09"/>
+        <updated>2022-09-29T18:16:05.000Z</updated>
+        <summary type="html"><![CDATA[A review of London Stage Database, a digital projects that remediates the London Stage Information Book (1970-1978), directed by Mattie Burkert]]></summary>
+        <author>
+            <name>Kalle Westerling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CQFD : Les cultures numériques à la une]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=11662</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/09/29/cqfd-les-cultures-numeriques-a-la-une/"/>
+        <updated>2022-09-29T14:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Isaac Pante, directeur scientifique du dhCenter pour l’UNIL, et David Javet, médiateur scientifique à l’Éprouvette (UNIL), sont intevenus dans l’émission “CQFD” (La Première/RTS) du 26 septembre. Lors de cette émission, David Javet et Isaac Pante ont présenté le nouveau programme thématique interdisciplinaire “cultures numériques” développé par l’Éprouvette, et notamment l’atelier scientifique “Créons en direct un […]
+The post CQFD : Les cultures numériques à la une appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[English at DH2023]]></title>
         <id>https://adho.org/?p=1585</id>
@@ -10729,16 +10750,6 @@ Zum Blogpost geht es hier: https://dhd-blog.…]]></summary>
         <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for a Conference Coordinating Committee (CCC) Fellow – a position that comes with a stipend of The CCC Fellow €500 (Euros). The Fellow will work with the three members of the Conference Coordinating Committee, as well as more broadly with various members of the international ADHO… Read More »Call For 2022-23 ADHO Conference Coordinating Committee Fellow]]></summary>
         <author>
             <name>hannah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFDI4Culture-Veranstaltung: Kulturdaten und Datenqualität – offen über Probleme sprechen 2.5.2022]]></title>
-        <id>node/801</id>
-        <link href="https://dig-hum.de/aktuelles/nfdi4culture-veranstaltung-kulturdaten-und-datenqualit%C3%A4t-%E2%80%93-offen-%C3%BCber-probleme-sprechen"/>
-        <updated>2022-04-03T15:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Am 2.5.2022 lädt das Team Standards, Datenqualität und Kuratierung (Task Area 2) des Konsortiums NFDI4Culture von 10-15 Uhr zu seiner zweiten öffentlichen, digitalen…]]></summary>
-        <author>
-            <name>406</name>
         </author>
     </entry>
     <entry>
