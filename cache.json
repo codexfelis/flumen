@@ -424,24 +424,6 @@
           "publishedOn": "2022-04-20T00:00:00.000Z",
           "wordCount": 723,
           "title": "Zampolli Prize Awarded to Voyant Tools"
-        },
-        {
-          "id": "588890 at https://adho.org",
-          "author": "erdal.ayan@dhturkey.org",
-          "description": "2022-23 ADHO Conference Coordinating Committee Fellow\nThe Alliance of Digital Humanities Organizations (ADHO) seeks applicants for a Conference Coordinating Committee (CCC) Fellow - a position that comes with a stipend of The CCC Fellow €500 (Euros). The Fellow will work with the three members of the Conference Coordinating Committee, as well as more broadly with various members of the international ADHO community, to structure and disseminate information about the mechanisms involved with organizing the ADHO conferences.\nThe fellow should anticipate spending approximately 3-4 hours per week on the position. The fellowship is well suited for graduate students, young scholars, and academic professionals who wish to develop deeper knowledge of digital humanities and its global communities, c…",
-          "link": "https://adho.org/announcements/2022/call-2022-23-adho-conference-coordinating-committee-fellow",
-          "publishedOn": "2022-04-04T16:37:24.000Z",
-          "wordCount": 631,
-          "title": "Call For 2022-23 ADHO Conference Coordinating Committee Fellow"
-        },
-        {
-          "id": "https://adho.org/?p=994",
-          "author": "hannah",
-          "description": "The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for a Conference Coordinating Committee (CCC) Fellow – a position that comes with a stipend of The CCC Fellow €500 (Euros). The Fellow will work with the three members of the Conference Coordinating Committee, as well as more broadly with various members of the international ADHO… Read More »Call For 2022-23 ADHO Conference Coordinating Committee Fellow",
-          "link": "https://adho.org/2022/04/04/call-for-2022-23-adho-conference-coordinating-committee-fellow/",
-          "publishedOn": "2022-04-04T00:00:00.000Z",
-          "wordCount": 463,
-          "title": "Call For 2022-23 ADHO Conference Coordinating Committee Fellow"
         }
       ]
     },
@@ -878,6 +860,24 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11678",
+          "author": "Heloise schibler",
+          "description": "The video game Lausanne 1830, developed by the GameLab UNIL-EPFL in collaboration with the Lausanne Time Machine initiative and Digital Kingdom, is nominated for the SGDA Swiss Game Awards 2022 in the category “Serious Games”. The SGDA Swiss Game Award is the game developers award of Switzerland and celebrates projects that have put the Swiss […]\nThe post “Lausanne 1830” nominated for the Swiss Game Awards 2022! appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/09/30/lausanne-1830-nominated-for-the-swiss-game-awards-2022/",
+          "publishedOn": "2022-09-30T12:32:20.000Z",
+          "wordCount": 493,
+          "title": "“Lausanne 1830” nominated for the Swiss Game Awards 2022!"
+        },
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11672",
+          "author": "Heloise schibler",
+          "description": "The project “Neo-authoritarianisms in Europe and the liberal democratic response” (AUTHLIB), jointly led by the Centre for European Studies and Comparative Politics (CEE) and the médialab is hiring a Post-doc researcher for 24 months. The AUTHLIB project’s basic premise is that liberal democracy faces not one challenge but many challenges and that therefore we must […]\nThe post Médialab : Post-doc researcher – Horizon Europe PROJECT AUTHLIB appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/09/30/medialab-post-doc-researcher-horizon-europe-project-authlib/",
+          "publishedOn": "2022-09-30T09:51:06.000Z",
+          "wordCount": 678,
+          "title": "Médialab : Post-doc researcher – Horizon Europe PROJECT AUTHLIB"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=11662",
           "author": "Heloise schibler",
@@ -2014,15 +2014,6 @@
           "publishedOn": "2022-04-15T11:36:48.000Z",
           "wordCount": 743,
           "title": "Ausschreibung Professur (w/m/d) für &quot;Bibliothekswissenschaft: Technologien, Systeme und Dienste&quot; (W 2), FH Potsdam"
-        },
-        {
-          "id": "node/802",
-          "author": "406",
-          "description": "Der Titel des Blogpostes lautet:\n\"Green, greening, greener: launching German-speaking #GreeningDH at the DHd 2022 annual conference\"\nZum Blogpost geht es hier: https://dhd-blog.…",
-          "link": "https://dig-hum.de/aktuelles/blogpost-zur-gr%C3%BCndung-der-neuen-dhd-ag-greening-dh-ver%C3%B6ffentlicht",
-          "publishedOn": "2022-04-04T13:29:10.000Z",
-          "wordCount": 730,
-          "title": "Blogpost zur Gründung der neuen DHd-AG &quot;Greening DH&quot; veröffentlicht"
         }
       ]
     },
@@ -2190,6 +2181,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=8867",
+          "author": "maddalena poli",
+          "description": "The Mogao Caves nearby Dunhuang were one of the most exceptional discoveries of the 20th century. Their textual, artistic and …",
+          "link": "https://digitalorientalist.com/2022/09/30/navigating-the-dunhuang-manuscripts-databases/",
+          "publishedOn": "2022-09-30T13:30:00.000Z",
+          "wordCount": 1701,
+          "title": "Navigating the Dunhuang Manuscripts Databases"
+        },
         {
           "id": "http://digitalorientalist.com/?p=8783",
           "author": "Alice Casalini",
@@ -3752,6 +3752,18 @@
       "feedUrl": "https://reviewsindh.pubpub.org/rss.xml",
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
+        {
+          "id": "2f03e2b9-6f52-4f43-beca-3027611acc7f",
+          "author": "Kalle Westerling",
+          "description": "A review of London Stage Database, a digital projects that remediates the London Stage Information Book (1970-1978), directed by Mattie Burkert",
+          "link": "https://reviewsindh.pubpub.org/pub/london-stage-database",
+          "publishedOn": "2022-09-29T18:16:05.000Z",
+          "wordCount": 1529,
+          "title": "Review: London Stage Database",
+          "enclosure": {
+            "url": "https://s3.amazonaws.com/assets.pubpub.org/9vfhdc6ckejdzws223cbqrwtut4pcs80.pdf"
+          }
+        },
         {
           "id": "2f03e2b9-6f52-4f43-beca-3027611acc7f",
           "author": "Kalle Westerling",
@@ -5472,6 +5484,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4202 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Scholars from across disciplinary boundaries have attempted to crack the code of videogame history and preservation for the last decade. Yet, much of what is published on these topics is still dominated by journalistic accounts. As such, game scholars and historians should build bridges and collaborate. This presentation will give an overview of videogame history and preservation, the field game studies, and an oral history methodology tailored specifically to videogames. \nThe following day, our guest speaker will conduct a workshop to provide a hands-on demonstration of the research methodology illustrated by his talk.\n \nLECTURE:\nThursday, 17 November 2022\n17.00 – 18.15\nMaison du Savoir, Auditoire 3.040\nBelval Campus\n \nThe lecture will be followed by a reception.\n \nWORKSHOP:\nFriday, 18 November 2022\n14.00-17.00\nMaison des Sciences Humaines, Floor 1, Room 2.0 GIS - GIS – 060\nBelval Campus\n \nLimited places: max 16 people, first come, first served.\n \nPlease confirm your participation before 10 November 2022 at vanessa.napolitano@uni.lu\n \n\n\n17 November 2022 to 18 November 2022\n  Public history\n  Media history  Preservation  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/cracking-code-videogame-history-perspectives-videogame-preservation-and-researching-mediums",
+          "publishedOn": "2022-09-30T08:18:53.000Z",
+          "wordCount": 389,
+          "title": "Cracking the code of videogame history: perspectives on videogame preservation and researching the medium's history"
+        },
         {
           "id": "4201 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -8048,24 +8069,6 @@
           "publishedOn": "2022-04-07T09:04:44.000Z",
           "wordCount": 821,
           "title": "DRI Joins Northern Ireland Museums Council"
-        },
-        {
-          "id": "1496 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that the Waterford City Maps Collection is now available through the Repository. This collection, which has been made available by Waterford City and County Council, consists of seven high definition, highly detailed maps of the city environs that date from the late seventeenth century to the beginning of the twentieth century.",
-          "link": "https://www.dri.ie/new-collection-waterford-city-maps",
-          "publishedOn": "2022-04-04T14:10:37.000Z",
-          "wordCount": 943,
-          "title": "New Collection: Waterford City Maps"
-        },
-        {
-          "id": "1495 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "Ireland’s National Open Research Forum (NORF) has developed a National Action Plan for Open Research that outlines objectives and actions for the next chapter in Ireland’s transition towards open research.",
-          "link": "https://www.dri.ie/norf-launches-national-action-plan-open-research-consultation",
-          "publishedOn": "2022-04-04T10:38:43.000Z",
-          "wordCount": 716,
-          "title": "NORF Launches National Action Plan for Open Research Consultation"
         }
       ]
     },
