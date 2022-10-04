@@ -1471,15 +1471,6 @@
           "publishedOn": "2022-04-11T08:27:27.000Z",
           "wordCount": 995,
           "title": "CfP: 26th International Conference on Theory and Practice of Digital Libraries"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=10295",
-          "author": "Heloise schibler",
-          "description": "Le GameLab UNIL-EPFL a dirigé le dernier numéro de la revue scientifique Sciences du jeu. Il est intitulé “Les langages du jeu vidéo”. Le groupe d’étude, composé de Loïse Bilat, David Javet, Selim Krichane, Isaac Pante et Yannick Rochat, signe également un article en préambule du numéro. Les langages du jeu vidéo est à découvrir […]\nThe post Les langages du jeu vidéo appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/04/07/les-langages-du-jeu-video/",
-          "publishedOn": "2022-04-07T12:00:16.000Z",
-          "wordCount": 478,
-          "title": "Les langages du jeu vidéo"
         }
       ]
     },
@@ -1718,6 +1709,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/857",
+          "author": "406",
+          "description": "Wir freuen uns sehr, zwei neue DH-Forschungsprojekte im DHd-Projekteschaufenster präsentieren zu dürfen:\nDehmel digital\nProjekt DisKo: Aufbau eines Diversitäts-Korpus (DisKo) als…",
+          "link": "https://dig-hum.de/aktuelles/pr%C3%A4sentation-neuer-dh-projekte-im-dhd-projekteschaufenster-0",
+          "publishedOn": "2022-10-04T08:04:11.132Z",
+          "wordCount": 783,
+          "title": "Präsentation neuer DH-Projekte im DHd-Projekteschaufenster"
+        },
         {
           "id": "node/855",
           "author": "406",
@@ -3220,15 +3220,6 @@
           "publishedOn": "2022-04-27T13:26:00.000Z",
           "wordCount": 1169,
           "title": "Getting started with OpenRefine – Digital Humanities 201"
-        },
-        {
-          "id": "http://openmethods.dariah.eu/?p=3189",
-          "author": "Marinella Testori",
-          "description": "Introduction: If you are looking for solutions to translate narratological concepts to annotation guidelines to tag or mark-up your texts for both qualitative and quantitative analysis, then Edward Kearns’s paper “Annotation Guidelines for narrative levels, time features, and subjective narration styles in fiction” is for you! The tag set is designed to be used in XML, but they can be flexibly adopted to other working environments too, including for instance CATMA.  The use of the tags is illustrated on a corpus of modernist fiction.\nThe guidelines have been published in a special issue of The Journal of Cultural Analytics (vol. 6, issue 4) entirely devoted to the illustration of the Systematic Analysis of Narrative levels Through Annotation (SANTA) project, serving as the broader intellectual context to the guidelines.  All articles in the special issue are open peer reviewed , open access, and are available in both PDF and XML formats.\n[Click ‘Read more’ for the full post!]",
-          "link": "https://openmethods.dariah.eu/2022/04/07/annotation-guidelines-for-narrative-levels-time-features-and-subjective-narration-styles-in-fiction-santa-2/",
-          "publishedOn": "2022-04-07T10:43:47.000Z",
-          "wordCount": 1360,
-          "title": "Annotation Guidelines For narrative levels, time features, and subjective narration styles in fiction (SANTA 2)."
         }
       ]
     },
@@ -4162,6 +4153,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17179",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Ms. Codex 1645, an 18th-century copy of a technical treatise on the painting of miniatures, in print from 1673. Includes information on the reduction of images and mixes of pigments for landscapes, skies, varieties of flowers, skin, faces,Continue reading \"Manuscript Monday: Ms. Codex 1645 – Technical treatise on the painting of miniatures\"",
+          "link": "https://schoenberginstitute.org/2022/10/03/manuscript-monday-ms-codex-1645-technical-treatise-on-the-painting-of-miniatures/",
+          "publishedOn": "2022-10-03T16:38:00.000Z",
+          "wordCount": 1228,
+          "title": "Manuscript Monday: Ms. Codex 1645 – Technical treatise on the painting of miniatures"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17175",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to LJS 361, Opening and closing sections of astronomical and astrological tables on either side of a remnant of commentaries on gospel and epistle readings. The opening section (f. 2r-9r) includes tables for calculating the day of the weekContinue reading \"Manuscript Monday: LJS 361 – [Astronomical and astrological tables]\"",
@@ -4394,6 +4394,15 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=1349",
+          "author": "Leah Budke",
+          "description": "Are you an early career researcher in the field of Digital Humanities or a student interested in DH approaches who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual…\n\nContinue reading “Digital Humanities Virtual Discussion Group for ECRs in Belgium: Fall 2022 Edition”…",
+          "link": "https://scholarlytales.hcommons.org/2022/10/04/digital-humanities-virtual-discussion-group-for-ecrs-in-belgium-fall-2022-edition/",
+          "publishedOn": "2022-10-04T07:46:27.000Z",
+          "wordCount": 2350,
+          "title": "Digital Humanities Virtual Discussion Group for ECRs in Belgium: Fall 2022 Edition"
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=1305",
           "author": "Laura Mesotten",
           "description": "This event is only open to KU Leuven researchers and staff. When? 24 October 2022, 1 pm – 4 pm Where? Promotiezaal (Universiteitshal, Naamsestraat 22) and online via MS Teams (link will be shared prior to the event) For whom? Training targeted at PhD researchers, but other researchers and support staff are welcome No fees, but registration is mandatory This training is an opportunity to learn from other researchers at KU Leuven how they implement Open Science principles. The focus will be on...",
@@ -4597,17 +4606,7 @@
       "title": "Loretta C. Duckworth Scholars Studio",
       "feedUrl": "https://sites.temple.edu/tudsc/feed",
       "siteUrl": "https://sites.temple.edu/tudsc/",
-      "articles": [
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8184",
-          "author": "Tauheedah Asad",
-          "description": "This second installment of this blog series for the Scholars Studio discusses popular working methods in digital cultural heritage work. These topics have been critical to creating my project The Diggin’ Philly...\nThe post Digital Practices for the Study of Cultural Heritage (Part 2) appeared first on Loretta C. Duckworth Scholars Studio.",
-          "link": "https://sites.temple.edu/tudsc/2022/04/07/digital-practices-for-the-study-of-cultural-heritage-part-2/",
-          "publishedOn": "2022-04-07T16:14:38.000Z",
-          "wordCount": 1332,
-          "title": "Digital Practices for the Study of Cultural Heritage (Part 2)"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "DH at Tufts",
@@ -5476,6 +5475,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4205 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "This presentation uses the framework of “slow disasters” to consider the ways in which the theory and practice of digital public history is transforming in the wake of climate change and global pandemics. This presentation will focus on the work of The COVID-19 Oral History Project—a partner project of the Journal of the Plague Year: A COVID-19 Archive—as well as digital public history projects associated with The Anthropocenes Network. \nJason M. Kelly is Director of the IUPUI Arts and Humanities Institute and Chair and Professor of History in the Indiana University School of Liberal Arts at IUPUI. He is also an Adjunct Professor of Africana Studies and American Studies. He is a Fellow of the Society of Antiquaries of London and a Fellow of the Royal Historical Society. More info.\n \nMonday, 10 October 2022\nBegin at 15.00\nC²DH DTU Room and online\n\n\n\nPlease register for on-site or online participation.\n10 October 2022\n  Public history\n  Public History as the New Citizen Science of the Past (PHACS)\n  Oral history  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/digital-public-history-context-slow-disasters",
+          "publishedOn": "2022-10-03T10:02:18.000Z",
+          "wordCount": 375,
+          "title": "Digital Public History in the Context of Slow Disasters"
+        },
+        {
           "id": "4202 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "Scholars from across disciplinary boundaries have attempted to crack the code of videogame history and preservation for the last decade. Yet, much of what is published on these topics is still dominated by journalistic accounts. As such, game scholars and historians should build bridges and collaborate. This presentation will give an overview of videogame history and preservation, the field game studies, and an oral history methodology tailored specifically to videogames. \nThe following day, our guest speaker will conduct a workshop to provide a hands-on demonstration of the research methodology illustrated by his talk.\n \nLECTURE:\nThursday, 17 November 2022\n17.00 – 18.15\nMaison du Savoir, Auditoire 3.040\nBelval Campus\n \nThe lecture will be followed by a reception.\n \nWORKSHOP:\nFriday, 18 November 2022\n14.00-17.00\nMaison des Sciences Humaines, Floor 1, Room 2.0 GIS - GIS – 060\nBelval Campus\n \nLimited places: max 16 people, first come, first served.\n \nPlease confirm your participation before 10 November 2022 at vanessa.napolitano@uni.lu\n \n\n\n17 November 2022 to 18 November 2022\n  Public history\n  Media history  Preservation  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
@@ -5806,6 +5814,51 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-awards/",
+          "publishedOn": "2022-10-03T15:34:05.000Z",
+          "wordCount": 648,
+          "title": "CDH Awards"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/cultural-heritage-data-school-december-2022/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/cultural-heritage-data-school-december-2022/",
+          "publishedOn": "2022-10-03T14:08:40.000Z",
+          "wordCount": 987,
+          "title": "Cultural Heritage Data School: December 2022"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/events/",
+          "publishedOn": "2022-10-03T13:33:44.000Z",
+          "wordCount": 310,
+          "title": "What’s On"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/funding/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/funding/",
+          "publishedOn": "2022-10-03T13:33:43.000Z",
+          "wordCount": 409,
+          "title": "Research Funding"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-chaudhary-muhammad-aqdus-ilyas/",
+          "author": null,
+          "description": "Dr Chaudhary Muhammad Aqdus Ilyas is a Research Associate at Cambridge Digital Humanities (CDH). He is currently working on the AHRC project on Isaac Newton's Watermark analysis. He was previously a Postdoctoral Researcher of Computer Science at the University of Cambridge and worked on \"workingage\" EU-Horizon 2020 project. Chaudhary has a background in electrical engineering",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-chaudhary-muhammad-aqdus-ilyas/",
+          "publishedOn": "2022-10-03T13:17:43.000Z",
+          "wordCount": 423,
+          "title": "Dr Chaudhary Muhammad Aqdus Ilyas"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-open/",
           "author": null,
@@ -7486,6 +7539,24 @@
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
         {
+          "id": "1565 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "DRI's Dr Daniel Bangert and Dr Natalie Harrower spoke at Ireland’s first European Open Science Cloud (EOSC) National Tripartite Event.",
+          "link": "https://www.dri.ie/irelands-first-european-open-science-cloud-eosc-national-tripartite-event",
+          "publishedOn": "2022-10-03T09:19:07.000Z",
+          "wordCount": 613,
+          "title": "Ireland’s first European Open Science Cloud (EOSC) National Tripartite Event"
+        },
+        {
+          "id": "1564 at https://www.dri.ie",
+          "author": "clarelanigan",
+          "description": "The Digital Repository of Ireland (DRI) sponsored the Best Poster award at the recent iPres conference, which was won by the Dutch Digital Heritage Network.",
+          "link": "https://www.dri.ie/dri-sponsors-best-poster-prize-ipres-2022",
+          "publishedOn": "2022-09-30T15:02:45.000Z",
+          "wordCount": 710,
+          "title": "DRI Sponsors Best Poster Prize at iPres 2022"
+        },
+        {
           "id": "1563 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
           "description": "Date: \n\n19 Oct 2022\n\n\nLocation: \n\nZoom\n\n\n\nOctober’s virtual coffee morning will take place on Wednesday 19 October at 10.00am for half an hour. The coffee morning will be hosted by Keith Lilley (Queen's University Belfast)and Zenobie Garret (University of Limerick) from the OS200 project.",
@@ -8015,24 +8086,6 @@
           "publishedOn": "2022-04-08T14:19:30.000Z",
           "wordCount": 882,
           "title": "Nominations are open for the 2022 Digital Preservation Awards"
-        },
-        {
-          "id": "1498 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "In March DRI provided training at an Archives and Records Association (ARA) Ireland event which was a great opportunity to learn more about their organisation. In this interview we hear from ARA Ireland Training Officer, Steven Skeldon.",
-          "link": "https://www.dri.ie/dri-blog-qa-ara-ireland-training-officer-steven-skeldon",
-          "publishedOn": "2022-04-07T09:39:46.000Z",
-          "wordCount": 1441,
-          "title": "DRI Blog: Q&A with ARA Ireland Training Officer, Steven Skeldon"
-        },
-        {
-          "id": "1497 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "We are pleased to announce that the Digital Repository of Ireland (DRI) has become a member of the Northern Ireland Museums Council (NIMC). NIMC is the lead body supporting local museums across Northern Ireland.",
-          "link": "https://www.dri.ie/dri-joins-northern-ireland-museum-council",
-          "publishedOn": "2022-04-07T09:04:44.000Z",
-          "wordCount": 821,
-          "title": "DRI Joins Northern Ireland Museums Council"
         }
       ]
     },
@@ -8078,6 +8131,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=12519",
+          "author": "Melanie Cheung",
+          "description": "RLUK Members Meeting 10-11 November 2022 University of Manchester     Register: https://rlukmanchester.eventbrite.co.uk (closes 28 October). Registration is restricted to a maximum of TWO delegates per RLUK member institution. Venue: Hyatt Regency Manchester Delegates will be responsible for arranging their own accommodation. If rooms at Hyatt Regency Manchester are unavailable then other [...]\nThe post RLUK Members Meeting 2022 appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk-members-meeting-2022/",
+          "publishedOn": "2022-10-03T21:35:13.000Z",
+          "wordCount": 1384,
+          "title": "RLUK Members Meeting 2022"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=12498",
           "author": "Melanie Cheung",
