@@ -924,15 +924,6 @@
           "publishedOn": "2022-04-30T00:25:44.000Z",
           "wordCount": 708,
           "title": "Meet the Newest DH Center Student ASsistants"
-        },
-        {
-          "id": "https://dhblog.sdsu.edu/?p=578",
-          "author": "Brent Ameneyro",
-          "description": "Updating this Blog The Digital Humanities Blog is being updated to include E-Lit resources and updates on my progress as SDSU’s first ever E-Lit Programs Assistant. I hope these humble blog posts will not only serve as a way of informing the current faculty and students of my work, but also as a guide for […]",
-          "link": "https://dhblog.sdsu.edu/dh-news/e-lit-programs-assistant-updates-accomplishments",
-          "publishedOn": "2022-04-07T22:08:14.000Z",
-          "wordCount": 868,
-          "title": "E-Lit Programs Assistant – Updates & Accomplishments"
         }
       ]
     },
@@ -1478,17 +1469,7 @@
       "title": "centerNet",
       "feedUrl": "https://dhcenternet.org/rss.xml",
       "siteUrl": "https://dhcenternet.org",
-      "articles": [
-        {
-          "id": "1196089 at https://dhcenternet.org",
-          "author": "kdalziel2@unl.edu",
-          "description": "Day of DH Announcement\nDay of DH 2022 will take place on April 28, 2022. Centers and individuals are encouraged to use the hashtags #DayofDH2022 or #DiversityinDH on Twitter or Instagram.\nThis year, digital humanists are encouraged to communicate what they do on Twitter, to share with the global community more about the people behind DH projects, data, and collaborations, and to organize events that bring our local communities together. We are adopting the theme of “the diversity of DH.” We define diversity broadly, to recognize unique global and local accents of DH, to raise visibility of multilingual and non-western DH, and to showcase the multitude of interdisciplinary topics, methods and approaches that connect our communities. We look forward to the variety of events that interpret th…",
-          "link": "https://dhcenternet.org/initiatives/day-of-dh/2022",
-          "publishedOn": "2022-04-08T19:42:37.000Z",
-          "wordCount": 859,
-          "title": "Day of DH 2022"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "DHLab",
@@ -1507,6 +1488,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=6124",
+          "author": "DHN Admin",
+          "description": "The Critical Digital Humanities Initiative (CDHI) is pleased to support our members in Data Sciences training through the University of Toronto Data Sciences Institute (DSI) Data Sciences Certificate Program. The […]",
+          "link": "https://dhn.utoronto.ca/data-science-certificate-tuition-support-available/?utm_source=rss&utm_medium=rss&utm_campaign=data-science-certificate-tuition-support-available",
+          "publishedOn": "2022-10-04T20:27:15.000Z",
+          "wordCount": 723,
+          "title": "Training Funding: Data Science Certificate Tuition Support Available"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=5968",
           "author": "DHN Admin",
@@ -2093,17 +2083,7 @@
       "title": "Digital History an der Universität Bielefeld (@BieDigital)",
       "feedUrl": "https://digital-history.uni-bielefeld.de/feed",
       "siteUrl": "https://digital-history.uni-bielefeld.de",
-      "articles": [
-        {
-          "id": "https://digital-history.uni-bielefeld.de/?p=673",
-          "author": "Adrian Strothotte",
-          "description": "Die Bielefelder Digital Academy lädt auch 2022 wieder ein, in die Welt digitaler Arbeitstechniken einzutauchen und den persönlichen Werkzeugkasten zu erweitern. Der Schwerpunkt liegt dieses Jahr auf dem digitalen Annotieren von Texten im Bereich der Geisteswissenschaften. Das Team @BieDigital freut sich auf anregende Projekte von Interessierten und Forschenden (M.A.-Studierende im fortgeschrittenen Studium, M.A., PhD, Post…",
-          "link": "https://digital-history.uni-bielefeld.de/2022/04/08/digital-academy-2022-call-for-participation-jetzt-online/",
-          "publishedOn": "2022-04-08T09:38:29.000Z",
-          "wordCount": 301,
-          "title": "Digital Academy 2022 – Call for Participation jetzt online"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Site 3",
@@ -2253,6 +2233,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=8572",
+          "author": "James Harry Morris",
+          "description": "There are several ways to render historical kana (commonly known as variant kana or hentaigana 変体仮名) in our writing or …",
+          "link": "https://digitalorientalist.com/2022/10/04/a-beginners-guide-to-inputting-historical-kana-installing-a-font-for-hentaigana/",
+          "publishedOn": "2022-10-04T13:00:00.000Z",
+          "wordCount": 1029,
+          "title": "A Beginner’s Guide to Inputting Historical Kana: Installing a Font for “Hentaigana”"
+        },
         {
           "id": "http://digitalorientalist.com/?p=8867",
           "author": "maddalena poli",
@@ -2549,15 +2538,6 @@
           "publishedOn": "2022-04-12T14:00:00.000Z",
           "wordCount": 1400,
           "title": "Interviewing Dr Hoffmann-Ruf about “Qalamos: connecting manuscript traditions”"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=8055",
-          "author": "So Miyagawa",
-          "description": "This time, I (So Miyagawa) decided to interview Arbaab, who is making Sawarda Nubian, an Old Nubian script based font, …",
-          "link": "https://digitalorientalist.com/2022/04/08/making-a-unicode-font-for-the-nubian-language-revitalization-movement/",
-          "publishedOn": "2022-04-08T14:00:00.000Z",
-          "wordCount": 1635,
-          "title": "Making a Unicode Font for the Nubian Language Revitalization Movement"
         }
       ]
     },
@@ -3056,6 +3036,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.86",
+          "author": null,
+          "description": "In this paper we present the first-ever procedure for identifying highly similar sequences of text in Chinese and Tibetan translations of Buddhist sūtra literature. We initially propose this procedure as an aid to scholars engaged in the philological study of Buddhist documents. We create a cross-lingual embedding space by taking the cosine similarity of average sequence vectors in order to produce unsupervised similar cross-linguistic parallel alignments at word, sentence, and even paragraph level. Initial results show that our method lays a solid foundation for the future development of a fully-fledged Information Retrieval tool for these (and potentially other) low-resource historical languages.\n Published on 2022-10-04 11:18:29",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.86",
+          "publishedOn": "2022-10-05T08:04:59.435Z",
+          "wordCount": 8082,
+          "title": "Crosslinguistic Semantic Textual Similarity of Buddhist Chinese and Classical Tibetan"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.84",
           "author": null,
@@ -4153,6 +4142,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/2022/10/04/if-today-is-sunday-this-must-be-1798/",
+          "author": "simsmss",
+          "description": "Originally posted on Unique at Penn: \nA section of a diary kept between 1797 and 1800 by the Quaker farmer Jacob Peirce recently joined the collections of the Penn Libraries as Oversize Ms. Codex 2079, thanks to the Philadelphia Society for Promoting Agriculture.? Peirce was a busy man, but he found time to write brief…",
+          "link": "https://schoenberginstitute.org/2022/10/04/if-today-is-sunday-this-must-be-1798/",
+          "publishedOn": "2022-10-04T14:07:53.000Z",
+          "wordCount": 1207,
+          "title": "If Today Is Sunday, This Must Be 1798"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17179",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Ms. Codex 1645, an 18th-century copy of a technical treatise on the painting of miniatures, in print from 1673. Includes information on the reduction of images and mixes of pigments for landscapes, skies, varieties of flowers, skin, faces,Continue reading \"Manuscript Monday: Ms. Codex 1645 – Technical treatise on the painting of miniatures\"",
@@ -4590,15 +4588,6 @@
           "publishedOn": "2022-04-12T19:18:30.000Z",
           "wordCount": 1552,
           "title": "Event: Open Science day KU Leuven 2022"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1069",
-          "author": "Rebecca Burke",
-          "description": "If you are a regular visitor to our blog, you might have noticed that The Scholarly Tales is a blog hosted by Humanities Commons (HC). The team actively promotes the use of innovative, non-profit and community-led platforms such as HC and works to bring them to the attention of our readers and researchers. In this blogpost we will take you through the different aspects of the Humanities Commons platform and explain what it can offer you. Humanities Commons labels itself...",
-          "link": "https://scholarlytales.hcommons.org/2022/04/08/humanities-commons-more-than-a-scholarly-network-for-humanists/",
-          "publishedOn": "2022-04-08T08:00:19.000Z",
-          "wordCount": 2350,
-          "title": "Humanities Commons: More than a Scholarly Network for Humanists"
         }
       ]
     },
@@ -5814,6 +5803,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-alexis-litvine/",
+          "author": null,
+          "description": "Dr Alexis Litvine is a College Lecturer at Pembroke College and a Researcher at The Cambridge Group for the History of Population and Social Structure (CAMPOP). Alexis is a comparative economic historian of eighteenth and nineteenth-century France and Europe, interested in all things related to the Industrial Revolution. His work has been focused on the",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-alexis-litvine/",
+          "publishedOn": "2022-10-05T07:02:39.000Z",
+          "wordCount": 463,
+          "title": "Dr Alexis Litvine"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/",
           "author": null,
@@ -8077,15 +8075,6 @@
           "publishedOn": "2022-04-11T14:49:49.000Z",
           "wordCount": 1449,
           "title": "Celebrating RIA Library Irish Language Collections During Seachtain na Gaeilge"
-        },
-        {
-          "id": "1499 at https://www.dri.ie",
-          "author": "Natalie Harrower",
-          "description": "Consider applying if you have a project you think deserves recognition.",
-          "link": "https://www.dri.ie/nominations-are-open-2022-digital-preservation-awards",
-          "publishedOn": "2022-04-08T14:19:30.000Z",
-          "wordCount": 882,
-          "title": "Nominations are open for the 2022 Digital Preservation Awards"
         }
       ]
     },
@@ -8131,6 +8120,24 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=12543",
+          "author": "Melanie Cheung",
+          "description": "#RLUK23 Virtual Conference :: 22-24 March 2023 Partners and Pioneers: Reimagining the modern research library The call for papers for the RLUK23 Conference, to be held virtually from 22-24 March 2023 is now open. Find out more on the RLUK Conference website. The deadline for submissions if Friday 25 November 2022. The research library [...]\nThe post RLUK23 Conference call for papers appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk23-conference-call-for-papers/",
+          "publishedOn": "2022-10-04T14:18:56.000Z",
+          "wordCount": 1488,
+          "title": "RLUK23 Conference call for papers"
+        },
+        {
+          "id": "https://www.rluk.ac.uk/?p=12534",
+          "author": "Melanie Cheung",
+          "description": "In 2022, Libraries Week takes place between the 3rd and 9th October, celebrating the nation’s much-loved libraries and the central role that libraries play in supporting life-long learning. We want to showcase how libraries across all sectors are inspiring learning for all and helping individuals to unlock and fulfil their potential at every stage [...]\nThe post Libraries Week 2022 appeared first on Research Libraries UK.",
+          "link": "http://librariesweek.org.uk/#new_tab",
+          "publishedOn": "2022-10-04T09:51:27.000Z",
+          "wordCount": 260,
+          "title": "Libraries Week 2022"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=12519",
           "author": "Melanie Cheung",

@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-10-04T08:05:07.344Z</updated>
+    <updated>2022-10-05T08:05:40.590Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crosslinguistic Semantic Textual Similarity of Buddhist Chinese and Classical Tibetan]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.86</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.86"/>
+        <updated>2022-10-05T08:04:59.435Z</updated>
+        <summary type="html"><![CDATA[In this paper we present the first-ever procedure for identifying highly similar sequences of text in Chinese and Tibetan translations of Buddhist sūtra literature. We initially propose this procedure as an aid to scholars engaged in the philological study of Buddhist documents. We create a cross-lingual embedding space by taking the cosine similarity of average sequence vectors in order to produce unsupervised similar cross-linguistic parallel alignments at word, sentence, and even paragraph level. Initial results show that our method lays a solid foundation for the future development of a fully-fledged Information Retrieval tool for these (and potentially other) low-resource historical languages.
+ Published on 2022-10-04 11:18:29]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Alexis Litvine]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-alexis-litvine/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-alexis-litvine/"/>
+        <updated>2022-10-05T07:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Dr Alexis Litvine is a College Lecturer at Pembroke College and a Researcher at The Cambridge Group for the History of Population and Social Structure (CAMPOP). Alexis is a comparative economic historian of eighteenth and nineteenth-century France and Europe, interested in all things related to the Industrial Revolution. His work has been focused on the]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training Funding: Data Science Certificate Tuition Support Available]]></title>
+        <id>https://dhn.utoronto.ca/?p=6124</id>
+        <link href="https://dhn.utoronto.ca/data-science-certificate-tuition-support-available/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=data-science-certificate-tuition-support-available"/>
+        <updated>2022-10-04T20:27:15.000Z</updated>
+        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) is pleased to support our members in Data Sciences training through the University of Toronto Data Sciences Institute (DSI) Data Sciences Certificate Program. The […]]]></summary>
+        <author>
+            <name>DHN Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLUK23 Conference call for papers]]></title>
+        <id>https://www.rluk.ac.uk/?p=12543</id>
+        <link href="https://www.rluk.ac.uk/rluk23-conference-call-for-papers/"/>
+        <updated>2022-10-04T14:18:56.000Z</updated>
+        <summary type="html"><![CDATA[#RLUK23 Virtual Conference :: 22-24 March 2023 Partners and Pioneers: Reimagining the modern research library The call for papers for the RLUK23 Conference, to be held virtually from 22-24 March 2023 is now open. Find out more on the RLUK Conference website. The deadline for submissions if Friday 25 November 2022. The research library [...]
+The post RLUK23 Conference call for papers appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Today Is Sunday, This Must Be 1798]]></title>
+        <id>http://schoenberginstitute.org/2022/10/04/if-today-is-sunday-this-must-be-1798/</id>
+        <link href="https://schoenberginstitute.org/2022/10/04/if-today-is-sunday-this-must-be-1798/"/>
+        <updated>2022-10-04T14:07:53.000Z</updated>
+        <summary type="html"><![CDATA[Originally posted on Unique at Penn: 
+A section of a diary kept between 1797 and 1800 by the Quaker farmer Jacob Peirce recently joined the collections of the Penn Libraries as Oversize Ms. Codex 2079, thanks to the Philadelphia Society for Promoting Agriculture.? Peirce was a busy man, but he found time to write brief…]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner’s Guide to Inputting Historical Kana: Installing a Font for “Hentaigana”]]></title>
+        <id>http://digitalorientalist.com/?p=8572</id>
+        <link href="https://digitalorientalist.com/2022/10/04/a-beginners-guide-to-inputting-historical-kana-installing-a-font-for-hentaigana/"/>
+        <updated>2022-10-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are several ways to render historical kana (commonly known as variant kana or hentaigana 変体仮名) in our writing or …]]></summary>
+        <author>
+            <name>James Harry Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Libraries Week 2022]]></title>
+        <id>https://www.rluk.ac.uk/?p=12534</id>
+        <link href="http://librariesweek.org.uk/#new_tab"/>
+        <updated>2022-10-04T09:51:27.000Z</updated>
+        <summary type="html"><![CDATA[In 2022, Libraries Week takes place between the 3rd and 9th October, celebrating the nation’s much-loved libraries and the central role that libraries play in supporting life-long learning. We want to showcase how libraries across all sectors are inspiring learning for all and helping individuals to unlock and fulfil their potential at every stage [...]
+The post Libraries Week 2022 appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Präsentation neuer DH-Projekte im DHd-Projekteschaufenster]]></title>
         <id>node/857</id>
@@ -10685,68 +10759,6 @@ The post RLUK report: Virtual Reading Rooms (VRRs) and Virtual Teaching Spaces (
 The post CfP: 26th International Conference on Theory and Practice of Digital Libraries appeared first on dhCenter.]]></summary>
         <author>
             <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day of DH 2022]]></title>
-        <id>1196089 at https://dhcenternet.org</id>
-        <link href="https://dhcenternet.org/initiatives/day-of-dh/2022"/>
-        <updated>2022-04-08T19:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Day of DH Announcement
-Day of DH 2022 will take place on April 28, 2022. Centers and individuals are encouraged to use the hashtags #DayofDH2022 or #DiversityinDH on Twitter or Instagram.
-This year, digital humanists are encouraged to communicate what they do on Twitter, to share with the global community more about the people behind DH projects, data, and collaborations, and to organize events that bring our local communities together. We are adopting the theme of “the diversity of DH.” We define diversity broadly, to recognize unique global and local accents of DH, to raise visibility of multilingual and non-western DH, and to showcase the multitude of interdisciplinary topics, methods and approaches that connect our communities. We look forward to the variety of events that interpret th…]]></summary>
-        <author>
-            <name>kdalziel2@unl.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominations are open for the 2022 Digital Preservation Awards]]></title>
-        <id>1499 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/nominations-are-open-2022-digital-preservation-awards"/>
-        <updated>2022-04-08T14:19:30.000Z</updated>
-        <summary type="html"><![CDATA[Consider applying if you have a project you think deserves recognition.]]></summary>
-        <author>
-            <name>Natalie Harrower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Unicode Font for the Nubian Language Revitalization Movement]]></title>
-        <id>http://digitalorientalist.com/?p=8055</id>
-        <link href="https://digitalorientalist.com/2022/04/08/making-a-unicode-font-for-the-nubian-language-revitalization-movement/"/>
-        <updated>2022-04-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This time, I (So Miyagawa) decided to interview Arbaab, who is making Sawarda Nubian, an Old Nubian script based font, …]]></summary>
-        <author>
-            <name>So Miyagawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Academy 2022 – Call for Participation jetzt online]]></title>
-        <id>https://digital-history.uni-bielefeld.de/?p=673</id>
-        <link href="https://digital-history.uni-bielefeld.de/2022/04/08/digital-academy-2022-call-for-participation-jetzt-online/"/>
-        <updated>2022-04-08T09:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Die Bielefelder Digital Academy lädt auch 2022 wieder ein, in die Welt digitaler Arbeitstechniken einzutauchen und den persönlichen Werkzeugkasten zu erweitern. Der Schwerpunkt liegt dieses Jahr auf dem digitalen Annotieren von Texten im Bereich der Geisteswissenschaften. Das Team @BieDigital freut sich auf anregende Projekte von Interessierten und Forschenden (M.A.-Studierende im fortgeschrittenen Studium, M.A., PhD, Post…]]></summary>
-        <author>
-            <name>Adrian Strothotte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humanities Commons: More than a Scholarly Network for Humanists]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1069</id>
-        <link href="https://scholarlytales.hcommons.org/2022/04/08/humanities-commons-more-than-a-scholarly-network-for-humanists/"/>
-        <updated>2022-04-08T08:00:19.000Z</updated>
-        <summary type="html"><![CDATA[If you are a regular visitor to our blog, you might have noticed that The Scholarly Tales is a blog hosted by Humanities Commons (HC). The team actively promotes the use of innovative, non-profit and community-led platforms such as HC and works to bring them to the attention of our readers and researchers. In this blogpost we will take you through the different aspects of the Humanities Commons platform and explain what it can offer you. Humanities Commons labels itself...]]></summary>
-        <author>
-            <name>Rebecca Burke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E-Lit Programs Assistant – Updates & Accomplishments]]></title>
-        <id>https://dhblog.sdsu.edu/?p=578</id>
-        <link href="https://dhblog.sdsu.edu/dh-news/e-lit-programs-assistant-updates-accomplishments"/>
-        <updated>2022-04-07T22:08:14.000Z</updated>
-        <summary type="html"><![CDATA[Updating this Blog The Digital Humanities Blog is being updated to include E-Lit resources and updates on my progress as SDSU’s first ever E-Lit Programs Assistant. I hope these humble blog posts will not only serve as a way of informing the current faculty and students of my work, but also as a guide for […]]]></summary>
-        <author>
-            <name>Brent Ameneyro</name>
         </author>
     </entry>
     <entry>
