@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-10-09T08:10:01.437Z</updated>
+    <updated>2022-10-10T08:07:02.125Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Fernandez Perotti]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/christian-fernandez-perotti/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/christian-fernandez-perotti/"/>
+        <updated>2022-10-10T08:02:21.000Z</updated>
+        <summary type="html"><![CDATA[I am from Buenos Aires, Argentina, but I have lived and worked in Cambridge for almost four years now. I graduated in Classics at the Catholic University of Argentina with a dissertation on the literary genre of Apuleius' Metamorphoses and moved from academia to Librarianship, Education, Government, Entertainment and most recently Information Technology. I am]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpo Honkapohja]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/alpo-honkapohja/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/alpo-honkapohja/"/>
+        <updated>2022-10-10T07:52:25.000Z</updated>
+        <summary type="html"><![CDATA[Alpo Honkapohja is an EU-funded Marie Sklodowska Curie fellow working on The Index of Middle English Prose (IMEP). IMEP is a reference tool for locating and identifying all surviving English prose texts composed between circa 1200 and 1500. The project is a collaboration between the CDH and the University of Oslo, where Alpo is normally based. Alpo is originally]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to new starters]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/welcome-to-new-starters/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/welcome-to-new-starters/"/>
+        <updated>2022-10-10T07:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Blaney Research Software Engineer at CDH What was your first job? At Oxford University Press, writing and editing dictionaries. I worked on the full range of English dictionaries, from the Oxford English Mini Dictionary to the full OED. For the OED I read books and periodicals looking for new words. I particularly remember some]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yixun Zhou]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/yixun-zhou/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/yixun-zhou/"/>
+        <updated>2022-10-10T07:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Yixun Zhou is curious about how computation and programming can be applied to large-scale literary text analysis. After finishing his Bachelor of Science degree in Statistics at the University of Nottingham, he joined Mphil Digital Humanities to explore metaphor recognition through natural language processing. His research interest mainly lies in NLP and machine learning for]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Schaefer]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/john-schaefer/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/john-schaefer/"/>
+        <updated>2022-10-10T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Hailing from Michigan, John is an MPhil student with CDH and recently received his A.B. from Harvard University in History and Science, focusing on the history of biology. His current research examines the use of handwritten text recognition (HTR) models in volunteer-based digital transcription projects. He is also interested in the interdisciplinary application of plants as]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yerin Kim]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/yerin-kim/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/yerin-kim/"/>
+        <updated>2022-10-10T07:08:08.000Z</updated>
+        <summary type="html"><![CDATA[Yerin Kim is an MPhil student at CDH. Her bachelor's degree is from Yonsei University Underwood International College (Seoul, South Korea) in Justice and Civil Leadership. She also completed an MA in International Relations at the University of Nottingham Ningbo China and an MS in Applied Artificial Intelligence at Sungkyunkwan University. As a researcher at]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Kanta Dihal]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-kanta-dihal/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-kanta-dihal/"/>
+        <updated>2022-10-10T07:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Dr Kanta Dihal is a Senior Research Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge. Her research focuses on science narratives, particularly those that emerge from conflict. She currently manages the project ‘Desirable Digitalisation’, an international research collaboration that investigates intercultural perspectives on AI and fundamental rights and values. She]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Art of Notetaking]]></title>
         <id>http://digitalorientalist.com/?p=8892</id>
@@ -10623,106 +10693,6 @@ Maynooth University Arts and Humanities Institute, first floor (room TBC) and on
 The event explores innovative, intersectional and challenging approaches to digital archiving and digital projects.]]></summary>
         <author>
             <name>Deborah Thorpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CfP: TEMPO - TIME IN EVENT MODELLING, PERIODIZATION AND ORDERING]]></title>
-        <id>1400 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2022/04/13/cfp-tempo-time-event-modelling-periodization-and-ordering"/>
-        <updated>2022-04-13T18:03:35.000Z</updated>
-        <summary type="html"><![CDATA[30 Apr 2022 - 00:00
-
-
-
-CfP: TEMPO - TIME IN EVENT MODELLING, PERIODIZATION AND ORDERING
-
-
-
-23–25 June 2022 | University of Vienna
-Call for Participants   
-Dates and events can present problems to Digital Humanists who want to work with and model this data. Incomplete information, disparate formats and ambiguity are some of the problems that await researchers. While conventions exist for the organising of date, time, and event data (Extended Date and Time Format, CIDOC-CRM, OWL-Time among others) these cannot capture every need.
-Due to the technical challenges of working with this type of data, the Digital Humanities Team at the University of Vienna is organizing a hackathon on the themes of Time in Event Modelling, Periodization, and Ordering (TEMPO) from 23 to 25 June 2022. We would like …]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cäsarenwahn von Caligula bis Putin]]></title>
-        <id>3973 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/casarenwahn-von-caligula-bis-putin"/>
-        <updated>2022-04-13T13:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Sind Diktatoren krank?
-In den letzen Wochen war oft die Rede vom Cäsarenwahn des russischen Präsidenten Putin. Der Begriff ist nicht neu; seit dem 19. Jahrhundert diskutiert man, ob Autokraten dieser besonderen Krankheit anheimfallen. Das Konzept, das in der unkontrollierten Alleinherrschaft die Gefahr zu einer psychischen Deformation sah, verbindet historische Erklärungen mit einem medizinischen Ansatz. Wie weit aber ist dieses Konzept mehr als politische Polemik? Der Vortrag führt vom römischen Kaiser Caligula bis zu Beispielen für (vermeintlichen) Cäsarenwahn im 19., 20. und 21. Jahrhundert.
-
-Kurzbiographie:Prof. Dr. Heinrich Schlange-Schöningen (Universität des Saarlandes, Institut für Alte Geschichte)
-Heinrich Schlange-Schöningen (* 26. April 1960 in Lüneburg) ist ein auf die römische…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wisnicki's leadership helps net $350K for COVE collaborative]]></title>
-        <id>2653 at https://cdrh.unl.edu</id>
-        <link href="https://cdrh.unl.edu/wisnickis-leadership-helps-net-350k-cove-collaborative"/>
-        <updated>2022-04-13T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: 
-
-
-
-
-Link: 
-
-Wisnicki's leadership helps net $350K for COVE collaborative
-
-
-
-A multi-institutional open access publishing and pedagogical tool, whose leadership includes Adrian S. Wisnicki of the University of Nebraska–Lincoln, has received one of the largest grants this round from the National Endowment for the Humanities.
-[media:2:left]The Collaborative Organization for Virtual Education, or COVE, received $350,000 from NEH, which was announced April 13. Wisnicki, associate professor of English, is one of the grant’s two co-principal investigators.
-COVE, a nonprofit open access endeavor, publishes peer-reviewed scholarly editions and hosts a “flipped classroom” environment, where students build projects with COVE’s online tools. The project began in 2014 when the North American Vi…]]></summary>
-        <author>
-            <name>Anonymous</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The LIR Committee - 'Getting Started with Oral Histories' Plenary]]></title>
-        <id>1501 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/lir-committee-getting-started-oral-histories-plenary"/>
-        <updated>2022-04-13T10:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-18 May 2022
-
-
-Location: 
-
-Zoom
-
-
-
-The LIR Committee is hosting a ‘Getting Started with Oral Histories’ Plenary on Wed 18 May from 3:00 pm-4:30 pm.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RLUK-AHRC Research Engagement Programme cohort announced]]></title>
-        <id>https://www.rluk.ac.uk/?p=11891</id>
-        <link href="https://www.rluk.ac.uk/rluk-ahrc-rep-cohort/"/>
-        <updated>2022-04-13T10:31:27.000Z</updated>
-        <summary type="html"><![CDATA[RLUK, AHRC, and ARMA are delighted to announce the first Research Catalyst Cohort for academic libraries Research Libraries UK (RLUK), the Association of Research Managers and Administrators (ARMA), and the Arts and Humanities Research Council (AHRC) are delighted to be working in partnership to deliver a multifaceted Research Engagement Programme (REP) for academic libraries. The [...]
-The post RLUK-AHRC Research Engagement Programme cohort announced appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libraries and Diamond Open Access]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1081</id>
-        <link href="https://scholarlytales.hcommons.org/2022/04/13/libraries-and-diamond-open-access/"/>
-        <updated>2022-04-13T07:21:37.000Z</updated>
-        <summary type="html"><![CDATA[The following is the redacted text of a statement given by Demmy Verbeke at the “The Diamond Open Access Model: what impact on research?” webinar organized by Academia Europaea Cardiff, KU Leuven Libraries and the Young Academy of Europe on March 28, 2022.  Academic libraries have a responsibility in the context of Diamond Open Access on at least two levels. For more than a decade now, librarians worldwide have played a role in promoting OA, explaining the various options to...]]></summary>
-        <author>
-            <name>Demmy Verbeke</name>
         </author>
     </entry>
     <entry>
