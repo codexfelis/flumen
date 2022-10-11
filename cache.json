@@ -3116,6 +3116,15 @@
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fCwihTOnQv0",
+          "author": "Author on Source",
+          "description": "This short video teaser summarizes the main characteristics of PixPlot, a Python-based tool for clustering images and analyzing them from a numerical perspective as well as its pedagogical relevance as far as\nmachine learning is concerned.\n\nThe paper \"Visual Patterns Discovery in Large Databases of Paintings\", presented at the Digital Humanities 2016 Conference held in Poland,\ncan be considered the foundational text for the development of the PixPlot Project at Yale University.\n[Click ‘Read more’ for the full post!]",
+          "link": "https://openmethods.dariah.eu/2022/10/09/what-is-pixplot-dh-tools-youtube/",
+          "publishedOn": "2022-10-09T06:59:58.000Z",
+          "wordCount": 1255,
+          "title": "What is PixPlot? (DH Tools) – YouTube"
+        },
+        {
           "id": "http://openmethods.dariah.eu/?p=3269",
           "author": "Marinella Testori",
           "description": "In this post, we reach back in time to showcase an older project and highlight its impact on data visualization in Digital Humanities as well as its good practices to make different layers of scholarship available for increased transparency and reusability.  \n\nDeveloped at Stanford with other research partners ('Cultures of Knowledge' at Oxford, the Groupe d'Alembert at CNRS, the KKCC-Circulation of Knowledge and Learned Practices in the 17th-century Dutch Republic, the DensityDesign ResearchLab), the 'Mapping of the Republic of Letters Project' aimed at digitizing and visualizing the intellectual community throughout the XVI and XVIII centuries known as 'Republic of Letters' (an overview of the concept can be found in Bots and Waquet, 1997), to get a better sense of the shape, size and associated intellectual network, its inherent complexities and  boundaries.\n\nBelow  we highlight the different, interrelated\nlayers of making project outputs available and reusable on the long term (way before FAIR data became a widespread policy imperative!): methodological reflections, interactive visualizations, the associated data and its data model schema. All of these layers are published in a trusted repository and are interlinked with each other via their Persistent Identifiers.\n\n[Click ‘Read more’ for the full post!]",
@@ -4096,6 +4105,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=17243",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1646, the first part of a four-part poem in octaves on the monarchy of Portugal, with allusions to astrology, alchemy, and cabala. The manuscript contains a copy of the edition printed in Lisbon in 1624 inContinue reading \"Manuscript Monday: Ms. Codex 1646 – Estado astrologico\"",
+          "link": "https://schoenberginstitute.org/2022/10/10/manuscript-monday-ms-codex-1646-estado-astrologico/",
+          "publishedOn": "2022-10-10T13:11:15.000Z",
+          "wordCount": 1250,
+          "title": "Manuscript Monday: Ms. Codex 1646 – Estado astrologico"
+        },
         {
           "id": "http://schoenberginstitute.org/2022/10/04/if-today-is-sunday-this-must-be-1798/",
           "author": "simsmss",
@@ -5741,6 +5759,42 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/events/35480/",
+          "author": null,
+          "description": "The Cultural Heritage Data School, led by Cambridge Digital Humanities, is an online intensive application-only teaching programme which aims to bring together participants from the wider Galleries, Libraries, Archives and Museums (GLAM) sector and academia to explore the methods used to create, visualise and analyse digital archives and collections. The curriculum will be structured around",
+          "link": "https://www.cdh.cam.ac.uk/events/35480/",
+          "publishedOn": "2022-10-10T13:56:53.000Z",
+          "wordCount": 1034,
+          "title": "Cultural Heritage Data School: December 2022 (online)"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35489/",
+          "author": null,
+          "description": "The Social Data School is an application only intensive teaching programme structured around the life-cycle of a digital research project, covering principles of research design, data collection, cleaning and preparation, methods of analysis and visualisation, and data management and preservation practices. The school welcomes applications from all backgrounds, including journalists, NGOs, activists, trade unionists and",
+          "link": "https://www.cdh.cam.ac.uk/events/35489/",
+          "publishedOn": "2022-10-10T09:20:42.000Z",
+          "wordCount": 400,
+          "title": "Social Data School: June 2023 (Cambridge)"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35485/",
+          "author": null,
+          "description": "The Cultural Heritage Data School, led by Cambridge Digital Humanities, is an online intensive application-only teaching programme which aims to bring together participants from the wider Galleries, Libraries, Archives and Museums (GLAM) sector and academia to explore the methods used to create, visualise and analyse digital archives and collections. The curriculum will be structured around",
+          "link": "https://www.cdh.cam.ac.uk/events/35485/",
+          "publishedOn": "2022-10-10T09:20:16.000Z",
+          "wordCount": 423,
+          "title": "Cultural Heritage Data School: March 2023 (Cambridge)"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35487/",
+          "author": null,
+          "description": "The Social Data School is an application only online intensive teaching programme structured around the life-cycle of a digital research project, covering principles of research design, data collection, cleaning and preparation, methods of analysis and visualisation, and data management and preservation practices. The school welcomes applications from all backgrounds, including journalists, NGOs, activists, trade unionists",
+          "link": "https://www.cdh.cam.ac.uk/events/35487/",
+          "publishedOn": "2022-10-10T09:19:50.000Z",
+          "wordCount": 399,
+          "title": "Social Data School: Jan 2023 (online)"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/about/people/christian-fernandez-perotti/",
           "author": null,
           "description": "I am from Buenos Aires, Argentina, but I have lived and worked in Cambridge for almost four years now. I graduated in Classics at the Catholic University of Argentina with a dissertation on the literary genre of Apuleius' Metamorphoses and moved from academia to Librarianship, Education, Government, Entertainment and most recently Information Technology. I am",
@@ -7368,6 +7422,33 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5804 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "2022 Steven Krauwer Award for Achievements Awarded to the u4u Team of the Charles Translator for Ukraine\n\n            \n About the Winners\n    \n\n              \n              \n              \n                  \n\n  \nThis year’s second Achievement Award went to a team effort of students, researchers and developers at the Institute of Formal and Applied Linguistics (UFAL) of the Charles University's Faculty of Arts (Prague), including Martin Popel (researcher, head of the team), Jindřich Helcl (researcher), Zdeněk Kasner (PhD student), Ondřej Košarko (developer), Tomáš Krabač (developer), Jindřich Libovický (researcher), David Nápravník (undergraduate student), Michal Novák (researcher) and Rudolf Rosa (researcher).\nThe u4u team at Charles University has developed a translation tool for Czech an…",
+          "link": "https://www.clarin.eu/news/2022-steven-krauwer-award-achievements-awarded-u4u-team-charles-translator-ukraine",
+          "publishedOn": "2022-09-26T11:13:17.000Z",
+          "wordCount": 444,
+          "title": "2022 Steven Krauwer Award for Achievements Awarded to the u4u Team of the Charles Translator for Ukraine"
+        },
+        {
+          "id": "5803 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "2022 Steven Krauwer Award for Achievements Awarded to Jörg Tiedemann & the Helsinki MT Group\n\n            \nAbout the Winners\n    \n\n              \n              \n              \n                  \n\n  \nJörg Tiedemann, Professor of Language Technology in the department of Digital Humanities at the University of Helsinki and the Helsinki \n    \nMachine Translation\n\r\nread more\n\n   group.\nIn order to support Ukrainians in Finland, Tiedemann and the Helsinki MT team established various initiatives, including  the machine translation (MT) system for Ukrainian to Finnish. \nTheir  swift response to the war in Ukraine includes the collection of links and information about our MT models and tools (and other resources for Ukrainian language technology), integrating new parallel data sets, training and re…",
+          "link": "https://www.clarin.eu/news/2022-steven-krauwer-award-achievements-awarded-jorg-tiedemann-helsinki-mt-group",
+          "publishedOn": "2022-09-26T11:07:33.000Z",
+          "wordCount": 495,
+          "title": "2022 Steven Krauwer Award for Achievements Awarded to Jörg Tiedemann & the Helsinki MT Group"
+        },
+        {
+          "id": "5802 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "2022 Steven Krauwer Award for Early Career CLARIN Researcher Awarded to Roberts Darģis\n\n            \nAbout the Winner\n    \n\n              \n              \n              \n                  \n\n  \nRoberts Darģis is a PhD candidate at the University of Latvia (UL) and researcher at Institute of Mathematics and Computer Science of the University of Latvia (IMCS UL), the leading CLARIN-LV partner. \nDarģis’ efforts with regards to CLARIN have been manifold: Not only is Darģis a member of Standing Committee for CLARIN Technical Centres (\n    \nStanding Committee for CLARIN Technical Centres\n\r\nread more\n\n  ), he is also a contributor to CLARIN’s flagship project ParlaMint, the Latvian corpora platform Korpuss.lv, and  involved in the development and integration of Latvian \n    \nNatural Language Proces…",
+          "link": "https://www.clarin.eu/news/2022-steven-krauwer-award-early-career-clarin-researcher-awarded-roberts-dargis",
+          "publishedOn": "2022-09-26T11:04:27.000Z",
+          "wordCount": 459,
+          "title": "2022 Steven Krauwer Award for Early Career CLARIN Researcher Awarded to Roberts Darģis"
+        },
+        {
           "id": "5798 at https://www.clarin.eu",
           "author": "Julia Misersky",
           "description": "B-Centre Re-Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)\n\n            \nWe are pleased to announce that CLARIN:EL, the National Infrastructure for Language Resources & Technologies in Greece, has been successfully assessed as a CLARIN B-centre and has received a B-centre certificate.\n    \n\n              \n              \n              \n                  \n\n  \nCLARIN:EL is part of the National Roadmap for Research Infrastructures of Greece and collects, documents, curates and distributes digital language resources and tools, as well as providing certified online language processing services. CLARIN:EL thereby supports academics, students, language professionals and citizen scientists in the fields of language studies, digital humanities an…",
@@ -8102,24 +8183,6 @@
           "publishedOn": "2022-04-20T12:44:04.000Z",
           "wordCount": 587,
           "title": "Archiving Reproductive Health Wins Open Scholarship Prize"
-        },
-        {
-          "id": "1503 at https://www.dri.ie",
-          "author": "Deborah Thorpe",
-          "description": "Date: \n\n11 May 2022\n\n\nLocation: \n\nOnline\n\n\n\nJoin members of our team online for live assistance with your questions relating to digital preservation and DRI",
-          "link": "https://www.dri.ie/live-assistance-session-dri-members",
-          "publishedOn": "2022-04-14T10:03:47.000Z",
-          "wordCount": 558,
-          "title": "Live Assistance Session for DRI Members"
-        },
-        {
-          "id": "1502 at https://www.dri.ie",
-          "author": "Deborah Thorpe",
-          "description": "Date: \n\n20 May 2022\n\n\nLocation: \n\nMaynooth University Arts and Humanities Institute, first floor (room TBC) and online\n\n\n\nThe event explores innovative, intersectional and challenging approaches to digital archiving and digital projects.",
-          "link": "https://www.dri.ie/archiving-bodies-digital-archives-feminist-and-queer-praxis",
-          "publishedOn": "2022-04-14T08:23:44.000Z",
-          "wordCount": 771,
-          "title": "Archiving Bodies: Digital Archives, Feminist and Queer Praxis"
         }
       ]
     },

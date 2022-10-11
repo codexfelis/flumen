@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-10-10T08:07:02.125Z</updated>
+    <updated>2022-10-11T08:09:12.107Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cultural Heritage Data School: December 2022 (online)]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35480/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35480/"/>
+        <updated>2022-10-10T13:56:53.000Z</updated>
+        <summary type="html"><![CDATA[The Cultural Heritage Data School, led by Cambridge Digital Humanities, is an online intensive application-only teaching programme which aims to bring together participants from the wider Galleries, Libraries, Archives and Museums (GLAM) sector and academia to explore the methods used to create, visualise and analyse digital archives and collections. The curriculum will be structured around]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1646 – Estado astrologico]]></title>
+        <id>http://schoenberginstitute.org/?p=17243</id>
+        <link href="https://schoenberginstitute.org/2022/10/10/manuscript-monday-ms-codex-1646-estado-astrologico/"/>
+        <updated>2022-10-10T13:11:15.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1646, the first part of a four-part poem in octaves on the monarchy of Portugal, with allusions to astrology, alchemy, and cabala. The manuscript contains a copy of the edition printed in Lisbon in 1624 inContinue reading "Manuscript Monday: Ms. Codex 1646 – Estado astrologico"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Data School: June 2023 (Cambridge)]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35489/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35489/"/>
+        <updated>2022-10-10T09:20:42.000Z</updated>
+        <summary type="html"><![CDATA[The Social Data School is an application only intensive teaching programme structured around the life-cycle of a digital research project, covering principles of research design, data collection, cleaning and preparation, methods of analysis and visualisation, and data management and preservation practices. The school welcomes applications from all backgrounds, including journalists, NGOs, activists, trade unionists and]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cultural Heritage Data School: March 2023 (Cambridge)]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35485/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35485/"/>
+        <updated>2022-10-10T09:20:16.000Z</updated>
+        <summary type="html"><![CDATA[The Cultural Heritage Data School, led by Cambridge Digital Humanities, is an online intensive application-only teaching programme which aims to bring together participants from the wider Galleries, Libraries, Archives and Museums (GLAM) sector and academia to explore the methods used to create, visualise and analyse digital archives and collections. The curriculum will be structured around]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Data School: Jan 2023 (online)]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35487/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35487/"/>
+        <updated>2022-10-10T09:19:50.000Z</updated>
+        <summary type="html"><![CDATA[The Social Data School is an application only online intensive teaching programme structured around the life-cycle of a digital research project, covering principles of research design, data collection, cleaning and preparation, methods of analysis and visualisation, and data management and preservation practices. The school welcomes applications from all backgrounds, including journalists, NGOs, activists, trade unionists]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Fernandez Perotti]]></title>
         <id>https://www.cdh.cam.ac.uk/about/people/christian-fernandez-perotti/</id>
@@ -74,6 +124,21 @@
         <summary type="html"><![CDATA[Dr Kanta Dihal is a Senior Research Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge. Her research focuses on science narratives, particularly those that emerge from conflict. She currently manages the project ‘Desirable Digitalisation’, an international research collaboration that investigates intercultural perspectives on AI and fundamental rights and values. She]]></summary>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is PixPlot? (DH Tools) – YouTube]]></title>
+        <id>https://www.youtube.com/watch?v=fCwihTOnQv0</id>
+        <link href="https://openmethods.dariah.eu/2022/10/09/what-is-pixplot-dh-tools-youtube/"/>
+        <updated>2022-10-09T06:59:58.000Z</updated>
+        <summary type="html"><![CDATA[This short video teaser summarizes the main characteristics of PixPlot, a Python-based tool for clustering images and analyzing them from a numerical perspective as well as its pedagogical relevance as far as
+machine learning is concerned.
+
+The paper "Visual Patterns Discovery in Large Databases of Paintings", presented at the Digital Humanities 2016 Conference held in Poland,
+can be considered the foundational text for the development of the PixPlot Project at Yale University.
+[Click ‘Read more’ for the full post!]]]></summary>
+        <author>
+            <name>Author on Source</name>
         </author>
     </entry>
     <entry>
@@ -750,6 +815,90 @@ The post Launch of British Library Newspapers, Part VI: Ireland 1783-1950 appear
         <updated>2022-09-26T11:18:03.000Z</updated>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Steven Krauwer Award for Achievements Awarded to the u4u Team of the Charles Translator for Ukraine]]></title>
+        <id>5804 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/2022-steven-krauwer-award-achievements-awarded-u4u-team-charles-translator-ukraine"/>
+        <updated>2022-09-26T11:13:17.000Z</updated>
+        <summary type="html"><![CDATA[2022 Steven Krauwer Award for Achievements Awarded to the u4u Team of the Charles Translator for Ukraine
+
+            
+ About the Winners
+    
+
+              
+              
+              
+                  
+
+  
+This year’s second Achievement Award went to a team effort of students, researchers and developers at the Institute of Formal and Applied Linguistics (UFAL) of the Charles University's Faculty of Arts (Prague), including Martin Popel (researcher, head of the team), Jindřich Helcl (researcher), Zdeněk Kasner (PhD student), Ondřej Košarko (developer), Tomáš Krabač (developer), Jindřich Libovický (researcher), David Nápravník (undergraduate student), Michal Novák (researcher) and Rudolf Rosa (researcher).
+The u4u team at Charles University has developed a translation tool for Czech an…]]></summary>
+        <author>
+            <name>Julia Misersky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Steven Krauwer Award for Achievements Awarded to Jörg Tiedemann & the Helsinki MT Group]]></title>
+        <id>5803 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/2022-steven-krauwer-award-achievements-awarded-jorg-tiedemann-helsinki-mt-group"/>
+        <updated>2022-09-26T11:07:33.000Z</updated>
+        <summary type="html"><![CDATA[2022 Steven Krauwer Award for Achievements Awarded to Jörg Tiedemann & the Helsinki MT Group
+
+            
+About the Winners
+    
+
+              
+              
+              
+                  
+
+  
+Jörg Tiedemann, Professor of Language Technology in the department of Digital Humanities at the University of Helsinki and the Helsinki 
+    
+Machine Translation
+
+read more
+
+   group.
+In order to support Ukrainians in Finland, Tiedemann and the Helsinki MT team established various initiatives, including  the machine translation (MT) system for Ukrainian to Finnish. 
+Their  swift response to the war in Ukraine includes the collection of links and information about our MT models and tools (and other resources for Ukrainian language technology), integrating new parallel data sets, training and re…]]></summary>
+        <author>
+            <name>Julia Misersky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Steven Krauwer Award for Early Career CLARIN Researcher Awarded to Roberts Darģis]]></title>
+        <id>5802 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/2022-steven-krauwer-award-early-career-clarin-researcher-awarded-roberts-dargis"/>
+        <updated>2022-09-26T11:04:27.000Z</updated>
+        <summary type="html"><![CDATA[2022 Steven Krauwer Award for Early Career CLARIN Researcher Awarded to Roberts Darģis
+
+            
+About the Winner
+    
+
+              
+              
+              
+                  
+
+  
+Roberts Darģis is a PhD candidate at the University of Latvia (UL) and researcher at Institute of Mathematics and Computer Science of the University of Latvia (IMCS UL), the leading CLARIN-LV partner. 
+Darģis’ efforts with regards to CLARIN have been manifold: Not only is Darģis a member of Standing Committee for CLARIN Technical Centres (
+    
+Standing Committee for CLARIN Technical Centres
+
+read more
+
+  ), he is also a contributor to CLARIN’s flagship project ParlaMint, the Latvian corpora platform Korpuss.lv, and  involved in the development and integration of Latvian 
+    
+Natural Language Proces…]]></summary>
+        <author>
+            <name>Julia Misersky</name>
         </author>
     </entry>
     <entry>
@@ -10651,48 +10800,6 @@ Kennziffer 16/2022…]]></summary>
         <summary type="html"><![CDATA[By Samantha Rogers, Department of History and Mellon Graduate Student Fellow   Digital humanities are a dynamic and evolving field that, in my mind, serves two crucial functions. First, they offer methods of data gathering, analysis, and visualization that enable scholars to engage with new research questions and present their work in new ways. Second,...]]></summary>
         <author>
             <name>romeroda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Assistance Session for DRI Members]]></title>
-        <id>1503 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/live-assistance-session-dri-members"/>
-        <updated>2022-04-14T10:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-11 May 2022
-
-
-Location: 
-
-Online
-
-
-
-Join members of our team online for live assistance with your questions relating to digital preservation and DRI]]></summary>
-        <author>
-            <name>Deborah Thorpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archiving Bodies: Digital Archives, Feminist and Queer Praxis]]></title>
-        <id>1502 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/archiving-bodies-digital-archives-feminist-and-queer-praxis"/>
-        <updated>2022-04-14T08:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-20 May 2022
-
-
-Location: 
-
-Maynooth University Arts and Humanities Institute, first floor (room TBC) and online
-
-
-
-The event explores innovative, intersectional and challenging approaches to digital archiving and digital projects.]]></summary>
-        <author>
-            <name>Deborah Thorpe</name>
         </author>
     </entry>
     <entry>
