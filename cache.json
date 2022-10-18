@@ -489,17 +489,7 @@
       "title": "KCL Digital Humanities",
       "feedUrl": "https://blogs.kcl.ac.uk/ddh/feed",
       "siteUrl": "https://blogs.kcl.ac.uk/ddh",
-      "articles": [
-        {
-          "id": "https://blogs.kcl.ac.uk/ddh/?p=3273",
-          "author": "Jonathan Gray",
-          "description": "Bernard Geoghegan from the Department of Digital Humanities and  Lisa Han from Arizona State University are co-organising a symposium on “Ecologies and Infrastructures: Cultural Techniques of Environmental Management”, which will take place on 22nd April 2022, which is Earth Day 2022. The event is open to the public and free of charge. Further details and … \nContinue reading \"Symposium on “Ecologies and Infrastructures: Cultural Techniques of Environmental Management” with Arizona State University, 22nd April 2022\"",
-          "link": "https://blogs.kcl.ac.uk/ddh/2022/04/21/ecologies-and-infrastructures/",
-          "publishedOn": "2022-04-21T09:19:33.000Z",
-          "wordCount": 405,
-          "title": "Symposium on “Ecologies and Infrastructures: Cultural Techniques of Environmental Management” with Arizona State University, 22nd April 2022"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CAA International",
@@ -1570,15 +1560,6 @@
           "publishedOn": "2022-04-22T13:33:19.000Z",
           "wordCount": 467,
           "title": "Formation numérique: Isaac Pante est interviewé par Heidi.news"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=10381",
-          "author": "Celia Luterbacher",
-          "description": "A new paper recently submitted to the preprint archive arXive addresses the efficacy of Twitter’s newest API for Academic Research. The investigation detailed by the preprint, entitled “This Sample seems to be good enough! Assessing Coverage and Temporal Reliability of Twitter’s Academic API”, could be interesting for DH researchers using social media data in their […]\nThe post Study: Assessing Coverage and Temporal Reliability of Twitter’s Academic API appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/04/21/study-assessing-coverage-and-temporal-reliability-of-twitters-academic-api/",
-          "publishedOn": "2022-04-21T11:52:57.000Z",
-          "wordCount": 748,
-          "title": "Study: Assessing Coverage and Temporal Reliability of Twitter’s Academic API"
         }
       ]
     },
@@ -1798,6 +1779,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/862",
+          "author": "406",
+          "description": "Das Deutsche Zentrum für Luft- und Raumfahrt e. V. (DLR) (Projektträger | Gesellschaft, Innovation, Technologie | Geisteswissenschaften und Kulturelles Erbe) möchte auf eine…",
+          "link": "https://dig-hum.de/aktuelles/survey-zu-stakeholder-bedarfen-european-collaborative-cloud-for-cultural-heritage-eccch",
+          "publishedOn": "2022-10-18T08:06:31.667Z",
+          "wordCount": 789,
+          "title": "Survey zu Stakeholder Bedarfen - European Collaborative Cloud for Cultural Heritage (ECCCH)"
+        },
         {
           "id": "node/859",
           "author": "406",
@@ -2166,15 +2156,6 @@
           "publishedOn": "2022-04-24T08:14:37.000Z",
           "wordCount": 766,
           "title": "Day of DH 2022 (April 28) Save the date!"
-        },
-        {
-          "id": "node/807",
-          "author": "406",
-          "description": "Die Website zur DHd-Jahreskonferenz 2019 konnte mit Hilfe der lokalen Konferenzorganisator*innen in (teil-)statischer Form auf die technische Infrastruktur der Alliance of Digital…",
-          "link": "https://dig-hum.de/aktuelles/umzug-dhd2019-website",
-          "publishedOn": "2022-04-21T10:34:01.000Z",
-          "wordCount": 723,
-          "title": "Umzug DHd2019-Website"
         }
       ]
     },
@@ -2275,15 +2256,6 @@
           "publishedOn": "2022-05-30T18:43:47.000Z",
           "wordCount": 1503,
           "title": "Tung-Hui Hu – Digital Lethargy: Dispatches from an Age of Disconnection"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=2280",
-          "author": "Kayla Hilstob",
-          "description": "This post was written by Prem Sylvester, an MA student working on the DDI’s Beyond Verification: Authenticity and the Spread of Mis/Disinformation project. To whom or to what do we …\n  Dylan Mulvin – Proxies: The Cultural Work of Standing In Read More »\nDylan Mulvin – Proxies: The Cultural Work of Standing In first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/dylan-mulvin-proxies-the-cultural-work-of-standing-in/?utm_source=rss&utm_medium=rss&utm_campaign=dylan-mulvin-proxies-the-cultural-work-of-standing-in",
-          "publishedOn": "2022-04-20T20:15:32.000Z",
-          "wordCount": 1542,
-          "title": "Dylan Mulvin – Proxies: The Cultural Work of Standing In"
         }
       ]
     },
@@ -3034,6 +3006,15 @@
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
         {
+          "id": "https://livingwithmachines.ac.uk/?p=2771",
+          "author": "Léllé Demertzi",
+          "description": "We’ve asked each member of the Living with Machines team to introduce themselves in their initial blog post.",
+          "link": "https://livingwithmachines.ac.uk/introducing-lelle-demertzi/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-lelle-demertzi",
+          "publishedOn": "2022-10-17T10:14:00.000Z",
+          "wordCount": 769,
+          "title": "Introducing…  Léllé Demertzi"
+        },
+        {
           "id": "https://livingwithmachines.ac.uk/?p=2767",
           "author": "Léllé Demertzi",
           "description": "We’ve asked each member of the Living with Machines team to introduce themselves in their initial blog post. What’s your name? Guy Solomon. What’s your background? I completed my undergraduate degree in History at the University of Oxford, where I developed a general interest in economic history (and the Industrial Revolution in particular). After a […]",
@@ -3118,15 +3099,6 @@
             "length": "58870803",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=2334",
-          "author": "Mia Ridge",
-          "description": "Dr Mia Ridge writes… I’ve meant to write this post for a long time, but as we’re looking to (finally) hold an in-person poster session again next month, it’s a good time to finish it and hit ‘post’! Back in 2019 (when holding an in-person event seemed like a completely ordinary thing to do) we […]",
-          "link": "https://livingwithmachines.ac.uk/on-holding-a-poster-session-for-colleagues/?utm_source=rss&utm_medium=rss&utm_campaign=on-holding-a-poster-session-for-colleagues",
-          "publishedOn": "2022-04-21T17:14:42.000Z",
-          "wordCount": 879,
-          "title": "On holding a poster session for colleagues"
         }
       ]
     },
@@ -3352,6 +3324,42 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1218 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Lisa  Nakamura\n\n\nMonday, October 17, 2022 - 6:00pm\n\n\n\nKely Wtiters House Arts Café\n\n\n\nAuthor of Racist Zoombombing, Technopercarious, and Digitizing Race: Visual Cultures of the Internet, Dr. Lisa Nakamura is a preeminent scholar of digital humanities and race and gender studies. As a researcher and scholar of Asian American Studies and digital media theory, Dr. Nakamura will speak about her work on race and gender in online spaces in conversation with Dr. Whitney Trettien and Dr. Amanda Licastro. The conversation will focus on Dr. Nakamura’s work on digital literary studies and representation in Extended Reality. \n  Lisa Nakamura is the Gwendolyn Calvert Baker Collegiate Professor of American Culture at the University of Michigan. She is the author of several books on race, gender, and the Internet. She has studied identity tourism in video games and chatrooms, toxic embodiment in virtual reality, and the neglected contributions of women of color to the Internet and digital culture. She is the founding Director of the Digital Studies Institute at the University of Michigan and the P.I. for the DISCO (Digital Inquiry, Speculation, Collaboration, and Optimism) Network, a Mellon-Foundation funded research group focusing on race, digital technology, and disability. The DISCO Network's new book manuscript, Digital Optimism, will be out sometime next year. Most of her writing is available on her website at lisanakamura.net.\n\n\nSubtitle: \n\nCo-sponsored by Creative Ventures, Kelly Writers House, and Penn Libraries | Hosted by Whitney Trettien and Amanda Licastro\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/conversation-lisa-nakamura",
+          "publishedOn": "2022-10-17T17:27:40.000Z",
+          "wordCount": 455,
+          "title": "A CONVERSATION WITH LISA NAKAMURA"
+        },
+        {
+          "id": "1217 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Gwendolyn Calvert Baker Collegiate Professor of American Culture at the University of Michigan",
+          "link": "https://pricelab.sas.upenn.edu/speakers/nakamura-lisa",
+          "publishedOn": "2022-10-17T17:23:57.000Z",
+          "wordCount": 204,
+          "title": "Lisa  Nakamura"
+        },
+        {
+          "id": "1216 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Michael  Szalay\n\n\nWednesday, October 19, 2022 - 12:00pm\n\n\n\n330 Fisher-Bennett Hall \n\n\n\nThis talk will read Ben Stiller’s Severance (2021-), and Apple TV+ programming generally in light of Apple’s unique position in the streaming ecosystem. A service provider as well as a device maker, Apple brands its media productions as exactingly as it does its phones, tablets, computers, and watches. As a result, its content is branded in ways that Netflix and HBO Max’s, for example, is not; indeed, Apple’s still relatively small stable of film and TV content expresses the firm’s manufacturing interests in ways that even Sony’s content, say, does not. This talk establishes the coherence of Apple’s TV branding and asks how it should matter to a materialist critical practice. Specifically, it asks if the very coherence of Apple’s trans-corporate branding makes it possible to glimpse in Apple content the otherwise hidden, outsourced, upstream production processes upon which the company still depends.\nMichael Szalay is Professor of English at the University of California, Irvine. He teaches 20th- and 21st-century fiction, television, and film, as well as courses on World-Systems Theory and the origins of capitalism. His first two books (Hip Figures: A Literary History of the Democratic Party and New Deal Modernism: American Literature and the Invention of the Welfare State) examine the relationship between literature, liberal governance, and economic crisis. His forthcoming book, Second Lives: Black-Market Melodramas and the Reinvention of Television (Chicago, 2023), defines a new television genre—the black-market melodrama—that has driven the ascent of TV as a cultural force over the last two decades, and that continues to mediate the ongoing effects of deindustrialization on a changing U.S. middle class.\n \n\n\nSubtitle: \n\nOvercoming Severance, from Lumon to Foxconn\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/cims-colloquium-michael-szalay",
+          "publishedOn": "2022-10-17T17:22:48.000Z",
+          "wordCount": 490,
+          "title": "CIMS Colloquium: Michael Szalay"
+        },
+        {
+          "id": "1215 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Professor of English at the University of California, Irvine",
+          "link": "https://pricelab.sas.upenn.edu/speakers/szalay-michael",
+          "publishedOn": "2022-10-17T17:22:34.000Z",
+          "wordCount": 200,
+          "title": "Michael  Szalay"
+        },
         {
           "id": "1214 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
@@ -4191,6 +4199,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17248",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1648, a statement before a representative of the Inquisition recanting preaching and belief that the Toledo Statute, which concerned purity of bloodlines and prohibited the descendants of Jews and Muslims who converted to Catholicism from receivingContinue reading \"Manuscript Monday: Ms. Codex 1648 – Del esta[tu]to Toledano, i çierta apologia (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2022/10/17/manuscript-monday-ms-codex-1648-del-estatuto-toledano-i-cierta-apologia-video-orientation/",
+          "publishedOn": "2022-10-17T13:18:10.000Z",
+          "wordCount": 1314,
+          "title": "Manuscript Monday: Ms. Codex 1648 – Del esta[tu]to Toledano, i çierta apologia (Video Orientation)"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17243",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1646, the first part of a four-part poem in octaves on the monarchy of Portugal, with allusions to astrology, alchemy, and cabala. The manuscript contains a copy of the edition printed in Lisbon in 1624 inContinue reading \"Manuscript Monday: Ms. Codex 1646 – Estado astrologico\"",
@@ -4440,6 +4457,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1434",
+          "author": "Laura Mesotten",
+          "description": "This event is only open to KU Leuven researchers and staff. The Artes Research team and the ABAP council will kick off the new academic year with a special “How do you do (it)?” (HDYDI) session dedicated to research data…\n\nContinue reading “Training: How do you do it? A behind-the-scenes look at research workflows (KU Leuven)”…",
+          "link": "https://scholarlytales.hcommons.org/2022/10/18/training-how-do-you-do-it-a-behind-the-scenes-look-at-research-workflows-ku-leuven/",
+          "publishedOn": "2022-10-18T07:11:17.000Z",
+          "wordCount": 1963,
+          "title": "Training: How do you do it? A behind-the-scenes look at research workflows (KU Leuven)"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1369",
           "author": "Rebecca Burke",
@@ -5840,6 +5866,33 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/alex-gushurst-moore/",
+          "author": null,
+          "description": "Alexandra Gushurst-Moore is the Research & Impact Coordinator of the Fitzwilliam Museum and Coordinator of Cambridge Visual Culture. Her doctoral thesis, entitled “The Making of Modern Fantasy in the Visual Arts of England, ca. 1850–1920”, was supervised by Elizabeth Prettejohn at the University of York. She holds an MA (Hons) from the University of Edinburgh",
+          "link": "https://www.cdh.cam.ac.uk/about/people/alex-gushurst-moore/",
+          "publishedOn": "2022-10-17T10:38:38.000Z",
+          "wordCount": 376,
+          "title": "Alex Gushurst-Moore"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/tom-kissock/",
+          "author": null,
+          "description": "Tom Kissock has fifteen years’ experience as a Director, Executive Producer, and Livestream expert for the BBC, YouTube, NBC, and Cisco; coupled with seven years’ experience researching video witnessing and human rights abuses. In 2020 he received his MSc in Globalization and Latin American Development from UCL where his research used Video Data Analysis as",
+          "link": "https://www.cdh.cam.ac.uk/about/people/tom-kissock/",
+          "publishedOn": "2022-10-17T10:15:45.000Z",
+          "wordCount": 496,
+          "title": "Tom Kissock"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/leah-brainerd/",
+          "author": null,
+          "description": "Leah Brainerd is a PhD student in the Department of Archaeology with the ERC Encounter Project and is supervised by Enrico Crema, University of Cambridge, and Akihiro Yoshida, University of Kagoshima. She holds an MSc in Computational Archaeology from University College London and a BA from McGill University. Leah has experience in GIS, statistics, and",
+          "link": "https://www.cdh.cam.ac.uk/about/people/leah-brainerd/",
+          "publishedOn": "2022-10-17T10:03:35.000Z",
+          "wordCount": 345,
+          "title": "Leah Brainerd"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/35545/",
           "author": null,
@@ -7925,6 +7978,15 @@
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
         {
+          "id": "1567 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "The Digital Repository of Ireland (DRI) is delighted to announce a new resource ‘Literary Dublin in the Digital Archive’. The booklet features literary collections held in DRI and other digital archives.",
+          "link": "https://www.dri.ie/new-resource-literary-dublin-digital-archive-booklet",
+          "publishedOn": "2022-10-17T08:20:33.000Z",
+          "wordCount": 995,
+          "title": "New Resource: Literary Dublin in the Digital Archive booklet"
+        },
+        {
           "id": "1566 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
           "description": "The Digital Repository of Ireland (DRI) is delighted to announce that Fingal County Libraries has published its collection ‘Fingal and the Fight for Irish Freedom’.",
@@ -8472,6 +8534,24 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=12574",
+          "author": "Melanie Cheung",
+          "description": "RLUK is pleased to announce that William Nixon, currently Assistant Director (Academic Engagement and Digital Library) at the University of Glasgow Library, will be joining RLUK as its new Deputy Executive Director. William brings to the role a deep understanding of the challenges and opportunities facing research libraries, as well as a long-standing commitment to [...]\nThe post New Deputy Executive Director at RLUK appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/new-rluk-deputy-executive-director/",
+          "publishedOn": "2022-10-17T11:57:09.000Z",
+          "wordCount": 1208,
+          "title": "New Deputy Executive Director at RLUK"
+        },
+        {
+          "id": "https://www.rluk.ac.uk/?p=12572",
+          "author": "Melanie Cheung",
+          "description": "RLUK and other library and HE organisations have called on Wiley to reinstate permanently over 1350 ebooks it has recently cut from the Academic Complete platform. We encourage Wiley and other publishers to speak to consortia and to offer affordable and flexible models as outlined that will secure access to key content and ensure [...]\nThe post RLUK signs statement on Wiley’s withdrawal of access to ebook titles appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk-signs-statement-on-wileys-withdrawal-of-access-to-ebook-titles/",
+          "publishedOn": "2022-10-17T11:36:04.000Z",
+          "wordCount": 1162,
+          "title": "RLUK signs statement on Wiley’s withdrawal of access to ebook titles"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=12553",
           "author": "Melanie Cheung",
