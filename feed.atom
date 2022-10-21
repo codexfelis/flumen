@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-10-20T08:05:25.241Z</updated>
+    <updated>2022-10-21T08:05:19.341Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A New ADHO Year, A Renewing ADHO]]></title>
+        <id>https://adho.org/?p=1678</id>
+        <link href="https://adho.org/2022/10/20/a-new-adho-year-a-renewing-adho/"/>
+        <updated>2022-10-20T14:11:27.000Z</updated>
+        <summary type="html"><![CDATA[I’m honoured to be writing this as the new president of ADHO’s Constituent Organisations Board, and inspired to be following in the footsteps of Isabel Galina, Elisabeth Burr, and Matt Gold in this role.  I feel extremely fortunate about the timing. This is the year when ADHO will finish the massive governance overhaul that has… Read More »A New ADHO Year, A Renewing ADHO]]></summary>
+        <author>
+            <name>hannah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Recap on The CLARIN Café on Online and Desktop Tools for Querying a Language Corpus]]></title>
+        <id>5812 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/recap-clarin-cafe-online-and-desktop-tools-querying-language-corpus"/>
+        <updated>2022-10-20T13:31:19.000Z</updated>
+        <summary type="html"><![CDATA[A Recap on The CLARIN Café on Online and Desktop Tools for Querying a Language Corpus
+
+            
+
+Text and corpus analysis lie at the heart of digital scholarship in the humanities and social sciences, and a wide range of software tools are available in this domain. These software tools represent prime examples of the ways in which language technologies can support research across a range of disciplines, and they are therefore central to CLARIN’s mission. CLARIN is gathering information and publishing a Resource Family to provide users, both expert and novice, with a free online guide to the discovery and use of these vital tools. The CLARIN Café in September 2022 presented some of the key applications currently in use among research communities, and invited feedback on the Resource Fam…]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Présentation de l’application web «Lusitalia»]]></title>
+        <id>4241 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/presentation-de-lapplication-web-lusitalia"/>
+        <updated>2022-10-20T11:26:37.000Z</updated>
+        <summary type="html"><![CDATA[L’application Lusitalia permet de parcourir la Petite Italie, Smartphone à la main, et d’explorer ainsi les histoires de lieux et de vies, révélant les changements de rythme, de temps et d’espace du quartier au fil des décennies.  
+Né à la fin du XIXème siècle avec les débuts de la sidérurgie, le quartier Italie était, contrairement à son nom, certes occupé par des immigrés italiens, mais aussi par de nombreux Luxembourgeois, des Allemands etc. Du point de vue professionnel, il s'agissait avant tout d'un quartier où vivaient des ouvriers mineurs avec leurs familles. Après la Seconde Guerre mondiale, les Italiens représentent la majorité des habitants. À partir des années 1970, ces occupants l’ont progressivement abandonné provoquant la détérioration du bâti. Dès lors la modicité des loyers…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RaDiHum20 spricht mit Simon Meier-Vieracker aka @fussballinguist]]></title>
         <id>https://radihum20.de/?p=598</id>
@@ -11452,30 +11487,6 @@ The post Conference: Humanism and Digitization appeared first on LiLa: Linking L
 The post How to compete with robots appeared first on dhCenter.]]></summary>
         <author>
             <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safe the Date: Day of DH 2022 (28.04.22)]]></title>
-        <id>node/808</id>
-        <link href="https://dig-hum.de/aktuelles/safe-the-date-day-of-dh-2022-280422"/>
-        <updated>2022-04-24T13:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Am Donnerstag (28. April 2022) findet der Day of DH 2022 statt.
-Das Thema des DH-Tages lautet „Diversity in DH“.
-Wir vom DHd-Verband würden uns sehr freuen, wenn sich viele aus…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day of DH 2022 (April 28) Save the date!]]></title>
-        <id>node/808</id>
-        <link href="https://dig-hum.de/aktuelles/day-of-dh-2022-april-28-save-the-date"/>
-        <updated>2022-04-24T08:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Am Donnerstag (28. April 2022) findet der Day of DH 2022 statt.
-Das Thema des DH-Tages lautet „Diversity in DH“.
-Wir vom DHd-Verband würden uns sehr freuen, wenn sich viele von…]]></summary>
-        <author>
-            <name>406</name>
         </author>
     </entry>
     <entry>
