@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-10-21T08:05:19.341Z</updated>
+    <updated>2022-10-22T08:04:26.772Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[READ Workbench (Part 1): An Introduction to a Text and Image Annotation Ecosystem]]></title>
+        <id>http://digitalorientalist.com/?p=8940</id>
+        <link href="https://digitalorientalist.com/2022/10/21/read-workbench-part-1-an-introduction-to-a-text-image-annotation-ecosystem/"/>
+        <updated>2022-10-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ‘Research Environment for Ancient Documents’ (or ‘READ‘) is an ecosystem of open-source tools and platforms for the creation of …]]></summary>
+        <author>
+            <name>Christopher L. Diamond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Virtual Coffee Morning: November]]></title>
+        <id>1571 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-virtual-coffee-morning-november"/>
+        <updated>2022-10-21T10:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Date: 
+
+30 Nov 2022
+
+
+Location: 
+
+Zoom
+
+
+
+November’s virtual coffee morning will take place on Wednesday 30 of November at 10.00 am for half an hour.  The coffee morning will be hosted by Natalie Harrower, Director of DRI.]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video Data Analysis for social science and humanities]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35587/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35587/"/>
+        <updated>2022-10-21T08:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Tom Kissock (CDH Methods Fellow) This Methods Workshop will offer Video Data Analysis for Social Science and Humanities students. It’s a relatively new, broad, and innovative multi-disciplinary methodology that helps students understand how video fits into modern research, both inside and outside academia. For example, Cisco has estimated that video will make up 80% of]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New ADHO Year, A Renewing ADHO]]></title>
         <id>https://adho.org/?p=1678</id>
@@ -11466,27 +11507,6 @@ The post Conference: Humanism and Digitization appeared first on LiLa: Linking L
         <summary type="html"><![CDATA[Micro.blog offers another alternative for people wanting more control over their socials. I’m posting this from my Micro account – it’ll be cross-posted to Mastodon & Twitter, saved to GitHub, syndicated via RSS, and accessible from updates.timsherratt.org]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities and Teaching Technical Skills to Novice Learners with The Carpentries]]></title>
-        <id>https://dhn.utoronto.ca/?p=4955</id>
-        <link href="https://dhn.utoronto.ca/digital-humanities-and-teaching-technical-skills-to-novice-learners-with-the-carpentries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=digital-humanities-and-teaching-technical-skills-to-novice-learners-with-the-carpentries"/>
-        <updated>2022-04-25T19:05:12.000Z</updated>
-        <summary type="html"><![CDATA[by Elizabeth Parke, Senior Research Associate Collaborative Digital Research, OVPR at UTM and the Critical Digital Humanities Initiative. It was in 2016, as the newly hired University of Toronto, Digital […]]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to compete with robots]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=10397</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/04/25/how-to-compete-with-robots/"/>
-        <updated>2022-04-25T09:48:14.000Z</updated>
-        <summary type="html"><![CDATA[Swiss roboticists and economists from EPFL and University of Lausanne developed a method for estimating the probability of jobs being automated by future intelligent robots and suggesting career transitions with lower risks and minimal retraining effort. When it comes to the future of intelligent robots, the first question people ask is often: how many jobs […]
-The post How to compete with robots appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
         </author>
     </entry>
     <entry>
