@@ -159,6 +159,15 @@
       "siteUrl": "https://www.digitisation.eu",
       "articles": [
         {
+          "id": "https://www.digitisation.eu/?post_type=tribe_events&p=17317",
+          "author": "Impact Centre of Competence",
+          "description": "The webinar will bring together theory and practice on how to make available GLAM digital collections as datasets for publication ... \nRead More\nThe post Towards implementing Collections as Data in GLAM institutions appeared first on IMPACT Centre of Competence.",
+          "link": "https://www.digitisation.eu/event/towards-implementing-collections-as-data-in-glam-institutions/",
+          "publishedOn": "2022-10-25T13:30:00.000Z",
+          "wordCount": 552,
+          "title": "Towards implementing Collections as Data in GLAM institutions"
+        },
+        {
           "id": "https://www.digitisation.eu/event/tpdl-2022/",
           "author": "Impact Centre of Competence",
           "description": "The International Conference on Theory and Practice of Digital Libraries (TPDL) is a yearly date for researchers on Digital Libraries ... \nRead More\nThe post TPDL 2022 appeared first on IMPACT Centre of Competence.",
@@ -1506,24 +1515,6 @@
           "publishedOn": "2022-05-02T14:19:09.000Z",
           "wordCount": 494,
           "title": "Job: Project scientist, Austrian Center for Digital Humanities and Cultural Heritage"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=10506",
-          "author": "Heloise schibler",
-          "description": "La revue Études digitales défend une approche herméneutique, critique, rhétorique et poétique des technologies. Elle se veut résolument transdisciplinaire. Son dernier numéro est consacré à la visualisation des données. Deux membres du dhCenter ont publié un papier dans  “Cartographie et visualisation : Regards d’épistémologues et de concepteurs”. Beaude, Boris, “Voir et prévoir le social au […]\nThe post Études digitales 2020 – 2 n°10  : Cartographie et visualisation appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/04/28/etudes-digitales-2020-2-n10-cartographie-et-visualisation/",
-          "publishedOn": "2022-04-28T15:52:38.000Z",
-          "wordCount": 473,
-          "title": "Études digitales 2020 – 2 n°10  : Cartographie et visualisation"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=10482",
-          "author": "Celia Luterbacher",
-          "description": "EPFL startup School Rebound has developed a revolutionary application that uses artificial intelligence to help students improve their handwriting in a fun and personalized way. Nearly 15,000 students in Switzerland, France, and Italy are already putting it to work. Handwriting problems affect nearly 25% of children aged 5 to 12. These problems, if not managed […]\nThe post Innovative application helps students learn to write appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/04/28/innovative-application-helps-students-learn-to-write/",
-          "publishedOn": "2022-04-28T10:00:47.000Z",
-          "wordCount": 1217,
-          "title": "Innovative application helps students learn to write"
         }
       ]
     },
@@ -3124,15 +3115,6 @@
           "publishedOn": "2022-05-07T08:16:19.800Z",
           "wordCount": 6428,
           "title": "Place-Making Narrative Data: Management Issues in the Context of Open Science and Data Curation in France"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.76",
-          "author": null,
-          "description": "Using the reparation movement for Japanese colonial and wartime atrocities as a case study, this paper explores the applicability of graph database management systems to network analysis research and teaching in the field of digital humanities. Since the late 1980s, Asian victims of Japanese colonial and wartime atrocities (such as the infamous “comfort women” system) began to sue the Japanese government and corporations with the help of local and Japanese lawyers and activists. This paper uses the plethora of publicly available court materials produced by the movement to study social networks in this transnational historical justice movement and illustrate how graph database management systems can upgrade traditional network analysis methodologies in digital humanities. By inputting the data about lawsuits and lawyers in the movement into graph database applications like Neo4j and GraphXR, the paper demonstrates the advantages of managing network data in graph database structure in terms of scalability, modifiability, intuitive visibility, query efficiency, and analysis potential over relational database structure, which is the mainstream in network analysis research.\n Published on 2022-04-25 13:37:52",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.76",
-          "publishedOn": "2022-04-26T08:16:18.068Z",
-          "wordCount": 7245,
-          "title": "Networking for Historical Justice: The Application of Graph Database Management Systems to Network Analysis Projects and the Case Study of the Reparation Movement for Japanese Colonial and Wartime Atrocities"
         }
       ]
     },
@@ -4040,6 +4022,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=17253",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1065, a manuscript Bible with most of the prologues typical of a Paris Bible, but with the Interpretationes Hebraicorum nominum following Psalms and with punctuation suggesting English origin. Lacking the first leaf of the New TestamentContinue reading \"Manuscript Monday: Ms. Codex 1065 – Bible (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2022/10/24/manuscript-monday-ms-codex-1065-bible-video-orientation/",
+          "publishedOn": "2022-10-24T13:22:29.000Z",
+          "wordCount": 1324,
+          "title": "Manuscript Monday: Ms. Codex 1065 – Bible (Video Orientation)"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=17248",
           "author": "simsmss",
@@ -5173,96 +5164,6 @@
           "publishedOn": "2022-04-29T06:59:38.000Z",
           "wordCount": 49,
           "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/and-with-that.html",
-          "author": null,
-          "description": "And with that I think I’ll call it quits for #DayofDH2022 in this part of the world. Time to go check the backyard for pademelons before turning in. Hope all the DH-y types around the world have an interesting, inspiring & productive day!",
-          "link": "https://updates.timsherratt.org/2022/04/28/and-with-that.html",
-          "publishedOn": "2022-04-28T12:57:40.000Z",
-          "wordCount": 59,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/ok-ive-created.html",
-          "author": null,
-          "description": "Ok, I’ve created a new #GLAMWorkbench meta issue to try and bring together all the things I’m trying to do to improve & automate the code & documentation. This should help me keep track of things… github.com/GLAM-Work… #DayofDH2022",
-          "link": "https://updates.timsherratt.org/2022/04/28/ok-ive-created.html",
-          "publishedOn": "2022-04-28T12:49:31.000Z",
-          "wordCount": 54,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/a-couple-of.html",
-          "author": null,
-          "description": "A couple of hours of #DayofDH2022 left – feeling a bit uninspired, so I’m going to do some pruning & reorganising of the #GLAMWorkbench issues list: github.com/GLAM-Work…",
-          "link": "https://updates.timsherratt.org/2022/04/28/a-couple-of.html",
-          "publishedOn": "2022-04-28T11:33:41.000Z",
-          "wordCount": 43,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/hmm-didnt-get.html",
-          "author": null,
-          "description": "Hmm, didn’t get any writing done and now it’s time to cook dinner for the family. Bit of a frustrating day really. Might do a bit of coding later. #DayofDH2022",
-          "link": "https://updates.timsherratt.org/2022/04/28/hmm-didnt-get.html",
-          "publishedOn": "2022-04-28T07:58:57.000Z",
-          "wordCount": 46,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/workspace-photo-for.html",
-          "author": null,
-          "description": "Workspace photo for #DayofDH2022. Old iMac for the socials & meetings. Newish laptop running Pop!_Os for dev work. To my left is a big window facing the backyard through which I can see visiting rosellas (Green & Eastern).",
-          "link": "https://updates.timsherratt.org/2022/04/28/workspace-photo-for.html",
-          "publishedOn": "2022-04-28T06:26:46.000Z",
-          "wordCount": 54,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/now-after-coding.html",
-          "author": null,
-          "description": "Now after coding, bug chasing, meeting, & prototype demo, I have to try and get into a headspace to do some writing about government surveillance records in the National Archives of Australia. But first some late lunch! #DayofDH2022",
-          "link": "https://updates.timsherratt.org/2022/04/28/now-after-coding.html",
-          "publishedOn": "2022-04-28T05:23:10.000Z",
-          "wordCount": 54,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/meeting-and-demo.html",
-          "author": null,
-          "description": "Meeting and demo done. Love working with ANU Archives, & really excited about the latest version of the Sydney Stock Exchange database. Still WIP but you can play with the prototype here: sydney-stock-exchange-xqtkxtd5za-ts.a.run.app/stock_exc… #DayofDH2022",
-          "link": "https://updates.timsherratt.org/2022/04/28/meeting-and-demo.html",
-          "publishedOn": "2022-04-28T05:19:38.000Z",
-          "wordCount": 50,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/ive-hit-a.html",
-          "author": null,
-          "description": "I’ve hit a bit of a brick wall with my Datasette deployment. I’m probably missing something obvious. Suggestions welcome… github.com/simonw/da… #DayofDH2022",
-          "link": "https://updates.timsherratt.org/2022/04/28/ive-hit-a.html",
-          "publishedOn": "2022-04-28T03:20:29.000Z",
-          "wordCount": 37,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/and-cloudstor-is.html",
-          "author": null,
-          "description": "And Cloudstor is down for maintenance. I suppose I wan’t be doing that demo then… #DayofDH2022",
-          "link": "https://updates.timsherratt.org/2022/04/28/and-cloudstor-is.html",
-          "publishedOn": "2022-04-28T02:54:14.000Z",
-          "wordCount": 32,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/28/perhaps-appropriately-for.html",
-          "author": null,
-          "description": "Perhaps appropriately for #DayofDH2022, I’ve spent most of the morning trying to hunt down a bug. Everything works perfectly running locally, but fails mysteriously when deployed to the cloud…",
-          "link": "https://updates.timsherratt.org/2022/04/28/perhaps-appropriately-for.html",
-          "publishedOn": "2022-04-28T02:01:33.000Z",
-          "wordCount": 45,
-          "title": "Untitled"
         }
       ]
     },
@@ -5332,6 +5233,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4247 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Un petit pays comme le Luxembourg qui veut développer une recherche de pointe à rayonnement international se voulant en même temps au service du pays se trouve confronté à un problème difficile en ce qui concerne son modèle de gouvernance: d’un côté les moyens forcément limités si on les regarde à l’échelle internationale investis en recherche obligent à faire des choix et à définir des priorités ; d’un autre côté on sait que les percées scientifiques se laissent très difficilement prédire et se font dans des environnements qui laissent une place importante à la prise de risques et aux idées dont l’impact est initialement très incertain. Une discussion sera faite dans quelle mesure la stratégie nationale de la recherche et de l’innovation essaye de trouver des réponses à ce champ de tension.\n \nProgramme du mardi 15 novembre 2022:\nvers 18h30 | Accueil des invités\nIntroduction par le Prof. Dr Rolf Tarrach | Président des Amis de l’Université du Luxembourg\nPrésentation par le Dr Romain Martin | Premier Conseiller de Gouvernement | MESR\nCocktail\nLieu: Maison Schuman | 4, rue Jules Wilhelm | L-2728 Luxembourg\nManifestation ouverte au public, inscrivez-vous sur https://amis-uni.lu/2022/10/18/recherche-au-luxembourg/\n15 November 2022\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/quel-modele-de-gouvernance-pour-la-recherche-au-luxembourg",
+          "publishedOn": "2022-10-24T09:00:50.000Z",
+          "wordCount": 410,
+          "title": "Quel modèle de gouvernance pour la recherche au Luxembourg?"
+        },
         {
           "id": "4245 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -7606,6 +7516,15 @@
           "title": "A Recap on The CLARIN Café on Online and Desktop Tools for Querying a Language Corpus"
         },
         {
+          "id": "5807 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "New Impact Story: Re-evaluating Child Language Assessment Measures for Research and Clinical Use\n\n            \n\n  \n  \n            \n    \n\n              \n              \n                  \n\n  \nDr Nan Bernstein Ratner talks about her latest project CLASP (Child Language ASessment Project), which makes use of datasets at the CLARIN Knowledge Centre TalkBank. The project hopes to provide a stronger evidence base for child language assessment, which will improve future research, as well as support clinicians in mapping out the most effective treatments for children with language disorders.\nBernstein Ratner also discusses how spoken language data is increasingly being used by the automatic speech recognition (ASR) industry in order to train voice assistants to recognise speech by people who stutter. \nRead the full impact story here. \n\n      Karina Berger\n 5 October 2022",
+          "link": "https://www.clarin.eu/blog/new-impact-story-re-evaluating-child-language-assessment-measures-research-and-clinical-use",
+          "publishedOn": "2022-10-05T07:59:29.000Z",
+          "wordCount": 267,
+          "title": "New Impact Story: Re-evaluating Child Language Assessment Measures for Research and Clinical Use"
+        },
+        {
           "id": "5805 at https://www.clarin.eu",
           "author": "Julia Misersky",
           "description": "Three Winners Receive the 2022 Teaching with CLARIN Award\n\n            \nFirst awarded in 2021, the Teaching with CLARIN Award recognises lecturers and educational professionals who have successfully integrated CLARIN into the courses they teach and/or training materials they have developed.\nThis year, three winners were selected, who presented their teaching initiatives during the Annual Conference 2022 in Prague: Ajda Pretnar Žagar, Kristina Pahor de Maiti and Darja Fišer from the University of Ljubljana (SI), Jurgita Vaičenonienė from Vytautas Magnus University (LT), and Rachele Sprugnoli from the University of Parma (IT).\nAll winners received a certificate and a monetary prize of 350 Euros.\nAll materials and more information can be found below and in the Teaching with CLARIN section on the website.\nWinners\n    \n\n              \n              \n              \n                  \n\n  \nWinners' Contributions\n    \n\n              \n              \n                  \n\n  \n \n \n What's on the Agenda? Topic Modelling Parliamentary Debates before and during the COVID-19 Pandemic \n Ajda Pretnar Žagar, Kristina Pahor de Maiti & Darja Fišer\n University of Ljubljana, Slovenia\n \n \n \n \n    \n\n              \n              \n                  \n\n  \n \n  Lithuanian Collocations: Usage, Teaching, Learning, and Translation \n Jurgita Vaičenonienė\n Vytautas Magnus University, Lithuania\n \n \n \n\n \n    \n\n              \n              \n                  \n\n  \n \n \n Natural Language Processing Methods\n Rachele Sprugnoli\n Dipartimento di Discipline Umanistiche, Sociali e delle Imprese Culturali – Università degli Studi di Parma, Italy\n\n      Julia Misersky\n 26 September 2022",
@@ -8376,15 +8295,6 @@
           "publishedOn": "2022-05-09T15:29:44.000Z",
           "wordCount": 1611,
           "title": "Queering the Archive"
-        },
-        {
-          "id": "1507 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "Date: \n\n25 May 2022\n\n\nLocation: \n\nZoom\n\n\n\nMay’s coffee morning takes place on Wednesday 25 of May at 10.00 am for half an hour. This month’s host is Damien Burke, Province Archivist of the Irish Jesuit Archives. Damien will discuss his recent work at the archives, such as online cataloguing, and future developments at the Irish Jesuit Archives.",
-          "link": "https://www.dri.ie/dri-virtual-coffee-morning-may",
-          "publishedOn": "2022-04-28T10:29:13.000Z",
-          "wordCount": 570,
-          "title": "DRI Virtual Coffee Morning: May"
         }
       ]
     },
@@ -8430,6 +8340,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=12599",
+          "author": "Melanie Cheung",
+          "description": "RLUK will be stepping down as a partner of the Discovering Collections: Discovering Communities (DCDC) conference series as it enters a new era with the British Library joining The National Archives and Jisc as a formal partner. The DCDC series is one of the largest cross cultural sector conferences in the UK and sees [...]\nThe post A new era for the DCDC Conference series appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/a-new-era-for-the-dcdc-conference-series/",
+          "publishedOn": "2022-10-24T10:00:51.000Z",
+          "wordCount": 1269,
+          "title": "A new era for the DCDC Conference series"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=12574",
           "author": "Melanie Cheung",
@@ -8618,15 +8537,6 @@
           "publishedOn": "2022-05-04T21:51:21.000Z",
           "wordCount": 1147,
           "title": "Making your collections DS ready: copyright and licensing implications of AI and TDM"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=11955",
-          "author": "Melanie Cheung",
-          "description": "This content is password protected. To view it please enter your password below: Password:\nThe post AHRC-RLUK Professional Practice Fellows announced appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/ahrc-rluk-professional-practice-fellows-announced/",
-          "publishedOn": "2022-04-26T11:36:37.000Z",
-          "wordCount": 751,
-          "title": "AHRC-RLUK Professional Practice Fellows announced"
         }
       ]
     },
