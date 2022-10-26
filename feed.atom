@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-10-25T08:08:22.189Z</updated>
+    <updated>2022-10-26T08:05:12.484Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The DH Lab is 5!]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=961</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2022/10/the-dh-lab-is-5/"/>
+        <updated>2022-10-26T08:03:40.000Z</updated>
+        <summary type="html"><![CDATA[5 years ago, on the 23rd October 2017, after many months of planning and construction work, the Digital Humanities Lab officially opened. Since then we’ve supported teaching and research through a pandemic, collaborated with academics and cultural heritage institutions on research projects, created many exciting digital resources and websites, worked with 28 undergraduate interns, digitised […]]]></summary>
+        <author>
+            <name>Julia Hopkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New release: TEI Guidelines 4.5.0 / Styleshets 7.54.0]]></title>
+        <id>https://tei-c.org/?p=31412</id>
+        <link href="https://tei-c.org/2022/10/25/new-release-tei-guidelines-4-5-0-styleshets-7-54-0/"/>
+        <updated>2022-10-25T16:06:58.000Z</updated>
+        <summary type="html"><![CDATA[The TEI Consortium has released version 4.5.0 of the TEI Guidelines, “The Release of One’s Own”, and version 7.54.0 of the TEI Stylesheets. For more details, please see the release notes.]]></summary>
+        <author>
+            <name>Martina Scholger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transkribus in Practice: Improving CER]]></title>
+        <id>http://digitalorientalist.com/?p=8961</id>
+        <link href="https://digitalorientalist.com/2022/10/25/transkribus-in-practice-improving-cer/"/>
+        <updated>2022-10-25T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Since joining the ERC-funded project, The Dawn of Tibetan Buddhist Scholasticism (11th-13th C.)(TibSchol),1 at the Austrian Academy of Science in …]]></summary>
+        <author>
+            <name>Rachael Griffiths</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Towards implementing Collections as Data in GLAM institutions]]></title>
         <id>https://www.digitisation.eu/?post_type=tribe_events&amp;p=17317</id>
@@ -16,6 +46,69 @@ Read More
 The post Towards implementing Collections as Data in GLAM institutions appeared first on IMPACT Centre of Competence.]]></summary>
         <author>
             <name>Impact Centre of Competence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Alert – Lecturer in Digital Methods in the Humanities]]></title>
+        <id>https://blogs.ucl.ac.uk/dh/?p=8275</id>
+        <link href="https://blogs.ucl.ac.uk/dh/2022/10/25/job-alert-lecturer-in-digital-methods-in-the-humanities/"/>
+        <updated>2022-10-25T11:03:37.000Z</updated>
+        <summary type="html"><![CDATA[UCL’s Department of Information Studies is seeking a Lecturer in Digital Methods in the Humanities for a full time academic post. Deadline for applications is 20 November 2022. “We are seeking an innovative researcher to appoint to a full-time lectureship beginning in January 2023. We are seeking applicants who answer research questions of relevance to […]]]></summary>
+        <author>
+            <name>Adam Crymble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recap: DH Virtual Discussion Group for ECRs in Belgium 24/10]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1448</id>
+        <link href="https://scholarlytales.hcommons.org/2022/10/25/recap-dh-virtual-discussion-group-for-ecrs-in-belgium-24-10/"/>
+        <updated>2022-10-25T10:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday we kicked off our fall 2022 edition of the DH Virtual Discussion Group for ECRs in Belgium. This edition marks our fifth semester of the discussion group, which is jointly organized this year by Prof. Margherita Fantoli (KU Leuven…
+
+Continue reading “Recap: DH Virtual Discussion Group for ECRs in Belgium 24/10”…]]></summary>
+        <author>
+            <name>Leah Budke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gefeng Liu]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/gefeng-liu/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/gefeng-liu/"/>
+        <updated>2022-10-25T10:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Gefeng Liu has completed her undergraduate in archaeology at Renmin University of China and graduated from Peking University with a major in sociology. Her initial interest in digital humanities was sparked by involving in the curation of exhibitions and designing visual products when AI, VR, and AR were amazingly applied. Fascinated by urban sociology, she]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dominic Chivers]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dominic-chivers/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dominic-chivers/"/>
+        <updated>2022-10-25T09:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Dominic is currently a postgraduate student at the University of Cambridge undertaking an MPhil in Digital Humanities. He is exploring the use of data analysis and computational methods in the study of historical archives. He received his bachelors' degree in History (First-Class Honours) from the University of Warwick. Dominic is a former Associate at global]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaoyi Jiang]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/xiaoyi-jiang/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/xiaoyi-jiang/"/>
+        <updated>2022-10-25T09:12:53.000Z</updated>
+        <summary type="html"><![CDATA[After receiving a bachelor’s degree in Art History and Art Administration from Renmin University of China, I became interested in the critical theory of emerging digitisation trends within museums and galleries. Specifically, I will focus on how museums engage with decolonisation through digital and artistic practices. Related to this, I am also concerned with the]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Datasets, A Primer]]></title>
+        <id>https://review.gale.com/?p=13728</id>
+        <link href="https://review.gale.com/2022/10/25/working-with-datasets-a-primer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=working-with-datasets-a-primer"/>
+        <updated>2022-10-25T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[│By Dr. Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ This month’s blog post will discuss datasets – what they are, and how they might be used by a researcher or student who plans to use digital tools to generate answers to questions they have about their data. The timing of this post coincides with ... Read more
+The post Working with Datasets, A Primer appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Review Team</name>
         </author>
     </entry>
     <entry>
@@ -10836,273 +10929,6 @@ More here: github.com/wragge/tr…]]></summary>
         <summary type="html"><![CDATA[This spring, the DH Center welcomed three new student assistants to the team. They’ll be working to develop new tool tutorials for us. Mik Knight Hi! My name is Mik and I am a second-year Master’s student in the department of Women’s Studies. My research takes a technofeminist approach to dissecting social media censorship, digital […]]]></summary>
         <author>
             <name>Pam Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walking the Landscape]]></title>
-        <id>https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/</id>
-        <link href="https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/"/>
-        <updated>2022-04-29T14:18:39.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hand in Hand Archive]]></title>
-        <id>https://www.cdh.cam.ac.uk/research/projects/hand-in-hand-archive/</id>
-        <link href="https://www.cdh.cam.ac.uk/research/projects/hand-in-hand-archive/"/>
-        <updated>2022-04-29T14:15:34.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arthur Schnitzler digital: first releases]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/arthur-schnitzler-digital-first-releases/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/arthur-schnitzler-digital-first-releases/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Cutting edge development for the field of digital editing The larger part of the literary estate of the Austrian modernist writer, Arthur Schnitzler, is held in Cambridge University Library, having been saved by a Cambridge student from probable destruction in Vienna in 1938. Eighty years later, the UK editorial team for the new digital critical]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Participation – Automating the crowd: who is the real Mechanical Turk?]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/call-for-participation-automating-the-crowd-who-is-the-real-mechanical-turk/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/call-for-participation-automating-the-crowd-who-is-the-real-mechanical-turk/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[The relationship between automation and human work is a longstanding area of concern and reflection, and raises questions around public policy and across disciplinary boundaries. The use of ‘crowdsourced’ efforts and the increasing diversity of contributors in human-machine interactions presents particular challenges. Together these raise complex questions that have technical, social and ethical implications. Automating]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeff Thompson, Artist in Residence at the Computer Laboratory]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/jeff-thompson-artist-in-residence-at-the-computer-laboratory/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/jeff-thompson-artist-in-residence-at-the-computer-laboratory/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Jeff Thompson, Assistant Professor and Program Director of Visual Arts & Technology at Stevens Institute of Technology, will be in Cambridge during the Michaelmas term as a Visiting Fellow at King’s College and Artist-in-Residence at the Computer Laboratory. Thompson’s work combines code, sculpture, sound, and performance with historical and technological research to make artworks that]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calls for Projects: Machine Reading the Archive]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/calls-for-projects-machine-reading-the-archive/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/calls-for-projects-machine-reading-the-archive/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Do you have a digital archives project which would benefit from expert guidance? Cambridge Digital Humanities Learning Programme offers PhD students and staff at the University the opportunity to apply for support from our team of mentors over a six month period from December 2018 to June 2019. We offer supported projects four one-to-one mentoring]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing the CDH Conference Travel Bursary Scheme]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/announcing-the-cdh-conference-travel-bursary-scheme/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/announcing-the-cdh-conference-travel-bursary-scheme/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Deadline now extended to 10 December 2018 Cambridge Digital Humanities is keen to support participation by University of Cambridge Early Career Researchers in select Digital Humanities conferences, and to that end a limited number of CDH Conference Travel Bursaries will be made available on application. These bursaries will cover approved travel at economy rates, registration]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cambridge University Library acquires new digital archive for text- and data-mining]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/cambridge-university-library-acquires-new-digital-archive-for-text-and-data-mining/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/cambridge-university-library-acquires-new-digital-archive-for-text-and-data-mining/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[The Cambridge University Library has acquired digital archives from Gale Cengage, a publisher of large primary source materials, including historical documents and newspapers. These digital archives are now available within a new resource called the “Gale Digital Scholar Lab” which has been specifically designed for the purpose of enabling text-mining and analysis. Using the Lab]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch of ƐPSILON: a collaborative digital framework for 19th-century letters of science]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/launch-of-%c9%9bpsilon-a-collaborative-digital-framework-for-19th-century-letters-of-science/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/launch-of-%c9%9bpsilon-a-collaborative-digital-framework-for-19th-century-letters-of-science/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[ƐPSILON launch In September the Darwin Correspondence Project, working with Cambridge Digital Library, launched ƐPSILON: a collaborative digital framework for 19th-century letters of science. The initial release contains full texts or metadata for almost 45,000 letters and provides access to material by Charles Darwin, André-Marie Ampère, Ferdinand von Mueller, Joseph Dalton Hooker, John Tyndall, Sir John Herschel,]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Feeling – call for participation]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/machine-feeling-call-for-participation/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/machine-feeling-call-for-participation/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Research Workshop 14–16 January 2019 University of Cambridge https://submit.transmediale.de/phdworkshop transmediale 2019 is a critical inquiry into new technologies of feeling, recognizing that digital culture has become instrumental for capturing and managing what Raymond Williams’ would once have called “structures of feeling”—referring to lived experiences and cultural expressions, distinct from supposedly fixed social products and institutions.]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Booking Now Open for Learning Events in Michaelmas Term]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/booking-now-open-for-learning-events-in-michaelmas-term/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/booking-now-open-for-learning-events-in-michaelmas-term/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Booking is now open for CDH Learning events in Michaelmas Term. Please make sure that you book in advance since capacity is limited in some venues. For a full list of events for Michaelmas term, click here.]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Poster Competition]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/cdh-poster-competition/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/cdh-poster-competition/"/>
-        <updated>2022-04-29T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Poster Competition We are looking for engaging visual "snapshots" of DH research in Cambridge to display in a poster exhibition which will be staged during the CDH Searching Questions symposium on 11 July 2018 and a gallery on our new website. What's required? a poster which communicates your research to a non-specialist audience an appealing]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH: Call for Case Studies]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/cdh-call-for-case-studies/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/cdh-call-for-case-studies/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[CDH is inviting proposals for case studies for SEEING/KNOWING: Using Visualization as a Research Instrument Wednesday, 1 May 2019 11.30am – 3.00pm, University of Cambridge Workshop conveners: Professor Johanna Drucker (UCLA); Dr Anne Alexander (Cambridge Digital Humanities) Visualization is a primary mode of knowledge production, but it is often used as a secondary mode of]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Learning: Call for Film Projects 2019 Extended]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/cdh-learning-call-for-film-projects-2019-extended/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/cdh-learning-call-for-film-projects-2019-extended/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Do you have a film project which would benefit from expert guidance? Cambridge Digital Humanities Learning Programme offers students and staff at the University of Cambridge the opportunity to apply for support from our team of mentors over a three-month period from March 2019 to June 2019 and a guaranteed place on our intensive Beginners film-training]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Professorship of Digital Humanities, University of Cambridge]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/professorship-of-digital-humanities-university-of-cambridge/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/professorship-of-digital-humanities-university-of-cambridge/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[The Board of Electors to the Professorship of Digital Humanities invite applications for this new Professorship from persons whose work falls within the general field of Digital Humanities, to take up appointment on 1 September 2019 or as soon as possible thereafter. The Professor of Digital Humanities will provide academic and intellectual leadership for and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Booking now open for the CDH Distinguished Lecture: Looking Back and Thinking Ahead]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/booking-now-open-for-the-cdh-distinguished-lecture-looking-back-and-thinking-ahead/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/booking-now-open-for-the-cdh-distinguished-lecture-looking-back-and-thinking-ahead/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[CDH Distinguished Lecturer Series Looking Back and Thinking Ahead: Humanistic Methods and/in Digital Humanities Professor Johanna Drucker Wednesday, 1 May 2019 5.00pm–6.30pm: Old Divinity School, St John's College, Cambridge CB2 1TP Methodological concessions to the requirements of formal systems have characterised much of the digital humanities work in the decades since the initial encounter of computational]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ways of Machine Seeing – Public Events]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/ways-of-machine-seeing-public-events/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/ways-of-machine-seeing-public-events/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[As part of our Ways of Machine Seeing strand of our Learning Programme, we are organising Machine Feeling, a research workshop held in collaboration with Transmediale festival of arts and digital culture, and the University of Aarhus. This event focuses specifically on the domain of machine learning and on the ability of technologies to capture]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH: DHOXSS Bursary Scheme]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/cdh-dhoxss-bursary-scheme/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/cdh-dhoxss-bursary-scheme/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Cambridge Digital Humanities is keen to support participation by University of Cambridge Early Career Researchers in the Digital Humanities at Oxford Summer School (DHOXSS) – 22–26 July 2019 – and to that end a limited number of CDH Bursaries will be made available on application. These bursaries will cover approved return ground travel Cambridge–Oxford, registration]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getty Award for Renaissance Florence project]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/getty-award-for-renaissance-florence-project/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/getty-award-for-renaissance-florence-project/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[download.jpeg The Getty Foundation has awarded $230,000 through its digital art history initiative to The University of Exeter, in collaboration with the University of Cambridge and the University of Toronto, to construct a layered and interactive view of the art and architecture of Renaissance Florence. The project will integrate elements of three existing platforms: a 3D modeling project; a]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Applications]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/call-for-applications/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/call-for-applications/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Call for Applications Cambridge Data School 3-6 June 2019 Cambridge Digital Humanities (CDH) is happy to announce that applications for the first Cambridge Data School are now open. The Cambridge Data School will be based on open and free access principles. People and organisations interested in learning more about digital methods are invited to submit]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Learning, Easter Term 2019]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/cdh-learning-easter-term-2019/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/cdh-learning-easter-term-2019/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Booking is now open for Easter term CDH Learning events. In order to see a full list of events, click here. All sessions are free of charge, but places are limited and must be booked in advance.]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Professorship of Digital Humanities]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/professorship-of-digital-humanities/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/professorship-of-digital-humanities/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[img_0621_540px_wide.jpg CDH is delighted to announce that Professor Caroline Bassett has been appointed to the Professorship of Digital Humanities at the University of Cambridge with effect from 1 September 2019. Professor Bassett is currently Professor of Media and Communications at the University of Sussex, as well as Director of the Sussex Humanities Lab. Her]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOOKING open for CDH Learning Events in Lent term 2019]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/booking-open-for-cdh-learning-events-in-lent-term-2019/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/booking-open-for-cdh-learning-events-in-lent-term-2019/"/>
-        <updated>2022-04-29T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Booking is now open for the CDH Learning Events taking place in Lent term 2019. For more information and links to the booking pages see: https://www.cdh.cam.ac.uk/learning/cdh-events]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Easter term events]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/cdh-easter-term-events/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/cdh-easter-term-events/"/>
-        <updated>2022-04-29T14:13:02.000Z</updated>
-        <summary type="html"><![CDATA[The CDH team has been working hard to move as many of the Easter term events as possible onto an online platform. This has taken considerable effort and we are grateful to everyone who has put in the extra work to adapt materials for a new delivery method. It has not been possible to adapt everything, but]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Historical Museum of Japanese Immigration in Brazil  – Digital resources for researching Japanese immigration]]></title>
-        <id>http://digitalorientalist.com/?p=8126</id>
-        <link href="https://digitalorientalist.com/2022/04/29/the-historical-museum-of-japanese-immigration-in-brazil-digital-resources-for-researching-japanese-immigration/"/>
-        <updated>2022-04-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many people may be unaware, but Brazil has the most numerous Japanese community outside Japan, with a population of more …]]></summary>
-        <author>
-            <name>Michele Eduarda Brasil de Sá</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/blog/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/"/>
-        <updated>2022-04-29T10:34:59.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/04/29/followed-up-my.html</id>
-        <link href="https://updates.timsherratt.org/2022/04/29/followed-up-my.html"/>
-        <updated>2022-04-29T06:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Followed up my last FOI request about HASS research infrastructure to find out why the appendix was missing, & now it’s available! Includes an interesting (& selective) list of HASS infrastructure projects. www.dropbox.com/sh/uq7vz4…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
