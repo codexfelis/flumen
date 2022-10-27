@@ -1031,15 +1031,6 @@
           "publishedOn": "2022-08-01T22:30:58.000Z",
           "wordCount": 561,
           "title": "Meet Our New DH Associate Director"
-        },
-        {
-          "id": "https://dhblog.sdsu.edu/?p=585",
-          "author": "Pam Lach",
-          "description": "This spring, the DH Center welcomed three new student assistants to the team. They’ll be working to develop new tool tutorials for us. Mik Knight Hi! My name is Mik and I am a second-year Master’s student in the department of Women’s Studies. My research takes a technofeminist approach to dissecting social media censorship, digital […]",
-          "link": "https://dhblog.sdsu.edu/dh-news/meet-the-newest-dh-center-student-assistants",
-          "publishedOn": "2022-04-30T00:25:44.000Z",
-          "wordCount": 708,
-          "title": "Meet the Newest DH Center Student ASsistants"
         }
       ]
     },
@@ -1048,6 +1039,15 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=11829",
+          "author": "Heloise schibler",
+          "description": "There are still some places left for the Montreux Jazz Memories Hackathon. Registration deadline : October 30th, 2022 Many prizes are to be won, including free tickets for the Montreux Jazz Festival 2023! Click here for more information The event is supported and financed by the dhCenter UNIL-EPFL.\nThe post Register for the next Montreux Jazz Memories Hackathon! appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/10/26/register-for-the-next-montreux-jazz-memories-hackathon/",
+          "publishedOn": "2022-10-26T09:02:12.000Z",
+          "wordCount": 395,
+          "title": "Register for the next Montreux Jazz Memories Hackathon!"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=11808",
           "author": "Heloise schibler",
@@ -1708,6 +1708,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/863",
+          "author": "406",
+          "description": "OPERAS-GER lädt Sie herzlich zum nächsten Termin unserer OPERAS Open Chats, via Zoom, am 17.11.2022 ein.\nWir wollen uns dabei mit den Themen Qualitätssicherung befassen und dabei…",
+          "link": "https://dig-hum.de/aktuelles/veranstaltung-17112022-operas-open-chats-zur-qualit%C3%A4tssicherung-oapen-und-dem-prism",
+          "publishedOn": "2022-10-27T08:04:15.841Z",
+          "wordCount": 856,
+          "title": "Veranstaltung: 17.11.2022 OPERAS Open Chats zur Qualitätssicherung mit OAPEN und dem PRISM-Service um 11 Uhr"
+        },
+        {
           "id": "node/862",
           "author": "406",
           "description": "Das Deutsche Zentrum für Luft- und Raumfahrt e. V. (DLR) (Projektträger | Gesellschaft, Innovation, Technologie | Geisteswissenschaften und Kulturelles Erbe) möchte auf eine…",
@@ -2057,15 +2066,6 @@
           "publishedOn": "2022-05-17T08:17:40.585Z",
           "wordCount": 767,
           "title": "Text+ und RIDE: Call for Reviews verlängert"
-        },
-        {
-          "id": "node/809",
-          "author": "414",
-          "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…",
-          "link": "https://dig-hum.de/aktuelles/call-for-hosts-dhd2024-dhd2025",
-          "publishedOn": "2022-04-30T17:34:41.000Z",
-          "wordCount": 1341,
-          "title": "Call for Hosts DHd2024 &amp; DHd2025"
         }
       ]
     },
@@ -4323,6 +4323,24 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=1486",
+          "author": "Leah Budke",
+          "description": "Program   The Faculty of Arts and KU Leuven Libraries jointly organize a 2-day training (22/11 and 23/11) focusing on “self-made” document digitization for researchers and staff members. Different modules (that can be followed independently from each other) will teach…\n\nContinue reading “Training: “From Paper to Files – How to Efficiently Digitize (Historical) Documents””…",
+          "link": "https://scholarlytales.hcommons.org/2022/10/26/training-from-paper-to-files-how-to-efficiently-digitize-historical-documents/",
+          "publishedOn": "2022-10-26T14:02:54.000Z",
+          "wordCount": 1875,
+          "title": "Training: “From Paper to Files – How to Efficiently Digitize (Historical) Documents”"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1479",
+          "author": "Laura Mesotten",
+          "description": "This event is only open to KU Leuven researchers and staff. If you are a PhD student and would like to learn basic RDM skills and how to write a Data Management Plan (DMP), this training is definitely for you!…\n\nContinue reading “Training: RDM workshop for PhDs (KU Leuven)”…",
+          "link": "https://scholarlytales.hcommons.org/2022/10/26/training-rdm-workshop-for-phds-ku-leuven/",
+          "publishedOn": "2022-10-26T09:10:12.000Z",
+          "wordCount": 1922,
+          "title": "Training: RDM workshop for PhDs (KU Leuven)"
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=1448",
           "author": "Leah Budke",
           "description": "Yesterday we kicked off our fall 2022 edition of the DH Virtual Discussion Group for ECRs in Belgium. This edition marks our fifth semester of the discussion group, which is jointly organized this year by Prof. Margherita Fantoli (KU Leuven…\n\nContinue reading “Recap: DH Virtual Discussion Group for ECRs in Belgium 24/10”…",
@@ -4507,7 +4525,7 @@
     {
       "title": "Loretta C. Duckworth Scholars Studio",
       "feedUrl": "https://sites.temple.edu/tudsc/feed",
-      "siteUrl": "https://sites.temple.edu/tudsc/",
+      "siteUrl": "https://sites.temple.edu/tudsc",
       "articles": [
         {
           "id": "https://sites.temple.edu/tudsc/?p=8246",
@@ -5195,15 +5213,6 @@
           "link": "https://updates.timsherratt.org/2022/05/01/changes-to-trove.html",
           "publishedOn": "2022-05-01T03:57:07.000Z",
           "wordCount": 42,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/04/30/and-so-it.html",
-          "author": null,
-          "description": "And so it starts… #GLAMWorkbench",
-          "link": "https://updates.timsherratt.org/2022/04/30/and-so-it.html",
-          "publishedOn": "2022-04-30T05:39:07.000Z",
-          "wordCount": 21,
           "title": "Untitled"
         }
       ]
@@ -6072,6 +6081,15 @@
           "publishedOn": "2022-10-05T14:51:00.000Z",
           "wordCount": 291,
           "title": "Welcome to our 2022-23 MPhil cohort!"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/blog/",
+          "author": null,
+          "description": "Cambridge Digital Humanities",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/",
+          "publishedOn": "2022-10-05T14:48:49.000Z",
+          "wordCount": 576,
+          "title": "Blog"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/events/35414/",
