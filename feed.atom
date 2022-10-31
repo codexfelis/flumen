@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-10-30T08:04:44.060Z</updated>
+    <updated>2022-10-31T08:05:07.686Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review: I'm Still Surviving]]></title>
+        <id>5210ce01-a426-46f5-bae7-17c9bb076e93</id>
+        <link href="https://reviewsindh.pubpub.org/pub/im-still-surviving"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of I'm Still Surviving, an interactive digital exhibition featuring oral histories of women living with HIV/AIDS, directed by Jennifer Brier and Matt Wizinsky]]></summary>
+        <author>
+            <name>Dan Royles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editors' Note: October 2022]]></title>
+        <id>2c9fa3b6-e8a7-4e36-bb02-01059dc6dc77</id>
+        <link href="https://reviewsindh.pubpub.org/pub/editors-note-october-2022"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Editors' note on the October 2022 issue of Reviews in Digital Humanities, guest edited by Kim Gallon and Kirsten Ostherr]]></summary>
+        <author>
+            <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Black Health and the Humanities]]></title>
+        <id>c8c75e50-7ffc-4702-9ffc-5e96fc53e9d0</id>
+        <link href="https://reviewsindh.pubpub.org/pub/black-health-and-the-humanities"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Black Health and the Humanities, interdisciplinary training workshops exploring Black health, directed by Josie Gill and Amber Lascelles]]></summary>
+        <author>
+            <name>Elizabeth Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Visualizing the Virus]]></title>
+        <id>822b8b16-8de0-4f3b-83ef-f20151658c7b</id>
+        <link href="https://reviewsindh.pubpub.org/pub/visualizing-the-virus"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Visualizing the Virus, a digital project exploring COVID-19, directed by Sria Chatterjee and Ellen Ambrosone]]></summary>
+        <author>
+            <name>Olivia Banner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Medicine | Race | Democracy Lab]]></title>
+        <id>28b3b40b-d9ce-49b8-ab19-62063e139f3b</id>
+        <link href="https://reviewsindh.pubpub.org/pub/medicine-race-democracy-lab"/>
+        <updated>2022-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Medicine | Race | Democracy Lab, a digital humanities project exploring access and care beyond hospital systems, led by Lan Li, Ricardo Nuila, Fady Joudah, Pierce Salguero, and their team]]></summary>
+        <author>
+            <name>Amelia Gibson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RECOMMENDED: 3D Data Creation to Curation: Building Community Standards for 3D Data Preservation]]></title>
+        <id>https://dhandlib.org/?p=124879</id>
+        <link href="https://dhandlib.org/2022/10/28/recommended-3d-data/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recommended-3d-data"/>
+        <updated>2022-10-28T20:36:35.000Z</updated>
+        <summary type="html"><![CDATA[3D Data Creation to Curation: Community Standards for 3D Data Preservation, edited by Jennifer Moore (Washington University), Adam Rountrey (University of Michigan), and Hannah Scates Kettler (Iowa State University), provides valuable information on various aspects of handling 3D data. Topic addressed include: best practices for preservation, management and storage, metadata requirements, copyright and legal issues, and ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PROJECT: The American Soldier in WWII]]></title>
+        <id>https://dhandlib.org/?p=124882</id>
+        <link href="https://dhandlib.org/2022/10/28/project-the-american-soldier-in-wwii/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=project-the-american-soldier-in-wwii"/>
+        <updated>2022-10-28T20:34:39.000Z</updated>
+        <summary type="html"><![CDATA[An interdisciplinary, multi-year, and collaborative digital humanities project, American Soldier in World War II explores previously uncirculated soldier commentaries, primarily from aggrieved Black soldiers serving in the segregated military during the Second World War. In addition to historical essays that contextualize these commentaries, the website offers several resources, including lesson plans and datasets for teaching, ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RESOURCE: Fostering Data Literacies (Ithaka S+R)]]></title>
+        <id>https://dhandlib.org/?p=124887</id>
+        <link href="https://dhandlib.org/2022/10/28/resource-fostering-data-literacies-ithaka-sr/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resource-fostering-data-literacies-ithaka-sr"/>
+        <updated>2022-10-28T20:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Ithaka S+R has published, “Fostering Data Literacy: Teaching with Quantitative Data in the Social Sciences,” a qualitative study in which librarians from 20 campuses in the United States conducted 219 interviews with social science faculty, to explore “why and how instructors teach with data, identifies the most important challenges they face,” and to address “how ...read more]]></summary>
+        <author>
+            <name>Nickoal Eichmann-Kalwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: Cultivating Partnerships in Digital Humanities: Strategies, Tips, and Lessons Learned]]></title>
+        <id>https://dhandlib.org/?p=124875</id>
+        <link href="https://dhandlib.org/2022/10/28/event-cultivating-partnerships-in-digital-humanities-strategies-tips-and-lessons-learned/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-cultivating-partnerships-in-digital-humanities-strategies-tips-and-lessons-learned"/>
+        <updated>2022-10-28T20:32:56.000Z</updated>
+        <summary type="html"><![CDATA[ACRL University Libraries Section Professional Development Committee is hosting a webinar on “Cultivating Partnerships in Digital Humanities: Strategies, Tips, and Lessons Learned,” that will take place on November 12, 2022, at 1:00pm (CST). The webinar will address such questions as: “How can librarians collaborate effectively to promote cross-disciplinary scholarship and teaching in digital humanities” and ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: code4lib2023]]></title>
+        <id>https://dhandlib.org/?p=124870</id>
+        <link href="https://dhandlib.org/2022/10/28/cfp-code4lib2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-code4lib2023"/>
+        <updated>2022-10-28T20:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Next year’s Code4lib2023 conference will take place March 14-17, 2023, in-person, at Princeton University in Princeton, New Jersey. Conference talks proposals are being accepted now through November 14, 2022. Remote presentations will be supported, and a call for poster submissions is forthcoming. Previous conference programs offer a preview of the variety of topics related to ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: Canadian Digital Scholarship Librarians Community of Practice Fall Meeting]]></title>
+        <id>https://dhandlib.org/?p=124873</id>
+        <link href="https://dhandlib.org/2022/10/28/cfp-canadian-digital-scholarship-librarians-community-of-practice-fall-meeting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-canadian-digital-scholarship-librarians-community-of-practice-fall-meeting"/>
+        <updated>2022-10-28T20:30:40.000Z</updated>
+        <summary type="html"><![CDATA[The Canadian Digital Scholarship Librarians Community of Practice are currently looking for lightening talk presenters for the second annual Fall 2022 meetup, which will take place on November 25, from 10am-1pm (PST). From the call: We are looking for presenters for Lightning Talks. Please consider sharing some stories about what you’ve been working on, or ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPORTUNITY: New Dangers and Opportunities of Technology, NEH Grant Program]]></title>
+        <id>https://dhandlib.org/?p=124877</id>
+        <link href="https://dhandlib.org/2022/10/28/opportunity-new-dangers-and-opportunities-of-technology-neh-grant-program/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=opportunity-new-dangers-and-opportunities-of-technology-neh-grant-program"/>
+        <updated>2022-10-28T20:29:27.000Z</updated>
+        <summary type="html"><![CDATA[The National Endowment for the Humanities (NEH) Office of Digital Humanities (ODH) has announced a new grant program, “Dangers & Opportunities of Technology: Perspectives from the Humanities.” This is “a direct call for research that explores the relationship between technology and culture and its dramatic impacts—both positive and negative.” Single researchers may be awarded up ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOB: Digital Scholarship Librarian (Tufts University)]]></title>
+        <id>https://dhandlib.org/?p=124868</id>
+        <link href="https://dhandlib.org/2022/10/28/job-digital-scholarship-librarian-tufts-university/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-librarian-tufts-university"/>
+        <updated>2022-10-28T20:27:41.000Z</updated>
+        <summary type="html"><![CDATA[From the announcement: The Digital Scholarship Department supports research, teaching, and learning at Tufts and the Research & Learning division at Tufts University’s Tisch Library seeks an innovative and collaborative colleague to join us as Digital Scholarship Librarian and continue our growth within the context of our strategic framework. We provide access to scholarship in ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOB: Data Impact Librarian at ICPSR (University of Michigan)]]></title>
+        <id>https://dhandlib.org/?p=124866</id>
+        <link href="https://dhandlib.org/2022/10/28/job-data-impact-librarian-at-icpsr-university-of-michigan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-data-impact-librarian-at-icpsr-university-of-michigan"/>
+        <updated>2022-10-28T20:26:52.000Z</updated>
+        <summary type="html"><![CDATA[From the announcement: The Inter-university Consortium for Political and Social Research (ICPSR), a unit of the Institute for Social Research (ISR) at the University of Michigan in Ann Arbor, Michigan is seeking a Data Impact Librarian to join ICPSR’s Metadata and Preservation unit at the rank of Senior Associate Librarian. ICPSR maintains a large archive ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOB: Digital Scholarship Librarian (Boston College)]]></title>
+        <id>https://dhandlib.org/?p=124854</id>
+        <link href="https://dhandlib.org/2022/10/28/job-digital-scholarship-librarian-boston-college/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-librarian-boston-college"/>
+        <updated>2022-10-28T20:26:08.000Z</updated>
+        <summary type="html"><![CDATA[From the announcement: Boston College Libraries seek two Digital Scholarship Librarians to be part of our Digital Scholarship Group (DSG). These positions are primarily responsible for facilitating and supporting the creation of faculty and student digital research projects; digital scholarship skills training for faculty, students, and staff; supporting the incorporation of digital scholarship (and digital humanities) into ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOB: Digital Humanities Librarian (Johns Hopkins)]]></title>
+        <id>https://dhandlib.org/?p=124864</id>
+        <link href="https://dhandlib.org/2022/10/28/job-digital-humanities-librarian-johns-hopkins/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-humanities-librarian-johns-hopkins"/>
+        <updated>2022-10-28T20:25:16.000Z</updated>
+        <summary type="html"><![CDATA[From the announcement: We are seeking a Librarian III. The Digital Humanities Librarian works with faculty and students in the humanities, as well as librarians and software engineers in the Sheridan Libraries and Museums, to foster, shape and support digital approaches to humanistic research, teaching, and learning. This work includes the successful design and implementation ...read more]]></summary>
+        <author>
+            <name>Linsey Ford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interview with Arezou Azad on the Invisible East Programme and its Digitisation of Documents from the Medieval Islamicate East, part 1]]></title>
         <id>http://digitalorientalist.com/?p=9019</id>
@@ -846,6 +1006,15 @@ Sie forschen in Projekten der Angewandten- und Grundlagenforschung zu…]]></sum
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Research Funding Process]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/funding/research-funding-process/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/funding/research-funding-process/"/>
+        <updated>2022-10-14T08:03:27.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[L‘usine secrète]]></title>
         <id>4225 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/lusine-secrete"/>
@@ -1013,6 +1182,15 @@ Public history
         <link href="https://www.cdh.cam.ac.uk/about/people/isabelle-higgins/"/>
         <updated>2022-10-13T15:24:12.000Z</updated>
         <summary type="html"><![CDATA[Isabelle is a PhD candidate in the Sociology Department at the University of Cambridge. She holds an undergraduate degree in Sociology and Social Anthropology from the University of Cambridge, as well as an MPhil in the Sociology of Marginality and Exclusion from the Department of Sociology, University of Cambridge. Her current research, which she began]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/"/>
+        <updated>2022-10-13T15:23:45.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
@@ -10649,138 +10827,6 @@ The post The Technician Commitment and the role of research and academic librari
 The post Making your collections DS ready: copyright and licensing implications of AI and TDM appeared first on Research Libraries UK.]]></summary>
         <author>
             <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opportunities]]></title>
-        <id>https://www.cdh.cam.ac.uk/opportunities/</id>
-        <link href="https://www.cdh.cam.ac.uk/opportunities/"/>
-        <updated>2022-05-04T15:47:09.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Khanh Vo!]]></title>
-        <id>https://dhn.utoronto.ca/?p=5018</id>
-        <link href="https://dhn.utoronto.ca/welcome-to-khanh-vo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=welcome-to-khanh-vo"/>
-        <updated>2022-05-04T15:42:07.000Z</updated>
-        <summary type="html"><![CDATA[The CDHI warmly welcomes Khanh V.N. Vo as the 2022-23 JHI-CDHI Digital Humanities Postdoctoral Fellow. Dr. Vo (Ph.D. College of William and Mary, 2021) completed her doctorate in American Studies […]]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research Proposal]]></title>
-        <id>https://www.cdh.cam.ac.uk/mphil/research-proposal/</id>
-        <link href="https://www.cdh.cam.ac.uk/mphil/research-proposal/"/>
-        <updated>2022-05-04T14:22:46.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Courses]]></title>
-        <id>https://www.cdh.cam.ac.uk/mphil/courses/</id>
-        <link href="https://www.cdh.cam.ac.uk/mphil/courses/"/>
-        <updated>2022-05-04T13:48:59.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPhil]]></title>
-        <id>https://www.cdh.cam.ac.uk/mphil/</id>
-        <link href="https://www.cdh.cam.ac.uk/mphil/"/>
-        <updated>2022-05-04T13:47:43.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laetitia Della Bianca new paper on self-tracking apps]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=10572</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/05/04/laetitia-della-bianca-new-paper-on-self-tracking-apps/"/>
-        <updated>2022-05-04T13:21:31.000Z</updated>
-        <summary type="html"><![CDATA[dhCenter member Laetitia Della Bianca has published an article in the journal Learning, Media and Technology. It is entitled “Configuring the body as pedagogical site : towards a conceptual tool to unpack and situate multiple ontologies of the body in self-tracking apps” and is part of the special issue dedicated to “Feminist perspectives on learning, […]
-The post Laetitia Della Bianca new paper on self-tracking apps appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dr Leonardo Impett]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/"/>
-        <updated>2022-05-04T12:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Dr Leonardo Impett is a University Assistant Professor in Digital Humanities and convenor of the MPhil in Digital Humanities. He was previously Assistant Professor of Computer Science at Durham University. Leonardo has a background in information engineering and machine learning, having worked or studied at the Cambridge Machine Learning Lab, the Cambridge Computer Lab's Rainbow]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Data School 2022]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/programme/dataschools/social-data-school-2022/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/programme/dataschools/social-data-school-2022/"/>
-        <updated>2022-05-04T07:46:08.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homepage]]></title>
-        <id>https://www.cdh.cam.ac.uk/</id>
-        <link href="https://www.cdh.cam.ac.uk/"/>
-        <updated>2022-05-04T07:29:06.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juvenile delinquency, social unrest and national anxiety: French debates and controversies over rock’n’roll in the 1960s and 1970s]]></title>
-        <id>3993 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/juvenile-delinquency-social-unrest-and-national-anxiety-french-debates-and-controversies-over"/>
-        <updated>2022-05-04T07:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Based on a collection of local and national archival sources, police reports, and press articles, this talk will explore how rock’n’roll and pop music were received in France in the 1960s and the 1970s. Although some ‘threats,’ such as violence and loose moral at rock’n’roll concerts, were present in other countries as well, this talk shows that other so-called hazards should be read in the light of the French context. This was marked by the shadow of the dark years of the Vichy regime, the end of the Algerian war, students’ protests in May 1968, and the lasting influence of the left-wing revolutionary spirit.
-Florence Tamagne is associate professor in contemporary history at the University of Lille. She has notably published Histoire de l’homosexualité en Europe, Berlin, Londres, Paris (1919-1939) (Seuil, 2000), Mauvais Genre ? Une histoire des représentations de l’homosexualité (La Martinière, 2001) and Le crime du Palace. Enquête sur l’une des plus grandes enquêtes criminelles des années 1930 (Payot, 2017, Prix Augustin Thierry).  She is the curator of the exhibition “Homosexuals and Lesbians in Nazi Europe” (Mémorial de la Shoah, Paris, May 2021-May 2022).
-She is currently finishing a book on "Rock music, youth cultures and politics in France, Britain and Germany (1950s-1980s) " and has published several articles on the subject.
- 
-Tuesday, 17 May 2022
-17.00 - 18.30
-C²DH Open Space & Online
-Maison des Sciences humaines, 4th floor
-Free public hybrid event. If you wish to join online, please send an e-mail to oana.stefan@uni.lu to receive the link.
- 
-Legal notice
-17 May 2022
-  Contemporary history of Europe
-  History of popular culture
-  Conferences
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U. Glasgow MS Hunter 231: Devotion and Philosophy]]></title>
-        <id>http://schoenberginstitute.org/?p=16730</id>
-        <link href="https://schoenberginstitute.org/2022/05/03/u-glasgow-ms-hunter-231-devotion-and-philosophy/"/>
-        <updated>2022-05-04T00:05:06.000Z</updated>
-        <summary type="html"><![CDATA[On April 20, Dot Porter hosted Coffee With A Codex from the Reading Room of the University of Glasgow Libraries Special Collections Department. She featured MS Hunter 231, a heavily illuminated collection of devotional and philosophical works. Julie Gardham wrote a thorough blog post about this manuscript on the University of Glasgow Libraries Special CollectionsContinue reading "U. Glasgow MS Hunter 231: Devotion and Philosophy"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Gale Digital Scholar Lab Could Support Alternative Research Methods]]></title>
-        <id>https://review.gale.com/?p=13375</id>
-        <link href="https://review.gale.com/2022/05/03/how-gale-digital-scholar-lab-could-support-alternative-research-methods/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-gale-digital-scholar-lab-could-support-alternative-research-methods"/>
-        <updated>2022-05-03T10:23:43.000Z</updated>
-        <summary type="html"><![CDATA[|By Rob Youngs do Patrocinio, Gale Ambassador at University College London| Academic research has evolved drastically in recent years, with new technology revolutionising research methods. One impact is the growing influence of quantitative analysis within the Humanities and Social Sciences. This has impacted research and student curriculums. I am currently a third-year student at University ... Read more
-The post How Gale Digital Scholar Lab Could Support Alternative Research Methods appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Ambassadors</name>
         </author>
     </entry>
     <entry>
