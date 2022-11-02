@@ -291,6 +291,15 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=1788",
+          "author": "Erdal Ayan",
+          "description": "The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for its two 2022 Communications Fellowships, each of which comes with a stipend of €500 (Euros). Each year, Communications Fellows work with ADHO’s Communications Officer to manage ADHO’s public communications activities. The fellowship is well suited for graduate students, young scholars, and academic professionals who wish… Read More »Call for Applications: 2022 ADHO Communications Fellowships",
+          "link": "https://adho.org/2022/11/01/call-for-applications-2022-adho-communications-fellowships/",
+          "publishedOn": "2022-11-01T13:30:31.000Z",
+          "wordCount": 653,
+          "title": "Call for Applications: 2022 ADHO Communications Fellowships"
+        },
+        {
           "id": "https://adho.org/?p=1678",
           "author": "hannah",
           "description": "I’m honoured to be writing this as the new president of ADHO’s Constituent Organisations Board, and inspired to be following in the footsteps of Isabel Galina, Elisabeth Burr, and Matt Gold in this role.  I feel extremely fortunate about the timing. This is the year when ADHO will finish the massive governance overhaul that has… Read More »A New ADHO Year, A Renewing ADHO",
@@ -1596,24 +1605,6 @@
           "publishedOn": "2022-05-10T11:08:42.000Z",
           "wordCount": 1045,
           "title": "Recourir à la matrice pour que Meta passe à la vitesse supérieure"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=10629",
-          "author": "Heloise schibler",
-          "description": "Le GameLab UNIL-EPFL et L’éprouvette (UNIL) proposent désormais aux enseignant.e.s des gymnases vaudois des ateliers d’introduction à l’étude du jeu vidéo. Ces ateliers offrent la possibilité aux élèves de 15 à 19 ans de décortiquer la manière dont sont produits les jeux vidéo et de s’initier aux outils d’analyse de productions culturelles multisémiotiques et numériques […]\nThe post Ateliers scientifiques : Introduction à l’étude du jeu vidéo pour les classes des gymnases vaudois appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/05/06/ateliers-scientifiques-introduction-a-letude-du-jeu-video-pour-les-classes-des-gymnases-vaudois/",
-          "publishedOn": "2022-05-06T14:54:14.000Z",
-          "wordCount": 584,
-          "title": "Ateliers scientifiques : Introduction à l’étude du jeu vidéo pour les classes des gymnases vaudois"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=10621",
-          "author": "Heloise schibler",
-          "description": "La faculté de théologie de l’Université de Zurich et l’Institut d’histoire de la Réformation de l’Université de Genève mettent au concours 4 postes pour doctorant·es. Entrée en fonction : 01.08.2022 (ou à convenir). Les postes s’inscrivent dans le cadre du projet « Exégèse de Paul au XVIe siècle », financé par le FNS. Le projet […]\nThe post 4 postes pour doctorant·es dans le cadre du projet « Exégèse de Paul au XVIe siècle » appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/05/06/4-postes-pour-doctorant%c2%b7es-dans-le-cadre-du-projet-exegese-de-paul-au-xvie-siecle/",
-          "publishedOn": "2022-05-06T08:46:30.000Z",
-          "wordCount": 729,
-          "title": "4 postes pour doctorant·es dans le cadre du projet « Exégèse de Paul au XVIe siècle »"
         }
       ]
     },
@@ -1640,6 +1631,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=6222",
+          "author": "DHN Admin",
+          "description": "CDHI is offering bursaries of $1000 to faculty and graduate students who wish to develop specialized skills at other DH training sites. Applications accepted on a rolling basis.",
+          "link": "https://dhn.utoronto.ca/dh-training-bursaries/?utm_source=rss&utm_medium=rss&utm_campaign=dh-training-bursaries",
+          "publishedOn": "2022-11-01T13:48:29.000Z",
+          "wordCount": 846,
+          "title": "Call for Funding: Critical DH Training Bursaries"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=6124",
           "author": "DHN Admin",
@@ -2313,6 +2313,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=9026",
+          "author": "Rachael Griffiths",
+          "description": "In my last article, I wrote about my experiments to improve the accuracy of a Handwritten Text Recognition (HTR) model …",
+          "link": "https://digitalorientalist.com/2022/11/01/transkribus-in-practice-abbreviations/",
+          "publishedOn": "2022-11-01T13:00:00.000Z",
+          "wordCount": 1463,
+          "title": "Transkribus in Practice: Abbreviations"
+        },
         {
           "id": "http://digitalorientalist.com/?p=9019",
           "author": "Theodora Zampaki",
@@ -5751,15 +5760,6 @@
           "publishedOn": "2022-05-16T08:03:11.000Z",
           "wordCount": 456,
           "title": "Vernissage of the virtual exhibition 'Minett Stories'"
-        },
-        {
-          "id": "4001 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "This presentation combines two goals: (1) it gives a short introduction to my first book Shades of Red in which I used computational methods to study the intellectual history of Finnish socialism at the turn of the twentieth century, and (2) it tries to challenge some widely spread “myths” about digital history I have heard during the project.\nThe first myth concerns the claim that the rise of digital history has led (and will increasingly lead) to a more limited range of primary sources used in research for especially the younger generations of historians prefer easily available machine-readable datasets. The counter argument would be that historians are not at the mercy of data providers but could become more active in the digitisation decisions, not only by lobbying memory organisations…",
-          "link": "https://www.c2dh.uni.lu/events/myth-busting-digital-history-some-lessons-shades-red",
-          "publishedOn": "2022-05-06T12:40:10.000Z",
-          "wordCount": 750,
-          "title": "Myth-Busting Digital History: Some Lessons from Shades of Red"
         }
       ]
     },
@@ -5768,6 +5768,33 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/yashila-bordag/",
+          "author": null,
+          "description": "I am a recent UC Berkeley graduate with a BA in Classics and Data Science, minoring in Electrical Engineering and Computer Science, and I previously worked as a software engineer in Cisco Systems. I was also a research assistant in the Sumerian Networks project in Berkeley where we used NLP on Sumerian Tablets to aggregate",
+          "link": "https://www.cdh.cam.ac.uk/about/people/yashila-bordag/",
+          "publishedOn": "2022-11-01T11:57:53.000Z",
+          "wordCount": 398,
+          "title": "Yashila Bordag"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-arild-stenberg/",
+          "author": null,
+          "description": "Arild's background combines experience as a composer and conductor with a more recent focus on research in music psychology and music cognition. As a composer, he was always interested in the effect of notational choices on performance and had already started to explore how the design of a musical text affected practice and rehearsal. After",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-arild-stenberg/",
+          "publishedOn": "2022-11-01T08:07:28.000Z",
+          "wordCount": 414,
+          "title": "Dr Arild Stenberg"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/carleigh-morgan/",
+          "author": null,
+          "description": "Carleigh Morgan is a Trinity College Research Scholar, Fulbright Scholar (2013-2014) and first-generation PhD candidate in Film and Screen Studies at the University of Cambridge. Her doctoral thesis explores the relationship between cinematic labour and cinematic materiality through the lens of animated filmmaking, owing to its propensity for self-reflexive mediation—across a range of genres, mediums,",
+          "link": "https://www.cdh.cam.ac.uk/about/people/carleigh-morgan/",
+          "publishedOn": "2022-11-01T08:07:15.000Z",
+          "wordCount": 444,
+          "title": "Carleigh Morgan"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/estara-arrant/",
           "author": null,
@@ -7225,15 +7252,6 @@
           "publishedOn": "2022-05-09T08:12:50.000Z",
           "wordCount": 363,
           "title": "Code of Conduct"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-robert-ralley/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-robert-ralley/",
-          "publishedOn": "2022-05-06T13:22:19.000Z",
-          "wordCount": 163,
-          "title": "Dr Robert Ralley"
         }
       ]
     },
@@ -7510,6 +7528,24 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1578 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "Applications are invited for the position of DRI Director at the Digital Repository of Ireland (DRI), located at the Royal Irish Academy (RIA).",
+          "link": "https://www.dri.ie/job-opportunity-%E2%80%93-dri-director-digital-repository-ireland",
+          "publishedOn": "2022-11-01T16:31:38.000Z",
+          "wordCount": 846,
+          "title": "Job Opportunity – DRI Director at the Digital Repository of Ireland"
+        },
+        {
+          "id": "1577 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "DRI's Dr Daniel Bangert has been elected to the Council for National Open Science Coordination (CoNOSC) Board.",
+          "link": "https://www.dri.ie/conosc-welcomes-dris-dr-daniel-bangert-board",
+          "publishedOn": "2022-11-01T14:54:07.000Z",
+          "wordCount": 506,
+          "title": "CoNOSC Welcomes DRI's Dr Daniel Bangert to Board"
+        },
         {
           "id": "1575 at https://www.dri.ie",
           "author": "ainemadden",
