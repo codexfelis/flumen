@@ -1780,6 +1780,24 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/865",
+          "author": "434",
+          "description": "Vivien Wolter, Studentin der Digital Humanities an der Universität Trier, ist seit November 2022 die neue DHd-Communication Fellow.\nVivien Wolter studierte Germanistik und…",
+          "link": "https://dig-hum.de/aktuelles/vivien-wolter-neue-dhd-communication-fellow",
+          "publishedOn": "2022-11-02T21:13:18.000Z",
+          "wordCount": 831,
+          "title": "Vivien Wolter neue DHd-Communication Fellow"
+        },
+        {
+          "id": "node/864",
+          "author": "406",
+          "description": "The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for its two 2022 Communications Fellowships, each of which comes with a stipend of €500 (Euros).\nEach year…",
+          "link": "https://dig-hum.de/aktuelles/call-for-applications-2022-adho-communications-fellowships",
+          "publishedOn": "2022-11-02T08:30:32.000Z",
+          "wordCount": 863,
+          "title": "Call for Applications: 2022 ADHO Communications Fellowships"
+        },
+        {
           "id": "node/863",
           "author": "406",
           "description": "OPERAS-GER lädt Sie herzlich zum nächsten Termin unserer OPERAS Open Chats, via Zoom, am 17.11.2022 ein.\nWir wollen uns dabei mit den Themen Qualitätssicherung befassen und dabei…",
@@ -2145,12 +2163,6 @@
       "title": "Digital History an der Universität Bielefeld (@BieDigital)",
       "feedUrl": "https://digital-history.uni-bielefeld.de/feed",
       "siteUrl": "https://digital-history.uni-bielefeld.de",
-      "articles": []
-    },
-    {
-      "title": "Site 3",
-      "feedUrl": "https://digital.humanities.ox.ac.uk/rss.xml",
-      "siteUrl": "https://digital.humanities.ox.ac.uk",
       "articles": []
     },
     {
@@ -2618,15 +2630,6 @@
           "publishedOn": "2022-05-10T12:00:00.000Z",
           "wordCount": 2589,
           "title": "Autographic Atlas of Korea: Interview with Dr. Maya Stiller"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=8183",
-          "author": "James Harry Morris",
-          "description": "Since the launch of iOS 15 and an iPadOS 15.1, iPhone and iPad users have been able to use Live …",
-          "link": "https://digitalorientalist.com/2022/05/06/live-text-for-japanese/",
-          "publishedOn": "2022-05-06T23:13:23.000Z",
-          "wordCount": 813,
-          "title": "Live Text for Japanese"
         }
       ]
     },
@@ -3196,15 +3199,6 @@
           "publishedOn": "2022-05-13T08:15:21.431Z",
           "wordCount": 6954,
           "title": "Social Reform International Congresses and Organizations (1846–1914): From Sources to Data"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.75",
-          "author": null,
-          "description": "The Places dataset is still in-process and being added to on a regular basis. It is comprised of complete data management documentation and ethics documentation in English and French, concept notes in English and French, and participant data files that include .csv metadata sheets, .wav audio recordings of interviews, .jpeg photographs of the place of the interview and open ELAN .eaf transcriptions. The participant interview data relies on a narrative inquiry methodology and is collected in one-on-one interviews with researchers on the theme of anglophone expatriation and adaptation to French socio-physical space. These interviews are informal and interactive, aiming for a sharing of experience, since the researchers are, themselves, anglophone expatriates. The aim of this accompanying article is to provide information on the dataset through a concomitant reflection on the research context in France and the affordances of the increasingly powerful TGIR Huma-Num digital humanities infrastructure, as well as the tensions that are prevalent in the Franco-European space between the demands of Open Science and the restrictions of the European General Data Protection Regulations. These affordances and this tension have framed the process that has resulted in the Places data architecture.\n Published on 2022-05-06 11:58:37",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.75",
-          "publishedOn": "2022-05-07T08:16:19.800Z",
-          "wordCount": 6428,
-          "title": "Place-Making Narrative Data: Management Issues in the Context of Open Science and Data Curation in France"
         }
       ]
     },
@@ -3270,6 +3264,42 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1222 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Colleen   Macklin\nJohn   Sharp\n\n\nMonday, November 7, 2022 - 5:00pm\n\n\n\nVan Pelt-Dietrich Library Center\n \n\n\n\nFailure—the real F word if ever there was one—is a topic seldom discussed. If you’ve ever made something, it is likely that you’ve experienced failure. Lots of it. Or, paraphrasing Samuel Beckett, hopefully you have failed better. Over the last decade, game designers John Sharp and Colleen Macklin have interviewed creative practitioners—from chefs to skateboarders, filmmakers to winemakers, and toy designers to comedians to see how they manage the inevitable failures encountered in their practices. Join Sharp and Macklin as they share some of the lessons they’ve learned from game design and other creative disciplines. Because while everyone fails, some do it better. Because without f…",
+          "link": "https://pricelab.sas.upenn.edu/events/failing-better",
+          "publishedOn": "2022-11-02T20:06:17.000Z",
+          "wordCount": 637,
+          "title": "Failing Better"
+        },
+        {
+          "id": "1221 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Associate Professor of Games and Learning in the School of Art, Media and Technology at Parsons The New School for Design",
+          "link": "https://pricelab.sas.upenn.edu/speakers/sharp-john-0",
+          "publishedOn": "2022-11-02T20:05:25.000Z",
+          "wordCount": 212,
+          "title": "John   Sharp"
+        },
+        {
+          "id": "1220 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "The Price Lab is the University of Pennsylvania's center for innovative uses of technology in the study and teaching of history, art, and culture.",
+          "link": "https://pricelab.sas.upenn.edu/speakers/sharp-john",
+          "publishedOn": "2022-11-02T20:04:24.000Z",
+          "wordCount": 191,
+          "title": "John   Sharp"
+        },
+        {
+          "id": "1219 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Associate Professor in the school of Art, Media and Technology at Parsons School of Design",
+          "link": "https://pricelab.sas.upenn.edu/speakers/macklin-colleen",
+          "publishedOn": "2022-11-02T20:02:32.000Z",
+          "wordCount": 206,
+          "title": "Colleen   Macklin"
+        },
         {
           "id": "1218 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
@@ -5287,24 +5317,6 @@
           "publishedOn": "2022-05-08T04:07:49.000Z",
           "wordCount": 41,
           "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/07/somewhat-unexpectedly-the.html",
-          "author": null,
-          "description": "Somewhat unexpectedly the US National Archives & Records Administration catalogue includes some historic photos of Tasmania… catalog.archives.gov/search",
-          "link": "https://updates.timsherratt.org/2022/05/07/somewhat-unexpectedly-the.html",
-          "publishedOn": "2022-05-07T13:39:41.000Z",
-          "wordCount": 33,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/07/ive-got-a.html",
-          "author": null,
-          "description": "I’ve got a site, I suppose I need to add some content now… glam-workbook.net #GLAMWorkbook",
-          "link": "https://updates.timsherratt.org/2022/05/07/ive-got-a.html",
-          "publishedOn": "2022-05-07T06:37:29.000Z",
-          "wordCount": 31,
-          "title": "Untitled"
         }
       ]
     },
@@ -5375,6 +5387,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4264 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "„Son take a good look around/This is your home region!“ Wir freuen uns, Ihnen mitteilen zu können, dass das Buch „This Hard Minett Land“ in wenigen Tagen erscheint, nachdem die Texte, begleitet von Illustrationen des Künstlers Dan Altmann, uns von Februar bis November im Tageblatt begleitet und begeistert haben.\nDieses Buch versteht sich als Einladung zu einer ganz besonderen Entdeckungsreise durch Luxemburgs Süden: Rund vierzig SchriftstellerInnen und HistorikerInnen haben sich von Bruce Springsteens Songs inspirieren lassen und Texte über das luxemburgisch-lothringische Eisenerzbecken, „de Minett“, verfasst, sowie über diejenigen, die dort leben und gelebt haben, die dort geboren oder dorthin eingewandert sind, dort gearbeitet, geliebt, geträumt, gehofft, gekämpft, Erfolg gehabt haben – oder auch gescheitert sind. Indem die Autoren und Autorinnen fiktive, „auf wahren Begebenheiten beruhende“ oder reale Geschichten erzählen, die Geschichten der Helden von „This Hard Minett Land“, „struggling to do everything right“ („Brilliant Disguise“). Begleitet werden die Texte in deutscher, englischer, französischer und luxemburgischer Sprache von Illustrationen des Luxemburger Künstlers Dan Altmann.\nDie offizielle Buchpräsentation findet statt am\nDienstag, 15. November 2022 ab 19.00 Uhr\nim „Pompelhaus“ in Schifflingen (ehemaliges Gelände der Metzeschmelz), Eingang an der Kreuzung Rue de Lallange/Rue du Moulin\nmit musikalischer Einlage von Claudine Muno, die einige Springsteen-Songs singen wird, sowie vom Jazz-Musiker Luciano Pagliarini, die beide auch zu den AutorInnen gehören. Anschließend lädt die Gemeinde Schifflingen zu einem Umtrunk ein.\nUm Antwort (im Fall der Teilnahme, ob allein oder in Begleitung) wird gebeten per E-Mail an denis.scuto@uni.lu oder jaspers@capybarabooks.com bis zum 9. November 2022.\n \nLegal notice\n15 November 2022\n  Contemporary history of Luxembourg\n  History of popular culture  Regional history\n  Outreach\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/hard-minett-land-eine-besondere-entdeckungsreise-durch-luxemburgs-suden",
+          "publishedOn": "2022-11-02T10:27:42.000Z",
+          "wordCount": 478,
+          "title": "This Hard Minett Land – Eine besondere Entdeckungsreise durch Luxemburgs Süden"
+        },
+        {
           "id": "4257 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "Mixed Reality, in its many forms, is generally characterised by its audiovisual, spatial and immersive nature, blending virtual content with elements of physical reality into an arrangement that allows users to physically walk through and interact with the resulting three-dimensional hybrid space. Due to these qualities cultural institutions worldwide are experimenting with new ways of communicating, reviving and preserving cultural heritage. The session will show how adapting a body-based design approach that goes beyond the audiovisual can bring about new forms of learning and understanding history.\nKatharina Tillmanns is a researcher, designer and lecturer for interactive immersive media at TH Köln (https://colognegamelab.de). A former co-president of the Games for Change Europe network and director of the Notgames Fest, she has been exploring and promoting the expressive qualities of games and other playful media as a means of art and activism for the past 12+ years. Currently Katharina is focusing on her dissertation research, which examines multi-sensory learning in the context of mixed reality environments.\n \n \nMonday, 12 December 2022\n17.00 – 18:30\nMaison du Savoir. Auditoire 3.330, Belval Campus\nand online\nThe lecture will be followed by a reception.\nPlease confirm your on-site or online participation before 5 December 2022 at vanessa.napolitano@uni.lu\n \n\n\n\n \nLegal notice\n12 December 2022\n  Public history\n  Augmented reality  Media history  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
@@ -5400,6 +5421,15 @@
           "publishedOn": "2022-10-24T06:38:46.000Z",
           "wordCount": 526,
           "title": "Marching… and Stumbling. Thoughts about Masculinities, War, and Germany’s “Century of Sex”"
+        },
+        {
+          "id": "4241 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "L’application Moving Lusitalia permet de parcourir la Petite Italie, Smartphone à la main, et d’explorer ainsi les histoires de lieux et de vies, révélant les changements de rythme, de temps et d’espace du quartier au fil des décennies.  \nNé à la fin du XIXème siècle avec les débuts de la sidérurgie, le quartier Italie était, contrairement à son nom, certes occupé par des immigrés italiens, mais aussi par de nombreux Luxembourgeois, des Allemands etc. Du point de vue professionnel, il s'agissait avant tout d'un quartier où vivaient des ouvriers mineurs avec leurs familles. Après la Seconde Guerre mondiale, les Italiens représentent la majorité des habitants. À partir des années 1970, ces occupants l’ont progressivement abandonné provoquant la détérioration du bâti. Dès lors la modicité des…",
+          "link": "https://www.c2dh.uni.lu/events/presentation-de-lapplication-web-moving-lusitalia",
+          "publishedOn": "2022-10-20T11:26:37.000Z",
+          "wordCount": 603,
+          "title": "Présentation de l’application web «Moving Lusitalia»"
         },
         {
           "id": "4241 at https://www.c2dh.uni.lu",
@@ -5768,6 +5798,24 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35658/",
+          "author": null,
+          "description": "This special public event responds to the critical issues raised by the UN climate negotiations COP27, which are being held in Egypt between 7-16 November. It will provide a platform for a report back from the CDH Data Lab held on 7 November. The aim of the Data Lab is to throw the spotlight on",
+          "link": "https://www.cdh.cam.ac.uk/events/35658/",
+          "publishedOn": "2022-11-03T10:12:46.000Z",
+          "wordCount": 1164,
+          "title": "COP27 in Egypt: Between data colonialism and climate justice"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/imprisoned-egyptian-software-engineer-and-activist-invited-to-join-university-of-cambridge-datalab-and-public-event-as-cop27-talks-begin/",
+          "author": null,
+          "description": "Imprisoned Egyptian software engineer and activist invited to join University of Cambridge DataLab and public event as COP27 talks begin The annual round of UN climate negotiations take place in the resort of Sharm el-Sheikh this year against a backdrop of increasing signs of climate crisis: rising temperatures, catastrophic floods and droughts, wildfires and extreme",
+          "link": "https://www.cdh.cam.ac.uk/about/news/imprisoned-egyptian-software-engineer-and-activist-invited-to-join-university-of-cambridge-datalab-and-public-event-as-cop27-talks-begin/",
+          "publishedOn": "2022-11-02T17:26:01.000Z",
+          "wordCount": 890,
+          "title": "Imprisoned Egyptian software engineer and activist invited to join University of Cambridge DataLab and public event as COP27 talks begin"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/yashila-bordag/",
           "author": null,
@@ -7529,6 +7577,15 @@
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
         {
+          "id": "1576 at https://www.dri.ie",
+          "author": "clarelanigan",
+          "description": "World Digital Preservation Day (WDPD) is held on the first Thursday of every November and is a chance to celebrate the positive impact that digital preservation has on the world. This blog post analyses the value to the public good of archiving digital material related to social movements, using the Archiving Reproductive Health (ARH) project at the Digital Repository of Ireland (DRI) as a case study.",
+          "link": "https://www.dri.ie/data-all-good-archiving-reproductive-health",
+          "publishedOn": "2022-11-03T14:47:54.000Z",
+          "wordCount": 1208,
+          "title": "Data for All for Good – Archiving Reproductive Health"
+        },
+        {
           "id": "1578 at https://www.dri.ie",
           "author": "ainemadden",
           "description": "Applications are invited for the position of DRI Director at the Digital Repository of Ireland (DRI), located at the Royal Irish Academy (RIA).",
@@ -8139,6 +8196,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=12620",
+          "author": "Melanie Cheung",
+          "description": "Event details When: Thursday 1 December, 14:00 - 15:30 (GMT); 15:00 - 16:30 (CET); 09:00 - 10:30 (EST), 22:00 - 23:30 (AWST) Where: This will be a virtual event, held via Zoom Who should attend: This event is open to all, you do not need to work for an RLUK institution [...]\nThe post Event: Equality, Diversity, and Inclusion in the Research Library Space appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/event-equality-diversity-and-inclusion-in-the-research-library-space/",
+          "publishedOn": "2022-11-02T09:34:54.000Z",
+          "wordCount": 1224,
+          "title": "Event: Equality, Diversity, and Inclusion in the Research Library Space"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=12599",
           "author": "Melanie Cheung",
