@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-03T10:13:13.471Z</updated>
+    <updated>2022-11-04T08:04:57.562Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -14,6 +14,18 @@
         <summary type="html"><![CDATA[World Digital Preservation Day (WDPD) is held on the first Thursday of every November and is a chance to celebrate the positive impact that digital preservation has on the world. This blog post analyses the value to the public good of archiving digital material related to social movements, using the Archiving Reproductive Health (ARH) project at the Digital Repository of Ireland (DRI) as a case study.]]></summary>
         <author>
             <name>clarelanigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training: Digital Skills Space]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1515</id>
+        <link href="https://scholarlytales.hcommons.org/2022/11/03/training-digital-skills-space/"/>
+        <updated>2022-11-03T13:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Do you find yourself wishing you could learn a new digital skill like R or Python, but just cannot seem to carve out the time in your schedule? Do you get started but then find yourself stuck and in need…
+
+Continue reading “Training: Digital Skills Space”…]]></summary>
+        <author>
+            <name>Leah Budke</name>
         </author>
     </entry>
     <entry>
@@ -10921,35 +10933,6 @@ Follow CLARIN-CH on LinkedIn
 blog]]></summary>
         <author>
             <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/08/141629.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/08/141629.html"/>
-        <updated>2022-05-08T04:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Changes in Trove newspaper titles in the last week:
-+26,731 articles from Daily News (WA)
-+88,485 articles from Sunraysia Daily (Vic)
-+6,810 articles from Dalgety’s Review (WA)
-See: github.com/wragge/tr…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/08/changes-in-trove.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/08/changes-in-trove.html"/>
-        <updated>2022-05-08T04:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Changes in Trove newspapers in the past week:
-+124,404 articles available
-+17,306 articles with corrections
-+8,269 articles with tags
-+523 articles with  comments
-See: github.com/wragge/tr…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
