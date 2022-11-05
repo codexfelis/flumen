@@ -2326,6 +2326,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=9066",
+          "author": "Anaïs Wion",
+          "description": "(Part 1) For my first post here on African studies and the use of digital tools, I’ll talk about my …",
+          "link": "https://digitalorientalist.com/2022/11/04/how-to-build-a-community-of-collaborative-transcription-feed-back-from-an-on-going-project/",
+          "publishedOn": "2022-11-04T13:00:00.000Z",
+          "wordCount": 1403,
+          "title": "How to build a community of collaborative transcription? Feed-back from an on-going project"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=9026",
           "author": "Rachael Griffiths",
           "description": "In my last article, I wrote about my experiments to improve the accuracy of a Handwritten Text Recognition (HTR) model …",
@@ -2875,24 +2884,6 @@
           "publishedOn": "2022-05-13T15:53:33.000Z",
           "wordCount": 597,
           "title": "#CfP Digital Editorial Approaches to Medieval Charters"
-        },
-        {
-          "id": "1407 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "15 May 2022 - 00:00\n\n\n\nWorkshop \"Computing the Past: Computational approaches to the dynamics of cultures and societies\n\n\n\nOn behalf of CCS-Lab at the University of West Bohemia and the co-organizing institutions, I would like to invite you to the workshop \"Computing the Past: Computational approaches to the dynamics of cultures and societies“ to take place in Plzeň/Pilsen on October 6-8 2022 (for more information see the attached Call for papers and the website  https://ccs.zcu.cz/ctp2022/).\nSubmission deadline for paper/poster titles and abstracts is May 15.",
-          "link": "https://eadh.org/news/2022/05/09/workshop-computing-past-computational-approaches-dynamics-cultures-and-societies",
-          "publishedOn": "2022-05-09T16:01:24.000Z",
-          "wordCount": 389,
-          "title": "Workshop \"Computing the Past: Computational approaches to the dynamics of cultures and societies"
-        },
-        {
-          "id": "1406 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "JUMPSTART Digital Humanities Workshop 23-27 May 2022\n\n\n\nFrom 23-27 May 2022 Newcastle University is hosting an in-person Digital Humanities workshop, JUMPSTART, providing 5 days of introductory training into digital methods for textual research and publication. \nMonday 23 May 2022: An Introduction to Fundamentals Using Python\nTuesday 24 May 2022: An Introduction to TEI Publisher\nWednesday 25 May 2022: Transkribus for Handwritten Text Recognition\nThursday 26 May 2022: Data Science/Wrangling and Text Analysis\nFriday 27 May 2022: AI and Machine Learning  \nEither the whole week can be booked or each day individually. Participants are expected to bring and use their own laptops for the workshop. Funding from the British Academy has enabled us to keep costs of attendance reasonably low.   \nFind out more and register at: https://research.ncl.ac.uk/jumpstart/",
-          "link": "https://eadh.org/news/2022/05/09/jumpstart-digital-humanities-workshop-23-27-may-2022",
-          "publishedOn": "2022-05-09T15:57:07.000Z",
-          "wordCount": 425,
-          "title": "JUMPSTART Digital Humanities Workshop 23-27 May 2022"
         }
       ]
     },
@@ -2963,6 +2954,15 @@
       "feedUrl": "https://livingwithmachines.ac.uk/feed",
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=2832",
+          "author": "Mia Ridge",
+          "description": "Led by Barbara McGillivray, Jon Lawrence, Nilo Pedrazzini, Mia Ridge, Giorgia Tolfo, and Kalle Westerling submitted a nomination, and were delighted to be chosen as one of three award winners in 2022. As described on the awards page, The Language of Mechanisation ‘realises an experiment in radically interdisciplinary and transdisciplinary collaboration at the intersection between […]",
+          "link": "https://livingwithmachines.ac.uk/language-of-mechanisation-team-members-awarded-inter-circle-u-prize-2022/?utm_source=rss&utm_medium=rss&utm_campaign=language-of-mechanisation-team-members-awarded-inter-circle-u-prize-2022",
+          "publishedOn": "2022-11-04T15:24:34.000Z",
+          "wordCount": 436,
+          "title": "Language of mechanisation team members awarded ‘Inter Circle U. Prize 2022’"
+        },
         {
           "id": "https://livingwithmachines.ac.uk/?p=2807",
           "author": "Mia Ridge",
@@ -3264,6 +3264,24 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1225 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "J.D.  Porter\n\n\nTuesday, December 6, 2022 - 2:00pm\n\n\n\nWilliams Hall 623\n\n\n\nGephi is a popular and powerful tool for creating network visualization. DH Specialist J.D. Porter will will introduce the basics of what you can do with the tool and how to get started. No prior experience necessary!\nLearn more about Gephi here: https://gephi.org/\n\n\nSubtitle: \n\nGraduate Student Working Group in Digital Humanities\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/intro-humanities-data-visualization-gephi",
+          "publishedOn": "2022-11-04T20:17:35.000Z",
+          "wordCount": 267,
+          "title": "Intro to Humanities Data Visualization in Gephi"
+        },
+        {
+          "id": "1224 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Digital Humanities Specialist, University of Pennsylvania",
+          "link": "https://pricelab.sas.upenn.edu/speakers/porter-jd",
+          "publishedOn": "2022-11-04T20:17:08.000Z",
+          "wordCount": 197,
+          "title": "J.D.  Porter"
+        },
         {
           "id": "1222 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
@@ -5790,6 +5808,42 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/research/dh-teaching-forum/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/dh-teaching-forum/",
+          "publishedOn": "2022-11-04T13:16:19.000Z",
+          "wordCount": 366,
+          "title": "DH Teaching Forum"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35682/",
+          "author": null,
+          "description": "Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, in addition to short invited talks and presentations on topics decided by the",
+          "link": "https://www.cdh.cam.ac.uk/events/35682/",
+          "publishedOn": "2022-11-04T13:13:22.000Z",
+          "wordCount": 344,
+          "title": "DH Teaching Forum"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35685/",
+          "author": null,
+          "description": "Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, in addition to short invited talks and presentations on topics decided by the",
+          "link": "https://www.cdh.cam.ac.uk/events/35685/",
+          "publishedOn": "2022-11-04T13:12:41.000Z",
+          "wordCount": 344,
+          "title": "DH Teaching Forum"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35684/",
+          "author": null,
+          "description": "Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, in addition to short invited talks and presentations on topics decided by the",
+          "link": "https://www.cdh.cam.ac.uk/events/35684/",
+          "publishedOn": "2022-11-04T13:09:20.000Z",
+          "wordCount": 344,
+          "title": "DH Teaching Forum"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/events/35658/",
           "author": null,
           "description": "This special public event responds to the critical issues raised by the UN climate negotiations COP27, which are being held in Egypt between 7-16 November. It will provide a platform for a report back from the CDH Data Lab held on 7 November. The aim of the Data Lab is to throw the spotlight on",
@@ -7264,33 +7318,6 @@
           "publishedOn": "2022-05-10T10:45:29.000Z",
           "wordCount": 243,
           "title": "Computer Vision: a critical introduction"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/33703/",
-          "author": null,
-          "description": "This course will be of interest to academics at all levels (including PhD students) who travel to remote locations (including small libraries worldwide) to access their primary material (often pamphlets and hand-written ephemera) which they are interested in digitising not only for their own scholarly appraisal, but also as a means of enabling access to",
-          "link": "https://www.cdh.cam.ac.uk/events/33703/",
-          "publishedOn": "2022-05-09T13:45:26.000Z",
-          "wordCount": 311,
-          "title": "Remote Capture: on-site archival photography"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/code-of-conduct/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/code-of-conduct/",
-          "publishedOn": "2022-05-09T12:01:43.000Z",
-          "wordCount": 363,
-          "title": "Code of Conduct"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/code-of-conduct/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/code-of-conduct/",
-          "publishedOn": "2022-05-09T08:12:50.000Z",
-          "wordCount": 363,
-          "title": "Code of Conduct"
         }
       ]
     },
@@ -7532,33 +7559,6 @@
           "publishedOn": "2022-05-24T09:10:42.000Z",
           "wordCount": 1548,
           "title": "A Recap on CLARIN Café: Bilingual and Multilingual Corpora"
-        },
-        {
-          "id": "5718 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "CLARIN ERIC is looking for a Head of Operations (0.7 - 1.0 fte)\n\n            \nJob Description\nCLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n   is looking for a ‘Head of Operations’  who will work closely with the CLARIN Board of Directors and the staff at the central CLARIN Office.\nThe main tasks for which the Head of Operations will be responsible are: overseeing the implementation of strategic decisions taken by the Board of Directors in close coordination with the Executive Director and coordinating the central CLARIN Office workflows and their alignment with the CLARIN network and the wider infrastructural ecosystem.\nThe Head of Operations will be based at…",
-          "link": "https://www.clarin.eu/news/clarin-eric-looking-head-operations",
-          "publishedOn": "2022-05-09T15:28:39.000Z",
-          "wordCount": 571,
-          "title": "CLARIN ERIC is looking for a Head of Operations (0.7 - 1.0 fte)"
-        },
-        {
-          "id": "5718 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "CLARIN ERIC is Looking for a Head of Operations (0.7 - 1.0 fte)\n\n            \nJob Description\nThe main tasks for which the Head of Operations will be responsible are: overseeing the implementation of strategic decisions taken by the Board of Directors in close coordination with the Executive Director and coordinating the central CLARIN Office workflows and their alignment with the CLARIN network and the wider infrastructural ecosystem.\nThe Head of Operations will be based at the CLARIN Office in Utrecht (NL). Some travelling throughout Europe will also be part of the working pattern.\nRequirements\nThe ideal candidate has:\nA record of relevant managerial responsibilities in an academic context or the wider public sector, reflected in:\n\nDemonstrated ability to manage a team of dedicated profe…",
-          "link": "https://www.clarin.eu/news/clarin-eric-looking-head-operations-07-10-fte",
-          "publishedOn": "2022-05-09T15:28:39.000Z",
-          "wordCount": 521,
-          "title": "CLARIN ERIC is Looking for a Head of Operations (0.7 - 1.0 fte)"
-        },
-        {
-          "id": "5721 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "A New CLARIN National Consortium: CLARIN-CH\n\n            \nWith the support of the Swiss Academy for Social Sciences and Humanities, various institutions in Switzerland are preparing to join CLARIN \n    \nEuropean Research Infrastructure Consortium\n\r\nSee: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en\n\r\nread more\n\n  . \nSix research and academic institutions from the German-, French- and Italian-speaking parts signed the CLARIN-CH Consortium in December 2020: the universities of Bern, Lausanne, Neuchâtel, Zurich, Università della Svizzera Italiana, and the Zurich University of Applied Sciences. The number of members keeps growing, with the University of Basel joining the consortium at the beginning of 2022 and other institutions expected to join before the end of the year.\nCLARIN-CH activities are coordinated at the University of Zurich by Prof. Dr. Marianne Hundt as National Coordinator and Dr. Cristina Grisot as Scientific Coordinator.\nAt the national level, the coordination office and the consortium members are actively working together with the purpose of bringing together the Swiss linguistics research community and fostering the sharing of resources and expertise within the national and the European CLARIN community. For the next years, it is planned to join CLARIN as Observer (autumn 2022), to implement national working groups (autumn 2022), and to prepare Switzerland’s most recent national Research Infrastructure (the Linguistics Research Infrastructure LiRI) for the assessment as a CLARIN B-centre (beginning of 2023).\nThe CLARIN-CH website provides an overview of Swiss national assets in terms of language resources and a large array of expertise in the area of language sciences and its various sub-fields.\nFollow CLARIN-CH on LinkedIn\n\n      Elisa Gorgaini\n 9 May 2022\n\n    \nblog",
-          "link": "https://www.clarin.eu/blog/new-clarin-national-consortium-clarin-ch",
-          "publishedOn": "2022-05-09T07:27:17.000Z",
-          "wordCount": 401,
-          "title": "A New CLARIN National Consortium: CLARIN-CH"
         }
       ]
     },
@@ -7567,6 +7567,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1579 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "Date: \n\n21 Nov 2022\n\n\nLocation: \n\nOnline\n\n\n\nThe National Open Research Forum (NORF) is delighted to announce an online event on 21 November 2022 to launch Ireland’s National Action Plan for Open Research 2022-2030 and projects funded by the NORF 2022 Open Research Fund.",
+          "link": "https://www.dri.ie/norf-national-action-plan-and-projects-launch-event",
+          "publishedOn": "2022-11-04T10:50:32.000Z",
+          "wordCount": 936,
+          "title": "NORF National Action Plan and Projects' Launch Event"
+        },
         {
           "id": "1576 at https://www.dri.ie",
           "author": "clarelanigan",
@@ -8133,15 +8142,6 @@
           "publishedOn": "2022-05-10T11:21:00.000Z",
           "wordCount": 1634,
           "title": "New Research Data Collection: St. Kieran's College, Kilkenny, Class Portraits and Student Records Digitisation Project 2021"
-        },
-        {
-          "id": "1508 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "In a new blog, Orla Egan from the Cork LGBT Archive and Full Stack Feminism talks about the concept of ‘Queering the Archive’, which ‘isn’t just about adding in queer topics or items, but it can also be seen as query-ing the concept of what an archive is, what it can contain, how we archive and who can archive’.",
-          "link": "https://www.dri.ie/queering-archive",
-          "publishedOn": "2022-05-09T15:29:44.000Z",
-          "wordCount": 1611,
-          "title": "Queering the Archive"
         }
       ]
     },
