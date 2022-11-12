@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-11T08:04:37.572Z</updated>
+    <updated>2022-11-12T08:04:23.997Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call for Hosts DHd2025]]></title>
+        <id>node/868</id>
+        <link href="https://dig-hum.de/aktuelles/call-for-hosts-dhd2025"/>
+        <updated>2022-11-11T20:04:29.000Z</updated>
+        <summary type="html"><![CDATA[DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…]]></summary>
+        <author>
+            <name>414</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview with Arezou Azad on the Invisible East Programme and its Digitisation of Documents from the Medieval Islamicate East, part 2]]></title>
+        <id>http://digitalorientalist.com/?p=9145</id>
+        <link href="https://digitalorientalist.com/2022/11/11/interview-with-arezou-azad-on-the-invisible-east-programme-and-its-digitisation-of-documents-from-the-medieval-islamicate-east-part-2/"/>
+        <updated>2022-11-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the second part of an interview with Arezou Azad, Senior Research Fellow at Oxford University’s Faculty of Asian …]]></summary>
+        <author>
+            <name>Theodora Zampaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DÉCRYPTÉ S2 – Littérature et intelligence artificielle | Coline Métrailler]]></title>
         <id>https://dhcenter-unil-epfl.ch/?p=11960</id>
@@ -10730,44 +10750,6 @@ Please confirm your participation before 23 May 2022 at vanessa.napolitano@uni.l
         <summary type="html"><![CDATA[Joignez-vous à nous! La Société canadienne pour les humanités numériques lance un appel aux nominations et aux auto-nominations pour le comité exécutif : Président Vice-président (anglais) Secrétaire Membre actif Membre actif Représentant des étudiants Communications Nouveau poste Vice-président (Équité, diversité, inclusion, décolonisation) Veuillez vous porter candidat à l’un de ces postes ou encourager quelqu’un à […]]]></summary>
         <author>
             <name>Constance Crompton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/15/also-on-tonights.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/15/also-on-tonights.html"/>
-        <updated>2022-05-15T11:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Also on tonight’s episode of ‘In GLAM This Week’, the NAA digitised 20,517 files. Of these:
-13,850 were name index cards from the Bonegilla Migrant Camp (Series A2571 & A2572).
-4,938 were CMF personnel files (Series B884)
-See: github.com/wragge/na…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/15/this-weeks-changes.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/15/this-weeks-changes.html"/>
-        <updated>2022-05-15T11:05:59.000Z</updated>
-        <summary type="html"><![CDATA[This week’s changes in Trove newspapers:
-+7,451 articles
-+16,628 articles with corrections
-+8,148 articles with tags
-+491 articles with comments
-github.com/wragge/tr…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/15/another-overdue-maintenance.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/15/another-overdue-maintenance.html"/>
-        <updated>2022-05-15T05:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Another overdue maintenance task completed! The Tung Wah Newspaper index has been migrated from a custom Django app on a now defunct web host, to a nice, neat Datasette instance on Heroku. https://resources.chineseaustralia.org/tung_wah_newspaper_index]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>

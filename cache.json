@@ -1789,6 +1789,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/868",
+          "author": "414",
+          "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…",
+          "link": "https://dig-hum.de/aktuelles/call-for-hosts-dhd2025",
+          "publishedOn": "2022-11-11T20:04:29.000Z",
+          "wordCount": null,
+          "title": "Call for Hosts DHd2025"
+        },
+        {
           "id": "node/867",
           "author": "434",
           "description": "An der Fachhochschule Potsdam wird im Fachbereich Design zum 01.01.2023 ein*e\nAkademische*r Mitarbeiter*in (w/m/d) im Fachbereich Design (13 TV-L) mit einer wöchentlichen…",
@@ -2352,6 +2361,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=9145",
+          "author": "Theodora Zampaki",
+          "description": "This is the second part of an interview with Arezou Azad, Senior Research Fellow at Oxford University’s Faculty of Asian …",
+          "link": "https://digitalorientalist.com/2022/11/11/interview-with-arezou-azad-on-the-invisible-east-programme-and-its-digitisation-of-documents-from-the-medieval-islamicate-east-part-2/",
+          "publishedOn": "2022-11-11T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Interview with Arezou Azad on the Invisible East Programme and its Digitisation of Documents from the Medieval Islamicate East, part 2"
+        },
         {
           "id": "http://digitalorientalist.com/?p=9102",
           "author": "Zach Butler",
@@ -5286,33 +5304,6 @@
           "publishedOn": "2022-05-20T05:43:00.000Z",
           "wordCount": 191,
           "title": "Convert your Trove newspaper searches to an API query with just one click!"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/15/also-on-tonights.html",
-          "author": null,
-          "description": "Also on tonight’s episode of ‘In GLAM This Week’, the NAA digitised 20,517 files. Of these:\n13,850 were name index cards from the Bonegilla Migrant Camp (Series A2571 & A2572).\n4,938 were CMF personnel files (Series B884)\nSee: github.com/wragge/na…",
-          "link": "https://updates.timsherratt.org/2022/05/15/also-on-tonights.html",
-          "publishedOn": "2022-05-15T11:45:29.000Z",
-          "wordCount": 55,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/15/this-weeks-changes.html",
-          "author": null,
-          "description": "This week’s changes in Trove newspapers:\n+7,451 articles\n+16,628 articles with corrections\n+8,148 articles with tags\n+491 articles with comments\ngithub.com/wragge/tr…",
-          "link": "https://updates.timsherratt.org/2022/05/15/this-weeks-changes.html",
-          "publishedOn": "2022-05-15T11:05:59.000Z",
-          "wordCount": 37,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/15/another-overdue-maintenance.html",
-          "author": null,
-          "description": "Another overdue maintenance task completed! The Tung Wah Newspaper index has been migrated from a custom Django app on a now defunct web host, to a nice, neat Datasette instance on Heroku. https://resources.chineseaustralia.org/tung_wah_newspaper_index",
-          "link": "https://updates.timsherratt.org/2022/05/15/another-overdue-maintenance.html",
-          "publishedOn": "2022-05-15T05:56:53.000Z",
-          "wordCount": 49,
-          "title": "Untitled"
         }
       ]
     },
