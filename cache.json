@@ -484,6 +484,15 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/?p=35713",
+          "author": "Heather Stallard",
+          "description": "Data Schools at the University of Cambridge started in 2019, with the aim of putting research methods and tools in the hands of practitioners in the Galleries, Libraries, Archives, and Museums (GLAM) sector, journalists, and NGOs. A very important part was to ​​encourage dialogue between academia, civil society, the public sector and industry about the […]\nThe post The Cambridge Data Schools Expand first appeared on CDH.",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/the-cambridge-data-schools-expand/",
+          "publishedOn": "2022-11-09T18:13:19.000Z",
+          "wordCount": 967,
+          "title": "The Cambridge Data Schools Expand"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/?p=35636",
           "author": "Emma Smith",
           "description": "By Linseigh Green First published on www.faust-shop.org on 10th October 2022 When I was first cast as Faust in Faust Shop, the 2022 adaptation of the Faust legend to the digital age co-directed by Annja Neumann and Alex Mentzel, I struggled more than I had ever done before to understand my character (and I’ve played […]\nThe post Understanding Faust: Mortal Bodies, Immortal Desires first appeared on CDH.",
@@ -680,42 +689,6 @@
           "publishedOn": "2022-07-11T18:52:28.000Z",
           "wordCount": 928,
           "title": "SpokenWeb Symposium 2023 Call for Papers"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=1054",
-          "author": "Constance Crompton",
-          "description": "Jada Watson est professeure et chercheuse à l’Université d’Ottawa. Elle utilise l’analyse de données pour révéler les préjugés systémiques dans la programmation de la musique country, ainsi que les effets économiques et politiques réels de ces préjugés. Son projet Song Data, financé par le CRSH, utilise les données de Spotify et de Billboard pour interroger […]",
-          "link": "https://csdh-schn.org/jada-watson-obtient-le-prix-du-debut-de-carriere-exceptionnelle/",
-          "publishedOn": "2022-05-16T14:39:01.000Z",
-          "wordCount": 496,
-          "title": "Jada Watson obtient le prix du début de carrière exceptionnelle"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=1047",
-          "author": "Constance Crompton",
-          "description": "Dr. Jada Watson teaches and researches at the University of Ottawa, with a background in Information Science and Ethnomusicology. She uses data analysis to reveal systemic bias in country music programming, and the real economic and political effects of that bias. Her SSHRC-funded Song Data project uses Spotify and Billboard data to interrogate the racialized […]",
-          "link": "https://csdh-schn.org/jada-watson-wins-the-outstanding-early-career-award/",
-          "publishedOn": "2022-05-16T04:58:46.000Z",
-          "wordCount": 441,
-          "title": "Jada Watson wins the Outstanding Early Career Award"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=1034",
-          "author": "Constance Crompton",
-          "description": "Join us! The Canadian Society for Digital Humanities welcomes nominations and self-nominations for the executive positions that have become open as of our Annual General Meeting on May 18th: President Vice-President (English) Secretary Member-at-Large Member-at-Large Student Representative Communications Officer New position Vice-President (Équité, diversité, inclusion, décolonisation) Please consider standing for one of these positions or […]",
-          "link": "https://csdh-schn.org/nominations-for-executive-positions-open-may-18-june-30th/",
-          "publishedOn": "2022-05-16T04:20:03.000Z",
-          "wordCount": 288,
-          "title": "Nominations for executive positions open May 18-June 30th"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=1039",
-          "author": "Constance Crompton",
-          "description": "Joignez-vous à nous! La Société canadienne pour les humanités numériques lance un appel aux nominations et aux auto-nominations pour le comité exécutif : Président Vice-président (anglais) Secrétaire Membre actif Membre actif Représentant des étudiants Communications Nouveau poste Vice-président (Équité, diversité, inclusion, décolonisation) Veuillez vous porter candidat à l’un de ces postes ou encourager quelqu’un à […]",
-          "link": "https://csdh-schn.org/les-nominations-aux-postes-executifs-sont-ouvertes-18-mai-au-30-juin/",
-          "publishedOn": "2022-05-16T04:19:37.000Z",
-          "wordCount": 294,
-          "title": "Les nominations aux postes exécutifs sont ouvertes 18 mai au 30 juin"
         }
       ]
     },
@@ -755,6 +728,105 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=125019",
+          "author": "Pamella Lach",
+          "description": "The Data Literacy Cookbook is now available. Edited by Kelly Getz (Associate Professor and S.T.E.M. Librarian at Eastern Michigan University) and Meryl Brodsky (Liaison Librarian for the School of Information and the Moody College of Communication at the University of Texas – Austin), the cookbook helps librarians prepare to teach a broad range of data ...read more",
+          "link": "https://dhandlib.org/2022/11/11/resource-data-literacy-cookbook/?utm_source=rss&utm_medium=rss&utm_campaign=resource-data-literacy-cookbook",
+          "publishedOn": "2022-11-11T16:21:30.000Z",
+          "wordCount": 655,
+          "title": "RESOURCE: Data Literacy Cookbook"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125026",
+          "author": "Pamella Lach",
+          "description": "AEOLIAN (Artificial Intelligence for Cultural Organisations) will offer an upcoming online workshop, Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences. Hosted by University of Illinois and the HathiTrust Research Center, this workshop will be held November 29-30 from 10am – 2pm ...read more",
+          "link": "https://dhandlib.org/2022/11/11/event-making-more-sense-with-machines/?utm_source=rss&utm_medium=rss&utm_campaign=event-making-more-sense-with-machines",
+          "publishedOn": "2022-11-11T16:19:51.000Z",
+          "wordCount": 857,
+          "title": "EVENT: Making More Sense With Machines"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125024",
+          "author": "Pamella Lach",
+          "description": "Organized by the University of London’s School of Advance Study, Reframing Failure: Setting the Failure Agenda is a free virtual seminar being held on November 15 (5:00pm GMT). From the event page: In 2012 Lisa Spiro wrote, ‘Not all experiments succeed as originally imagined, but the digital humanities community recognizes the value of failure in ...read more",
+          "link": "https://dhandlib.org/2022/11/11/event-reframing-failure-setting-the-failure-agenda/?utm_source=rss&utm_medium=rss&utm_campaign=event-reframing-failure-setting-the-failure-agenda",
+          "publishedOn": "2022-11-11T16:19:08.000Z",
+          "wordCount": 809,
+          "title": "EVENT: Reframing Failure: Setting the Failure Agenda"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125022",
+          "author": "Pamella Lach",
+          "description": "The Building Digital Humanities Symposium is a free, online event organized by Western Sydney University in conjunction with Gale, part of Cengage Group and the Pondicherry University and running November 7-25. The symposium “will explore the conditions in which Digital Humanities (DH) can flourish at institutional, inter-institutional, national and supra-national level, considering issues such as ...read more",
+          "link": "https://dhandlib.org/2022/11/11/event-building-digital-humanities-symposium/?utm_source=rss&utm_medium=rss&utm_campaign=event-building-digital-humanities-symposium",
+          "publishedOn": "2022-11-11T16:18:27.000Z",
+          "wordCount": 756,
+          "title": "EVENT: Building Digital Humanities Symposium"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125031",
+          "author": "Pamella Lach",
+          "description": "The Coalition for Networked Information (CNI) announced its call for its February 2023 pre-recorded project briefings. From the call: Videos should focus on a timely topic or on a specific project related to digital information. We especially invite briefings on recently published reports, and updates on new or ongoing projects, programs, or organizations that may have reported ...read more",
+          "link": "https://dhandlib.org/2022/11/11/cfp-cni-pre-recorded-project-briefing-series/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-cni-pre-recorded-project-briefing-series",
+          "publishedOn": "2022-11-11T16:17:44.000Z",
+          "wordCount": 723,
+          "title": "CFP: CNI Pre-Recorded Project Briefing Series"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125037",
+          "author": "Rachel Starry",
+          "description": "Guest editors Lorena Gauthereau, Marissa K. López, and Maira E. Álvarez, welcome submissions for a special issue of Chiricú Journal: Latina/o Literatures, Arts, and Cultures, on the topic of “Latinx Digital Humanities: Method, Theory, and Praxis.” From the announcement: This special issue will bring together critical essays, snapshots from the field (e.g. reports, descriptions of ...read more",
+          "link": "https://dhandlib.org/2022/11/11/cfp-latinx-digital-humanities-method-theory-and-praxis/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-latinx-digital-humanities-method-theory-and-praxis",
+          "publishedOn": "2022-11-11T16:16:59.000Z",
+          "wordCount": 651,
+          "title": "CFP: Latinx Digital Humanities: Method, Theory, and Praxis"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125039",
+          "author": "Rachel Starry",
+          "description": "The The Journal of Interactive Technology and Pedagogy (JITP) is seeking new members to join their Editorial Collective as the JITP team prepares to migrate the journal’s production and publication process to Manifold. The announcement welcomes applications from a variety of DH and library practitioners interested in gaining experience with academic editorship: We invite applications from graduate ...read more",
+          "link": "https://dhandlib.org/2022/11/11/opportunity-journal-of-interactive-technology-and-pedagogy-editorial-collective/?utm_source=rss&utm_medium=rss&utm_campaign=opportunity-journal-of-interactive-technology-and-pedagogy-editorial-collective",
+          "publishedOn": "2022-11-11T16:15:25.000Z",
+          "wordCount": 754,
+          "title": "OPPORTUNITY: Journal of Interactive Technology and Pedagogy Editorial Collective"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125041",
+          "author": "Rachel Starry",
+          "description": "From the announcement: The Web and Data Services Developer designs, develops, and maintains custom web-based and other applications in support of Digital Humanities research and pedagogy at SFU. The position adapts and extends existing open-source software across a variety of platforms, frameworks, and languages. The position works with faculty and others to determine the most ...read more",
+          "link": "https://dhandlib.org/2022/11/11/job-web-and-data-services-developer-simon-fraser-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-web-and-data-services-developer-simon-fraser-university",
+          "publishedOn": "2022-11-11T16:14:19.000Z",
+          "wordCount": null,
+          "title": "JOB: Web and Data Services Developer (Simon Fraser University)"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125033",
+          "author": "Pamella Lach",
+          "description": "From the announcement: Bucknell University’s Library and Information Technology division is seeking a Digital Pedagogy & Scholarship Specialist with an emphasis on public scholarship to support our vision of transformative and inclusive digital scholarship. The primary goal of this position is to provide support to campus stakeholders who are working on ​​digital scholarship and pedagogy ...read more",
+          "link": "https://dhandlib.org/2022/11/11/job-digital-pedagogy-scholarship-specialist-in-public-scholarship-bucknell-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-pedagogy-scholarship-specialist-in-public-scholarship-bucknell-university",
+          "publishedOn": "2022-11-11T16:13:15.000Z",
+          "wordCount": null,
+          "title": "JOB: Digital Pedagogy & Scholarship Specialist in Public Scholarship (Bucknell University)"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125043",
+          "author": "Rachel Starry",
+          "description": "From the announcement: Job Description Boston College Libraries seek a Data Visualization Librarian to join our Digital Scholarship Group (DSG). This position is primarily responsible for digital scholarship collaborations and services related to data visualization. Such activities include consulting on faculty and student data-visualization projects; providing data visualization skills training to faculty and staff; and providing ...read more",
+          "link": "https://dhandlib.org/2022/11/11/job-data-visualization-librarian-boston-college/?utm_source=rss&utm_medium=rss&utm_campaign=job-data-visualization-librarian-boston-college",
+          "publishedOn": "2022-11-11T16:12:19.000Z",
+          "wordCount": null,
+          "title": "JOB: Data Visualization Librarian (Boston College)"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125016",
+          "author": "Pamella Lach",
+          "description": "From the announcement: The Michigan State University Libraries seeks a creative, knowledgeable, and user-oriented librarian for the position of Head of Digital Scholarship Services (Librarian I/II). The successful candidate will lead and build a team of innovative and collaborative professionals in the Libraries’ Digital Scholarship Lab and work closely with campus partners across disciplines in ...read more",
+          "link": "https://dhandlib.org/2022/11/11/job-head-digital-scholarship-services-librarian-michigan-state-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-head-digital-scholarship-services-librarian-michigan-state-university",
+          "publishedOn": "2022-11-11T16:09:55.000Z",
+          "wordCount": null,
+          "title": "JOB: Head, Digital Scholarship Services Librarian (Michigan State University)"
+        },
         {
           "id": "https://dhandlib.org/?p=124879",
           "author": "Linsey Ford",
@@ -2174,15 +2246,6 @@
           "publishedOn": "2022-05-21T08:16:23.478Z",
           "wordCount": 735,
           "title": "Professur (w/m/d) für „Bibliothekswissenschaft – Technologien, Systeme und Dienste&quot; (W 2), Fachhochschule Potsdam (Deadline 24.05.22)"
-        },
-        {
-          "id": "node/810",
-          "author": "406",
-          "description": "Das Konsortium Text+[1] der Nationalen Forschungsdateninfrastruktur[2]\n(NFDI) und das Institut für Dokumentologie und Editorik[3] (IDE) laden\nAutor:innen weiterhin ein,…",
-          "link": "https://dig-hum.de/aktuelles/text-und-ride-call-for-reviews-verl%C3%A4ngert",
-          "publishedOn": "2022-05-17T08:17:40.585Z",
-          "wordCount": 767,
-          "title": "Text+ und RIDE: Call for Reviews verlängert"
         }
       ]
     },
@@ -2666,15 +2729,6 @@
           "publishedOn": "2022-05-20T13:00:00.000Z",
           "wordCount": 2734,
           "title": "Autographic Atlas of Korea: Interview with Dr. Maya Stiller"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=8216",
-          "author": "maddalena poli",
-          "description": "In my most recent post, I overviewed how fonts operate, and the steps involved in transforming unknown orthographic structures in …",
-          "link": "https://digitalorientalist.com/2022/05/17/of-fonts-and-men-a-few-thoughts/",
-          "publishedOn": "2022-05-17T12:00:00.000Z",
-          "wordCount": 1065,
-          "title": "Of fonts and men. A few thoughts"
         }
       ]
     },
@@ -3217,15 +3271,6 @@
           "publishedOn": "2022-05-21T08:16:36.551Z",
           "wordCount": 6399,
           "title": "Tracing Changes in Shape of Historical Artefacts Across Time Using 3D Scans: A New Computational Approach"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.69",
-          "author": null,
-          "description": "TIC-Collaborative was a collaborative digital humanities project that focused on transnational intellectual cooperation (TIC) in the long nineteenth century, in particular on transnational connections in the field of social reform. The dataset contains information on over 1650 international congresses and 450 organizations and conference series related to the social question. The project focussed on the Low Countries and a selection of reform areas.\n Published on 2022-05-12 11:59:01",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.69",
-          "publishedOn": "2022-05-13T08:15:21.431Z",
-          "wordCount": 6954,
-          "title": "Social Reform International Congresses and Organizations (1846–1914): From Sources to Data"
         }
       ]
     },
@@ -4530,6 +4575,24 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=1550",
+          "author": "Laura Mesotten",
+          "description": "The Open Science Day of KU Leuven is a yearly event for KU Leuven researchers to exchange Open Science experiences. The 2023 edition will be a combination of classical paper presentations, debates, and posters. We welcome both in-depth analyses of…\n\nContinue reading “Call for contributions: KU Leuven Open Science Day”…",
+          "link": "https://scholarlytales.hcommons.org/2022/11/10/call-for-contributions-ku-leuven-open-science-day/",
+          "publishedOn": "2022-11-10T09:57:26.000Z",
+          "wordCount": 2112,
+          "title": "Call for contributions: KU Leuven Open Science Day"
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1527",
+          "author": "Laura Mesotten",
+          "description": "Sara Cosemans is a Doctor Assistant in Cultural History at KU Leuven and a part-time Assistant Professor in the School of Social Sciences at the UHasselt. She developed this digital method during her PhD at KU Leuven, together with data scientists…\n\nContinue reading “The Digital Humanities journey of Sara Cosemans: using digital research methods to deal with information overload”…",
+          "link": "https://scholarlytales.hcommons.org/2022/11/09/the-digital-humanities-journey-of-sara-cosemans-using-digital-research-methods-to-deal-with-information-overload/",
+          "publishedOn": "2022-11-09T10:40:40.000Z",
+          "wordCount": 3020,
+          "title": "The Digital Humanities journey of Sara Cosemans: using digital research methods to deal with information overload"
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=1515",
           "author": "Leah Budke",
           "description": "Do you find yourself wishing you could learn a new digital skill like R or Python, but just cannot seem to carve out the time in your schedule? Do you get started but then find yourself stuck and in need…\n\nContinue reading “Training: Digital Skills Space”…",
@@ -5740,15 +5803,6 @@
           "publishedOn": "2022-05-23T11:23:57.000Z",
           "wordCount": 904,
           "title": "From Boom to Bust: the History of Industrial Regions (1870-1970 and beyond)"
-        },
-        {
-          "id": "4012 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The virtual exhibition Minett Stories deals with the history and identity of Minett, the industrial region in southern Luxembourg, in 22 chapters. For a century (approx. 1870-1970) the Minett was shaped by iron ore mining and the iron and steel industry. Rapid economic and population growth, urbanisation and labor migration have had a major impact on the history of the region, as have economic crises, environmental pollution and precarious housing and living conditions.\nRemixing Industrial Pasts in the Digital Age is a project of the Luxembourg Centre for Contemporary and Digital History (C²DH ), launched in fall 2019 and funded by the European Capital of Culture Esch2022 asbl.\nThe \"Minett Stories\" virtual exhibition was developed in collaboration between the Remix team, Milan-based design studio Calibro and Bergamo-based software company Inmagik. The Remix team spent two and a half years researching and sourcing the underlying sources, designing the exhibition, and writing all the storyboards, scripts, story texts, and captions for the 22 exhibition chapters. The focus was on various forms of transmedia storytelling, including several interactive video documentaries, graphic novels, interactive maps, interactive podcasts, and two radio plays. The virtual exhibition will officially open on 28 May 2022.\n \nSaturday, 28 May 2022\n10.30 - 13.30\nSalle Ellipse, Luxembourg Learning Centre\n7, Ënnert den Héichiewen\nL-4362 Esch-Belval\nPlease confirm your participation before 23 May 2022 at vanessa.napolitano@uni.lu.\n \n \n28 May 2022\n  Public history\n  Remixing Industrial Pasts in the Digital Age: Sounds, Images, Ecologies, Practices and Materialities in Space and Time\n  Public History  Regional history\n  Outreach\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/vernissage-virtual-exhibition-minett-stories",
-          "publishedOn": "2022-05-16T08:03:11.000Z",
-          "wordCount": 456,
-          "title": "Vernissage of the virtual exhibition 'Minett Stories'"
         }
       ]
     },
@@ -5757,6 +5811,24 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/aphrodita-nicolova/",
+          "author": null,
+          "description": "Aphrodita Nicolova is an interdisciplinary social scientist and education researcher researching intersections across youth education, creative arts and digital humanities, and abolitionist social justice. As an ESRC Postdoctoral Research Fellow, she is working on a spoken word poetry project at the Faculty of Education, University of Cambridge where she completed her doctorate (Gates Cambridge Scholarship).",
+          "link": "https://www.cdh.cam.ac.uk/about/people/aphrodita-nicolova/",
+          "publishedOn": "2022-11-10T11:12:42.000Z",
+          "wordCount": 409,
+          "title": "Aphrodita Nicolova"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/blog/the-cambridge-data-schools-expand/",
+          "author": null,
+          "description": "Data Schools at the University of Cambridge started in 2019, with the aim of putting research methods and tools in the hands of practitioners in the Galleries, Libraries, Archives, and Museums (GLAM) sector, journalists, and NGOs. A very important part was to ​​encourage dialogue between academia, civil society, the public sector and industry about the",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/the-cambridge-data-schools-expand/",
+          "publishedOn": "2022-11-09T18:18:33.000Z",
+          "wordCount": 967,
+          "title": "The Cambridge Data Schools Expand"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/tristan-dot/",
           "author": null,
@@ -7079,42 +7151,6 @@
           "publishedOn": "2022-05-18T09:52:22.000Z",
           "wordCount": 1029,
           "title": "Re-staging public spaces"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/34807/",
-          "author": null,
-          "description": "Dr Anne Alexander, Cambridge Digital Humanities Ensuring long-term access to digital data is often a difficult task: both hardware and code decay much more rapidly than many other means of information storage. Digital data created in the 1980s is frequently unreadable, whereas books and manuscripts written in the 980s are still legible. This Basics session explores good",
-          "link": "https://www.cdh.cam.ac.uk/events/34807/",
-          "publishedOn": "2022-05-17T10:30:44.000Z",
-          "wordCount": 284,
-          "title": "Digital afterlives: data preservation, sustainability and destruction"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/34804/",
-          "author": null,
-          "description": "Methods Fellows Series | Digital Humanities: Exploring critical, intersectional and decolonial methods Isabelle Higgins, Methods Fellow - Cambridge Digital Humanities This Methods Fellows' Workshop Series event aims to encourage participants to think critically and reflexively about the nature of digital humanities research. It will explore (both individually and collectively) the function and effect of critical,",
-          "link": "https://www.cdh.cam.ac.uk/events/34804/",
-          "publishedOn": "2022-05-17T10:27:12.000Z",
-          "wordCount": 1022,
-          "title": "Digital Humanities: Exploring critical, intersectional and decolonial methods"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/",
-          "publishedOn": "2022-05-17T07:54:04.000Z",
-          "wordCount": 189,
-          "title": "Past Data Schools"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cambridge-data-school-pilot-2019/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cambridge-data-school-pilot-2019/",
-          "publishedOn": "2022-05-17T07:52:41.000Z",
-          "wordCount": 622,
-          "title": "Cambridge Data School Pilot 2019"
         }
       ]
     },
@@ -7939,15 +7975,6 @@
           "publishedOn": "2022-05-19T11:54:42.000Z",
           "wordCount": 1457,
           "title": "EnrichEuropeana+ and the Dublin Transcription Project"
-        },
-        {
-          "id": "1512 at https://www.dri.ie",
-          "author": "Deborah Thorpe",
-          "description": "The Digital Repository of Ireland is delighted to invite you to register for a hybrid event in June 2022, with the theme of 'Digital Preservation of Religious Collections: Conversations and Collaborations'.",
-          "link": "https://www.dri.ie/registration-open-digital-preservation-religious-collections-27-29-30-june",
-          "publishedOn": "2022-05-17T09:55:35.000Z",
-          "wordCount": 695,
-          "title": "Registration open, 'Digital Preservation of Religious Collections' (27, 29, 30 June)"
         }
       ]
     },
