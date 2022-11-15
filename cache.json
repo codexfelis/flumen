@@ -37,15 +37,6 @@
           "publishedOn": "2022-07-08T15:57:54.000Z",
           "wordCount": 763,
           "title": "Looking for DH Jobs in London 2022"
-        },
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8267",
-          "author": "Lucy Stagg",
-          "description": "The UCL Centre for Digital Humanities (UCLDH) was founded in 2010 as a cross-faculty research centre that brings together a vibrant network of people who teach and research digital humanities in a wide range of disciplines, in the heart of London. We are seeking a new Associate Director – Early Career (ECR) from within the […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2022/05/19/associate-director-ecr/",
-          "publishedOn": "2022-05-19T12:00:10.000Z",
-          "wordCount": 626,
-          "title": "Seeking a new UCLDH Associate Director (ECR), a voluntary role"
         }
       ]
     },
@@ -1852,6 +1843,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/869",
+          "author": "414",
+          "description": "Seit Montag, dem 14.11.2022, bietet Fedihum.org allen an den Digital Humanities Interessierten eine neue Plattform für digitale Wissenschaftskommunikation im sogenannten Fediverse…",
+          "link": "https://dig-hum.de/aktuelles/dhd-verband-initiiert-fedihumorg-neue-mastodon-instanz-f%C3%BCr-alle-digital-humanities",
+          "publishedOn": "2022-11-14T20:20:26.000Z",
+          "wordCount": 1318,
+          "title": "DHd-Verband initiiert mit Fedihum.org neue Mastodon-Instanz für alle Digital Humanities-Aficionados"
+        },
+        {
           "id": "node/868",
           "author": "414",
           "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…",
@@ -2729,6 +2729,159 @@
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
         {
+          "id": "discourse.computational-humanities-research.org-topic-1865",
+          "author": "jbcamps",
+          "description": "Speaker: Jean-Baptiste Camps (1, 2) and Julien Randon-Furling (3, 4)\n Affiliation: (1) Venice Center for Digital and Public Humanities, Univ. Ca’ Foscari, Fondamenta Malcanton 5449, Venezia, 30123, Italy; (2) Centre Jean-Mabillon, École nationale des chartes, Paris Sciences , &,  Lettres, 65 rue de Richelieu, Paris, 75002, France; (3) Centre Borelli, Univ. Paris-Saclay, ENS Paris-Saclay, CNRS, SSA, INSERM, 91190, Gif-sur-Yvette, France; (4) SAMM, FP2M (FR2036), Université Paris-1 Panthéon-Sorbonne, CNRS, Paris, 75013, France\nTitle: Lost Manuscripts and Extinct Texts: A Dynamic Model of Cultural Transmission\nAbstract: How did written works evolve, disappear or survive down through the ages? In this paper, we propose a unified, formal framework for two fundamental questions in the study of the transmission of texts: how much was lost or preserved from all works of the past, and why do their genealogies (their \"phylogenetic trees’‘) present the very peculiar shapes that we observe or, more precisely, reconstruct? We argue here that these questions share similarities to those encountered in evolutionary biology, and can be described in terms of \"genetic’’ drift and \"natural’’ selection.  Through agent-based models, we show that such properties as have been observed by philologists since the 1800s can be simulated, and confronted to data gathered for ancient and medieval texts across Europe, in order to obtain plausible estimations of the number of works and manuscripts that existed and were lost.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/lost-manuscripts-and-extinct-texts-a-dynamic-model-of-cultural-transmission/1865",
+          "publishedOn": "2022-11-15T07:58:44.000Z",
+          "wordCount": 289,
+          "title": "Lost Manuscripts and Extinct Texts: A Dynamic Model of Cultural Transmission"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1864",
+          "author": "knielbo",
+          "description": "Speaker: Phillip Stenmann Baun (1) and Kristoffer Nielbo (2, 3)\n Affiliation: (1) Department of Global Studies, Aarhus University, 8000 Aarhus C, Denmark; (2) Center for Humanities Computing Aarhus, Aarhus University, 8000 Aarhus C, Denmark; (3) Interacting Minds Centre, Aarhus University, 8000 Aarhus C, Denmark\nTitle: Right-wing Mnemonics\nAbstract: This paper presents a natural language processing technique for studying memory on the far-right political discussion forum  /pol/  on 4chan.org. Memory and the use of history play a pivotal role on the far-right for temporally structuring beliefs about social life and order. However, due in part to methodological limitations, there is a lack of knowledge regarding the specific historical entities that make up the far-right memory culture and w…",
+          "link": "https://discourse.computational-humanities-research.org/t/right-wing-mnemonics/1864",
+          "publishedOn": "2022-11-15T07:55:57.000Z",
+          "wordCount": 341,
+          "title": "Right-wing Mnemonics"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1863",
+          "author": "tatjana.scheffler",
+          "description": "Speaker: Hannah Seemann and Tatjana Scheffler\n Affiliation: Germanistisches Institut, Ruhr-Universität Bochum, Germany\nTitle: Differentiating Social Media Texts via Clustering\nAbstract: We propose to use clustering of documents based on their fine-grained linguistic properties in order to capture and validate text type distinctions such as medium and register. Correlating the bottom-up, linguistic feature driven clustering with text type distinctions (medium and register) enables us to quantify the influence of individual author choice and medium/register conventions on variable linguistic phenomena. Our pilot study applies the method to German particles and intensifiers in a multimedia corpus, annotated for register. We show that German particles and intensifiers differ across both register and medium. The clustering based on the linguistic features most closely corresponds to the medium distinction, while the stratification into registers is reflected to a lesser extent.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/differentiating-social-media-texts-via-clustering/1863",
+          "publishedOn": "2022-11-15T07:54:01.000Z",
+          "wordCount": 189,
+          "title": "Differentiating Social Media Texts via Clustering"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1862",
+          "author": "rbkh",
+          "description": "Speaker: Rebekah Baglini (1), Sara Møller Østergaard (2), Stine Nyhus Larsen (2) and Kristoffer Nielbo (2)\n Affiliation: (1) School of Communication and Culture - Linguistics, Cognitive Science, and Semiotics,  Aarhus University, Jens Chr. Skous Vej 2, Building 1485,  DK-8000 Aarhus C, (2) Center for Humanities Computing Aarhus, Aarhus University, Jens Chr. Skous Vej 4, Building 1483,DK-8000 Aarhus C\nTitle: Emodynamics: Detecting and Characterizing Pandemic Sentiment Change Points on Danish Twitter\nAbstract: In this paper, we present the results of an initial experiment using emotion classifications as the basis for studying information dynamics in social media (`emodynamics’). To do this, we used Bert Emotion to assign probability scores for eight different emotions to each text in a time series of 43 million Danish tweets from 2019-2022. We find that variance in the information signals novelty and resonance reliably identify seasonal shifts in posting behavior, particularly around the Christmas holiday season, whereas variance in  the distribution of emotion scores corresponds to more local events such as major inflection points in the Covid-19 pandemic in Denmark. This work in progress suggests that emotion scores are a useful tool for diagnosing shifts in the baseline information state of social media platforms such as Twitter, and for understanding how social media systems respond to both predictable and unexpected external events.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/emodynamics-detecting-and-characterizing-pandemic-sentiment-change-points-on-danish-twitter/1862",
+          "publishedOn": "2022-11-15T07:51:02.000Z",
+          "wordCount": 279,
+          "title": "Emodynamics: Detecting and Characterizing Pandemic Sentiment Change Points on Danish Twitter"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1861",
+          "author": "marijn.koolen",
+          "description": "Speaker: Marijn Koolen (1, 2) and Rik Hoekstra (1,2)\n Affiliation: (1) KNAW Huygens Institute, Amsterdam, the Netherlands; (2) DHLab, KNAW Humanities Cluster, Amsterdam, the Netherlands\nTitle: Detecting Formulaic Language Use in Historical Administrative Corpora\nAbstract: Historical administrative corpora are filled with jargon and formulaic expressions that were used consistently across many documents. Governmental decisions, notarial deeds and official charters often contain fixed expressions to ensure that the same legal aspects in different documents had the same interpretation.  Such formulaic expressions can be used to identify specific elements of a document. For instance, a deed has different formulas to indicate whether it concerns the sale of property or the transferal of rights.  In this paper we explore formulas as a methodological devise to structure the text of an administrative corpus and make the information contained in it better accessible. We use a data-driven method to detect potential formulaic expressions in historical corpora, that can deal with spelling variation and change and recognition errors introduced in the digitisation process. We apply this exploratory technique on a corpus of almost 300,000 eighteenth-century resolutions of the States General of the Dutch Republic and find many formulaic expressions that capture relationships between the political actors involved and the decisions that were made. A first analysis suggests that many formulas can be used to add metadata to individual resolutions on various elements of the proposals and decisions that are part of each resolution.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/detecting-formulaic-language-use-in-historical-administrative-corpora/1861",
+          "publishedOn": "2022-11-15T07:47:36.000Z",
+          "wordCount": 295,
+          "title": "Detecting Formulaic Language Use in Historical Administrative Corpora"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1860",
+          "author": "folgert",
+          "description": "Speaker: Folgert Karsdorp (1), Enrique Manjavacas (2) and Lauren Fonteyn (2)\n Affiliation: (1) KNAW Meertens Institute, Amsterdam, the Netherlands; (2) Leiden University, Leiden, the Netherlands\nTitle: Introducing Functional Diversity: A Novel Approach to Lexical Diversity in (Historical) Corpora\nAbstract: The question how we can reliably estimate the lexical diversity of a particular text (collection) has often been asked by linguists and literary scholars alike. This short paper introduces a way of operationalizing functional diversity measurements by means of token-based embeddings, and argues that functional diversity is not only a practically advantageous, but also a theoretically relevant addition to the Computational Humanities Research toolkit. By means of an experiment on the historical ARCHER corpus, we show that lexical diversity at the level of functional groups is less sensitive to orthographic variation, and provides insight into an important and often disregarded dimension of vocabulary diversity in textual data.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/introducing-functional-diversity-a-novel-approach-to-lexical-diversity-in-historical-corpora/1860",
+          "publishedOn": "2022-11-15T07:45:19.000Z",
+          "wordCount": 212,
+          "title": "Introducing Functional Diversity: A Novel Approach to Lexical Diversity in (Historical) Corpora"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1859",
+          "author": "l.fonteyn",
+          "description": "Speaker: Alessandra De Mulder (1), Lauren Fonteyn (2) and Mike Kestemont (1)\n Affiliation: (1) University of Antwerp, Antwerp, Belgium; (2) Leiden University, Leiden, the Netherlands\nTitle: Linguistic Value Construction in 18th-Century London Auction Advertisements: a Quantitative Approach\nAbstract: Georgian England was characterised by a buzzing consumer society in which advertising played a progressively important role when it came to the (linguistic) value construction surrounding material goods. Increasingly, the perceived value of goods was not only determined by the intrinsic quality of the goods, but also by the socio-commercial discourse used to characterise them. Linguistic modifiers, such as adjectives, must have played an important role in this process – reflecting these socio-economical trends in text while also reinforcing them. Here, we focus on a diachronic corpus of over 5,000 pages of London auction advertisement pages, digitised via automated transcription and divided across four sample periods between 1742-1829. Prime methodological challenges include: (1) the noisiness of the available data because of imperfect transcription; (2) the coarseness of the available time stamps, and (3) the lack of suitable NLP software, such as lemmatizers or (shallow) syntactic parsers. Through the use of word embeddings, we try to alleviate the issue of spelling variation with reasonable success. We find that, over time, subjective or ‘evaluative’ modifiers have become more prominent in these advertisements than their objective or ‘descriptive’ counterparts – but there are different temporal patterns for different types of advertised objects\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/linguistic-value-construction-in-18th-century-london-auction-advertisements-a-quantitative-approach/1859",
+          "publishedOn": "2022-11-14T13:39:42.000Z",
+          "wordCount": 293,
+          "title": "Linguistic Value Construction in 18th-Century London Auction Advertisements: a Quantitative Approach"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1858",
+          "author": "margini",
+          "description": "Speaker: Margherita Parigini (1) and Mike Kestemont (2)\n Affiliation: (1) Université de Genève; (2) University of Antwerp\nTitle: The Roots of Doubt. Fine-tuning a BERT Model to Explore a Stylistic Phenomenon\nAbstract: The narrative work of well-known Italian author Italo Calvino (1923-1985) features a phenomenon that literary critics refer to as ``dubitative text’': this stylistic device consciously hinders the narrative progression of a story, by questioning its own content. We report on an attempt to model the presence of dubitative text in Calvino’s fictional oeuvre and examine whether this model can also be used to retrieve dubitative instances in his essayistic oeuvre. We hypothesize that precisely the category of the dubitative text yields interesting points of intersection between both writing modes. We fine-tuned a BERT model based on a manually annotated dataset and report inter-annotator scores. We situate our findings and model criticism in the current landscape of Calvino scholarship. While detecting dubitative text is challenging, our model provides fresh insights into the device’s surface features.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/the-roots-of-doubt-fine-tuning-a-bert-model-to-explore-a-stylistic-phenomenon/1858",
+          "publishedOn": "2022-11-14T13:37:36.000Z",
+          "wordCount": 234,
+          "title": "The Roots of Doubt. Fine-tuning a BERT Model to Explore a Stylistic Phenomenon"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1857",
+          "author": "marieke",
+          "description": "Speaker: Andrea Peverelli (1,2), Marieke van Erp (2) and Jan Bloemendal (1)\n Affiliation: (1) Huygens Institute, Oudezijds Achterburgwal 185, 1012 DK  Amsterdam, the Netherlands; (2) KNAW Humanities Cluster, DHLab, Oudezijds Achterburgwal 185, 1012 DK  Amsterdam, the Netherlands\nTitle: The Process of Imitatio Through Stylometric Analysis: the Case of Terence’s Eunuchus\nAbstract: The Early Modern Era is at the forefront of a widespread enthusiasm for Latin works: texts from classical antiquity are given new life, widely re-printed, studied and even repeatedly staged, in the case of dramas, throughout Europe. Also, new Latin comedies are again written in quantities never seen before (at least 10,000 works published 1500 to 1800 are known). The authors themselves, within the game of literary imitation (the process of  imitatio), start to mimic the style of ancient authors, and Terence’s dramas in particular were considered the prime sources of reuse for many decades.   Via a case study “the reception of Terence’s  Eunuchus  in Early Modern literature”, we take a deep dive into the mechanisms of literary imitation. Our analysis is based on four comedy corpora in Latin, Italian, French and English, spanning roughly 3 centuries (1400-1700). To assess the problem of language shift and multi-language inter-corpora analysis, we base our experiments on translations of the  Eunuchus , one for each sub-corpus. Through the use of tools drawn from the field of Stylometry, we address the topic of text reuse and textual similarities between Terence’s text and Early-Modern corpora to get a better grasp on the internal fluctuations of the imitation game between Early Modern and Classical authors.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/the-process-of-imitatio-through-stylometric-analysis-the-case-of-terence-s-eunuchus/1857",
+          "publishedOn": "2022-11-14T13:14:54.000Z",
+          "wordCount": 327,
+          "title": "The Process of Imitatio Through Stylometric Analysis: the Case of Terence’s Eunuchus"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1856",
+          "author": "melvin.wevers",
+          "description": "Speaker: Vincenzo Perri, Lisi Qarkaxhija, Albin Zehe, Andreas Hotho and Ingo Scholtes\n Affiliation: (1) Data Analytics Group, Department of Informatics(IfI), Universität Zürich, CH-8050 Zürich, Switzerland; (2) Chair of Informatics XV - Machine Learning for Complex Networks, Center for Artificial Intelligence and Data Science (CAIDAS), Julius-Maximilians-Universität Würzburg, D-97074 Würzburg, Germany; (3) Chair of Informatics X - Data Science, Center for Artificial Intelligence and Data Science (CAIDAS), Julius-Maximilians-Universität Würzburg, D-97074 Würzburg, Germany\nTitle: One Graph to Rule them All: Using NLP and Graph Neural Networks to analyse Tolkien’s Legendarium\nAbstract: Natural Language Processing and Machine Learning have considerably advanced Computational Literary Studies. Similarly, the construction of co-occurrence networks of literary characters, and their analysis using methods from social network analysis and network science, have provided insights into the micro- and macro-level structure of literary texts. Combining these perspectives, in this work we study character networks extracted from a text corpus of J.R.R. Tolkien’s Legendarium. We show that this perspective helps us to analyse and visualise the narrative style that characterises Tolkien’s works. Addressing character classification, embedding and co-occurrence prediction, we further investigate the advantages of state-of-the-art Graph Neural Networks over a popular word embedding method. Our results highlight the large potential of graph learning in Computational Literary Studies.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/one-graph-to-rule-them-all-using-nlp-and-graph-neural-networks-to-analyse-tolkiens-legendarium/1856",
+          "publishedOn": "2022-11-14T13:06:12.000Z",
+          "wordCount": 281,
+          "title": "One Graph to Rule them All: Using NLP and Graph Neural Networks to analyse Tolkien's Legendarium"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1855",
+          "author": "Yuri",
+          "description": "Speaker: Yuri Bizzoni, Mads  Rosendahl Thomsen, Ida Marie S. Lassen and Kristoffer Nielbo\n Affiliation: 1, Center for Humanities Computing Aarhus, Aarhus University, Jens Chr. Skous Vej 4, Building 1483,DK-8000 Aarhus C; 2, School of Communication and Culture - Comparative Literature,  Aarhus University, Langelandsgade 139, Building 1580,  DK-8000 Aarhus C, \\; 3, Center for Humanities Computing Aarhus , &,  Interacting Minds Centre, Aarhus University,  Jens Chr. Skous Vej 4, Building 1483, 3rd floor, DK-8000 Aarhus C\nTitle: Correlations between GoodReads Appreciation and the Sentiment Arc Fractality of the Grimm brothers’ Fairy Tales\nAbstract: Despite their widespread popularity, fairy tales are often overlooked when studying literary quality with quantitative approaches. We present a study on the relation between sentiment fractality and literary appreciation by testing the hypothesis that fairy tales with a good balance between unpredictability and excessive self-similarity in their sentiment narrative arcs tend to be more popular and more appreciated by audiences of readers. In short, we perform a correlation study of the degree of fractality of the fairy tales of the Grimm brothers and their current appreciation as measured by their Goodreads scores. Moreover, we look at the popularity of these fairy tales through time, determining which ones have come to form a strong “internal canon” in the corpus of the authors and which one have fallen into relative obscurity.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/correlations-between-goodreads-appreciation-and-the-sentiment-arc-fractality-of-the-grimm-brothers-fairy-tales/1855",
+          "publishedOn": "2022-11-14T12:03:42.000Z",
+          "wordCount": 292,
+          "title": "Correlations between GoodReads Appreciation and the Sentiment Arc Fractality of the Grimm brothers' Fairy Tales"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1854",
+          "author": "melvin.wevers",
+          "description": "Speaker: Erik Ketzan and Nicolas Werner\n Affiliation: Centre for Digital Humanities, Trinity College Dublin, Dublin, Ireland & University of Cologne, Cologne, Germany\nTitle: `Entrez!’ she called: Evaluating Language Identification Tools in English Literary Texts\nAbstract: This short paper presents work in progress on the evaluation of current language identification (LI) tools for identifying foreign language n-grams in English-language literary texts, for instance, “‘Entrez!’ she called”. We first manually annotated French and Spanish words appearing in 12,000-word text samples by F. Scott Fitzgerald and Ernest Hemingway using a TEI tag. We then split the tagged sample texts into four groups of n-grams, from unigram to tetragram, and compared the accuracy of five LI packages on correctly identifying the language of the tagged foreign-language snippets. We report that, of the packages tested, Fasttext proved most accurate for this task overall, but that methodological questions and future work remain.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/entrez-she-called-evaluating-language-identification-tools-in-english-literary-texts/1854",
+          "publishedOn": "2022-11-14T12:00:33.000Z",
+          "wordCount": 207,
+          "title": "`Entrez!' she called: Evaluating Language Identification Tools in English Literary Texts"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1853",
+          "author": "ltilton",
+          "description": "Speaker: Taylor Arnold, Lauren Tilton and Justin Wigard\n Affiliation: Linguistics Program, Carole Weinstein International Center, 211 Richmond Way, Richmond, VA 23173, U.S.A; Rhetoric & Communication Studies, 231 Richmond Way, Richmond, VA 23173, U.S.A\nTitle: Automatic Identification and Classification of Portraits in a Corpus of Historical Photographs\nAbstract: There have been recent calls for an increased focus on the application of computer vision to the study and curation of digitised cultural heritage materials. In this short paper, we present an approach to bridge the gap between existing algorithms and humanistically driven annotations through a case study in which we create an algorithm to detect and and classify portrait photography. We apply this method to a collection of about 40,000 photographs and present a preliminary analysis of the constructed data. The work  is part of the larger ongoing study that applies computer vision to the computational analysis of over a million U.S. documentary photographs from the early twentieth century.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/automatic-identification-and-classification-of-portraits-in-a-corpus-of-historical-photographs/1853",
+          "publishedOn": "2022-11-14T11:55:03.000Z",
+          "wordCount": 223,
+          "title": "Automatic Identification and Classification of Portraits in a Corpus of Historical Photographs"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1852",
+          "author": "sven-nm",
+          "description": "Speaker: Sven Najem-Meyer and Matteo Romanello\n Affiliation: EPFL, Lausanne, Switzerland & UNIL, Lausanne, Switzerland\nTitle: Page Layout Analysis of Text-heavy Historical Documents: a Comparison of Textual and Visual Approaches\nAbstract: Page layout analysis is a fundamental step in document processing which enables to segment a page into regions of interest. With highly complex layouts and mixed scripts, scholarly commentaries are text-heavy documents which remain challenging for state-of-the-art models. Their layout considerably varies across editions and their most important regions are mainly defined by semantic rather than graphical characteristics such as position or appearance. This setting calls for a comparison between textual, visual and hybrid approaches. We therefore assess the performances of two transformers (LayoutLMv3 and RoBERTa) and an objection-detection network (YOLOv5). If results show a clear advantage in favor of the latter, we also list several caveats to this finding. In addition to our experiments, we release a dataset of ca. 300 annotated pages sampled from 19th  century commentaries.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/page-layout-analysis-of-text-heavy-historical-documents-a-comparison-of-textual-and-visual-approaches/1852",
+          "publishedOn": "2022-11-14T11:50:30.000Z",
+          "wordCount": 228,
+          "title": "Page Layout Analysis of Text-heavy Historical Documents: a Comparison of Textual and Visual Approaches"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1851",
+          "author": "Nanne",
+          "description": "Speaker: Lisa Saleh and Nanne van Noord\n Affiliation: Multimedia Analytics Lab, University of Amsterdam\nTitle: The Computational Memorability of Iconic Images\nAbstract: The perception of historic events is frequently shaped by specific images that  have been ascribed an iconic status. These images are widely reproduced and recognised and can therefore be considered memorable. A question that arises given such images is whether the memorability of iconic images is intrinsic or whether it is shaped. In this work we analyse the memorability of iconic images by means of computational  techniques that are specifically designed to measure the intrinsic memorability of images. To judge whether iconic images are inherently more memorable we establish two baselines based on datasets of diverse imagery and of newspaper imagery. Our findings show that iconic images are not more memorable than modern day newspaper imagery or when compared to a diverse set of everyday images. In fact, by and large many of the iconic images analysed score on the low end of the memorability spectrum. Additionally, we explore the variation in memorability of reproductions of iconic images  and find that certain images have been edited resulting in higher memorability scores,  but that the images by and large are reproduced with memorability close to the original.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/the-computational-memorability-of-iconic-images/1851",
+          "publishedOn": "2022-11-14T11:46:35.000Z",
+          "wordCount": 261,
+          "title": "The Computational Memorability of Iconic Images"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1850",
+          "author": "thibaultclerice",
+          "description": "Speaker: Thibault Clérice\n Affiliation: Centre Jean Mabillon, École nationale des Chartes & INRIA\nTitle: Ground-truth Free Evaluation of HTR on Old French and Latin Medieval Literary Manuscripts\nAbstract: As more and more projects openly release ground truth for handwritten text recognition (HTR), we expect the quality of automatic transcription to improve on unseen data. Getting models robust to scribal and material changes is a necessary step for specific data mining tasks. However, evaluation of HTR results requires ground truth to compare prediction statistically. In the context of modern languages, successful attempts to evaluate quality have been done using lexical features or n-grams. This, however, proves difficult in the context of spelling variation that both Old French and Latin have, even more so in the context of sometime heavily abbreviated manuscripts. We propose a new method based on deep learning where we attempt to categorize each line error rate into four error rate ranges ( 0 < 10 %  < 25  %  < 50 %  < 100 % ) using three different encoder (GRU with Attention, BiLSTM, TextCNN). To train these models, we propose a new dataset engineering approach using early stopped model, as an alternative to rule-based fake predictions. Our model largely outperforms the n-gram approach. We also provide an example application to qualitatively analyse our classifier, using classification on new prediction on a sample of 1,800 manuscripts ranging from the 9th century to the 15th.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/ground-truth-free-evaluation-of-htr-on-old-french-and-latin-medieval-literary-manuscripts/1850",
+          "publishedOn": "2022-11-14T11:43:34.000Z",
+          "wordCount": 304,
+          "title": "Ground-truth Free Evaluation of HTR on Old French and Latin Medieval Literary Manuscripts"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1849",
+          "author": "melvin.wevers",
+          "description": "Category to indicate papers presented during the CHR22 conference.\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/about-the-chr22-paper-category/1849",
+          "publishedOn": "2022-11-14T11:38:22.000Z",
+          "wordCount": 54,
+          "title": "About the chr22-paper category"
+        },
+        {
           "id": "discourse.computational-humanities-research.org-topic-1831",
           "author": "MariaEriksson",
           "description": "Perhaps of interest to some in this network:\nI’m currently co-editing a special issue on Digital tools for the Journal of Digital History, which provides an innovative and multi-layered publication platform via Jupyter Notebooks. Full cfp can be found here.\nThe special issue welcomes contributions that introduce and discuss digital toolkits for exploring historic source materials, be they sonic, textual, visual, or audiovisual. We seek to collect a broad range of publications that demonstrate and critically analyse new ways of exploring the past through computational means and strive to open up and problematize the use of digital methods in historic research.\nIn line with the journal’s publication standards, the toolkits should be open source and the articles available in Jupyter Notebooks…",
@@ -2929,24 +3082,6 @@
           "publishedOn": "2022-06-07T14:12:36.000Z",
           "wordCount": 509,
           "title": "Job opportunity: Freelance Digital Edition Developer - repository GUIs"
-        },
-        {
-          "id": "1410 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "1 Aug 2022 - 00:00\n\n\n\n#CfP Shifts in language and culture: computational approaches to variation and change - October 5-7 2022\n\n\n\nCall for Papers\n8TH ESTONIAN DIGITAL HUMANITIES CONFERENCE\n \nShifts in language and culture: computational approaches to variation and change\nOctober 5-7 2022\nVariation and change are universal phenomena of both language and culture. The research objects of humanities - human culture, behavior and communication - are by nature continually undergoing diversification and shifts. Additionally, the rise of global online communication in recent decades has added an unprecedented dimension to these dynamics, as access to wider public outside one’s immediate communities is in everyone’s reach, digital channels have taken over some of the functions of oral communication…",
-          "link": "https://eadh.org/news/2022/05/19/cfp-shifts-language-and-culture-computational-approaches-variation-and-change",
-          "publishedOn": "2022-05-19T08:56:51.000Z",
-          "wordCount": 817,
-          "title": "#CfP Shifts in language and culture: computational approaches to variation and change - October 5-7 2022"
-        },
-        {
-          "id": "1409 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "#jobopportunity Digital Repository Fellow, University of Exeter\n\n\n\nDigital Repository Fellow\nJob description\nCollege of Humanities\nThis UKRI funded post is available from 30 June 2022 until 29 March 2024.\nhttps://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=718424ZkzQ&WVID=3817591jNg&LANG=USA \nThe post\nYou will support the work of Prof. Elena Isayev in the College of Humanities, supporting the Global Challenges Research Fund (GCRF) Imagining Futures Through Un/Archived Pasts project, funded by UKRI/ Arts and Humanities Research Council.\nWe seek to recruit a Digital Repository Fellow to be part of Imagining Futures through Un/Archived Pasts – an international project which addresses the power of who decides whose history gets to be remembered into the future and …",
-          "link": "https://eadh.org/news/2022/05/19/jobopportunity-digital-repository-fellow-university-exeter",
-          "publishedOn": "2022-05-19T08:47:41.000Z",
-          "wordCount": 980,
-          "title": "#jobopportunity Digital Repository Fellow, University of Exeter"
         }
       ]
     },
@@ -3017,6 +3152,15 @@
       "feedUrl": "https://livingwithmachines.ac.uk/feed",
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=2856",
+          "author": "Mia Ridge",
+          "description": "Our Principal Investigator Ruth Ahnert and Co-Investigator Mia Ridge were asked to speak on a panel on ‘International Infrastructures for the Digital Humanities‘ at the Building Digital Humanities Symposium in early November: ‘The key theme of this session is to look outward to the most ambitious global connections that can be made via digital humanities […]",
+          "link": "https://livingwithmachines.ac.uk/international-infrastructures-for-the-digital-humanities/?utm_source=rss&utm_medium=rss&utm_campaign=international-infrastructures-for-the-digital-humanities",
+          "publishedOn": "2022-11-14T15:05:21.000Z",
+          "wordCount": 510,
+          "title": "‘International Infrastructures for the Digital Humanities’"
+        },
         {
           "id": "https://livingwithmachines.ac.uk/?p=2849",
           "author": "Léllé Demertzi",
@@ -4298,6 +4442,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17274",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 380, a 15th century copy of the ancient Greek critique of learning by Empiricus Sextus, divided into the disciplines of grammar, rhetoric, geometry, arithmetic, astrology, music, logic, physics, and ethics. A short work titled Dialexeis or DissoiContinue reading \"Manuscript Monday: LJS 380- Pros mathēmatikous … [etc.] (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2022/11/14/manuscript-monday-ljs-380-pros-mathematikous-etc-video-orientation/",
+          "publishedOn": "2022-11-14T14:44:48.000Z",
+          "wordCount": 1220,
+          "title": "Manuscript Monday: LJS 380- Pros mathēmatikous … [etc.] (Video Orientation)"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17269",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1655, a collection of excerpts and notes in Portugese, largely medical and scientific, drawn both from professional publications and from works of more general interest including works of natural history and expedition accounts. The books andContinue reading \"Manuscript Monday: Ms. Codex 1655- Adversariorum pars prima. (Video Orientation)\"",
@@ -4548,15 +4701,6 @@
           "publishedOn": "2022-05-25T18:17:08.000Z",
           "wordCount": 1905,
           "title": "LJS 361: Astronomy, Astrology, Religion"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=16829",
-          "author": "simsmss",
-          "description": "On May 18, Curator Dot Porter brought out Ms. Codex 1136, 15th c. German copy of De secretis mulierum (also known as Secreta mulierum), a work erroneously attributed to Albertus Magnus, including an unidentified commentary. Our catalog record describes the text as “concerning various issues of women’s health,” but it’s so much more than that!Continue reading \"Ms. Codex 1136: Medicine & Magic of Women\"",
-          "link": "https://schoenberginstitute.org/2022/05/19/ms-codex-1136-medicine-magic-of-women/",
-          "publishedOn": "2022-05-19T15:45:43.000Z",
-          "wordCount": 1952,
-          "title": "Ms. Codex 1136: Medicine & Magic of Women"
         }
       ]
     },
@@ -4565,6 +4709,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1611",
+          "author": "Laura Mesotten",
+          "description": "This event is only open to KU Leuven researchers and staff. Do you want to know more about depositing, publishing, sharing, and reusing data? Learn all about data sharing best practices, what research data repositories are, and get hands-on experience…\n\nContinue reading “Training: Sharing and publishing research data (KU Leuven)”…",
+          "link": "https://scholarlytales.hcommons.org/2022/11/14/training-sharing-and-publishing-research-data-ku-leuven/",
+          "publishedOn": "2022-11-14T08:47:48.000Z",
+          "wordCount": 2056,
+          "title": "Training: Sharing and publishing research data (KU Leuven)"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1550",
           "author": "Laura Mesotten",
@@ -4780,15 +4933,6 @@
           "publishedOn": "2022-05-27T11:54:39.000Z",
           "wordCount": 1778,
           "title": "Workshop: Getting Started with Zotero for PhD Research"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1121",
-          "author": "Nele Noppe",
-          "description": "Are you a Dutch speaker who needs to transcribe old or new hand-written materials, or do optical character recognition (OCR) on print materials? Check out this upcoming webinar on Transkribus in Dutch, taking place on May 31, 2022, at 16h CEST: Dit webinar van Dr. Annemieke Romein geeft een overzicht van de basis van Transkribus in het Nederlands. U leert hoe u documenten upload naar Transkribus, de lay-out analyse uitvoert, handmatige transcripties doet om trainingsdata te genereren, hoe u de...",
-          "link": "https://scholarlytales.hcommons.org/2022/05/19/dutch-language-webinar-on-transcription-and-ocr-tool-transkribus-on-may-31/",
-          "publishedOn": "2022-05-19T09:58:54.000Z",
-          "wordCount": 1528,
-          "title": "Dutch-language webinar on transcription and OCR tool Transkribus on May 31"
         }
       ]
     },
@@ -5363,6 +5507,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4275 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "CIDOC CRM is an international standard for Cultural Heritage domain description. FRBRoo/LRMoo is an international standard for bibliographic information. Twice a year, members of both groups meet to update and improve their models. The next meeting will be held at the C²DH, between 6 and 9 December 2022. See the agenda of the meeting.\nBesides the meeting itself, two awareness events are open to a wider public:\n \nHands-on workshop about Spatiotemporal modeling using CIDOC CRM models\nTuesday 6 December, 9.30 - 13.30 at the DH Lab\nThe workshop, mostly dedicated to cultural heritage professionals, will consist in two parts: first a guided tour of the university campus at Belval that is situated on a reclaimed industrial site, followed by a practical collaborative session on using spatiotempora…",
+          "link": "https://www.c2dh.uni.lu/events/55th-cidoc-crm-and-48th-frbr-joint-meeting",
+          "publishedOn": "2022-11-15T07:43:39.000Z",
+          "wordCount": 537,
+          "title": "55th CIDOC-CRM and 48th FRBR joint meeting"
+        },
         {
           "id": "4273 at https://www.c2dh.uni.lu",
           "author": "Stefan Krebs",
@@ -7079,51 +7232,6 @@
           "publishedOn": "2022-05-20T09:35:10.000Z",
           "wordCount": 247,
           "title": "Newsletter"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/research/project-archive/other-cambridge-dh-projects/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/research/project-archive/other-cambridge-dh-projects/",
-          "publishedOn": "2022-05-19T13:53:33.000Z",
-          "wordCount": 300,
-          "title": "Other Cambridge DH projects"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/cultural-heritage2021/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/dataschools/cultural-heritage2021/",
-          "publishedOn": "2022-05-19T09:41:04.000Z",
-          "wordCount": 702,
-          "title": "Cultural Heritage Data School 2021"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cancelled-cambridge-social-data-school-2020/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cancelled-cambridge-social-data-school-2020/",
-          "publishedOn": "2022-05-19T09:06:23.000Z",
-          "wordCount": 402,
-          "title": "Cancelled: Cambridge Social Data School 2020"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cdh-cultural-heritage-data-school-2020/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cdh-cultural-heritage-data-school-2020/",
-          "publishedOn": "2022-05-19T08:44:05.000Z",
-          "wordCount": 339,
-          "title": "CDH Cultural Heritage Data School 2020"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/research/project-archive/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/research/project-archive/",
-          "publishedOn": "2022-05-19T07:58:24.000Z",
-          "wordCount": 314,
-          "title": "Project Archive"
         }
       ]
     },
@@ -7939,15 +8047,6 @@
           "publishedOn": "2022-05-23T11:26:55.000Z",
           "wordCount": 907,
           "title": "Archiving Reproductive Health: New Collections"
-        },
-        {
-          "id": "1513 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "In a new blog, Dr Kathryn Cassidy introduces us to the EnrichEuropeana+ project and the ongoing crowdsourced transcription work that is taking place as part of this project.",
-          "link": "https://www.dri.ie/enricheuropeana-and-dublin-transcription-project",
-          "publishedOn": "2022-05-19T11:54:42.000Z",
-          "wordCount": 1457,
-          "title": "EnrichEuropeana+ and the Dublin Transcription Project"
         }
       ]
     },
