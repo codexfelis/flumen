@@ -233,15 +233,6 @@
           "publishedOn": "2022-09-15T06:02:27.000Z",
           "wordCount": 679,
           "title": "Call for Proposals to Host DHA2023"
-        },
-        {
-          "id": "https://aa-dh.org/?p=479",
-          "author": "Tully Barnett",
-          "description": "The current executive committee for aaDH is as follows: President: Associate Professor Rachel Hendery, Western Sydney University Vice-President: Dr Tully Barnett, Flinders UniversitySecretary: Dr Simon Musgrave, Monash University Communications Manager: Dr Tyne Daile Sumner, University of MelbourneTreasurer: Dr Susan Ford, Australian National University Member: Dr Terhi Nurmikko-Fuller, Australian National UniversityMember: Alexander Ritchie, University of OtagoMember: … Continue reading \"aaDH’s Executive Committee for 2022\"",
-          "link": "https://aa-dh.org/2022/05/20/aadhs-executive-committee-for-2022/",
-          "publishedOn": "2022-05-20T03:36:00.000Z",
-          "wordCount": 309,
-          "title": "aaDH’s Executive Committee for 2022"
         }
       ]
     },
@@ -466,6 +457,15 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/?p=35727",
+          "author": "Emma Smith",
+          "description": "By Malik Al Nasir Malik Al Nasir is a third-year PhD candidate at the University of Cambridge’s faculty of history. His research entitled Kinship Networks and Mercantile Hegemony in the Latter Days of British Slavery – The Case of Sandbach Tinne, c. 1790-1840 is derived from his longstanding desire to trace his own mixed ancestry […]\nThe post The Sandbach Tinne Programme first appeared on CDH.",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/the-sandbach-tinne-programme/",
+          "publishedOn": "2022-11-15T11:51:53.000Z",
+          "wordCount": 1865,
+          "title": "The Sandbach Tinne Programme"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/?p=35713",
           "author": "Heather Stallard",
           "description": "Data Schools at the University of Cambridge started in 2019, with the aim of putting research methods and tools in the hands of practitioners in the Galleries, Libraries, Archives, and Museums (GLAM) sector, journalists, and NGOs. A very important part was to ​​encourage dialogue between academia, civil society, the public sector and industry about the […]\nThe post The Cambridge Data Schools Expand first appeared on CDH.",
@@ -532,6 +532,15 @@
       "feedUrl": "https://caa-international.org/feed",
       "siteUrl": "https://caa-international.org/",
       "articles": [
+        {
+          "id": "https://sites.caa-international.org/main/?p=16720",
+          "author": "lisafischer",
+          "description": "The 2022 Executive Steering Committee (ESC) elections results are: Jeffrey Glover has been elected to a second term as Secretary. Emma Slayton has been elected to a second term as Membership Secretary. Timo Geitlinger has been elected to a first term as Bursary and Student/Low-Income Officer. These terms will begin at the conclusion of the […]",
+          "link": "https://caa-international.org/2022/11/15/caa-esc-election-results/",
+          "publishedOn": "2022-11-15T19:11:44.000Z",
+          "wordCount": 137,
+          "title": "CAA ESC Election Results"
+        },
         {
           "id": "https://sites.caa-international.org/main/?p=16602",
           "author": "lisafischer",
@@ -2416,6 +2425,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=9159",
+          "author": "Rohan Chauhan",
+          "description": "State-of-the-art OCR engines use trainable models to perform two consecutive tasks that produce machine-actionable transcriptions. They first segment the position …",
+          "link": "https://digitalorientalist.com/2022/11/15/escriptorium-digital-text-production-for-urdu-hindi-and-bengali-print-part-1/",
+          "publishedOn": "2022-11-15T14:00:00.000Z",
+          "wordCount": 1754,
+          "title": "eScriptorium: Digital Text Production for Urdu, Hindi, and Bengali Print, part 1"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=9145",
           "author": "Theodora Zampaki",
           "description": "This is the second part of an interview with Arezou Azad, Senior Research Fellow at Oxford University’s Faculty of Asian …",
@@ -2711,15 +2729,6 @@
           "publishedOn": "2022-05-24T13:00:00.000Z",
           "wordCount": 1545,
           "title": "Fluid Matter(s): An Interview with Shigehisa Kuriyama and Natalie Köhle on Image-Based Storytelling, Part 2"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=8193",
-          "author": "Elizabeth Lee",
-          "description": "The Autographic Atlas of Korea (AAOK) is a digital project and website that presents a rare opportunity for scholars from …",
-          "link": "https://digitalorientalist.com/2022/05/20/autographic-atlas-of-korea-interview-with-dr-maya-stiller/",
-          "publishedOn": "2022-05-20T13:00:00.000Z",
-          "wordCount": 2734,
-          "title": "Autographic Atlas of Korea: Interview with Dr. Maya Stiller"
         }
       ]
     },
@@ -2728,6 +2737,123 @@
       "feedUrl": "https://discourse.computational-humanities-research.org/latest.rss",
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1878",
+          "author": "chr-user",
+          "description": "Speaker: Lindsey Geybels\n Affiliation: University of Antwerp, Prinsstraat 13, 2000 Antwerpen, Belgium\nTitle: Determining Author or Reader: A Statistical Analysis of Textual Features in Children’s and Adult Literature\nAbstract: Due to the nature of literary texts as being composed of words rather than numbers, they are not an obvious choice to serve as data for statistical analyses. However, with the help of computational techniques, words can be converted to numerical data and certain parts of a text can be examined on a large scale. Textual elements such as sentence length, word length and lexical diversity, which are associated by scholars on the one hand with the writing style of an individual author and on the other with the complexity of a text and the intended age of its readers, can thus be subjected to statistical evaluation. In this paper, data from little under 700 English and Dutch books written for different ages is analysed using a statistical linear mixed model. The results show that the textual elements studied are better qualified to detect the age of the intended reader of a text than the identity or age of the author.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/determining-author-or-reader-a-statistical-analysis-of-textual-features-in-childrens-and-adult-literature/1878",
+          "publishedOn": "2022-11-15T10:50:56.000Z",
+          "wordCount": 263,
+          "title": "Determining Author or Reader: A Statistical Analysis of Textual Features in Children's and Adult Literature"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1877",
+          "author": "chr-user",
+          "description": "Speaker: Leonardo Grotti, Mona Allaert and Patrick Quick\n Affiliation: Universiteit Antwerpen, Faculty of Arts, Prinsstraat 13, B-2000, Antwerp\nTitle:\nAbstract: Good Omens  is a collaborative novel written by Terry Pratchett and Neil Gaiman. Rising interest in the book, amplified by the success of the recent screen adaptation, has aroused curiosity regarding its realization. We use Rolling Delta and Rolling Classify to detect stylistic signals from each author as these methods reveal authorial takeovers. The same techniques are applied to compare the screenplay of the show to the novel. The results indicate that  Good Omens  resembles Pratchett’s work more closely. The screenplay is correctly attributed to Gaiman, its sole author, and the comparison reveals that Gaiman may have relied less on the source material over the course of the narrative arc.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/good-omens-a-collaborative-authorship-study/1877",
+          "publishedOn": "2022-11-15T10:46:40.000Z",
+          "wordCount": 183,
+          "title": "Good Omens: A Collaborative Authorship Study"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1876",
+          "author": "joris.van.zundert",
+          "description": "Speaker: Joris J. van Zundert (1, 2), Marijn Koolen (1, 2), Julia Neugarten (3), Peter Boot (1), Willem van Hage (4) and Ole Mussmann (4)\n Affiliation: (1) KNAW Huygens Institute, Amsterdam, the Netherlands; (2) DHLab, KNAW Humanities Cluster, Amsterdam, the Netherlands; (3) Radboud University Nijmegen, Nijmegen, the Netherlands; (4) eScience Center, Amsterdam, the Netherlands\nTitle:\nAbstract: We apply Top2Vec to a corpus of 10,921 novels in the Dutch language. For the  purposes of our research we want to understand if our topic model may serve as a proxy for genre. We find that topics are extremely narrowly related to an existing genre classification historically created by publishers. Interestingly we also find that, notwithstanding careful vocabulary filtering as suggested by prior research, various other signals, such as author signal, stubbornly remain.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/what-do-we-talk-about-when-we-talk-about-topic/1876",
+          "publishedOn": "2022-11-15T10:43:59.000Z",
+          "wordCount": 193,
+          "title": "What Do We Talk About When We Talk About Topic?"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1875",
+          "author": "maciejeder",
+          "description": "Speaker: Maciej Eder\n Affiliation: Institute of Polish Language, Polish Academy of Sciences,\nTitle: Boosting Word Frequencies in Authorship Attribution\nAbstract: In this paper, I introduce a simple method of computing relative word frequencies for authorship attribution and similar stylometric tasks. Rather than computing relative frequencies as the number of occurrences of a given word divided by the total number of tokens in a text, I argue that a more efficient normalization factor is the total number of  relevant  tokens only. The notion of relevant words includes synonyms and, usually, a few dozen other words in some ways semantically similar to a word in question. To determine such a semantic background, one of word embedding models can be used. The proposed method outperforms classical most-frequent-word approaches substantially, usually by a few percentage points depending on the input settings.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/boosting-word-frequencies-in-authorship-attribution/1875",
+          "publishedOn": "2022-11-15T10:41:54.000Z",
+          "wordCount": 198,
+          "title": "Boosting Word Frequencies in Authorship Attribution"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1874",
+          "author": "Manuel_Burghardt",
+          "description": "Speaker: Nicolas Ruth, Andreas Niekler and Manuel Burghardt\n Affiliation: Computational Humanities Group, Institute for Computer Science, Leipzig University – Augustusplatz 10, 04109 Leipzig\nTitle: Peeking Inside the DH Toolbox – Detection and Classification of Software Tools in DH Publications\nAbstract: Digital tools have played an important role in Digital Humanities (DH) since its beginnings. Accordingly, a lot of research has been dedicated to the documentation of tools as well as to the analysis of their impact from an epistemological perspective. In this paper we propose a binary and a multi-class classification approach to detect and classify tools. The approach builds on state-of-the-art neural language models. We test our model on two different corpora and report the results for different parameter configurations in two consecutive experiments. In the end, we demonstrate how the models can be used for actual tool detection and tool classification tasks in a large corpus of DH journals.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/peeking-inside-the-dh-toolbox-detection-and-classification-of-software-tools-in-dh-publications/1874",
+          "publishedOn": "2022-11-15T10:39:37.000Z",
+          "wordCount": 221,
+          "title": "Peeking Inside the DH Toolbox – Detection and Classification of Software Tools in DH Publications"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1873",
+          "author": "LeonardKonle",
+          "description": "Speaker: Leonard Konle and Fotis Jannidis\n Affiliation: Julius-Maximilians-Universität Würzburg, Würzburg, Germany\nTitle: Modeling Plots of Narrative Texts as Temporal Graphs\nAbstract: The paper outlines a formal model of plot (and syuzhet) for narrative texts. The basic   unit are scenes and the motif repertoire instantiated in the scene. The motif repertoire   consists of three sets of (closely related) elements: character stereotypes, types of   verbal actions and action types. It is assumed that the motif repertoire is highly   dependent on the corpus which is analyzed, in our case a corpus of romance and horror   novels published as pulp fiction. The resulting information is represented in a temporal   graph which in turn is used to compute relevant information on the scenes and   characters. Scenes are also characterized by their valence and their arousal value. A second representation which offers with a topic model of the direct speech and the  narrative text a simple proxy for the types of verbal actions and the action types is also created. To assess the ability of these information structures to indicate changes   in the temporal structures three evaluation methods are used based on artificial data.   We can confirm that a very abstract representation of the plot is able to do so, but   contrary to our expectations the more information-rich model which makes use of the   topic model is not better in doing so. The main contribution of this paper is its   attempt to integrate different research proposals into one integral model. We offer a   descriptive framework and a proposal for the formal model of plot, which makes it   possible to identify research problems and align existing approaches.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/modeling-plots-of-narrative-texts-as-temporal-graphs/1873",
+          "publishedOn": "2022-11-15T10:37:05.000Z",
+          "wordCount": 329,
+          "title": "Modeling Plots of Narrative Texts as Temporal Graphs"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1872",
+          "author": "andrew.piper",
+          "description": "Speaker: Andrew Piper and Sunyam Bagga\n Affiliation: McGill University, 680 Sherbrooke St., Montreal, QC H3A 2M7, Canada\nTitle: A Quantitative Study of Fictional Things\nAbstract: In this paper, we apply machine learning based predictive models on two large data sets of historical and contemporary fiction to better understand the role that things play in fictional writing. A large body of scholarship known as ``thing theory’’ has attempted to understand the function of fictional things within literature mostly by focusing on small case studies. We provide the first-ever estimates of the distribution of different types of things in English-language fiction over the past two centuries along with experiments to model their semantic identity. Our findings suggest that the most common fictional things are structural in nature, functioning akin to narrative props. We conclude by showing how these findings pose problems for inherited theories of fictional things and propose an alternative theoretical framework, embodied cognition, as a way of understanding the predominance of structural things.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/a-quantitative-study-of-fictional-things/1872",
+          "publishedOn": "2022-11-15T09:03:07.000Z",
+          "wordCount": 218,
+          "title": "A Quantitative Study of Fictional Things"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1871",
+          "author": "Yuri",
+          "description": "Speaker: Ida Marie S. Lassen (1), Yuri Bizzoni (1), Telma Peura (1), Mads  Rosendahl Thomsen (2) and Kristoffer Nielbo (1)\n Affiliation: (1) Center for Humanities Computing Aarhus, Aarhus University, Jens Chr. Skous Vej 4, Building 1483,DK-8000 Aarhus C; (2) School of Communication and Culture - Comparative Literature,  Aarhus University, Langelandsgade 139, Building 1580,  DK-8000 Aarhus C\nTitle: Reviewer Preferences and Gender Disparities in Aesthetic Judgments\nAbstract: Aesthetic preferences are considered highly subjective resulting in inherently noisy judgments of aesthetic objects, yet certain aspects of aesthetic judgment display convergent trends over time. This paper presents a study that uses literary reviews as a proxy for aesthetic judgment in order to identify systematic components that can be attributed to bias. Specifically, we find that judgments of literary quality differ across media types and display a gender bias. In newspapers, male reviewers have a same-gender preference while female reviewers show an opposite–gender preference. On the other hand, in the blogosphere female reviewers prefer female authors. While alternative accounts exist of this apparent gender disparity, we argue that it reflects a cultural gender antagonism that is necessary to take into account when doing computational assessment of aesthetics.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/reviewer-preferences-and-gender-disparities-in-aesthetic-judgments/1871",
+          "publishedOn": "2022-11-15T09:00:04.000Z",
+          "wordCount": 251,
+          "title": "Reviewer Preferences and Gender Disparities in Aesthetic Judgments"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1870",
+          "author": "laurenfklein",
+          "description": "Speaker: Xiaoyun Gong, Yuxi Lin, Ye Ding and Lauren Klein\n Affiliation: Emory University, 201 Dowman Dr, Atlanta, GA 30322, USA\nTitle: Gender and Power in Japanese Light Novels\nAbstract: In Japanese culture, the light novel – a combination of text and anime-style illustrations–is a relatively new literary form. It derives from the broader otaku culture, which is also associated with video games, manga, cosplay, anime, and other forms of Japanese popular culture. Though the light novel lacks the global reach of some of these other genres, such as manga and anime, it nonetheless attracts millions of readers across a range of gender and age groups. While distinct subgenres of the light novel have emerged, such as romance, adventure, horror, and harem, issues of gender stereotyping, power imbalances and other forms of inequality remain strongly entrenched. These issues can be attributed to how otaku culture is rooted in heterosexual male desire. This paper offers a quantitative assessment of these issues of gender inequality. We analyze 290 light novels, scraped from the Baka-Tsuki Translation Community Wiki, in terms of the power relationships between female and male characters as they evolve over the course of each novel. We find patterns consistent with issues of gender stereotyping and power differentials. More specifically, we find that female characters consistently wield less power than male characters, especially toward the end of each novel. We find some variation in specific subgenres. We conclude with close readings of two light novels, demonstrating how a power frames approach to analyzing gender stereotypes in otaku culture augments existing work on the subject.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/gender-and-power-in-japanese-light-novels/1870",
+          "publishedOn": "2022-11-15T08:58:22.000Z",
+          "wordCount": 319,
+          "title": "Gender and Power in Japanese Light Novels"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1869",
+          "author": "yannryan",
+          "description": "Speaker: Jinbin Zhang (1), Yann Ciarán Ryan (3), Iiro Rastas (4), Filip Ginter (4), Mikko Tolonen (3) and Rohit Babbar (1)\n Affiliation: (1) Aalto University, Finland; (3) University of Helsinki, Finland; (4) TurkuNLP, University of Turku, Finland\nTitle: Detecting Sequential Genre Change in Eighteenth-Century Texts\nAbstract: Machine classification of historical books into genres is a common task for NLP-based classifiers and has a number of applications, from literary analysis to information retrieval. However it is not a straightforward task, as genre labels can be ambiguous and subject to temporal change, and moreoever many books consist of mixed or miscellaneous genres. In this paper we describe a work-in-progress method by which genre predictions can be used to determine longer sequences of genre change within books, which we test out with visualisations of some hand-picked texts. We apply state-of-the-art methods to the task, including a BERT-based transformer and character-level Perceiver model, both pre-trained on a large collection of eighteenth century works (ECCO), using a new set of hand-annotated documents created to reflect historical divisions. Results show that both models perform significantly better than a linear baseline, particularly when ECCO-BERT is combined with tfidf features, though for this task the character-level model provides no obvious advantage. Initial evaluation of the genre sequence method shows it may in the future be useful in determining and dividing the multiple genres of miscellaneous and hybrid historical texts.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/detecting-sequential-genre-change-in-eighteenth-century-texts/1869",
+          "publishedOn": "2022-11-15T08:53:12.000Z",
+          "wordCount": 288,
+          "title": "Detecting Sequential Genre Change in Eighteenth-Century Texts"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1868",
+          "author": "ash",
+          "description": "Speaker: Artjoms Šeļa (1, 2) and Mikhail Gronas (3)\n Affiliation: (1) Institute of Polish Language (Polish Academy of Sciences), al. Mickiewicza 31, 31-120 Kraków; (2) University of Tartu, Ülikooli 18, 50090 Tartu, Estonia; (3) Dartmouth college, Hanover, NH 03755, USA\nTitle: Measuring Rhythm Regularity in Verse: Entropy of Inter-Stress Intervals\nAbstract: Recognition of poetic meters is not a trivial task, since metrical labels are not a closed set of classes. Outside of classical meters, describing the metrical structure of a poem in a large corpus requires expertise and a shared scientific theory. In a situation when both components are lacking, alternative and continuous measures of regularity can be envisioned. This paper focuses on poetic rhythm to propose a simple entropy-based measure for poem regularity using counts of non-stressed intervals. The measure is validated using subsets of a well-annotated Russian poetic corpus, prose, and quasi-poems (prose chopped into lines). The regularity measure is able to detect a clear difference between various organizational principles of texts: average entropy rises when moving from accentual-syllabic meters to accentual variations to free verse and prose. Interval probabilities, when taken as a vector of features, also allow for classification at the level of individual poems. This paper argues that distinguishing between meter as a cultural idea and rhythm as an empirical sequence of sounds can lead to better understanding of form recognition and prosodic annotation problems.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/measuring-rhythm-regularity-in-verse-entropy-of-inter-stress-intervals/1868",
+          "publishedOn": "2022-11-15T08:49:33.000Z",
+          "wordCount": 291,
+          "title": "Measuring Rhythm Regularity in Verse: Entropy of Inter-Stress Intervals"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1867",
+          "author": "alie",
+          "description": "Speaker: Alie Lassche (1), Jan Kostkan (2) and Kristoffer Nielbo (2)\n Affiliation: (1) Leiden University, Institute of History, Doelensteeg 16, 2311 VL Leiden, The Netherlands; (2) Center for Humanities Computing Aarhus, Jens Chr. Skous Vej 4, Building 1483, DK-8000 Aarhus C, Denmark\nTitle: Chronicling Crises: Event Detection in Early Modern Chronicles from the Low Countries\nAbstract: Between the Middle Ages and the nineteenth century, many middle-class Europeans kept a handwritten chronicle, in which they reported on events they considered relevant. Discussed topics varied from records of price fluctuations to local politics, and from weather reports to remarkable gossip. What we do not know yet, is to what extent times of conflict and crises influenced the way in which people dealt with information. We have applied methods from information theory – dynamics in word usage and measures of relative entropy such as  novelty  and  resonance  – to a corpus of early modern chronicles from the Low Countries (1500–1820) to provide more insight in the way early modern people were coping with information during impactful events. We detect three peaks in the novelty signal, which coincide with times of political uncertainty in the Northern and Southern Netherlands. Topic distributions provided by Top2Vec show that during these times, chroniclers tend to write more and more extensively about an increased variation of topics.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/chronicling-crises-event-detection-in-early-modern-chronicles-from-the-low-countries/1867",
+          "publishedOn": "2022-11-15T08:48:01.000Z",
+          "wordCount": 286,
+          "title": "Chronicling Crises: Event Detection in Early Modern Chronicles from the Low Countries"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1866",
+          "author": "melvin.wevers",
+          "description": "Speaker: Melvin Wevers (1), Folgert Karsdorp (2) and Jelle van Lottum (3)\n Affiliation: (1) University of Amsterdam, Amsterdam, the Netherlands; (2) KNAW Meertens Institute, Amsterdam, the Netherlands; (3) KNAW Huygens Institute, Amsterdam, the Netherlands\nTitle: What Shall We Do With the Unseen Sailor? Estimating the Size of the Dutch East India Company Using an Unseen Species Model\nAbstract: Historians base their inquiries on the sources that are available to them. However, not all sources that are relevant to the historian’s inquiry may have survived the test of time. Consequently, the resulting data can be biased in unknown ways, possibly skewing analyses. This paper deals with the Dutch East India Company its digitized ledgers of contracts. We apply an unseen species model, a method from ecology, to estimate the  actual  number of unique seafarers contracted. We find that the lower bound of actual seafarers is much higher than what the remaining contracts indicate: at least, thirty-six percent of the seafarers is unknown. Moreover, we find that even in periods when few records survived, we can still credibly estimate a lower bound on the unique number of seafarers.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/what-shall-we-do-with-the-unseen-sailor-estimating-the-size-of-the-dutch-east-india-company-using-an-unseen-species-model/1866",
+          "publishedOn": "2022-11-15T08:44:55.000Z",
+          "wordCount": 272,
+          "title": "What Shall We Do With the Unseen Sailor? Estimating the Size of the Dutch East India Company Using an Unseen Species Model"
+        },
         {
           "id": "discourse.computational-humanities-research.org-topic-1865",
           "author": "jbcamps",
@@ -3309,6 +3435,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.89",
+          "author": null,
+          "description": "The Oupoco Database is a collection of 4,872 French sonnets developed in the framework of the Oupoco Project. It is mainly composed of poems from the 19th and early 20th century. The sonnets come from different sources from the Internet and from a collaboration with the Bibliothèque nationale de France. Every sonnet has a specific license (depending on the source it comes from), but the whole collection can be reused for free (under the Creative Commons Attribution 4.0 International license). Published on 2022-11-15 12:05:20",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.89",
+          "publishedOn": "2022-11-16T08:03:42.018Z",
+          "wordCount": 1798,
+          "title": "The Oupoco Database of French Sonnets from the 19<sup>th</sup> Century"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.88",
           "author": null,
           "description": "This dataset includes derived data on a collection of ca. 2,700 books in English published between 2001–2021 and spanning 12 different genres. The data was manually collected to capture popular writing aimed at a range of different readerships across fiction (1,934) and non-fiction (820). Genres include forms of cultural capital (bestsellers, prizewinners, elite book reviews), stylistic affinity (mysteries, science fiction, biography, etc.), and age-level (middle-grade and young adult). The dataset allows researchers to explore the effects of audience, genre, and instrumentality (i.e., fictionality) on the stylistic behavior of authors within the recent past across different classes of professionally published writing.\n Published on 2022-10-11 11:46:08",
@@ -3801,24 +3936,6 @@
           "publishedOn": "2022-06-20T07:00:00.000Z",
           "wordCount": 1081,
           "title": "RaDiHum20 spricht mit dem DHd-Vorstand über Community-Management"
-        },
-        {
-          "id": "https://radihum20.de/?p=564",
-          "author": "Jonathan D. Geiger",
-          "description": "Für unsere heutige Folge zum Thema Communitymanagement und -building in den Digital Humanities haben wir Melanie Seltmann und Torsten Roeder zu uns eingeladen. Beide haben am Aufbau des #DHall-Discord-Servers mitgewirkt und sind hier nach wie vor aktiv. In dieser Folge berichten sie uns von den Anfängen des Servers, was hier so passiert und wie man […]\nDer Beitrag RaDiHum20 spricht mit Melanie Seltmann und Torsten Roeder über Community-Management bei DHall erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/radihum20-community-management-bei-dhall/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-community-management-bei-dhall",
-          "publishedOn": "2022-05-20T07:46:00.000Z",
-          "wordCount": 876,
-          "title": "RaDiHum20 spricht mit Melanie Seltmann und Torsten Roeder über Community-Management bei DHall"
-        },
-        {
-          "id": "https://radihum20.de/?p=564",
-          "author": "Jonathan D. Geiger",
-          "description": "Für unsere heutige Folge zum Thema Communitymanagement und -building in den Digital Humanities haben wir Melanie Seltmann und Torsten Roeder zu uns eingeladen. Beide haben am Aufbau des #DHall-Discord-Servers mitgewirkt und sind hier nach wie vor aktiv. In dieser Folge berichten sie uns von den Anfängen des Servers, was hier so passiert und wie man […]\nDer Beitrag RaDiHum20 spricht mit Melanie Seltmann und Torsten Roeder über Community-Management bei DHall erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/radihum20-community-management-bei-dhall/",
-          "publishedOn": "2022-05-20T07:46:00.000Z",
-          "wordCount": 855,
-          "title": "RaDiHum20 spricht mit Melanie Seltmann und Torsten Roeder über Community-Management bei DHall"
         }
       ]
     },
@@ -4710,6 +4827,15 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=1511",
+          "author": "Melissa Portaels",
+          "description": "Bezoek de webtentoonstelling 360° Ligeti hier! Opvallend in de muziek van de Hongaars-Oostenrijkse componist György Ligeti (1923-2006) is haar originaliteit en veelzijdigheid. Grenzeloos zoals de gedachten van de componist. Als kind verzon Ligeti het utopische land ‘Kylwiria’, waarvoor hij landkaarten,…\n\nContinue reading “Online expo: 360° Ligeti”…",
+          "link": "https://scholarlytales.hcommons.org/2022/11/15/online-expo-360-ligeti/",
+          "publishedOn": "2022-11-15T08:14:05.000Z",
+          "wordCount": 2206,
+          "title": "Online expo: 360° Ligeti"
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=1611",
           "author": "Laura Mesotten",
           "description": "This event is only open to KU Leuven researchers and staff. Do you want to know more about depositing, publishing, sharing, and reusing data? Learn all about data sharing best practices, what research data repositories are, and get hands-on experience…\n\nContinue reading “Training: Sharing and publishing research data (KU Leuven)”…",
@@ -5484,15 +5610,6 @@
           "publishedOn": "2022-05-22T06:17:34.000Z",
           "wordCount": 38,
           "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/20/convert-your-trove.html",
-          "author": null,
-          "description": "I’m thinking about the Trove Researcher Platform discussions & ways of integrating Trove with other apps and platforms (like the GLAM Workbench).\nAs a simple demo I modifed my Trove Proxy app to convert a newspaper search url from the Trove web interface into an API query (using the trove-query-parser package). The proxy app then redirects you to the Trove API Console so you can see the results of the API query without needing a key.\nTo make it easy to use, I created a bookmarklet that encodes your current url and feeds it to the proxy. To use it just:\nDrag this link to your bookmarks toolbar: Open Trove API Console.\nRun a search in Trove’s newspapers.\nClick on the bookmarklet.\nThis little hack provides a bit of ‘glue’ to help researchers think their about search results as data, and explore other possibilities for download and analysis. #dhhacks",
-          "link": "https://updates.timsherratt.org/2022/05/20/convert-your-trove.html",
-          "publishedOn": "2022-05-20T05:43:00.000Z",
-          "wordCount": 191,
-          "title": "Convert your Trove newspaper searches to an API query with just one click!"
         }
       ]
     },
@@ -5508,6 +5625,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4276 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Abstract\nHow does public history intersect with citizen science on crowdsourcing platforms like Zooniverse? This talk will use examples drawn from the Living with Machines project, a collaboration between The Alan Turing Institute and British Library with partner universities, to consider this question. Living with Machines is developing digital history and data science methods to explore vast digitised corpora of historical collections from the long 19th century. Crowdsourcing was built into the project from the very beginning, both as a form of public engagement and a method for data collection. Participants comments and survey results provide insights into their experiences reading and annotating historical newspaper articles.\nBiography\nDr Mia Ridge is the British Library’s Digital Cura…",
+          "link": "https://www.c2dh.uni.lu/events/citizen-science-public-history",
+          "publishedOn": "2022-11-15T11:51:53.000Z",
+          "wordCount": 640,
+          "title": "Citizen Science as Public History?"
+        },
+        {
           "id": "4275 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "CIDOC CRM is an international standard for Cultural Heritage domain description. FRBRoo/LRMoo is an international standard for bibliographic information. Twice a year, members of both groups meet to update and improve their models. The next meeting will be held at the C²DH, between 6 and 9 December 2022. See the agenda of the meeting.\nBesides the meeting itself, two awareness events are open to a wider public:\n \nHands-on workshop about Spatiotemporal modeling using CIDOC CRM models\nTuesday 6 December, 9.30 - 13.30 at the DH Lab\nThe workshop, mostly dedicated to cultural heritage professionals, will consist in two parts: first a guided tour of the university campus at Belval that is situated on a reclaimed industrial site, followed by a practical collaborative session on using spatiotempora…",
@@ -5515,6 +5641,15 @@
           "publishedOn": "2022-11-15T07:43:39.000Z",
           "wordCount": 537,
           "title": "55th CIDOC-CRM and 48th FRBR joint meeting"
+        },
+        {
+          "id": "4274 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Von 10 bis 15 Uhr organisieren wir zusammen mit Repair Café Lëtzebuerg, dem Naturpark Our und dem Ancien Cinéma ein Repair Café. Repair Cafés sind Treffen, bei denen ehrenamtliche Reparateure gemeinsam mit anderen ihre kaputten Dinge reparieren: kleine elektrische Geräte, Kleidung, Fahrräder, Spielzeug, kleine Möbel und vieles mehr  … alles was kaputt ist, ist Willkommen und hat eine Chance auf eine zweites Leben verdient.\nIm Anschluss, von 15 bis 16.30 Uhr, gibt es drei Kurzvorträge zur Geschichte des Reparierens mit anschließendem Umtrunk.\n \nSamstag, 3. Dezember 2022\n10.00 - 15.00 Uhr: Repair Café\n15.00 - 16.30 Uhr: Kurzvorträge (mit anschließendem Umtrunk)\nStefan Krebs: Reparieren und die Lebensdauer der Dinge\nThomas Hoppenheit: Vom Verschwinden der kleinen Reparaturläden\nRebecca Mossop: Die Wartung des Luxemburger Telefonsystems\n \n\nAncien Cinéma\n23 Grand Rue\nL-9410 Vianden\nSprachen: DE, FR, LU, EN (repair café), DE (Vorträge)\n\n\n\nFreier Eintritt. Eine vorherige Einschreibung erleichtert die Organisation.\n \n \nLegal notice\n \n \n \n\n  3 December 2022\n  repaircafe\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/forum_z_repair_web.png?itok=_tAvw3Te\n  Public history\n  Economic history  History of technology  Industrial history  Social history\n  ForumZ\n  Repairing technology – fixing society? History of maintenance and repair in Luxembourg\n  Auf diesem Forum Z erkunden wir Reparaturpraktiken gestern und heute. \n  Stefan Krebs  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/forum-z/reparieren-gestern-und-heute",
+          "publishedOn": "2022-11-10T10:16:16.000Z",
+          "wordCount": 327,
+          "title": "Reparieren gestern und heute"
         },
         {
           "id": "4273 at https://www.c2dh.uni.lu",
@@ -5946,6 +6081,24 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/cdh-awards-recipients-lent-2021/",
+          "author": null,
+          "description": "2020-2021 Below are the recipients of the CDH Awards in 2020-2021. Please visit CDH Awards for more information and how to apply for the current academic year. Bid Development Awards Barbara McGillivray 'Computational Methods for Tracing the Evolution of Meaning in Ancient Languages' Máire Ní Mhaonaigh 'Interpretation of a Digital Corpus of Landscape Literature",
+          "link": "https://www.cdh.cam.ac.uk/about/news/cdh-awards-recipients-lent-2021/",
+          "publishedOn": "2022-11-15T14:23:54.000Z",
+          "wordCount": 536,
+          "title": "CDH Awards Recipients, Lent 2021"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/blog/the-sandbach-tinne-programme/",
+          "author": null,
+          "description": "By Malik Al Nasir Malik Al Nasir is a third-year PhD candidate at the University of Cambridge’s faculty of history. His research entitled Kinship Networks and Mercantile Hegemony in the Latter Days of British Slavery – The Case of Sandbach Tinne, c. 1790-1840 is derived from his longstanding desire to trace his own mixed ancestry",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/the-sandbach-tinne-programme/",
+          "publishedOn": "2022-11-15T11:51:53.000Z",
+          "wordCount": 1865,
+          "title": "The Sandbach Tinne Programme"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/aphrodita-nicolova/",
           "author": null,
@@ -7223,15 +7376,6 @@
           "publishedOn": "2022-05-23T16:17:45.000Z",
           "wordCount": 242,
           "title": "UNBIND: Reimagining the Academic Monograph"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/newsletter/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/media/newsletter/",
-          "publishedOn": "2022-05-20T09:35:10.000Z",
-          "wordCount": 247,
-          "title": "Newsletter"
         }
       ]
     },
