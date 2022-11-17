@@ -2237,15 +2237,6 @@
           "publishedOn": "2022-05-29T08:15:52.899Z",
           "wordCount": 764,
           "title": "Mehrere Stellenangebote am neuen Graduiertenkolleg &quot;Literatur und Öffentlichkeit in differenten Gegenwartskulturen&quot; (FAU Erlangen-Nürnberg)"
-        },
-        {
-          "id": "node/811",
-          "author": "406",
-          "description": "An der Fachhochschule Potsdam ist folgende Stelle ausgeschrieben:\nProfessur (w/m/d) für „Bibliothekswissenschaft – Technologien, Systeme und Dienste\" (W 2)\nKennziffer 16/2022…",
-          "link": "https://dig-hum.de/aktuelles/professur-wmd-f%C3%BCr-%E2%80%9Ebibliothekswissenschaft-%E2%80%93-technologien-systeme-und-dienste-w-2",
-          "publishedOn": "2022-05-21T08:16:23.478Z",
-          "wordCount": 735,
-          "title": "Professur (w/m/d) für „Bibliothekswissenschaft – Technologien, Systeme und Dienste&quot; (W 2), Fachhochschule Potsdam (Deadline 24.05.22)"
         }
       ]
     },
@@ -2260,6 +2251,15 @@
       "feedUrl": "https://digitaldemocracies.org/feed",
       "siteUrl": "https://digitaldemocracies.org",
       "articles": [
+        {
+          "id": "https://digitaldemocracies.org/?p=4672",
+          "author": "Kayla Hilstob",
+          "description": "This post was written by Amy Harris, DDI Lab Manager and PhD Candidate at the School of Communication. This event was described as bringing together a “panel of international experts …\n  The Russia-Ukraine War and Media: Event Summary Read More »\nThe Russia-Ukraine War and Media: Event Summary first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/the-russia-ukraine-war-and-media-event-summary/?utm_source=rss&utm_medium=rss&utm_campaign=the-russia-ukraine-war-and-media-event-summary",
+          "publishedOn": "2022-11-16T22:42:54.000Z",
+          "wordCount": 1703,
+          "title": "The Russia-Ukraine War and Media: Event Summary"
+        },
         {
           "id": "https://digitaldemocracies.org/?p=4624",
           "author": "Kayla Hilstob",
@@ -2737,6 +2737,132 @@
       "feedUrl": "https://discourse.computational-humanities-research.org/latest.rss",
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1894",
+          "author": "GVogeler",
+          "description": "Speaker: Georg Vogeler, Anguelos Nicolaou, Daniel Luger, Tamás Kovács, Florian Atzenhofer-Baumgartner, Sandy Aoun and Franziska Decker\n Affiliation:\nTitle: Detecting Linguistic Variation in the Genesis of a Literary Work\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/computational-methods-in-studying-late-medieval-charters/1894",
+          "publishedOn": "2022-11-16T15:49:45.000Z",
+          "wordCount": 84,
+          "title": "Computational Methods in Studying Late Medieval Charters"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1893",
+          "author": "chr-user",
+          "description": "Speaker: Maryam Zamani and Matteo Valleriani\n Affiliation:\nTitle: Transformation and Globalization of Astronomy in the Early Modern Period. A Multi-Layer Network Analysis\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/transformation-and-globalization-of-astronomy-in-the-early-modern-period-a-multi-layer-network-analysis/1893",
+          "publishedOn": "2022-11-16T15:48:40.000Z",
+          "wordCount": 90,
+          "title": "Transformation and Globalization of Astronomy in the Early Modern Period. A Multi-Layer Network Analysis"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1892",
+          "author": "marieke",
+          "description": "Speaker: Ryan Brate and Marieke van Erp\n Affiliation:\nTitle: Exploring the loaded contexts that characterise people groups across Dutch Pilarised Newspapers\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/exploring-the-loaded-contexts-that-characterise-people-groups-across-dutch-pilarised-newspapers/1892",
+          "publishedOn": "2022-11-16T15:47:25.000Z",
+          "wordCount": 86,
+          "title": "Exploring the loaded contexts that characterise people groups across Dutch Pilarised Newspapers"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1891",
+          "author": "thora.hagen",
+          "description": "Speaker: Thora Hagen\n Affiliation:\nTitle: Semantic enrichment of type-based word embeddings for small domains\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/semantic-enrichment-of-type-based-word-embeddings-for-small-domains/1891",
+          "publishedOn": "2022-11-16T15:37:54.000Z",
+          "wordCount": 73,
+          "title": "Semantic enrichment of type-based word embeddings for small domains"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1890",
+          "author": "dkltimon",
+          "description": "Speaker: Keli Du\n Affiliation:\nTitle: Understanding LDA: Alpha doesn’t Always Matter\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/understanding-lda-alpha-doesn-t-always-matter/1890",
+          "publishedOn": "2022-11-16T15:36:22.000Z",
+          "wordCount": 65,
+          "title": "Understanding LDA: Alpha doesn’t Always Matter"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1889",
+          "author": "Tariq",
+          "description": "Speaker: Matthias Irmer, Olav Müller-Reichau, J. Nathanael Philipp, Michael Richter and Tariq Yousef\n Affiliation:\nTitle: Information theory unravels the subtext in Chekhov\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/information-theory-unravels-the-subtext-in-chekhov/1889",
+          "publishedOn": "2022-11-16T15:34:48.000Z",
+          "wordCount": 79,
+          "title": "Information theory unravels the subtext in Chekhov"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1887",
+          "author": "giulia.grisot",
+          "description": "Speaker: Giulia Grisot, Federico Pennino and Berenike Herrmann\n Affiliation:\nTitle: Predicting sentiments and space in Swiss literature using BERT and Prodigy\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/predicting-sentiments-and-space-in-swiss-literature-using-bert-and-prodigy/1887",
+          "publishedOn": "2022-11-16T15:25:24.000Z",
+          "wordCount": 86,
+          "title": "Predicting sentiments and space in Swiss literature using BERT and Prodigy"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1886",
+          "author": "Anders_Astrup",
+          "description": "Speaker: Anders Astrup Christensen, Kristoffer Laigaard Nielbo and Sedat Gumus\n Affiliation:\nTitle: Explorative analysis of large-scale education data using Machine Learning: Contextual factors related to Professional Learning Communities\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/explorative-analysis-of-large-scale-education-data-using-machine-learning-contextual-factors-related-to-professional-learning-communities/1886",
+          "publishedOn": "2022-11-16T15:24:14.000Z",
+          "wordCount": 101,
+          "title": "Explorative analysis of large-scale education data using Machine Learning: Contextual factors related to Professional Learning Communities"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1885",
+          "author": "chr-user",
+          "description": "Speaker: Ben Nagy\n Affiliation:\nTitle: (Not) Understanding Latin Poetic Style with Deep Learning\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/not-understanding-latin-poetic-style-with-deep-learning/1885",
+          "publishedOn": "2022-11-16T15:18:53.000Z",
+          "wordCount": 71,
+          "title": "(Not) Understanding Latin Poetic Style with Deep Learning"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1884",
+          "author": "chr-user",
+          "description": "Speaker: Marion Riggs\n Affiliation:\nTitle: Analyzing the usage-based semantic variation of ‘baroque’ in eighteenth-century French using a historically-adapted Transformer-based Language Model\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/analyzing-the-usage-based-semantic-variation-of-baroque-in-eighteenth-century-french-using-a-historically-adapted-transformer-based-language-model/1884",
+          "publishedOn": "2022-11-16T15:17:36.000Z",
+          "wordCount": 94,
+          "title": "Analyzing the usage-based semantic variation of ‘baroque’ in eighteenth-century French using a historically-adapted Transformer-based Language Model"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1883",
+          "author": "ElliB",
+          "description": "Speaker: Elli Bleeker, Kody Moodley and Ronald Haentjens Dekker\n Affiliation:\nTitle: Detecting Linguistic Variation in the Genesis of a Literary Work\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/detecting-linguistic-variation-in-the-genesis-of-a-literary-work/1883",
+          "publishedOn": "2022-11-16T15:14:57.000Z",
+          "wordCount": 83,
+          "title": "Detecting Linguistic Variation in the Genesis of a Literary Work"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1882",
+          "author": "HWedig",
+          "description": "Speaker: Helena Wedig, Carola Strobl, Jim J.J. Ureel and Tanja Mortelmans\n Affiliation:\nTitle: The Beldeko corpus: A new resource for investigating L2 German texts written by L1 Dutch students\n Link to poster\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/the-beldeko-corpus-a-new-resource-for-investigating-l2-german-texts-written-by-l1-dutch-students/1882",
+          "publishedOn": "2022-11-16T15:13:25.000Z",
+          "wordCount": 102,
+          "title": "The Beldeko corpus: A new resource for investigating L2 German texts written by L1 Dutch students"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1881",
+          "author": "melvin.wevers",
+          "description": "Category for posters presented at CHR22\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/about-the-chr22-poster-category/1881",
+          "publishedOn": "2022-11-16T15:11:13.000Z",
+          "wordCount": 49,
+          "title": "About the chr22-poster category"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1880",
+          "author": "melvin.wevers",
+          "description": "Day 1 - Mon 12 Dec 2022\nSession 0: Opening\n2022-12-12T14:30:00Z UTC → 2020-11-18T15:15:00Z UTC Walk-in, registration\n2022-12-12T15:15:00Z UTC → 2020-11-18T15:30:00Z UTC Welcome\nSession 1A: Keynote 1 \n\n2020-11-18T15:30:00Z UTC → 2020-11-18T17:00:00Z UTC ;  TBD\n Peter Turchin\nTBA\n\n\n\n\nOpening reception (followed by self-paid dinner) \n\n2022-12-12T17:00:00Z UTC\nDay 2 - Tue 13 Dec 2022\nSession 2A: Language \n\n2022-12-13T08:00:00Z UTC → 2022-12-13T09:30:00Z UTC;  TBD)\n Margherita Parigini and Mike Kestemont\nThe Roots of Doubt. Fine-tuning a BERT Model to Explore a Stylistic Phenomenon [long]\n Alessandra De Mulder, Lauren Fonteyn and Mike Kestemont\nLinguistic value construction in 18th-century London auction advertisements: a quantitative approach [long]\n  Folgert Karsdorp, Enrique Manjavacas and L…",
+          "link": "https://discourse.computational-humanities-research.org/t/chr2022-schedule/1880",
+          "publishedOn": "2022-11-15T11:52:20.000Z",
+          "wordCount": 761,
+          "title": "CHR2022 - Schedule"
+        },
         {
           "id": "discourse.computational-humanities-research.org-topic-1878",
           "author": "chr-user",
@@ -5625,6 +5751,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4277 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The deportation of Crimean Tatars was a state-organized and forcible eviction of Crimean Tatars people that was ordered by Joseph Stalin as a form of collective punishment in 1944. It was supposed to completely remove the Crimean Tatar nationality from the demographic map of the world. It ruined the traditional way of life, social structure, and cultural institutes of Crimean Tatars. Indeed, Crimean Tatars were supposed to assimilate in exile. As a result of state-sponsored violence, Crimean Tatars became a nation in exile. After Stalin's death they did not receive the right to return to Crimea and renew their autonomy, like most \"punished peoples.\" However, Crimean Tatars escaped the fate and managed to reshape their identity. Moreover, despite the ban, Crimean Tatars tried to return to their homeland during the Soviet era.\nIn the presentation the question \"How did Crimean Tatars returnees dealt with 'homecoming'?\" will be answered. Studying the Crimean Tatars' return contribute significantly not only to the history of Crimean Tatars, moreover, it is important for the understanding of reverse migration process in migration studies. The research, foremost, is based on oral history interviews. So the special attention will be paid to doing Oral History in Crimea.\n \n\n\n \nA historian of Crimean Tatars, Martin-Oleksandr Kisly (History Department of National university of Kyiv-Mohyla academy) holds a Candidate of Science degree, having defended a dissertation entitled \"Crimean Tatars’ Return to the Homeland in 1956–1989\". His research focuses on memory, trauma, identity and migration. Fulbright Research and Development program fellow (2017, University of Michigan, Ann Arbor). IWM fellow (2022).\n \nWednesday, 23 November 2022\n14.00 - 15.00\nOnline\nPlease contact vanessa.napolitano@uni.lu to receive the Webex link.\n23 November 2022\n  Contemporary history of Europe\n  Migration history  Oral history\n  Hands-on History\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/migration-not-one-way-trip-studying-and-telling-story-crimean-tatars-deportation-and-return",
+          "publishedOn": "2022-11-16T08:04:44.000Z",
+          "wordCount": 524,
+          "title": "Migration is not a one way trip. Studying and telling the story of Crimean Tatars' deportation and return"
+        },
+        {
           "id": "4276 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "Abstract\nHow does public history intersect with citizen science on crowdsourcing platforms like Zooniverse? This talk will use examples drawn from the Living with Machines project, a collaboration between The Alan Turing Institute and British Library with partner universities, to consider this question. Living with Machines is developing digital history and data science methods to explore vast digitised corpora of historical collections from the long 19th century. Crowdsourcing was built into the project from the very beginning, both as a form of public engagement and a method for data collection. Participants comments and survey results provide insights into their experiences reading and annotating historical newspaper articles.\nBiography\nDr Mia Ridge is the British Library’s Digital Cura…",
@@ -7634,6 +7769,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1584 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "Ireland’s National Open Research Forum (NORF) has awarded funding to six new collaborative projects to implement priority actions in Ireland’s National Action Plan for Open Research 2022-2030.",
+          "link": "https://www.dri.ie/ireland-national-open-research-forum-awards-six-collaborative-projects-open-research",
+          "publishedOn": "2022-11-16T16:18:20.000Z",
+          "wordCount": 1415,
+          "title": "Ireland’s National Open Research Forum Awards €1.16 Million to Six Collaborative Projects to Advance Open Research"
+        },
         {
           "id": "1581 at https://www.dri.ie",
           "author": "ainemadden",
