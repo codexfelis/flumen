@@ -3658,15 +3658,6 @@
           "publishedOn": "2022-05-25T08:17:12.101Z",
           "wordCount": 9741,
           "title": "Teaching the Text Encoding Initiative: Context, Community and Collaboration"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.61",
-          "author": null,
-          "description": "This paper pioneers a new computational approach for the study of changes in shape of objects across time. Previously, such a study was undertaken by scholars using a purely visual approach and relied on images of objects or in-person observations. This paper’s approach is based on 3D scans of historical artefacts. Sample points are extracted from these 3D scans and the distance between analogous points across different objects is computed using an approximation of the Wasserstein metric, namely the Sinkhorn distance. In this paper, the approach is demonstrated on a small set of ancient Greek vessels of the Krater, Pelike, and Kylix types, as the variation in their shapes across time is well known to archaeologists. Results offer, for the first time, a way of quantifying differences between objects. Benefits of this approach lie in its ability to quantify change, to study complex 3D material, and to analyse large datasets of objects, opening the possibility of constructing new large-scale studies of object shape across time and geographical regions. These have a range of applications in art history, archaeology, digital humanities, museology and extended reality studies.\n Published on 2022-05-20 12:09:58",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.61",
-          "publishedOn": "2022-05-21T08:16:36.551Z",
-          "wordCount": 6399,
-          "title": "Tracing Changes in Shape of Historical Artefacts Across Time Using 3D Scans: A New Computational Approach"
         }
       ]
     },
@@ -4070,6 +4061,15 @@
       "feedUrl": "https://readcoop.eu/feed",
       "siteUrl": "https://readcoop.eu/",
       "articles": [
+        {
+          "id": "https://readcoop.eu/?p=30966",
+          "author": "Florian Stauder",
+          "description": "We are thrilled to announce that yesterday, we hit 100,000 users on the Transkribus platform! Even with our years-long highly motivated effort, advocacy, and dedication, this milestone would not have been possible without our passionate community. Over 25,000 new members have joined us this year alone—a clear indication of where the Transkribus family is  headed. […]\nThe post 100,000+ people use Transkribus  (100k Giveaway) appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/100k-users/",
+          "publishedOn": "2022-11-17T12:04:26.000Z",
+          "wordCount": 1552,
+          "title": "100,000+ people use Transkribus  (100k Giveaway)"
+        },
         {
           "id": "https://readcoop.eu/?p=29723",
           "author": "Florian Stauder",
@@ -5709,33 +5709,6 @@
           "publishedOn": "2022-05-26T05:24:49.000Z",
           "wordCount": 861,
           "title": "Using Datasette on Nectar"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/22/this-week-the.html",
-          "author": null,
-          "description": "This week the National Archives of Australia digitised 21,488 files:\n+10,305 in B884 (CMF personnel dossiers)\n+7,339 in A2572 & A2571 (Bonegilla name index cards)\n+1,345 in A9301 (RAAF personnel files)\nSee: github.com/wragge/na…",
-          "link": "https://updates.timsherratt.org/2022/05/22/this-week-the.html",
-          "publishedOn": "2022-05-22T06:37:24.000Z",
-          "wordCount": 49,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/22/major-changes-to.html",
-          "author": null,
-          "description": "Major changes to individual Trove newspapers this week:\n+52,543 articles from The Daily News (WA)\n+22,316 articles from Sunraysia Daily (Vic)\nSee: github.com/wragge/tr…",
-          "link": "https://updates.timsherratt.org/2022/05/22/major-changes-to.html",
-          "publishedOn": "2022-05-22T06:21:19.000Z",
-          "wordCount": 39,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/22/changes-to-trove.html",
-          "author": null,
-          "description": "Changes to Trove newspapers this week:\n+74,859 articles\n+15,852 articles with corrections\n+8,668 articles with tags\n+592 articles with comments\nSee: github.com/wragge/tr…",
-          "link": "https://updates.timsherratt.org/2022/05/22/changes-to-trove.html",
-          "publishedOn": "2022-05-22T06:17:34.000Z",
-          "wordCount": 38,
-          "title": "Untitled"
         }
       ]
     },
@@ -5750,6 +5723,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4282 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Programme\n15:00 Accueil et mots de bienvenue\n15:15 Mise en perspective historique  \nIntervenants :\nSylvain Schirmann (Professeur émérite, Science Po Strasbourg)\nMarie-Thérèse Bitsch (Professeure émérite, Université de Strasbourg).\nQuestions et commentaires de l’audience\n \n16:00 Table ronde Patrimoine et Médiations\nIntervenants :\nEulalie Giraud (Auteur de L’UE Parlons-en)\nGuido Lessing (enseignant, Maison de Robert Schuman, Luxembourg)\nClaire Le Van (Musée de Saverne, chargée de mission pour la promotion de la vie et de l’œuvre de Louise Weiss)\nLaurent Thurnherr (Maison de Robert Schuman, Scy-Chazelles)\nModérateur : Frédéric Clavert (C²DH, Université du Luxembourg)\nQuestions et commentaires de l’audience.\n \n\n\n\nEntrée libre sur inscription jusqu’au 23 novembre 2023\n \n\n\n24 November 2022\n  Contemporary history of Europe\n  European integration\n  Conferences\n  Published  \nPhotographie issue du fonds de la Maison de Robert Schuman à Scy-Chazelles.",
+          "link": "https://www.c2dh.uni.lu/events/robert-schuman-entre-histoire-et-memoire",
+          "publishedOn": "2022-11-18T07:38:34.000Z",
+          "wordCount": 316,
+          "title": "Robert Schuman entre histoire et mémoire"
+        },
         {
           "id": "4277 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6216,6 +6198,24 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35756/",
+          "author": null,
+          "description": "Speaker: Dr Siddharth Soni (Cambridge Digital Humanities) One of the enduring fantasies of technological automation is a ‘total’ archive. An archive without gaps or fissures or lacunae. An Archive that is intelligent, self-aware, and even sentient. One that can write its own story without historians and scholars dawdling in its dusty entrails. From card catalogues",
+          "link": "https://www.cdh.cam.ac.uk/events/35756/",
+          "publishedOn": "2022-11-17T16:10:16.000Z",
+          "wordCount": 406,
+          "title": "Automating the Achive: From Card Catologues to Computer Bots"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/networks/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/networks/",
+          "publishedOn": "2022-11-17T13:09:47.000Z",
+          "wordCount": 301,
+          "title": "Research Networks"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/news/cdh-awards-recipients-lent-2021/",
           "author": null,
@@ -7520,6 +7520,15 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5818 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "Meet the new Members of the SSH Open Marketplace Editorial Board\n\n            \n\n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \nThe SSH Open Marketplace is a discovery portal which pools and contextualises resources for social sciences and humanities research communities: tools, services, training materials, datasets, publications and workflows. This service was developed in the context of the Social Sciences and Humanities Open Cloud project (2019-2022) and was delivered to the public by the end of the project in April 2022. Since then, an Editorial Board ensures the day-to-day maintenance and the data quality of the SSH Open Marketplace. Liaising with the service providers and the end-users of the service (SSH researchers and support staff fo…",
+          "link": "https://www.clarin.eu/blog/meet-new-members-ssh-open-marketplace-editorial-board",
+          "publishedOn": "2022-11-17T14:00:02.000Z",
+          "wordCount": 779,
+          "title": "Meet the new Members of the SSH Open Marketplace Editorial Board"
+        },
+        {
           "id": "5816 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
           "description": "CLARIN Book Out Now!\n\n            \n\n  \n  \n            \n    \n\n              \n              \n                  \n\n  \nThe publication of this open-access volume marks CLARIN’s 10-year-anniversary as a European Research Infrastructure Consortium, and is edited by Darja Fišer (University of Ljubljana) and Andreas Witt (Leibniz Institute for the German Language Mannheim).\nThe book, launched at CLARIN2022, is the first volume  in a new series on Digital Linguistics, published by De Gruyter and provides a comprehensive overview of CLARIN, its members, its goals and functioning, as well as of the tools and resources hosted by the infrastructure. The many contributors representing various fields, from computer science to law and psychology, analyse a wide range of topics, such as the technology behind the CLARIN infrastructure, the use of CLARIN resources in diverse research projects, the achievements of selected national CLARIN consortia, and the challenges that CLARIN has faced and will face in the future. \nGet your digital or hard copy here\nListen to episode of the De Gruyter podcast about the CLARIN book here\n\n      Elisa Gorgaini\n 7 November 2022",
@@ -7769,6 +7778,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1585 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The 18th International Conference on Open Repositories, OR2023, will be held from 12-15 June 2023 in Stellenbosch, South Africa.",
+          "link": "https://www.dri.ie/open-repositories-2023-call-proposals",
+          "publishedOn": "2022-11-17T10:26:41.000Z",
+          "wordCount": 1011,
+          "title": "Open Repositories 2023 - Call For Proposals"
+        },
         {
           "id": "1584 at https://www.dri.ie",
           "author": "ainemadden",
