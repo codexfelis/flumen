@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-18T08:04:17.262Z</updated>
+    <updated>2022-11-19T08:03:52.714Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to build a community of collaborative transcription? Feed-back from an on-going project]]></title>
+        <id>http://digitalorientalist.com/?p=9083</id>
+        <link href="https://digitalorientalist.com/2022/11/18/how-to-build-a-community-of-collaborative-transcription-feed-back-from-an-on-going-project-2/"/>
+        <updated>2022-11-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(Part 2) Although we initially thought that the Ethiopian community would find something to satisfy its curiosity, it was clear …]]></summary>
+        <author>
+            <name>Anaïs Wion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: Historical Documents and automatic text recognition]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=12015</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/11/18/cfp-historical-documents-and-automatic-text-recognition/"/>
+        <updated>2022-11-18T13:54:12.000Z</updated>
+        <summary type="html"><![CDATA[With this special issue of the Journal of Data Mining and Digital Humanities (JDMDH), the goal is to bring together in one single volume several experiments, projects and reflections related to automatic text recognition on Historical documents. Many projects now include automatic text acquisition in their data processing chain. The integration of this technology into […]
+The post CFP: Historical Documents and automatic text recognition appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Opportunity – Training & Engagement Manager at the Digital Repository of Ireland]]></title>
+        <id>1586 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/job-opportunity-%E2%80%93-training-engagement-manager-digital-repository-ireland"/>
+        <updated>2022-11-18T13:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Applications are invited for the position of Training and Engagement Manager at the Digital Repository of Ireland (DRI), located at the Royal Irish Academy (RIA).]]></summary>
+        <author>
+            <name>Natalie Harrower</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robert Schuman entre histoire et mémoire]]></title>
         <id>4282 at https://www.c2dh.uni.lu</id>
@@ -11447,26 +11478,6 @@ The post Doing the Digital Laundry? Notes on Cleaning Unstructured Text Data app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Collection: Photographs of Irish Jesuits in Hong Kong from the Irish Jesuit Archive]]></title>
-        <id>1519 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-photographs-irish-jesuits-hong-kong-irish-jesuit-archive"/>
-        <updated>2022-05-23T17:42:28.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that the Irish Jesuit Archives has made their collection ‘Photographs of Irish Jesuits in Hong Kong’ available in the Repository. The collection, which consists of twenty photographs of Irish Jesuits in Hong Kong between 1929 and 1937, can now be explored.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collection: Bray Arts Journals]]></title>
-        <id>1518 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-bray-arts-journals"/>
-        <updated>2022-05-23T17:29:47.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that Bray Arts have published its first collection through the Repository. Bray Arts were recipients of the DRI Community Archive Scheme for 2022. The collection contains the journals of the organisation from 2016 to 2019.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UNBIND: Reimagining the Academic Monograph]]></title>
         <id>https://www.cdh.cam.ac.uk/events/34865/</id>
         <link href="https://www.cdh.cam.ac.uk/events/34865/"/>
@@ -11474,76 +11485,6 @@ The post Doing the Digital Laundry? Notes on Cleaning Unstructured Text Data app
         <summary type="html"><![CDATA[The monograph, or the scholarly book, is today the dominant form of knowledge production in the humanities. But can there exist a more imaginative, creative, or performative alternative? Can we unbind the monograph and transform it into something that resists the marketisation and privatisation of public knowledge? Something that engages robustly with open platforms and]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archiving Reproductive Health: New Collections]]></title>
-        <id>1517 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/archiving-reproductive-health-new-collections"/>
-        <updated>2022-05-23T11:26:55.000Z</updated>
-        <summary type="html"><![CDATA[The Archiving Reproductive Health project at the Digital Repository of Ireland publishes a new set of collections on the 4th anniversary of the referendum to repeal the Eighth Amendment, 25 May 2022.]]></summary>
-        <author>
-            <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Boom to Bust: the History of Industrial Regions (1870-1970 and beyond)]]></title>
-        <id>4033 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/boom-bust-history-industrial-regions-1870-1970-and-beyond"/>
-        <updated>2022-05-23T11:23:57.000Z</updated>
-        <summary type="html"><![CDATA[The conference will address the continuous and complex transformation of European industrial regions from industrialization to de- and post-industrialization, from the 1870s to the 1970s and beyond. The geographical scope ranges from the industrial regions of Western Europe in Portugal, Luxembourg, the Netherlands and Great Britain to the far north of Norway and Central and Eastern Europe (former GDR and Poland). The comparative long-term perspective will shed light on the different conditions of regional development and the cycles of boom and bust in the European context. The focus will be on four main topics: the housing situation of workers and their families, the decline of mining regions, the socio-political resistance of industrial workers, and the journalistic and visual representat…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors' Note: May 2022]]></title>
-        <id>bd5eab5f-f6ff-4f95-85e0-e18e8eb497ca</id>
-        <link href="https://reviewsindh.pubpub.org/pub/editors-note-may-2022"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the May 2022 issue of Reviews in Digital Humanities, guest edited by Aleia Brown, Marisa Parham, and Trevor Muñoz]]></summary>
-        <author>
-            <name>Roopika Risam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Forever Gwen Brooks]]></title>
-        <id>61f21ad4-a515-4f36-b86b-286db6a51384</id>
-        <link href="https://reviewsindh.pubpub.org/pub/forever-gwen-brooks"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Forever Gwen Brooks, a website generating variations of the final poem in Gwendolyn Brooks' 1969 chapbook RIOT, created by Lilian-Yvonne Bertram]]></summary>
-        <author>
-            <name>Marisa Parham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The Oak of Jerusalem]]></title>
-        <id>57b7093b-5955-4875-91cc-0f5542263b64</id>
-        <link href="https://reviewsindh.pubpub.org/pub/oak-of-jerusalem"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Review of The Oak of Jerusalem, a StoryMap of  Great Dismal Swamp, created by Christy Hyman]]></summary>
-        <author>
-            <name>J.T. Roane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Treasury of Weary Souls]]></title>
-        <id>76071c26-4c5a-480c-8936-aa9e2b80dd55</id>
-        <link href="https://reviewsindh.pubpub.org/pub/treasury-of-weary-souls"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Treasury of Weary Souls, a collection of insurance policies that underwrote enslaved people as property, directed by Michael Ralph]]></summary>
-        <author>
-            <name>Caitlin Pollock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Black Craftspeople Digital Archive]]></title>
-        <id>523ddba8-1869-49cf-8905-7e5707cefa11</id>
-        <link href="https://reviewsindh.pubpub.org/pub/black-craftspeople-digital-archive"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Black Craftspeople Digital Archive, an archive of the lives and experiences of Black craftspeople during the 18th and 19th centuries, directed by Tiffany Momon and Torren L. Gatson]]></summary>
-        <author>
-            <name>Julian C. Chambliss</name>
         </author>
     </entry>
     <entry>
