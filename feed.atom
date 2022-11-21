@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-20T08:03:48.554Z</updated>
+    <updated>2022-11-21T08:04:54.022Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Australian history industry and the impact of digitisation (open access preprint chapter)]]></title>
+        <id>http://wragge.micro.blog/2022/11/21/the-australian-history.html</id>
+        <link href="https://updates.timsherratt.org/2022/11/21/the-australian-history.html"/>
+        <updated>2022-11-21T03:04:59.000Z</updated>
+        <summary type="html"><![CDATA[The Australian History Industry was published recently. Edited by Paul Ashton and Paula Hamilton, the book ‘explores the complex, multi-roomed house of Australian history’, exploring academic, school, and public history, the impact of digital technologies, and the relationship of history to memory, social justice, politics, and cultural practice.
+My chapter ‘Digital revolutions: The limits and affordances of online collections’ looks at how digitisation of GLAM collections has (and hasn’t) changed historical practice:
+As the COVID lockdowns in 2020 emphasised, the online availability of  primary source materials makes historical research possible even when  access to the originals is limited. But the undoubted convenience of  being able to browse 200 years worth of newspapers at home masks other  issues that historians have been slow to acknowledge and address. How do we discover relevant resources? What gets digitised and why? How can  researchers use these collections to ask new types of questions? After more than 25 years, the web has its own history. What problems and  possibilities has it brought to the way we understand the past?
+It’s available as a green open access preprint on Zenodo.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent updates to trove-newspaper-harvester and trove-newspaper-images]]></title>
+        <id>http://wragge.micro.blog/2022/11/21/recent-updates-to.html</id>
+        <link href="https://updates.timsherratt.org/2022/11/21/recent-updates-to.html"/>
+        <updated>2022-11-21T01:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Catching up on some software package updates over the last few months.
+The trove-newspaper-harvester package is now at v0.6.5. Recent changes include:
+Fix to handle articles with missing metadata
+Don’t try to re-download existing text and PDF files on restart
+Better error messages for CLI
+Better handling of exceptions
+The trove-newspaper-images package is now at v0.2.1. Recent changes include:
+Minor changes to make it easier to use this package within the trove-newspaper-harvester
+Use argparse directly for the CLI, putting the initialisation within a function to avoid conflicts
+Remove the messages printed to stdout
+Updated the repository and documentation to use nbdev v2
+Don’t try to re-download existing images]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RaDiHum20 spricht mit Mareike König, Aglaia Bianchi und Lydia Repke über Wissenschaftskommunikation]]></title>
         <id>https://radihum20.de/?p=603</id>
@@ -11294,89 +11328,6 @@ The post À vos agendas ! Forum MuseumXTD : insuffler la pensée numérique dans
 I’m also using Datasette as the platform for sharing data from the Sydney Stock Exchange Project that I’m working on with the ANU Archives. There’s a lot of data – more than 20 million rows – but getting it running on Google Cloudrun was pretty straightforward with Datasette’s publish command. The problem was, however, that…]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LJS 361: Astronomy, Astrology, Religion]]></title>
-        <id>http://schoenberginstitute.org/?p=16496</id>
-        <link href="https://schoenberginstitute.org/2022/05/25/ljs-361-astronomy-astrology-religion/"/>
-        <updated>2022-05-25T18:17:08.000Z</updated>
-        <summary type="html"><![CDATA[On May 25, Curator Dot Porter brought out LJS 361, which is a sandwich containing commentaries on gospel and epistle readings nestled between two layers of astronomical and astrological tables. This manuscript is like a gift that keeps on giving. It starts on the outside, with the original binding, leather over heavy wooden boards. There’sContinue reading "LJS 361: Astronomy, Astrology, Religion"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grassroots Data Wranglers]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/34897/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/34897/"/>
-        <updated>2022-05-25T14:56:59.000Z</updated>
-        <summary type="html"><![CDATA[A public event showcasing some of the initiatives which employ grassroots methods for data inquiry. About this event Data in the digital ages is collected vertically – from governments, institutions, mainstream media organisations. But there are examples of initiatives trying to invert this order, taking over the means of data production and collection, to fill]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An introduction to Geolocation tools for Open Source Investigations]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/34893/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/34893/"/>
-        <updated>2022-05-25T14:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Cambridge’s Digital Verification Corps showcase practical tools to evaluate digital content, integrating considerations of ethics and power. About this event This is an adaption of the course ‘Open Source Investigation for Academics’, which is a methodology course run by Cambridge’s Digital Verification Corps, in partnership with Cambridge’s Centre of Governance and Human Rights, the Social]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RLUK welcomes two new members]]></title>
-        <id>https://www.rluk.ac.uk/?p=12109</id>
-        <link href="https://www.rluk.ac.uk/new-rluk-members-2022/"/>
-        <updated>2022-05-25T09:38:53.000Z</updated>
-        <summary type="html"><![CDATA[Research Libraries UK (RLUK) derives its strength from the commitment of its members and their shared vision to ensure that libraries contribute to the advancement of research and scholarship through their outstanding collections and services in support of researchers. We are very pleased to announce that following a round of applications, two new members [...]
-The post RLUK welcomes two new members appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARIN Newsflash May 2022 is Out!]]></title>
-        <id>5733 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/clarin-newsflash-may-2022-out"/>
-        <updated>2022-05-25T09:35:48.000Z</updated>
-        <summary type="html"><![CDATA[CLARIN Newsflash May 2022 is Out!
-
-            
-
-  
-  
-            
-  
-
-
-
-      
-
-Every month, CLARIN publishes a newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.
-Read the most recent CLARIN Newsflash: March 2022 here
-Subscribing to it is the ideal way of staying informed.
-Subscribe here
-Past issues of the CLARIN newsflash
-You are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.
-
-      Elisa Gorgaini
- 25 May 2022]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching the Text Encoding Initiative: Context, Community and Collaboration]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.72</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.72"/>
-        <updated>2022-05-25T08:17:12.101Z</updated>
-        <summary type="html"><![CDATA[In common with many technical aspects of digital humanities, the TEI has a reputation for being difficult to teach and difficult to learn, with potential practitioners put off by the large and (at first sight) intimidating set of guidelines, the seemingly complex hierarchical structure and the profusion of angle brackets. One-to-one or small group teaching in the context of a specific project is often the preferred method, where the short but steep learning curve required to engage with the TEI can be addressed in a way which is relevant to the aims and experience of the learner. This, however, is not a particularly efficient way of teaching. In this article, the authors discuss their experience of teaching (and learning) the TEI, and how lessons learned in contexts relating to specific projects might feed into the teaching of TEI in a more general setting – the Digital Humanities at Oxford Summer School being the prime example.
- Published on 2022-05-24 13:09:19]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
         </author>
     </entry>
     <entry>
