@@ -1650,15 +1650,6 @@
           "publishedOn": "2022-05-30T09:35:30.000Z",
           "wordCount": 1040,
           "title": "When doing research is like playing jazz"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=10865",
-          "author": "Heloise schibler",
-          "description": "Le projet-pilote de recherche appliquée MuseumXTD (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l’environnement entrepreneurial et de l’innovation vaudois (start-ups, entreprises, Hautes Écoles). Il vise à collecter des ressources pour accompagner les petits et moyens […]\nThe post À vos agendas ! Forum MuseumXTD : insuffler la pensée numérique dans les petits et moyens musées appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/05/26/a-vos-agendas-forum-museumxtd-insuffler-la-pensee-numerique-dans-les-petits-et-moyens-musees/",
-          "publishedOn": "2022-05-26T08:00:26.000Z",
-          "wordCount": 476,
-          "title": "À vos agendas ! Forum MuseumXTD : insuffler la pensée numérique dans les petits et moyens musées"
         }
       ]
     },
@@ -1815,6 +1806,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/870",
+          "author": "434",
+          "description": "Autor*innen aus der Taskforce „DHd Abstracts“\nPatrick Helling (ORCID: 0000-0003-4043-165X), Rebekka Borges (ORCID: 0000-0002-4651-5638), Ingo Börner (ORCID: 0000-0001-8294-2541),…",
+          "link": "https://dig-hum.de/aktuelles/der-dhd-verband-und-seine-abstracts-betrachtungen-des-einreichungsprozesses-zu-den-dhd",
+          "publishedOn": "2022-11-21T16:55:59.000Z",
+          "wordCount": 2616,
+          "title": "Der DHd-Verband und seine Abstracts Betrachtungen des Einreichungsprozesses zu den DHd Jahrestagungen"
+        },
         {
           "id": "node/869",
           "author": "414",
@@ -3622,6 +3622,15 @@
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
         {
+          "id": "https://www.humanitiesdataanalysis.org/index.html",
+          "author": "Author on Source",
+          "description": "Introduction: Folgert Karsdorp, Mike Kestemont and Allen Riddell ‘s  interactive book, Humanities Data Analysis: Case Studies with Python had been written with the aim in mind to equip humanities students and scholars working with textual and tabular resources with practical, hands-on knowledge to better understand the potentials of data-rich, computer-assisted approaches that the Python framework offers to them and eventually to apply and integrate them to their own research projects.\n\nThe first part introduces a “Data carpentry”, a collection of essential techniques for gathering, cleaning, representing, and transforming textual and tabular data. This sets the stage for the second part that consists of 5 case studies (Statistics Essentials: WhoReads Novels? ; Introduction to Probability ; Narrating with Maps ; Stylometry and the Voice of Hildegard ; A Topic Model of United States Supreme Court Opinions, 1900–2000 ) showcasing how to draw meaningful insights from data using quantitative methods. Each chapter contains executable Python codes and ends with exercises ranging from easier drills to more creative and complex possibilities to adapt the apply and adopt the newly acquired knowledge to their own research problems.\n\nThe book exhibits best practices in how to make digital scholarship available in an open, sustainable ad digital-native manner, coming in different layers that are firmly interlinked with each other. Published with Princeton University Press in 2021, hardcopies are also available, but more importantly, the digital version is an  Open Access Jupyter notebook that can be read in multiple environments and formats (.md and .pdf). The documentation, coda and data materials are available on Zenodo (https://zenodo.org/record/3560761#.Y3tCcn3MJD9). The authors also made sure to select and use packages which are mature and actively maintained.",
+          "link": "https://openmethods.dariah.eu/2022/11/21/humanities-data-analysis-case-studies-with-python-humanities-data-analysis-case-studies-with-python/",
+          "publishedOn": "2022-11-21T06:58:00.000Z",
+          "wordCount": 1468,
+          "title": "Humanities Data Analysis: Case Studies with Python — Humanities Data Analysis: Case Studies with Python"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fCwihTOnQv0",
           "author": "Author on Source",
           "description": "This short video teaser summarizes the main characteristics of PixPlot, a Python-based tool for clustering images and analyzing them from a numerical perspective as well as its pedagogical relevance as far as\nmachine learning is concerned.\n\nThe paper \"Visual Patterns Discovery in Large Databases of Paintings\", presented at the Digital Humanities 2016 Conference held in Poland,\ncan be considered the foundational text for the development of the PixPlot Project at Yale University.\n[Click ‘Read more’ for the full post!]",
@@ -4574,6 +4583,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=17280",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1656, advice about reform in Portugal, including concerns about the Inquisition, addressed to Prince Joseph, who took an active role in ruling Portugal after his father, King John V, suffered a stroke in 1742. You canContinue reading \"Manuscript Monday: Ms. Codex 1656- Memorial [manuscript] (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2022/11/21/manuscript-monday-ms-codex-1656-memorial-manuscript-video-orientation/",
+          "publishedOn": "2022-11-21T14:56:34.000Z",
+          "wordCount": 1230,
+          "title": "Manuscript Monday: Ms. Codex 1656- Memorial [manuscript] (Video Orientation)"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=17274",
           "author": "simsmss",
@@ -5599,15 +5617,6 @@
           "publishedOn": "2022-05-29T04:21:15.000Z",
           "wordCount": 38,
           "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/26/using-datasette-on.html",
-          "author": null,
-          "description": "If you have a dataset that you want to share as a searchable online database then check out Datasette – it’s a fabulous tool that provides an ever-growing range of options for exploring and publishing data. I particularly like how easy Datasette makes it to publish datasets on cloud services like Google’s Cloudrun and Heroku. A couple of weekends ago I migrated the TungWah Newspaper Index to Datasette. It’s now running on Heroku, and I can push updates to it in seconds.\nI’m also using Datasette as the platform for sharing data from the Sydney Stock Exchange Project that I’m working on with the ANU Archives. There’s a lot of data – more than 20 million rows – but getting it running on Google Cloudrun was pretty straightforward with Datasette’s publish command. The problem was, however, that…",
-          "link": "https://updates.timsherratt.org/2022/05/26/using-datasette-on.html",
-          "publishedOn": "2022-05-26T05:24:49.000Z",
-          "wordCount": 861,
-          "title": "Using Datasette on Nectar"
         }
       ]
     },
@@ -6088,6 +6097,24 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/mphil/courses/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/mphil/courses/",
+          "publishedOn": "2022-11-21T15:42:27.000Z",
+          "wordCount": 2014,
+          "title": "Courses"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/terms-and-conditions/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/terms-and-conditions/",
+          "publishedOn": "2022-11-21T13:27:19.000Z",
+          "wordCount": 1019,
+          "title": "Cambridge Data Schools Terms and Conditions"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/35756/",
           "author": null,
@@ -7356,6 +7383,15 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "5820 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "New Impact Story: Ukrainian History Course in Response to the War in Ukraine\n\n            \n\n\n  \n  \n            \n    \n\n              \n              \n                  \n\n  \nThis impact story shines the spotlight on one of the initiatives in response to the invasion of Ukraine that CLARIN has supported. The distance learning course ‘Ukrainian History’ was developed by two friends and colleagues, based in Ukraine and Lithuania, as an example of collaboration between EU universities and Ukrainian researchers. The short distant learning course covers the history of Ukraine and its statehood, beginning with the Kyivan Rus’ state and its Ukrainian principalities (9th-13th c.) and then traces Ukraine’s historical development and its struggle for independence until the present day. \nRead more here.\n\n      Karina Berger\n 21 November 2022",
+          "link": "https://www.clarin.eu/blog/new-impact-story-ukrainian-history-course-response-war-ukraine",
+          "publishedOn": "2022-11-21T10:26:56.000Z",
+          "wordCount": 281,
+          "title": "New Impact Story: Ukrainian History Course in Response to the War in Ukraine"
+        },
+        {
           "id": "5818 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
           "description": "Meet the new Members of the SSH Open Marketplace Editorial Board\n\n            \n\n\n  \n  \n            \n    \n\n              \n              \n              \n                  \n\n  \nThe SSH Open Marketplace is a discovery portal which pools and contextualises resources for social sciences and humanities research communities: tools, services, training materials, datasets, publications and workflows. This service was developed in the context of the Social Sciences and Humanities Open Cloud project (2019-2022) and was delivered to the public by the end of the project in April 2022. Since then, an Editorial Board ensures the day-to-day maintenance and the data quality of the SSH Open Marketplace. Liaising with the service providers and the end-users of the service (SSH researchers and support staff fo…",
@@ -7596,6 +7632,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1587 at https://www.dri.ie",
+          "author": "Natalie Harrower",
+          "description": "The National Action Plan for Open Research 2022-2030 was launched today.",
+          "link": "https://www.dri.ie/minister-harris-welcomes-launch-national-action-plan-open-research",
+          "publishedOn": "2022-11-21T15:22:35.000Z",
+          "wordCount": 717,
+          "title": "Minister Harris Welcomes Launch of National Action Plan for Open Research"
+        },
         {
           "id": "1586 at https://www.dri.ie",
           "author": "Natalie Harrower",

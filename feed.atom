@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-21T08:04:54.022Z</updated>
+    <updated>2022-11-22T08:04:36.348Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Der DHd-Verband und seine Abstracts Betrachtungen des Einreichungsprozesses zu den DHd Jahrestagungen]]></title>
+        <id>node/870</id>
+        <link href="https://dig-hum.de/aktuelles/der-dhd-verband-und-seine-abstracts-betrachtungen-des-einreichungsprozesses-zu-den-dhd"/>
+        <updated>2022-11-21T16:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Autor*innen aus der Taskforce „DHd Abstracts“
+Patrick Helling (ORCID: 0000-0003-4043-165X), Rebekka Borges (ORCID: 0000-0002-4651-5638), Ingo Börner (ORCID: 0000-0001-8294-2541),…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Courses]]></title>
+        <id>https://www.cdh.cam.ac.uk/mphil/courses/</id>
+        <link href="https://www.cdh.cam.ac.uk/mphil/courses/"/>
+        <updated>2022-11-21T15:42:27.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minister Harris Welcomes Launch of National Action Plan for Open Research]]></title>
+        <id>1587 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/minister-harris-welcomes-launch-national-action-plan-open-research"/>
+        <updated>2022-11-21T15:22:35.000Z</updated>
+        <summary type="html"><![CDATA[The National Action Plan for Open Research 2022-2030 was launched today.]]></summary>
+        <author>
+            <name>Natalie Harrower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1656- Memorial [manuscript] (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=17280</id>
+        <link href="https://schoenberginstitute.org/2022/11/21/manuscript-monday-ms-codex-1656-memorial-manuscript-video-orientation/"/>
+        <updated>2022-11-21T14:56:34.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1656, advice about reform in Portugal, including concerns about the Inquisition, addressed to Prince Joseph, who took an active role in ruling Portugal after his father, King John V, suffered a stroke in 1742. You canContinue reading "Manuscript Monday: Ms. Codex 1656- Memorial [manuscript] (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cambridge Data Schools Terms and Conditions]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/dataschools/terms-and-conditions/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/terms-and-conditions/"/>
+        <updated>2022-11-21T13:27:19.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Impact Story: Ukrainian History Course in Response to the War in Ukraine]]></title>
+        <id>5820 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/new-impact-story-ukrainian-history-course-response-war-ukraine"/>
+        <updated>2022-11-21T10:26:56.000Z</updated>
+        <summary type="html"><![CDATA[New Impact Story: Ukrainian History Course in Response to the War in Ukraine
+
+            
+
+
+  
+  
+            
+    
+
+              
+              
+                  
+
+  
+This impact story shines the spotlight on one of the initiatives in response to the invasion of Ukraine that CLARIN has supported. The distance learning course ‘Ukrainian History’ was developed by two friends and colleagues, based in Ukraine and Lithuania, as an example of collaboration between EU universities and Ukrainian researchers. The short distant learning course covers the history of Ukraine and its statehood, beginning with the Kyivan Rus’ state and its Ukrainian principalities (9th-13th c.) and then traces Ukraine’s historical development and its struggle for independence until the present day. 
+Read more here.
+
+      Karina Berger
+ 21 November 2022]]></summary>
+        <author>
+            <name>Karina Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humanities Data Analysis: Case Studies with Python — Humanities Data Analysis: Case Studies with Python]]></title>
+        <id>https://www.humanitiesdataanalysis.org/index.html</id>
+        <link href="https://openmethods.dariah.eu/2022/11/21/humanities-data-analysis-case-studies-with-python-humanities-data-analysis-case-studies-with-python/"/>
+        <updated>2022-11-21T06:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Folgert Karsdorp, Mike Kestemont and Allen Riddell ‘s  interactive book, Humanities Data Analysis: Case Studies with Python had been written with the aim in mind to equip humanities students and scholars working with textual and tabular resources with practical, hands-on knowledge to better understand the potentials of data-rich, computer-assisted approaches that the Python framework offers to them and eventually to apply and integrate them to their own research projects.
+
+The first part introduces a “Data carpentry”, a collection of essential techniques for gathering, cleaning, representing, and transforming textual and tabular data. This sets the stage for the second part that consists of 5 case studies (Statistics Essentials: WhoReads Novels? ; Introduction to Probability ; Narrating with Maps ; Stylometry and the Voice of Hildegard ; A Topic Model of United States Supreme Court Opinions, 1900–2000 ) showcasing how to draw meaningful insights from data using quantitative methods. Each chapter contains executable Python codes and ends with exercises ranging from easier drills to more creative and complex possibilities to adapt the apply and adopt the newly acquired knowledge to their own research problems.
+
+The book exhibits best practices in how to make digital scholarship available in an open, sustainable ad digital-native manner, coming in different layers that are firmly interlinked with each other. Published with Princeton University Press in 2021, hardcopies are also available, but more importantly, the digital version is an  Open Access Jupyter notebook that can be read in multiple environments and formats (.md and .pdf). The documentation, coda and data materials are available on Zenodo (https://zenodo.org/record/3560761#.Y3tCcn3MJD9). The authors also made sure to select and use packages which are mature and actively maintained.]]></summary>
+        <author>
+            <name>Author on Source</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Australian history industry and the impact of digitisation (open access preprint chapter)]]></title>
         <id>http://wragge.micro.blog/2022/11/21/the-australian-history.html</id>
@@ -11306,28 +11398,6 @@ See: github.com/wragge/tr…]]></summary>
         <summary type="html"><![CDATA[How can a simple research question like 'what was a machine?' provide an opportunity to engage the public with our work while also generating data for analysis and new avenues of research in a radically collaborative way?]]></summary>
         <author>
             <name>Mia Ridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[À vos agendas ! Forum MuseumXTD : insuffler la pensée numérique dans les petits et moyens musées]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=10865</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/05/26/a-vos-agendas-forum-museumxtd-insuffler-la-pensee-numerique-dans-les-petits-et-moyens-musees/"/>
-        <updated>2022-05-26T08:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Le projet-pilote de recherche appliquée MuseumXTD (« museum extended ») explore les enjeux de la transition numérique au sein des petits et moyens musées et expérimente de nouvelles méthodologies de travail en associant l’environnement entrepreneurial et de l’innovation vaudois (start-ups, entreprises, Hautes Écoles). Il vise à collecter des ressources pour accompagner les petits et moyens […]
-The post À vos agendas ! Forum MuseumXTD : insuffler la pensée numérique dans les petits et moyens musées appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Datasette on Nectar]]></title>
-        <id>http://wragge.micro.blog/2022/05/26/using-datasette-on.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/26/using-datasette-on.html"/>
-        <updated>2022-05-26T05:24:49.000Z</updated>
-        <summary type="html"><![CDATA[If you have a dataset that you want to share as a searchable online database then check out Datasette – it’s a fabulous tool that provides an ever-growing range of options for exploring and publishing data. I particularly like how easy Datasette makes it to publish datasets on cloud services like Google’s Cloudrun and Heroku. A couple of weekends ago I migrated the TungWah Newspaper Index to Datasette. It’s now running on Heroku, and I can push updates to it in seconds.
-I’m also using Datasette as the platform for sharing data from the Sydney Stock Exchange Project that I’m working on with the ANU Archives. There’s a lot of data – more than 20 million rows – but getting it running on Google Cloudrun was pretty straightforward with Datasette’s publish command. The problem was, however, that…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
