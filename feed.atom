@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-22T08:04:36.348Z</updated>
+    <updated>2022-11-23T08:04:12.278Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Taking notes with Notion]]></title>
+        <id>http://digitalorientalist.com/?p=9346</id>
+        <link href="https://digitalorientalist.com/2022/11/22/taking-notes-with-notion/"/>
+        <updated>2022-11-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Nowadays, each family produces writings, and every person has a collection. <…> The texts of old pile up high, with …]]></summary>
+        <author>
+            <name>Mariana Zorkina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q&A Session: Social Data School]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35767/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35767/"/>
+        <updated>2022-11-22T11:38:30.000Z</updated>
+        <summary type="html"><![CDATA[The Social Data School is an application only online intensive teaching programme structured around the life-cycle of a digital research project, covering principles of research design, data collection, cleaning and preparation, methods of analysis and visualisation, and data management and preservation practices. The school welcomes applications from all backgrounds, including journalists, NGOs, activists, trade unionists]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Annja Neumann]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-annja-neumann/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-annja-neumann/"/>
+        <updated>2022-11-22T11:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Annja Neumann is an Affiliated Lecturer in Modern German Studies and Isaac Newton Trust Post-doctoral Research Fellow in Digital Humanities. Her practice-based research explores the staging of spaces and politics of embodiment, with a particular interest in the theatricalisation of medical spaces.]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europeana Aggregators Forum Outreach Event - 15th December 2022]]></title>
+        <id>1588 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/europeana-aggregators-forum-outreach-event-15th-december-2022"/>
+        <updated>2022-11-22T09:33:25.000Z</updated>
+        <summary type="html"><![CDATA[The Europeana Initiative will steward a common European data space for cultural heritage that aims to support the cultural heritage sector and promote the creation, use, and reuse of content in areas such as the cultural and creative sectors and tourism, as well as education and scientific research.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIL : Cours public “Les séries TV et la grande guerre des plateformes” – en ligne]]></title>
+        <id>https://dhcenter-unil-epfl.ch/?p=12026</id>
+        <link href="https://dhcenter-unil-epfl.ch/en/2022/11/22/unil-cours-public-les-series-tv-et-la-grande-guerre-des-plateformes-en-ligne/"/>
+        <updated>2022-11-22T09:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Comment le streaming impacte nos séries TV ? L’augmentation exponentielle de l’offre de plateformes de streaming comme Netflix, Disney+, HBO Max ou Amazon Prime Video nous confronte à une multiplication de choix d’abonnements possibles. Au sein de cette compétition, les budgets des séries augmentent et les développements narratifs tendent à être de plus en plus […]
+The post UNIL : Cours public “Les séries TV et la grande guerre des plateformes” – en ligne appeared first on dhCenter.]]></summary>
+        <author>
+            <name>Heloise schibler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[King Tut and Digital Humanities: A Pedagogical Case Study]]></title>
+        <id>https://review.gale.com/?p=13797</id>
+        <link href="https://review.gale.com/2022/11/22/king-tut-and-digital-humanities-a-pedagogical-case-study/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=king-tut-and-digital-humanities-a-pedagogical-case-study"/>
+        <updated>2022-11-22T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[│By Dr. Sarah L. Ketchley, Senior Digital Humanities Specialist│ The Department of Middle Eastern Languages and Cultures (MELC) at the University of Washington has a history of supporting work in Digital Humanities (DH) dating back to the 1980s. More recently, the department has offered regular introductory classes in DH, which I have taught since 2015. ... Read more
+The post King Tut and Digital Humanities: A Pedagogical Case Study appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Review Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Der DHd-Verband und seine Abstracts Betrachtungen des Einreichungsprozesses zu den DHd Jahrestagungen]]></title>
         <id>node/870</id>
@@ -11348,56 +11410,6 @@ See: github.com/wragge/tr…]]></summary>
 See: github.com/wragge/tr…]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaky Magic: Dr. Angus Mol on Video Games and History]]></title>
-        <id>https://dhn.utoronto.ca/?p=5089</id>
-        <link href="https://dhn.utoronto.ca/leaky-magic-dr-angus-mol-on-video-games-and-history/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=leaky-magic-dr-angus-mol-on-video-games-and-history"/>
-        <updated>2022-05-27T18:18:30.000Z</updated>
-        <summary type="html"><![CDATA[PhD Candidate Ariana Ellis recaps CDHI Visiting Scholar Lecture from Dr. Angus Mol, 11 March 2022.]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Literacies in and Beyond the Classroom: Some Reflections on DH in Teaching with Dr. Paula R. Curtis]]></title>
-        <id>http://digitalorientalist.com/?p=8222</id>
-        <link href="https://digitalorientalist.com/2022/05/27/digital-literacies-in-and-beyond-the-classroom-some-reflections-on-dh-in-teaching-with-dr-paula-r-curtis/"/>
-        <updated>2022-05-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the last decade, the growing number of accessible digital archives and repositories has been matched by the continued development …]]></summary>
-        <author>
-            <name>Matthew Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop: Getting Started with Zotero for PhD Research]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1126</id>
-        <link href="https://scholarlytales.hcommons.org/2022/05/27/workshop-getting-started-with-zotero-for-phd-research/"/>
-        <updated>2022-05-27T11:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Sources here; sources there; sources everywhere! Do you need help finding a better system to organize your reference materials for your Phd project? You are in luck! The Artes Research team in collaboration with research support from the Faculty of Law will offer a workshop to help PhD researchers get started with the reference management software Zotero. What can you expect? The session will start with an introduction to the basic functionalities of Zotero including the various ways to add...]]></summary>
-        <author>
-            <name>Leah Budke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NORF 2022 Funding Call Pre-announcement]]></title>
-        <id>1520 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/norf-2022-funding-call-pre-announcement"/>
-        <updated>2022-05-27T10:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Ireland’s National Open Research Forum (NORF) will be announcing a Call for Proposals to address six priority Actions in the National Action Plan for Open Research.]]></summary>
-        <author>
-            <name>Natalie Harrower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DH Benelux 2022 long paper: Historic machines from ‘prams’ to ‘Parliament’: new avenues for collaborative linguistic research]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=2507</id>
-        <link href="https://livingwithmachines.ac.uk/dh-benelux-2022-long-paper-historic-machines-from-prams-to-parliament-new-avenues-for-collaborative-linguistic-research/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dh-benelux-2022-long-paper-historic-machines-from-prams-to-parliament-new-avenues-for-collaborative-linguistic-research"/>
-        <updated>2022-05-26T20:31:00.000Z</updated>
-        <summary type="html"><![CDATA[How can a simple research question like 'what was a machine?' provide an opportunity to engage the public with our work while also generating data for analysis and new avenues of research in a radically collaborative way?]]></summary>
-        <author>
-            <name>Mia Ridge</name>
         </author>
     </entry>
     <entry>
