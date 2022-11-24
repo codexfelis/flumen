@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-23T08:04:12.278Z</updated>
+    <updated>2022-11-24T08:04:04.633Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Editors' Note: November 2022]]></title>
+        <id>47ac01be-8a11-48dc-aa12-2b37a00b5d08</id>
+        <link href="https://reviewsindh.pubpub.org/pub/7oqi0otv"/>
+        <updated>2022-11-23T18:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Editors' Note on the November 2022 issue of Reviews in Digital Humanities]]></summary>
+        <author>
+            <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPARQL for music: when melodies meet ontology]]></title>
+        <id>http://openmethods.dariah.eu/?p=3306</id>
+        <link href="https://openmethods.dariah.eu/2022/11/23/sparql-for-music-when-melodies-meet-ontology/"/>
+        <updated>2022-11-23T15:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Developed in the context of the EU H2020 Polifonia project, the investigation deals with the potentialities of SPARQL Anything to
+to extract musical features, both at metadata and symbolic levels, from MusicXML files. The paper captures the procedure that has applied by starting from an overview about the application of ontologies to music, as well as of the so- called 'façade-based' approach to knowledge graphs, which is at the core of the SPARQL Anything software. Then, it moves to an illustration of the passages involved (i.e., melody extraction, N-grams extraction, N-grams analysis and exploitation
+of the Music Notation Ontology). Finally, it provides some considerations regarding the result of the experiment in terms of effectiveness of the queries' performance. In conclusion, the authors highlight how further studies in the field may cast an increasingly brighter light on the application of semantic-oriented methods and techniques to computational musicology. 
+[Click ‘Read more’ for the full post!]]]></summary>
+        <author>
+            <name>Marinella Testori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Welcomes New Board Members]]></title>
+        <id>1590 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-welcomes-new-board-members"/>
+        <updated>2022-11-23T14:56:58.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to welcome three new members to the DRI Board – Dr Siobhán O’Sullivan, Brendan Teeling, and David Kane.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taking notes with Notion]]></title>
         <id>http://digitalorientalist.com/?p=9346</id>

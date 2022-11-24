@@ -3608,6 +3608,15 @@
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
         {
+          "id": "http://openmethods.dariah.eu/?p=3306",
+          "author": "Marinella Testori",
+          "description": "Introduction: Developed in the context of the EU H2020 Polifonia project, the investigation deals with the potentialities of SPARQL Anything to\nto extract musical features, both at metadata and symbolic levels, from MusicXML files. The paper captures the procedure that has applied by starting from an overview about the application of ontologies to music, as well as of the so- called 'façade-based' approach to knowledge graphs, which is at the core of the SPARQL Anything software. Then, it moves to an illustration of the passages involved (i.e., melody extraction, N-grams extraction, N-grams analysis and exploitation\nof the Music Notation Ontology). Finally, it provides some considerations regarding the result of the experiment in terms of effectiveness of the queries' performance. In conclusion, the authors highlight how further studies in the field may cast an increasingly brighter light on the application of semantic-oriented methods and techniques to computational musicology. \n[Click ‘Read more’ for the full post!]",
+          "link": "https://openmethods.dariah.eu/2022/11/23/sparql-for-music-when-melodies-meet-ontology/",
+          "publishedOn": "2022-11-23T15:50:39.000Z",
+          "wordCount": 1074,
+          "title": "SPARQL for music: when melodies meet ontology"
+        },
+        {
           "id": "https://www.humanitiesdataanalysis.org/index.html",
           "author": "Author on Source",
           "description": "Introduction: Folgert Karsdorp, Mike Kestemont and Allen Riddell ‘s  interactive book, Humanities Data Analysis: Case Studies with Python had been written with the aim in mind to equip humanities students and scholars working with textual and tabular resources with practical, hands-on knowledge to better understand the potentials of data-rich, computer-assisted approaches that the Python framework offers to them and eventually to apply and integrate them to their own research projects.\n\nThe first part introduces a “Data carpentry”, a collection of essential techniques for gathering, cleaning, representing, and transforming textual and tabular data. This sets the stage for the second part that consists of 5 case studies (Statistics Essentials: WhoReads Novels? ; Introduction to Probability ; Narrating with Maps ; Stylometry and the Voice of Hildegard ; A Topic Model of United States Supreme Court Opinions, 1900–2000 ) showcasing how to draw meaningful insights from data using quantitative methods. Each chapter contains executable Python codes and ends with exercises ranging from easier drills to more creative and complex possibilities to adapt the apply and adopt the newly acquired knowledge to their own research problems.\n\nThe book exhibits best practices in how to make digital scholarship available in an open, sustainable ad digital-native manner, coming in different layers that are firmly interlinked with each other. Published with Princeton University Press in 2021, hardcopies are also available, but more importantly, the digital version is an  Open Access Jupyter notebook that can be read in multiple environments and formats (.md and .pdf). The documentation, coda and data materials are available on Zenodo (https://zenodo.org/record/3560761#.Y3tCcn3MJD9). The authors also made sure to select and use packages which are mature and actively maintained.",
@@ -4264,6 +4273,18 @@
       "feedUrl": "https://reviewsindh.pubpub.org/rss.xml",
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
+        {
+          "id": "47ac01be-8a11-48dc-aa12-2b37a00b5d08",
+          "author": "Roopika Risam",
+          "description": "Editors' Note on the November 2022 issue of Reviews in Digital Humanities",
+          "link": "https://reviewsindh.pubpub.org/pub/7oqi0otv",
+          "publishedOn": "2022-11-23T18:24:10.000Z",
+          "wordCount": 905,
+          "title": "Editors' Note: November 2022",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/b59y72kh/11669228156745.png"
+          }
+        },
         {
           "id": "5210ce01-a426-46f5-bae7-17c9bb076e93",
           "author": "Dan Royles",
@@ -7641,6 +7662,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1590 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The Digital Repository of Ireland (DRI) is pleased to welcome three new members to the DRI Board – Dr Siobhán O’Sullivan, Brendan Teeling, and David Kane.",
+          "link": "https://www.dri.ie/dri-welcomes-new-board-members",
+          "publishedOn": "2022-11-23T14:56:58.000Z",
+          "wordCount": 932,
+          "title": "DRI Welcomes New Board Members"
+        },
         {
           "id": "1588 at https://www.dri.ie",
           "author": "ainemadden",
