@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-24T08:04:04.633Z</updated>
+    <updated>2022-11-25T08:04:16.974Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DHNB BOARD: CALL FOR NOMINATIONS]]></title>
+        <id>https://dhnb.eu/?p=2363</id>
+        <link href="https://dhnb.eu/call-for-nominations-2023/"/>
+        <updated>2022-11-24T14:58:25.000Z</updated>
+        <summary type="html"><![CDATA[The Nomination Committee of DHNB opens the call for nominations for three positions for the next election period which starts on 15 February 2023. Board members are elected for a 3-year period (2023–2026).  The term of three of the current Board members, Olga Holownia (Iceland), Lars Kjær (Denmark) and Costanza Navarretta (Denmark) runs out. Olga […]]]></summary>
+        <author>
+            <name>Olga Holownia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapping the Road Towards Archival Justice: inclusive terminology and colonial archives]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35768/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35768/"/>
+        <updated>2022-11-24T12:46:08.000Z</updated>
+        <summary type="html"><![CDATA[An online public event at the Cambridge Cultural Heritage Data School convened by the (Anti) Colonial Archives Working Group Developing inclusive terminology for the purpose of creating catalogues and archival descriptions is a major challenge for cultural heritage professionals. Standardisation of categories and labels for collections is an essential part of rendering their contents visible,]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Editors' Note: November 2022]]></title>
         <id>47ac01be-8a11-48dc-aa12-2b37a00b5d08</id>
@@ -11355,94 +11375,6 @@ Legal notice
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/29/after-much-faffing.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/29/after-much-faffing.html"/>
-        <updated>2022-05-29T13:40:21.000Z</updated>
-        <summary type="html"><![CDATA[After much faffing about today I’ve got the latest version of the UniversalViewer building locally, and I also know how to listen for changes in the canvas index. Next, I have to do something about the CSS name clashes with Bulma…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: Project Scientist ACDH-CH, Österreichische Akademie der Wissenschaften]]></title>
-        <id>node/812</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-project-scientist-acdh-ch-%C3%B6sterreichische-akademie-der-wissenschaften"/>
-        <updated>2022-05-29T08:15:52.910Z</updated>
-        <summary type="html"><![CDATA[The Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH), a research department of the Austrian Academy of Sciences (OeAW), Austria’s leading non-university…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mehrere Stellenangebote am neuen Graduiertenkolleg &quot;Literatur und Öffentlichkeit in differenten Gegenwartskulturen&quot; (FAU Erlangen-Nürnberg)]]></title>
-        <id>node/813</id>
-        <link href="https://dig-hum.de/aktuelles/mehrere-stellenangebote-am-neuen-graduiertenkolleg-literatur-und-%C3%B6ffentlichkeit"/>
-        <updated>2022-05-29T08:15:52.899Z</updated>
-        <summary type="html"><![CDATA[Die Friedrich-Alexander-Universität Erlangen-Nürnberg schreibt im Rahmen des neuen DFG- geförderten Graduiertenkollegs 2806 Literatur und Öffentlichkeit in differenten…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/29/files-digitised-by.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/29/files-digitised-by.html"/>
-        <updated>2022-05-29T04:40:08.000Z</updated>
-        <summary type="html"><![CDATA[Files digitised by the National Archives of Australia this week: 25,981
-Top series:
-+14,025 in B884 (CMF personnel dossiers)
-+7,652 in A2572 (Bonegilla name index cards)
-See: github.com/wragge/na…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/29/new-in-trove.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/29/new-in-trove.html"/>
-        <updated>2022-05-29T04:33:27.000Z</updated>
-        <summary type="html"><![CDATA[New in Trove this week:
-Berrigan Advocate (NSW)
-Tingha Spectator & North Western Journal (NSW)
-Tingha Miner & North Western Advocate (NSW)
-Boggy Camp Tingha & Bora Creek (NSW)
-See: github.com/wragge/tr…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/29/major-changes-to.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/29/major-changes-to.html"/>
-        <updated>2022-05-29T04:27:15.000Z</updated>
-        <summary type="html"><![CDATA[Major changes to Trove newspaper titles this week:
-+30,713 in Queanbeyan Age (NSW, end date now 1944)
-+10,014 in Daily News (WA)
-+179 in Inverell Argus (NSW)
-See: github.com/wragge/tr…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/05/29/added-to-trove.html</id>
-        <link href="https://updates.timsherratt.org/2022/05/29/added-to-trove.html"/>
-        <updated>2022-05-29T04:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Added to Trove newspapers this week:
-+43,015 articles
-+10,263 articles with corrections
-+7,499 articles with tags
-+243 articles with comments
-See: github.com/wragge/tr…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>

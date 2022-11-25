@@ -46,6 +46,15 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=2363",
+          "author": "Olga Holownia",
+          "description": "The Nomination Committee of DHNB opens the call for nominations for three positions for the next election period which starts on 15 February 2023. Board members are elected for a 3-year period (2023–2026).  The term of three of the current Board members, Olga Holownia (Iceland), Lars Kjær (Denmark) and Costanza Navarretta (Denmark) runs out. Olga […]",
+          "link": "https://dhnb.eu/call-for-nominations-2023/",
+          "publishedOn": "2022-11-24T14:58:25.000Z",
+          "wordCount": 402,
+          "title": "DHNB BOARD: CALL FOR NOMINATIONS"
+        },
+        {
           "id": "https://dhnb.eu/?p=2357",
           "author": "Annika Rockenberger",
           "description": "SUBMIT WORKSHOPS UNTIL 15 NOVEMBER! Workshops can be submitted for DHNB2023 until Tuesday, 15 November 2022, 23:59 CET. Submit abstracts via ConfTool, or send your proposal to dhnb2023@dhnb.eu. Read the call for submissions for requirements and specifications. Workshops for you who want to have a local, in-person event adjacent to the virtual conference for you […]",
@@ -2183,24 +2192,6 @@
           "publishedOn": "2022-05-31T08:19:41.631Z",
           "wordCount": 798,
           "title": "Präsentation neuer DH-Projekte im DHd-Projekteschaufenster"
-        },
-        {
-          "id": "node/812",
-          "author": "406",
-          "description": "The Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH), a research department of the Austrian Academy of Sciences (OeAW), Austria’s leading non-university…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-project-scientist-acdh-ch-%C3%B6sterreichische-akademie-der-wissenschaften",
-          "publishedOn": "2022-05-29T08:15:52.910Z",
-          "wordCount": 893,
-          "title": "Stellenangebot: Project Scientist ACDH-CH, Österreichische Akademie der Wissenschaften"
-        },
-        {
-          "id": "node/813",
-          "author": "406",
-          "description": "Die Friedrich-Alexander-Universität Erlangen-Nürnberg schreibt im Rahmen des neuen DFG- geförderten Graduiertenkollegs 2806 Literatur und Öffentlichkeit in differenten…",
-          "link": "https://dig-hum.de/aktuelles/mehrere-stellenangebote-am-neuen-graduiertenkolleg-literatur-und-%C3%B6ffentlichkeit",
-          "publishedOn": "2022-05-29T08:15:52.899Z",
-          "wordCount": 764,
-          "title": "Mehrere Stellenangebote am neuen Graduiertenkolleg &quot;Literatur und Öffentlichkeit in differenten Gegenwartskulturen&quot; (FAU Erlangen-Nürnberg)"
         }
       ]
     },
@@ -5584,51 +5575,6 @@
           "publishedOn": "2022-06-01T06:43:27.000Z",
           "wordCount": 20,
           "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/29/after-much-faffing.html",
-          "author": null,
-          "description": "After much faffing about today I’ve got the latest version of the UniversalViewer building locally, and I also know how to listen for changes in the canvas index. Next, I have to do something about the CSS name clashes with Bulma…",
-          "link": "https://updates.timsherratt.org/2022/05/29/after-much-faffing.html",
-          "publishedOn": "2022-05-29T13:40:21.000Z",
-          "wordCount": 57,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/29/files-digitised-by.html",
-          "author": null,
-          "description": "Files digitised by the National Archives of Australia this week: 25,981\nTop series:\n+14,025 in B884 (CMF personnel dossiers)\n+7,652 in A2572 (Bonegilla name index cards)\nSee: github.com/wragge/na…",
-          "link": "https://updates.timsherratt.org/2022/05/29/files-digitised-by.html",
-          "publishedOn": "2022-05-29T04:40:08.000Z",
-          "wordCount": 44,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/29/new-in-trove.html",
-          "author": null,
-          "description": "New in Trove this week:\nBerrigan Advocate (NSW)\nTingha Spectator & North Western Journal (NSW)\nTingha Miner & North Western Advocate (NSW)\nBoggy Camp Tingha & Bora Creek (NSW)\nSee: github.com/wragge/tr…",
-          "link": "https://updates.timsherratt.org/2022/05/29/new-in-trove.html",
-          "publishedOn": "2022-05-29T04:33:27.000Z",
-          "wordCount": 47,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/29/major-changes-to.html",
-          "author": null,
-          "description": "Major changes to Trove newspaper titles this week:\n+30,713 in Queanbeyan Age (NSW, end date now 1944)\n+10,014 in Daily News (WA)\n+179 in Inverell Argus (NSW)\nSee: github.com/wragge/tr…",
-          "link": "https://updates.timsherratt.org/2022/05/29/major-changes-to.html",
-          "publishedOn": "2022-05-29T04:27:15.000Z",
-          "wordCount": 45,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/05/29/added-to-trove.html",
-          "author": null,
-          "description": "Added to Trove newspapers this week:\n+43,015 articles\n+10,263 articles with corrections\n+7,499 articles with tags\n+243 articles with comments\nSee: github.com/wragge/tr…",
-          "link": "https://updates.timsherratt.org/2022/05/29/added-to-trove.html",
-          "publishedOn": "2022-05-29T04:21:15.000Z",
-          "wordCount": 38,
-          "title": "Untitled"
         }
       ]
     },
@@ -6109,6 +6055,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35768/",
+          "author": null,
+          "description": "An online public event at the Cambridge Cultural Heritage Data School convened by the (Anti) Colonial Archives Working Group Developing inclusive terminology for the purpose of creating catalogues and archival descriptions is a major challenge for cultural heritage professionals. Standardisation of categories and labels for collections is an essential part of rendering their contents visible,",
+          "link": "https://www.cdh.cam.ac.uk/events/35768/",
+          "publishedOn": "2022-11-24T12:46:08.000Z",
+          "wordCount": 448,
+          "title": "Mapping the Road Towards Archival Justice: inclusive terminology and colonial archives"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/35767/",
           "author": null,
