@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-28T08:04:03.928Z</updated>
+    <updated>2022-11-29T08:04:22.869Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EOSC webinar: Pan-European digital assets supporting research communities: Benefits & opportunities]]></title>
+        <id>1594 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/eosc-webinar-pan-european-digital-assets-supporting-research-communities-benefits-opportunities"/>
+        <updated>2022-11-28T18:22:37.000Z</updated>
+        <summary type="html"><![CDATA[On 5-6 December 2022, EOSC Future and the INFRAEOSC-07 projects (C-SCALE, DICE, EGI-ACE, OpenAIRE Nexus, Reliance) are hosting an online use case showcase. Check out the agenda and register for this online interactive event by 4 December, 23.59 CET : https://eoscfuture.eu/eventsfuture/webinar-pan-european-digital-assets-supporting-research-communities-benefits-opportunities/]]></summary>
+        <author>
+            <name>bethknazook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 381- Humanist copy of Sallust’s works on the history of Rome (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=17285</id>
+        <link href="https://schoenberginstitute.org/2022/11/28/manuscript-monday-ljs-381-humanist-copy-of-sallusts-works-on-the-history-of-rome-video-orientation/"/>
+        <updated>2022-11-28T15:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 381, a 15th century Humanist copy of the ancient Roman historian Sallust’s works on the history of Rome, with contemporary and later annotations, including alternate readings, some of which were incorporated into the text as corrections. YouContinue reading "Manuscript Monday: LJS 381- Humanist copy of Sallust’s works on the history of Rome (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Digital Turn in Early Modern Japanese Studies]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35771/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35771/"/>
+        <updated>2022-11-28T11:20:31.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Humanities occupy an ever-growing place in the research landscape of the twenty-first century. The past few years have seen rapid advancements in the development of digital technologies in the field of Japanese Studies. Scholars working on early modern Japan—be it literature, history, textual scholarship, art, or other areas of study—can avail themselves of]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Engaging with WWII and the Holocaust via Gaming: Analytical Perspectives on Design and Reception]]></title>
         <id>4293 at https://www.c2dh.uni.lu</id>
@@ -249,6 +279,16 @@ The post King Tut and Digital Humanities: A Pedagogical Case Study appeared firs
 Patrick Helling (ORCID: 0000-0003-4043-165X), Rebekka Borges (ORCID: 0000-0002-4651-5638), Ingo Börner (ORCID: 0000-0001-8294-2541),…]]></summary>
         <author>
             <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federated Academic Digital Imaging System (FADIS)]]></title>
+        <id>https://dhn.utoronto.ca/?p=7103</id>
+        <link href="https://dhn.utoronto.ca/federated-academic-digital-imaging-system-fadis-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=federated-academic-digital-imaging-system-fadis-2"/>
+        <updated>2022-11-21T16:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Website: https://fadis.library.utoronto.ca/about.html Description: The Federated Academic Digital Imaging System (FADIS) is a consortial learning management and courseware system developed for image based teaching of art, architecture and visual culture. The goal of […]]]></summary>
+        <author>
+            <name>Matt Lefaive</name>
         </author>
     </entry>
     <entry>
@@ -1750,6 +1790,26 @@ Seán Cubitt – The Vancouver Abstraction first appeared on Digital Democracies
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Training Funding: Data Science Certificate Tuition Support Available]]></title>
+        <id>https://dhn.utoronto.ca/?p=6894</id>
+        <link href="https://dhn.utoronto.ca/training-funding-data-science-certificate-tuition-support-available/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=training-funding-data-science-certificate-tuition-support-available"/>
+        <updated>2022-11-08T18:40:39.000Z</updated>
+        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) is pleased to support our members in Data Sciences training through the University of Toronto Data Sciences Institute (DSI) Data Sciences Certificate Program. The […]]]></summary>
+        <author>
+            <name>Astrid Chandler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Funding: Critical DH Training Bursaries]]></title>
+        <id>https://dhn.utoronto.ca/?p=6892</id>
+        <link href="https://dhn.utoronto.ca/call-for-funding-critical-dh-training-bursaries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=call-for-funding-critical-dh-training-bursaries"/>
+        <updated>2022-11-08T18:36:10.000Z</updated>
+        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI), a University of Toronto strategic initiative, supports trans-disciplinary collaborations that emphasize questions of power, social justice, and critical theory in digital humanities research. Our vision […]]]></summary>
+        <author>
+            <name>Astrid Chandler</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing…. Sherman Lo]]></title>
         <id>https://livingwithmachines.ac.uk/?p=2849</id>
         <link href="https://livingwithmachines.ac.uk/introducing-sherman-lo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introducing-sherman-lo"/>
@@ -2214,6 +2274,16 @@ Failure—the real F word if ever there was one—is a topic seldom discussed. I
         <summary type="html"><![CDATA[Imprisoned Egyptian software engineer and activist invited to join University of Cambridge DataLab and public event as COP27 talks begin The annual round of UN climate negotiations take place in the resort of Sharm el-Sheikh this year against a backdrop of increasing signs of climate crisis: rising temperatures, catastrophic floods and droughts, wildfires and extreme]]></summary>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Events & Program Coordinator, CDHI]]></title>
+        <id>https://dhn.utoronto.ca/?p=6724</id>
+        <link href="https://dhn.utoronto.ca/events-program-coordinator-cdhi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=events-program-coordinator-cdhi"/>
+        <updated>2022-11-02T16:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Date Posted: 10/24/2022Req ID: 28114Faculty/Division: UofT MississaugaDepartment: UTM: Historical StudiesCampus: University of Toronto Mississauga (UTM)Position Number: 00050887 Description: About us: The university’s second largest division, U of T Mississauga has 17 academic departments and offers 156 […]]]></summary>
+        <author>
+            <name>Matt Lefaive</name>
         </author>
     </entry>
     <entry>
@@ -2991,6 +3061,16 @@ November’s virtual coffee morning will take place on Wednesday 30 of November 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sample Staff Job Posting]]></title>
+        <id>https://dhn.utoronto.ca/?p=6367</id>
+        <link href="https://dhn.utoronto.ca/sample-staff-job-posting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sample-staff-job-posting"/>
+        <updated>2022-10-20T14:22:12.000Z</updated>
+        <summary type="html"><![CDATA[This is a sample job posting for a CDHI staff position! Lots of text will go in here to describe the position.]]></summary>
+        <author>
+            <name>Matt Lefaive</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A New ADHO Year, A Renewing ADHO]]></title>
         <id>https://adho.org/?p=1678</id>
         <link href="https://adho.org/2022/10/20/a-new-adho-year-a-renewing-adho/"/>
@@ -2998,6 +3078,16 @@ November’s virtual coffee morning will take place on Wednesday 30 of November 
         <summary type="html"><![CDATA[I’m honoured to be writing this as the new president of ADHO’s Constituent Organisations Board, and inspired to be following in the footsteps of Isabel Galina, Elisabeth Burr, and Matt Gold in this role.  I feel extremely fortunate about the timing. This is the year when ADHO will finish the massive governance overhaul that has… Read More »A New ADHO Year, A Renewing ADHO]]></summary>
         <author>
             <name>hannah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sample Student Job]]></title>
+        <id>https://dhn.utoronto.ca/?p=6352</id>
+        <link href="https://dhn.utoronto.ca/sample-student-job/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sample-student-job"/>
+        <updated>2022-10-20T13:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Student can apply for this job]]></summary>
+        <author>
+            <name>Matt Lefaive</name>
         </author>
     </entry>
     <entry>
@@ -11198,50 +11288,6 @@ The post EPFL Job: Responsible Digitalization Project Manager appeared first on 
         <summary type="html"><![CDATA[This was originally posted by by Svitlana Matviyenko on the Institute of Network Cultures blog on May 31, 2022. May 9 – 29, 2022 The war did not end on May 9th. …
   Dispatches from the Place of Imminence by Svitlana Matviyenko, part 10 Read More »
 Dispatches from the Place of Imminence by Svitlana Matviyenko, part 10 first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’API de Memobase: Memoriav ouvre son interface de métadonnées]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=10950</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/02/lapi-de-memobase-memoriav-ouvre-son-interface-de-metadonnees/"/>
-        <updated>2022-06-02T11:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Memoriav, le pôle de compétence pour le patrimoine audiovisuel suisse, ouvre l’accès à certaines métadonnées de son son portail en ligne Memobase.ch grâce à la nouvelle interface RESTful API. Le portail de recherche national et multilingue Memobase.ch, administré par Memoriav, permet, grâce à la technologie open source, une consultation en ligne centralisée et multi-supports de […]
-The post L’API de Memobase: Memoriav ouvre son interface de métadonnées appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[William Wyndaele schenkt zijn voornamelijk historische collectie aan KU Leuven Bibliotheken]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1135</id>
-        <link href="https://scholarlytales.hcommons.org/2022/06/02/william-wyndaele-schenkt-zijn-voornamelijk-historische-collectie-aan-ku-leuven-bibliotheken/"/>
-        <updated>2022-06-02T11:23:30.000Z</updated>
-        <summary type="html"><![CDATA[William Wyndaele, historicus en donateur van het Bibliotheekfonds Letteren, schonk zijn privécollectie van ongeveer 2000 hoofdzakelijk moderne wetenschappelijke publicaties aan KU Leuven Bibliotheken. De schenking betekent een welgekomen verrijking voor onze collecties, in de eerste plaats de collectie Geschiedenis, maar ook de collecties Klassieke Studies, Humanistische & Neolatijnse literatuur, Kunstgeschiedenis, Oosterse Studies en Theologie & Religiewetenschappen.]]></summary>
-        <author>
-            <name>Nele Baplu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corpus pour étude : cartothèque du Service de l’aménagement du territoire]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=10935</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/02/corpus-pour-etude-cartotheque-du-service-de-lamenagement-du-territoire/"/>
-        <updated>2022-06-02T10:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Les Achives cantonales vaudoises (ACV) proposent un corpus de cartes et infographies (1950-1990) pour des recherches historiques. Les Archives cantonales hébergent les archives du Service du développement territorial, dont l’inventaire a été finalisé en 2021. Ce fonds contient l’échantillonnage de la Cartothèque du Service de l’aménagement du territoire (1974-2007), à savoir environ 130 cartes sur […]
-The post Corpus pour étude : cartothèque du Service de l’aménagement du territoire appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dispatches from the Place of Imminence by Svitlana Matviyenko, part 8]]></title>
-        <id>https://digitaldemocracies.org/?p=3978</id>
-        <link href="https://digitaldemocracies.org/dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-8/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-8"/>
-        <updated>2022-06-01T20:58:45.000Z</updated>
-        <summary type="html"><![CDATA[This was originally posted by by Svitlana Matviyenko on the Institute of Network Cultures blog on April 12, 2022. March 29 – April 12, 2022 Today is the 48th day of war. For …
-  Dispatches from the Place of Imminence by Svitlana Matviyenko, part 8 Read More »
-Dispatches from the Place of Imminence by Svitlana Matviyenko, part 8 first appeared on Digital Democracies Institute.]]></summary>
         <author>
             <name>Kayla Hilstob</name>
         </author>
