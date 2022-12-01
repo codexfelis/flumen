@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-11-30T08:04:23.086Z</updated>
+    <updated>2022-12-01T08:04:05.064Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Text Recognition for Nepalese Manuscripts in Pracalit Script]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.90</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.90"/>
+        <updated>2022-12-01T08:04:05.018Z</updated>
+        <summary type="html"><![CDATA[This dataset is a model for handwritten text recognition (HTR) of Sanskrit and Newar Nepalese manuscripts in Pracalit script. This paper introduces the state of the field in Newar literature, Newar manuscripts, and HTR engines. It explains our methodology for developing the requisite ground truth consisting of manuscript images and corresponding transcriptions, training our model with a PyLAia engine, and this model’s limitations. This dataset shared on Zenodo can be used by anyone working with manuscripts in Pracalit script, which will benefit the fields of Indology and Newar studies, as well as historical and linguistic analysis.
+ Published on 2022-11-30 10:14:24]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for CSDH/SCHN Program Chair (Congress 2023)]]></title>
+        <id>https://csdh-schn.org/?p=1118</id>
+        <link href="https://csdh-schn.org/call-for-csdh-schn-program-chair-congress-2023/"/>
+        <updated>2022-11-30T20:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Dear Colleagues, CSDH/SCHN is seeking a program chair to lead the organization of our annual conference as part of Congress 2023 (York University, May 27th to June 2nd). Ideally, we would like to run a hybrid conference allowing members to meet in person for the first time since 2019 while also offering the chance to […]]]></summary>
+        <author>
+            <name>Kyle Dase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI announces winner of 2023 Community Archvie Scheme: Dublin Digital Radio]]></title>
+        <id>1593 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-announces-winner-2023-community-archvie-scheme-dublin-digital-radio"/>
+        <updated>2022-11-30T11:38:07.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce the winners of the DRI Community Archive Scheme 2023- Dublin Digital Radio (ddr). They are the ninth community g]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walking the Landscape]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/"/>
+        <updated>2022-11-30T08:55:34.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeing Constable Differently]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/seeing-constable-differently/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/seeing-constable-differently/"/>
+        <updated>2022-11-30T08:53:04.000Z</updated>
+        <summary type="html"><![CDATA[CDH recently teamed up with the Fitzwilliam Museum to bring some of Constable's most famous paintings to life with the project Walking the Landscape. Small groups went on walks in the East of England in an attempt to locate the original sources for the paintings themselves. You can read more about this project here: https://walking-the-landscape.fitzmuseum.cam.ac.uk/]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cracking the Oracle Bones: The Yinxu Oracle Bone Inscription Digital Database (Part 2)]]></title>
         <id>http://digitalorientalist.com/?p=9155</id>
@@ -1851,6 +1901,16 @@ Immersive live show from his latest album Unspoken words
 Continue reading “The Digital Humanities journey of Sara Cosemans: using digital research methods to deal with information overload”…]]></summary>
         <author>
             <name>Laura Mesotten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1940/41: Alex Bonn et la situation des juifs persécutés au Luxembourg]]></title>
+        <id>4272 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/194041-alex-bonn-et-la-situation-des-juifs-persecutes-au-luxembourg"/>
+        <updated>2022-11-09T08:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Le nombre des juifs vivant au Luxembourg en mai 1940 n’est pas connu avec exactitude. Il est généralement admis qu’en 1940 3.500 à 4.000 personnes de confession israélite vivaient au Luxembourg, des citoyens luxembourgeois, mais aussi un grand nombre de juifs de nationalité étrangère ou apatrides. Environ 3.000 juifs quitteront le Luxembourg entre le 10 mai 1940 et la veille du premier convoi de déportation en Europe de l’Est, le 15 octobre 1941. L’occupation allemande au 10 mai 1940 signifia la fin de l’Etat de droit luxembourgeois. Le Gauleiter du Gau de Coblence‐Trèves, Gustav Simon, fut nommé par décision du Führer chef de l’administration civile pour le territoire luxembourgeois (CdZ) au mois de juillet 1940. Ce fut sous sa responsabilité que les mesures qui allaient bientôt toucher l…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>

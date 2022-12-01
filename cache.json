@@ -619,6 +619,15 @@
       "siteUrl": "https://csdh-schn.org",
       "articles": [
         {
+          "id": "https://csdh-schn.org/?p=1118",
+          "author": "Kyle Dase",
+          "description": "Dear Colleagues, CSDH/SCHN is seeking a program chair to lead the organization of our annual conference as part of Congress 2023 (York University, May 27th to June 2nd). Ideally, we would like to run a hybrid conference allowing members to meet in person for the first time since 2019 while also offering the chance to […]",
+          "link": "https://csdh-schn.org/call-for-csdh-schn-program-chair-congress-2023/",
+          "publishedOn": "2022-11-30T20:48:20.000Z",
+          "wordCount": 319,
+          "title": "Call for CSDH/SCHN Program Chair (Congress 2023)"
+        },
+        {
           "id": "https://csdh-schn.org/?p=1105",
           "author": "Milena Radzikowska",
           "description": "Having reached the end of my term as President of CSDH-SCHN I would like to thank the wonderful executive that I got to work with over these years. I’m thrilled that many are staying on and taking on new roles, but also recognize those that have served for years and now turn to other opportunities. We […]",
@@ -3502,6 +3511,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.90",
+          "author": null,
+          "description": "This dataset is a model for handwritten text recognition (HTR) of Sanskrit and Newar Nepalese manuscripts in Pracalit script. This paper introduces the state of the field in Newar literature, Newar manuscripts, and HTR engines. It explains our methodology for developing the requisite ground truth consisting of manuscript images and corresponding transcriptions, training our model with a PyLAia engine, and this model’s limitations. This dataset shared on Zenodo can be used by anyone working with manuscripts in Pracalit script, which will benefit the fields of Indology and Newar studies, as well as historical and linguistic analysis.\n Published on 2022-11-30 10:14:24",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.90",
+          "publishedOn": "2022-12-01T08:04:05.018Z",
+          "wordCount": 2275,
+          "title": "Text Recognition for Nepalese Manuscripts in Pracalit Script"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.89",
           "author": null,
           "description": "The Oupoco Database is a collection of 4,872 French sonnets developed in the framework of the Oupoco Project. It is mainly composed of poems from the 19th and early 20th century. The sonnets come from different sources from the Internet and from a collaboration with the Bibliothèque nationale de France. Every sonnet has a specific license (depending on the source it comes from), but the whole collection can be reused for free (under the Creative Commons Attribution 4.0 International license). Published on 2022-11-15 12:05:20",
@@ -5653,6 +5671,15 @@
           "title": "THE SOUND OF DATA – Science meets Music"
         },
         {
+          "id": "4272 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Le nombre des juifs vivant au Luxembourg en mai 1940 n’est pas connu avec exactitude. Il est généralement admis qu’en 1940 3.500 à 4.000 personnes de confession israélite vivaient au Luxembourg, des citoyens luxembourgeois, mais aussi un grand nombre de juifs de nationalité étrangère ou apatrides. Environ 3.000 juifs quitteront le Luxembourg entre le 10 mai 1940 et la veille du premier convoi de déportation en Europe de l’Est, le 15 octobre 1941. L’occupation allemande au 10 mai 1940 signifia la fin de l’Etat de droit luxembourgeois. Le Gauleiter du Gau de Coblence‐Trèves, Gustav Simon, fut nommé par décision du Führer chef de l’administration civile pour le territoire luxembourgeois (CdZ) au mois de juillet 1940. Ce fut sous sa responsabilité que les mesures qui allaient bientôt toucher l…",
+          "link": "https://www.c2dh.uni.lu/events/194041-alex-bonn-et-la-situation-des-juifs-persecutes-au-luxembourg",
+          "publishedOn": "2022-11-09T08:16:52.000Z",
+          "wordCount": 710,
+          "title": "1940/41: Alex Bonn et la situation des juifs persécutés au Luxembourg"
+        },
+        {
           "id": "4268 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "According to the Unesco, “digital heritage consists of unique resources of human knowledge and expression. It embraces cultural, educational, scientific and administrative resources, as well as technical, legal, medical and other  kinds  of  information  created  digitally,  or  converted  into  digital  form  from  existing  analogue  resources. Where resources are “born digital”, there is no other format but the digital object. Digital  materials  include  texts,  databases,  still  and  moving  images,  audio,  graphics,  software  and  web  pages,  among  a  wide  and  growing  range  of  formats.  They  are  frequently  ephemeral,  and  require purposeful production, maintenance, and management to be retained ”.\nIn recent years, digital heritage has become more topical than ever: the …",
@@ -6019,6 +6046,24 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/",
+          "publishedOn": "2022-11-30T08:55:34.000Z",
+          "wordCount": 883,
+          "title": "Walking the Landscape"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/seeing-constable-differently/",
+          "author": null,
+          "description": "CDH recently teamed up with the Fitzwilliam Museum to bring some of Constable's most famous paintings to life with the project Walking the Landscape. Small groups went on walks in the East of England in an attempt to locate the original sources for the paintings themselves. You can read more about this project here: https://walking-the-landscape.fitzmuseum.cam.ac.uk/",
+          "link": "https://www.cdh.cam.ac.uk/about/news/seeing-constable-differently/",
+          "publishedOn": "2022-11-30T08:53:04.000Z",
+          "wordCount": 348,
+          "title": "Seeing Constable Differently"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/media/blog/grassroots-data-wranglers/",
           "author": null,
@@ -7590,6 +7635,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1593 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "The Digital Repository of Ireland (DRI) is delighted to announce the winners of the DRI Community Archive Scheme 2023- Dublin Digital Radio (ddr). They are the ninth community g",
+          "link": "https://www.dri.ie/dri-announces-winner-2023-community-archvie-scheme-dublin-digital-radio",
+          "publishedOn": "2022-11-30T11:38:07.000Z",
+          "wordCount": 1319,
+          "title": "DRI announces winner of 2023 Community Archvie Scheme: Dublin Digital Radio"
+        },
         {
           "id": "1595 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
