@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-12-06T08:03:55.824Z</updated>
+    <updated>2022-12-07T08:04:04.950Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CHR2022 Practicalities]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1911</id>
+        <link href="https://discourse.computational-humanities-research.org/t/chr2022-practicalities/1911"/>
+        <updated>2022-12-06T19:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Directions
+Venue
+The conference will take place at the beautiful Monastery of the Grauwzusters in Antwerp. For directions, see the map below.
+
+
+Conference dinner
+The conference dinner on Tuesday will be at the University Club. For directions, see the map below:
+
+            
+2 posts - 2 participants
+Read full topic]]></summary>
+        <author>
+            <name>mike.kestemont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACH @ MLA 2023: Extended Reality for the Study of Language and Literature]]></title>
+        <id>https://ach.org/?p=2429</id>
+        <link href="https://ach.org/blog/2022/12/06/ach-mla-2023-extended-reality-for-the-study-of-language-and-literature/"/>
+        <updated>2022-12-06T17:24:51.000Z</updated>
+        <summary type="html"><![CDATA[Session 361 on Friday, 6 January, 5:15 PM-6:30 PM, 3024 (Moscone West) How can Extended Reality (XR) technologies (Virtual, Augmented, Mixed) be applied to the teaching and study of language and literature? What new questions do these technologies enable us to ask? How might they extend or intersect with other areas of digital humanities work?…Continue reading.]]></summary>
+        <author>
+            <name>jwoowinter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MapHub: A Brief Tutorial]]></title>
+        <id>http://digitalorientalist.com/?p=9402</id>
+        <link href="https://digitalorientalist.com/2022/12/06/maphub-a-brief-tutorial/"/>
+        <updated>2022-12-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MapHub allows users to make either thematic or regional maps using Geographic Information Systems as an interactive map. It provides …]]></summary>
+        <author>
+            <name>Busranur Bekman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailing List]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/mailing-list/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/mailing-list/"/>
+        <updated>2022-12-06T10:50:14.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Einladung zum Launch der virtuellen Forschungsumgebung zur Berliner Kunstkammer]]></title>
         <id>node/873</id>
@@ -11339,57 +11388,6 @@ Deadline for the proposals is 3rd July 2022. Please find further
 https://didip.hypotheses.org/files/2022/05/Call-for-Papers.pdf]]></summary>
         <author>
             <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHNB 2023 Conference – Save the date!]]></title>
-        <id>https://dhnb.eu/?p=2236</id>
-        <link href="https://dhnb.eu/dhnb-2023-conference-save-the-date/"/>
-        <updated>2022-06-10T17:13:44.000Z</updated>
-        <summary type="html"><![CDATA[The next DHNB conference will be held online on 08.-10. March, 2023. The conference with the theme “Sustainability: Environment – Community – Digital” is organized in collaboration between the University of Oslo, the University of Bergen, and the University of Stavanger. The CfP with more information in the theme will follow soon.]]></summary>
-        <author>
-            <name>Olga Holownia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities and Buddhist Studies in Japan: An Interview with Kiyonori Nagasaki (1/2)]]></title>
-        <id>http://digitalorientalist.com/?p=8275</id>
-        <link href="https://digitalorientalist.com/2022/06/10/digital-humanities-and-buddhist-studies-in-japan-an-interview-with-kiyonori-nagasaki-1-2/"/>
-        <updated>2022-06-10T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Continuing our series of interviews with scholars working in Digital Humanities in Japan, this is the first of a two-part …]]></summary>
-        <author>
-            <name>tomnewhallucla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/videos/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/videos/"/>
-        <updated>2022-06-10T10:39:45.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daniel Harasim receives EDDH thesis distinction]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11050</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/10/daniel-harasim-receives-eddh-thesis-distinction/"/>
-        <updated>2022-06-10T10:14:50.000Z</updated>
-        <summary type="html"><![CDATA[The EPFL College of Humanities congratulates Daniel Harasim, also a member of the dhCenter, for earning an EPFL Doctoral Program Thesis Distinction for his PhD research in the Digital and Cognitive Musicology Lab (DCML). Harasim was awarded the distinction for his thesis, The Learnability of the Grammar of Jazz: Bayesian Inference of Hierarchical Structures in […]
-The post Daniel Harasim receives EDDH thesis distinction appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qu’advient-il de la sémantique et de l’interaction dans les transcriptions automatiques d’un logiciel ?]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11043</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/10/quadvient-il-de-la-semantique-et-de-linteraction-dans-les-transcriptions-automatiques-dun-logiciel/"/>
-        <updated>2022-06-10T10:12:16.000Z</updated>
-        <summary type="html"><![CDATA[La sociologue Marine Kneubühler, chargée de recherche à l’Institut des sciences sociales (SSP, UNIL), a publié un article dans le dernier numéro de la Revue d’Anthropologie des connaissances (RAC) sur le fonctionnement général et les usages des logiciels speech-to-text. Cet article a été réalisé dans le cadre du projet Compascience 2.0, mené en partenariat avec […]
-The post Qu’advient-il de la sémantique et de l’interaction dans les transcriptions automatiques d’un logiciel ? appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
         </author>
     </entry>
     <entry>
