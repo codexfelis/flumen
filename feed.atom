@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-12-07T08:04:04.950Z</updated>
+    <updated>2022-12-08T08:03:53.598Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CFP Volume 7 JJADH]]></title>
+        <id>72 at https://www.jadh.org</id>
+        <link href="https://www.jadh.org/node/72"/>
+        <updated>2022-12-08T06:50:17.000Z</updated>
+        <summary type="html"><![CDATA[The Journal of the Japanese Association for Digital Humanities (in English) is now inviting submissions for Volume 7 of the journal to be issued in October 2023. 
+The JJADH is a peer-review and open-access journal, online at:
+https://www.jstage.jst.go.jp/browse/jjadh/5/0/_contents/-char/en
+To submit your paper, please access the online submission system at:
+https://journals.jadh.org/index.php/jjadh/about/submissions
+First please register with the journal by clicking the "register" link. Make sure to register as “Author." Once you have registered, you can submit your paper by clicking "New submission." Please read the instructions on the pages carefully. We ask that papers be submitted according to the guidelines and web-submission process stipulated.
+The JJADH is not limited to Japanese st…]]></summary>
+        <author>
+            <name>adminweb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interim DRI Director Appointed]]></title>
+        <id>1598 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/acting-dri-director-appointed"/>
+        <updated>2022-12-07T12:01:24.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce the appointment of an interim Director. Dr Lisa Griffith will take up the position of Director on 1 January 2023, taking over from Dr Natalie Harrower.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHR2022 Practicalities]]></title>
         <id>discourse.computational-humanities-research.org-topic-1911</id>
@@ -34,6 +60,26 @@ Read full topic]]></summary>
         <summary type="html"><![CDATA[Session 361 on Friday, 6 January, 5:15 PM-6:30 PM, 3024 (Moscone West) How can Extended Reality (XR) technologies (Virtual, Augmented, Mixed) be applied to the teaching and study of language and literature? What new questions do these technologies enable us to ask? How might they extend or intersect with other areas of digital humanities work?…Continue reading.]]></summary>
         <author>
             <name>jwoowinter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Papers – AI and Archives: Explorations, Possibilities and Challenges]]></title>
+        <id>1597 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/call-papers-ai-and-archives"/>
+        <updated>2022-12-06T16:08:48.000Z</updated>
+        <summary type="html"><![CDATA['AI and Archives: Explorations, Possibilities and Challenges' explores the possibilities and challenges afforded by AI in archives, and does so specifically from an intersectional, eco, feminist perspective. The symposium organisers have issued a call for papers.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethical Approval for Research Projects: A How-To Guide]]></title>
+        <id>1596 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/ethical-approval-how-to-guide"/>
+        <updated>2022-12-06T15:37:05.000Z</updated>
+        <summary type="html"><![CDATA[In a short blog, Dr Lorraine Grimes provides tips on putting together an application for ethical approval for research projects.]]></summary>
+        <author>
+            <name>clarelanigan</name>
         </author>
     </entry>
     <entry>
@@ -11357,37 +11403,6 @@ Das Tagungsmotto hat durch die anhaltenden Debatten zu Open Access, durch aktuel
         <summary type="html"><![CDATA[Ok, I’ve submitted my Libraries Tasmania translator to the Zotero repository for inclusion. No doubt a bit of additional tweaking will be required. github.com/zotero/tr…]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CfP DHd 2023]]></title>
-        <id>node/815</id>
-        <link href="https://dig-hum.de/aktuelles/cfp-dhd-2023"/>
-        <updated>2022-06-11T09:51:47.000Z</updated>
-        <summary type="html"><![CDATA[Die 10. Jahrestagung des Verbands „Digital Humanities im deutschsprachigen Raum e.V.“ wird vom 13. bis 17. März 2023 an den Universitäten Trier und Luxemburg unter dem Thema „Open…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for papers: "Digital Diplomatics 2022", 28-30. Sept. Graz]]></title>
-        <id>1413 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2022/06/11/call-papers-digital-diplomatics-2022-28-30-sept-graz"/>
-        <updated>2022-06-11T07:30:59.000Z</updated>
-        <summary type="html"><![CDATA[3 Jul 2022 - 00:00
-
-
-
-Call for papers: "Digital Diplomatics 2022", 28-30. Sept. Graz
-
-
-
-The ERC Advanced Grant Project “From Digital to Distant Diplomatics”
-The international conference is intended to offer all scholars
-Deadline for the proposals is 3rd July 2022. Please find further
-https://didip.hypotheses.org/files/2022/05/Call-for-Papers.pdf]]></summary>
-        <author>
-            <name>Communication Fellow</name>
         </author>
     </entry>
     <entry>
