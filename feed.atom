@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-12-09T08:04:14.696Z</updated>
+    <updated>2022-12-10T08:16:58.811Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recent presentations – Library of Congress Data Jam, Everyday Heritage, Wikidata, and GLAM Workbench!]]></title>
+        <id>http://wragge.micro.blog/2022/12/10/recent-presentations-library.html</id>
+        <link href="https://updates.timsherratt.org/2022/12/10/recent-presentations-library.html"/>
+        <updated>2022-12-10T03:00:33.000Z</updated>
+        <summary type="html"><![CDATA[October and November brought a flurry of presentations from which I’m still recovering. Here’s a few details and links.
+Library of Congress Data Jam
+In October, the Computing Cultural Heritage in the Cloud project at the Library of Congress organised a Data Jam. I was invited to spend a couple of weeks playing around with one of their datasets and to report on the results. I ended up trying to find references to countries in a collection of 90,000 OCRd books. Of course I struck a few problems along the way, and didn’t get nearly as much done as I’d hoped, but that was really part of the point – to find the problems and explore the possibilities. You can watch a video of my presentation, or the whole Data Jam.
+
+
+You can also:
+View the slides of my presentation
+Examine the Jupyter notebooks …]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities Summer Institute (DHSI) Tuition + Travel Support]]></title>
+        <id>https://dhn.utoronto.ca/?p=7161</id>
+        <link href="https://dhn.utoronto.ca/digital-humanities-summer-institute-dhsi-tuition-travel-support/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=digital-humanities-summer-institute-dhsi-tuition-travel-support"/>
+        <updated>2022-12-09T20:02:01.000Z</updated>
+        <summary type="html"><![CDATA[After several years of adjusting in-person plans and three successful years of online editions, the Digital Humanities Summer Institute (DHSI) will be offered in a hybrid format in 2023. The […]]]></summary>
+        <author>
+            <name>Matt Lefaive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genius loci: extracting names and places from Japanese texts]]></title>
+        <id>http://digitalorientalist.com/?p=9466</id>
+        <link href="https://digitalorientalist.com/2022/12/09/genius-loci-extracting-names-and-places-from-japanese-texts/"/>
+        <updated>2022-12-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This guest contribution is written by Anna Oskina. Introduction Among other things, the digital humanities deals with individual items, which …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI welcomes the Property Registration Authority as a new Member]]></title>
+        <id>1599 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-welcomes-property-registration-authority-new-member"/>
+        <updated>2022-12-09T12:30:22.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that the Property Registration Authority (PRA) has joined DRI as our forty-fourth member.]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dream Lab 2023]]></title>
         <id>1229 at https://pricelab.sas.upenn.edu</id>
@@ -11380,122 +11427,6 @@ If you want to participate, just come to the 4th floor of the MSH or contact van
 The post An open discussion on the impacts of the digital appeared first on dhCenter.]]></summary>
         <author>
             <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anuncio del grupo de trabajo de inclusión interseccional de la ADHO]]></title>
-        <id>588905 at https://adho.org</id>
-        <link href="https://adho.org/node/588905"/>
-        <updated>2022-06-13T20:01:24.000Z</updated>
-        <summary type="html"><![CDATA[English
-El Grupo de trabajo de inclusión interseccional de ADHO (inicialmente el Grupo de trabajo contra el racismo) surge de una necesidad directa y apremiante de abordar las desigualdades sistémicas dentro de ADHO y la comunidad relacionada con sus actividades.*
-Dichas desigualdades incluyen, entre otros factores, raza, clase, género, (dis)capacidad, casta, tribu, sexualidad, nacionalidad, ubicación geográfica, religión, salud, idioma u otras categorías sociales, que a menudo se ven exacerbadas por un tecnopositivismo desenfrenado en los contextos globales actuales. Este equipo de trabajo amplía y amplifica las conversaciones iniciadas por el comunicado sobre Black Lives Matter, el racismo estructural y la violencia institucional, y busca reconocer, escuchar y aprender de personas, organ…]]></summary>
-        <author>
-            <name>drupaladmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 304 – Dogale]]></title>
-        <id>http://schoenberginstitute.org/?p=16959</id>
-        <link href="https://schoenberginstitute.org/2022/06/13/manuscript-monday-ljs-304-dogale/"/>
-        <updated>2022-06-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s LJS 304, a dogale written in Venice, dated 6 March 1574. The manuscript is a commission from Alvise Mocenigo, doge of Venice, addressed to Girolamo Priuli (not to be confused with the Girolamo Priuli, of theContinue reading "Manuscript Monday: LJS 304 – Dogale"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anuncio del grupo de trabajo de inclusión interseccional de la ADHO]]></title>
-        <id>https://adho.org/?p=1024</id>
-        <link href="https://adho.org/2022/06/13/anuncio-del-grupo-de-trabajo-de-inclusion-interseccional-de-la-adho-2/"/>
-        <updated>2022-06-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[English | Italiano El Grupo de trabajo de inclusión interseccional de ADHO (inicialmente el Grupo de trabajo contra el racismo) surge de una necesidad directa y apremiante de abordar las desigualdades sistémicas dentro de ADHO y la comunidad relacionada con sus actividades.* Dichas desigualdades incluyen, entre otros factores, raza, clase, género, (dis)capacidad, casta, tribu, sexualidad,… Read More »Anuncio del grupo de trabajo de inclusión interseccional de la ADHO]]></summary>
-        <author>
-            <name>hannah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appel à donation anonyme de conversations WhatsApp]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11066</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/13/appel-a-donation-anonyme-de-conversations-whatsapp/"/>
-        <updated>2022-06-13T11:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Dans le cadre du Pôle de recherche national “Evolving Language” soutenu par le FNS, une équipe de chercheur·euse·s de l’UNIL lance un appel à donation anonyme de conversations WhatsApp. Objectif du projet: analyser la façon dont les émotions sont communiquées sur cette plateforme. Dirigé par Aris Xanthos (Section des sciences du langage et de l’information), […]
-The post Appel à donation anonyme de conversations WhatsApp appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing… Lucy Havens]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=2361</id>
-        <link href="https://livingwithmachines.ac.uk/introducing-lucy-havens/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introducing-lucy-havens"/>
-        <updated>2022-06-13T10:39:55.000Z</updated>
-        <summary type="html"><![CDATA[We’ve asked each member of the Living with Machines team to introduce themselves in their initial blog post. What’s your name? Lucy Havens What’s your background? Interdisciplinary!  As an undergraduate I studied Information Systems, which combined computer science and business, and I also minored in English Studies and French and Francophone Studies.  Towards the end of my […]]]></summary>
-        <author>
-            <name>Lucy Havens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EADH EC Elections - Call for nominations]]></title>
-        <id>1414 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2022/06/13/eadh-ec-elections-call-nominations"/>
-        <updated>2022-06-13T09:50:50.000Z</updated>
-        <summary type="html"><![CDATA[3 Jul 2022 - 00:00
-
-
-
-EADH EC Elections - Call for nominations
-
-
-
-The European Association for Digital Humanities (EADH) seeks to elect three (3) new board members for its Executive Committee for the term 2022-2024, and now opens its Call for Nominations. 
-EADH highlights the importance of a diverse and representative Executive Committee, and welcomes candidates from all backgrounds. For further information, please see our diversity and inclusivity statement.
-For each person wishing to be nominated for election, the EADH Elections Committee must receive the following three documents:
-a) two nomination statements by EADH members (here, the proposers), stating the name of the person they wish to nominate (that is, the nominee). The name of the proposers and the nomination statements will not…]]></summary>
-        <author>
-            <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHd 2023: Open Humanities, Open Culture]]></title>
-        <id>4071 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/dhd-2023-open-humanities-open-culture"/>
-        <updated>2022-06-13T09:41:20.000Z</updated>
-        <summary type="html"><![CDATA[Ein wesentliches Element des Selbstverständnisses der Digital Humanities ist die Überzeugung, dass Forschung, Lehre und die wissenschaftliche Community grundsätzlich von Offenheit profitieren.
-Mit dem Tagungsmotto Open Humanities, Open Culture soll diese Überzeugung für die DH-Community und auch darüber hinaus sichtbar und explizit gemacht werden. Die Offenheit berührt alle Aspekte der wissenschaftlichen Praxis, sei es im Bereich der Daten (Open Data), der Software (Open Source), der Publikationen (Open Access), der Lehrmaterialien (Open Educational Resources) oder der fachlichen Selbstdefinition und Community (“Big Tent DH”).
-Das Tagungsmotto hat durch die anhaltenden Debatten zu Open Access, durch aktuelle Diskussionen um die Reproduzierbarkeit von Forschung bei Offenlegung von Daten und…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Nominations to the DRI Board]]></title>
-        <id>1527 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/call-nominations-dri-board-2022"/>
-        <updated>2022-06-13T09:25:24.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is seeking expressions of interest from members of the DRI to fill three vacancies which have arisen on the DRI Board. Any staff member from a full member institution is eligible to nominate themselves for consideration for appointment.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Repairing Technology – Fixing Society?]]></title>
-        <id>4070 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/repairing-technology-fixing-society"/>
-        <updated>2022-06-13T09:23:33.000Z</updated>
-        <summary type="html"><![CDATA[Failures and breakdowns constitute an important element in the fundamental relationship between users and technology, and maintenance and repair are fundamental practices in everyday life. Stephen Graham and Nigel Thrift (2007) highlighted that “repair and maintenance are not incidental activities. In many ways, they are the engine room of modern economies and societies”. However, we still know very little about the actual developments of repair practices in the past and today. In his essay “Rethinking repair”, Steven Jackson (2014) therefore called for what he coined “broken world thinking”. He argues that we should take “erosion, breakdown, and decay, rather than novelty, growth, and progress, as our starting points” when we want to study consumption and use. Broken world thinking is an …]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/06/13/ok-ive-submitted.html</id>
-        <link href="https://updates.timsherratt.org/2022/06/13/ok-ive-submitted.html"/>
-        <updated>2022-06-13T07:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Ok, I’ve submitted my Libraries Tasmania translator to the Zotero repository for inclusion. No doubt a bit of additional tweaking will be required. github.com/zotero/tr…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
