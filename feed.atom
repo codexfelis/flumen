@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-12-10T08:16:58.811Z</updated>
+    <updated>2022-12-11T08:03:57.403Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Real Face of White Australia – updated site to transcribe records from the National Archives of Australia]]></title>
+        <id>http://wragge.micro.blog/2022/12/11/real-face-of.html</id>
+        <link href="https://updates.timsherratt.org/2022/12/11/real-face-of.html"/>
+        <updated>2022-12-11T02:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2017, I worked with students from my ‘Exploring Digital Heritage’ class at the University of Canberra to develop and launch a site to transcribe records from the National Archives of Australia relating to the administration of the White Australia Policy. The highlight was a weekend-long ‘transcribe-a-thon’ held in Kings Hall at Old Parliament House.
+
+This was part of the Real Face of White Australia project – an ongoing effort by Kate Bagnall and me to increase awareness and understanding of the White Australia Policy records held by the NAA. For an introduction to the project and its origins, see our chapter ‘The people inside’, published in Seeing the Past with Computers: Experiments with Augmented Reality and Computer Vision for History, edited by Kevin Kee and Tim Compeau.
+The…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recent presentations – Library of Congress Data Jam, Everyday Heritage, Wikidata, and GLAM Workbench!]]></title>
         <id>http://wragge.micro.blog/2022/12/10/recent-presentations-library.html</id>
@@ -1232,6 +1245,22 @@ Title: Exploring the loaded contexts that characterise people groups across Dutc
 Read full topic]]></summary>
         <author>
             <name>marieke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semantic enrichment of type-based word embeddings for small text corpora]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1891</id>
+        <link href="https://discourse.computational-humanities-research.org/t/semantic-enrichment-of-type-based-word-embeddings-for-small-text-corpora/1891"/>
+        <updated>2022-11-16T15:37:54.000Z</updated>
+        <summary type="html"><![CDATA[Speaker: Thora Hagen
+ Affiliation: University of Würzburg
+Title: Semantic enrichment of type-based word embeddings for small text corpora
+Abstract: One of the most important steps to language modeling is preparing a decently sized text corpus. As language modeling has become more popular in the field of digital humanities as well, it has become apparent that this hurdle exactly can be very high for researchers to be able to make use of traditional language modeling methods. This contribution demonstrates how to improve the semantic quality of pre-trained word embeddings that have been built using a smaller English text corpus by incorporating structured knowledge (synonyms, antonyms, and hypernyms). Using the state-of-the-art method GLEN (Generalized Lexical ENtailment model, Glavaš and Vulić 2019), the experiment shows mixed results: While semantic similarity and lexical entailment show improvements, the performance for semantic relatedness falls behind in this setting. However, limiting the training data to only synonyms improves semantic relatedness as well, which implies that using more but diverse training data is not always advisable when wanting to improve the semantic quality of a smaller word embedding model, as this goal merges a variety of semantic aspects.
+ Link to poster
+1 post - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>thora.hagen</name>
         </author>
     </entry>
     <entry>
@@ -11346,87 +11375,6 @@ The post New Webinar: Ask Us Anything About Transkribus appeared first on READ-C
         <summary type="html"><![CDATA[English | Español Intersectional Inclusion Task Force, la task force per l’inclusione intersezionale di ADHO (inizialmente Task Force Anti-Razzismo), nasce dall’esigenza diretta e pressante di affrontare le disuguaglianze sistemiche all’interno di ADHO e della più ampia comunità DH connessa alle sue attività*, tra cui, ma non solo, razza, classe, genere, abilità, casta, tribù, sessualità, nazionalità,… Read More »Annuncio della task force sull’inclusione intersezionale dell’ADHO]]></summary>
         <author>
             <name>hannah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: Koordinator (m/w/d) Klassik Stiftung Weimar]]></title>
-        <id>node/816</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-koordinator-mwd-klassik-stiftung-weimar"/>
-        <updated>2022-06-14T19:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Das Deutsche Literaturarchiv Marbach (DLA), die Klassik Stiftung Weimar (KSW) und die Herzog August Bibliothek Wolfenbüttel (HAB) erforschen mehr als ein halbes Jahrtausend…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrastructures. The Digital Orientalist’s 2022 online conference.]]></title>
-        <id>http://digitalorientalist.com/?p=8410</id>
-        <link href="https://digitalorientalist.com/2022/06/14/infrastructures-the-digital-orientalists-2022-online-conference/"/>
-        <updated>2022-06-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following is the schedule of the Digital Orientalist’s 2022 Zoom conference “Infrastructures.” You can find titles and abstracts here; …]]></summary>
-        <author>
-            <name>maddalena poli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le Courrier: Refonder politiquement le territoire]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11083</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/14/le-courrier-refonder-politiquement-le-territoire/"/>
-        <updated>2022-06-14T09:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Dans cet article du Courrier, publié le 13 juin, le membre du dhCenter Vincent Kaufmann et ses collègues du Laboratoire de sociologie urbaine de l’EPFL expliquent pourquoi les modèles de «quartiers durables» à haute densité développés à la fin du XXe siècle, pourtant étayés par des labels qualitatifs et autres processus «participatifs», ne répondent plus […]
-The post Le Courrier: Refonder politiquement le territoire appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KU Leuven Libraries Artes supports Sidestone Press]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1139</id>
-        <link href="https://scholarlytales.hcommons.org/2022/06/14/ku-leuven-libraries-artes-supports-sidestone-press/"/>
-        <updated>2022-06-14T08:43:24.000Z</updated>
-        <summary type="html"><![CDATA[KU Leuven Libraries Artes has signed up for Sidestone Press’s library program. Sidestone Press is an academic publishing house founded by scholars, for scholars. They have one clear ambition: to make scientific information available to all. Through their digital e-book library they provide free online reading worldwide (in HTML format). Researchers and students affiliated with KU Leuven can now also freely download the PDF format of all publications and buy a print copy with 25% discount. By joining the library...]]></summary>
-        <author>
-            <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undisciplined Histories of Maintenance]]></title>
-        <id>4072 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/undisciplined-histories-maintenance"/>
-        <updated>2022-06-14T07:52:05.000Z</updated>
-        <summary type="html"><![CDATA[When Lee Vinsel and I started The Maintainers and wrote “The Innovation Delusion,” we brought our historical sensibilities to a project that we hoped would reach broader and more general audiences. In the process, we set aside some of the conventions of archive-based history and embraced approaches from different academic and non-academic fields. In this talk I’ll describe some of our choices, and how it led to some unexpected scholarly insights—and moments of joy.
- 
-
-
- 
-Andrew Russell is a co-founder of The Maintainers with Lee Vinsel, in 2016. As a co-director, he works with Lee, Jessica, and Lauren on research projects, outreach, and a variety of organizational work that goes into maintaining the Maintainers. His background is in the history of technology, where he writes and teaches about subjects such as Internet history, technical standards, and technology in American life. He really enjoys seeing connections and patterns between maintenance in our personal lives and maintenance on broader scales, such as in organizations or state or national governments.
- 
-Monday, 4 July 2022
-
-
-14.00 - 15.00
-Hybrid event: C²DH Open Space and Webex
-If you want to participate, just come to the 4th floor of the MSH or contact vanessa.napolitano@uni.lu for the Webex link.
-4 July 2022
-  Public history
-  Repairing technology – fixing society? History of maintenance and repair in Luxembourg
-  History of technology
-  Hands-on History
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An open discussion on the impacts of the digital]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11072</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/14/an-open-discussion-on-the-impacts-of-the-digital/"/>
-        <updated>2022-06-14T07:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Should students learn to program before they can write? Will we still have newspapers in 50 years? What will museums look like in the future? The inaugural DHdays at EPFL aim to celebrate the diversity of digital humanities innovations, while exploring emerging research questions at the intersection of science and society. Organized by the College […]
-The post An open discussion on the impacts of the digital appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
         </author>
     </entry>
     <entry>
