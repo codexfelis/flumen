@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-12-12T08:04:19.263Z</updated>
+    <updated>2022-12-13T08:04:34.287Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oregon Theater Project: A Dataset of Oregon Cinemas from the Silent Era]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.92</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.92"/>
+        <updated>2022-12-13T08:04:07.725Z</updated>
+        <summary type="html"><![CDATA[The Oregon Theater Project (OTP) dataset is part of an ongoing collaborative research project by undergraduate students enrolled in successive iterations of “Exhibition & Audiences,” a Cinema Studies course at the University of Oregon. It will be updated with additional data each time the course is taught. The data set comprises geo/historical data about movie theaters (cinemas) and exhibition in the state from approximately 1894 to 1929. The data is presented on a public website (https://oregontheaterproject.uoregon.edu/) which includes maps and individual theater profiles produced by the students. All profiles, and the underlying data, are reviewed by the course instructors and edited as needed for clarification or accuracy. Profiles include, where available, the theater name, address, city, state, latitude, longitude, number of seats, owner/manager names, and a narrative description. The underlying data, shared as Excel documents and tab-delimited spreadsheets, invites historical comparative analysis of film exhibition practices across time and locale, both local and global.
+ Published on 2022-12-12 11:37:02]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conference 2023]]></title>
+        <id>https://csdh-schn.org/?p=1129</id>
+        <link href="https://csdh-schn.org/conference2023/"/>
+        <updated>2022-12-12T21:49:19.000Z</updated>
+        <summary type="html"><![CDATA[The Canadian Society for Digital Humanities (http://csdh-schn.org/) annual meeting will be held at the 2023 Congress of the Social Sciences and Humanities, York University, from May 29th to May 31st, 2023. Please note that all presenters and instructors must be members of CSDH/SCHN at the time of the conference. There is a limited amount of […]]]></summary>
+        <author>
+            <name>Kyle Dase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for New Executive Council Representatives]]></title>
+        <id>https://ach.org/?p=2431</id>
+        <link href="https://ach.org/blog/2022/12/12/call-for-new-executive-council-representatives/"/>
+        <updated>2022-12-12T18:03:44.000Z</updated>
+        <summary type="html"><![CDATA[ACH seeks three new Executive Council Representatives to serve a 4-year term (2023-2027). Nominations are due January 15, 2023 via the very brief nomination form. What does an ACH Executive Council Representative do? As an organization, ACH regularly runs a conference, a series of mentoring events, and distributes bursaries and other awards to the community.…Continue reading.]]></summary>
+        <author>
+            <name>jwoowinter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How did machines change accidents in Victorian Britain?]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=2908</id>
+        <link href="https://livingwithmachines.ac.uk/how-did-machines-change-accidents-in-victorian-britain/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-did-machines-change-accidents-in-victorian-britain"/>
+        <updated>2022-12-12T17:44:31.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce our latest crowdsourcing task for online volunteers. Get up close and personal with history as it happened! Our team of historians, data scientists and library specialists are studying ‘the language of accidents’ in British newspapers. How were accidents involving machinery described in newspapers at the time? And did that language change […]]]></summary>
+        <author>
+            <name>Mia Ridge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IMPACT 10th Anniversary Workshop and Writing Sprint]]></title>
         <id>https://www.digitisation.eu/?post_type=tribe_events&amp;p=17326</id>
@@ -16,6 +57,18 @@ Read More
 The post IMPACT 10th Anniversary Workshop and Writing Sprint appeared first on IMPACT Centre of Competence.]]></summary>
         <author>
             <name>Impact Centre of Competence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for contributions: 2023 DH Benelux Conference]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1692</id>
+        <link href="https://scholarlytales.hcommons.org/2022/12/12/call-for-contributions-dh-benelux-conference-2023/"/>
+        <updated>2022-12-12T08:13:52.000Z</updated>
+        <summary type="html"><![CDATA[The call for contributions to the 2023 DH Benelux Conference has been announced. The conference will take place this year from 31 May until 2 June at the Royal Library of Belgium (KBR). The theme this year is “Crossing Borders:…
+
+Continue reading “Call for contributions: 2023 DH Benelux Conference”…]]></summary>
+        <author>
+            <name>Leah Budke</name>
         </author>
     </entry>
     <entry>
@@ -653,6 +706,20 @@ Read full topic]]></summary>
         <summary type="html"><![CDATA[On 5-6 December 2022, EOSC Future and the INFRAEOSC-07 projects (C-SCALE, DICE, EGI-ACE, OpenAIRE Nexus, Reliance) are hosting an online use case showcase. Check out the agenda and register for this online interactive event by 4 December, 23.59 CET : https://eoscfuture.eu/eventsfuture/webinar-pan-european-digital-assets-supporting-research-communities-benefits-opportunities/]]></summary>
         <author>
             <name>bethknazook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CLARIN Resource Family for Sign Languages]]></title>
+        <id>5822 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/clarin-resource-family-sign-languages"/>
+        <updated>2022-11-28T15:47:24.000Z</updated>
+        <summary type="html"><![CDATA[A CLARIN Resource Family for Sign Languages
+
+            
+The initiative that lead to this project was the result of a workshop for all CLARIN Knowledge Centres (K-centers) from 30 November to 1 December 2020. This workshop, which was established by Bente Maegaard and now takes place annually, brought together all K-centres working with Sign Language (SL) resources in order to explore ways of collaboration. One of the first agreed priorities was to create a Resource Family portal that would make SL resources more visible and accessible for users across the globe.
+CLARIN’s Resource Families (CRF) are designed to facilitate comparative research, and the listings are sorted by language. A common feature of the families is that the resources all pertain to spoken languages. So, this brought us…]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
         </author>
     </entry>
     <entry>
@@ -11180,58 +11247,6 @@ The release of the mobile application is a significant event in the historical c
  17 June 2022]]></summary>
         <author>
             <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/06/16/i-wrote-up.html</id>
-        <link href="https://updates.timsherratt.org/2022/06/16/i-wrote-up.html"/>
-        <updated>2022-06-16T12:48:27.000Z</updated>
-        <summary type="html"><![CDATA[I wrote up something for the #GLAMWorkbook on ‘Empty searches and hacking urls’: glam-workbook.net/url-hacki…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job: DARIAH’s Board of Directors is looking for a new member]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11123</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/06/16/job-dariahs-board-of-directors-is-looking-for-a-new-member/"/>
-        <updated>2022-06-16T11:48:30.000Z</updated>
-        <summary type="html"><![CDATA[The DARIAH research infrastructure is recruiting its new Director (M/F), to start on January 1, 2023. This is a half-time position (0.5 FTE), which will allow candidates to stay connected to the research world. The successful candidate will join the Board of Directors, along with the two existing Directors. Each director is appointed for a […]
-The post Job: DARIAH’s Board of Directors is looking for a new member appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NORF 2022 Funding Call for Expressions of Interest]]></title>
-        <id>1528 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/norf-2022-funding-call-expressions-interest"/>
-        <updated>2022-06-16T11:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Ireland’s National Open Research Forum (NORF) has opened a call for Expressions of Interest for actions funded by the NORF 2022 Open Research Fund. This call targets six priority actions in Ireland’s National Action Plan for Open Research.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Under development – a Zotero translator for Libraries Tasmania!]]></title>
-        <id>http://wragge.micro.blog/2022/06/16/under-development-a.html</id>
-        <link href="https://updates.timsherratt.org/2022/06/16/under-development-a.html"/>
-        <updated>2022-06-16T01:48:31.000Z</updated>
-        <summary type="html"><![CDATA[I’ve created a Zotero translator for the Libraries Tasmania catalogue. Using it, you can save metadata and digital resources to your own research database with a single click. Libraries Tasmania actually has three catalogues rolled into one – the main library catalogue, the archives catalogue, and the names index. The translator works across all three. Features include:
-Select and save items from a page of search results.
-Save individual items across the full range of formats. (By default, individual records in the catalogue open in a modal overlay. For Zotero to recognise the item you need to click on the Permalink button and open the record on a separate page.)
-Automatically download digital images and PDFs attached to records. This works when the record points to a particular page – it won’t download multiple images from a single link. However, if a record contains multiple links to digitised pages (such as the Convict records in the Names Index), you’ll get them all!
-Fields in the Archives catalogue and Name Index that don’t map to Zotero properties are saved as key/value pairs in Zotero’s ‘Extra’ field
-
-I’ve submitted the translator for inclusion in the official repository, but you’re welcome to take it for a test run in the meantime. Just follow these steps:
-Find out where your Zotero data folder is. From Zotero go to Edit > Preferences > Advanced > Files and Folders and click on Show Data Directory.
-Open the translator file here. Then right click and choose Save as, navigate to your Zotero data folder, and save it in the ‘translators’ folder.
-Restart Zotero and your browser.
-Head to the Libraries Tasmania catalogue and try it!
-Let me know if you strike any problems. #dhhacks]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
