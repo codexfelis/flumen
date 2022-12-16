@@ -55,6 +55,15 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=2374",
+          "author": "Annika Rockenberger",
+          "description": "Notifications Sent to Authors On December 15th, notifications were sent to all authors who submitted proposals to DHNB2023. We received 85 submissions for long papers, panels, show-and-tell presentations and workshops. All accepted proposals will be published in the Book of Abstracts. All authors of accepted proposals will also be invited to submit full papers for […]",
+          "link": "https://dhnb.eu/dhnb2023-notifications-to-authors-program-committee/",
+          "publishedOn": "2022-12-16T10:10:47.000Z",
+          "wordCount": 251,
+          "title": "DHNB2023 Notifications to Authors – Program Committee"
+        },
+        {
           "id": "https://dhnb.eu/?p=2371",
           "author": "Annika Rockenberger",
           "description": "DHNB – CALL FOR HOSTS The Digital Humanities in the Nordic and Baltic Countries (DHNB) Board invites proposals to host the 2025 DHNB Conference.  The DHNB conference has become a fixed annual event in the DH calendar. After successful events in Oslo, Gothenburg, Helsinki, Copenhagen, virtually in Riga, and hybrid in Uppsala, our next DHNB conference […]",
@@ -711,6 +720,105 @@
       "siteUrl": "https://dhandlib.org",
       "articles": [
         {
+          "id": "https://dhandlib.org/?p=125366",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "In the latest issue of the Data Sitters Club, “The Data-Sitters’ HathiTrust Mistake,” Cadence Cordell, Quinn Dombrowski, and Glen Layne-Worthey, reflect on their history and experiences with using the HathiTrust Digital Library and offer instructions on using the HathiTrust Research Center’s tools for creating and analyzing text corpora. This is an equally entertaining and instructive ...read more",
+          "link": "https://dhandlib.org/2022/12/15/post-dsc-18-the-data-sitters-hathitrust-mistake/?utm_source=rss&utm_medium=rss&utm_campaign=post-dsc-18-the-data-sitters-hathitrust-mistake",
+          "publishedOn": "2022-12-15T20:39:29.000Z",
+          "wordCount": null,
+          "title": "POST: DSC #18: The Data-Sitters’ HathiTrust Mistake"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125369",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "Deen Freelon (UNC Chapel Hill) has developed pyktok, a python module that enables collection of video, text, and metadata from TikTok. R users may be interested in traktok, which is ported from pyktok. Both programs note: “This program may stop working suddenly if TikTok changes how it stores its data.” These open-source packages may be ...read more",
+          "link": "https://dhandlib.org/2022/12/15/resource-pyktok-and-traktok-for-tiktok-scraping/?utm_source=rss&utm_medium=rss&utm_campaign=resource-pyktok-and-traktok-for-tiktok-scraping",
+          "publishedOn": "2022-12-15T20:38:51.000Z",
+          "wordCount": null,
+          "title": "RESOURCE: pyktok and traktok for TikTok scraping"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125382",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The 2023 Keystone DH Conference will be held June 16-17th at Johns Hopkins University’s Center for Digital Humanities in Baltimore, Maryland. The organizers are currently seeking paper proposals and project talks that address issues of Scale. From the call: Digital techniques have enabled scholars and practitioners both in and out of the academy to explore problems ...read more",
+          "link": "https://dhandlib.org/2022/12/15/cfp-keystone-dh/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-keystone-dh",
+          "publishedOn": "2022-12-15T20:38:06.000Z",
+          "wordCount": 810,
+          "title": "CFP: Keystone DH"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125386",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The Digital Research Infrastructure for the Arts and Humanities (DARIAH), will be hosting its 2023 annual event 6-9 June in Budapest, Hungary, at Eötvös Loránd University. Presentation proposals are now being accepted addressing the theme, ‘Cultural Heritage Data as Humanities Research Data?’; specific topics encouraged by the organizers include: Sustainable workflows for data management and ...read more",
+          "link": "https://dhandlib.org/2022/12/15/cfp-dariah-2023/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-dariah-2023",
+          "publishedOn": "2022-12-15T20:37:24.000Z",
+          "wordCount": null,
+          "title": "CFP: DARIAH 2023"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125378",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "Digital Humanities scholar and digital heritage practitioner, Dr. Anne Luther (Digital Benin), is proposing a book project with Routledge and seeks proposals for book chapters that address the following: History of Digitization in Museum: history of cataloging, history of digitization and computers in museums, today’s practices. Digital Infrastructure: foundational texts that build an overview on ...read more",
+          "link": "https://dhandlib.org/2022/12/15/cfp-digital-heritage-museum-data-digitization-and-digital-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-digital-heritage-museum-data-digitization-and-digital-infrastructure",
+          "publishedOn": "2022-12-15T20:36:30.000Z",
+          "wordCount": null,
+          "title": "CFP: Digital Heritage: Museum Data, Digitization and Digital Infrastructure"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125394",
+          "author": "John Russell",
+          "description": "From the Digital Humanities Quarterly editorial team: The Digital Humanities Quarterly journal is happy to announce a new initiative to provide greater support for authors throughout the publication lifecycle. As part of this work, starting in January 2023, DHQ‘s peer review team will be holding a series of online workshops to provide information for potential authors about ...read more",
+          "link": "https://dhandlib.org/2022/12/15/event-digital-humanities-quarterly-workshops-for-potential-authors/?utm_source=rss&utm_medium=rss&utm_campaign=event-digital-humanities-quarterly-workshops-for-potential-authors",
+          "publishedOn": "2022-12-15T20:35:14.000Z",
+          "wordCount": null,
+          "title": "EVENT: Digital Humanities Quarterly Workshops for Potential Authors"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125389",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The University of Houston’s U.S. Latino Digital Humanities Center is offering Mellon Foundation Grants-in-Aid to provide stipends to scholars for research and development of digital scholarship in the form of a digital publication and/or a digital project. Proposals must draw from recovered primary and derivative sources produced by Latinas/os in what is now the United ...read more",
+          "link": "https://dhandlib.org/2022/12/15/funding-recovering-the-us-hispanic-heritage-program-usldh/?utm_source=rss&utm_medium=rss&utm_campaign=funding-recovering-the-us-hispanic-heritage-program-usldh",
+          "publishedOn": "2022-12-15T20:34:05.000Z",
+          "wordCount": null,
+          "title": "FUNDING: Recovering the US Hispanic Heritage Program (USLDH)"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125384",
+          "author": "John Russell",
+          "description": "The Black Book Interactive Project, a Mellon- and NEH-funded collaborative research project that is working to increase black-authored texts in the digital humanities, has issued a call for application for two programs: The Digital Publishing Scholars Program invites applications from “higher education professionals, graduate students, and scholars who have been actively working with Black literature ...read more",
+          "link": "https://dhandlib.org/2022/12/15/opportunity-black-book-interactive-project/?utm_source=rss&utm_medium=rss&utm_campaign=opportunity-black-book-interactive-project",
+          "publishedOn": "2022-12-15T20:33:01.000Z",
+          "wordCount": null,
+          "title": "OPPORTUNITY: Black Book Interactive Project"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125400",
+          "author": "John Russell",
+          "description": "The ACRL Digital Scholarship Section (DSS) is currently seeking applications for two liaison positions: Liaison to ACH One liaison will serve a two-year term (May 2023-June 2025) as the ACRL liaison to the Association for Computing and the Humanities (ACH) as part of the ACRL Liaisons Program. This is a new liaison position to ACH. ...read more",
+          "link": "https://dhandlib.org/2022/12/15/opportunity-acrl-digital-scholarship-section-liaison-positions/?utm_source=rss&utm_medium=rss&utm_campaign=opportunity-acrl-digital-scholarship-section-liaison-positions",
+          "publishedOn": "2022-12-15T20:32:19.000Z",
+          "wordCount": null,
+          "title": "OPPORTUNITY: ACRL Digital Scholarship Section Liaison Positions"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125376",
+          "author": "John Russell",
+          "description": "From the announcement: The Purdue Libraries seek an Assistant Professor who will join a vibrant group of faculty in the Purdue University Libraries and School of Information Studies to teach and apply innovative digital methods to humanistic research questions. The faculty member will teach courses that contribute to the Libraries’ co-sponsored graduate and undergraduate certificates ...read more",
+          "link": "https://dhandlib.org/2022/12/15/job-assistant-professor-digital-humanities-purdue/?utm_source=rss&utm_medium=rss&utm_campaign=job-assistant-professor-digital-humanities-purdue",
+          "publishedOn": "2022-12-15T20:31:31.000Z",
+          "wordCount": null,
+          "title": "JOB: Assistant Professor, Digital Humanities (Purdue)"
+        },
+        {
+          "id": "https://dhandlib.org/?p=125374",
+          "author": "John Russell",
+          "description": "From the announcement: The Digital Scholarship Librarian plays a critical role in the development and delivery of digital scholarship programs and services to the UIC community. This position will provide instruction, consults, and training to UIC faculty and students in support of digital scholarship and digital humanities research methods. This position reports to Head of ...read more",
+          "link": "https://dhandlib.org/2022/12/15/job-clinical-assistant-professor-and-digital-scholarship-librarian-u-illinois-chicago/?utm_source=rss&utm_medium=rss&utm_campaign=job-clinical-assistant-professor-and-digital-scholarship-librarian-u-illinois-chicago",
+          "publishedOn": "2022-12-15T20:30:11.000Z",
+          "wordCount": null,
+          "title": "JOB: Clinical Assistant Professor and Digital Scholarship Librarian (U Illinois Chicago)"
+        },
+        {
           "id": "https://dhandlib.org/?p=125224",
           "author": "Rachel Starry",
           "description": "Published earlier in 2022, the collaboratively authored and edited Data Primer: Making Digital Humanities Research Data Public (Felicity Tayler; Marjorie Mitchell; Chantal Ripp; and Pascale Dangoisse) provides an overview of current practices around data management and curation for digital humanities practitioners. Book Description Data management and curation are important processes for digital humanists: without proper ...read more",
@@ -1345,6 +1453,15 @@
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
       "articles": [
+        {
+          "id": "https://dhcenter-unil-epfl.ch/?p=12115",
+          "author": "Heloise schibler",
+          "description": "Dans le dernier numéro de l’uniscope, le magazine du campus de l’UNIL, un article présente les recherches de Guillaume Guenat, collaborateur du GameLab UNIL-EPFL, doctorant en sciences sociales et membre du dhCenter. SimCity, RollerCoaster Tycoon, Planet Zoo… Nombreux sont celles et ceux qui ont un jour aligné routes, bâtiments et autres infrastructures sur ordinateur ou […]\nThe post Les idéologies cachées dans les jeux vidéo de construction appeared first on dhCenter.",
+          "link": "https://dhcenter-unil-epfl.ch/en/2022/12/15/les-ideologies-cachees-dans-les-jeux-video-de-construction/",
+          "publishedOn": "2022-12-15T14:53:24.000Z",
+          "wordCount": 482,
+          "title": "Les idéologies cachées dans les jeux vidéo de construction"
+        },
         {
           "id": "https://dhcenter-unil-epfl.ch/?p=12079",
           "author": "Heloise schibler",
@@ -5571,33 +5688,6 @@
           "publishedOn": "2022-06-23T06:11:35.000Z",
           "wordCount": 49,
           "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/06/19/main-changes-to.html",
-          "author": null,
-          "description": "Main changes to individual Trove newspapers last week:\n+19,862 articles in Daily News (WA)\nSee: github.com/wragge/tr…",
-          "link": "https://updates.timsherratt.org/2022/06/19/main-changes-to.html",
-          "publishedOn": "2022-06-19T03:53:44.000Z",
-          "wordCount": 45,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/06/19/changes-to-trove.html",
-          "author": null,
-          "description": "Changes to Trove newspapers last week:\n+86,761 articles\nSee: github.com/wragge/tr…",
-          "link": "https://updates.timsherratt.org/2022/06/19/changes-to-trove.html",
-          "publishedOn": "2022-06-19T03:47:32.000Z",
-          "wordCount": 38,
-          "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/06/19/files-were-digitised.html",
-          "author": null,
-          "description": "42,472 files were digitised by the National Archives of Australia last week.\n36,238 of these were migrant registration cards from Bonegilla (A2571 & A2572).\nHere’s a screenshot of the top twenty series. More info: github.com/wragge/na…",
-          "link": "https://updates.timsherratt.org/2022/06/19/files-were-digitised.html",
-          "publishedOn": "2022-06-19T03:41:52.000Z",
-          "wordCount": 51,
-          "title": "Untitled"
         }
       ]
     },
@@ -5605,7 +5695,98 @@
       "title": "AEOLIAN Network",
       "feedUrl": "https://www.aeolian-network.net/feed",
       "siteUrl": "https://www.aeolian-network.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.aeolian-network.net/?p=741",
+          "author": "AEOLIAN",
+          "description": "Glen Layne-Worthey, J. Stephen Downie (HathiTrust, University of Illinois) and members of the AEOLIAN team introduce Day 1 of the AEOLIAN Workshop 5: Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th and Wednesday […]",
+          "link": "https://www.aeolian-network.net/workshop-5-introduction-to-day-1/",
+          "publishedOn": "2022-12-15T11:16:37.000Z",
+          "wordCount": 285,
+          "title": "Workshop 5: Introduction to Day 1"
+        },
+        {
+          "id": "https://www.aeolian-network.net/?p=762",
+          "author": "AEOLIAN",
+          "description": "Jill Naiman (University of Illinois Urbana-Champaign) “Document Layout Analysis for Scientific Article Figure & Caption Extraction” at the AEOLIAN Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th and Wednesday 30 November 2022. Hosted by […]",
+          "link": "https://www.aeolian-network.net/workshop-5-jill-naiman-document-layout-analysis-for-scientific-article-figure-caption-extraction/",
+          "publishedOn": "2022-12-15T11:12:45.000Z",
+          "wordCount": 297,
+          "title": "Workshop 5: Jill Naiman, ‘Document Layout Analysis for Scientific Article Figure & Caption Extraction’"
+        },
+        {
+          "id": "https://www.aeolian-network.net/?p=764",
+          "author": "AEOLIAN",
+          "description": "Hema Natarajan (Benetech Corporation) “Making Math Accessible, One Image at a Time” at the AEOLIAN Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th and Wednesday 30 November 2022. Hosted by the HathiTrust Research Centre, […]",
+          "link": "https://www.aeolian-network.net/workshop-5-heme-natarajan-making-math-accessible-one-image-at-a-time/",
+          "publishedOn": "2022-12-15T11:11:17.000Z",
+          "wordCount": 289,
+          "title": "Workshop 5: Heme Natarajan, ‘Making Math Accessible, One Image at a Time’"
+        },
+        {
+          "id": "https://www.aeolian-network.net/?p=766",
+          "author": "AEOLIAN",
+          "description": "Undergraduate Research Showcase (lightning talks): Morgan Cosillo on OCR post-correction with NLP machine learning model, at the AEOLIAN Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th and Wednesday 30 November 2022. Hosted by the […]",
+          "link": "https://www.aeolian-network.net/workshop-5-undergraduate-research-showcase-morgan-cosillo/",
+          "publishedOn": "2022-12-15T11:10:09.000Z",
+          "wordCount": 284,
+          "title": "Workshop 5: Undergraduate Research Showcase – Morgan Cosillo"
+        },
+        {
+          "id": "https://www.aeolian-network.net/?p=768",
+          "author": "AEOLIAN",
+          "description": "Undergraduate Research Showcase (lightning talks): Rushdan Jimoh on natural and artificial “page aging” processes for machine learning, at the AEOLIAN Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th and Wednesday 30 November 2022. Hosted […]",
+          "link": "https://www.aeolian-network.net/workshop-5-undergraduate-research-showcase-rushdan-jimoh/",
+          "publishedOn": "2022-12-15T11:00:00.000Z",
+          "wordCount": 286,
+          "title": "Workshop 5: Undergraduate Research Showcase – Rushdan Jimoh"
+        },
+        {
+          "id": "https://www.aeolian-network.net/?p=772",
+          "author": "AEOLIAN",
+          "description": "Nikolaus Parulian and Glen Layne-Worthey (University of Illinois) “Machine Learning to Identify Creative Content and Paratext at the Page Level” at the AEOLIAN Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th and Wednesday 30 November 2022. […]",
+          "link": "https://www.aeolian-network.net/workshop-5-nikolaus-parulian-and-glen-layne-worthey-machine-learning-to-identify-creative-content-and-paratext-at-the-page-level/",
+          "publishedOn": "2022-12-15T10:56:34.000Z",
+          "wordCount": 311,
+          "title": "Workshop 5: Nikolaus Parulian and Glen Layne-Worthey, ‘Machine Learning to Identify Creative Content and Paratext at the Page Level’"
+        },
+        {
+          "id": "https://www.aeolian-network.net/?p=774",
+          "author": "AEOLIAN",
+          "description": "Peter Organisciak (University of Denver) “Neural Nets to Identify Work Relationships in HathiTrust” at the AEOLIAN Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th and Wednesday 30 November 2022. Hosted by the HathiTrust Research […]",
+          "link": "https://www.aeolian-network.net/workshop-5-peter-organisciak-neural-nets-to-identify-work-relationships-in-hathitrust/",
+          "publishedOn": "2022-12-15T10:55:50.000Z",
+          "wordCount": 290,
+          "title": "Workshop 5: Peter Organisciak, ‘Neural Nets to Identify Work Relationships in HathiTrust’"
+        },
+        {
+          "id": "https://www.aeolian-network.net/?p=777",
+          "author": "AEOLIAN",
+          "description": "Glen Layne-Worthey, J. Stephen Downie and members of the AEOLIAN team give a Summary of Day 1, and Introduction to Day 2 topics at the AEOLIAN Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th […]",
+          "link": "https://www.aeolian-network.net/workshop-5-introduction-to-day-2/",
+          "publishedOn": "2022-12-15T10:53:44.000Z",
+          "wordCount": 288,
+          "title": "Workshop 5: Introduction to Day 2"
+        },
+        {
+          "id": "https://www.aeolian-network.net/?p=780",
+          "author": "AEOLIAN",
+          "description": "Janet Swatscheno (HathiTrust Research Center, University of Michigan) Tutorial: “HathiTrust Extracted Features for Machine Learning” at the AEOLIAN Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th and Wednesday 30 November 2022. Hosted by the […]",
+          "link": "https://www.aeolian-network.net/workshop-5-janet-swatscheno-tutorial-hathitrust-extracted-features-for-machine-learning/",
+          "publishedOn": "2022-12-15T10:53:00.000Z",
+          "wordCount": 290,
+          "title": "Workshop 5: Janet Swatscheno, ‘Tutorial: HathiTrust Extracted Features for Machine Learning’"
+        },
+        {
+          "id": "https://www.aeolian-network.net/?p=782",
+          "author": "AEOLIAN",
+          "description": "Julian Schröter (Universität Würzburg and University of Illinois) “Modeling prototypicality of genre concepts with machine learning and the c@1-score” at the AEOLIAN Workshop 5: Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences, which took place on Tuesday 29th and Wednesday 30 November […]",
+          "link": "https://www.aeolian-network.net/workshop-5-julian-schroter-modeling-prototypicality-of-genre-concepts-with-machine-learning-and-the-c1-score/",
+          "publishedOn": "2022-12-15T10:52:18.000Z",
+          "wordCount": 302,
+          "title": "Workshop 5: Julian Schröter, ‘Modeling prototypicality of genre concepts with machine learning and the c@1-score’"
+        }
+      ]
     },
     {
       "title": "C2DH | Luxembourg Centre for Contemporary and Digital History",
