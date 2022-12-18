@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-12-17T08:04:16.046Z</updated>
+    <updated>2022-12-18T08:03:56.028Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -11492,90 +11492,6 @@ You are welcome to submit a news item with CLARIN-related news (or call for pape
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CLARIN at LREC2022: Wednesday 22]]></title>
-        <id>5751 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/clarin-lrec2022-wednesday-22"/>
-        <updated>2022-06-21T17:03:22.000Z</updated>
-        <summary type="html"><![CDATA[CLARIN at LREC2022: Wednesday 22
-
-            
- You can see today's CLARIN presence at LREC2022 below. To consult the full schedule of CLARIN's presence at LREC2022 click here.
-9:30 - 10:50 (Poster Area 2)
- 
-
-
-Session P14: Corpora and Annotation (2)
- 
-	Chair: Ogrodniczuk, Maciej
-ALIGNMEET: A Comprehensive Tool for Meeting Annotation, Alignment, and Evaluation (Peter Polák, Muskaan Singh, Anna Nedoluzhko and Ondřej Bojar)
-Spoken Language Treebanks in Universal Dependencies: an Overview (Kaja Dobrovoljc)
-11:10 - 12:30 (Poster Area 1)
- 
-
-
-Session P18: Corpora and Annotation (3)  
-Evolving Large Text Corpora: Four Versions of the Icelandic Gigaword Corpus (Starkaður Barkarson, Steinþór Steingrímsson, Hildur Hafsteinsdóttir)
-
-
-
-15:15 - 16:35 (Poster Area 2)
- 
-
-
-Session P22: Lexicons (2)
- 
-	Chair: Yildiz, Olcay Taner
-Constructing a Lexical Resource of Russian Derivational Morphology (Lukáš Kyjánek, Olga Lyashevskaya, Anna Nedoluzhko, Daniil Vodolazsky and Zdeněk Žabokrtský)
-
-
-
-
-15:15 - 16:35 (Poster Area 2)
- 
-
-
-
-Session P26: Dialogue and
-Conversational Systems (2)
-ELITR Minuting Corpus: A Novel Dataset for Automatic Minuting from Multi-Party Meetings in English and Czech (Anna Nedoluzhko, Muskaan Singh, Marie Hledíková, Tirthankar Ghosal and Ondřej Bojar)
-
-
-
-15:15 - 16:35 (Poster Area 2)
- 
-
-
-Session: P24 - Evaluation and Validation Methodologies (2)
- 
-	Chair: Zeldes, Amir
-Quality and Efficiency of Manual Annotation: Pre-annotation Bias
-16:55 - 18:35 (Poster Area 1)
-Session P27: Corpora and Annotation (4)
- 
-Chair: Pęzik, Piotr  
-The Bulgarian Event Corpus: Overview and Initial NER Experiments (Petya Osenova, Kiril Simov, Iva Marinova and Melania Berbatova)
-
-
-
-
-
-      Elisa Gorgaini
- 21 June 2022]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biblical Hebrew Reader Generator]]></title>
-        <id>http://digitalorientalist.com/?p=8343</id>
-        <link href="https://digitalorientalist.com/2022/06/21/the-biblical-hebrew-reader-generator/"/>
-        <updated>2022-06-21T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post serves as a quick introduction to a tool I recently found via Twitter: The Biblical Hebrew Reader Generator. …]]></summary>
-        <author>
-            <name>Jonathan Robker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cultural Heritage Data School 2022]]></title>
         <id>https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/cultural-heritage2022/</id>
         <link href="https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/cultural-heritage2022/"/>
@@ -11600,101 +11516,6 @@ The Bulgarian Event Corpus: Overview and Initial NER Experiments (Petya Osenova,
         <updated>2022-06-21T09:46:12.000Z</updated>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARIN at LREC2022: Tuesday 21]]></title>
-        <id>5750 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/clarin-lrec2022-tuesday-21"/>
-        <updated>2022-06-21T05:48:55.000Z</updated>
-        <summary type="html"><![CDATA[CLARIN at LREC2022: Tuesday 21
-
-            
-You can see today's CLARIN presence at LREC2022 below. To consult the full schedule of CLARIN's presence at LREC2022 click here.
- 
-
-
-
-
-
-11:40- 13:00 (Poster Area 1) 
- 
-
-Session P1: Language Resource Infrastructures and Policy issues. Chair: Labropoulou, Penny
-Language Technologies for the Creation of Multilingual Terminologies. Lessons Learned from the SSHOC Project (Federica Gamba, Francesca Frontini, Daan Broeder and Monica Monachini) 
-
-
-
-15:15 - 16:35 (Auditorium)
-Session O5: Language Resource Policies and Management.
-Chair: Di Persio, Denise, Co-Chair: Frontini, Francesca
- Ethical Issues in Language Resources and Language Technology – A Tentative Categorisation (Paweł Kamocki and Andreas Witt) 
-
-
-
-16:55 - 18:15 (Poster Area 1)
-Session P12: Evaluation and Validation Methodologies (1)
-Chair: Refaee, Eshrag Ali A.
-The Subject Annotations of the Danish Parliament Corpus (2009-2017) - Evaluation with Automatic Multi-label Classification. (Costanza Navarretta and Dorte Haltrup Hansen)
-
-
-
-
- 
-Elisa Gorgaini
- 21 June 2022]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors' Note: June 2022]]></title>
-        <id>b191fb9d-f215-4271-842b-2f0438e69d44</id>
-        <link href="https://reviewsindh.pubpub.org/pub/editors-note-june-2022"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the June 2022 issue of Reviews in Digital Humanities]]></summary>
-        <author>
-            <name>Roopika Risam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Baldwin's Paris 2.0]]></title>
-        <id>334b3082-0610-4218-9d5e-ac4876be0fdb</id>
-        <link href="https://reviewsindh.pubpub.org/pub/baldwins-paris"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Baldwin's Paris 2.0, a geospatial project on the writing of James Baldwin, led by Tyechia L. Thompson and Carli Smith]]></summary>
-        <author>
-            <name>Kenton Rambsy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Timeline of Empire]]></title>
-        <id>adc97467-c811-4c7c-8204-a60ad0c7f5f7</id>
-        <link href="https://reviewsindh.pubpub.org/pub/timeline-of-empire"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Timeline of Empire, a student-generated timeline of U.S. empire, directed by Katrina Phillips]]></summary>
-        <author>
-            <name>Jason A. Heppler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Serpentarium Mundi]]></title>
-        <id>5a599a80-857a-4f9e-b07e-ac527e1430cc</id>
-        <link href="https://reviewsindh.pubpub.org/pub/serpentarium-mundi"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Serpentarium Mundi, a digital iconography compendium on serpents and similar reptilian subjects, directed by Alexei Alexeev]]></summary>
-        <author>
-            <name>Andrew Meadows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Newspaper Navigator]]></title>
-        <id>e86411ad-9edf-4838-bd7f-17ee29d5ff2e</id>
-        <link href="https://reviewsindh.pubpub.org/pub/newspaper-navigator"/>
-        <updated>2022-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Newspaper Navigator, a multi-phase project redefining searches for visual data in historic newspapers, directed by Benjamin Charles Germain Lee]]></summary>
-        <author>
-            <name>Lorella Viola</name>
         </author>
     </entry>
     <entry>
