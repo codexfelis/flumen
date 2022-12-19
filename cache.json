@@ -406,15 +406,6 @@
           "publishedOn": "2022-07-25T13:03:12.000Z",
           "wordCount": 1239,
           "title": "Join the ADHO Executive Board and Committees"
-        },
-        {
-          "id": "https://adho.org/2022/06/22/anuncio-del-grupo-de-trabajo-de-inclusion-interseccional-de-la-adho/",
-          "author": "hannah",
-          "description": "English | Italiano El Grupo de trabajo de inclusión interseccional de ADHO (inicialmente el Grupo de trabajo contra el racismo) surge de una necesidad directa y apremiante de abordar las desigualdades sistémicas dentro de ADHO y la comunidad relacionada con sus actividades.* Dichas desigualdades incluyen, entre otros factores, raza, clase, género, (dis)capacidad, casta, tribu, sexualidad,… Read More »Anuncio del grupo de trabajo de inclusión interseccional de la ADHO",
-          "link": "https://adho.org/2022/06/22/anuncio-del-grupo-de-trabajo-de-inclusion-interseccional-de-la-adho/",
-          "publishedOn": "2022-06-22T01:52:44.000Z",
-          "wordCount": 483,
-          "title": "Anuncio del grupo de trabajo de inclusión interseccional de la ADHO"
         }
       ]
     },
@@ -2494,15 +2485,6 @@
           "publishedOn": "2022-06-23T22:57:59.000Z",
           "wordCount": 1034,
           "title": "SFU researchers receive over $6 million to tackle online disinformation, foster data fluencies"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=3985",
-          "author": "Kayla Hilstob",
-          "description": "This was originally posted by Svitlana Matviyenko on the Institute of Network Cultures blog on May 10, 2022. April 13 – May 8, 2022 If you do not know Russian or if …\n  Dispatches from the Place of Imminence by Svitlana Matviyenko, part 9 Read More »\nDispatches from the Place of Imminence by Svitlana Matviyenko, part 9 first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-9/?utm_source=rss&utm_medium=rss&utm_campaign=dispatches-from-the-place-of-imminence-by-svitlana-matviyenko-part-9",
-          "publishedOn": "2022-06-22T17:56:22.000Z",
-          "wordCount": 3181,
-          "title": "Dispatches from the Place of Imminence by Svitlana Matviyenko, part 9"
         }
       ]
     },
@@ -2552,15 +2534,6 @@
           "publishedOn": "2022-06-27T08:00:00.000Z",
           "wordCount": 1016,
           "title": "Digital Humanities Intern – Isabel"
-        },
-        {
-          "id": "https://digitalhumanities.exeter.ac.uk/?p=894",
-          "author": "Gemma Poulton",
-          "description": "Here at the Digital Humanities Lab, we are called upon to photograph a wide range of objects, which means we often have to come up with creative ways to position them our lab copystands. I have recently been working on digitising a set of bound letters, for which I am using the 150MP camera in […]",
-          "link": "https://digitalhumanities.exeter.ac.uk/2022/06/photography-at-the-dh-lab/",
-          "publishedOn": "2022-06-22T11:08:09.000Z",
-          "wordCount": 1378,
-          "title": "Photography at the DH Lab"
         }
       ]
     },
@@ -4405,6 +4378,66 @@
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
         {
+          "id": "85598098-4c79-43d3-9bcc-41029db7e853",
+          "author": "Paul Fyfe",
+          "description": "A review of BibSite, a research and pedagogy clearing house from the Bibliographical Society of America, led by Erin McGuirl, Eric Ensley, Emma Sarconi, and Adriana Cásarez",
+          "link": "https://reviewsindh.pubpub.org/pub/bibsite",
+          "publishedOn": "2022-12-19T00:00:00.000Z",
+          "wordCount": 1159,
+          "title": "Review: BibSite",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/8sazjcqr/71671407467162.png"
+          }
+        },
+        {
+          "id": "ba795d40-1ebc-483f-ae47-ec61b5a85d11",
+          "author": "Samantha Blickhan",
+          "description": "A review of Civic War & Reconstruction Governors of Mississippi, a digital documentary edition of governors' papers, directed by Susannah J. Ural",
+          "link": "https://reviewsindh.pubpub.org/pub/cwrgm",
+          "publishedOn": "2022-12-19T00:00:00.000Z",
+          "wordCount": 1220,
+          "title": "Review: Civil War & Reconstruction Governors of Mississippi",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/3g9mhaqk/71671066068702.png"
+          }
+        },
+        {
+          "id": "cafa1bed-54ee-493c-ab33-365063c63524",
+          "author": "Roopika Risam",
+          "description": "Editors' note on the December 2022 issue of Reviews in Digital Humanities",
+          "link": "https://reviewsindh.pubpub.org/pub/editors-note-december-2022",
+          "publishedOn": "2022-12-19T00:00:00.000Z",
+          "wordCount": 983,
+          "title": "Editors' Note: December 2022",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/shm8n2e2/31671413387523.png"
+          }
+        },
+        {
+          "id": "a9dc37b7-b279-4b38-b55a-b99809f91a7d",
+          "author": "Nabeel Siddiqui",
+          "description": "A review of A Deeper Sickness, an online collection curated by Margaret Peacock and Erik L. Peterson to accompany their book A Deeper Sickness: Journal of America in the Pandemic Year (Beacon Press, 2022)",
+          "link": "https://reviewsindh.pubpub.org/pub/deeper-sickness",
+          "publishedOn": "2022-12-19T00:00:00.000Z",
+          "wordCount": 2033,
+          "title": "Review: A Deeper Sickness",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/u2eos9vu/61671413866309.png"
+          }
+        },
+        {
+          "id": "26e367df-7c6e-421b-9c75-4f2ecefd1a9d",
+          "author": "Matthew F. Delmont",
+          "description": "A review of The American Soldier in World War II, a digital project studying U.S. Army surveys on the experiences of troops in the Second World War, directed by Edward J.K. Gitre",
+          "link": "https://reviewsindh.pubpub.org/pub/american-soldier-wwii",
+          "publishedOn": "2022-12-19T00:00:00.000Z",
+          "wordCount": 1454,
+          "title": "Review: The American Soldier in World War II",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/0fzoopae/61671060845279.png"
+          }
+        },
+        {
           "id": "f9fa6715-f265-4398-8d7e-2bcfe68ced0e",
           "author": "Annemie Behr",
           "description": "A review of MaCleKi, a location-based digital history project that curates historic places in and around Kisumu, Kenya, directed by J. Mark Souther, Meshack Owino, and Erin J. Bell",
@@ -5706,6 +5739,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4325 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Living with Machines is a large interdisciplinary research project that rethinks the impact of technology on the lives of ordinary people during the Industrial Revolution and Britain’s rapid transformation into an industrial society. The 19th century was a dynamic moment in the history of English, with vocabulary undergoing rapid changes.\nTwo different strands of work within the Living with Machines project collaborated to explore how language about machines changed over time. Each strand drew on different disciplinary models for research and practice. Voluntary crowdsourcing (also known as citizen science or citizen history, or crowdsourcing in cultural heritage) and computational linguistics are well-developed fields with established methods and epistemologies.\nThis talk reflects on how …",
+          "link": "https://www.c2dh.uni.lu/events/crowdsourcing-living-machines-crowdsourcing-engagement-meets-data-science-research",
+          "publishedOn": "2022-12-19T07:55:04.000Z",
+          "wordCount": 677,
+          "title": "Crowdsourcing in Living with Machines: crowdsourcing for engagement meets data science research"
+        },
         {
           "id": "4296 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -7503,42 +7545,6 @@
           "publishedOn": "2022-06-30T14:03:47.000Z",
           "wordCount": 455,
           "title": "Governance"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/people/",
-          "publishedOn": "2022-06-22T10:06:58.000Z",
-          "wordCount": 346,
-          "title": "People"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/cultural-heritage2022/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/cultural-heritage2022/",
-          "publishedOn": "2022-06-21T09:46:12.000Z",
-          "wordCount": 2230,
-          "title": "Cultural Heritage Data School 2022"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cultural-heritage2022/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/dataschools/past-data-schools/cultural-heritage2022/",
-          "publishedOn": "2022-06-21T09:46:12.000Z",
-          "wordCount": 2226,
-          "title": "Cultural Heritage Data School 2022"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/cultural-heritage2022/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/cultural-heritage2022/",
-          "publishedOn": "2022-06-21T09:46:12.000Z",
-          "wordCount": 2226,
-          "title": "Cultural Heritage Data School 2022"
         }
       ]
     },
@@ -7807,15 +7813,6 @@
           "publishedOn": "2022-06-23T05:59:48.000Z",
           "wordCount": 349,
           "title": "CLARIN at LREC: Thursday 23"
-        },
-        {
-          "id": "5753 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "CLARIN Newsflash June 2022 is out!\n\n            \n\n  \n  \n            \n  \n\n\n\n      \n\nEvery month, CLARIN publishes a newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.\nRead the most recent CLARIN Newsflash: June 2022 here\nSubscribing to it is the ideal way of staying informed.\nSubscribe here\nPast issues of the CLARIN newsflash\nYou are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.\n\n      Elisa Gorgaini\n 22 June 2022",
-          "link": "https://www.clarin.eu/news/clarin-newsflash-june-2022-out",
-          "publishedOn": "2022-06-22T08:43:19.000Z",
-          "wordCount": 235,
-          "title": "CLARIN Newsflash June 2022 is out!"
         }
       ]
     },
