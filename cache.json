@@ -1848,24 +1848,6 @@
           "publishedOn": "2022-07-07T11:05:23.000Z",
           "wordCount": 545,
           "title": "Call: Journal of Visual Culture Early Career Researcher Prize"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11208",
-          "author": "Heloise schibler",
-          "description": "Trois congrès internationaux dans le domaine de l’éducation et de la formation, habituellement organisés de façon indépendante, seront réuni à l’Université de Lausanne en septembre 2022 lors de la semaine internationale de l’éducation et de la formation (SIEF). Le format de cet événement vise à favoriser le dialogue entre les différentes disciplines, institutions et espaces […]\nThe post Éducation et formation : inclusion, numérique et bien-être appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/06/30/education-et-formation-inclusion-numerique-et-bien-etre/",
-          "publishedOn": "2022-06-30T13:40:50.000Z",
-          "wordCount": 562,
-          "title": "Éducation et formation : inclusion, numérique et bien-être"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11198",
-          "author": "Heloise schibler",
-          "description": "Le projet “Égalité de genre et transformation numérique” est le fruit d’une collaboration entre le Bureau de l’égalité de l’UNIL, le Bureau de l’égalité de l’EPFL, la HES-SO, la HEG-FR, le dhCenter UNIL-EPFL et l’association StrukturELLE. Il est soutenu par Swissuniversities, dans le cadre du programme de financement de projets P7 “Diversité, inclusion et égalité […]\nThe post Égalité de genre et transformation numérique appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/06/30/egalite-de-genre-et-transformation-numerique/",
-          "publishedOn": "2022-06-30T09:19:58.000Z",
-          "wordCount": 653,
-          "title": "Égalité de genre et transformation numérique"
         }
       ]
     },
@@ -3682,6 +3664,15 @@
       "feedUrl": "https://openhumanitiesdata.metajnl.com/rss",
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
+        {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.94",
+          "author": null,
+          "description": "The TRANSCOMP Dataset of Literary Translations is a collection of document-level word frequencies sampled from 10,631 translations into English of global literary fiction published since 1950, together with a historically matched parallel corpus of 10,682 fictional works originally published in English. We provide CSV files with word frequency counts for 10,000-word samples taken from each text. The associated metadata is available in a separate CSV. These data will be useful to literary scholars and linguists working in translation studies, and those interested in the linguistic, stylistic, and thematic specificity of translations from particular regions.\n Published on 2022-12-26 09:39:14",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.94",
+          "publishedOn": "2022-12-27T08:04:24.014Z",
+          "wordCount": 2915,
+          "title": "The TRANSCOMP Dataset of Literary Translations from 120 Languages and a Parallel Collection of English-language Originals"
+        },
         {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.93",
           "author": null,
@@ -7522,24 +7513,6 @@
           "publishedOn": "2022-07-14T15:16:12.000Z",
           "wordCount": 542,
           "title": "An introduction to Exhibit.so platform"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/",
-          "author": null,
-          "description": "Over his lifetime, Charles Darwin generated an enormous written archive and amassed a wide array of specimens and objects. Much of this is now housed amongst the various collections at the University of Cambridge. Cambridge University Library houses an archive of Darwin’s personal and scientific manuscripts that occupy sixty linear metres of shelving. Work is",
-          "link": "https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/",
-          "publishedOn": "2022-06-30T15:48:26.000Z",
-          "wordCount": 1010,
-          "title": "Dimensions of Darwin"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/governance/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/governance/",
-          "publishedOn": "2022-06-30T14:03:47.000Z",
-          "wordCount": 455,
-          "title": "Governance"
         }
       ]
     },
@@ -8660,15 +8633,6 @@
           "publishedOn": "2022-07-01T11:42:06.000Z",
           "wordCount": 4001,
           "title": "Open Educational Resources in the UK"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=12173",
-          "author": "Melanie Cheung",
-          "description": "IARLA (ARL, CARL, CAUL, LIBER and RLUK) hosted an online event on 14 June 2022 on the Great Resignation. Over 100 individuals attended from Australia, Canada, Europe, the United Kingdom and the United States. In a wide-ranging discussion, panelists and delegates shared their views and opinions regarding the talent crunch for research libraries, how [...]\nThe post IARLA – The Great Resignation era: attracting and retaining library talent appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/iarla-the-great-resignation-era-attracting-and-retaining-library-talent/",
-          "publishedOn": "2022-06-30T10:48:47.000Z",
-          "wordCount": 1488,
-          "title": "IARLA – The Great Resignation era: attracting and retaining library talent"
         }
       ]
     },
