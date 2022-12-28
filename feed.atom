@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2022-12-27T08:04:40.429Z</updated>
+    <updated>2022-12-28T08:03:51.078Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Critical Introduction to the Repository of Digital Humanities Resources for Early Modern Japanese Literature]]></title>
+        <id>http://digitalorientalist.com/?p=9568</id>
+        <link href="https://digitalorientalist.com/2022/12/27/a-critical-introduction-to-the-repository-of-digital-humanities-resources-for-early-modern-japanese-literature/"/>
+        <updated>2022-12-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Turn in Early Modern Japanese Studies was held from the 2nd to the 4th of December 2022. The …]]></summary>
+        <author>
+            <name>James Harry Morris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The TRANSCOMP Dataset of Literary Translations from 120 Languages and a Parallel Collection of English-language Originals]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.94</id>
@@ -778,6 +788,15 @@ The post Les idéologies cachées dans les jeux vidéo de construction appeared 
         <id>https://www.cdh.cam.ac.uk/mphil/teaching-and-assessment/</id>
         <link href="https://www.cdh.cam.ac.uk/mphil/teaching-and-assessment/"/>
         <updated>2022-12-14T18:24:56.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governance]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/governance/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/governance/"/>
+        <updated>2022-12-14T18:24:55.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
@@ -11314,59 +11333,6 @@ The post The Norwegian Trident – Three New Public Models For Norwegian (& Dani
         <summary type="html"><![CDATA[What a year! I have loved working at the Digital Humanities Lab over my third year at Exeter – I have had the opportunity to try so many different activities and have seen a side of the History Faculty and Department I would not normally get to experience as a student. Most enlightening has been […]]]></summary>
         <author>
             <name>Gemma Poulton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors, Contributors, and What we do at the Digital Orientalist]]></title>
-        <id>http://digitalorientalist.com/?p=8459</id>
-        <link href="https://digitalorientalist.com/2022/07/01/editors-contributors-and-what-we-do-at-the-digital-orientalist/"/>
-        <updated>2022-07-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A driving idea behind our magazine is direct experience: If you want to learn DH, why not immediately write about …]]></summary>
-        <author>
-            <name>maddalena poli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Educational Resources in the UK]]></title>
-        <id>https://www.rluk.ac.uk/?p=12182</id>
-        <link href="https://www.rluk.ac.uk/oers-in-the-uk/"/>
-        <updated>2022-07-01T11:42:06.000Z</updated>
-        <summary type="html"><![CDATA[I was recently asked to speak at the sherif event Open Educational Resources: a viable solution? I took the opportunity to look back at the headline history of OER advocacy and activity internationally with a view to see how these might inform the future of OERs in the UK. As a long-term [...]
-The post Open Educational Resources in the UK appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Virtual Coffee Morning: July]]></title>
-        <id>1530 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-virtual-coffee-morning-july"/>
-        <updated>2022-07-01T09:18:48.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-27 Jul 2022
-
-
-Location: 
-
-Zoom
-
-
-
-July’s coffee morning will take place on Wednesday 27 of July at 10.00 am for forty-five minutes. This extended coffee morning will be hosted by DRI members Joe Lee (Joe Lee Community Films), and Emma Bowell (Cork Community Media Hub) who will be discussing the digital preservation of audio-visual material.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dimensions of Darwin]]></title>
-        <id>https://www.cdh.cam.ac.uk/?p=34960</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/dimensions-of-darwin/"/>
-        <updated>2022-06-30T13:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Over his lifetime, Charles Darwin generated an enormous written archive and amassed a wide array of specimens and objects. Much of this is now housed amongst the various collections at the University of Cambridge. Cambridge University Library houses an archive of Darwin’s personal and scientific manuscripts that occupy sixty linear metres of shelving. Work is […]
-The post Dimensions of Darwin first appeared on CDH.]]></summary>
-        <author>
-            <name>Heather Stallard</name>
         </author>
     </entry>
     <entry>
