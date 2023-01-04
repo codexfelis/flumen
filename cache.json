@@ -37,15 +37,6 @@
           "publishedOn": "2022-10-25T11:03:37.000Z",
           "wordCount": 364,
           "title": "Job Alert – Lecturer in Digital Methods in the Humanities"
-        },
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8269",
-          "author": "Adam Crymble",
-          "description": "My postgraduate digital humanities students are working away diligently on their dissertations, but understandably they’ve also got one eye on what might come next. For most of them, that means a transition into the world of work. With a great set of interdisciplinary skills, the ability to talk tech, and an aptitude for humanistic ways […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2022/07/08/looking-for-dh-jobs-in-london-2022/",
-          "publishedOn": "2022-07-08T15:57:54.000Z",
-          "wordCount": 763,
-          "title": "Looking for DH Jobs in London 2022"
         }
       ]
     },
@@ -557,24 +548,6 @@
           "link": "https://caa-international.org/2022/08/14/call-for-open-esc-positions-3/",
           "publishedOn": "2022-08-14T20:39:25.000Z",
           "wordCount": 144,
-          "title": "Call for Open ESC Positions"
-        },
-        {
-          "id": "https://sites.caa-international.org/main/?p=16187",
-          "author": "Jeffrey Glover",
-          "description": "The CAA is looking for volunteers to help fill Outreach, Editorial Board, Ethics, and Scientific Committee positions. Review of applications will begin immediately and continue until the positions are filled. If you are interested, please look at the details in … Continue reading →",
-          "link": "https://caa-international.org/2022/07/07/call-for-open-volunteer-positions/",
-          "publishedOn": "2022-07-07T22:32:14.000Z",
-          "wordCount": 161,
-          "title": "Call for Open Volunteer Positions"
-        },
-        {
-          "id": "https://sites.caa-international.org/main/?p=16181",
-          "author": "Jeffrey Glover",
-          "description": "The Secretary and Membership Secretary positions are up for election. Both current officers are willing to stand for another term. If you are interested in running for one of these positions, please consult the attached pdf and contact the CAA … Continue reading →",
-          "link": "https://caa-international.org/2022/07/07/call-for-open-esc-positions-2/",
-          "publishedOn": "2022-07-07T21:10:35.000Z",
-          "wordCount": 169,
           "title": "Call for Open ESC Positions"
         }
       ]
@@ -2373,15 +2346,6 @@
           "publishedOn": "2022-07-10T14:58:51.000Z",
           "wordCount": 1079,
           "title": "2 Stellenangebote: WMA (Institut für Erziehungswissenschaft, Uni Tuebingen)"
-        },
-        {
-          "id": "node/833",
-          "author": "406",
-          "description": "Am 17. Juli 2022 jährt sich die Gründung des DHd-Verbands in Hamburg zum 10. Mal! Aus diesem freudigen Anlass wollen wir mit der Community unter dem Motto „Der DHd-Verband feiert…",
-          "link": "https://dig-hum.de/aktuelles/aufruf-zur-blogparade-zum-10-jahrestag-der-gr%C3%BCndung-des-dhd-verbands-dhd10",
-          "publishedOn": "2022-07-08T11:21:39.000Z",
-          "wordCount": 944,
-          "title": "Aufruf zur Blogparade zum 10. Jahrestag der Gründung des DHd-Verbands #DHd10"
         }
       ]
     },
@@ -2488,6 +2452,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=9600",
+          "author": "Alice Casalini",
+          "description": "After my recent deep dive into Toyo Bunko, in this post I will talk about another great digital tool for …",
+          "link": "https://digitalorientalist.com/2023/01/03/old-maps-online-mapping-sites-and-siting-maps/",
+          "publishedOn": "2023-01-03T14:00:00.000Z",
+          "wordCount": 1477,
+          "title": "Old Maps Online: mapping sites and siting maps"
+        },
         {
           "id": "http://digitalorientalist.com/?p=9593",
           "author": "The Digital Orientalist",
@@ -3593,15 +3566,6 @@
           "publishedOn": "2022-08-01T08:52:00.000Z",
           "wordCount": 383,
           "title": "Living with Machines present some of their research to date at the Turing catch-up"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=2554",
-          "author": "Léllé Demertzi",
-          "description": "Living with Machines invites you to join us for two events with Professor Jo Guldi, where you will hear first hand from one of the world’s leading digital humanists. During this event, you will get insights into recently published historical research on global land rights and land reform and understand more about how the humanities […]",
-          "link": "https://livingwithmachines.ac.uk/humanity-and-technology-in-conversation-with-jo-guldi/?utm_source=rss&utm_medium=rss&utm_campaign=humanity-and-technology-in-conversation-with-jo-guldi",
-          "publishedOn": "2022-07-08T08:29:00.000Z",
-          "wordCount": 735,
-          "title": "Humanity and technology: In conversation with Jo Guldi"
         }
       ]
     },
@@ -5994,6 +5958,33 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/events/35881/",
+          "author": null,
+          "description": "This public event will address pervasive colonial thought and its practises in the GLAM sector. We will showcase innovative projects and ideas that have the potential to change how the Digital Humanities are understood today, and to imagine new scenarios for the Digital Humanities beyond the extractive and domination tendencies of the digital industries of",
+          "link": "https://www.cdh.cam.ac.uk/events/35881/",
+          "publishedOn": "2023-01-03T15:47:13.000Z",
+          "wordCount": 349,
+          "title": "Anti-Colonial Futures for Digital Humanities"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/dataschools/past-data-schools/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/dataschools/past-data-schools/",
+          "publishedOn": "2023-01-03T12:35:16.000Z",
+          "wordCount": 332,
+          "title": "Past Data Schools"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/dataschools/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/dataschools/",
+          "publishedOn": "2023-01-03T12:32:52.000Z",
+          "wordCount": null,
+          "title": "Cambridge Data Schools"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/events/35868/",
           "author": null,
           "description": "Workshop Tutor: Maciej Pawlikowski, Head of Digital Content Unit, Cambridge University Library Following the introductory Methods Workshops, held on 7th November 2022 or 27th February 2023, this session will focus on how to adopt the principles to the projects chosen by the participants. This will cover learning a practical approach to taking images fit for",
@@ -8265,15 +8256,6 @@
           "publishedOn": "2022-07-12T10:14:50.000Z",
           "wordCount": 1991,
           "title": "Using digital archives for historical research: Collections relating to tobacco in DRI"
-        },
-        {
-          "id": "1533 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that the all-Ireland research project, OS200: Digitally Re-Mapping Ireland’s Ordnance Survey Heritage, has joined DRI as our fortieth member",
-          "link": "https://www.dri.ie/dri-welcomes-os200-new-member",
-          "publishedOn": "2022-07-08T13:28:12.000Z",
-          "wordCount": 979,
-          "title": "DRI Welcomes OS200 as a New Member"
         }
       ]
     },

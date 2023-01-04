@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-01-03T08:04:07.020Z</updated>
+    <updated>2023-01-04T08:04:11.891Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anti-Colonial Futures for Digital Humanities]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35881/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35881/"/>
+        <updated>2023-01-03T15:47:13.000Z</updated>
+        <summary type="html"><![CDATA[This public event will address pervasive colonial thought and its practises in the GLAM sector. We will showcase innovative projects and ideas that have the potential to change how the Digital Humanities are understood today, and to imagine new scenarios for the Digital Humanities beyond the extractive and domination tendencies of the digital industries of]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Maps Online: mapping sites and siting maps]]></title>
+        <id>http://digitalorientalist.com/?p=9600</id>
+        <link href="https://digitalorientalist.com/2023/01/03/old-maps-online-mapping-sites-and-siting-maps/"/>
+        <updated>2023-01-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After my recent deep dive into Toyo Bunko, in this post I will talk about another great digital tool for …]]></summary>
+        <author>
+            <name>Alice Casalini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Past Data Schools]]></title>
+        <id>https://www.cdh.cam.ac.uk/dataschools/past-data-schools/</id>
+        <link href="https://www.cdh.cam.ac.uk/dataschools/past-data-schools/"/>
+        <updated>2023-01-03T12:35:16.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cambridge Data Schools]]></title>
+        <id>https://www.cdh.cam.ac.uk/dataschools/</id>
+        <link href="https://www.cdh.cam.ac.uk/dataschools/"/>
+        <updated>2023-01-03T12:32:52.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clôture du dhCenter UNIL-EPFL / Closing of the UNIL-EPFL dhCenter]]></title>
         <id>https://dhcenter-unil-epfl.ch/?p=12095</id>
@@ -11110,66 +11148,6 @@ Akademische Mitarbeiter:innen (Promotion)
         <summary type="html"><![CDATA[Coz I love making work for myself, I’ve started pulling datasets out of #GLAMWorkbench code repos & creating new data repos for them. This way they’ll have their own version histories in Zenodo. Here’s the first: github.com/GLAM-Work…]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for DH Jobs in London 2022]]></title>
-        <id>https://blogs.ucl.ac.uk/dh/?p=8269</id>
-        <link href="https://blogs.ucl.ac.uk/dh/2022/07/08/looking-for-dh-jobs-in-london-2022/"/>
-        <updated>2022-07-08T15:57:54.000Z</updated>
-        <summary type="html"><![CDATA[My postgraduate digital humanities students are working away diligently on their dissertations, but understandably they’ve also got one eye on what might come next. For most of them, that means a transition into the world of work. With a great set of interdisciplinary skills, the ability to talk tech, and an aptitude for humanistic ways […]]]></summary>
-        <author>
-            <name>Adam Crymble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Welcomes OS200 as a New Member]]></title>
-        <id>1533 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-welcomes-os200-new-member"/>
-        <updated>2022-07-08T13:28:12.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that the all-Ireland research project, OS200: Digitally Re-Mapping Ireland’s Ordnance Survey Heritage, has joined DRI as our fortieth member]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aufruf zur Blogparade zum 10. Jahrestag der Gründung des DHd-Verbands #DHd10]]></title>
-        <id>node/833</id>
-        <link href="https://dig-hum.de/aktuelles/aufruf-zur-blogparade-zum-10-jahrestag-der-gr%C3%BCndung-des-dhd-verbands-dhd10"/>
-        <updated>2022-07-08T11:21:39.000Z</updated>
-        <summary type="html"><![CDATA[Am 17. Juli 2022 jährt sich die Gründung des DHd-Verbands in Hamburg zum 10. Mal! Aus diesem freudigen Anlass wollen wir mit der Community unter dem Motto „Der DHd-Verband feiert…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humanity and technology: In conversation with Jo Guldi]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=2554</id>
-        <link href="https://livingwithmachines.ac.uk/humanity-and-technology-in-conversation-with-jo-guldi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=humanity-and-technology-in-conversation-with-jo-guldi"/>
-        <updated>2022-07-08T08:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Living with Machines invites you to join us for two events with Professor Jo Guldi, where you will hear first hand from one of the world’s leading digital humanists. During this event, you will get insights into recently published historical research on global land rights and land reform and understand more about how the humanities […]]]></summary>
-        <author>
-            <name>Léllé Demertzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Open Volunteer Positions]]></title>
-        <id>https://sites.caa-international.org/main/?p=16187</id>
-        <link href="https://caa-international.org/2022/07/07/call-for-open-volunteer-positions/"/>
-        <updated>2022-07-07T22:32:14.000Z</updated>
-        <summary type="html"><![CDATA[The CAA is looking for volunteers to help fill Outreach, Editorial Board, Ethics, and Scientific Committee positions. Review of applications will begin immediately and continue until the positions are filled. If you are interested, please look at the details in … Continue reading →]]></summary>
-        <author>
-            <name>Jeffrey Glover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Open ESC Positions]]></title>
-        <id>https://sites.caa-international.org/main/?p=16181</id>
-        <link href="https://caa-international.org/2022/07/07/call-for-open-esc-positions-2/"/>
-        <updated>2022-07-07T21:10:35.000Z</updated>
-        <summary type="html"><![CDATA[The Secretary and Membership Secretary positions are up for election. Both current officers are willing to stand for another term. If you are interested in running for one of these positions, please consult the attached pdf and contact the CAA … Continue reading →]]></summary>
-        <author>
-            <name>Jeffrey Glover</name>
         </author>
     </entry>
     <entry>
