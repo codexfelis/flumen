@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-01-04T08:04:11.891Z</updated>
+    <updated>2023-01-05T08:03:40.644Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Practices in Coding for Digital Humanities]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35916/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35916/"/>
+        <updated>2023-01-04T16:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Mary Chester-Kadwell - Lead Research Software Engineer, Cambridge Digital Humanities Please note this workshop has limited spaces and an application process in place. Application forms should be completed by noon, Sunday, 12 March 2023. Successful applicants will be notified by the end-of-day Friday, 17 March 2023. This course introduces best practices and techniques to help you]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning for Investigations]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35913/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35913/"/>
+        <updated>2023-01-04T15:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Governments and big corporations are, in many cases, abusing the use of machine learning. But citizen organisations and journalists are finding creative ways of making the most of machine learning to conduct investigations in the public interest. The problem of abundance of available information has been met with the use of machines to process and]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping Wikipedia to Analyze XBOX Game Development Companies by Nationality]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=8346</id>
+        <link href="https://sites.temple.edu/tudsc/2023/01/04/web-scraping-to-measure-developer-nationality-on-xbox-games/"/>
+        <updated>2023-01-04T15:14:22.000Z</updated>
+        <summary type="html"><![CDATA[By T.A. Spiro-Costello Introduction Working on the Cultural Analytics Certificate program exposed me to a lot of the best work in digital humanities scholarship.  Two fields that jumped out at me were...]]></summary>
+        <author>
+            <name>Trystram Spiro-Costello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities Hackathons]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/digital-humanities-hackathons/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/digital-humanities-hackathons/"/>
+        <updated>2023-01-04T14:24:29.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: Digital Humanities Education Workshop]]></title>
+        <id>1435 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2023/01/04/cfp-digital-humanities-education-workshop"/>
+        <updated>2023-01-04T08:26:25.000Z</updated>
+        <summary type="html"><![CDATA[15 Jan 2023 - 00:00
+
+
+
+CFP: Digital Humanities Education Workshop
+
+
+
+Scholars and practitioners are invited to submit proposals for presentations to be held at a workshop focused on digital humanities education.
+The workshop is entitled “Cross-university collaboration in Digital Humanities & Social Science (DHSS) and Digital Humanities & Cultural Heritage (DHCH) Education”. It will focus on educational matters in the field and will be held online on March 7. Accepted presentations will be run during the workshop’s open period segment.
+This workshop is part of the Digital Humanities in Nordic and Baltic Countries Annual Conference, running March 8-10, 2023. For more information on the workshop, please visit: https://lnu.se/en/research/research-groups/digital-humanities/workshop-online-2023/…]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anti-Colonial Futures for Digital Humanities]]></title>
         <id>https://www.cdh.cam.ac.uk/events/35881/</id>
@@ -11126,26 +11185,6 @@ Akademische Mitarbeiter:innen (Promotion)
         <link href="https://updates.timsherratt.org/2022/07/10/updated-dataset-details.html"/>
         <updated>2022-07-10T05:04:54.000Z</updated>
         <summary type="html"><![CDATA[Updated dataset! Details of 2,201,090 unique public tags added to 9,370,614 resources in Trove between August 2008 and July 2022. Useful for exploring folksonomies, and the way people organise and use massive online resources like Trove. doi.org/10.5281/z…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/07/09/ok-ive-created.html</id>
-        <link href="https://updates.timsherratt.org/2022/07/09/ok-ive-created.html"/>
-        <updated>2022-07-09T08:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Ok, I’ve created a Zenodo community for datasets documenting changes in the content and structure of Trove. Lots more to add… zenodo.org/communiti…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://wragge.micro.blog/2022/07/09/coz-i-love.html</id>
-        <link href="https://updates.timsherratt.org/2022/07/09/coz-i-love.html"/>
-        <updated>2022-07-09T07:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Coz I love making work for myself, I’ve started pulling datasets out of #GLAMWorkbench code repos & creating new data repos for them. This way they’ll have their own version histories in Zenodo. Here’s the first: github.com/GLAM-Work…]]></summary>
         <author>
             <name>Tim Sherratt</name>
         </author>
