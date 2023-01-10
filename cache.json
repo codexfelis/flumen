@@ -1776,15 +1776,6 @@
           "publishedOn": "2022-07-21T09:56:41.000Z",
           "wordCount": 950,
           "title": "EPFL lab to digitize 1,000m2 ‘Swiss national treasure’"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11277",
-          "author": "Celia Luterbacher",
-          "description": "This special issue of the Journal of Digital History, to be published in the fall of 2023, welcomes contributions that introduce and discuss digital toolkits for exploring historic source materials, be they sonic, textual, visual, or audiovisual, by October 31, 2022. In line with the journal’s publication standards, the toolkits should be open source and […]\nThe post Call for special issue for the Journal of Digital History: Digital Tools appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/07/14/call-for-special-issue-for-the-journal-of-digital-history-digital-tools/",
-          "publishedOn": "2022-07-14T09:12:54.000Z",
-          "wordCount": 782,
-          "title": "Call for special issue for the Journal of Digital History: Digital Tools"
         }
       ]
     },
@@ -5222,6 +5213,15 @@
       "siteUrl": "https://tei-c.org",
       "articles": [
         {
+          "id": "https://tei-c.org/?p=31507",
+          "author": "Martina Scholger",
+          "description": "The TEI Consortium is pleased to announce the winners of the 2022 Rahtz Prize for TEI Ingenuity and the TEI Community Award. The winner of the 2022 Rahtz Prize for TEI Ingenuity is DraCor – Drama Corpora Project by Peer Trickle, Frank Fischer, Julia Jennifer Beine, Carsten Milling, Ingo Börner, Mathias Göbel, Henny Sluyter-Gäthje, Evgeniya […]",
+          "link": "https://tei-c.org/2023/01/09/rahtz-prize-and-community-award-2022/",
+          "publishedOn": "2023-01-09T11:04:01.000Z",
+          "wordCount": 271,
+          "title": "Rahtz Prize and Community Award 2022"
+        },
+        {
           "id": "https://tei-c.org/?p=31429",
           "author": "Martina Scholger",
           "description": "The Journal of the Text Encoding Initiative (jTEI, https://journals.openedition.org/jtei/) is now inviting contributions for its 2022 conference issue. We encourage all authors of any type of presentation from the 2022 TEI Conference and Members Meeting at Newcastle University to submit articles based on their presentations on the conference theme “Text as data”. Articles can take […]",
@@ -5449,15 +5449,6 @@
           "publishedOn": "2022-07-28T04:59:13.000Z",
           "wordCount": 541,
           "title": "Catching up – some recent GLAM Workbench updates!"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/07/14/calling-all-tasmanian.html",
-          "author": null,
-          "description": "I’ve created a Zotero translator for the Libraries Tasmania catalogue. Using it, you can save metadata and digital resources to your own research database with a single click. Libraries Tasmania actually has three catalogues rolled into one – the main library catalogue, the Archives catalogue, and the Names Index. The translator works across all three. Features include:\nSelect and save items from a page of search results.\nSave individual items across the full range of formats. (By default, individual records in the catalogue open in a modal overlay. For Zotero to recognise the item you need to click on the Permalink button and open the record on a separate page.)\nAutomatically download digital images and PDFs attached to records. This works when the record points to a particular page – it won’t download multiple images from a single link. However, if a record contains multiple links to digitised pages (such as the Convict records in the Names Index), you’ll get them all!\nFields in the Archives catalogue and Name Index that don’t map to Zotero properties are saved as key/value pairs in Zotero’s ‘Extra’ field\n\nThe translator is now included in the main Zotero repository so should install and update itself automatically. If the Zotero browser extension doesn’t seem to be detecting Libraries Tasmania items you can force an update by right clicking on the Zotero icon in your browser toolbar and clicking on Preferences > Advanced > Update translators.\nMy work on this translator was not entirely altruistic – it’s going to be very useful in the Everyday Heritage project as Kate Bagnall and I try to bring together sources relating to Chinese heritage in Tasmania.\nBut I’m also very happy to be able to update my spreadsheet of Zotero support in Australian GLAM organisations and put Libraries Tasmania in the green! #dhhacks",
-          "link": "https://updates.timsherratt.org/2022/07/14/calling-all-tasmanian.html",
-          "publishedOn": "2022-07-14T00:04:03.000Z",
-          "wordCount": 350,
-          "title": "Calling all Tasmanian historians – you can now save resources from Libraries Tasmania into Zotero!"
         }
       ]
     },
@@ -5563,6 +5554,24 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4378 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Le Grand-Duché du Luxembourg est aujourd’hui une importante place financière : il est le premier centre de domiciliation de fonds d’investissement en Europe et le second au monde après les États-Unis. Ce « petit pays » joue ainsi un rôle clé dans le secteur bancaire et financier européen et international avec le soutien de nombreux avocats, juristes et autres praticiens du droit.\nLa conférence a pour ambition de comprendre le rôle des avocats et des juristes dans le développement du Luxembourg comme centre bancaire depuis plusieurs décennies. Benoît Majerus, enseignant-chercheur au Centre for Contemporary and Digital History décrira dans un premier temps le rôle des avocats d’affaires dans le développement de la place financière. Le regard de l’historien sera ensuite complété par celui du journaliste Pierre Sorlut du D’Lëtzebuerger Land qui se penchera sur l’émergence et le succès des cabinets d’avocats d’affaires au Luxembourg ainsi que leur contribution au développement de la place financière. Puis Catherine Bourin, juriste et membre du comité de direction de l’ABBL, qui est l’organisation professionnelle représentant la majorité des banques de la place, clôturera la conférence par une intervention intitulée « Le droit et la place financière : bilan et prospectives ».\n \nMercredi, 8 février 2023\nDébut: 19:00 heures\nBibliothèque nationale du Luxembourg\n37D Avenue John F. Kennedy\nL-1855 Luxembourg \nInscription gratuite sur tickettailor\n8 February 2023\n  Contemporary history of Luxembourg\n  Banking and financial history\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/le-role-des-juristes-dans-le-developpement-de-la-place-financiere",
+          "publishedOn": "2023-01-09T10:35:23.000Z",
+          "wordCount": 459,
+          "title": "Le rôle des juristes dans le développement de la place financière"
+        },
+        {
+          "id": "4377 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Within the framework of the HIVI project, related to the history of online virality and supported by the Luxembourg National Research Fund (FNR)  (C20/SC/14758148), this conference, organised by Fred Pailler and Valérie Schafer (C²DH, University of Luxembourg), will analyse the role that platforms and diverse stakeholders (i.e., celebrities, entrepreneurs, companies, politicians, NGO, journalists, activists, users, etc.) play in the spread, diffusion, circulation or moderation and invisibilisation of digital content.\nIt will intertwine case study based approach and more theoretical ones, and question methods, audiences, formats, discourses, reception, etc. to better unfold the complexity of viral contents and the key notion of influence.\n \n30-31 March 2023\nBlack Box, Maison des Sciences hu…",
+          "link": "https://www.c2dh.uni.lu/events/virality-platforms-and-influence",
+          "publishedOn": "2023-01-09T09:54:56.000Z",
+          "wordCount": 519,
+          "title": "Virality, platforms and influence"
+        },
         {
           "id": "4325 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -7432,24 +7441,6 @@
           "publishedOn": "2022-07-26T08:57:24.000Z",
           "wordCount": 761,
           "title": "Investigating the Origins of Islamicate Manuscripts Using Computational Methods"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/34986/",
-          "author": null,
-          "description": "In this workshop you will be introduced to the MorphoSource platform, which is a repository for researchers, curators, and everybody to find, view, download, and upload 3D scans and data of natural history, scientific specimens, and cultural objects. Contributions come from museums, researchers, scholars and specialists to share findings, increase impact, and improve access to",
-          "link": "https://www.cdh.cam.ac.uk/events/34986/",
-          "publishedOn": "2022-07-14T15:17:56.000Z",
-          "wordCount": 446,
-          "title": "An introduction to the MorphoSource platform"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/34985/",
-          "author": null,
-          "description": "In this workshop, you will learn about the various features of the exhibit.so platform, led by Ed Silverton, from Mnemoscene and introduced by Andy Corrigan from Cambridge Digital Library. Cambridge Digital Humanities (CDH) is working with Mnemoscene to develop a local instance of the Exhibit tool that will be available to University of Cambridge users.",
-          "link": "https://www.cdh.cam.ac.uk/events/34985/",
-          "publishedOn": "2022-07-14T15:16:12.000Z",
-          "wordCount": 542,
-          "title": "An introduction to Exhibit.so platform"
         }
       ]
     },
@@ -8247,15 +8238,6 @@
           "publishedOn": "2022-07-18T10:47:49.000Z",
           "wordCount": 1137,
           "title": "Second Round of EOSC Future/RDA Open Calls for Domain Ambassadors and Cross-Disciplinary Projects"
-        },
-        {
-          "id": "1539 at https://www.dri.ie",
-          "author": "Deborah Thorpe",
-          "description": "In a new DRI blog, DRI Education and Outreach Manager Deborah Thorpe meets with DRI Digital Archivist Kevin Long,  Killian Downing of Dublin City University, and Rebecca O’Neill of Wikimedia Community Ireland, to explore different perspectives on open licences and how the licences depositors select affect the use and reuse of digital content.",
-          "link": "https://www.dri.ie/open-access-online-collections",
-          "publishedOn": "2022-07-14T10:03:14.000Z",
-          "wordCount": 2648,
-          "title": "A Conversation about Open Access to Online Collections"
         }
       ]
     },
