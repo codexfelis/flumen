@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-01-14T08:03:46.319Z</updated>
+    <updated>2023-01-15T08:03:42.999Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Reflections on Cinema Belgica: The Database for New Cinema History in Belgium]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.91</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.91"/>
+        <updated>2023-01-15T08:03:36.995Z</updated>
+        <summary type="html"><![CDATA[New Cinema History broadened film studies by emphasising the complexity of cinema as a multifaceted phenomenon that includes the socio-economic context in which films were made, circulated, shown and received. As part of the digital turn, the discipline adopted computational methods and created quantitative research data to research this socio-economic context at scale. However, not all datasets created in this context adhere to FAIR principles, decreasing their reusability. By reconciling 14 cinema-related datasets, Cinema Belgica facilitates research into the history of Belgian cinema. This research paper documents and critically reflects on the choices made when selecting, modelling and reconciling information for the Cinema Belgica database.
+ Published on 2023-01-13 10:33:40]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lokalgeschichte ganz nah: Persönliche Kriegserlebnisse in Schifflingen]]></title>
         <id>4382 at https://www.c2dh.uni.lu</id>
@@ -11289,38 +11300,6 @@ Podcast PubDate: 
 Wednesday, July 20, 2022]]></summary>
         <author>
             <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1632 – Hybrid dialogues]]></title>
-        <id>http://schoenberginstitute.org/?p=17068</id>
-        <link href="https://schoenberginstitute.org/2022/07/19/manuscript-monday-ms-codex-1632-hybrid-dialogues/"/>
-        <updated>2022-07-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1632, a printed edition of John Minsheu’s Dialogos apazibles / Dialoghi piacevoli (Venice: Presso Giacomo Sarzina, 1626), dialogues in Spanish with parallel translations by Lorenzo Franciosini in Italian of 8 dialogues in a varietyContinue reading "Manuscript Monday: Ms. Codex 1632 – Hybrid dialogues"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assessing Attitudes Towards Wood in the Context of Family Habits: Potential for Reuse of Raw Data from a Questionnaire Survey]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.82</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.82"/>
-        <updated>2022-07-19T08:05:04.395Z</updated>
-        <summary type="html"><![CDATA[The dataset covers a statistically representative quantitative questionnaire survey conducted with 430 children with the aim of assessing their knowledge, habits and attitudes towards wood and trees. The goal of the study was to examine the variables that affect environmental awareness and the use of wood in the future. The dataset contains 430 rows (participants) and 49 columns (variables). Data has a reuse potential in the fields of childhood pedagogy and environmental education research but also opens new ways for demonstrating the formula of statistical representativeness or machine-learning analyses such as clustering techniques, associative learning, or decision trees.
- Published on 2022-07-18 11:59:04]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RLUK is seeking a Deputy Executive Director]]></title>
-        <id>https://www.rluk.ac.uk/?p=12277</id>
-        <link href="https://www.rluk.ac.uk/rluk-is-seeking-a-deputy-executive-director/"/>
-        <updated>2022-07-18T16:02:00.000Z</updated>
-        <summary type="html"><![CDATA[RLUK is seeking a Deputy Executive Director. The Deputy Executive Director reports to the Executive Director and provides support for the Executive Director and RLUK Board in key areas of knowledge and expertise, with responsibility for delivery of aspects of the RLUK strategy. The Deputy Executive Director will support the Executive Director and the RLUK [...]
-The post RLUK is seeking a Deputy Executive Director appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
         </author>
     </entry>
     <entry>

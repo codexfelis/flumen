@@ -3593,6 +3593,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.91",
+          "author": null,
+          "description": "New Cinema History broadened film studies by emphasising the complexity of cinema as a multifaceted phenomenon that includes the socio-economic context in which films were made, circulated, shown and received. As part of the digital turn, the discipline adopted computational methods and created quantitative research data to research this socio-economic context at scale. However, not all datasets created in this context adhere to FAIR principles, decreasing their reusability. By reconciling 14 cinema-related datasets, Cinema Belgica facilitates research into the history of Belgian cinema. This research paper documents and critically reflects on the choices made when selecting, modelling and reconciling information for the Cinema Belgica database.\n Published on 2023-01-13 10:33:40",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.91",
+          "publishedOn": "2023-01-15T08:03:36.995Z",
+          "wordCount": 8535,
+          "title": "Critical Reflections on Cinema Belgica: The Database for New Cinema History in Belgium"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.94",
           "author": null,
           "description": "The TRANSCOMP Dataset of Literary Translations is a collection of document-level word frequencies sampled from 10,631 translations into English of global literary fiction published since 1950, together with a historically matched parallel corpus of 10,682 fictional works originally published in English. We provide CSV files with word frequency counts for 10,000-word samples taken from each text. The associated metadata is available in a separate CSV. These data will be useful to literary scholars and linguists working in translation studies, and those interested in the linguistic, stylistic, and thematic specificity of translations from particular regions.\n Published on 2022-12-26 09:39:14",
@@ -3699,15 +3708,6 @@
           "publishedOn": "2022-08-05T08:04:05.844Z",
           "wordCount": 5288,
           "title": "KAHD: Katukinan-Arawan-Harakmbut Database (Pre-release)"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.82",
-          "author": null,
-          "description": "The dataset covers a statistically representative quantitative questionnaire survey conducted with 430 children with the aim of assessing their knowledge, habits and attitudes towards wood and trees. The goal of the study was to examine the variables that affect environmental awareness and the use of wood in the future. The dataset contains 430 rows (participants) and 49 columns (variables). Data has a reuse potential in the fields of childhood pedagogy and environmental education research but also opens new ways for demonstrating the formula of statistical representativeness or machine-learning analyses such as clustering techniques, associative learning, or decision trees.\n Published on 2022-07-18 11:59:04",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.82",
-          "publishedOn": "2022-07-19T08:05:04.395Z",
-          "wordCount": 2083,
-          "title": "Assessing Attitudes Towards Wood in the Context of Family Habits: Potential for Reuse of Raw Data from a Questionnaire Survey"
         }
       ]
     },
@@ -4945,15 +4945,6 @@
           "publishedOn": "2022-07-25T13:00:00.000Z",
           "wordCount": 1072,
           "title": "Manuscript Monday: Ms. Codex 1634 – Plans of fortifications"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17068",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1632, a printed edition of John Minsheu’s Dialogos apazibles / Dialoghi piacevoli (Venice: Presso Giacomo Sarzina, 1626), dialogues in Spanish with parallel translations by Lorenzo Franciosini in Italian of 8 dialogues in a varietyContinue reading \"Manuscript Monday: Ms. Codex 1632 – Hybrid dialogues\"",
-          "link": "https://schoenberginstitute.org/2022/07/19/manuscript-monday-ms-codex-1632-hybrid-dialogues/",
-          "publishedOn": "2022-07-19T13:00:00.000Z",
-          "wordCount": 1097,
-          "title": "Manuscript Monday: Ms. Codex 1632 – Hybrid dialogues"
         }
       ]
     },
@@ -8570,15 +8561,6 @@
           "publishedOn": "2022-07-25T10:02:31.000Z",
           "wordCount": 1504,
           "title": "Library spaces in the campus of the future – RLUK Space event"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=12277",
-          "author": "Melanie Cheung",
-          "description": "RLUK is seeking a Deputy Executive Director. The Deputy Executive Director reports to the Executive Director and provides support for the Executive Director and RLUK Board in key areas of knowledge and expertise, with responsibility for delivery of aspects of the RLUK strategy. The Deputy Executive Director will support the Executive Director and the RLUK [...]\nThe post RLUK is seeking a Deputy Executive Director appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/rluk-is-seeking-a-deputy-executive-director/",
-          "publishedOn": "2022-07-18T16:02:00.000Z",
-          "wordCount": 1223,
-          "title": "RLUK is seeking a Deputy Executive Director"
         }
       ]
     },
