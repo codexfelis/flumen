@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-01-16T08:04:36.633Z</updated>
+    <updated>2023-01-17T08:04:20.876Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rejoignez l’équipe!]]></title>
+        <id>https://csdh-schn.org/?p=1144</id>
+        <link href="https://csdh-schn.org/rejoignez-lequipe/"/>
+        <updated>2023-01-16T23:56:43.000Z</updated>
+        <summary type="html"><![CDATA[La SCHN-CSDH est à la recherche de personnes intéressées à occuper le poste de secrétaire dans son comité exécutive. Ce rôle prend la responsabilité de maintenir les inscriptions de ses membres, de consigner ses activités, et des correspondances officielles. Il s’agit d’une excellente opportunité de développement professionnel, d’engagement dans la communauté des humanités numériques au […]]]></summary>
+        <author>
+            <name>Kyle Dase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join Our Team!]]></title>
+        <id>https://csdh-schn.org/?p=1141</id>
+        <link href="https://csdh-schn.org/join-our-team/"/>
+        <updated>2023-01-16T19:59:26.000Z</updated>
+        <summary type="html"><![CDATA[CSDH-SCHN is currently looking for nominees interested in serving on its executive team as secretary. The Secretary is responsible for duties related to the maintenance of the membership, the history, and the general correspondence of the society. It’s also a great opportunity to build your CV, engage with dh, and meet colleagues from around the […]]]></summary>
+        <author>
+            <name>Kyle Dase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theorising Transparency in Digital Culture]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35975/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35975/"/>
+        <updated>2023-01-16T14:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Carleigh Morgan (CDH Methods Fellow) This project begins from the premise that ‘transparency’ is not clear at all. Transparency is historically mediated, culturally constructed, and ideologically complex. Understood expansively, transparency is enmeshed with a variety of functions and associations, having been mobilised as a political call to action; a design methodology; a radical practice]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archiving with the Apsáalooke]]></title>
+        <id>4384 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/archiving-apsaalooke"/>
+        <updated>2023-01-16T12:26:45.000Z</updated>
+        <summary type="html"><![CDATA[In 1922, the U.S. Office of Indian Affairs ordered a photographic survey of every reservation in the West. The federal government planned to pass a law making all Native Americans citizens of the United States. The surveys would measure individual family’s readiness for citizenship. Among the Apsáalooke (Crow Nation), the Indian Agent surveyed 244 houses. While these surveys and photographs are instruments of surveillance, they also provide a unique snapshot into Crow daily life. However, the descendants of the families haven’t seen these photographs before. It is relatively easy to create a digital archive to rematriate the surveys. But is it possible to do something more? Can we reframe these images wrought of settler violence as family portraits?
+
+
+Rebecca S. Wingo is a scholar of the I…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Georeferencing Ordnance Survey Maps]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=2952</id>
+        <link href="https://livingwithmachines.ac.uk/georeferencing-ordnance-survey-maps/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=georeferencing-ordnance-survey-maps"/>
+        <updated>2023-01-16T10:47:09.000Z</updated>
+        <summary type="html"><![CDATA[The British Library has digitised over 10,500 historical Ordnance Survey (OS) maps as part of the Living with Machines project (to know more about the selection process you can read our blogpost on Digitising Ordnance Survey maps).  These maps were digitised as TIFF files – a high-quality format that is standard in libraries and archives. […]]]></summary>
+        <author>
+            <name>Giorgia Tolfo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a national picture: digitising Ordnance Survey maps]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=2950</id>
+        <link href="https://livingwithmachines.ac.uk/creating-a-national-picture-digitising-ordnance-survey-maps/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=creating-a-national-picture-digitising-ordnance-survey-maps"/>
+        <updated>2023-01-16T10:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Ordnance Survey (OS) maps are incredible resources for researchers interested in British history, such as the Living with Machines team who have developed the MapReader software library to analyze historical maps at scale. These maps contain details about the built and natural environments that are uniquely captured on a national scale over a period of […]]]></summary>
+        <author>
+            <name>Giorgia Tolfo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Political Orders: Louise Amoore]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35969/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35969/"/>
+        <updated>2023-01-16T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The transformation from rules based algorithms to deep learning models has been a condition of possibility for the undoing of rules based social and political orders, from the Brexit challenges to EU integration to the austerity politics and digitalization of welfare states and the pandemic NHS. Where rules-based computation and decision was critical to the]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning experiments in computer vision and visual literacy: Geoff Cox]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35966/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35966/"/>
+        <updated>2023-01-16T09:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Referring to John Berger’s Ways of Seeing (1972) the presentation argues for an expansion of visual literacy to examine how machine vision further unsettles received humanist notions. When images are made by machines for other machines, and part of vast annotated datasets, how are worldviews reinforced differently, and what kind of literacy applies, if at]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Networking Letters; Networking Archives: Ruth Ahnert]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/35963/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/35963/"/>
+        <updated>2023-01-16T09:12:26.000Z</updated>
+        <summary type="html"><![CDATA[This paper will present research from the linked projects Tudor Networks of Power and Networking Archives. These projects employ methods from the field of quantitive network analysis, as well as other digital methods and visualisation techniques, to analyse epistolary networks and the movement of information in the early modern world. These data-driven approaches to the]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Reflections on Cinema Belgica: The Database for New Cinema History in Belgium]]></title>
         <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.91</id>
@@ -11185,86 +11278,6 @@ The post Transkribus Lite 2.3. – New Features: Smart Search, Tag Manager, and 
         <summary type="html"><![CDATA[The Association for Computers and the Humanities is pleased to announce two more incoming Executive Council members. They will be taking over the remaining terms of two representatives who had to step down! They are Pamella Lach and Jim McGrath. Their term will begin at the annual Executive Council meeting on July 27th, 2022. We are…Continue reading.]]></summary>
         <author>
             <name>jwoowinter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for papers: Historical documents and automatic text recognition]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11310</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/07/21/call-for-papers-historical-documents-and-automatic-text-recognition/"/>
-        <updated>2022-07-21T11:55:11.000Z</updated>
-        <summary type="html"><![CDATA[The open access, peer-reviewed Journal of Data Mining and Digital Humanities (JDMDH) is currently inviting paper submissions for its special issue, “Historical documents and automatic text recognition”. The special issue will bring together in one single volume several experiments, projects and reflections related to automatic text recognition on historical documents. Many projects now include automatic text acquisition […]
-The post Call for papers: Historical documents and automatic text recognition appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Impact Story: Open Language Resources for Smarter AI]]></title>
-        <id>5763 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/new-impact-story-open-language-resources-smarter-ai"/>
-        <updated>2022-07-21T11:31:43.000Z</updated>
-        <summary type="html"><![CDATA[New Impact Story: Open Language Resources for Smarter AI
-
-            
-
-  
-  
-            
-    
-
-              
-              
-                  
-
-  
- 
- 
-Watch Kaja Dobrovoljc's recent presentation at 
-    
-
-	European Strategy Forum for Research Infrastructures See: https://www.esfri.eu
-
-read more
-
-  's 20th Anniversary Conference, in which she underlines the importance of open language resources for scientific advances, especially in the field of Artificial Intelligence (AI). She highlights CLARIN’s important contribution to the development of everyday applications such as search engines, machine translation and voice assistants.
-Read the full impact story here. 
-
-      Karina Berger
- 21 July 2022]]></summary>
-        <author>
-            <name>Karina Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Identifying rights-holders and applying open licensing as part of digital preservation]]></title>
-        <id>1541 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/identifying-rights-holders-and-applying-open-licensing-part-digital-preservation"/>
-        <updated>2022-07-21T11:27:33.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-7 Sep 2022
-
-
-Location: 
-
-Zoom
-
-
-
-This workshop was due to run as part of the 2022 DPASSH conference but had to be postponed so this is an opportunity to take part in a workshop to identify rights-holders and apply open licensing as part of digital preservation process.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPFL lab to digitize 1,000m2 ‘Swiss national treasure’]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11301</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/07/21/epfl-lab-to-digitize-1000m2-swiss-national-treasure/"/>
-        <updated>2022-07-21T09:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Sarah Kenderdine, head of the Laboratory for Experimental Museology, is leading the digitization and valorization of the Panorama of the Battle of Murten – a 100 x 10-meter work created in 1893 by German panorama painter Louis Braun – in an undertaking that promises to yield one of the largest digital images ever produced. The […]
-The post EPFL lab to digitize 1,000m2 ‘Swiss national treasure’ appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
         </author>
     </entry>
     <entry>

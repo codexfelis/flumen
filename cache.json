@@ -610,6 +610,24 @@
       "siteUrl": "https://csdh-schn.org",
       "articles": [
         {
+          "id": "https://csdh-schn.org/?p=1144",
+          "author": "Kyle Dase",
+          "description": "La SCHN-CSDH est à la recherche de personnes intéressées à occuper le poste de secrétaire dans son comité exécutive. Ce rôle prend la responsabilité de maintenir les inscriptions de ses membres, de consigner ses activités, et des correspondances officielles. Il s’agit d’une excellente opportunité de développement professionnel, d’engagement dans la communauté des humanités numériques au […]",
+          "link": "https://csdh-schn.org/rejoignez-lequipe/",
+          "publishedOn": "2023-01-16T23:56:43.000Z",
+          "wordCount": 222,
+          "title": "Rejoignez l’équipe!"
+        },
+        {
+          "id": "https://csdh-schn.org/?p=1141",
+          "author": "Kyle Dase",
+          "description": "CSDH-SCHN is currently looking for nominees interested in serving on its executive team as secretary. The Secretary is responsible for duties related to the maintenance of the membership, the history, and the general correspondence of the society. It’s also a great opportunity to build your CV, engage with dh, and meet colleagues from around the […]",
+          "link": "https://csdh-schn.org/join-our-team/",
+          "publishedOn": "2023-01-16T19:59:26.000Z",
+          "wordCount": 224,
+          "title": "Join Our Team!"
+        },
+        {
           "id": "https://csdh-schn.org/?p=1135",
           "author": "Kyle Dase",
           "description": "York University,  29 mai au 31 mai, 2023 CFPCSDH/SCHN Congrès 2023 : Confronter le passé, réimaginer l’avenir La Société canadienne des humanités numériques (http://csdh-schn.org/) invite chercheur·se·s, practicien·ne·s et étudiant·e·s des cycles supérieurs à proposer des communications, des tables rondes et des démonstrations pour sa rencontre annuelle, qui aura lieu lors du Congrès 2023 des sciences […]",
@@ -1776,24 +1794,6 @@
           "publishedOn": "2022-08-02T08:48:44.000Z",
           "wordCount": 732,
           "title": "Interdisciplinary CROSS program invites proposals on the theme of ‘crisis’"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11310",
-          "author": "Celia Luterbacher",
-          "description": "The open access, peer-reviewed Journal of Data Mining and Digital Humanities (JDMDH) is currently inviting paper submissions for its special issue, “Historical documents and automatic text recognition”. The special issue will bring together in one single volume several experiments, projects and reflections related to automatic text recognition on historical documents. Many projects now include automatic text acquisition […]\nThe post Call for papers: Historical documents and automatic text recognition appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/07/21/call-for-papers-historical-documents-and-automatic-text-recognition/",
-          "publishedOn": "2022-07-21T11:55:11.000Z",
-          "wordCount": 616,
-          "title": "Call for papers: Historical documents and automatic text recognition"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11301",
-          "author": "Celia Luterbacher",
-          "description": "Sarah Kenderdine, head of the Laboratory for Experimental Museology, is leading the digitization and valorization of the Panorama of the Battle of Murten – a 100 x 10-meter work created in 1893 by German panorama painter Louis Braun – in an undertaking that promises to yield one of the largest digital images ever produced. The […]\nThe post EPFL lab to digitize 1,000m2 ‘Swiss national treasure’ appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/07/21/epfl-lab-to-digitize-1000m2-swiss-national-treasure/",
-          "publishedOn": "2022-07-21T09:56:41.000Z",
-          "wordCount": 950,
-          "title": "EPFL lab to digitize 1,000m2 ‘Swiss national treasure’"
         }
       ]
     },
@@ -3459,6 +3459,24 @@
       "feedUrl": "https://livingwithmachines.ac.uk/feed",
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=2952",
+          "author": "Giorgia Tolfo",
+          "description": "The British Library has digitised over 10,500 historical Ordnance Survey (OS) maps as part of the Living with Machines project (to know more about the selection process you can read our blogpost on Digitising Ordnance Survey maps).  These maps were digitised as TIFF files – a high-quality format that is standard in libraries and archives. […]",
+          "link": "https://livingwithmachines.ac.uk/georeferencing-ordnance-survey-maps/?utm_source=rss&utm_medium=rss&utm_campaign=georeferencing-ordnance-survey-maps",
+          "publishedOn": "2023-01-16T10:47:09.000Z",
+          "wordCount": 1225,
+          "title": "Georeferencing Ordnance Survey Maps"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=2950",
+          "author": "Giorgia Tolfo",
+          "description": "Ordnance Survey (OS) maps are incredible resources for researchers interested in British history, such as the Living with Machines team who have developed the MapReader software library to analyze historical maps at scale. These maps contain details about the built and natural environments that are uniquely captured on a national scale over a period of […]",
+          "link": "https://livingwithmachines.ac.uk/creating-a-national-picture-digitising-ordnance-survey-maps/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-national-picture-digitising-ordnance-survey-maps",
+          "publishedOn": "2023-01-16T10:46:17.000Z",
+          "wordCount": 1116,
+          "title": "Creating a national picture: digitising Ordnance Survey maps"
+        },
         {
           "id": "https://livingwithmachines.ac.uk/?p=2926",
           "author": "Mia Ridge",
@@ -5591,6 +5609,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4384 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "In 1922, the U.S. Office of Indian Affairs ordered a photographic survey of every reservation in the West. The federal government planned to pass a law making all Native Americans citizens of the United States. The surveys would measure individual family’s readiness for citizenship. Among the Apsáalooke (Crow Nation), the Indian Agent surveyed 244 houses. While these surveys and photographs are instruments of surveillance, they also provide a unique snapshot into Crow daily life. However, the descendants of the families haven’t seen these photographs before. It is relatively easy to create a digital archive to rematriate the surveys. But is it possible to do something more? Can we reframe these images wrought of settler violence as family portraits?\n\n\nRebecca S. Wingo is a scholar of the I…",
+          "link": "https://www.c2dh.uni.lu/events/archiving-apsaalooke",
+          "publishedOn": "2023-01-16T12:26:45.000Z",
+          "wordCount": 555,
+          "title": "Archiving with the Apsáalooke"
+        },
+        {
           "id": "4382 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "Im Rahmen dieses Forum Z geben das Team des Projekts WARLUX am C²DH und das Musée National de la Résistance et des Droits Humains (MNRDH) einen Einblick in ihre aktuellen Forschungsergebnisse über die Auswirkungen der nationalsozialistischen Besatzung und der Zwangsrekrutierung auf das Leben der Einwohner*innen von Schifflingen.\nProf. Dr. Maria Fritsche von der Norwegian University of Science and Technology führt mit einem Vortrag über den Alltag während der Besatzungszeit in das Thema ein. Sie ist Spezialistin für das im Zweiten Weltkrieg besetzte Europa.\nDie Bürgerinnen und Bürger, deren Familien während des Krieges in Schifflingen wohnten, sind eingeladen, historische Dokumente wie Tagebücher, Briefe und Fotos, die sich auf Themen wie Zwangsrekrutierung, Umsiedlung oder das Leben unter …",
@@ -6002,6 +6029,42 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35975/",
+          "author": null,
+          "description": "Convenor: Carleigh Morgan (CDH Methods Fellow) This project begins from the premise that ‘transparency’ is not clear at all. Transparency is historically mediated, culturally constructed, and ideologically complex. Understood expansively, transparency is enmeshed with a variety of functions and associations, having been mobilised as a political call to action; a design methodology; a radical practice",
+          "link": "https://www.cdh.cam.ac.uk/events/35975/",
+          "publishedOn": "2023-01-16T14:54:36.000Z",
+          "wordCount": 612,
+          "title": "Theorising Transparency in Digital Culture"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35969/",
+          "author": null,
+          "description": "The transformation from rules based algorithms to deep learning models has been a condition of possibility for the undoing of rules based social and political orders, from the Brexit challenges to EU integration to the austerity politics and digitalization of welfare states and the pandemic NHS. Where rules-based computation and decision was critical to the",
+          "link": "https://www.cdh.cam.ac.uk/events/35969/",
+          "publishedOn": "2023-01-16T09:23:00.000Z",
+          "wordCount": 737,
+          "title": "Machine Learning Political Orders: Louise Amoore"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35966/",
+          "author": null,
+          "description": "Referring to John Berger’s Ways of Seeing (1972) the presentation argues for an expansion of visual literacy to examine how machine vision further unsettles received humanist notions. When images are made by machines for other machines, and part of vast annotated datasets, how are worldviews reinforced differently, and what kind of literacy applies, if at",
+          "link": "https://www.cdh.cam.ac.uk/events/35966/",
+          "publishedOn": "2023-01-16T09:16:27.000Z",
+          "wordCount": 490,
+          "title": "Learning experiments in computer vision and visual literacy: Geoff Cox"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35963/",
+          "author": null,
+          "description": "This paper will present research from the linked projects Tudor Networks of Power and Networking Archives. These projects employ methods from the field of quantitive network analysis, as well as other digital methods and visualisation techniques, to analyse epistolary networks and the movement of information in the early modern world. These data-driven approaches to the",
+          "link": "https://www.cdh.cam.ac.uk/events/35963/",
+          "publishedOn": "2023-01-16T09:12:26.000Z",
+          "wordCount": 467,
+          "title": "Networking Letters; Networking Archives: Ruth Ahnert"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/professor-massimo-leone/",
           "author": null,
@@ -7763,15 +7826,6 @@
           "publishedOn": "2022-07-27T14:18:55.000Z",
           "wordCount": 782,
           "title": "Open Call for Volunteers: Join the SSH Open Marketplace Editorial Board"
-        },
-        {
-          "id": "5763 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "New Impact Story: Open Language Resources for Smarter AI\n\n            \n\n  \n  \n            \n    \n\n              \n              \n                  \n\n  \n \n \nWatch Kaja Dobrovoljc's recent presentation at \n    \n\r\n\tEuropean Strategy Forum for Research Infrastructures See: https://www.esfri.eu\r\n\r\nread more\n\n  's 20th Anniversary Conference, in which she underlines the importance of open language resources for scientific advances, especially in the field of Artificial Intelligence (AI). She highlights CLARIN’s important contribution to the development of everyday applications such as search engines, machine translation and voice assistants.\nRead the full impact story here. \n\n      Karina Berger\n 21 July 2022",
-          "link": "https://www.clarin.eu/blog/new-impact-story-open-language-resources-smarter-ai",
-          "publishedOn": "2022-07-21T11:31:43.000Z",
-          "wordCount": 225,
-          "title": "New Impact Story: Open Language Resources for Smarter AI"
         }
       ]
     },
@@ -8310,15 +8364,6 @@
           "publishedOn": "2022-07-25T11:02:10.000Z",
           "wordCount": 801,
           "title": "DRI is Hiring - Junior Software Engineer"
-        },
-        {
-          "id": "1541 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "Date: \n\n7 Sep 2022\n\n\nLocation: \n\nZoom\n\n\n\nThis workshop was due to run as part of the 2022 DPASSH conference but had to be postponed so this is an opportunity to take part in a workshop to identify rights-holders and apply open licensing as part of digital preservation process.",
-          "link": "https://www.dri.ie/identifying-rights-holders-and-applying-open-licensing-part-digital-preservation",
-          "publishedOn": "2022-07-21T11:27:33.000Z",
-          "wordCount": 774,
-          "title": "Identifying rights-holders and applying open licensing as part of digital preservation"
         }
       ]
     },
