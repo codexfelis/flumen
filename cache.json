@@ -321,15 +321,6 @@
           "publishedOn": "2022-07-29T18:11:11.000Z",
           "wordCount": 886,
           "title": "Greetings from the New Presidents"
-        },
-        {
-          "id": "https://ach.org/?p=2367",
-          "author": "jwoowinter",
-          "description": "The Association for Computers and the Humanities is pleased to announce two more incoming Executive Council members. They will be taking over the remaining terms of two representatives who had to step down! They are Pamella Lach and Jim McGrath. Their term will begin at the annual Executive Council meeting on July 27th, 2022. We are…Continue reading.",
-          "link": "https://ach.org/blog/2022/07/21/more-incoming-executive-council-members/",
-          "publishedOn": "2022-07-21T22:41:14.000Z",
-          "wordCount": 157,
-          "title": "More Incoming Executive Council Members"
         }
       ]
     },
@@ -2390,6 +2381,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=9689",
+          "author": "Ephrem A. Ishac",
+          "description": "This is part 2 of my posts on the Syriac materials that I have found in Yale: The Beinecke Rare …",
+          "link": "https://digitalorientalist.com/2023/01/17/flew-under-the-digital-and-non-digital-scholarly-radars-a-mysterious-box-of-syriac-fragments-at-yale-university-part-2/",
+          "publishedOn": "2023-01-17T14:00:00.000Z",
+          "wordCount": 1620,
+          "title": "Flew under the Digital and non-Digital Scholarly Radars: A Mysterious Box of Syriac Fragments at Yale University (Part 2)"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=9654",
           "author": "Christopher L. Diamond",
           "description": "The following online roundtable discussion was part of a School of Culture, History, and Language ‘Flagship’ event organised by Christopher …",
@@ -4214,15 +4214,6 @@
             "length": "7676458",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://readcoop.eu/?p=29578",
-          "author": "Florian Stauder",
-          "description": "The latest version of Transkribus Lite is here and brings a number of new features. Here are the most important new features:  Smart Search From now on, you can simply […]\nThe post Transkribus Lite 2.3. – New Features: Smart Search, Tag Manager, and Layout Relations appeared first on READ-COOP.",
-          "link": "https://readcoop.eu/transkribus-lite-2-3/",
-          "publishedOn": "2022-07-22T06:29:42.000Z",
-          "wordCount": 1855,
-          "title": "Transkribus Lite 2.3. – New Features: Smart Search, Tag Manager, and Layout Relations"
         }
       ]
     },
@@ -4231,6 +4222,15 @@
       "feedUrl": "https://review.gale.com/category/digital-humanities/feed",
       "siteUrl": "https://review.gale.com/category/key-categories/digital-humanities/",
       "articles": [
+        {
+          "id": "https://review.gale.com/?p=13991",
+          "author": "Gale Ambassadors",
+          "description": "│By Becca Leeland, Gale Ambassador at the University of Exeter│ Anyone that says to a humanities student ‘all you have to do is read a book and have an opinion’ is someone who’s never had to prepare for a seminar! Seminars are the foundation of my degree – they guide me to the crucial works ... Read more\nThe post Digital Humanities and Data Mining: The Key to Efficient Seminar Preparation appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2023/01/17/digital-humanities-and-data-mining-the-key-to-efficient-seminar-preparation/?utm_source=rss&utm_medium=rss&utm_campaign=digital-humanities-and-data-mining-the-key-to-efficient-seminar-preparation",
+          "publishedOn": "2023-01-17T10:00:00.000Z",
+          "wordCount": 2112,
+          "title": "Digital Humanities and Data Mining: The Key to Efficient Seminar Preparation"
+        },
         {
           "id": "https://review.gale.com/?p=13797",
           "author": "Gale Review Team",
@@ -6029,6 +6029,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/35979/",
+          "author": null,
+          "description": "The upcoming school will be held in-person in Cambridge, UK (20-24 March 2023), and the final deadline to apply is 15 February 2023. Applications will be considered on a rolling basis until all places are filled, so we recommend you to apply as soon as possible. Read more about the school here: https://www.cdh.cam.ac.uk/events/35485/ Do you",
+          "link": "https://www.cdh.cam.ac.uk/events/35979/",
+          "publishedOn": "2023-01-17T12:52:04.000Z",
+          "wordCount": 373,
+          "title": "Q&A Session: Social Data School"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/35975/",
           "author": null,
