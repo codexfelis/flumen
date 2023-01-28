@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-01-27T08:04:17.212Z</updated>
+    <updated>2023-01-28T08:03:28.001Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[African and Oceanian Objects in French Museums: Mapping as a Tool for Rethinking Heritage and Historicizing Objects]]></title>
+        <id>http://digitalorientalist.com/?p=9628</id>
+        <link href="https://digitalorientalist.com/2023/01/27/african-and-oceanian-objects-in-french-museums-mapping-as-a-tool-for-rethinking-heritage-and-historicizing-objects/"/>
+        <updated>2023-01-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The collections of African objects in French museums remain rather unknown. Yet the holdings of some 200 French museums contain …]]></summary>
+        <author>
+            <name>Anaïs Wion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Launch: Digitised Newspapers – A New Eldorado for Historians?]]></title>
+        <id>4391 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/book-launch-digitised-newspapers-new-eldorado-historians"/>
+        <updated>2023-01-27T11:39:30.000Z</updated>
+        <summary type="html"><![CDATA["Digitised newspapers - A New Eldorado for Historians?" brings together the contributions of a workshop held in April 2020 on tools, methods and epistemological reflections on the use of digitised newspapers. 
+Organised in the context of the project 'impresso - Media Monitoring of the Past', this workshop gathered digital humanists, historians and librarians to share their research practices, experiences and insights when working with digitised newspaper collections. The primary target audiences are researchers and students in history, as well as researchers and practitioners in the field of digital humanities.
+ 
+The book is available in open accesson the publisher's website. 
+You are welcome to join the book launch event on
+Tuesday, 7 February 2023
+16.00 -16.45 CET
+to exchange with the editors.
+This event will be held online and onsite at the C²DH, Belval campus in Luxembourg. 
+Please register here (free) before 6 February 2023: https://buytickets.at/c2dh/841440
+
+
+
+ 
+Legal notice
+7 February 2023
+  Digital history & historiography
+  Impresso - Media monitoring of the past  Studies in Digital History and Hermeneutics
+  Digital hermeneutics  Digital methods  Digital tools  Digitisation
+  Outreach
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Coffee Morning: February 2023]]></title>
+        <id>1611 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-coffee-morning-february-2023"/>
+        <updated>2023-01-27T08:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Date: 
+
+22 Feb 2023
+
+
+Location: 
+
+Zoom
+
+
+
+February’s coffee morning will take place Wednesday 22 of February at 10.00 AM and will be be hosted by James Smith from 'Ports, Past and Present', a research project who are preserving their research outputs with DRI.]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia Empey]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/julia-a-empey/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/julia-a-empey/"/>
+        <updated>2023-01-26T11:45:50.000Z</updated>
+        <summary type="html"><![CDATA[Julia A. Empey received her PhD in English and Film Studies at Wilfrid Laurier University. Dr Empey is a SSHRC Postdoctoral Fellow in the Faculty of English at the University of Cambridge and the book reviews editor at Interconnections: The Journal of Posthumanism / Interconnexions: revue de posthumanisme. Her research and publication interests focus on]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Abstraction: become part of the Cross-Connections exhibition]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/after-abstraction/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/after-abstraction/"/>
+        <updated>2023-01-26T11:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Space, physical and digital, has become more hotly contested than ever in post-pandemic times. After Abstraction explores how music, meaning and movement is articulated across different spaces and media. Produced by CDH Research Fellow Annja Neumann as part of her research on Re-staging public spaces this multimedia performance invites participants to become part of Cross-Connections,]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-staging public spaces]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/projects/restaging-public-spaces/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/projects/restaging-public-spaces/"/>
+        <updated>2023-01-26T11:21:04.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 AI Models For Transcribing Old Russian Handwriting And Printed Russian Texts]]></title>
         <id>https://readcoop.eu/?p=31509</id>
@@ -11268,91 +11359,6 @@ The post Interdisciplinary CROSS program invites proposals on the theme of ‘cr
         <summary type="html"><![CDATA[The DH Initiative enthusiastically welcomes our newest DH Associate Director for Fall 2022. Dr. Sureshi Jayawardene will be working on a few major projects in the next two years. The first of which is to bring Digital Humanities to the Africana Studies, American Indian Studies, Asian American Studies, and Chicano and Chicana Studies in the […]]]></summary>
         <author>
             <name>Pam Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ausschreibung: DHd Communications Fellowship (Verlängerte Bewerbungsfrist: 31.08.22)]]></title>
-        <id>node/841</id>
-        <link href="https://dig-hum.de/aktuelles/ausschreibung-dhd-communications-fellowship-verl%C3%A4ngerte-bewerbungsfrist-310822"/>
-        <updated>2022-08-01T19:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Was gehört zu den Aufgaben?
-Zu den Aufgaben gehören neben der Erstellung von Beiträgen für den DHd-Blog vor allem die Betreuung des DHd Twitter-Accounts (ggf. Instagram und…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cambridge Data Schools]]></title>
-        <id>https://www.cdh.cam.ac.uk/learning/dataschools/</id>
-        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/"/>
-        <updated>2022-08-01T13:38:18.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Past Data Schools]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/"/>
-        <updated>2022-08-01T13:37:35.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Past Data Schools]]></title>
-        <id>https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/</id>
-        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/"/>
-        <updated>2022-08-01T13:37:35.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Anti) Colonial Archives]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/programme/dataschools/anti-colonial-archives/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/programme/dataschools/anti-colonial-archives/"/>
-        <updated>2022-08-01T13:26:13.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition]]></title>
-        <id>http://schoenberginstitute.org/?p=17082</id>
-        <link href="https://schoenberginstitute.org/2022/08/01/manuscript-monday-ms-codex-1639-proceedings-of-inquisition/"/>
-        <updated>2022-08-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1639, proceedings of the Inquisition in Mexico concerning riots in Mexico City and elsewhere in 1767. A compilation of various letters, declarations, and legal documents, many with signatures and many noted as reviewed byContinue reading "Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Living with Machines present some of their research to date at the Turing catch-up]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=2576</id>
-        <link href="https://livingwithmachines.ac.uk/living-with-machines-present-some-of-their-research-to-date/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=living-with-machines-present-some-of-their-research-to-date"/>
-        <updated>2022-08-01T08:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Emma Griffin (Historian and Co-investigator) gives an introduction to the research project Kaspar Beelan (Research Associate) demonstrates how he’s using the Mitchell’s press directories in his research on the bias of newspapers.  These directories were published annually and were designed to give advertisers an overview of the newspapers of the day. Katherine McDonough (Senior Research […]]]></summary>
-        <author>
-            <name>Léllé Demertzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View embedded JSON metadata for Trove's digitised books and journals]]></title>
-        <id>http://wragge.micro.blog/2022/08/01/view-embedded-json.html</id>
-        <link href="https://updates.timsherratt.org/2022/08/01/view-embedded-json.html"/>
-        <updated>2022-08-01T08:22:47.000Z</updated>
-        <summary type="html"><![CDATA[The metadata for digitised books and journals in Trove can seem a bit sparse, but there’s quite a lot of useful metadata embedded within Trove’s web pages that isn’t displayed to users or made available through the Trove API. This notebook in the GLAM Workbench shows you how you can access it. To make it even easier, I’ve added a new endpoint to my Trove Proxy that returns the metadata in JSON format.
-Just pass the url of a digitised book or journal as a parameter named url to https://trove-proxy.herokuapp.com/metadata/. For example:
-https://trove-proxy.herokuapp.com/metadata/?url=https://nla.gov.au/nla.obj-2906940941
-
-I’ve created a simple bookmarklet to make it simpler to open the proxy. To use it just:
-Drag this link to your bookmarks toolbar: Get Trove work metadata
-View a digitised book or journal in Trove.
-Click on the bookmarklet to view the metadata in JSON format.
-To view the JSON data in your browser you might need to install an extension like JSONView.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>

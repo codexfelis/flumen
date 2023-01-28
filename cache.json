@@ -2283,15 +2283,6 @@
           "publishedOn": "2022-08-09T08:22:29.000Z",
           "wordCount": 786,
           "title": "Stellenausschreibung: BBAW, NFDI/Text+: Editionen und Forschungsdaten (NFDI)"
-        },
-        {
-          "id": "node/841",
-          "author": "406",
-          "description": "Was gehört zu den Aufgaben?\nZu den Aufgaben gehören neben der Erstellung von Beiträgen für den DHd-Blog vor allem die Betreuung des DHd Twitter-Accounts (ggf. Instagram und…",
-          "link": "https://dig-hum.de/aktuelles/ausschreibung-dhd-communications-fellowship-verl%C3%A4ngerte-bewerbungsfrist-310822",
-          "publishedOn": "2022-08-01T19:58:14.000Z",
-          "wordCount": 901,
-          "title": "Ausschreibung: DHd Communications Fellowship (Verlängerte Bewerbungsfrist: 31.08.22)"
         }
       ]
     },
@@ -2371,6 +2362,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=9628",
+          "author": "Anaïs Wion",
+          "description": "The collections of African objects in French museums remain rather unknown. Yet the holdings of some 200 French museums contain …",
+          "link": "https://digitalorientalist.com/2023/01/27/african-and-oceanian-objects-in-french-museums-mapping-as-a-tool-for-rethinking-heritage-and-historicizing-objects/",
+          "publishedOn": "2023-01-27T14:00:00.000Z",
+          "wordCount": 2033,
+          "title": "African and Oceanian Objects in French Museums: Mapping as a Tool for Rethinking Heritage and Historicizing Objects"
+        },
         {
           "id": "http://digitalorientalist.com/?p=9658",
           "author": "The Digital Orientalist",
@@ -3575,15 +3575,6 @@
           "publishedOn": "2022-08-17T15:14:07.000Z",
           "wordCount": 1314,
           "title": "These are a few of my favourite things… in the Living with Machines exhibition"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=2576",
-          "author": "Léllé Demertzi",
-          "description": "Emma Griffin (Historian and Co-investigator) gives an introduction to the research project Kaspar Beelan (Research Associate) demonstrates how he’s using the Mitchell’s press directories in his research on the bias of newspapers.  These directories were published annually and were designed to give advertisers an overview of the newspapers of the day. Katherine McDonough (Senior Research […]",
-          "link": "https://livingwithmachines.ac.uk/living-with-machines-present-some-of-their-research-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=living-with-machines-present-some-of-their-research-to-date",
-          "publishedOn": "2022-08-01T08:52:00.000Z",
-          "wordCount": 383,
-          "title": "Living with Machines present some of their research to date at the Turing catch-up"
         }
       ]
     },
@@ -4894,15 +4885,6 @@
           "publishedOn": "2022-08-08T13:00:00.000Z",
           "wordCount": 1068,
           "title": "Manuscript Monday: Ms. Codex 1641 – The history of King Richard the Third"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17082",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1639, proceedings of the Inquisition in Mexico concerning riots in Mexico City and elsewhere in 1767. A compilation of various letters, declarations, and legal documents, many with signatures and many noted as reviewed byContinue reading \"Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition\"",
-          "link": "https://schoenberginstitute.org/2022/08/01/manuscript-monday-ms-codex-1639-proceedings-of-inquisition/",
-          "publishedOn": "2022-08-01T13:00:00.000Z",
-          "wordCount": 1079,
-          "title": "Manuscript Monday: Ms. Codex 1639 – Proceedings of Inquisition"
         }
       ]
     },
@@ -5443,15 +5425,6 @@
           "publishedOn": "2022-08-08T23:52:53.000Z",
           "wordCount": 148,
           "title": "Zotero now saves links to digitised items in Trove from the NLA catalogue!"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/08/01/view-embedded-json.html",
-          "author": null,
-          "description": "The metadata for digitised books and journals in Trove can seem a bit sparse, but there’s quite a lot of useful metadata embedded within Trove’s web pages that isn’t displayed to users or made available through the Trove API. This notebook in the GLAM Workbench shows you how you can access it. To make it even easier, I’ve added a new endpoint to my Trove Proxy that returns the metadata in JSON format.\nJust pass the url of a digitised book or journal as a parameter named url to https://trove-proxy.herokuapp.com/metadata/. For example:\nhttps://trove-proxy.herokuapp.com/metadata/?url=https://nla.gov.au/nla.obj-2906940941\n\nI’ve created a simple bookmarklet to make it simpler to open the proxy. To use it just:\nDrag this link to your bookmarks toolbar: Get Trove work metadata\nView a digitised book or journal in Trove.\nClick on the bookmarklet to view the metadata in JSON format.\nTo view the JSON data in your browser you might need to install an extension like JSONView.",
-          "link": "https://updates.timsherratt.org/2022/08/01/view-embedded-json.html",
-          "publishedOn": "2022-08-01T08:22:47.000Z",
-          "wordCount": 193,
-          "title": "View embedded JSON metadata for Trove's digitised books and journals"
         }
       ]
     },
@@ -5557,6 +5530,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4391 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "\"Digitised newspapers - A New Eldorado for Historians?\" brings together the contributions of a workshop held in April 2020 on tools, methods and epistemological reflections on the use of digitised newspapers. \nOrganised in the context of the project 'impresso - Media Monitoring of the Past', this workshop gathered digital humanists, historians and librarians to share their research practices, experiences and insights when working with digitised newspaper collections. The primary target audiences are researchers and students in history, as well as researchers and practitioners in the field of digital humanities.\n \nThe book is available in open accesson the publisher's website. \nYou are welcome to join the book launch event on\nTuesday, 7 February 2023\n16.00 -16.45 CET\nto exchange with the editors.\nThis event will be held online and onsite at the C²DH, Belval campus in Luxembourg. \nPlease register here (free) before 6 February 2023: https://buytickets.at/c2dh/841440\n\n\n\n \nLegal notice\n7 February 2023\n  Digital history & historiography\n  Impresso - Media monitoring of the past  Studies in Digital History and Hermeneutics\n  Digital hermeneutics  Digital methods  Digital tools  Digitisation\n  Outreach\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/book-launch-digitised-newspapers-new-eldorado-historians",
+          "publishedOn": "2023-01-27T11:39:30.000Z",
+          "wordCount": 394,
+          "title": "Book Launch: Digitised Newspapers – A New Eldorado for Historians?"
+        },
         {
           "id": "4390 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -5996,6 +5978,33 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/julia-a-empey/",
+          "author": null,
+          "description": "Julia A. Empey received her PhD in English and Film Studies at Wilfrid Laurier University. Dr Empey is a SSHRC Postdoctoral Fellow in the Faculty of English at the University of Cambridge and the book reviews editor at Interconnections: The Journal of Posthumanism / Interconnexions: revue de posthumanisme. Her research and publication interests focus on",
+          "link": "https://www.cdh.cam.ac.uk/about/people/julia-a-empey/",
+          "publishedOn": "2023-01-26T11:45:50.000Z",
+          "wordCount": 480,
+          "title": "Julia Empey"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/after-abstraction/",
+          "author": null,
+          "description": "Space, physical and digital, has become more hotly contested than ever in post-pandemic times. After Abstraction explores how music, meaning and movement is articulated across different spaces and media. Produced by CDH Research Fellow Annja Neumann as part of her research on Re-staging public spaces this multimedia performance invites participants to become part of Cross-Connections,",
+          "link": "https://www.cdh.cam.ac.uk/about/news/after-abstraction/",
+          "publishedOn": "2023-01-26T11:24:02.000Z",
+          "wordCount": 486,
+          "title": "After Abstraction: become part of the Cross-Connections exhibition"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/restaging-public-spaces/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/restaging-public-spaces/",
+          "publishedOn": "2023-01-26T11:21:04.000Z",
+          "wordCount": 1383,
+          "title": "Re-staging public spaces"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/dr-siddharth-soni/",
           "author": null,
@@ -7534,42 +7543,6 @@
           "publishedOn": "2022-08-02T15:05:48.000Z",
           "wordCount": 3000,
           "title": "Methods Fellowships 2022/23"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/",
-          "publishedOn": "2022-08-01T13:38:18.000Z",
-          "wordCount": 667,
-          "title": "Cambridge Data Schools"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/past-data-schools/",
-          "publishedOn": "2022-08-01T13:37:35.000Z",
-          "wordCount": 390,
-          "title": "Past Data Schools"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/",
-          "publishedOn": "2022-08-01T13:37:35.000Z",
-          "wordCount": 386,
-          "title": "Past Data Schools"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/dataschools/anti-colonial-archives/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/dataschools/anti-colonial-archives/",
-          "publishedOn": "2022-08-01T13:26:13.000Z",
-          "wordCount": 544,
-          "title": "(Anti) Colonial Archives"
         }
       ]
     },
@@ -7864,6 +7837,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1611 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "Date: \n\n22 Feb 2023\n\n\nLocation: \n\nZoom\n\n\n\nFebruary’s coffee morning will take place Wednesday 22 of February at 10.00 AM and will be be hosted by James Smith from 'Ports, Past and Present', a research project who are preserving their research outputs with DRI.",
+          "link": "https://www.dri.ie/dri-coffee-morning-february-2023",
+          "publishedOn": "2023-01-27T08:53:00.000Z",
+          "wordCount": 622,
+          "title": "DRI Coffee Morning: February 2023"
+        },
         {
           "id": "1609 at https://www.dri.ie",
           "author": "clarelanigan",
