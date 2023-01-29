@@ -1454,17 +1454,7 @@
       "title": "DH@SDSU Blog",
       "feedUrl": "https://dhblog.sdsu.edu/feed",
       "siteUrl": "https://dhblog.sdsu.edu",
-      "articles": [
-        {
-          "id": "https://dhblog.sdsu.edu/?p=600",
-          "author": "Pam Lach",
-          "description": "The DH Initiative enthusiastically welcomes our newest DH Associate Director for Fall 2022. Dr. Sureshi Jayawardene will be working on a few major projects in the next two years. The first of which is to bring Digital Humanities to the Africana Studies, American Indian Studies, Asian American Studies, and Chicano and Chicana Studies in the […]",
-          "link": "https://dhblog.sdsu.edu/dh-news/meet-our-new-dh-associate-director",
-          "publishedOn": "2022-08-01T22:30:58.000Z",
-          "wordCount": 561,
-          "title": "Meet Our New DH Associate Director"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "dhCenter",
@@ -1776,15 +1766,6 @@
           "publishedOn": "2022-08-16T09:34:56.000Z",
           "wordCount": 904,
           "title": "Université Paris-Nanterre :  Chargé.e d’études – Humanités numériques / Critical heritage studies"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11353",
-          "author": "Celia Luterbacher",
-          "description": "The interdisciplinary Collaborative Research on Science and Society (CROSS) program in EPFL’s College of Humanities is now accepting joint project proposals from researcher at EPFL and the University of Lausanne on the theme of ‘crisis’. The CROSS program aims to support research projects that deal with current issues in society and technology, and that bring […]\nThe post Interdisciplinary CROSS program invites proposals on the theme of ‘crisis’ appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/08/02/interdisciplinary-cross-program-invites-proposals-on-the-theme-of-crisis-2/",
-          "publishedOn": "2022-08-02T08:48:44.000Z",
-          "wordCount": 732,
-          "title": "Interdisciplinary CROSS program invites proposals on the theme of ‘crisis’"
         }
       ]
     },
@@ -4377,29 +4358,6 @@
             "length": "1997938",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://review.gale.com/?p=13578",
-          "author": "Gale Review Team",
-          "description": "|By Rebecca Bowden, Gale Digital Scholar Lab Product Manager| On June 27, 2022, Gale launched its first Digital Humanities User Engagement Program, inviting eight Gale Primary Sources and Gale Digital Scholar Lab users to collaborate closely with the Digital Humanities Production team at Gale. The members of the User Engagement Program will provide feedback throughout ... Read more\nThe post Introducing the Gale Digital Humanities User Engagement Program appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2022/08/02/introducing-the-gale-digital-humanities-user-engagement-program/",
-          "publishedOn": "2022-08-02T09:00:00.000Z",
-          "wordCount": 1923,
-          "title": "Introducing the Gale Digital Humanities User Engagement Program"
-        },
-        {
-          "id": "https://review.gale.com/?p=13578",
-          "author": "Gale Review Team",
-          "description": "|By Rebecca Bowden, Gale Digital Scholar Lab Product Manager| On June 27, 2022, Gale launched its first Digital Humanities User Engagement Program, inviting eight Gale Primary Sources and Gale Digital Scholar Lab users to collaborate closely with the Digital Humanities Production team at Gale. The members of the User Engagement Program will provide feedback throughout ... Read more\nThe post Introducing the Gale Digital Humanities User Engagement Program appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2022/08/02/introducing-the-gale-digital-humanities-user-engagement-program/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-the-gale-digital-humanities-user-engagement-program",
-          "publishedOn": "2022-08-02T09:00:00.000Z",
-          "wordCount": 1782,
-          "title": "Introducing the Gale Digital Humanities User Engagement Program",
-          "enclosure": {
-            "url": "https://review.gale.com/wp-content/uploads/2022/08/Header-image.png",
-            "length": "437293",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -5215,6 +5173,15 @@
       "feedUrl": "https://tei-c.org/feed",
       "siteUrl": "https://tei-c.org",
       "articles": [
+        {
+          "id": "https://tei-c.org/?p=31528",
+          "author": "Hugh Cayless",
+          "description": "Are you looking for a way to become more involved in the Text Encoding Initiative Consortium’s (TEI-C) community? Do you have basic communications IT skills that you could share? We’re looking for a Communications Officer to run the TEI-C’s online presence. This is a two-year post, from March 2023 to March 2025, and open to […]",
+          "link": "https://tei-c.org/2023/01/28/call-for-communications-officer/",
+          "publishedOn": "2023-01-28T22:11:54.000Z",
+          "wordCount": 468,
+          "title": "Call for Communications Officer"
+        },
         {
           "id": "https://tei-c.org/?p=31507",
           "author": "Martina Scholger",
@@ -7525,24 +7492,6 @@
           "publishedOn": "2022-08-04T14:13:20.000Z",
           "wordCount": 757,
           "title": "About"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/methods-fellowship-2022-23/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/methods-fellowship-2022-23/",
-          "publishedOn": "2022-08-02T15:05:48.000Z",
-          "wordCount": 3000,
-          "title": "Methods Fellowships 2022/23"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/",
-          "publishedOn": "2022-08-02T15:05:48.000Z",
-          "wordCount": 3000,
-          "title": "Methods Fellowships 2022/23"
         }
       ]
     },

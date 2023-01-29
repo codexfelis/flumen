@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-01-28T08:03:28.001Z</updated>
+    <updated>2023-01-29T08:04:31.031Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call for Communications Officer]]></title>
+        <id>https://tei-c.org/?p=31528</id>
+        <link href="https://tei-c.org/2023/01/28/call-for-communications-officer/"/>
+        <updated>2023-01-28T22:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a way to become more involved in the Text Encoding Initiative Consortium’s (TEI-C) community? Do you have basic communications IT skills that you could share? We’re looking for a Communications Officer to run the TEI-C’s online presence. This is a two-year post, from March 2023 to March 2025, and open to […]]]></summary>
+        <author>
+            <name>Hugh Cayless</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[African and Oceanian Objects in French Museums: Mapping as a Tool for Rethinking Heritage and Historicizing Objects]]></title>
         <id>http://digitalorientalist.com/?p=9628</id>
@@ -11298,67 +11308,6 @@ Fellowship Date: 
 August, 2022—August, 2023]]></summary>
         <author>
             <name>perezste@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Methods Fellowships 2022/23]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/programme/methods-fellowship-2022-23/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/programme/methods-fellowship-2022-23/"/>
-        <updated>2022-08-02T15:05:48.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Methods Fellowships 2022/23]]></title>
-        <id>https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/</id>
-        <link href="https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/"/>
-        <updated>2022-08-02T15:05:48.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the Gale Digital Humanities User Engagement Program]]></title>
-        <id>https://review.gale.com/?p=13578</id>
-        <link href="https://review.gale.com/2022/08/02/introducing-the-gale-digital-humanities-user-engagement-program/"/>
-        <updated>2022-08-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[|By Rebecca Bowden, Gale Digital Scholar Lab Product Manager| On June 27, 2022, Gale launched its first Digital Humanities User Engagement Program, inviting eight Gale Primary Sources and Gale Digital Scholar Lab users to collaborate closely with the Digital Humanities Production team at Gale. The members of the User Engagement Program will provide feedback throughout ... Read more
-The post Introducing the Gale Digital Humanities User Engagement Program appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Review Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the Gale Digital Humanities User Engagement Program]]></title>
-        <id>https://review.gale.com/?p=13578</id>
-        <link href="https://review.gale.com/2022/08/02/introducing-the-gale-digital-humanities-user-engagement-program/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introducing-the-gale-digital-humanities-user-engagement-program"/>
-        <updated>2022-08-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[|By Rebecca Bowden, Gale Digital Scholar Lab Product Manager| On June 27, 2022, Gale launched its first Digital Humanities User Engagement Program, inviting eight Gale Primary Sources and Gale Digital Scholar Lab users to collaborate closely with the Digital Humanities Production team at Gale. The members of the User Engagement Program will provide feedback throughout ... Read more
-The post Introducing the Gale Digital Humanities User Engagement Program appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Review Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interdisciplinary CROSS program invites proposals on the theme of ‘crisis’]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11353</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/08/02/interdisciplinary-cross-program-invites-proposals-on-the-theme-of-crisis-2/"/>
-        <updated>2022-08-02T08:48:44.000Z</updated>
-        <summary type="html"><![CDATA[The interdisciplinary Collaborative Research on Science and Society (CROSS) program in EPFL’s College of Humanities is now accepting joint project proposals from researcher at EPFL and the University of Lausanne on the theme of ‘crisis’. The CROSS program aims to support research projects that deal with current issues in society and technology, and that bring […]
-The post Interdisciplinary CROSS program invites proposals on the theme of ‘crisis’ appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Our New DH Associate Director]]></title>
-        <id>https://dhblog.sdsu.edu/?p=600</id>
-        <link href="https://dhblog.sdsu.edu/dh-news/meet-our-new-dh-associate-director"/>
-        <updated>2022-08-01T22:30:58.000Z</updated>
-        <summary type="html"><![CDATA[The DH Initiative enthusiastically welcomes our newest DH Associate Director for Fall 2022. Dr. Sureshi Jayawardene will be working on a few major projects in the next two years. The first of which is to bring Digital Humanities to the Africana Studies, American Indian Studies, Asian American Studies, and Chicano and Chicana Studies in the […]]]></summary>
-        <author>
-            <name>Pam Lach</name>
         </author>
     </entry>
     <entry>
