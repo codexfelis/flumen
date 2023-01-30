@@ -3441,6 +3441,20 @@
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
         {
+          "id": "https://livingwithmachines.ac.uk/?p=2904",
+          "author": "Mia Ridge",
+          "description": "Kalle Westerling and Mia Ridge produced this for the Living with Machines exhibition, held in Leeds City Museum from July 2022-January 2023. The animation was designed to provide background information about Leeds industries and geography as context for visitors unfamiliar with Leeds, and to showcase digital humanities and data science outputs from the Living with […]",
+          "link": "https://livingwithmachines.ac.uk/leeds-over-time-as-seen-through-a-data-science-lens/?utm_source=rss&utm_medium=rss&utm_campaign=leeds-over-time-as-seen-through-a-data-science-lens",
+          "publishedOn": "2023-01-29T15:20:06.000Z",
+          "wordCount": 508,
+          "title": "Animation: ‘Leeds over time: as seen through a data science lens’",
+          "enclosure": {
+            "url": "https://livingwithmachines.ac.uk/wp-content/uploads/2022/07/Living-with-Machines-exhibition-video-20220719-480.mov",
+            "length": "130840184",
+            "type": "video/quicktime"
+          }
+        },
+        {
           "id": "https://livingwithmachines.ac.uk/?p=2952",
           "author": "Giorgia Tolfo",
           "description": "The British Library has digitised over 10,500 historical Ordnance Survey (OS) maps as part of the Living with Machines project (to know more about the selection process you can read our blogpost on Digitising Ordnance Survey maps).  These maps were digitised as TIFF files – a high-quality format that is standard in libraries and archives. […]",
@@ -4014,78 +4028,6 @@
           "publishedOn": "2022-08-12T17:33:54.000Z",
           "wordCount": 468,
           "title": "Cosette  Bruhns Alonso"
-        },
-        {
-          "id": "1172 at https://pricelab.sas.upenn.edu",
-          "author": "perezste@upenn.edu",
-          "description": "Academic Title: \n\nAssistant Professor, Africana Studies\n\n\n\nGrace L. Sanders Johnson is Assistant Professor of Africana Studies. She received her Ph.D. in History & Women’s Studies at the University of Michigan where she specialized in Modern Caribbean and Latin American History, Transnational Feminisms, Oral History, and African Diasporic Studies. Grace has been awarded fellowships from the Thomas J. Watson Foundation, the Andrew C. Mellon and Ford Foundations, the Canadian Embassy, and was recently awarded an Emerging Scholar Fellowship from the Haitian Studies Association for her dissertation La Voix des Femmes: Women’s Rights, National Politics, & Black Activism in Port-au-Prince and Montréal, 1934-1986. In addition to her study of twentieth-century gender, sexuality, migration, and Haitian women's social and political organizing, Grace is currently collaborating with colleagues in Haiti and throughout the diaspora to establish a Haitian women’s oral history archive.\n\n\nFellowship Date: \n\nAugust, 2022—August, 2023",
-          "link": "https://pricelab.sas.upenn.edu/fellows/sanders-johnson-grace",
-          "publishedOn": "2022-08-03T18:04:02.000Z",
-          "wordCount": 349,
-          "title": "Grace  Sanders Johnson"
-        },
-        {
-          "id": "1171 at https://pricelab.sas.upenn.edu",
-          "author": "perezste@upenn.edu",
-          "description": "Academic Title: \n\nAssistant Professor, Russian and East European Studies, University of Pennsylvania\n\n\n\nD. Brian Kim is a specialist in Russian literature of the long nineteenth century, translation studies, and literary and cultural relationships between Russia, Western Europe, and East Asia. \nDr. Kim's research broadly asks how Russians viewed and engaged in communication across languages and cultures throughout history, both within the Russian Empire and beyond its borders, and what factors motivated writers, translators, and lexicographers as they pursued their work in transnational contexts. His current book project examines the cultures, practices, and ideologies of multilingualism in imperial Russia, focusing on the interplay between literature and education to investigate a national imaginary that sought to valorize foreign languages as a way to bridge various cultural gaps between Russia and points beyond.\nAt Penn, Dr. Kim regularly offers courses on nineteenth-century Russian literary and cultural history, including seminars on Tolstoy and Dostoevsky, as well as occasional seminars on such topics as Russian identity and its permutations in historical context, and the history and sociology of reading in imperial Russia.\n\n\nFellowship Date: \n\nAugust, 2022—August, 2023",
-          "link": "https://pricelab.sas.upenn.edu/fellows/kim-brian",
-          "publishedOn": "2022-08-03T17:46:21.000Z",
-          "wordCount": 388,
-          "title": "D. Brian  Kim"
-        },
-        {
-          "id": "1170 at https://pricelab.sas.upenn.edu",
-          "author": "perezste@upenn.edu",
-          "description": "Academic Title: \n\nCurator of Digital Research Services, University of Pennsylvania\n\n\n\nAs Curator of Digital Research Services in the Schoenberg Institute for Manuscript Studies, Dot Porter participates in a wide-ranging digital humanities research and development team within the context of a special collections department. Dot's projects focus on the digitization and visualization of medieval manuscripts.\nDot holds Master's degrees in Medieval Studies and Library Science and started her career working on image-based digital editions of medieval manuscripts. She has worked on a variety of digital humanities projects over a decade-long career, focusing on materials as diverse as ancient texts and Russian religious folklore, providing both technical support and scholarly expertise. From 2010 until March 2013, she was the Associate Director for Digital Library Content and Services at the Indiana University Bloomington Libraries, where she led in planning and implementing new services to support librarians and faculty in the creation of digital projects. She has also worked for the Digital Humanities Observatory at the Royal Irish Academy and the Collaboratory for Research in Computing for Humanities at the University of Kentucky.\n\n\nFellowship Date: \n\nAugust, 2022—August, 2023",
-          "link": "https://pricelab.sas.upenn.edu/fellows/porter-dot",
-          "publishedOn": "2022-08-03T17:38:51.000Z",
-          "wordCount": 389,
-          "title": "Dot  Porter"
-        },
-        {
-          "id": "1169 at https://pricelab.sas.upenn.edu",
-          "author": "perezste@upenn.edu",
-          "description": "Academic Title: \n\nDigital Scholarship Programmer, University of Pennsylvania\n\n\n\nAndy works with project partners as the server-side programmer and technical lead on data-intensive digital humanities and digital scholarship projects. He creates lightweight web applications, digital humanities tools, and digital projects in collaboration with Penn faculty and students. Andy has a PhD in Russian history from the University of Chicago and has experience using natural language processing and computer vision to analyze large historical document collections.\n\n\nFellowship Date: \n\nAugust, 2022—August, 2023",
-          "link": "https://pricelab.sas.upenn.edu/fellows/janco-andy",
-          "publishedOn": "2022-08-03T17:26:20.000Z",
-          "wordCount": 284,
-          "title": "Andy  Janco"
-        },
-        {
-          "id": "1168 at https://pricelab.sas.upenn.edu",
-          "author": "perezste@upenn.edu",
-          "description": "Academic Title: \n\nPh.D. Candidate, History\n\n\n\nAron Brouwer MA is a PhD student focusing on the history and practices of transnational fascism and anti-fascist activism. He received his B.A. and Research M.A. in History from the University of Amsterdam. Aron's research interests include Interwar Europe, East Asian history, economic history, book history, and translation studies. At the University of Amsterdam, he published articles and chapters on the Armenian genocide (2014), new approaches in Digital Humanities (2014), Adolf Hitler (2014), and French Intellectual History (2016). His B.A. thesis on the ideological foundations of Hitler's worldview received the National Bachelor Thesis Award as the best historical B.A. thesis in the Netherlands in 2015. \nRecently, Aron co-authored a popular historical biography on William of Orange (2017) and his  M.A. thesis, entitled Translating Hitler. Towards a Global Translation History of Mein Kampf, 1925-1945 (2019), compared all Chinese, Dutch, English, French and Italian translations of Hitler's book and argued that all these texts were ideologically repacked and rhetorically reframed by the decision-makers involved.\nAt Penn, Aron published on transnational fascism and anti-fascist activism in Interwar France (2019) and his dissertation project examines what happens when politically sensitive texts become the subject of translation and the focus of ideological control.\n\n\nFellowship Date: \n\nAugust, 2022—August, 2023",
-          "link": "https://pricelab.sas.upenn.edu/fellows/brouwer-aron",
-          "publishedOn": "2022-08-03T15:14:00.000Z",
-          "wordCount": 412,
-          "title": "Aron  Brouwer"
-        },
-        {
-          "id": "1166 at https://pricelab.sas.upenn.edu",
-          "author": "perezste@upenn.edu",
-          "description": "Academic Title: \n\nPh.D. Candidate, Music\n\n\n\nWinnie W. C. Lai (she/her/hers) is a PhD candidate in Music (specializing in Sound Studies and Ethnomusicology). She is a Benjamin Franklin Fellow (2018-2022, 2023-2024), a Tarnopol Graduate Fellow (2020-2021), and a Price Lab Andrew W. Mellon Mid-doctoral Fellow in Digital Humanities (2022-2023) at the University of Pennsylvania, currently based in Philadelphia, U.S.A. and Hong Kong. Her works mainly focus on but are not limited to sonic activism, urban sound, the theoretical juncture of the sonic, listening, space, and bodies, sound studies, performance studies, political theories, and matters of Hong Kong. Winnie experiments with intermedial methods and field materials to craft out spaces for sensory experience. She is currently working on her…",
-          "link": "https://pricelab.sas.upenn.edu/fellows/lai-winnie",
-          "publishedOn": "2022-08-03T14:58:27.000Z",
-          "wordCount": 546,
-          "title": "Winnie  Lai"
-        },
-        {
-          "id": "1165 at https://pricelab.sas.upenn.edu",
-          "author": "perezste@upenn.edu",
-          "description": "Academic Title: \n\nEdward W. Kane Professor, English, University of Pennsylvania\n\n\n\nZachary Lesser received his PhD in English Literature from Columbia University and his BA in Renaissance Studies and Religious Studies from Brown University. Before coming to Penn, he taught at the University of Illinois, Urbana-Champaign. His teaching and research interests focus on Shakespeare and early modern drama, the history of material texts, bibliography and editing, early modern political and religious debate, and digital humanities.\nProf. Lesser is a general editor of The Arden Shakespeare (fourth series), along with Peter Holland and Tiffany Stern. His latest book is Ghosts, Holes, Rips and Scrapes: Shakespeare in 1619, Bibliography in the Longue Durée (Penn Press, 2021), which was shortlisted for the DeLong Book History Prize from SHARP. Both of his previous monographs won the Elizabeth Dietz Award, presented annually by SEL: Studies in English Literature to the best book in Renaissance studies. Most recently, he published Hamlet after Q1: An Uncanny History of the Shakespearean Text (Penn Press, 2015); his first book was Renaissance Drama and the Politics of Publication: Readings in the English Book Trade (Cambridge University Press, 2004).\nProf. Lesser is the co-creator, with Alan B. Farmer, of one of the earliest and most widely used DH resources in early modern studies: DEEP: Database of Early English Playbooks, an online resource for studying the printing, publishing, and marketing of Renaissance drama. With Adam Hooks, he created the Shakespeare Census, an online database of all extant copies of Shakespeare editions before 1700. \nIn 2019, he took over from Peter Stallybrass as Director of Penn's long-running Workshop in the History of Material Texts.\n\n\nFellowship Date: \n\nAugust, 2022—August, 2023",
-          "link": "https://pricelab.sas.upenn.edu/fellows/lesser-zachary",
-          "publishedOn": "2022-08-02T20:44:47.000Z",
-          "wordCount": 480,
-          "title": "Zachary  Lesser"
-        },
-        {
-          "id": "1164 at https://pricelab.sas.upenn.edu",
-          "author": "perezste@upenn.edu",
-          "description": "Academic Title: \n\nAssociate Professor, Linguistics, Haverford College\n\n\n\nBrook Danielle Lillehaugen is a linguist and associate professor in the Tri-College Department of Linguistics, at Haverford College. She is chair of linguistics at Haverford and Bryn Mawr Colleges, and co-chair of the Tri-College Department of linguistics. She received her Ph.D. in linguistics in 2006 from the University of California, Los Angeles and has been learning from Zapotec speakers since 1999. Lillehaugen’s research profile includes technical grammatical description as well as collaborative language documentation and revitalization projects. She publishes on the grammar of Zapotec languages in both their modern and historical forms. She has found combining linguistic fieldwork with tools from the digital humanities to be a productive way to collaborate with both Zapotec speaking communities and undergraduate students.  She is co-director of Ticha, a digital text explorer for Colonial Zapotec texts and leads several teams in developing online Talking Dictionaries for Zapotec languages.  Her work has been supported by the NSF, NEH, and ACLS and was awarded the Ernest A. Lynton Faculty Award for the Scholarship of Engagement for Early Career Faculty. More information can be found at her website: http://brooklillehaugen.weebly.com/.\n \n\n\nFellowship Date: \n\nAugust, 2022—August, 2023",
-          "link": "https://pricelab.sas.upenn.edu/fellows/lillihaugen-brook",
-          "publishedOn": "2022-08-02T20:19:28.000Z",
-          "wordCount": 399,
-          "title": "Brook  Lillehaugen"
         }
       ]
     },
@@ -8280,15 +8222,6 @@
           "publishedOn": "2022-08-24T09:13:16.000Z",
           "wordCount": 1040,
           "title": "DRI is Hiring! - Systems Administrator"
-        },
-        {
-          "id": "1549 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "In this blog post, we ask what defamation risks should you be aware of if you are archiving an oral history that is un-anonymised, and the interviewee mentions a third party?",
-          "link": "https://www.dri.ie/defamation-risks-oral-histories",
-          "publishedOn": "2022-08-03T14:44:32.000Z",
-          "wordCount": 2196,
-          "title": "Defamation Risks in Oral Histories"
         }
       ]
     },
@@ -8522,15 +8455,6 @@
           "publishedOn": "2022-09-01T11:02:16.000Z",
           "wordCount": 1257,
           "title": "RLUK REPORT: Academic use and perceptions of Virtual Reading Rooms and Virtual Teaching Spaces"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=12304",
-          "author": "Christina Kamposiori",
-          "description": "Last month saw the virtual Discovering Collections, Discovering Communities (DCDC) conference which brought together around 400 professionals from across the library, archive, academic and cultural heritage communities. The conference took place on 11th-15th July 2022 and explored how digital and inclusive innovation is transforming the cultural heritage and academic sectors and their relationship with [...]\nThe post Exploring EDI best practice in libraries and archives. A DCDC22 session report. appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/exploring-edi-best-practice-in-libraries-and-archives/",
-          "publishedOn": "2022-08-03T08:24:44.000Z",
-          "wordCount": 2444,
-          "title": "Exploring EDI best practice in libraries and archives. A DCDC22 session report."
         }
       ]
     },
