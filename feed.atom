@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-01-30T08:04:26.226Z</updated>
+    <updated>2023-01-31T08:03:58.836Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cambridge Data School: Short Course]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/36038/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/36038/"/>
+        <updated>2023-01-30T16:45:32.000Z</updated>
+        <summary type="html"><![CDATA[A short-course version of the Cultural Heritage Data School, teaching you the essential methods and theories of the digital humanities. Open to all, more details forthcoming. Save the date!]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Collection in DRI - Irish Film Poetry Archive]]></title>
+        <id>1612 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/new-collection-dri-irish-film-poetry-archive"/>
+        <updated>2023-01-30T15:49:03.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that a new collection – the Irish Film Poetry Archive – has been published in the Repository by researcher James O’Sullivan through University College Cork (UCC).]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Resource: Guide to archiving digital records for volunteer and community groups]]></title>
+        <id>1610 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/new-resource-guide-archiving-digital-records-volunteer-and-community-groups"/>
+        <updated>2023-01-30T09:00:35.000Z</updated>
+        <summary type="html"><![CDATA[DRI are delighted to announce a new resource: 'Guide to Archiving Digital Records for Volunteer and Community Groups', published by the Archiving Reproductive Health project.]]></summary>
+        <author>
+            <name>clarelanigan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Animation: ‘Leeds over time: as seen through a data science lens’]]></title>
         <id>https://livingwithmachines.ac.uk/?p=2904</id>
@@ -1200,6 +1230,20 @@ https://www.jstage.jst.go.jp/browse/jadh/3/0/_contents/-char/ja]]></summary>
         <summary type="html"><![CDATA[This is a post by guest contributor Mark Boersma. Twitter represents an important networking tool for many researchers and scholarly …]]></summary>
         <author>
             <name>The Digital Orientalist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools for Critical Discourse Analysis – and introduction to tool critizism]]></title>
+        <id>https://hcommons.org/deposits/item/hc:32103/</id>
+        <link href="https://openmethods.dariah.eu/2022/12/29/tools-for-critical-discourse-analysis-and-introduction-to-tool-critizism/"/>
+        <updated>2022-12-29T19:32:30.000Z</updated>
+        <summary type="html"><![CDATA[In this video, Drs. Stephanie Vie and Jennifer deWinter explain some of the tools digital humanists can use for critical discourse analysis and visualization of data collected from social media platforms. Although not all the tools they mention are open source, the majority of them have free to use or freemium versions, including AntConc, a free-to-use concordancing tool, or several Twitter data visualisation tools such as Tweeps map or Tweetstats.
+
+Even though the video does not provide just-as-good open source alternatives to Atlas.ti or MAXQDA (an obviously a recurrent question or shortcoming that is recurrently discussed on OpenMethods), it sets an excellent example for how to introduce tool criticism in the classroom alongside introduction to certain Digital Humanities Tools. After briefly touching upon both advantages and disadvantages of each tool, they encourage their audience (students in Digital Humanities study programs) to pilot each of them by using the same data-set and not only compare their results but also reflect on the epistemic processes in-between.
+
+Sharing the video on Humanities Commons with stable archiving, DOI and rich metadata is among the best things that could happen to teaching resources of all kinds.]]></summary>
+        <author>
+            <name>Author on Source</name>
         </author>
     </entry>
     <entry>
@@ -11060,71 +11104,6 @@ It’s also handy if you’re viewing a digitised work in Trove and want to capt
  Published on 2022-08-03 10:46:09]]></summary>
         <author>
             <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Anti) Colonial Archives Working Group]]></title>
-        <id>https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/</id>
-        <link href="https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/"/>
-        <updated>2022-08-04T16:56:26.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Anti) Colonial Archives Working Group]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/programme/learning/anti-colonial-archives/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/programme/learning/anti-colonial-archives/"/>
-        <updated>2022-08-04T16:56:26.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Anti) Colonial Archives Working Group]]></title>
-        <id>https://www.cdh.cam.ac.uk/learning/dataschools/anti-colonial-archives/</id>
-        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/anti-colonial-archives/"/>
-        <updated>2022-08-04T16:56:26.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning]]></title>
-        <id>https://www.cdh.cam.ac.uk/learning/</id>
-        <link href="https://www.cdh.cam.ac.uk/learning/"/>
-        <updated>2022-08-04T16:31:42.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dr Giulia Grisot]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/"/>
-        <updated>2022-08-04T16:26:13.000Z</updated>
-        <summary type="html"><![CDATA[I am a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally. I am currently part of the research project "High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century". My PhD]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Blaney]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/"/>
-        <updated>2022-08-04T16:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan is Digital Humanities Research Software Engineer at CDH. Previously he worked on Digital Humanities projects at the Institute of Historical Research, University of London, and before that at the Oxford Digital Library in the Bodleian. Going back even further, he worked as a lexicographer at Oxford University Press, across the range of English dictionaries]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[About]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/"/>
-        <updated>2022-08-04T14:13:20.000Z</updated>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>

@@ -3721,6 +3721,15 @@
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
         {
+          "id": "https://hcommons.org/deposits/item/hc:32103/",
+          "author": "Author on Source",
+          "description": "In this video, Drs. Stephanie Vie and Jennifer deWinter explain some of the tools digital humanists can use for critical discourse analysis and visualization of data collected from social media platforms. Although not all the tools they mention are open source, the majority of them have free to use or freemium versions, including AntConc, a free-to-use concordancing tool, or several Twitter data visualisation tools such as Tweeps map or Tweetstats.\n\nEven though the video does not provide just-as-good open source alternatives to Atlas.ti or MAXQDA (an obviously a recurrent question or shortcoming that is recurrently discussed on OpenMethods), it sets an excellent example for how to introduce tool criticism in the classroom alongside introduction to certain Digital Humanities Tools. After briefly touching upon both advantages and disadvantages of each tool, they encourage their audience (students in Digital Humanities study programs) to pilot each of them by using the same data-set and not only compare their results but also reflect on the epistemic processes in-between.\n\nSharing the video on Humanities Commons with stable archiving, DOI and rich metadata is among the best things that could happen to teaching resources of all kinds.",
+          "link": "https://openmethods.dariah.eu/2022/12/29/tools-for-critical-discourse-analysis-and-introduction-to-tool-critizism/",
+          "publishedOn": "2022-12-29T19:32:30.000Z",
+          "wordCount": 1078,
+          "title": "Tools for Critical Discourse Analysis – and introduction to tool critizism"
+        },
+        {
           "id": "http://openmethods.dariah.eu/?p=3306",
           "author": "Marinella Testori",
           "description": "Introduction: Developed in the context of the EU H2020 Polifonia project, the investigation deals with the potentialities of SPARQL Anything to\nto extract musical features, both at metadata and symbolic levels, from MusicXML files. The paper captures the procedure that has applied by starting from an overview about the application of ontologies to music, as well as of the so- called 'façade-based' approach to knowledge graphs, which is at the core of the SPARQL Anything software. Then, it moves to an illustration of the passages involved (i.e., melody extraction, N-grams extraction, N-grams analysis and exploitation\nof the Music Notation Ontology). Finally, it provides some considerations regarding the result of the experiment in terms of effectiveness of the queries' performance. In conclusion, the authors highlight how further studies in the field may cast an increasingly brighter light on the application of semantic-oriented methods and techniques to computational musicology. \n[Click ‘Read more’ for the full post!]",
@@ -5888,6 +5897,15 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/events/36038/",
+          "author": null,
+          "description": "A short-course version of the Cultural Heritage Data School, teaching you the essential methods and theories of the digital humanities. Open to all, more details forthcoming. Save the date!",
+          "link": "https://www.cdh.cam.ac.uk/events/36038/",
+          "publishedOn": "2023-01-30T16:45:32.000Z",
+          "wordCount": 324,
+          "title": "Cambridge Data School: Short Course"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/about/people/julia-a-empey/",
           "author": null,
           "description": "Julia A. Empey received her PhD in English and Film Studies at Wilfrid Laurier University. Dr Empey is a SSHRC Postdoctoral Fellow in the Faculty of English at the University of Cambridge and the book reviews editor at Interconnections: The Journal of Posthumanism / Interconnexions: revue de posthumanisme. Her research and publication interests focus on",
@@ -7371,69 +7389,6 @@
           "publishedOn": "2022-08-08T13:00:38.000Z",
           "wordCount": 671,
           "title": "Cambridge Data Schools"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/",
-          "publishedOn": "2022-08-04T16:56:26.000Z",
-          "wordCount": 553,
-          "title": "(Anti) Colonial Archives Working Group"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/learning/anti-colonial-archives/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/learning/anti-colonial-archives/",
-          "publishedOn": "2022-08-04T16:56:26.000Z",
-          "wordCount": 552,
-          "title": "(Anti) Colonial Archives Working Group"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/anti-colonial-archives/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/anti-colonial-archives/",
-          "publishedOn": "2022-08-04T16:56:26.000Z",
-          "wordCount": 550,
-          "title": "(Anti) Colonial Archives Working Group"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/learning/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/learning/",
-          "publishedOn": "2022-08-04T16:31:42.000Z",
-          "wordCount": null,
-          "title": "Learning"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/",
-          "author": null,
-          "description": "I am a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally. I am currently part of the research project \"High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century\". My PhD",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/",
-          "publishedOn": "2022-08-04T16:26:13.000Z",
-          "wordCount": 492,
-          "title": "Dr Giulia Grisot"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/",
-          "author": null,
-          "description": "Jonathan is Digital Humanities Research Software Engineer at CDH. Previously he worked on Digital Humanities projects at the Institute of Historical Research, University of London, and before that at the Oxford Digital Library in the Bodleian. Going back even further, he worked as a lexicographer at Oxford University Press, across the range of English dictionaries",
-          "link": "https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/",
-          "publishedOn": "2022-08-04T16:18:33.000Z",
-          "wordCount": 409,
-          "title": "Jonathan Blaney"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/",
-          "publishedOn": "2022-08-04T14:13:20.000Z",
-          "wordCount": 757,
-          "title": "About"
         }
       ]
     },
@@ -7728,6 +7683,24 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1612 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The Digital Repository of Ireland (DRI) is pleased to announce that a new collection – the Irish Film Poetry Archive – has been published in the Repository by researcher James O’Sullivan through University College Cork (UCC).",
+          "link": "https://www.dri.ie/new-collection-dri-irish-film-poetry-archive",
+          "publishedOn": "2023-01-30T15:49:03.000Z",
+          "wordCount": 616,
+          "title": "New Collection in DRI - Irish Film Poetry Archive"
+        },
+        {
+          "id": "1610 at https://www.dri.ie",
+          "author": "clarelanigan",
+          "description": "DRI are delighted to announce a new resource: 'Guide to Archiving Digital Records for Volunteer and Community Groups', published by the Archiving Reproductive Health project.",
+          "link": "https://www.dri.ie/new-resource-guide-archiving-digital-records-volunteer-and-community-groups",
+          "publishedOn": "2023-01-30T09:00:35.000Z",
+          "wordCount": 806,
+          "title": "New Resource: Guide to archiving digital records for volunteer and community groups"
+        },
         {
           "id": "1611 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
