@@ -3712,15 +3712,6 @@
           "publishedOn": "2022-08-13T08:03:51.236Z",
           "wordCount": 1696,
           "title": "Event Annotations of Prose"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.80",
-          "author": null,
-          "description": "Katukinan, Arawan, and Harakmbut are small language families spoken in south-western Amazonia. These families have received some attention, but there are no consistently transcribed and machine-readable datasets available for them. We address this lacuna by introducing the first publicly available linguistic dataset of Arawan languages as the first part of the Katukinan-Arawan-Harakmbut Database, created with the goal of providing and regularly updating a list of lexical items in a consistent transcription and with cognacy annotation. The database is being developed to be used in quantitative and genealogical investigations.\n Published on 2022-08-03 10:46:09",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.80",
-          "publishedOn": "2022-08-05T08:04:05.844Z",
-          "wordCount": 5288,
-          "title": "KAHD: Katukinan-Arawan-Harakmbut Database (Pre-release)"
         }
       ]
     },
@@ -3795,6 +3786,24 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1235 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, March 20, 2023 - 12:00pm\n\n\n\nWilliams Hall 623\n \n\n\n\nFor several years, there has been significant buzz in academica and cultural herritage instiotuions around Extended Reality, a term that encompasses a number of emerging technologies such as virtual reality and augmented reality. These tools offer scholars the possibility to create exciting and engaging experiences but does the technology live up to the hype? What sorts of experiences are possible and what promises are, at best, aspirational? Join the Graduate Student Working Group in Digital Humanities for a conversation with Jade Davis, Director of Educational Technology & Learning Management and author of the forthcoming book The Other Side of Empathy (Duke) on the promise and peril of extended reality.\n\n\nSubtitle: \n\nwith Jade Davis (Penn Libraries)\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/digital-humanities-and-extended-reality",
+          "publishedOn": "2023-02-01T17:22:04.000Z",
+          "wordCount": 317,
+          "title": "Digital Humanities and Extended Reality"
+        },
+        {
+          "id": "1234 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, February 27, 2023 - 12:00pm\n\n\n\nWilliams Hall 623\n\n\n\nDigital Humanities has deep roots in research libraries and archives. What do grad students in the humanities need to know about how DH opperates in the context of libraries and archives? What kinds of jobs are available in these spaces? Join Dot Porter, Curator of Digital Research Services in the Kislak Center, and Stewart Varner, managing director of the Price Lab, for a conversation about digital humanities in archives and libraries.\nThis meeting is part of the Graduate Student Working Group's spring series. Light snacks will be provided. Feel free to bring a lunch!\n\n\nSubtitle: \n\nWith Dot Porter (Kislak) & Stewart Varner (Price Lab)\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/digital-humanities-archives-and-libraries",
+          "publishedOn": "2023-02-01T17:05:39.000Z",
+          "wordCount": 307,
+          "title": "Digital Humanities in Archives and Libraries"
+        },
         {
           "id": "1233 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
@@ -4106,6 +4115,15 @@
       "feedUrl": "https://readcoop.eu/feed",
       "siteUrl": "https://readcoop.eu/",
       "articles": [
+        {
+          "id": "https://readcoop.eu/?p=31607",
+          "author": "Florian Stauder",
+          "description": "“I want to organise a Transkribus workshop but I don’t know where to start. Could you give me some advice?” This is a common question we get at READ-COOP. Learning to digitise historical documents can be a challenge for students, colleagues and volunteers in citizen science projects, and a workshop is a great way to […]\nThe post How to organise a successful Transkribus workshop: Jan Odstrčilík appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/how-to-organise-a-successful-transkribus-workshop-jan-odstrcilik/",
+          "publishedOn": "2023-02-01T10:00:58.000Z",
+          "wordCount": 2663,
+          "title": "How to organise a successful Transkribus workshop: Jan Odstrčilík"
+        },
         {
           "id": "https://readcoop.eu/?p=31509",
           "author": "Florian Stauder",
@@ -6005,6 +6023,15 @@
           "title": "Teaching/Gaming the Industrial Revolution: state of the art and the use of gamification in classrooms"
         },
         {
+          "id": "https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/",
+          "author": null,
+          "description": "You can now watch the recording of our December 2022 event \"Mapping the road to archival justice\".",
+          "link": "https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/",
+          "publishedOn": "2023-01-18T14:15:42.000Z",
+          "wordCount": 517,
+          "title": "(Anti) Colonial Archives Working Group"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/events/35979/",
           "author": null,
           "description": "The upcoming school will be held in-person in Cambridge, UK (20-24 March 2023), and the final deadline to apply is 15 February 2023. Applications will be considered on a rolling basis until all places are filled, so we recommend you to apply as soon as possible. Read more about the school here: https://www.cdh.cam.ac.uk/events/35485/ Do you",
@@ -7710,6 +7737,24 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1616 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "We are pleased to welcome Lorraine Marrey to the Digital Repository of Ireland (DRI) team based at the Royal Irish Academy (RIA).",
+          "link": "https://www.dri.ie/dri-welcomes-new-training-and-engagement-manager",
+          "publishedOn": "2023-02-01T10:29:53.000Z",
+          "wordCount": 621,
+          "title": "DRI Welcomes New Training and Engagement Manager"
+        },
+        {
+          "id": "1615 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "Date: \n\n28 Feb 2023\n\n\nLocation: \n\nOnline\n\n\n\nThis event is part of the RDA 10th Anniversary ‘A Decade of Data’ celebrations in support of February’s spotlight on FAIR products and services.",
+          "link": "https://www.dri.ie/worldfair-image-sharing-systems-and-practices-cultural-heritage",
+          "publishedOn": "2023-02-01T09:54:01.000Z",
+          "wordCount": 687,
+          "title": "WorldFAIR: Image Sharing Systems and Practices in Cultural Heritage"
+        },
         {
           "id": "1612 at https://www.dri.ie",
           "author": "ainemadden",
