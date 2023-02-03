@@ -3606,6 +3606,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.96",
+          "author": null,
+          "description": "This work presents a lexical database with cognate annotation and phonological alignment for over 6,500 documented language varieties. The database includes per-family and global phylogenetic resources and offers a pre-computed global tree for language variety distance from normalized trees obtained with Bayesian Markov Chain Monte Carlo (MCMC) inference. Lexical data is provided in a single tabular file for convenience of usage, and resources are built adhering to best practices and state-of-the-art algorithms for historical linguistics. The database is a convenient source for research prototypes, method development, and analysis bootstrap. All resources are freely available for download for all interested researchers.\n Published on 2023-02-02 11:16:58",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.96",
+          "publishedOn": "2023-02-03T08:04:18.511Z",
+          "wordCount": 2735,
+          "title": "A Global Lexical Database (GLED) for Computational Historical Linguistics"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.91",
           "author": null,
           "description": "New Cinema History broadened film studies by emphasising the complexity of cinema as a multifaceted phenomenon that includes the socio-economic context in which films were made, circulated, shown and received. As part of the digital turn, the discipline adopted computational methods and created quantitative research data to research this socio-economic context at scale. However, not all datasets created in this context adhere to FAIR principles, decreasing their reusability. By reconciling 14 cinema-related datasets, Cinema Belgica facilitates research into the history of Belgian cinema. This research paper documents and critically reflects on the choices made when selecting, modelling and reconciling information for the Cinema Belgica database.\n Published on 2023-01-13 10:33:40",
@@ -4186,9 +4195,9 @@
       ]
     },
     {
-      "title": "Digital Humanities - The Gale Review",
+      "title": "Digital Humanities – The Gale Review",
       "feedUrl": "https://review.gale.com/category/digital-humanities/feed",
-      "siteUrl": "https://review.gale.com/category/key-categories/digital-humanities/",
+      "siteUrl": "https://review.gale.com",
       "articles": [
         {
           "id": "https://review.gale.com/?p=13991",
@@ -5941,6 +5950,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/karen-herbane/",
+          "author": null,
+          "description": "Karen joined CDH as the Learning and Events Coordinator in March 2019. Before joining CDH, Karen supported the Director of the Wellcome Trust Stem Cell Institute as PA and Senior Administrative Assistant. Previously she worked in banking, her last role supporting the Executive General Manager to develop and implement a major growth programme in the",
+          "link": "https://www.cdh.cam.ac.uk/about/people/karen-herbane/",
+          "publishedOn": "2023-02-02T13:09:34.000Z",
+          "wordCount": 350,
+          "title": "Karen Herbane"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/36038/",
           "author": null,
@@ -8312,6 +8330,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=12954",
+          "author": "Melanie Cheung",
+          "description": "The Virtual Reading Rooms (VRRs) Toolkit is a resource for all collection-holding institutions, including libraries, archives, and museums, which are interested in setting up a VRR consultation service or are at the early stages of VRR development. VRRs constituted part of the emergency response of libraries and archives to the challenges imposed by the [...]\nThe post Virtual Reading Rooms (VRRs) Toolkit launched appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/virtual-reading-rooms-vrrs-toolkit-launched/",
+          "publishedOn": "2023-02-02T10:05:39.000Z",
+          "wordCount": 1157,
+          "title": "Virtual Reading Rooms (VRRs) Toolkit launched"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=12863",
           "author": "Melanie Cheung",

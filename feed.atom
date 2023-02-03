@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-02-02T08:04:24.857Z</updated>
+    <updated>2023-02-03T08:04:30.769Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Global Lexical Database (GLED) for Computational Historical Linguistics]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.96</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.96"/>
+        <updated>2023-02-03T08:04:18.511Z</updated>
+        <summary type="html"><![CDATA[This work presents a lexical database with cognate annotation and phonological alignment for over 6,500 documented language varieties. The database includes per-family and global phylogenetic resources and offers a pre-computed global tree for language variety distance from normalized trees obtained with Bayesian Markov Chain Monte Carlo (MCMC) inference. Lexical data is provided in a single tabular file for convenience of usage, and resources are built adhering to best practices and state-of-the-art algorithms for historical linguistics. The database is a convenient source for research prototypes, method development, and analysis bootstrap. All resources are freely available for download for all interested researchers.
+ Published on 2023-02-02 11:16:58]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karen Herbane]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/karen-herbane/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/karen-herbane/"/>
+        <updated>2023-02-02T13:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Karen joined CDH as the Learning and Events Coordinator in March 2019. Before joining CDH, Karen supported the Director of the Wellcome Trust Stem Cell Institute as PA and Senior Administrative Assistant. Previously she worked in banking, her last role supporting the Executive General Manager to develop and implement a major growth programme in the]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Reading Rooms (VRRs) Toolkit launched]]></title>
+        <id>https://www.rluk.ac.uk/?p=12954</id>
+        <link href="https://www.rluk.ac.uk/virtual-reading-rooms-vrrs-toolkit-launched/"/>
+        <updated>2023-02-02T10:05:39.000Z</updated>
+        <summary type="html"><![CDATA[The Virtual Reading Rooms (VRRs) Toolkit is a resource for all collection-holding institutions, including libraries, archives, and museums, which are interested in setting up a VRR consultation service or are at the early stages of VRR development. VRRs constituted part of the emergency response of libraries and archives to the challenges imposed by the [...]
+The post Virtual Reading Rooms (VRRs) Toolkit launched appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Humanities and Extended Reality]]></title>
         <id>1235 at https://pricelab.sas.upenn.edu</id>
