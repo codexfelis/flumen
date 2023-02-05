@@ -601,6 +601,24 @@
       "siteUrl": "https://csdh-schn.org",
       "articles": [
         {
+          "id": "https://csdh-schn.org/?p=1157",
+          "author": "Kyle Dase",
+          "description": "The Stéfan Sinclair Scholarship is designed to support a graduate student working at the intersectionof the humanities, literature, language and computing who needs financial assistance. Each year ascholarship of approximately $2250 will be awarded to help pay the tuition of one student in memoryof Stéfan Sinclair. The award is supported by family and friends of […]",
+          "link": "https://csdh-schn.org/call-for-applications-stefan-sinclair-memorial-scholarship-2023-2024-may-31st-deadline/",
+          "publishedOn": "2023-02-03T22:59:40.000Z",
+          "wordCount": 368,
+          "title": "Call for Applications – Stéfan Sinclair Memorial Scholarship 2023-2024 (May 31st Deadline)"
+        },
+        {
+          "id": "https://csdh-schn.org/?p=1163",
+          "author": "Kyle Dase",
+          "description": "La bourse Stéfan Sinclair est conçue pour appuyer une personne qui étudie à un cycle supérieur, quioeuvre à la croisée des sciences humaines, des langues, de la littérature et de l’informatique et qui abesoin d’une aide financière. Chaque année, une personne se verra attribuer une bourse de 2250$ pourl’aider à payer les frais de scolarité […]",
+          "link": "https://csdh-schn.org/appel-a-candidatures-bourse-commemorative-stefan-sinclair-2023-2024-date-limite-may-31/",
+          "publishedOn": "2023-02-03T22:59:30.000Z",
+          "wordCount": 370,
+          "title": "Appel à candidatures – Bourse commémorative Stéfan Sinclair 2023-2024 (date limite May 31)"
+        },
+        {
           "id": "https://csdh-schn.org/?p=1144",
           "author": "Kyle Dase",
           "description": "La SCHN-CSDH est à la recherche de personnes intéressées à occuper le poste de secrétaire dans son comité exécutive. Ce rôle prend la responsabilité de maintenir les inscriptions de ses membres, de consigner ses activités, et des correspondances officielles. Il s’agit d’une excellente opportunité de développement professionnel, d’engagement dans la communauté des humanités numériques au […]",
@@ -1944,15 +1962,6 @@
           "publishedOn": "2022-08-10T13:39:06.000Z",
           "wordCount": 862,
           "title": "CDHI is Hiring: Digital Projects Assistant (Work Study, Fall 2022)"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=5611",
-          "author": "DHN Admin",
-          "description": "With the exciting addition of three new postdoctoral fellows this summer, we wanted to get to know a little more about them as we head into the fall term. First up: meet Katie Mackinnon — our new Postdoctoral Fellow in Community Data.",
-          "link": "https://dhn.utoronto.ca/meet-our-postdoctoral-fellows-katie-mackinnon/?utm_source=rss&utm_medium=rss&utm_campaign=meet-our-postdoctoral-fellows-katie-mackinnon",
-          "publishedOn": "2022-08-08T19:11:45.000Z",
-          "wordCount": 975,
-          "title": "Meet Our Postdoctoral Fellows! Katie Mackinnon"
         }
       ]
     },
@@ -2255,15 +2264,6 @@
           "publishedOn": "2022-08-17T09:35:40.000Z",
           "wordCount": 770,
           "title": "Stellenangebot: Referent*in (w/m/d) für die Projektgruppe Digitales Wissensmanagement (Bundesarchiv Berlin-Lichterfelde oder Koblenz)"
-        },
-        {
-          "id": "node/842",
-          "author": "406",
-          "description": "Für die Task Area „Editions“ im NFDI-Konsortium Text+ (https://www.text-plus.org/) sucht die BBAW zum nächstmöglichen Zeitpunkt eine/n wissenschaftliche/n Mitarbeiter/in (w/m/d)…",
-          "link": "https://dig-hum.de/aktuelles/stellenausschreibung-bbaw-nfditext-editionen-und-forschungsdaten-nfdi",
-          "publishedOn": "2022-08-09T08:22:29.000Z",
-          "wordCount": 786,
-          "title": "Stellenausschreibung: BBAW, NFDI/Text+: Editionen und Forschungsdaten (NFDI)"
         }
       ]
     },
@@ -2343,6 +2343,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=9587",
+          "author": "The Digital Orientalist",
+          "description": "This is a post by DO founder L. W. Cornelis Van Lit Does a research project which produced a large …",
+          "link": "https://digitalorientalist.com/2023/02/03/a-closer-look-at-a-big-classic-humanities-project/",
+          "publishedOn": "2023-02-03T14:00:00.000Z",
+          "wordCount": 2137,
+          "title": "A closer look at a big, classic humanities project"
+        },
         {
           "id": "http://digitalorientalist.com/?p=9722",
           "author": "Rohan Chauhan",
@@ -3368,7 +3377,17 @@
       "title": "eScripta",
       "feedUrl": "https://escripta.hypotheses.org/feed",
       "siteUrl": "https://escripta.hypotheses.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://escripta.hypotheses.org/?p=500",
+          "author": "Daniel Stoekl Ben Ezra",
+          "description": "MiDRASH – Migrations of Textual and Scribal Traditions via Large-Scale Computational Analysis of Medieval Manuscripts in Hebrew Script The European Research Council has awarded an ERC Synergy Grant to the EPHE and its partner...",
+          "link": "https://escripta.hypotheses.org/500",
+          "publishedOn": "2023-02-03T17:27:12.000Z",
+          "wordCount": 757,
+          "title": "ERC Synergy MiDRASH Awarded to EPHE and partner institutions"
+        }
+      ]
     },
     {
       "title": "Judaica DH at the Penn Libraries",
@@ -3773,20 +3792,6 @@
           "publishedOn": "2022-09-19T12:37:08.000Z",
           "wordCount": 1659,
           "title": "Navigating the centuries with the ‘Mapping of the Republic of Letters’ project."
-        },
-        {
-          "id": "http://openmethods.dariah.eu/?p=3242",
-          "author": "Erzsebet Tóth-Czifra",
-          "description": "The conversation below is a special, summer episode of our Spotlight series.  It is a collaboration between OpenMethods and the Humanista podcast and this it comes as a podcast, in which Alíz Horváth, owner of the Humanista podcast series and proud Editorial Team member of OpenMethods, is asking Shih-Pei Chen, scholar and Digital Content Curator at the Max Plank Institute for the History of Science about the text analysis tools LoGaRT, RISE and SHINE; non-Latin scripted Digital Humanities, why local gazetteers are goldmines to Asian Studies, how digitization changes, broadens the kinds research questions one can study,  where are the challenges in the access to cultural heritage and liaising with proprietary infrastructure providers... and many more! Enjoy!",
-          "link": "https://openmethods.dariah.eu/2022/08/08/openmethods-spotlights-4-improving-access-to-asian-cultural-heritage-and-enabling-new-ways-to-connect-and-study-them-a-podcast-with-aliz-horvath-and-shih-pei-chen/",
-          "publishedOn": "2022-08-08T11:51:51.000Z",
-          "wordCount": 1933,
-          "title": "OpenMethods Spotlights #4 Improving access to Asian cultural heritage and enabling new ways to connect and study them: a podcast with Alíz Horváth and Shih-Pei Chen",
-          "enclosure": {
-            "url": "https://openmethods.dariah.eu/wp-content/uploads/2022/08/Shih-Pei-Chen.mp3",
-            "length": "44002516",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
@@ -4821,15 +4826,6 @@
           "publishedOn": "2022-08-15T13:00:00.000Z",
           "wordCount": 1205,
           "title": "Manuscript Monday: Ms. Codex 1642 – De las doze cargas"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17088",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1641, Late 17th-century copy of Thomas More’s negative biography of Richard III of England, copied from the version edited by John Rastell in the Workes of Sir Thomas More knyght (London, 1557), including sideContinue reading \"Manuscript Monday: Ms. Codex 1641 – The history of King Richard the Third\"",
-          "link": "https://schoenberginstitute.org/2022/08/08/manuscript-monday-ms-codex-1641-the-history-of-king-richard-the-third/",
-          "publishedOn": "2022-08-08T13:00:00.000Z",
-          "wordCount": 1068,
-          "title": "Manuscript Monday: Ms. Codex 1641 – The history of King Richard the Third"
         }
       ]
     },
@@ -5071,15 +5067,6 @@
           "publishedOn": "2022-08-16T19:12:00.000Z",
           "wordCount": 1721,
           "title": "From our Digital Bookshelf: “Rethinking research data” by Kristin Briney"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1170",
-          "author": "Leah Budke",
-          "description": "Kamposiori, Christina, Claire Warwick, and Simon Mahony. “Embedding Creativity into Digital Resources: Improving Information Discovery for Art History.” Digital Scholarship in the Humanities 37, no. 2 (June 1, 2022): 469–82. https://doi.org/10.1093/llc/fqab088.  In the Digital Bookshelf series, the Artes Research team shares with our readers an academic work we have been enjoying recently. This time, I’ve chosen a recently published article co-authored by Christina Kamposiori, Claire Warwick, and Simon Mahony. The article, titled “Embedding Creativity into Digital Resources: Improving Information Discovery...",
-          "link": "https://scholarlytales.hcommons.org/2022/08/09/from-our-digital-bookshelf-embedding-creativity-into-digital-resources-by-christina-kamposiori-claire-warwick-and-simon-mahony/",
-          "publishedOn": "2022-08-09T14:41:51.000Z",
-          "wordCount": 2140,
-          "title": "From our Digital Bookshelf: “Embedding Creativity into Digital Resources,” by Christina Kamposiori, Claire Warwick, and Simon Mahony"
         }
       ]
     },
@@ -5092,10 +5079,28 @@
           "id": "https://sites.temple.edu/tudsc/?p=8346",
           "author": "Trystram Spiro-Costello",
           "description": "By T.A. Spiro-Costello Introduction Working on the Cultural Analytics Certificate program exposed me to a lot of the best work in digital humanities scholarship.  Two fields that jumped out at me were...",
+          "link": "https://sites.temple.edu/tudsc/2023/01/04/web-scraping-to-measure-developer-nationality-on-xbox-games/?utm_source=rss&utm_medium=rss&utm_campaign=web-scraping-to-measure-developer-nationality-on-xbox-games",
+          "publishedOn": "2023-01-04T15:14:22.000Z",
+          "wordCount": 1274,
+          "title": "Web Scraping Wikipedia to Analyze XBOX Game Development Companies by Nationality"
+        },
+        {
+          "id": "https://sites.temple.edu/tudsc/?p=8346",
+          "author": "Trystram Spiro-Costello",
+          "description": "By T.A. Spiro-Costello Introduction Working on the Cultural Analytics Certificate program exposed me to a lot of the best work in digital humanities scholarship.  Two fields that jumped out at me were...",
           "link": "https://sites.temple.edu/tudsc/2023/01/04/web-scraping-to-measure-developer-nationality-on-xbox-games/",
           "publishedOn": "2023-01-04T15:14:22.000Z",
           "wordCount": 1274,
           "title": "Web Scraping Wikipedia to Analyze XBOX Game Development Companies by Nationality"
+        },
+        {
+          "id": "https://sites.temple.edu/tudsc/?p=8342",
+          "author": "Trystram Spiro-Costello",
+          "description": "By T.A. Spiro-Costello With a basic set of tools and any amount of setting the scene, a game designer can tackle almost any topic.  As a cultural critic, I try to hone...",
+          "link": "https://sites.temple.edu/tudsc/2022/12/22/critical-elements-for-making-games/?utm_source=rss&utm_medium=rss&utm_campaign=critical-elements-for-making-games",
+          "publishedOn": "2022-12-22T20:46:23.000Z",
+          "wordCount": 1518,
+          "title": "Critical Elements for Making Games"
         },
         {
           "id": "https://sites.temple.edu/tudsc/?p=8342",
@@ -5110,10 +5115,28 @@
           "id": "https://sites.temple.edu/tudsc/?p=8366",
           "author": "Austin Martin",
           "description": "By Austin Martin Introduction: Bees Are Declining, but Cities Can Be Havens for Bees Cities and urbanization are generally thought to negatively impact biodiversity. At the same time, urbanization can also increase...",
+          "link": "https://sites.temple.edu/tudsc/2022/12/21/cities-as-havens-for-bees-using-remote-sensing-to-visualize-urban-bee-habitat/?utm_source=rss&utm_medium=rss&utm_campaign=cities-as-havens-for-bees-using-remote-sensing-to-visualize-urban-bee-habitat",
+          "publishedOn": "2022-12-21T23:24:48.000Z",
+          "wordCount": 1762,
+          "title": "Cities as Havens for Bees: Using Remote Sensing to Visualize Urban Bee Habitat"
+        },
+        {
+          "id": "https://sites.temple.edu/tudsc/?p=8366",
+          "author": "Austin Martin",
+          "description": "By Austin Martin Introduction: Bees Are Declining, but Cities Can Be Havens for Bees Cities and urbanization are generally thought to negatively impact biodiversity. At the same time, urbanization can also increase...",
           "link": "https://sites.temple.edu/tudsc/2022/12/21/cities-as-havens-for-bees-using-remote-sensing-to-visualize-urban-bee-habitat/",
           "publishedOn": "2022-12-21T23:24:48.000Z",
           "wordCount": 1758,
           "title": "Cities as Havens for Bees: Using Remote Sensing to Visualize Urban Bee Habitat"
+        },
+        {
+          "id": "https://sites.temple.edu/tudsc/?p=8283",
+          "author": "Jing Han",
+          "description": "By Jing Han Introduction This pilot project is inspired by the “short squeeze” event on GameStop stock initiated by retail investors in January 2021. A short squeeze is an unusual condition that...",
+          "link": "https://sites.temple.edu/tudsc/2022/12/16/studying-meme-stock-on-reddit/?utm_source=rss&utm_medium=rss&utm_campaign=studying-meme-stock-on-reddit",
+          "publishedOn": "2022-12-16T14:36:28.000Z",
+          "wordCount": 1715,
+          "title": "Studying Meme Stock on Reddit"
         },
         {
           "id": "https://sites.temple.edu/tudsc/?p=8283",
@@ -5127,11 +5150,34 @@
         {
           "id": "https://sites.temple.edu/tudsc/?p=8287",
           "author": "Megan Kane",
+          "description": "By Megan Kane Introduction Should computational tools be used to assess student writing? Their use is certainly becoming popular, particularly in high-stakes tests like the GRE, TOEFL, and College Board placement exams....",
+          "link": "https://sites.temple.edu/tudsc/2022/12/16/counting-words-predicting-grades-a-computational-study-of-student-writing/?utm_source=rss&utm_medium=rss&utm_campaign=counting-words-predicting-grades-a-computational-study-of-student-writing",
+          "publishedOn": "2022-12-16T14:35:59.000Z",
+          "wordCount": 1602,
+          "title": "Counting Words, Predicting Grades: A Computational Study of Student Writing"
+        },
+        {
+          "id": "https://sites.temple.edu/tudsc/?p=8287",
+          "author": "Megan Kane",
           "description": "My Fall 2022 Cultural Analytics Practicum project explored whether computational tools could detect language patterns in student writing that correlate to high grades.",
           "link": "https://sites.temple.edu/tudsc/2022/12/16/counting-words-predicting-grades-a-computational-study-of-student-writing/",
           "publishedOn": "2022-12-16T14:35:59.000Z",
           "wordCount": 1592,
           "title": "Counting Words, Predicting Grades: A Computational Study of Student Writing"
+        },
+        {
+          "id": "https://sites.temple.edu/tudsc/?p=8246",
+          "author": "MD MOHAIMINUL ISLAM",
+          "description": "By Mohaiminul Islam Introducing Topology Optimization for Additive Manufacturing Additive manufacturing (3D printing) is a technique to create structures directly from computer files, much like common printers, but instead of imprinting an...",
+          "link": "https://sites.temple.edu/tudsc/2022/10/12/introduction-to-topology-optimization/?utm_source=rss&utm_medium=rss&utm_campaign=introduction-to-topology-optimization",
+          "publishedOn": "2022-10-12T14:57:49.000Z",
+          "wordCount": 1270,
+          "title": "Improving Digital Fabrication with Topology Optimization and Machine Learning",
+          "enclosure": {
+            "url": "https://sites.temple.edu/tudsc/files/2022/09/TO.mp4",
+            "length": "424645",
+            "type": "video/mp4"
+          }
         },
         {
           "id": "https://sites.temple.edu/tudsc/?p=8246",
@@ -5370,15 +5416,6 @@
           "publishedOn": "2022-08-15T06:43:44.000Z",
           "wordCount": 429,
           "title": "New GLAM data to search, visualise and explore using the GLAM Workbench!"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/08/09/zotero-now-saves.html",
-          "author": null,
-          "description": "I’ve made a small change to the Zotero translator for the National Library of Australia’s catalogue. Now, if there’s a link to a digitised version of the work in Trove, that link will be saved in Zotero’s url field. This makes it quicker and easier to view digitised items – just click on the ‘URL’ label in Zotero to open the link.\nIt’s also handy if you’re viewing a digitised work in Trove and want to capture the metadata about it. Just click on the ‘View catalogue’ link in the details tab of a Trove item, then use Zotero to save the details from the catalogue.",
-          "link": "https://updates.timsherratt.org/2022/08/09/zotero-now-saves.html",
-          "publishedOn": "2022-08-08T23:52:53.000Z",
-          "wordCount": 148,
-          "title": "Zotero now saves links to digitised items in Trove from the NLA catalogue!"
         }
       ]
     },
@@ -5933,15 +5970,6 @@
           "publishedOn": "2022-08-11T12:17:01.000Z",
           "wordCount": 437,
           "title": "HistorESCH exhibition: Escher Geschichten a 25 Objeten erzielt"
-        },
-        {
-          "id": "4142 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The conference is organised by the C²DH within the context of the project \"Doing Experimental Media Archaeology: Practice & Theory\" (DEMA), funded by the Luxembourg National Research Fund (FNR).\nThere has been a growing interest in the use of experimental approaches to the study of media histories and their cultures. An increasing number of scholars researching at the intersection of media history and theory are breaking new ground while working with archival sources and artefacts in experimental ways, e.g. through historical re-enactments and hands-on simulations. In their 2014 essay “Experimental Media Archaeology: A Plea for New Directions”, Andreas Fickers and Annie van den Oever underline the heuristic potential of hands-on approaches for re-sensitising scholars to the materiality of …",
-          "link": "https://www.c2dh.uni.lu/events/doing-experimental-media-archaeology-practice-theory",
-          "publishedOn": "2022-08-09T06:39:54.000Z",
-          "wordCount": 822,
-          "title": "Doing Experimental Media Archaeology: Practice & Theory"
         }
       ]
     },
@@ -5950,6 +5978,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/36044/",
+          "author": null,
+          "description": "The Technology & New Media Research cluster is back, with a new set of convenors! The cluster aims to connect academics over multidisciplinary discussions about technology and new media research — think mediated intimacies, AI ethics, digital labour, media discourses, and the likes. We welcome all students (undergraduate and postgraduate), staff, and visiting scholars to",
+          "link": "https://www.cdh.cam.ac.uk/events/36044/",
+          "publishedOn": "2023-02-03T14:54:05.000Z",
+          "wordCount": 494,
+          "title": "CDH Network | Technology & New Media Research"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/karen-herbane/",
           "author": null,
@@ -7443,24 +7480,6 @@
           "publishedOn": "2022-08-10T09:05:08.000Z",
           "wordCount": 522,
           "title": "Information session: CDH Methods Fellowship 2022/23"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/blog/cultural-heritage-data-school-2022/",
-          "author": null,
-          "description": "The 2022 Cultural Heritage Data School, organised by Cambridge Digital Humanities in March, drew participants from the GLAM (Galleries, Libraries, Archives, and Museums) sector and academia to an intensive application-only teaching programme that explored the techniques for creating, visualising, and analysing digital archives and collections. The programme was designed around the pipeline for digital collections",
-          "link": "https://www.cdh.cam.ac.uk/media/blog/cultural-heritage-data-school-2022/",
-          "publishedOn": "2022-08-09T10:58:55.000Z",
-          "wordCount": 893,
-          "title": "Cultural Heritage Data School 2022"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/about/programme/learning/dataschools/",
-          "publishedOn": "2022-08-08T13:00:38.000Z",
-          "wordCount": 671,
-          "title": "Cambridge Data Schools"
         }
       ]
     },
