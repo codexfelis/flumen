@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-02-08T08:04:09.529Z</updated>
+    <updated>2023-02-09T08:04:18.553Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MultiHATHI: A Complete Collection of Multilingual Prose Fiction in the HathiTrust Digital Library]]></title>
+        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.95</id>
+        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.95"/>
+        <updated>2023-02-09T08:04:08.159Z</updated>
+        <summary type="html"><![CDATA[This dataset provides detailed metadata on ca. 10.2 million works of fiction and non-fiction written after 1799 in 521 different languages available in the HathiTrust Digital Library. The dataset bolsters the May 2022 Hathifile by supplying missing predicted fiction tags with a bespoke BERT-based multilingual classifier. Our classifier completes the catalogue with an additional 400,000 non-English volumes predicted to be works of fiction, capturing 95% of all works presently provided by HathiTrust. We provide each work with metadata including the work’s genre at the level of fiction or non-fiction, length in pages, original language, and the year the work was published. With a total page count of ca. 1.4 billion pages, our dataset provides researchers with a substantial source of non-English modern literature. We also present insight into how multilingual classifiers can be trained with monolingual data, itself a discovery with implications for the study of lower resource languages. We hope our provisions will accelerate empirical research into non-English prose and literature.
+ Published on 2023-02-08 11:12:01]]></summary>
+        <author>
+            <name>Journal of Open Humanities Data Latest Articles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conference Program]]></title>
+        <id>https://dhnb.eu/?p=2538</id>
+        <link href="https://dhnb.eu/conference-program/"/>
+        <updated>2023-02-09T07:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Program Online We published the DHNB2023 conference program a while ago, but some smaller changes were necessary. You can check out the up-to-date program on our website or ConfTool. Build your Conference Agenda To build your personalised agenda, once you have registered for the conference, you can add the sessions you are interested in by […]]]></summary>
+        <author>
+            <name>Annika Rockenberger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nota Bene: Software for Academic Composition]]></title>
         <id>http://digitalorientalist.com/?p=9935</id>
@@ -82,6 +103,24 @@ C²DH Open Sapce and Webex
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current Research Projects]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/projects/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/projects/"/>
+        <updated>2023-02-06T11:38:31.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technology & New Media]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/networks/technology-new-media/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/networks/technology-new-media/"/>
+        <updated>2023-02-06T11:19:24.000Z</updated>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -898,6 +937,17 @@ Der Beitrag RaDiHum20 spricht mit Peter Niedermüller über den Studiengang in M
         <summary type="html"><![CDATA[The upcoming school will be held in-person in Cambridge, UK (20-24 March 2023), and the final deadline to apply is 15 February 2023. Applications will be considered on a rolling basis until all places are filled, so we recommend you to apply as soon as possible. Read more about the school here: https://www.cdh.cam.ac.uk/events/35485/ Do you]]></summary>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities and Data Mining: The Key to Efficient Seminar Preparation]]></title>
+        <id>https://review.gale.com/?p=13991</id>
+        <link href="https://review.gale.com/2023/01/17/digital-humanities-and-data-mining-the-key-to-efficient-seminar-preparation/"/>
+        <updated>2023-01-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[│By Becca Leeland, Gale Ambassador at the University of Exeter│ Anyone that says to a humanities student ‘all you have to do is read a book and have an opinion’ is someone who’s never had to prepare for a seminar! Seminars are the foundation of my degree – they guide me to the crucial works ... Read more
+The post Digital Humanities and Data Mining: The Key to Efficient Seminar Preparation appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Ambassadors</name>
         </author>
     </entry>
     <entry>
@@ -11215,54 +11265,6 @@ Most of the datase…]]></summary>
         <summary type="html"><![CDATA[Three Executive Steering Committee (ESC) Positions are up for election: Secretary, Membership Secretary, and Bursaries and Student/Low-Income Officer positions. The Secretary and Membership Secretary are willing to stand for another term. If you are interested in running for one of these positions, please consult the Call for Officers for more information about the duties of […]]]></summary>
         <author>
             <name>lisafischer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Annotations of Prose]]></title>
-        <id>https://openhumanitiesdata.metajnl.com/article/10.5334/johd.83</id>
-        <link href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.83"/>
-        <updated>2022-08-13T08:03:51.236Z</updated>
-        <summary type="html"><![CDATA[This dataset covers 41,341 manual event annotations of six German prose texts from the 19th and early 20th century comprising 290,997 tokens. For each text, the dataset includes annotations by two annotators and gold standard annotations. These annotations were used for the automation of narratological event annotations (Vauth, Hatzel, Gius, & Biemann, 2021), a reflection of inter annotator agreements in literary studies (Gius & Vauth, 2022) and the development of an event based plot model (Gius & Vauth, accepted).
- Published on 2022-08-12 11:01:27]]></summary>
-        <author>
-            <name>Journal of Open Humanities Data Latest Articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/photos/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/photos/"/>
-        <updated>2022-08-11T14:24:02.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/"/>
-        <updated>2022-08-11T14:16:45.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dr Anne Alexander]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/"/>
-        <updated>2022-08-11T11:22:17.000Z</updated>
-        <summary type="html"><![CDATA[Anne Alexander has been Director of Learning at CDH since its foundation. She was previously Co-ordinator of the Cambridge Digital Humanities Network. Her research interests include ethics of big data, activist media in the Middle East and the political economy of the Internet. She is a member of the Data Ethics Group and the Humanities and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Forensics]]></title>
-        <id>https://www.cdh.cam.ac.uk/research/projects/ai-forensics/</id>
-        <link href="https://www.cdh.cam.ac.uk/research/projects/ai-forensics/"/>
-        <updated>2022-08-11T06:55:55.000Z</updated>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>

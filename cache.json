@@ -64,6 +64,15 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=2538",
+          "author": "Annika Rockenberger",
+          "description": "Program Online We published the DHNB2023 conference program a while ago, but some smaller changes were necessary. You can check out the up-to-date program on our website or ConfTool. Build your Conference Agenda To build your personalised agenda, once you have registered for the conference, you can add the sessions you are interested in by […]",
+          "link": "https://dhnb.eu/conference-program/",
+          "publishedOn": "2023-02-09T07:33:18.000Z",
+          "wordCount": 385,
+          "title": "Conference Program"
+        },
+        {
           "id": "https://dhnb.eu/?p=2484",
           "author": "Sofie Gilbert",
           "description": "Keynotes have been confirmed for DHNB 2023, check out more information on the Keynote speaker webpage! The events will be held on-site at the University of Oslo Library, University of Bergen Library, and the Greenhouse at the University of Stavanger. All keynotes will also be live-streamed for online participants.",
@@ -3634,6 +3643,15 @@
       "siteUrl": "https://openhumanitiesdata.metajnl.com/articles/",
       "articles": [
         {
+          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.95",
+          "author": null,
+          "description": "This dataset provides detailed metadata on ca. 10.2 million works of fiction and non-fiction written after 1799 in 521 different languages available in the HathiTrust Digital Library. The dataset bolsters the May 2022 Hathifile by supplying missing predicted fiction tags with a bespoke BERT-based multilingual classifier. Our classifier completes the catalogue with an additional 400,000 non-English volumes predicted to be works of fiction, capturing 95% of all works presently provided by HathiTrust. We provide each work with metadata including the work’s genre at the level of fiction or non-fiction, length in pages, original language, and the year the work was published. With a total page count of ca. 1.4 billion pages, our dataset provides researchers with a substantial source of non-English modern literature. We also present insight into how multilingual classifiers can be trained with monolingual data, itself a discovery with implications for the study of lower resource languages. We hope our provisions will accelerate empirical research into non-English prose and literature.\n Published on 2023-02-08 11:12:01",
+          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.95",
+          "publishedOn": "2023-02-09T08:04:08.159Z",
+          "wordCount": 2583,
+          "title": "MultiHATHI: A Complete Collection of Multilingual Prose Fiction in the HathiTrust Digital Library"
+        },
+        {
           "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.96",
           "author": null,
           "description": "This work presents a lexical database with cognate annotation and phonological alignment for over 6,500 documented language varieties. The database includes per-family and global phylogenetic resources and offers a pre-computed global tree for language variety distance from normalized trees obtained with Bayesian Markov Chain Monte Carlo (MCMC) inference. Lexical data is provided in a single tabular file for convenience of usage, and resources are built adhering to best practices and state-of-the-art algorithms for historical linguistics. The database is a convenient source for research prototypes, method development, and analysis bootstrap. All resources are freely available for download for all interested researchers.\n Published on 2023-02-02 11:16:58",
@@ -3740,15 +3758,6 @@
           "publishedOn": "2022-08-25T08:04:31.266Z",
           "wordCount": 2231,
           "title": "Reddit Dataset on Meme Stock: GameStop"
-        },
-        {
-          "id": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.83",
-          "author": null,
-          "description": "This dataset covers 41,341 manual event annotations of six German prose texts from the 19th and early 20th century comprising 290,997 tokens. For each text, the dataset includes annotations by two annotators and gold standard annotations. These annotations were used for the automation of narratological event annotations (Vauth, Hatzel, Gius, & Biemann, 2021), a reflection of inter annotator agreements in literary studies (Gius & Vauth, 2022) and the development of an event based plot model (Gius & Vauth, accepted).\n Published on 2022-08-12 11:01:27",
-          "link": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.83",
-          "publishedOn": "2022-08-13T08:03:51.236Z",
-          "wordCount": 1696,
-          "title": "Event Annotations of Prose"
         }
       ]
     },
@@ -4208,6 +4217,15 @@
       "feedUrl": "https://review.gale.com/category/digital-humanities/feed",
       "siteUrl": "https://review.gale.com",
       "articles": [
+        {
+          "id": "https://review.gale.com/?p=13991",
+          "author": "Gale Ambassadors",
+          "description": "│By Becca Leeland, Gale Ambassador at the University of Exeter│ Anyone that says to a humanities student ‘all you have to do is read a book and have an opinion’ is someone who’s never had to prepare for a seminar! Seminars are the foundation of my degree – they guide me to the crucial works ... Read more\nThe post Digital Humanities and Data Mining: The Key to Efficient Seminar Preparation appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2023/01/17/digital-humanities-and-data-mining-the-key-to-efficient-seminar-preparation/",
+          "publishedOn": "2023-01-17T10:00:00.000Z",
+          "wordCount": 2083,
+          "title": "Digital Humanities and Data Mining: The Key to Efficient Seminar Preparation"
+        },
         {
           "id": "https://review.gale.com/?p=13991",
           "author": "Gale Ambassadors",
@@ -5983,6 +6001,24 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/",
+          "publishedOn": "2023-02-06T11:38:31.000Z",
+          "wordCount": 332,
+          "title": "Current Research Projects"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/networks/technology-new-media/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/networks/technology-new-media/",
+          "publishedOn": "2023-02-06T11:19:24.000Z",
+          "wordCount": 474,
+          "title": "Technology & New Media"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/events/36044/",
           "author": null,
           "description": "The Technology & New Media Research cluster is back, with a new set of convenors! The cluster aims to connect academics over multidisciplinary discussions about technology and new media research — think mediated intimacies, AI ethics, digital labour, media discourses, and the likes. We welcome all students (undergraduate and postgraduate), staff, and visiting scholars to",
@@ -7421,42 +7457,6 @@
           "publishedOn": "2022-08-15T14:20:57.000Z",
           "wordCount": 396,
           "title": "Past Methods Fellows"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/photos/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/media/photos/",
-          "publishedOn": "2022-08-11T14:24:02.000Z",
-          "wordCount": 348,
-          "title": "Photos"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/media/",
-          "publishedOn": "2022-08-11T14:16:45.000Z",
-          "wordCount": 353,
-          "title": "Media"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/",
-          "author": null,
-          "description": "Anne Alexander has been Director of Learning at CDH since its foundation. She was previously Co-ordinator of the Cambridge Digital Humanities Network. Her research interests include ethics of big data, activist media in the Middle East and the political economy of the Internet. She is a member of the Data Ethics Group and the Humanities and",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/",
-          "publishedOn": "2022-08-11T11:22:17.000Z",
-          "wordCount": 459,
-          "title": "Dr Anne Alexander"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/research/projects/ai-forensics/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/research/projects/ai-forensics/",
-          "publishedOn": "2022-08-11T06:55:55.000Z",
-          "wordCount": 671,
-          "title": "AI Forensics"
         }
       ]
     },
