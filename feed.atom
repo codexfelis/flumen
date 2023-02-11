@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-02-10T08:03:57.281Z</updated>
+    <updated>2023-02-11T08:03:39.382Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Resources for the Study of Persian Manuscripts]]></title>
+        <id>http://digitalorientalist.com/?p=10089</id>
+        <link href="https://digitalorientalist.com/2023/02/10/digital-resources-for-the-study-of-persian-manuscripts/"/>
+        <updated>2023-02-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The following resources are some of the main institutions and libraries for the purpose, but this post can be updated …]]></summary>
+        <author>
+            <name>Shiva Mihan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stakeholder Survey Open for the National Open Access Monitor Project]]></title>
+        <id>1619 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/stakeholder-survey-open-national-open-access-monitor-project"/>
+        <updated>2023-02-10T12:28:11.000Z</updated>
+        <summary type="html"><![CDATA[The first stakeholder survey for the National Open Access Monitor Project is now open.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI is Hiring a Systems Administrator]]></title>
+        <id>1618 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-hiring-systems-administrator-tcd"/>
+        <updated>2023-02-10T11:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Applications are invited for the position of Systems Administrator as part of the Digital Repository of Ireland tehnical team based at Trinity College Dublin.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RECOMMENDED: Tech Won’t Save Us: Don’t Fall for the AI Hype with Timnit Gebru]]></title>
         <id>https://dhandlib.org/?p=125664</id>
@@ -11358,68 +11388,6 @@ I’m very excited to announce that the British Library is now sponsoring the we
 The web archives section was developed in 2020 with the support of the International Internet Preservation Consortium’s Discretionary Funding Programme, in collaboration with the British Library, the National Library of Australia, and the National Library of New Zealand. It’s intended to help historians, and other researchers, understand what sort of data is available through web archives, how to get it,  and what you can do with it. It provides a series of tools and examples that document existing AP…]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Our Postdoctoral Fellows! Rachel Corbman]]></title>
-        <id>https://dhn.utoronto.ca/?p=5605</id>
-        <link href="https://dhn.utoronto.ca/meet-our-postdoctoral-fellows-rachel-corbman/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=meet-our-postdoctoral-fellows-rachel-corbman"/>
-        <updated>2022-08-15T15:42:11.000Z</updated>
-        <summary type="html"><![CDATA[Heading into the fall term, learn more about Rachel Corbman, CDHI's new Postdoctoral Fellow in Community Data.]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Past Methods Fellows]]></title>
-        <id>https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/past-methods-fellows/</id>
-        <link href="https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/past-methods-fellows/"/>
-        <updated>2022-08-15T14:20:57.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1642 – De las doze cargas]]></title>
-        <id>http://schoenberginstitute.org/?p=17093</id>
-        <link href="https://schoenberginstitute.org/2022/08/15/ms-codex-1642/"/>
-        <updated>2022-08-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Penn Library’s Ms. Codex 1642, the responses of Bartolomé de las Casas to Juan Ginés de Sepúlveda’s twelve refutations following the junta of Valladolid. The junta was convened by Holy Roman Emperor Charles V in 1550 and 1551Continue reading "Manuscript Monday: Ms. Codex 1642 – De las doze cargas"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New GLAM data to search, visualise and explore using the GLAM Workbench!]]></title>
-        <id>http://wragge.micro.blog/2022/08/15/new-glam-data.html</id>
-        <link href="https://updates.timsherratt.org/2022/08/15/new-glam-data.html"/>
-        <updated>2022-08-15T06:43:44.000Z</updated>
-        <summary type="html"><![CDATA[There’s lots of GLAM data out there if you know where to look! For the past few years I’ve been harvesting a list of datasets published by Australian galleries, libraries, archives, and museums through open government data portals. I’ve just updated the harvest and there’s now 463 datasets containing 1,192 files. There’s a human-readable version of the list that you can browse. If you just want the data you can download it as a CSV. Or if you’d like to search the list there’s a database version hosted on Glitch. The harvesting and processing code is available in this notebook.
-The GLAM data from government portals section of the GLAM Workbench provides more information and a summary of results.  For example, here’s a list of the number of data files by GLAM institution.
-
-Most of the datase…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Sessions for CAA 2023]]></title>
-        <id>https://sites.caa-international.org/main/?p=16303</id>
-        <link href="https://caa-international.org/2022/08/14/call-for-sessions-for-caa-2023/"/>
-        <updated>2022-08-14T20:47:50.000Z</updated>
-        <summary type="html"><![CDATA[The Call for Sessions for the CAA 2023 is open. CAA2023, which will be held in Amsterdam, Netherlands, from 3 to 6 April 2023, will be the organisation’s 50th conference. To learn more and submit your session proposal, please see the Call for Sessions. Proposals must be received by 19 August 2022.]]></summary>
-        <author>
-            <name>lisafischer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Open ESC Positions]]></title>
-        <id>https://sites.caa-international.org/main/?p=16301</id>
-        <link href="https://caa-international.org/2022/08/14/call-for-open-esc-positions-3/"/>
-        <updated>2022-08-14T20:39:25.000Z</updated>
-        <summary type="html"><![CDATA[Three Executive Steering Committee (ESC) Positions are up for election: Secretary, Membership Secretary, and Bursaries and Student/Low-Income Officer positions. The Secretary and Membership Secretary are willing to stand for another term. If you are interested in running for one of these positions, please consult the Call for Officers for more information about the duties of […]]]></summary>
-        <author>
-            <name>lisafischer</name>
         </author>
     </entry>
     <entry>
