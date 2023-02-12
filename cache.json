@@ -1856,24 +1856,6 @@
           "publishedOn": "2022-08-18T08:48:22.000Z",
           "wordCount": 303,
           "title": "Les débats d’été du «Temps»: quelle éthique pour un monde connecté?"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11393",
-          "author": "Celia Luterbacher",
-          "description": "The College of Humanities Artist-in-Residence program (CDH AiR) ‘Enter the Hyper-Scientific’ has launched its 2023 call, which will support up to four artists for three months of research and experimentation connecting art, humanities, science, and technology. This year’s edition will see a new partnership with the City of Lausanne. Initiated by the EPFL College of […]\nThe post EPFL CDH Artist-in-Residence program opens call for second edition appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/08/16/epfl-cdh-artist-in-residence-program-opens-call-for-second-edition/",
-          "publishedOn": "2022-08-16T12:22:15.000Z",
-          "wordCount": 763,
-          "title": "EPFL CDH Artist-in-Residence program opens call for second edition"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11385",
-          "author": "Heloise schibler",
-          "description": "Le poste s’inscrit dans le cadre du projet ANR COLLABORA, qui vise à développer une réflexion théorique, empirique et politique à propos de plateformes numériques contributives de création, documentation et valorisation des patrimoines. Cette étude se concentre sur la problématique des controverses patrimoniales. Le poste est rattaché au laboratoire Dicen-Idf (Dispositifs d’Information et de Communication […]\nThe post Université Paris-Nanterre :  Chargé.e d’études – Humanités numériques / Critical heritage studies appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/08/16/universite-paris-nanterre-charge-e-detudes-humanites-numeriques-critical-heritage-studies/",
-          "publishedOn": "2022-08-16T09:34:56.000Z",
-          "wordCount": 904,
-          "title": "Université Paris-Nanterre :  Chargé.e d’études – Humanités numériques / Critical heritage studies"
         }
       ]
     },
@@ -4159,15 +4141,6 @@
           "publishedOn": "2022-08-23T14:48:57.000Z",
           "wordCount": 384,
           "title": "Nationalizing Epics"
-        },
-        {
-          "id": "1175 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Detecting Genre in Pitchfork Reviews\n\n\nProject Start Date: \n\nAugust, 2021\n\n\n\nWe analyze 23,000 reviews from Pitchfork.com to establish a network of over 7,000 artists based on their co-presence in reviews. We use Gephi's (Louvain community detection) modularity class feature to sort the network into closely connected groups. However, because this process is non-deterministic, we improve on its results by running it 10,000 times. Using this novel \"metamodularity\" method we can show how often any two artists were sorted into the same group. For instance, the jazz musician Alice Coltrane was grouped with John Coltrane 10,000 times, with Sly and the Family Stone 4,939 times, and with Guns n’ Roses one time. With these data, we can visualize how the largely undifferentiated mass of artists fragments into more and more connected groups could be described as genres. \nWhile some of the genres suggested by this method are incredibly specific, one notable exception is the group of African American musicians, which is remarkably large and stable. The artists within it range from Flying Lotus to Motown legend Marvin Gaye to trap rapper Young Thug to R&B singer-songwriter Sade to gangster rapper Tupac Shakur to funk innovators Funkadelic to cross-over hip hop star Cardi B. This is a far more capacious group than most rock clusters along aesthetic, market, and even historic grounds. This may reflect real world connections, yet it is also possible that this metamodularity difference reflects a bias at Pitchfork, where a (historically) rock-oriented hipster aesthetic and a (historically) largely white male audience may correspond to a relative lack of nuance when covering Black artists (historically). In any case, it is fair to say based on these data that Pitchfork has written about Black artists in a structurally unique way over the years relative to their coverage of white artists.\n\n\n\n\n\n\nInsert an Image: \n\n\n\n\nProject Principal Investigator: \n\nJ.D.  Porter\nStewart  Varner",
-          "link": "https://pricelab.sas.upenn.edu/projects/minor-lables",
-          "publishedOn": "2022-08-16T16:55:49.000Z",
-          "wordCount": 527,
-          "title": "Minor Lables"
         }
       ]
     },
@@ -5143,24 +5116,6 @@
           "publishedOn": "2022-08-18T09:34:59.000Z",
           "wordCount": 1718,
           "title": "Job Vacancy: Machine Learning for Information Extraction from Ancient Texts on the NIKAW Project"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1193",
-          "author": "Nele Noppe",
-          "description": "Research data management (RDM) is as old as research itself. Scholars across the centuries have developed ways to organize and preserve the materials they work with. In today’s age of seemingly boundless technological possibilities, tool options, and ideas, more and more funders and institutions are outlining formal requirements around RDM to help overwhelmed researchers find their way to the latest best practices in handling data. These requirements aren’t always experienced as helpful, of course. The lingo of RDM can sound...",
-          "link": "https://scholarlytales.hcommons.org/2022/08/16/from-our-digital-bookshelf-rethinking-research-data-by-kristin-briney/",
-          "publishedOn": "2022-08-16T19:12:00.000Z",
-          "wordCount": 1721,
-          "title": "From our Digital Bookshelf: “Rethinking research data” by Kristin Briney"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1193",
-          "author": "Nele Noppe",
-          "description": "Research data management (RDM) is as old as research itself. Scholars across the centuries have developed ways to organize and preserve the materials they work with. In today’s age of seemingly boundless technological possibilities, tool options, and ideas, more and more funders and institutions are outlining formal requirements around RDM to help overwhelmed researchers find their way to the latest best practices in handling data. These requirements aren’t always experienced as helpful, of course. The lingo of RDM can sound...",
-          "link": "https://scholarlytales.hcommons.org/2022/08/16/from-our-digital-bookshelf-rethinking-research-data-by-kristen-briney/",
-          "publishedOn": "2022-08-16T19:12:00.000Z",
-          "wordCount": 1721,
-          "title": "From our Digital Bookshelf: “Rethinking research data” by Kristin Briney"
         }
       ]
     },
@@ -5492,15 +5447,6 @@
           "publishedOn": "2022-08-25T03:29:39.000Z",
           "wordCount": 34,
           "title": "Untitled"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/08/16/many-thanks-to.html",
-          "author": null,
-          "description": "You might have noticed some changes to the web archives section of the GLAM Workbench.\n\nI’m very excited to announce that the British Library is now sponsoring the web archives section! Many thanks to the British Library and the UK Web Archive for their support – it really makes a difference.\nThe web archives section was developed in 2020 with the support of the International Internet Preservation Consortium’s Discretionary Funding Programme, in collaboration with the British Library, the National Library of Australia, and the National Library of New Zealand. It’s intended to help historians, and other researchers, understand what sort of data is available through web archives, how to get it,  and what you can do with it. It provides a series of tools and examples that document existing AP…",
-          "link": "https://updates.timsherratt.org/2022/08/16/many-thanks-to.html",
-          "publishedOn": "2022-08-16T00:21:59.000Z",
-          "wordCount": 395,
-          "title": "Many thanks to the British Library – sponsors of the GLAM Workbench’s web archives section!"
         }
       ]
     },
@@ -7520,15 +7466,6 @@
           "publishedOn": "2022-08-23T11:27:22.000Z",
           "wordCount": 468,
           "title": "Open Days"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/simone-abbiati/",
-          "author": null,
-          "description": "Simone Abbiati is a second-year PhD student in Transcultural studies in the humanities at the University of Bergamo, with a “department of Excellence” researcher grant for Digital Humanities. He graduated in Contemporary Italian Literature at the University of Milan, worked on the narratological category of spatiality in “The Experience of Pain” by C.E. Gadda (BA)",
-          "link": "https://www.cdh.cam.ac.uk/about/people/simone-abbiati/",
-          "publishedOn": "2022-08-16T09:41:56.000Z",
-          "wordCount": 485,
-          "title": "Simone Abbiati"
         }
       ]
     },
@@ -7815,15 +7752,6 @@
           "publishedOn": "2022-08-24T13:28:28.000Z",
           "wordCount": 232,
           "title": "CLARIN Newsflash August 2022 is Out!"
-        },
-        {
-          "id": "5771 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "EOSC Future Announces RDA Call for Domain Ambassadors\n\n            \nAs part of the EOSC Future project to which CLARIN participates, the Research Data Alliance (RDA) is launching a series of calls for proposals to improve the technical data frameworks for the European Open Science Cloud (\n    \nEuropean Open Science Cloud\n\r\n\r\nSee: https://www.clarin.eu/eosc\n\r\nread more\n\n  ). Launched on 11 July, a new call will support a network of experts in integrating their disciplinary know-how and community achievements within EOSC. Applicants can submit their proposal until 15 September 2022, 16.00 CET via the EOSC Future Grants Platform.\nEOSC Future wants to develop a European Open Science Cloud (EOSC) whose technical specificities are receptive and responsive to the needs and realities of various do…",
-          "link": "https://www.clarin.eu/news/eosc-future-announces-rda-call-domain-ambassadors",
-          "publishedOn": "2022-08-16T07:50:46.000Z",
-          "wordCount": 525,
-          "title": "EOSC Future Announces RDA Call for Domain Ambassadors"
         }
       ]
     },
