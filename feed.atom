@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-02-12T08:03:48.163Z</updated>
+    <updated>2023-02-13T08:04:22.174Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call for Papers: JADH2023]]></title>
+        <id>74 at https://www.jadh.org</id>
+        <link href="https://www.jadh.org/jadh2023cfp"/>
+        <updated>2023-02-13T06:26:31.000Z</updated>
+        <summary type="html"><![CDATA[JADH2023: “Possibilities for Data-Driven Humanities”
+The Japanese Association for Digital Humanities (JADH) is pleased to announce its 12th annual conference, to be held virtually by the National Institute of Japanese Literature on September 20-22, 2023, around 9am to 6pm in Japanese standard time.
+We invite proposals on all aspects of Digital Humanities, and especially encourage papers treating topics that deal with practices that cross borders, for example, between academic fields, media, languages, cultures, organizations, and so on, as related to the field of Digital Humanities.
+The recent global spread of open science has led to data-driven science, and expectations are also growing for the humanities. Data-driven research in the humanities is still in its infancy, and in many fields,…]]></summary>
+        <author>
+            <name>adminweb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Resources for the Study of Persian Manuscripts]]></title>
         <id>http://digitalorientalist.com/?p=10089</id>
@@ -11223,48 +11236,6 @@ The post Les débats d’été du «Temps»: quelle éthique pour un monde conne
         <summary type="html"><![CDATA[The Living with Machines exhibition was co-curated by our Co-Investigator Mia Ridge (Digital Curator at the British Library) and John McGoldrick (Curator of Industrial History, Leeds Museums and Galleries). In this post, Mia provides some behind-the-scenes insights… I’m still finding it hard to believe that our exhibition is open to the public at Leeds City […]]]></summary>
         <author>
             <name>Mia Ridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The impact of war experiences in Europe – The conscription of non-German men and women into the Wehrmacht and Reichsarbeitsdienst (1938-1945)]]></title>
-        <id>4144 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/impact-war-experiences-europe-conscription-non-german-men-and-women-wehrmacht-and"/>
-        <updated>2022-08-17T13:23:29.000Z</updated>
-        <summary type="html"><![CDATA[In connection with the WARLUX research project, launched in 2020 at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg, we are pleased to invite you to our international conference on 26-28 October 2022. The conference will focus on the impact of war experiences of non-German nationals serving in the Nazi German armed forces and labour organisations.
-We are honoured to welcome two internationally distinguished keynote speakers:
-Prof. Dr. Jörg Echternkamp, Martin-Luther-Universität Halle-Wittenberg / Zentrum für Militärgeschichte und Sozialwissenschaften der Bundeswehr (ZMSBw), Germany
-Historicizing Experiences of War: Profits and Pitfalls of Narratological Approaches
-Date & time: 26 October 2022 - 6 pm
-Location: University of Luxembourg - Campus Belval - Maison du Savoir - MSA 3.330
-and
-Prof. Dr. Elizabeth Vlossak, Brock University, Canada
-'Forced conscripts' in history and memory
-Date & time: 27 October 2022 - 6 pm
-Location: University of Luxembourg - Campus Belval - Maison du Savoir - MSA 3.160
- 
-The detailed programme of the event will follow soon.
-The conference will be organised in a hybrid mode, which will allow for both physical and online participation.
-For more information please contact: warlux@uni.lu
-26 October 2022 to 28 October 2022
-  WARLUX - Soldiers and their communities in WWII: The impact and legacy of war experiences in Luxembourg
-  WW2
-  Conferences
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: Referent*in (w/m/d) für die Projektgruppe Digitales Wissensmanagement (Bundesarchiv Berlin-Lichterfelde oder Koblenz)]]></title>
-        <id>node/843</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-referentin-wmd-f%C3%BCr-die-projektgruppe-digitales-wissensmanagement"/>
-        <updated>2022-08-17T09:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Das Bundesarchiv sucht am Standort Berlin-Lichterfelde oder Koblenz
-eine Referentin / einen Referenten (w/m/d)
-in der Abteilung B (Bundesrepublik Deutschland) für das Referat B 4…]]></summary>
-        <author>
-            <name>406</name>
         </author>
     </entry>
     <entry>
