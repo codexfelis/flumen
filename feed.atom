@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-02-14T08:04:26.696Z</updated>
+    <updated>2023-02-15T08:04:32.540Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Florence D. Harry]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/florence-d-harry/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/florence-d-harry/"/>
+        <updated>2023-02-14T15:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Florence is excited to be joining CDH part-time as Communications and Events Coordinator as of February 2023, having just completed her MPhil in Philosophy of Religion at the University of Cambridge. She is passionate about higher education and fascinated by the new opportunities afforded to the humanities in an increasingly digital age. In her spare]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amira Moeding]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/amira-moeding/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/amira-moeding/"/>
+        <updated>2023-02-14T14:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Amira Moeding is a PhD student at Cambridge University in the history of Political Thought and Intellectual History, supervised by Dr Emma Mackinnon. Amira’s PhD project focuses on the Intellectual History of ‘Big Data,’ how ‘Big Data’ as an approach to building artificial intelligence became thinkable, how data became foremost an economic resource, and how]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophie Mary]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/sophie-mary/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/sophie-mary/"/>
+        <updated>2023-02-14T14:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Sophie is a PhD candidate in the Sociology Department at the University of Cambridge. She holds a BA in Media Culture from Maastricht University (2016 - 2019), as well as an MSc in Marketing from the University of Edinburgh (2019 - 2020). Her current research, which she began as a master's student, focuses on the]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An alternative to the undergraduate research paper: Online Exhibitions with ArtSteps]]></title>
+        <id>http://digitalorientalist.com/?p=10114</id>
+        <link href="https://digitalorientalist.com/2023/02/14/an-alternative-to-the-undergraduate-research-paper-online-exhibitions-with-artsteps/"/>
+        <updated>2023-02-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The release of a public version of OpenAI’s generative AI platform, Chat GPT, at the end of last year has …]]></summary>
+        <author>
+            <name>Elizabeth Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elizabeth Smith]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/elizabeth-smith/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/elizabeth-smith/"/>
+        <updated>2023-02-14T12:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Liz is the digital curator for 19th century science collections at Cambridge University Library, with responsibility for data relating to 19th century scientific manuscripts. She worked first with the Newton Project, and then with the Darwin Correspondence Project, where she formed part of the team that converted the Project’s core files to TEI XML. She continues]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Die Stiftung Preußischer Kulturbesitz sucht drei Bibliotheksreferendar:innen (m/w/d) mit DH-Expertise]]></title>
         <id>node/883</id>
@@ -55,6 +105,16 @@
         <summary type="html"><![CDATA[Dr Michael Hawkins has been working in Digital Humanities since completing his PhD on Thomas Willis’s neurocartography of the passions at Imperial College London in 2004. He has served as Technical Director of numerous digital humanities projects. His main areas of interest are editing and encoding materials for historical research. His specialities include TEI, XSLT, xQuery,]]></summary>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Welcomes University College Dublin as Member]]></title>
+        <id>1620 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-welcomes-university-college-dublin-new-member"/>
+        <updated>2023-02-13T08:36:22.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that University College Dublin (UCD) has joined as our latest member.]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
         </author>
     </entry>
     <entry>
@@ -11210,62 +11270,6 @@ The post “Our Shakespeare was Tupac Shakur” first appeared on CDH.]]></summa
         <summary type="html"><![CDATA[The new academic year is just around the corner — what better time to learn about our new team members? Meet Khanh Vo, the JHI-CDHI Digital Humanities Postdoctoral Fellow for 2022-23.]]></summary>
         <author>
             <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erinnerung: Ausschreibung DHd Communications Fellowship (verlängerte Bewerbungsfrist bis zum 31.08.22)]]></title>
-        <id>node/846</id>
-        <link href="https://dig-hum.de/aktuelles/erinnerung-ausschreibung-dhd-communications-fellowship-verl%C3%A4ngerte-bewerbungsfrist-zum"/>
-        <updated>2022-08-19T13:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Der DHd-Verband sucht zum nächstmöglichen Zeitpunkt eine*n neue*n Communication Fellow (m/w/d).
-Was gehört zu den Aufgaben?
-Zu den Aufgaben gehören neben der Erstellung von…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In eigener Sache: Der DHd macht Sommerpause (20.8.-6.9.22)]]></title>
-        <id>node/845</id>
-        <link href="https://dig-hum.de/aktuelles/eigener-sache-der-dhd-macht-sommerpause-208-6922"/>
-        <updated>2022-08-19T13:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Vom 20. August 2022 bis zum 6. September 2022 machen wir Sommerferien.
-Wir bitten um Verständnis, wenn in diesem Zeitraum an uns gestellte Anfragen (Email info@dig-hum.de) nicht…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CfP: Digital ist besser? Sammlungsforschung im digitalen Zeitalter]]></title>
-        <id>node/844</id>
-        <link href="https://dig-hum.de/aktuelles/cfp-digital-ist-besser-sammlungsforschung-im-digitalen-zeitalter"/>
-        <updated>2022-08-19T13:35:13.000Z</updated>
-        <summary type="html"><![CDATA[Endterm-Tagung
-16. u. 17. Februar 2023
-Klassik Stiftung Weimar
-Im Deutschen Literaturarchiv Marbach, der Klassik Stiftung Weimar und der Herzog August Bibliothek Wolfenbüttel…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEI 2022 — register now!]]></title>
-        <id>https://tei-c.org/?p=31362</id>
-        <link href="https://tei-c.org/2022/08/19/tei-2022-register-now/"/>
-        <updated>2022-08-19T10:54:45.000Z</updated>
-        <summary type="html"><![CDATA[The TEI2022 Registration is live. Please see https://conferences.ncl.ac.uk/tei2022/programme/ for information about the registration, links to the WebStore and the programme. Early Bird conference rates end on Sunday, August 21 2022. If you have any questions, do feel free to email tei2022@ncl.ac.uk.]]></summary>
-        <author>
-            <name>Martina Scholger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEI 2022 — late-breaking research poster]]></title>
-        <id>https://tei-c.org/?p=31359</id>
-        <link href="https://tei-c.org/2022/08/19/tei-2022-late-breaking-research-poster/"/>
-        <updated>2022-08-19T10:50:10.000Z</updated>
-        <summary type="html"><![CDATA[We invite proposals for posters and virtual posters on late-breaking research for the Text Encoding Initiative 2022 conference at Newcastle University. The conference is scheduled to take place in-person from Monday 12 September 2022 to Friday 16 September 2022. We particularly welcome proposals from early career researchers and postgraduate students. The deadline for submissions is […]]]></summary>
-        <author>
-            <name>Martina Scholger</name>
         </author>
     </entry>
     <entry>

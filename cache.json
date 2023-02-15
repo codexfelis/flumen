@@ -2291,33 +2291,6 @@
           "publishedOn": "2022-09-12T07:44:16.000Z",
           "wordCount": 795,
           "title": "Stellenangebot: WMA Stelle am CCeH (Bewerbungsfrist verlängert auf 18.09.22)"
-        },
-        {
-          "id": "node/846",
-          "author": "406",
-          "description": "Der DHd-Verband sucht zum nächstmöglichen Zeitpunkt eine*n neue*n Communication Fellow (m/w/d).\nWas gehört zu den Aufgaben?\nZu den Aufgaben gehören neben der Erstellung von…",
-          "link": "https://dig-hum.de/aktuelles/erinnerung-ausschreibung-dhd-communications-fellowship-verl%C3%A4ngerte-bewerbungsfrist-zum",
-          "publishedOn": "2022-08-19T13:52:45.000Z",
-          "wordCount": 913,
-          "title": "Erinnerung: Ausschreibung DHd Communications Fellowship (verlängerte Bewerbungsfrist bis zum 31.08.22)"
-        },
-        {
-          "id": "node/845",
-          "author": "406",
-          "description": "Vom 20. August 2022 bis zum 6. September 2022 machen wir Sommerferien.\nWir bitten um Verständnis, wenn in diesem Zeitraum an uns gestellte Anfragen (Email info@dig-hum.de) nicht…",
-          "link": "https://dig-hum.de/aktuelles/eigener-sache-der-dhd-macht-sommerpause-208-6922",
-          "publishedOn": "2022-08-19T13:47:10.000Z",
-          "wordCount": 784,
-          "title": "In eigener Sache: Der DHd macht Sommerpause (20.8.-6.9.22)"
-        },
-        {
-          "id": "node/844",
-          "author": "406",
-          "description": "Endterm-Tagung\n16. u. 17. Februar 2023\nKlassik Stiftung Weimar\nIm Deutschen Literaturarchiv Marbach, der Klassik Stiftung Weimar und der Herzog August Bibliothek Wolfenbüttel…",
-          "link": "https://dig-hum.de/aktuelles/cfp-digital-ist-besser-sammlungsforschung-im-digitalen-zeitalter",
-          "publishedOn": "2022-08-19T13:35:13.000Z",
-          "wordCount": 1480,
-          "title": "CfP: Digital ist besser? Sammlungsforschung im digitalen Zeitalter"
         }
       ]
     },
@@ -2397,6 +2370,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10114",
+          "author": "Elizabeth Lee",
+          "description": "The release of a public version of OpenAI’s generative AI platform, Chat GPT, at the end of last year has …",
+          "link": "https://digitalorientalist.com/2023/02/14/an-alternative-to-the-undergraduate-research-paper-online-exhibitions-with-artsteps/",
+          "publishedOn": "2023-02-14T14:00:00.000Z",
+          "wordCount": 1629,
+          "title": "An alternative to the undergraduate research paper: Online Exhibitions with ArtSteps"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10089",
           "author": "Shiva Mihan",
@@ -5272,24 +5254,6 @@
           "publishedOn": "2022-08-28T20:35:33.000Z",
           "wordCount": 3452,
           "title": "TEI-C Elections 2022"
-        },
-        {
-          "id": "https://tei-c.org/?p=31362",
-          "author": "Martina Scholger",
-          "description": "The TEI2022 Registration is live. Please see https://conferences.ncl.ac.uk/tei2022/programme/ for information about the registration, links to the WebStore and the programme. Early Bird conference rates end on Sunday, August 21 2022. If you have any questions, do feel free to email tei2022@ncl.ac.uk.",
-          "link": "https://tei-c.org/2022/08/19/tei-2022-register-now/",
-          "publishedOn": "2022-08-19T10:54:45.000Z",
-          "wordCount": 201,
-          "title": "TEI 2022 — register now!"
-        },
-        {
-          "id": "https://tei-c.org/?p=31359",
-          "author": "Martina Scholger",
-          "description": "We invite proposals for posters and virtual posters on late-breaking research for the Text Encoding Initiative 2022 conference at Newcastle University. The conference is scheduled to take place in-person from Monday 12 September 2022 to Friday 16 September 2022. We particularly welcome proposals from early career researchers and postgraduate students. The deadline for submissions is […]",
-          "link": "https://tei-c.org/2022/08/19/tei-2022-late-breaking-research-poster/",
-          "publishedOn": "2022-08-19T10:50:10.000Z",
-          "wordCount": 259,
-          "title": "TEI 2022 — late-breaking research poster"
         }
       ]
     },
@@ -5964,6 +5928,42 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/florence-d-harry/",
+          "author": null,
+          "description": "Florence is excited to be joining CDH part-time as Communications and Events Coordinator as of February 2023, having just completed her MPhil in Philosophy of Religion at the University of Cambridge. She is passionate about higher education and fascinated by the new opportunities afforded to the humanities in an increasingly digital age. In her spare",
+          "link": "https://www.cdh.cam.ac.uk/about/people/florence-d-harry/",
+          "publishedOn": "2023-02-14T15:08:19.000Z",
+          "wordCount": 360,
+          "title": "Florence D. Harry"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/amira-moeding/",
+          "author": null,
+          "description": "Amira Moeding is a PhD student at Cambridge University in the history of Political Thought and Intellectual History, supervised by Dr Emma Mackinnon. Amira’s PhD project focuses on the Intellectual History of ‘Big Data,’ how ‘Big Data’ as an approach to building artificial intelligence became thinkable, how data became foremost an economic resource, and how",
+          "link": "https://www.cdh.cam.ac.uk/about/people/amira-moeding/",
+          "publishedOn": "2023-02-14T14:47:09.000Z",
+          "wordCount": 424,
+          "title": "Amira Moeding"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/sophie-mary/",
+          "author": null,
+          "description": "Sophie is a PhD candidate in the Sociology Department at the University of Cambridge. She holds a BA in Media Culture from Maastricht University (2016 - 2019), as well as an MSc in Marketing from the University of Edinburgh (2019 - 2020). Her current research, which she began as a master's student, focuses on the",
+          "link": "https://www.cdh.cam.ac.uk/about/people/sophie-mary/",
+          "publishedOn": "2023-02-14T14:41:32.000Z",
+          "wordCount": 414,
+          "title": "Sophie Mary"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/elizabeth-smith/",
+          "author": null,
+          "description": "Liz is the digital curator for 19th century science collections at Cambridge University Library, with responsibility for data relating to 19th century scientific manuscripts. She worked first with the Newton Project, and then with the Darwin Correspondence Project, where she formed part of the team that converted the Project’s core files to TEI XML. She continues",
+          "link": "https://www.cdh.cam.ac.uk/about/people/elizabeth-smith/",
+          "publishedOn": "2023-02-14T12:22:54.000Z",
+          "wordCount": 374,
+          "title": "Elizabeth Smith"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/36056/",
           "author": null,
@@ -7750,6 +7750,15 @@
           "publishedOn": "2023-02-13T11:49:45.000Z",
           "wordCount": 1239,
           "title": "DRI is the New National Node for RDA in Ireland #LoveData"
+        },
+        {
+          "id": "1620 at https://www.dri.ie",
+          "author": "l.griffith@ria.ie",
+          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that University College Dublin (UCD) has joined as our latest member.",
+          "link": "https://www.dri.ie/dri-welcomes-university-college-dublin-new-member",
+          "publishedOn": "2023-02-13T08:36:22.000Z",
+          "wordCount": 693,
+          "title": "DRI Welcomes University College Dublin as Member"
         },
         {
           "id": "1619 at https://www.dri.ie",
