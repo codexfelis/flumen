@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-02-15T08:04:32.540Z</updated>
+    <updated>2023-02-16T08:04:28.666Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Emerging Projects Fund in Critical Digital Humanities]]></title>
+        <id>https://dhn.utoronto.ca/?p=7235</id>
+        <link href="https://dhn.utoronto.ca/emerging-projects-fund-in-critical-digital-humanities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=emerging-projects-fund-in-critical-digital-humanities"/>
+        <updated>2023-02-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) is a tri-campus research initiative that was funded by the University of Toronto’s Institutional Strategic Initiatives (ISI) Program in December 2020 for 3 years […]]]></summary>
+        <author>
+            <name>Matt Lefaive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Florence D. Harry]]></title>
         <id>https://www.cdh.cam.ac.uk/about/people/florence-d-harry/</id>
