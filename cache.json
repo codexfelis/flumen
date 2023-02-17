@@ -305,6 +305,15 @@
       "siteUrl": "https://ach.org",
       "articles": [
         {
+          "id": "https://ach.org/?p=2458",
+          "author": "jwoowinter",
+          "description": "The ACH Nominations Committee is pleased to share the slate of nineteen nominees for the 2023 elections.  The voting period will begin on February 27 at 12:00 am (GMT-5) and continue until March 12 at 11:59 pm (GMT-5). In order to vote, you need to go to members.ach.org, click on “membership,” then on login. You’ll be…Continue reading.",
+          "link": "https://ach.org/blog/2023/02/16/ach-2023-elections-slate/",
+          "publishedOn": "2023-02-16T14:31:13.000Z",
+          "wordCount": 4969,
+          "title": "ACH 2023 Elections Slate"
+        },
+        {
           "id": "https://ach.org/?p=2445",
           "author": "jwoowinter",
           "description": "At their most basic, spatial technologies offer a way to bring in useful context when researching or teaching literature. But to what end? What does it mean to digitally map a text? How might the map–a fiction itself–intersect with the study of fictional worlds? How might we countermap, using digital methods to contest dominant narratives,…Continue reading.",
@@ -4875,6 +4884,15 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=1767",
+          "author": "Leah Budke",
+          "description": "Are you a Digital Humanities student or early career researcher in Belgium who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual Discussion…\n\nContinue reading “Webinar Series: DH Virtual Discussion Group for Early Career Researchers in Belgium – Spring 2023 Edition”…",
+          "link": "https://scholarlytales.hcommons.org/2023/02/16/webinar-series-dh-virtual-discussion-group-for-early-career-researchers-in-belgium-spring-2023-edition/",
+          "publishedOn": "2023-02-16T11:18:53.000Z",
+          "wordCount": 2398,
+          "title": "Webinar Series: DH Virtual Discussion Group for Early Career Researchers in Belgium – Spring 2023 Edition"
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=1754",
           "author": "Leah Budke",
           "description": "If you are interested in Digital Text Editing, UCLouvain is hosting an exciting 2-day workshop (8 and 9 March) on handwritten text recognition (HTR) and XML-TEI for digital text editing!  When? 8 and 9 March 2023 Where? UCLouvain, Louvain-La-Neuve For whom? the general…\n\nContinue reading “Training: Digital Text Editing Workshop (UCLouvain)”…",
@@ -5277,6 +5295,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2023/02/17/maps-people-lists.html",
+          "author": null,
+          "description": "Once again I’ve gotten a bit behind in noting GLAM Workbench updates, so here’s a quick catch up on some Trove-related changes from the last couple of months.\nTrove API introduction\nThe section that introduces the Trove API (or APIs!) hasn’t had much love over recent years. I’m hoping to add some more content in the coming months, but for now I just did a bit of maintenance – updating Python packages and config files, including tests, and setting up automated builds of Docker containers. The documentation pages have also had a bit of a refresh. More soon!\nTrove lists and tags\nFor the Everyday Heritage digital workshop last November, I added a new notebook to convert a Trove list into a CollectionBuilder exhibition. The notebook harvests metadata and images from the items in a Trove list, t…",
+          "link": "https://updates.timsherratt.org/2023/02/17/maps-people-lists.html",
+          "publishedOn": "2023-02-17T05:53:07.000Z",
+          "wordCount": 810,
+          "title": "Maps, people, lists & more – recent updates to Trove resources in the GLAM Workbench"
+        },
         {
           "id": "http://wragge.micro.blog/2022/12/11/real-face-of.html",
           "author": null,
@@ -5937,6 +5964,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/british-academy-international-fellowships-2023/",
+          "author": null,
+          "description": "Cambridge Digital Humanities (CDH) at the University of Cambridge welcomes applications for the British Academy International Fellowships 2023. The deadline for applications to CDH is midnight on Sunday 5 March 2023, and the deadline for applications to the British Academy is 28 March 2023. The International Fellowships Programme provides support for outstanding early career researchers to make",
+          "link": "https://www.cdh.cam.ac.uk/about/news/british-academy-international-fellowships-2023/",
+          "publishedOn": "2023-02-16T10:14:33.000Z",
+          "wordCount": 761,
+          "title": "CDH accepting applications for British Academy International Fellowships 2023"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/florence-d-harry/",
           "author": null,
@@ -7751,6 +7787,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1623 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The National Open Research Forum (NORF) has announced that Ireland’s first annual National Open Research Festival will take place at the Royal Irish Academy, on 2-3 November 2023.",
+          "link": "https://www.dri.ie/save-date-irelands-first-annual-national-open-research-festival",
+          "publishedOn": "2023-02-16T14:40:40.000Z",
+          "wordCount": 548,
+          "title": "Save the Date - Ireland's First Annual National Open Research Festival"
+        },
         {
           "id": "1621 at https://www.dri.ie",
           "author": "bethknazook",
