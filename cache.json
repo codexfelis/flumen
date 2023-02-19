@@ -2023,6 +2023,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/884",
+          "author": "434",
+          "description": "Wir freuen uns, dass wir für die DHd2023 noch 9 von der Gerda Henkel Stiftung geförderte Reisekostenstipendien in Höhe von jeweils 500,00 EUR an Promovierende vergeben können.…",
+          "link": "https://dig-hum.de/aktuelles/zweite-runde-reisekostenstipendien-f%C3%BCr-promovierende-f%C3%BCr-die-dhd2023",
+          "publishedOn": "2023-02-18T11:51:00.000Z",
+          "wordCount": 1107,
+          "title": "Zweite Runde: Reisekostenstipendien für Promovierende für die DHd2023"
+        },
+        {
           "id": "node/883",
           "author": "434",
           "description": "In der Generaldirektion der Staatsbibliothek zu Berlin - Preußischer Kulturbesitz können drei Bibliotheksreferendar:innen (m/w/d) als Beamt:innen auf Widerruf im…",
@@ -4096,24 +4105,6 @@
           "publishedOn": "2022-08-23T20:10:33.000Z",
           "wordCount": 288,
           "title": "PO Box 34"
-        },
-        {
-          "id": "1183 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Project Start Date: \n\nMay, 2021—February, 2022\n\n\n\nA decade after its founding, New Orleans was home to at least 37 women who had been deported from France in 1719. Most of them had been unjustly pronounced guilty of prostitution. This interactive map makes it possible to learn who they really were and where they lived in New Orleans.\nPaule Carbonnel, Co-designer & developer, Research Assistant\nCassandra Hradil, Co-designer & developer, Digital Humanities Specialist\n\n\nWebsite: \n\nMutinous Women\n\n\n\n\n\nInsert an Image: \n\n\n\n\nProject Principal Investigator: \n\nJoan  Dejean",
-          "link": "https://pricelab.sas.upenn.edu/projects/mutinous-women",
-          "publishedOn": "2022-08-23T15:47:37.000Z",
-          "wordCount": 271,
-          "title": "Mutinous Women"
-        },
-        {
-          "id": "1181 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Project Start Date: \n\nAugust, 2021\n\n\n\nNational Epics will run from Albania and Algeria to Vietnam and Wales, an alphabetical organization that reproduces the sovereign, Olympian starkness of nationalism. Each National Epics author also contributes to nationalepics.com, initially by briefly discussing how a designated territorial space shapes or is shaped by \"epical\" texts that tell its story to the world. Collectively and cumulatively, we will help augment the emergent disciplinary field known as critical nationalism studies.\nNationalepics.com is developing in parallel with National Epics, a collaborative work of c. 83 or 84 chapters, to be published by Oxford University Press (UK) and edited by David Wallace. While National Epics suggests a stabilized outcome, a multi-volume book with reference value, nationalepics.com evokes the process of getting there, acknowledging that the nature and dynamics of nationalism, and the texts that serve or subvert it, never rest. And while most such large-scale projects develop behind closed doors, nationalepics.com aims to share resources and air critical issues along the way.\nInteractive map and Website development by Cassandra Hradil, Digital Humanities Specialist, Penn Libraries & Price Lab for Digital Humanities\n\n\nInsert an Image: \n\n\n\n\nProject Principal Investigator: \n\nDavid  Wallace",
-          "link": "https://pricelab.sas.upenn.edu/projects/nationalizing-epics",
-          "publishedOn": "2022-08-23T14:48:57.000Z",
-          "wordCount": 384,
-          "title": "Nationalizing Epics"
         }
       ]
     },
@@ -4392,29 +4383,6 @@
           "enclosure": {
             "url": "https://review.gale.com/wp-content/uploads/2022/09/08.-Notes-from-a-DH-Correspondent-Sep.png",
             "length": "2079427",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://review.gale.com/?p=13615",
-          "author": "Gale Review Team",
-          "description": "│By Dr. Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ As university classes get underway for the 2022-2023 academic year, this blog post considers some of the ways that instructors hoping to incorporate digital skills in their classroom can partner with others at their institution, within disciplines and the library, as they develop their class ... Read more\nThe post The Value of Cross-Disciplinary Partnerships in the Digital Humanities Classroom appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2022/08/23/the-value-of-cross-disciplinary-partnerships-in-the-digital-humanities-classroom/",
-          "publishedOn": "2022-08-23T09:00:00.000Z",
-          "wordCount": 2014,
-          "title": "The Value of Cross-Disciplinary Partnerships in the Digital Humanities Classroom"
-        },
-        {
-          "id": "https://review.gale.com/?p=13615",
-          "author": "Gale Review Team",
-          "description": "│By Dr. Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ As university classes get underway for the 2022-2023 academic year, this blog post considers some of the ways that instructors hoping to incorporate digital skills in their classroom can partner with others at their institution, within disciplines and the library, as they develop their class ... Read more\nThe post The Value of Cross-Disciplinary Partnerships in the Digital Humanities Classroom appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2022/08/23/the-value-of-cross-disciplinary-partnerships-in-the-digital-humanities-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=the-value-of-cross-disciplinary-partnerships-in-the-digital-humanities-classroom",
-          "publishedOn": "2022-08-23T09:00:00.000Z",
-          "wordCount": 1846,
-          "title": "The Value of Cross-Disciplinary Partnerships in the Digital Humanities Classroom",
-          "enclosure": {
-            "url": "https://review.gale.com/wp-content/uploads/2022/08/07.-Notes-from-a-DH-Correspondent-Aug.png",
-            "length": "1997938",
             "type": "image/png"
           }
         }
@@ -7466,24 +7434,6 @@
           "publishedOn": "2022-09-05T11:16:05.000Z",
           "wordCount": 566,
           "title": "CDH Awards"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/blog/our-shakespeare-was-tupac-shakur/",
-          "author": null,
-          "description": "Award-winning poet P. A. Bitez “bites back” at UK’s elitist education system Young people’s views of the creative-activist turn to digital circulation of spoken word – poetry performed live to an audience – and the future of educational justice in adverse times, are refreshingly presented in a new spoken word video “Oral to A4”, featuring",
-          "link": "https://www.cdh.cam.ac.uk/media/blog/our-shakespeare-was-tupac-shakur/",
-          "publishedOn": "2022-08-23T12:49:05.000Z",
-          "wordCount": 1260,
-          "title": "“Our Shakespeare was Tupac Shakur”"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/mphil/open-days/",
-          "author": null,
-          "description": "This is the excerpt",
-          "link": "https://www.cdh.cam.ac.uk/mphil/open-days/",
-          "publishedOn": "2022-08-23T11:27:22.000Z",
-          "wordCount": 468,
-          "title": "Open Days"
         }
       ]
     },
