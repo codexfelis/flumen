@@ -1838,15 +1838,6 @@
           "publishedOn": "2022-08-30T11:21:42.000Z",
           "wordCount": 524,
           "title": "WoPoss team releases Latin corpus sample"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11435",
-          "author": "Heloise schibler",
-          "description": "The Universität Graz organizes a two-day workshop on information visualization and the relation between researchers and the objects to be visualized. It will be held in hybrid format, with opportunities for the audience to attend virtually or in person in Graz. Submissions are welcome from all fields of (digital) humanities, social sciences, and cultural studies. […]\nThe post CFP: Workshop on Information Visualization in the (Digital) Humanities appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/08/24/cfp-workshop-on-information-visualization-in-the-digital-humanities/",
-          "publishedOn": "2022-08-24T08:24:11.000Z",
-          "wordCount": 684,
-          "title": "CFP: Workshop on Information Visualization in the (Digital) Humanities"
         }
       ]
     },
@@ -1873,6 +1864,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=7240",
+          "author": "Matt Lefaive",
+          "description": "The Critical Digital Humanities Initiative (CDHI), a University of Toronto strategic initiative, supports trans-disciplinary collaborations that emphasize questions of power, social justice, and critical theory in digital humanities research. Our […]",
+          "link": "https://dhn.utoronto.ca/graduate-fellowship-in-critical-digital-humanities-academic-year-2023-2024/?utm_source=rss&utm_medium=rss&utm_campaign=graduate-fellowship-in-critical-digital-humanities-academic-year-2023-2024",
+          "publishedOn": "2023-02-20T05:00:00.000Z",
+          "wordCount": 1168,
+          "title": "Graduate Fellowship in Critical Digital Humanities –  Academic Year 2023-2024"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=7235",
           "author": "Matt Lefaive",
@@ -2022,6 +2022,33 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/887",
+          "author": "434",
+          "description": "Liebe Community, Eure kreativen Ideen sind gefragt!\nAm 14.11.22 hat der DHd-Verband die Mastodon Instanz FeDiHum gegründet. Wir freuen uns sehr darüber, bereits über 230 aktive…",
+          "link": "https://dig-hum.de/aktuelles/dhd-community-aktion-logo-und-banner-fedihum",
+          "publishedOn": "2023-02-19T20:53:36.000Z",
+          "wordCount": 918,
+          "title": "DHd-Community-Aktion: Logo und Banner auf FeDiHum"
+        },
+        {
+          "id": "node/886",
+          "author": "434",
+          "description": "Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto \"Anything Goes?!\" vom 4. bis 6. Oktober 2023 in Tübingen statt. \nDer Call for Papers für die…",
+          "link": "https://dig-hum.de/aktuelles/call-for-papers-forge23-forschungsdaten-den-geisteswissenschaften",
+          "publishedOn": "2023-02-19T15:03:46.000Z",
+          "wordCount": 1228,
+          "title": "Call for Papers: FORGE23 Forschungsdaten in den Geisteswissenschaften"
+        },
+        {
+          "id": "node/885",
+          "author": "434",
+          "description": "An der Technischen Hochschule Mittelhessen ist am Campus Gießen im Fachbereich Mathematik, Naturwissenschaften und Informatik (MNI) sowie in Kooperation mit dem Herder-Institut…",
+          "link": "https://dig-hum.de/aktuelles/ausschreibung-professur-data-science-the-humanities-w1-tenure-w2-der-thm",
+          "publishedOn": "2023-02-19T14:37:42.000Z",
+          "wordCount": 1453,
+          "title": "Ausschreibung Professur &quot;Data Science in the Humanities&quot; W1 mit Tenure auf W2 an der THM"
+        },
         {
           "id": "node/884",
           "author": "434",
@@ -4087,24 +4114,6 @@
           "publishedOn": "2022-08-31T18:18:54.000Z",
           "wordCount": 327,
           "title": "Digital Scholarship 101"
-        },
-        {
-          "id": "1188 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Project Start Date: \n\nAugust, 2020—August, 2022\n\n\n\nPunk Cubano is the first digital archive dedicated to Cuban punk culture. Published in Spanish in 2020, the site gives access to the music production of 26 Cuban bands, as well as to several short testimonials about the experience of being punk in the island. This archive serves a double purpose: to work as a tool for Cuban musicians to publish their music, and to make information about Cuban punk accessible to anyone with an interest in it. \nThe site was curated and published by Dr. Carmen Torre Perez, with permission from the featured bands/individuals, and the pictures and video testimonials were taken/recorded by Samuel Reina Calvo.\n \nDr. Perez graduated from the Hispanic Studies program at Penn in 2022 and is currently lecuturer at Boston University.\n \n\n\nWebsite: \n\nPunk Cubano\n\n\n\n\n\n\nInsert an Image: \n\n\n\n\nProject Principal Investigator: \n\nCarmen  Torre Perez",
-          "link": "https://pricelab.sas.upenn.edu/projects/punk-cubano",
-          "publishedOn": "2022-08-24T16:17:58.000Z",
-          "wordCount": 328,
-          "title": "Punk Cubano"
-        },
-        {
-          "id": "1186 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Connecting voices inside with voices outside\n\n\nProject Start Date: \n\nAugust, 2022\n\n\n\nPO Box 34 aims to connect incarcerated writers with a wider audience, including writing mentors and educators, collaborators from the international visual arts community, musicians, performers, people who express creatively. I hope this will open up conversation and ultimately get feedback, correspondence & connection to the writers and artists in prison.\nStudent Writing Mentors:\nGabriela Alvarado\nIsabel Casares\nKinjal Dave\nAnastasia Hutnick\n \n \n\n\nWebsite: \n\nPO Box 34  Connecting voices inside with voices outside\n\n\n\n\n\n\nProject Principal Investigator: \n\nErika  Tsuchiya-Bergere\nJessa  Lingle\nWhitney  Trettien",
-          "link": "https://pricelab.sas.upenn.edu/projects/po-box-34",
-          "publishedOn": "2022-08-23T20:10:33.000Z",
-          "wordCount": 288,
-          "title": "PO Box 34"
         }
       ]
     },
@@ -4643,54 +4652,6 @@
           "title": "Editors' Note: August 2022",
           "enclosure": {
             "url": "https://assets.pubpub.org/0600hyku/21661578547728.png"
-          }
-        },
-        {
-          "id": "3ac0e572-0dab-4ffc-8872-d8f321f19567",
-          "author": "Elli Mylonas",
-          "description": "A review of A People's Atlas of Nuclear Colorado, a project on the Cold War's nuclear legacies, directed by Shiloh Krupar and Sarah Kanouse",
-          "link": "https://reviewsindh.pubpub.org/pub/peoples-atlas-of-nuclear-colorado",
-          "publishedOn": "2022-08-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Review: A People's Atlas of Nuclear Colorado",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/j0mq5t3s/11661522861087.png"
-          }
-        },
-        {
-          "id": "8b76e3fa-20c4-4174-ad0b-e9c24ead29cb",
-          "author": "Quinn Dombrowski",
-          "description": "A review of jsLDA, a browser-based tool for topic modeling, developed by David Mimno",
-          "link": "https://reviewsindh.pubpub.org/pub/jslda",
-          "publishedOn": "2022-08-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Review: jsLDA",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/vp972z5w/61661518302156.png"
-          }
-        },
-        {
-          "id": "739a151d-dc54-442a-813c-0347f619fb34",
-          "author": "Kathryn Holland",
-          "description": "A review of Mina Loy,  a multimedia digital project on the avant-garde works of modernist writer and artist Mina Loy, directed by Suzanne W. Churchill, Linda Kinnahan, and Susan Rosenbaum",
-          "link": "https://reviewsindh.pubpub.org/pub/mina-loy",
-          "publishedOn": "2022-08-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Review: Mina Loy",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/j6i4l8oc/31661577247624.png"
-          }
-        },
-        {
-          "id": "d6b1a554-6340-4787-ba7e-b1e61fc09097",
-          "author": "Ivo Zandhuis",
-          "description": "A review of Pelagios, a network promoting semantic geo-annotation, directed by Elton Barker",
-          "link": "https://reviewsindh.pubpub.org/pub/pelagios",
-          "publishedOn": "2022-08-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Review: Pelagios",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/9rml52t5/11661525107132.png"
           }
         }
       ]
@@ -7720,15 +7681,6 @@
           "publishedOn": "2022-08-25T08:57:58.000Z",
           "wordCount": 241,
           "title": "Job Opening: Management Assistant at CLARIN ERIC"
-        },
-        {
-          "id": "5774 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "CLARIN Newsflash August 2022 is Out!\n\n            \n\n  \n  \n            \n  \n\n\n\n      \n\nEvery month, CLARIN publishes a newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.\nRead the most recent CLARIN Newsflash: August 2022 here\nSubscribing to it is the ideal way of staying informed.\nSubscribe here\nPast issues of the CLARIN newsflash\nYou are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.\n\n      Elisa Gorgaini\n 24 August 2022",
-          "link": "https://www.clarin.eu/news/clarin-newsflash-august-2022-out",
-          "publishedOn": "2022-08-24T13:28:28.000Z",
-          "wordCount": 232,
-          "title": "CLARIN Newsflash August 2022 is Out!"
         }
       ]
     },
@@ -8303,15 +8255,6 @@
           "publishedOn": "2022-08-31T07:48:02.000Z",
           "wordCount": 1203,
           "title": "DRI’s annual Community Archive Scheme opens for 2023"
-        },
-        {
-          "id": "1550 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "The Digital Repository of Ireland (DRI) is hiring a DRI Systems Administrator to support the DRI technical team in delivering Repository services and to administer the Repository infrastructure.",
-          "link": "https://www.dri.ie/dri-hiring-systems-administrator",
-          "publishedOn": "2022-08-24T09:13:16.000Z",
-          "wordCount": 1040,
-          "title": "DRI is Hiring! - Systems Administrator"
         }
       ]
     },
