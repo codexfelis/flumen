@@ -1892,15 +1892,6 @@
           "publishedOn": "2022-09-13T14:22:20.000Z",
           "wordCount": 399,
           "title": "Les cultures numériques, le nouveau programme de médiation scientifique de l’UNIL"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11533",
-          "author": "Celia Luterbacher",
-          "description": "The aim of the three-year project ‘Égalité de genre et transformation numérique’ (‘genre/numérique’), which will hold its first conference in Fribourg on 8-9 September, is twofold: to ensure that movements toward gender equality are supported in the digital domain, and to address gender bias in the development and deployment of digital technologies. ‘Genre/numérique’ is jointly […]\nThe post Fighting for gender equality in the digital world appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/09/05/fighting-for-gender-equality-in-the-digital-world/",
-          "publishedOn": "2022-09-05T10:01:54.000Z",
-          "wordCount": 795,
-          "title": "Fighting for gender equality in the digital world"
         }
       ]
     },
@@ -1920,7 +1911,17 @@
       "title": "Digital Humanities & Literary Cognition Lab",
       "feedUrl": "https://dhlc.cal.msu.edu/feed",
       "siteUrl": "https://dhlc.cal.msu.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://dhlc.cal.msu.edu/?p=410",
+          "author": "chambl91",
+          "description": "Please join us for a conversation about technology, race, and culture between Dr. Julian Chambliss and Jon Gosier on March 16th @ 7:00 PM. A long-time tech entrepreneur Jon Gosier will discuss his new autobiography, Code Switch: Hip-Hop, Hackers, and Africa’s Tech Revolution (2023). In the early 2000s, Gosier worked throughout Africa using technology to […]",
+          "link": "https://dhlc.cal.msu.edu/2023/03/03/a-webinar-conversation-with-jon-gosier/",
+          "publishedOn": "2023-03-03T16:55:28.000Z",
+          "wordCount": 222,
+          "title": "A Webinar Conversation with Jon Gosier"
+        }
+      ]
     },
     {
       "title": "Digital Humanities Network",
@@ -2514,6 +2515,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10152",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Steve Lang, keeper of the Asian collection at the Penn Museum on 3D printing …",
+          "link": "https://digitalorientalist.com/2023/03/03/applications-for-scanning-and-3d-printing-objects/",
+          "publishedOn": "2023-03-03T14:00:00.000Z",
+          "wordCount": 2005,
+          "title": "Applications for scanning and 3D printing objects"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10073",
           "author": "Zach Butler",
@@ -4877,15 +4887,6 @@
           "publishedOn": "2022-09-12T16:25:00.000Z",
           "wordCount": 1348,
           "title": "Manuscript Monday: LJS 342 – [Copies of documents relating to water rights in Milan]"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17162",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to LJS 322, fragmented sections from Books III (al-Amrāḍ al-juzʼīyah, diseases arranged by part of the body), IV (al-Amrāḍ allatī lā takhuṣṣu ʻuḍwan bi-ʻaynih, diseases not specific to particular organs), and V (al-Adwiyah al-murakkabah, compound drugs, ointments, and electuaries)Continue reading \"Manuscript Monday LJS 322 – [Fragments from Books III-V of Qānūn fī al-ṭibb]\"",
-          "link": "https://schoenberginstitute.org/2022/09/05/manuscript-monday-ljs-322-fragments-from-books-iii-v-of-qanun-fi-al-%e1%b9%adibb/",
-          "publishedOn": "2022-09-05T16:19:00.000Z",
-          "wordCount": 1244,
-          "title": "Manuscript Monday LJS 322 – [Fragments from Books III-V of Qānūn fī al-ṭibb]"
         }
       ]
     },
@@ -5404,24 +5405,6 @@
           "publishedOn": "2022-09-15T12:15:21.000Z",
           "wordCount": 1087,
           "title": "From 48 PDFs to one searchable database – opening up the Tasmanian Post Office Directories with the GLAM Workbench"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/09/05/fresh-harvest-of.html",
-          "author": null,
-          "description": "I’ve updated the GLAM Workbench’s harvest of OCRd text from Trove’s digitised periodicals. This is a completely fresh harvest, so should include any corrections made in recent months. It includes:\n1,430 periodicals\nOCRd text from 41,645 issues\nAbout 9gb of text\nThe easiest way to explore the harvest is probably this human-readable list. The list of periodicals with OCRd text is also available as a CSV. You can find more details in the Trove journals section of the GLAM Workbench, and download the complete corpus from CloudStor.\nFinding which periodical issues in Trove have OCRd text you can download is not as easy as it should be. The fullTextInd index doesn’t seem to distinguish between digitised works (with OCR)  and born-digital publications (like PDFs) without downloadable text. You ca…",
-          "link": "https://updates.timsherratt.org/2022/09/05/fresh-harvest-of.html",
-          "publishedOn": "2022-09-05T06:13:16.000Z",
-          "wordCount": 557,
-          "title": "Fresh harvest of OCRd text from Trove's digitised periodicals – 9gb of text to explore and analyse!"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/09/05/explore-troves-digitised.html",
-          "author": null,
-          "description": "I’ve updated my map displaying places where Trove digitised newspapers were published or distributed. You can view all the places on single map – zoom in for more markers, and click on a marker for title details and a link back to Trove.\n\nIf you want to find newspapers from a particular area, just click on a location using this map to view the 10 closest titles.\n\nYou can view or download the dataset used to construct the map. Place names were extracted from the newspaper titles using the Geoscience Gazetteer.",
-          "link": "https://updates.timsherratt.org/2022/09/05/explore-troves-digitised.html",
-          "publishedOn": "2022-09-05T05:34:05.000Z",
-          "wordCount": 119,
-          "title": "Explore Trove's digitised newspapers by place"
         }
       ]
     },
@@ -7450,60 +7433,6 @@
           "publishedOn": "2022-09-12T09:56:53.000Z",
           "wordCount": 481,
           "title": "Dr Orietta Da Rold"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35180/",
-          "author": null,
-          "description": "This CDH Basics session explores the lifecycle of a digital research project across the stages of design, data capture, transformation, analysis, presentation and preservation. It introduces tactics for embedding ethical research principles and practices at each stage of the research process. Introduction to the digital project life cycle Ethics by design and EDI-informed data processing",
-          "link": "https://www.cdh.cam.ac.uk/events/35180/",
-          "publishedOn": "2022-09-05T11:46:08.000Z",
-          "wordCount": 479,
-          "title": "Designing a digital research project"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35185/",
-          "author": null,
-          "description": "Ensuring long-term access to digital data is often a difficult task: both hardware and code decay much more rapidly than many other means of information storage. Digital data created in the 1980s is frequently unreadable, whereas books and manuscripts written in the 980s are still legible. This session explores good practice in data preservation and",
-          "link": "https://www.cdh.cam.ac.uk/events/35185/",
-          "publishedOn": "2022-09-05T11:36:44.000Z",
-          "wordCount": 492,
-          "title": "Sustaining your data"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35184/",
-          "author": null,
-          "description": "The impact of well-crafted data visualisations has been well-documented historically. Florence Nightingale famously used charts to make her case for hospital hygiene in the Crimean War, while Dr John Snow’s bar charts of cholera deaths in London helped convince the authorities of the water-borne nature of the disease. However, as information designer Alberto Cairo notes,",
-          "link": "https://www.cdh.cam.ac.uk/events/35184/",
-          "publishedOn": "2022-09-05T11:36:15.000Z",
-          "wordCount": 504,
-          "title": "Analysing and presenting your data"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35183/",
-          "author": null,
-          "description": "Data which you have captured rather than created yourself is likely to need cleaning up before you can use it effectively. This short session will introduce you to the basic principles of creating structured datasets and walk you through some case studies in data cleaning with OpenRefine, a powerful open source tool for working with",
-          "link": "https://www.cdh.cam.ac.uk/events/35183/",
-          "publishedOn": "2022-09-05T11:35:41.000Z",
-          "wordCount": 474,
-          "title": "Transforming your data"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35182/",
-          "author": null,
-          "description": "This session provides a brief introduction to different methods for capturing bulk data from online sources or via agreement with data collection holders, including Application Programme Interfaces (APIs). We will address issues of data provenance, exceptions to copyright for text and data-mining, and discuss good practice in managing and working with data that others have",
-          "link": "https://www.cdh.cam.ac.uk/events/35182/",
-          "publishedOn": "2022-09-05T11:34:29.000Z",
-          "wordCount": 486,
-          "title": "Acquiring data for your project"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/research/funding/cdh-awards/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/research/funding/cdh-awards/",
-          "publishedOn": "2022-09-05T11:16:05.000Z",
-          "wordCount": 566,
-          "title": "CDH Awards"
         }
       ]
     },
@@ -8409,15 +8338,6 @@
           "publishedOn": "2022-09-06T10:56:08.000Z",
           "wordCount": 727,
           "title": "Culture Night 2022"
-        },
-        {
-          "id": "1553 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "The Digital Repository of Ireland (DRI) is pleased to share that the working paper 'Towards a European network of FAIR-enabling Trustworthy Digital Repositories (TDRs)' has been published on Zenodo. This paper is the initiative of a broad author team consisting of stakeholders from the European repository community, including DRI's Dr Natalie Harrower.",
-          "link": "https://www.dri.ie/towards-european-network-fair-enabling-tdrs",
-          "publishedOn": "2022-09-05T16:00:35.000Z",
-          "wordCount": 937,
-          "title": "Towards a European Network of FAIR-enabling TDRs"
         }
       ]
     },

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-03-03T08:04:05.193Z</updated>
+    <updated>2023-03-04T08:03:47.528Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Webinar Conversation with Jon Gosier]]></title>
+        <id>https://dhlc.cal.msu.edu/?p=410</id>
+        <link href="https://dhlc.cal.msu.edu/2023/03/03/a-webinar-conversation-with-jon-gosier/"/>
+        <updated>2023-03-03T16:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Please join us for a conversation about technology, race, and culture between Dr. Julian Chambliss and Jon Gosier on March 16th @ 7:00 PM. A long-time tech entrepreneur Jon Gosier will discuss his new autobiography, Code Switch: Hip-Hop, Hackers, and Africa’s Tech Revolution (2023). In the early 2000s, Gosier worked throughout Africa using technology to […]]]></summary>
+        <author>
+            <name>chambl91</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applications for scanning and 3D printing objects]]></title>
+        <id>http://digitalorientalist.com/?p=10152</id>
+        <link href="https://digitalorientalist.com/2023/03/03/applications-for-scanning-and-3d-printing-objects/"/>
+        <updated>2023-03-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest post by Steve Lang, keeper of the Asian collection at the Penn Museum on 3D printing …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to Humanities Data Viz with Tableau]]></title>
         <id>1236 at https://pricelab.sas.upenn.edu</id>
@@ -11134,125 +11154,6 @@ Legal notice
         <summary type="html"><![CDATA[We are back. And we are excited. As more and more activities resume in-person after all around the world, the …]]></summary>
         <author>
             <name>maddalena poli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday LJS 322 – [Fragments from Books III-V of Qānūn fī al-ṭibb]]]></title>
-        <id>http://schoenberginstitute.org/?p=17162</id>
-        <link href="https://schoenberginstitute.org/2022/09/05/manuscript-monday-ljs-322-fragments-from-books-iii-v-of-qanun-fi-al-%e1%b9%adibb/"/>
-        <updated>2022-09-05T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to LJS 322, fragmented sections from Books III (al-Amrāḍ al-juzʼīyah, diseases arranged by part of the body), IV (al-Amrāḍ allatī lā takhuṣṣu ʻuḍwan bi-ʻaynih, diseases not specific to particular organs), and V (al-Adwiyah al-murakkabah, compound drugs, ointments, and electuaries)Continue reading "Manuscript Monday LJS 322 – [Fragments from Books III-V of Qānūn fī al-ṭibb]"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards a European Network of FAIR-enabling TDRs]]></title>
-        <id>1553 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/towards-european-network-fair-enabling-tdrs"/>
-        <updated>2022-09-05T16:00:35.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to share that the working paper 'Towards a European network of FAIR-enabling Trustworthy Digital Repositories (TDRs)' has been published on Zenodo. This paper is the initiative of a broad author team consisting of stakeholders from the European repository community, including DRI's Dr Natalie Harrower.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a digital research project]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35180/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35180/"/>
-        <updated>2022-09-05T11:46:08.000Z</updated>
-        <summary type="html"><![CDATA[This CDH Basics session explores the lifecycle of a digital research project across the stages of design, data capture, transformation, analysis, presentation and preservation. It introduces tactics for embedding ethical research principles and practices at each stage of the research process. Introduction to the digital project life cycle Ethics by design and EDI-informed data processing]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sustaining your data]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35185/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35185/"/>
-        <updated>2022-09-05T11:36:44.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring long-term access to digital data is often a difficult task: both hardware and code decay much more rapidly than many other means of information storage. Digital data created in the 1980s is frequently unreadable, whereas books and manuscripts written in the 980s are still legible. This session explores good practice in data preservation and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysing and presenting your data]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35184/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35184/"/>
-        <updated>2022-09-05T11:36:15.000Z</updated>
-        <summary type="html"><![CDATA[The impact of well-crafted data visualisations has been well-documented historically. Florence Nightingale famously used charts to make her case for hospital hygiene in the Crimean War, while Dr John Snow’s bar charts of cholera deaths in London helped convince the authorities of the water-borne nature of the disease. However, as information designer Alberto Cairo notes,]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming your data]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35183/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35183/"/>
-        <updated>2022-09-05T11:35:41.000Z</updated>
-        <summary type="html"><![CDATA[Data which you have captured rather than created yourself is likely to need cleaning up before you can use it effectively. This short session will introduce you to the basic principles of creating structured datasets and walk you through some case studies in data cleaning with OpenRefine, a powerful open source tool for working with]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acquiring data for your project]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35182/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35182/"/>
-        <updated>2022-09-05T11:34:29.000Z</updated>
-        <summary type="html"><![CDATA[This session provides a brief introduction to different methods for capturing bulk data from online sources or via agreement with data collection holders, including Application Programme Interfaces (APIs). We will address issues of data provenance, exceptions to copyright for text and data-mining, and discuss good practice in managing and working with data that others have]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Awards]]></title>
-        <id>https://www.cdh.cam.ac.uk/research/funding/cdh-awards/</id>
-        <link href="https://www.cdh.cam.ac.uk/research/funding/cdh-awards/"/>
-        <updated>2022-09-05T11:16:05.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fighting for gender equality in the digital world]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11533</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/09/05/fighting-for-gender-equality-in-the-digital-world/"/>
-        <updated>2022-09-05T10:01:54.000Z</updated>
-        <summary type="html"><![CDATA[The aim of the three-year project ‘Égalité de genre et transformation numérique’ (‘genre/numérique’), which will hold its first conference in Fribourg on 8-9 September, is twofold: to ensure that movements toward gender equality are supported in the digital domain, and to address gender bias in the development and deployment of digital technologies. ‘Genre/numérique’ is jointly […]
-The post Fighting for gender equality in the digital world appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Celia Luterbacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fresh harvest of OCRd text from Trove's digitised periodicals – 9gb of text to explore and analyse!]]></title>
-        <id>http://wragge.micro.blog/2022/09/05/fresh-harvest-of.html</id>
-        <link href="https://updates.timsherratt.org/2022/09/05/fresh-harvest-of.html"/>
-        <updated>2022-09-05T06:13:16.000Z</updated>
-        <summary type="html"><![CDATA[I’ve updated the GLAM Workbench’s harvest of OCRd text from Trove’s digitised periodicals. This is a completely fresh harvest, so should include any corrections made in recent months. It includes:
-1,430 periodicals
-OCRd text from 41,645 issues
-About 9gb of text
-The easiest way to explore the harvest is probably this human-readable list. The list of periodicals with OCRd text is also available as a CSV. You can find more details in the Trove journals section of the GLAM Workbench, and download the complete corpus from CloudStor.
-Finding which periodical issues in Trove have OCRd text you can download is not as easy as it should be. The fullTextInd index doesn’t seem to distinguish between digitised works (with OCR)  and born-digital publications (like PDFs) without downloadable text. You ca…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explore Trove's digitised newspapers by place]]></title>
-        <id>http://wragge.micro.blog/2022/09/05/explore-troves-digitised.html</id>
-        <link href="https://updates.timsherratt.org/2022/09/05/explore-troves-digitised.html"/>
-        <updated>2022-09-05T05:34:05.000Z</updated>
-        <summary type="html"><![CDATA[I’ve updated my map displaying places where Trove digitised newspapers were published or distributed. You can view all the places on single map – zoom in for more markers, and click on a marker for title details and a link back to Trove.
-
-If you want to find newspapers from a particular area, just click on a location using this map to view the 10 closest titles.
-
-You can view or download the dataset used to construct the map. Place names were extracted from the newspaper titles using the Geoscience Gazetteer.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
