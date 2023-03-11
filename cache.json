@@ -2186,6 +2186,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/888",
+          "author": "434",
+          "description": "In der Universitätsbibliothek Johann Christian Senckenberg der Goethe-Universität Frankfurt am Main ist zum nächstmöglichen Zeitpunkt die Stelle als Softwareentwickler*in Python…",
+          "link": "https://dig-hum.de/aktuelles/softwareentwicklerin-python-mwd-e-13-tv-g-u-fachinformationsdienst-allgemeine-und",
+          "publishedOn": "2023-03-11T08:04:10.095Z",
+          "wordCount": 1372,
+          "title": "Softwareentwickler*in Python (m/w/d, E 13 TV-G-U), Fachinformationsdienst Allgemeine und Vergleichende Literaturwissenschaft (FID AVL)"
+        },
+        {
           "id": "node/887",
           "author": "434",
           "description": "Liebe Community, Eure kreativen Ideen sind gefragt!\nAm 14.11.22 hat der DHd-Verband die Mastodon Instanz FeDiHum gegründet. Wir freuen uns sehr darüber, bereits über 230 aktive…",
@@ -2481,15 +2490,6 @@
           "publishedOn": "2022-09-13T16:07:05.000Z",
           "wordCount": 831,
           "title": "Stellenangebot: &quot;Researcher in Data Management for Digital History / Research Data Manager&quot; am C²DH in Luxembourg"
-        },
-        {
-          "id": "node/847",
-          "author": "406",
-          "description": "Die Bewerbungsfrist für eine 50% WMA-Stelle am CCeH wurde bis zum 18.09.2022 verlängert.\nDie Stelle als Wissenschaftliche*r Mitarbeiter*in im Bereich Digital Humanities wird…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-wma-stelle-am-cceh-bewerbungsfrist-verl%C3%A4ngert-180922",
-          "publishedOn": "2022-09-12T07:44:16.000Z",
-          "wordCount": 795,
-          "title": "Stellenangebot: WMA Stelle am CCeH (Bewerbungsfrist verlängert auf 18.09.22)"
         }
       ]
     },
@@ -2605,6 +2605,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10173",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Aleksandra Piskunova. Have you ever wondered how readable texts are? What even makes a …",
+          "link": "https://digitalorientalist.com/2023/03/10/measuring-readability-of-texts-theory-and-practice-part-1/",
+          "publishedOn": "2023-03-10T14:00:00.000Z",
+          "wordCount": 1366,
+          "title": "Measuring Readability of Texts: Theory and Practice (Part 1)"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10157",
           "author": "The Digital Orientalist",
@@ -3650,15 +3659,6 @@
           "publishedOn": "2022-09-17T18:49:01.000Z",
           "wordCount": 721,
           "title": "JobOffer at the Austrian Centre for Digital Humanities and Cultural Heritage"
-        },
-        {
-          "id": "1426 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "30 Sep 2022 - 00:00\n\n\n\nPostdoctoral Associate – Research Project on Photomechanical Reproductions of Art in Periodicals\n\n\n\nPrague, Czech Academy of Sciences, Institute of Art History\nApplication deadline: 30 September 2022\nIn accordance with law no. 283/1992 on the Czech Academy of Sciences, as amended by law no. 420/2005, and the Statutes of the Czech Academy of Sciences, the Institute of Art History, Czech Academy of Sciences, is pleased to announce a selection procedure for a new research postdoctoral position in the project The Matrix of Photomechanical Reproductions: Histories of Remote Access to Art.\nThe position begins on 1 January 2023. It is to be filled for two years full-time, with the possibility of renewal for up to three additional years.\nThe project investigates the history …",
-          "link": "https://eadh.org/news/2022/09/12/postdoctoral-associate-research-project-photomechanical-reproductions-art",
-          "publishedOn": "2022-09-12T18:26:03.000Z",
-          "wordCount": 928,
-          "title": "Postdoctoral Associate – Research Project on Photomechanical Reproductions of Art in Periodicals"
         }
       ]
     },
@@ -3706,15 +3706,6 @@
           "publishedOn": "2022-12-20T16:19:17.000Z",
           "wordCount": 529,
           "title": "Dante’s Latin Loanwords Online Now!"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2966",
-          "author": "Eleonora Litta",
-          "description": "Our intern Ginevra Martinelli will be at KONVENS (Konferenz zur Verarbeitung natürlicher Sprache/Conference on Natural Language Processing – https://konvens2022.uni-potsdam.de/) to present a poster titled “Linking the Bilingual Latin-English Dictionary Lewis & Short to the LiLa Knowledge Base” illustrating what she worked on during her time at LiLa. The poster is authored by herself, Ginevra Martinelli …\nThe post LiLa at KONVENS, Potsdam (12-15 September) appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/lila-at-konvens-potsdam-12-15-september/",
-          "publishedOn": "2022-09-12T07:38:02.000Z",
-          "wordCount": 463,
-          "title": "LiLa at KONVENS, Potsdam (12-15 September)"
         }
       ]
     },
@@ -3740,15 +3731,6 @@
           "publishedOn": "2022-12-20T16:19:17.000Z",
           "wordCount": 529,
           "title": "Dante’s Latin Loanwords Online Now!"
-        },
-        {
-          "id": "https://lila-erc.eu/?p=2966",
-          "author": "Eleonora Litta",
-          "description": "Our intern Ginevra Martinelli will be at KONVENS (Konferenz zur Verarbeitung natürlicher Sprache/Conference on Natural Language Processing – https://konvens2022.uni-potsdam.de/) to present a poster titled “Linking the Bilingual Latin-English Dictionary Lewis & Short to the LiLa Knowledge Base” illustrating what she worked on during her time at LiLa. The poster is authored by herself, Ginevra Martinelli …\nThe post LiLa at KONVENS, Potsdam (12-15 September) appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/lila-at-konvens-potsdam-12-15-september/",
-          "publishedOn": "2022-09-12T07:38:02.000Z",
-          "wordCount": 463,
-          "title": "LiLa at KONVENS, Potsdam (12-15 September)"
         }
       ]
     },
@@ -3757,6 +3739,15 @@
       "feedUrl": "https://livingwithmachines.ac.uk/feed",
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=3058",
+          "author": "Ruth Ahnert",
+          "description": "The Living with Machines project has  announced a call for digital residencies. So what are they? And are they for you?",
+          "link": "https://livingwithmachines.ac.uk/digital-residencies/?utm_source=rss&utm_medium=rss&utm_campaign=digital-residencies",
+          "publishedOn": "2023-03-08T13:32:09.000Z",
+          "wordCount": 917,
+          "title": "Living with Machines Digital Residencies"
+        },
         {
           "id": "https://livingwithmachines.ac.uk/?p=3020",
           "author": "Giorgia Tolfo",
@@ -3975,6 +3966,15 @@
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
         {
+          "id": "1237 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, April 17, 2023 - 12:00pm\n\n\n\nWilliams 623\n\n\n\nIn the introduction to Making Things and Drawing Boundaries, Jentery Sayers defines conceptual matter: \"the inability to unmoor materials from how we interpret materials.\" Making - from both a practical and theoretical perspective - increasingly undergirds the digital humanities, from the technological stacks that support digital exhibits to fully embroidered computers. In this session, we will not only discuss, but also touch, tinker, draw, and stitch our way to a collective understanding of conceptual matters: where making in the digital humanities currently is, and where we might want it to take us.\n \n\n\nSubtitle: \n\nwith Cassandra Hradil, DH Specialist\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/critical-making",
+          "publishedOn": "2023-03-10T19:17:59.000Z",
+          "wordCount": 296,
+          "title": "Critical Making"
+        },
+        {
           "id": "1236 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
           "description": "Monday, April 3, 2023 - 12:00pm—1:30pm\n\n\n\n623 Williams Hall\n\n\n\nTableau is a powerful tool for making clear and compelling data visualizations, useful for humanists who need to present, or just want to think through, quantitative data. Using Tableau, you can quickly create many different kinds of graphs that can effectively communicate your research. This course will be led by J.D. Porter, a Digital Humanities Project Specialist in the Price Lab who has worked in Tableau with a wide variety of researchers from across the humanities. \n\n\nSubtitle: \n\nwith J.D. Porter\n\n\nImage for Left Column:",
@@ -4180,15 +4180,6 @@
           "publishedOn": "2022-09-23T14:59:53.000Z",
           "wordCount": 448,
           "title": "19C RLT: Nineteenth-Century Russian Literature in Translation"
-        },
-        {
-          "id": "1201 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "FHA Credit, Redlining, and Rental Housing in Metropolitan America\n\n\nProject Start Date: \n\nSeptember, 2022\n\n\n\n“Mortgaging Out” is a digital history project that illuminates the  impact of Federal Housing Administration credit policies  on the availability of affordable rental housing during and immediately following World War II. Scholars have illuminated the impact of redlining on  mortgage lending, demonstrating how African American homebuyers, in particular, were often locked out of the midcentury housing boom. This project shifts the focus to FHA-insured apartment complexes. Drawing upon  a comprehensive data set FHA mortgage insurance data that catalogues more than 50,000 FHA-insured apartment buildings, the project maps the location, size (by unit count), and construction dates of roughly 7,000 projects constructed under the FHA wartime housing program (Section 608, 1942-1950). Future versions of the map may include FHA-backed market-rate multifamily housing (Section 207) as well as multifamily rental projects on urban renewal sites (Section 220) and for those displaced from urban renewal sites (Section 221).  \n\n\n\n\n\n\n\nInsert an Image: \n\n\n\n\nCo-Investigators: \n\nLaura Eckstein and J.D. Porter\n\n\nProject Principal Investigator: \n\nBrent  Cebul\nMichael  Glass",
-          "link": "https://pricelab.sas.upenn.edu/projects/mortgaging-out",
-          "publishedOn": "2022-09-12T13:43:31.000Z",
-          "wordCount": 371,
-          "title": "Mortgaging Out"
         }
       ]
     },
@@ -4197,6 +4188,24 @@
       "feedUrl": "https://radihum20.de/feed",
       "siteUrl": "https://radihum20.de/",
       "articles": [
+        {
+          "id": "https://radihum20.de/?p=677",
+          "author": "Mareike Schumacher",
+          "description": "In dieser Folge spricht Mareike mit Anja Gerber und Tessa Gengnagel von der DHd-AG Empowerment. Das Tagungsthema der DHd2023 “Open Humanities, Open Culture” ist der AG sehr wichtig, denn es ist noch viel zu tun, was die Offenlegung und Sichtbarmachung der Digital Humanities-Forschung in anderen Ländern und auch von nicht-weißen, nicht-männlichen, nicht-westlichen Forschenden betrifft. Außerdem […]\nDer Beitrag Mareike spricht mit Anja Gerber und Tessa Gengnagel von der AG Empowerment über die DHd2023 erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/mareike-spricht-mit-anja-gerber-und-tessa-gengnagel-von-der-ag-empowerment-ueber-die-dhd2023/?utm_source=rss&utm_medium=rss&utm_campaign=mareike-spricht-mit-anja-gerber-und-tessa-gengnagel-von-der-ag-empowerment-ueber-die-dhd2023",
+          "publishedOn": "2023-03-10T13:05:00.000Z",
+          "wordCount": 761,
+          "title": "Mareike spricht mit Anja Gerber und Tessa Gengnagel von der AG Empowerment über die DHd2023"
+        },
+        {
+          "id": "https://radihum20.de/?p=667",
+          "author": "Mareike Schumacher",
+          "description": "In dieser Folge unserer Kurzinterviews mit Convenor*Innen der Arbeitsgemeinschaften des DHd-Verbandes, die wir in Vorbereitung zur Jahreskonferenz der digitalen Geisteswissenschaften im deutschsprachigen Raum (DHd2023) aufgenommen haben, sind Anne Baillot und Anja Gerber von der AG Greening DH zu Gast. Wir sprechen über die schon seit ihrer Gründung sehr internationale Ausrichtung und Vernetzung der AG, unter […]\nDer Beitrag Jascha spricht mit Anne Baillot und Anja Gerber von der AG Greening DH über die DHd2023 erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/jascha-spricht-mit-anne-baillot-und-anja-gerber-von-der-ag-greening-dh-ueber-die-dhd2023/?utm_source=rss&utm_medium=rss&utm_campaign=jascha-spricht-mit-anne-baillot-und-anja-gerber-von-der-ag-greening-dh-ueber-die-dhd2023",
+          "publishedOn": "2023-03-10T08:34:00.000Z",
+          "wordCount": 767,
+          "title": "Jascha spricht mit Anne Baillot und Anja Gerber von der AG Greening DH über die DHd2023"
+        },
         {
           "id": "https://radihum20.de/?p=664",
           "author": "Mareike Schumacher",
@@ -5031,15 +5040,6 @@
           "publishedOn": "2022-09-19T16:30:00.000Z",
           "wordCount": 1285,
           "title": "Manuscript Monday: LJS 347 – De consolatione philosophiae"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17167",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to LJS 342, copies of 9 documents relating to the illicit use of water and diversion of waterways in the territory of Milan, presumably to compile evidence of the legal status of these assets. The first 8, copies ofContinue reading \"Manuscript Monday: LJS 342 – [Copies of documents relating to water rights in Milan]\"",
-          "link": "https://schoenberginstitute.org/2022/09/12/manuscript-monday-ljs-342-copies-of-documents-relating-to-water-rights-in-milan/",
-          "publishedOn": "2022-09-12T16:25:00.000Z",
-          "wordCount": 1348,
-          "title": "Manuscript Monday: LJS 342 – [Copies of documents relating to water rights in Milan]"
         }
       ]
     },
@@ -5272,15 +5272,6 @@
           "publishedOn": "2022-10-04T07:46:27.000Z",
           "wordCount": 2350,
           "title": "Digital Humanities Virtual Discussion Group for ECRs in Belgium: Fall 2022 Edition"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1305",
-          "author": "Laura Mesotten",
-          "description": "This event is only open to KU Leuven researchers and staff. When? 24 October 2022, 1 pm – 4 pm Where? Promotiezaal (Universiteitshal, Naamsestraat 22) and online via MS Teams (link will be shared prior to the event) For whom? Training targeted at PhD researchers, but other researchers and support staff are welcome No fees, but registration is mandatory This training is an opportunity to learn from other researchers at KU Leuven how they implement Open Science principles. The focus will be on...",
-          "link": "https://scholarlytales.hcommons.org/2022/09/12/training-open-science-discovery-for-phd-researchers-2022-ku-leuven/",
-          "publishedOn": "2022-09-12T09:22:25.000Z",
-          "wordCount": 1522,
-          "title": "Training: Open Science Discovery for PhD researchers 2022 (KU Leuven)"
         }
       ]
     },
@@ -6040,51 +6031,6 @@
           "publishedOn": "2022-09-22T07:36:03.000Z",
           "wordCount": 557,
           "title": "LURN2: Luxembourg Ukrainian Researcher Network / Мережа українських дослідників у Люксембурзі: 2-е засідання"
-        },
-        {
-          "id": "4180 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "More information coming soon.\n \nWednesday, 18 January 2023\n14.00 - 15.00\n\nC²DH Open Space\n18 January 2023\n  Public history  Contemporary history of Luxembourg\n  Digitisation  Regional history  Social history\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/reconstructing-streets-esch-socio-economic-evolution-worker-streets-1900-19302",
-          "publishedOn": "2022-09-12T13:13:57.000Z",
-          "wordCount": 245,
-          "title": "Reconstructing the streets of Esch - socio-economic evolution of 'worker streets' (1900-19302)"
-        },
-        {
-          "id": "4179 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "More information coming soon.\n \nWednesday, 16 November 2022\n14.00 - 15.00\nC²DH Open Space\n16 November 2022\n  Public history\n  Museology  Public History\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/multiple-perspectives-and-narratives-museums-participatory-methods-history-production",
-          "publishedOn": "2022-09-12T13:09:08.000Z",
-          "wordCount": 232,
-          "title": "Multiple perspectives and narratives in museums: participatory methods in history production"
-        },
-        {
-          "id": "4178 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "More information coming soon.\n \nWednesday, 19 October 2022\n14.00 - 15.00\n\nC²DH Open Space\n19 October 2022\n  Border studies  Interwar period\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/microcosm-clandestine-borders-transgression-and-subversion-interwar-years",
-          "publishedOn": "2022-09-12T13:04:54.000Z",
-          "wordCount": 233,
-          "title": "The Microcosm of Clandestine Borders: Transgression and Subversion in the Interwar Years"
-        },
-        {
-          "id": "4177 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "In this presentation, Frédéric Calvert will talk about the COST action SlowMemo. At the core of this project lays the emergent concept of 'slow memory', that is intended to help us think from new angles about how societies and individuals remember the pasts that meaningfully affect their present and future. It begins from the premise that we are quite skilled (and have much practice) commemorating sudden or extreme events such as wars, atrocities or catastrophes. But we are less certain about how to reckon with slow-moving transformations that may be just as impactful, such as climate change, deindustrialization, or the gradual expansion of social and political rights.\n \nWednesday, 21 September 2022\n14.00 - 15.00\nC²DH Open Space\n21 September 2022\n  Digital history & historiography\n  Digital methods  Methodology\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/what-slow-memory-discussion-around-emergent-concept",
-          "publishedOn": "2022-09-12T12:45:55.000Z",
-          "wordCount": 331,
-          "title": "What is slow memory? A discussion around an emergent concept"
-        },
-        {
-          "id": "4176 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "La Fondation luxembourgeoise pour la Mémoire de la Shoah (FLMS) et le Luxembourg Centre for Contemporary and Digital History (C²DH) de l’Université du Luxembourg se sont donné la mission de construire un Mémorial digital à la mémoire des personnes ayant vécu au Luxembourg qui ont été persécutées pour des motifs raciaux avant et pendant la Seconde Guerre mondiale.\nL’objectif principal du mémorial est de retracer dans la mesure du possible le vécu de ces personnes, le milieu dans lequel ils ont évolué au Luxembourg avant la Shoah et de décrire leur parcours pendant la Seconde Guerre mondiale. \nCe projet à caractère scientifique et public sera ouvert à tou-te-s les intéressé-e-s, chercheur-e-s, survivant-e-s, descendant-e-s des victimes, associations et milieu scolaire. Chaque personne intére…",
-          "link": "https://www.c2dh.uni.lu/events/presentation-et-lancement-officiel-du-memorial-digital-de-la-shoah-au-luxembourg",
-          "publishedOn": "2022-09-12T07:03:06.000Z",
-          "wordCount": 595,
-          "title": "Présentation et lancement officiel du Mémorial digital de la Shoah au Luxembourg"
         }
       ]
     },
@@ -6093,6 +6039,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/the-sandbach-tinne-programme/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-awards/the-sandbach-tinne-programme/",
+          "publishedOn": "2023-03-10T15:23:53.000Z",
+          "wordCount": 706,
+          "title": "The Sandbach Tinne Programme"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/research/networks/browsed-bridged-beyond/",
           "author": null,
@@ -7667,24 +7622,6 @@
           "publishedOn": "2022-09-20T11:06:53.000Z",
           "wordCount": 702,
           "title": "Digital Borders, Digital Bodies"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-hugo-leal/",
-          "author": null,
-          "description": "Dr Hugo Leal is a Teaching Associate at CDH for the MPhil in Digital Humanities. He is also the Research Associate at the Minderoo Centre for Technology and Democracy (MCTD) based in CRASSH. He previously worked as a postdoctoral fellow in the internet branch of the project “Conspiracy and Democracy” and as a methods fellow",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-hugo-leal/",
-          "publishedOn": "2022-09-12T10:01:42.000Z",
-          "wordCount": 525,
-          "title": "Dr Hugo Leal"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-orietta-da-rold/",
-          "author": null,
-          "description": "Dr Orietta Da Rold, University Professor and Fellow at St John’s College, researches Middle English texts in their material context and intersections with the digital humanities. Orietta's work has a specific focus on technological innovations in book production. Orietta has published in diverse media such as digital editions (A Digital Edition of Cambridge University Library,",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-orietta-da-rold/",
-          "publishedOn": "2022-09-12T09:56:53.000Z",
-          "wordCount": 481,
-          "title": "Dr Orietta Da Rold"
         }
       ]
     },
@@ -8545,15 +8482,6 @@
           "publishedOn": "2022-09-16T15:05:15.000Z",
           "wordCount": 1220,
           "title": "DRI Project Archiving Reproductive Health Wins Digital Preservation Award"
-        },
-        {
-          "id": "1559 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "The Digital Repository of Ireland (DRI) is delighted to be running a one-day symposium ‘Literary Dublin in the Digital Archive’ sponsored by Dublin UNESCO City of Literature and Dublin City Council on Thursday 13 October, in person, at the Royal Irish Academy.",
-          "link": "https://www.dri.ie/literary-dublin-digital-archive-0",
-          "publishedOn": "2022-09-12T08:46:54.000Z",
-          "wordCount": 1104,
-          "title": "Literary Dublin in the Digital Archive- one day symposium"
         }
       ]
     },
