@@ -161,15 +161,6 @@
           "publishedOn": "2022-10-10T08:51:08.000Z",
           "wordCount": 203,
           "title": "DHNB 2022 PROCEEDINGS PUBLISHED"
-        },
-        {
-          "id": "https://dhnb.eu/?p=2284",
-          "author": "Annika Rockenberger",
-          "description": "DHNB2023 ConfTool Opened You can now submit your long papers, panels, show-and-tell presentations as well as workshops to the DHNB2023 conference! Create an account on ConfTool and submit your contribution! The deadline for submissions is 15 October 2022. If you have ideas for other kinds of presentations or contributions to the conference, please contact dhnb2023@dhnb.eu.",
-          "link": "https://dhnb.eu/dhnb2023-conftool-open-for-submissions/",
-          "publishedOn": "2022-09-15T12:12:57.000Z",
-          "wordCount": 123,
-          "title": "DHNB2023 ConfTool Open for Submissions"
         }
       ]
     },
@@ -278,17 +269,7 @@
       "title": "aaDH",
       "feedUrl": "https://aa-dh.org/feed/",
       "siteUrl": "https://aa-dh.org",
-      "articles": [
-        {
-          "id": "https://aa-dh.org/?p=495",
-          "author": "Tyne Sumner",
-          "description": "Expressions of Interest are now open to host the 2023 Digital Humanities Australasia (DHA) Conference in Australia or New Zealand. The Executive Committee of the Australasian Association for Digital Humanities (aaDH) invites proposals to host the Digital Humanities Australasia (DHA) Conference in Australia or New Zealand in 2023. DHA is the major conference of the … Continue reading \"Call for Proposals to Host DHA2023\"",
-          "link": "https://aa-dh.org/2022/09/15/call-for-proposals-to-host-dha2023/",
-          "publishedOn": "2022-09-15T06:02:27.000Z",
-          "wordCount": 679,
-          "title": "Call for Proposals to Host DHA2023"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Association for Computers and the Humanities",
@@ -1964,15 +1945,6 @@
           "publishedOn": "2022-09-16T13:00:14.000Z",
           "wordCount": 684,
           "title": "CfP: The EOSC Symposium"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11579",
-          "author": "Heloise schibler",
-          "description": "Humanités numériques est une revue francophone publiée en libre accès et consacrée aux usages savants du numérique en sciences humaines et sociales. Éditée par l’association francophone Humanistica et diffusée sur la plateforme OpenEdition Journals, elle offre un lieu de réflexion, de débat scientifique et d’expression aux chercheurs et enseignants dont les travaux s’inscrivent dans ce […]\nThe post CfP: Revue Humanités numériques, vol. 8 (2023) appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/09/15/cfp-revue-humanites-numeriques-vol-8-2023/",
-          "publishedOn": "2022-09-15T14:00:16.000Z",
-          "wordCount": 535,
-          "title": "CfP: Revue Humanités numériques, vol. 8 (2023)"
         }
       ]
     },
@@ -2009,6 +1981,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=7507",
+          "author": "Tanya Rohrmoser",
+          "description": "Dr. Shanmugapriya T discusses her work employing the features of digital humanities and literature to study water scarcity issues in her home of Coimbatore — and explains how digital mapping can be harnessed as tool to narrate historical impacts on the environment.",
+          "link": "https://dhn.utoronto.ca/water-scarcity-transformation-a-qa-with-shanmugapriya-t/?utm_source=rss&utm_medium=rss&utm_campaign=water-scarcity-transformation-a-qa-with-shanmugapriya-t",
+          "publishedOn": "2023-03-13T16:02:46.000Z",
+          "wordCount": 1925,
+          "title": "Water Scarcity & Transformation: A Q&A with Shanmugapriya T"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=7399",
           "author": "Matt Lefaive",
@@ -2167,6 +2148,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/889",
+          "author": "434",
+          "description": "Im Rahmen der DHd-Konferenz 2023, die unter dem Motto \"Open Humanities, Open Culture\" vom 13.03. bis zum 17.03.2023 in Trier und Belval stattfindet, stellen sich die AGs des DHd-…",
+          "link": "https://dig-hum.de/aktuelles/die-dhd-ags-stellen-sich-im-rahmen-der-dhd2023",
+          "publishedOn": "2023-03-14T08:03:35.821Z",
+          "wordCount": 857,
+          "title": "Die DHd-AGs stellen sich im Rahmen der DHd2023 vor"
+        },
         {
           "id": "node/888",
           "author": "434",
@@ -4880,6 +4870,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17636",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 382, a collection of alchemical notes gathered by Georg Hayniger of Dormpoch, near Vienna, ca. 1476. You can read the complete record for this document (and find links to digitized copies) on Franklin. You can also downloadContinue reading \"Manuscript Monday: LJS 382 – Alchemical compendium. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/03/13/manuscript-monday-ljs-382-alchemical-compendium-video-orientation/",
+          "publishedOn": "2023-03-13T12:00:00.000Z",
+          "wordCount": 1209,
+          "title": "Manuscript Monday: LJS 382 – Alchemical compendium. (Video Orientation)"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17633",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1657, the second volume of a set of three of collected manuscripts on relations between Portugal and other nations. Ms. Codex 1657 was likely written in Portugal, at some point over the 18th century. You canContinue reading \"Manuscript Monday: Ms. Codex 1657 – Colecci[ón] de vari[os] tracta[dos]. (Video Orientation)\"",
@@ -5495,15 +5494,6 @@
           "publishedOn": "2022-09-22T03:53:49.000Z",
           "wordCount": 387,
           "title": "Do you want your Trove newspaper articles in bulk? Meet the new Trove Newspaper Harvester Python package!"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/09/15/from-pdfs-to.html",
-          "author": null,
-          "description": "A few weeks ago I created a new search interface to the NSW Post Office Directories from 1886 to 1908. Since then, I’ve used the same process on the Sydney Telephone Directories from 1926 to 1954. Both of these publications had been digitised by the State Library of NSW and made available through Trove. To build the new interfaces I downloaded the text from Trove, indexed it by line, and linked it back to the online page images.\nBut there are similar directories from other states that are not available through Trove. The Tasmanian Post Office Directory, for example, has been digitised between 1890 and 1948 and made available as 48 individual PDF files from Libraries Tasmania. While it’s great that they’ve been digitised, it’s not really possible to search them without downloading all the P…",
-          "link": "https://updates.timsherratt.org/2022/09/15/from-pdfs-to.html",
-          "publishedOn": "2022-09-15T12:15:21.000Z",
-          "wordCount": 1087,
-          "title": "From 48 PDFs to one searchable database – opening up the Tasmanian Post Office Directories with the GLAM Workbench"
         }
       ]
     },
@@ -7880,6 +7870,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1632 at https://www.dri.ie",
+          "author": "clarelanigan",
+          "description": "A collection of images of notes left at the mural of Savita Halappanavar during the 2018 referendum to repeal the Eighth Amendment will now be available long term as a digital archive.",
+          "link": "https://www.dri.ie/savita-memorial-collection-published",
+          "publishedOn": "2023-03-13T10:57:45.000Z",
+          "wordCount": 895,
+          "title": "Savita Memorial Collection Published"
+        },
         {
           "id": "1631 at https://www.dri.ie",
           "author": "l.griffith@ria.ie",
