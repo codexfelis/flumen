@@ -353,6 +353,15 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=1936",
+          "author": "hannah",
+          "description": "Early-career scholars and students are eligible to receive a conference bursary to help cover expenses for their attendance to DH2023! Submit your accepted DH2023 paper along with your CV and contact information via this Google Form by April 14th, 2023. If you cannot access Google Forms, please email your paper and CV to ladyem [at] stanford [dot]… Read More »Apply Now for DH2023 Conference Bursaries",
+          "link": "https://adho.org/2023/03/17/apply-now-for-dh2023-conference-bursaries/",
+          "publishedOn": "2023-03-17T19:08:46.000Z",
+          "wordCount": 182,
+          "title": "Apply Now for DH2023 Conference Bursaries"
+        },
+        {
           "id": "https://adho.org/?p=1922",
           "author": "hannah",
           "description": "by Paul Arthur & Martin Grandjean, Admissions Committee Co-Chairs An updated protocol We are pleased to inform you that ADHO now has a new admissions protocol. This document establishes the procedure for the admission of new organizations to the Alliance of Digital Humanities Organizations.  The update of this document was made mandatory by the change… Read More »A new Admissions Protocol for ADHO",
@@ -2008,15 +2017,6 @@
           "publishedOn": "2022-10-04T20:27:15.000Z",
           "wordCount": 723,
           "title": "Training Funding: Data Science Certificate Tuition Support Available"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=5968",
-          "author": "DHN Admin",
-          "description": "The Critical Digital Humanities Initiative (CDHI) and The Collaborative Digital Research Space (CDRS; pronounced ‘cedars’) are pleased to announce the next phase of the UX Design program launching this fall: […]",
-          "link": "https://dhn.utoronto.ca/the-2022-fall-ux-design-for-dh-accelerator-program/?utm_source=rss&utm_medium=rss&utm_campaign=the-2022-fall-ux-design-for-dh-accelerator-program",
-          "publishedOn": "2022-09-19T19:53:04.000Z",
-          "wordCount": 1416,
-          "title": "Call for Expressions of Interest: UX Design for DH Accelerator Program, Fall 2022"
         }
       ]
     },
@@ -2470,6 +2470,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10242",
+          "author": "Christopher L. Diamond",
+          "description": "Oh great, yet another podcast! Like many researchers, I find myself listening to more diverse types of academic media in …",
+          "link": "https://digitalorientalist.com/2023/03/17/podcasting-as-digital-storytelling-in-research-and-outreach/",
+          "publishedOn": "2023-03-17T13:00:00.000Z",
+          "wordCount": 2164,
+          "title": "Podcasting as Digital Storytelling in Research and Outreach"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10180",
           "author": "The Digital Orientalist",
@@ -3786,15 +3795,6 @@
           "publishedOn": "2022-10-09T06:59:58.000Z",
           "wordCount": 1255,
           "title": "What is PixPlot? (DH Tools) – YouTube"
-        },
-        {
-          "id": "http://openmethods.dariah.eu/?p=3269",
-          "author": "Marinella Testori",
-          "description": "In this post, we reach back in time to showcase an older project and highlight its impact on data visualization in Digital Humanities as well as its good practices to make different layers of scholarship available for increased transparency and reusability.  \n\nDeveloped at Stanford with other research partners ('Cultures of Knowledge' at Oxford, the Groupe d'Alembert at CNRS, the KKCC-Circulation of Knowledge and Learned Practices in the 17th-century Dutch Republic, the DensityDesign ResearchLab), the 'Mapping of the Republic of Letters Project' aimed at digitizing and visualizing the intellectual community throughout the XVI and XVIII centuries known as 'Republic of Letters' (an overview of the concept can be found in Bots and Waquet, 1997), to get a better sense of the shape, size and associated intellectual network, its inherent complexities and  boundaries.\n\nBelow  we highlight the different, interrelated\nlayers of making project outputs available and reusable on the long term (way before FAIR data became a widespread policy imperative!): methodological reflections, interactive visualizations, the associated data and its data model schema. All of these layers are published in a trusted repository and are interlinked with each other via their Persistent Identifiers.\n\n[Click ‘Read more’ for the full post!]",
-          "link": "https://openmethods.dariah.eu/2022/09/19/navigating-the-centuries-with-the-mapping-of-the-republic-of-letters-project/",
-          "publishedOn": "2022-09-19T12:37:08.000Z",
-          "wordCount": 1659,
-          "title": "Navigating the centuries with the ‘Mapping of the Republic of Letters’ project."
         }
       ]
     },
@@ -4896,15 +4896,6 @@
           "publishedOn": "2022-09-26T16:34:00.000Z",
           "wordCount": 1432,
           "title": "Manuscript Monday: LJS 361 – [Astronomical and astrological tables]"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17171",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to LJS 347, a 14th-century English copy of Boethius’ philosophical dialogue in five books between a narrator and Lady Philosophy which deals with ideas of fate, fortune, and the relationship between free will and divine omniscience, and which wasContinue reading \"Manuscript Monday: LJS 347 – De consolatione philosophiae\"",
-          "link": "https://schoenberginstitute.org/2022/09/19/manuscript-monday-ljs-347-de-consolatione-philosophiae/",
-          "publishedOn": "2022-09-19T16:30:00.000Z",
-          "wordCount": 1285,
-          "title": "Manuscript Monday: LJS 347 – De consolatione philosophiae"
         }
       ]
     },
@@ -4913,6 +4904,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1823",
+          "author": "Leah Budke",
+          "description": "In this workshop, Pim van Bree and Geert Kessels, the developers at Lab1100, will introduce us to Nodegoat, a web-based data managment, network analysis, and visualization environment. This workshop is for KU Leuven researchers who are interested in using this relational database platform in…\n\nContinue reading “Training: Workshop on the Relational Database Platform, Nodegoat”…",
+          "link": "https://scholarlytales.hcommons.org/2023/03/17/training-workshop-on-the-relational-database-platform-nodegoat/",
+          "publishedOn": "2023-03-17T12:37:09.000Z",
+          "wordCount": 1840,
+          "title": "Training: Workshop on the Relational Database Platform, Nodegoat"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1820",
           "author": "Rebecca Burke",
@@ -5905,6 +5905,69 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/",
+          "publishedOn": "2023-03-17T16:33:17.000Z",
+          "wordCount": 521,
+          "title": "CDH Award funding"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/networks/digital-afterlives/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/networks/digital-afterlives/",
+          "publishedOn": "2023-03-17T16:14:38.000Z",
+          "wordCount": 843,
+          "title": "Digital Afterlives"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/",
+          "author": null,
+          "description": "Cambridge Digital Humanities offers funding to support research activity by University of Cambridge researchers and staff (including ECR researchers) in areas relevant to Digital Humanities.",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/",
+          "publishedOn": "2023-03-17T16:07:47.000Z",
+          "wordCount": 816,
+          "title": "Apply for CDH Awards funding"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/gaming-the-industrial-revolution/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/gaming-the-industrial-revolution/",
+          "publishedOn": "2023-03-17T15:40:45.000Z",
+          "wordCount": 646,
+          "title": "Gaming the Industrial Revolution"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/newmusicsoftwareplatform/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/newmusicsoftwareplatform/",
+          "publishedOn": "2023-03-17T15:23:39.000Z",
+          "wordCount": 896,
+          "title": "New music software platform"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/dataschools/cambridge-data-schools-terms-and-conditions/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/dataschools/cambridge-data-schools-terms-and-conditions/",
+          "publishedOn": "2023-03-17T14:20:18.000Z",
+          "wordCount": 1041,
+          "title": "Cambridge Data Schools Terms and Conditions"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/new-publication-articulating-media-genealogy-interface-situation/",
+          "author": null,
+          "description": "Open Humanities Press is pleased to announce the publication of Articulating Media: Genealogy, Interface, Situation, edited by James Gabrillo and Nathaniel Zetter, with one of the chapters written by our own Caroline Bassett. To ‘articulate’ media means to understand them by locating their connections in space and time. Articulating Media offers new approaches to the writing of",
+          "link": "https://www.cdh.cam.ac.uk/about/news/new-publication-articulating-media-genealogy-interface-situation/",
+          "publishedOn": "2023-03-17T12:37:33.000Z",
+          "wordCount": 446,
+          "title": "New Publication | Articulating Media: Genealogy, Interface, Situation"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/about/people/xian-xu/",
           "author": null,
           "description": "Xian Xu (徐娴) is a writer and researcher in film and computational media. Currently, she is a Ph.D. candidate in HKUST VisLab and majored in Computational Media and Arts, Individualized Interdisciplinary Program, The Hong Kong University of Science and Technology (HKUST). She received her BA in Directing (Film and TV Producing) and MFA in Studies",
@@ -5939,6 +6002,15 @@
           "publishedOn": "2023-03-14T16:18:50.000Z",
           "wordCount": 476,
           "title": "The Manuscripts of Isaac Newton: Dating the Undatable"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/the-sandbach-tinne-programme/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/the-sandbach-tinne-programme/",
+          "publishedOn": "2023-03-10T15:23:53.000Z",
+          "wordCount": 719,
+          "title": "The Sandbach Tinne Programme"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/the-sandbach-tinne-programme/",
@@ -5986,6 +6058,15 @@
           "title": "New Vacancy: Teaching Associate in Digital Humanities"
         },
         {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/tracingideasacrossnetworks/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/tracingideasacrossnetworks/",
+          "publishedOn": "2023-03-07T15:44:41.000Z",
+          "wordCount": 386,
+          "title": "Tracing ideas across networks"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/tracingideasacrossnetworks/",
           "author": null,
           "description": "",
@@ -5993,6 +6074,15 @@
           "publishedOn": "2023-03-07T15:44:41.000Z",
           "wordCount": 373,
           "title": "Tracing ideas across networks"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/dimensions-of-darwin-darwin-3d-project/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/dimensions-of-darwin-darwin-3d-project/",
+          "publishedOn": "2023-03-07T15:44:13.000Z",
+          "wordCount": 542,
+          "title": "Dimensions of Darwin/Darwin 3D Project"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/dimensions-of-darwin-darwin-3d-project/",
@@ -6004,6 +6094,15 @@
           "title": "Dimensions of Darwin/Darwin 3D Project"
         },
         {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/awards-granted-and-archive/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/awards-granted-and-archive/",
+          "publishedOn": "2023-03-06T15:23:38.000Z",
+          "wordCount": 354,
+          "title": "Awards granted and archive"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/awards-granted-and-archive/",
           "author": null,
           "description": "",
@@ -6011,6 +6110,15 @@
           "publishedOn": "2023-03-06T15:23:38.000Z",
           "wordCount": 338,
           "title": "Awards granted and archive"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/poetic-justice-values-in-uks-digital-spoken-word-education-artographic-to-autoethnographic-portraits-of-collective-becoming/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/poetic-justice-values-in-uks-digital-spoken-word-education-artographic-to-autoethnographic-portraits-of-collective-becoming/",
+          "publishedOn": "2023-03-06T15:22:29.000Z",
+          "wordCount": 515,
+          "title": "Poetic Justice Values in UK’s Digital Spoken Word Education: Artographic to Autoethnographic Portraits of Collective Becoming"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/poetic-justice-values-in-uks-digital-spoken-word-education-artographic-to-autoethnographic-portraits-of-collective-becoming/",
@@ -6022,6 +6130,15 @@
           "title": "Poetic Justice Values in UK’s Digital Spoken Word Education: Artographic to Autoethnographic Portraits of Collective Becoming"
         },
         {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/digital-thessaly-reuniting-the-alan-wace-archive/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/digital-thessaly-reuniting-the-alan-wace-archive/",
+          "publishedOn": "2023-03-06T15:13:56.000Z",
+          "wordCount": 405,
+          "title": "Digital Thessaly: Reuniting the Alan Wace Archive"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/digital-thessaly-reuniting-the-alan-wace-archive/",
           "author": null,
           "description": "",
@@ -6029,6 +6146,15 @@
           "publishedOn": "2023-03-06T15:13:56.000Z",
           "wordCount": 392,
           "title": "Digital Thessaly: Reuniting the Alan Wace Archive"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/the-digital-turn-in-early-modern-japanese-literature/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-award-funding/cdh-awards/the-digital-turn-in-early-modern-japanese-literature/",
+          "publishedOn": "2023-03-06T14:57:40.000Z",
+          "wordCount": 883,
+          "title": "The digital turn in early modern Japanese literature"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/the-digital-turn-in-early-modern-japanese-literature/",
@@ -7800,15 +7926,6 @@
           "publishedOn": "2022-09-21T12:20:48.000Z",
           "wordCount": 606,
           "title": "B-Centre Re-Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)"
-        },
-        {
-          "id": "5792 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "New Impact Story: Discovering Slovenian Language Structure Using Corpora\n\n            \n\n  \n  \n            \n    \n\n              \n              \n                  \n\n  \nJakob Lenardič’s PhD thesis was recently awarded best of the year 2021/2022 at the Faculty of Arts, University of Ljubljana. Read how he combined theoretical and corpus linguistics to explore the subtle characteristics of Slovenian language structure.\n \nSee the full impact story here.\n\n      Karina Berger\n 19 September 2022\n\n    \nCorpora",
-          "link": "https://www.clarin.eu/blog/new-impact-story-discovering-slovenian-language-structure-using-corpora",
-          "publishedOn": "2022-09-19T07:41:45.000Z",
-          "wordCount": 205,
-          "title": "New Impact Story: Discovering Slovenian Language Structure Using Corpora"
         }
       ]
     },
@@ -8365,15 +8482,6 @@
           "publishedOn": "2022-09-26T12:46:52.000Z",
           "wordCount": 821,
           "title": "DRI welcomes the Wicklow County Archives & Genealogy Service as its latest member"
-        },
-        {
-          "id": "1561 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "DRI's annual Community Archive Scheme is now open. To help any groups who are thinking of applying to develop their application we are running an information session on Monday 10 of October about the scheme and the application process.",
-          "link": "https://www.dri.ie/information-session-2023-community-archive-scheme",
-          "publishedOn": "2022-09-19T08:39:56.000Z",
-          "wordCount": 703,
-          "title": "Information Session for the 2023 Community Archive Scheme"
         }
       ]
     },
