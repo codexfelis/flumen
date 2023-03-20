@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-03-19T08:03:56.186Z</updated>
+    <updated>2023-03-20T08:04:13.583Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eindrücke und Gespräche von der DHd2023]]></title>
+        <id>https://radihum20.de/?p=684</id>
+        <link href="https://radihum20.de/eindruecke-und-gespraeche-von-der-dhd2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=eindruecke-und-gespraeche-von-der-dhd2023"/>
+        <updated>2023-03-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Heute haben wir für Euch eine ganz besondere Folge vorbereitet, randvoll mit frischen Eindrücken und Gesprächen von der Jahreskonferenz der digitalen Geisteswissenschaften im deutschsprachigen Raum – DHd2023. Einige der Konfernzteilnehmer*Innen haben sich netterweise die Zeit genommen, sich für ein Gespräch mit uns zusammenzusetzen, obwohl die zwischen Panels, Workshops und Kaffee-Gesprächen wirklich rar war. Mit dabei […]
+Der Beitrag Eindrücke und Gespräche von der DHd2023 erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Mareike Schumacher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Submit Your Photos of Previous CAA Conferences]]></title>
         <id>https://sites.caa-international.org/main/?p=17193</id>
@@ -10922,80 +10933,6 @@ I’ve also updated the Trove Newspaper Harvester section of the GLAM Workbench 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello world!]]></title>
-        <id>https://onlineacademiccommunity.uvic.ca/dhsi/?p=1</id>
-        <link href="https://dhsi.org/2022/09/21/hello-world/"/>
-        <updated>2022-09-21T17:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to UVic Online Academic Community. This is your first post. Edit or delete it, then start blogging!]]></summary>
-        <author>
-            <name>Ray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPhil Q&A]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35349/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35349/"/>
-        <updated>2022-09-21T13:20:37.000Z</updated>
-        <summary type="html"><![CDATA[The new MPhil in Digital Humanities at the University of Cambridge explores ways in which the humanities can engage with digitally enabled research approaches, considers the impact of digital innovations on cultural forms and practices, and explores digital futures. The nine-month taught masters programme is designed to be inter-disciplinary and caters for different skill levels]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B-Centre Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)]]></title>
-        <id>5798 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/b-centre-certification-national-infrastructure-language-resources-technologies-greece-clarinel"/>
-        <updated>2022-09-21T12:20:48.000Z</updated>
-        <summary type="html"><![CDATA[B-Centre Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)
-
-            
-We are pleased to announce that CLARIN:EL, the National Infrastructure for Language Resources & Technologies in Greece, has been successfully assessed as a CLARIN B-centre and has received a B-centre certificate.
-    
-
-              
-              
-              
-                  
-
-  
-CLARIN:EL is part of the National Roadmap for Research Infrastructures of Greece and collects, documents, curates and distributes digital language resources and tools, as well as providing certified online language processing services. CLARIN:EL thereby supports academics, students, language professionals and citizen scientists in the fields of language studies, digital humanities and s…]]></summary>
-        <author>
-            <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B-Centre Re-Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)]]></title>
-        <id>5798 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/b-centre-re-certification-national-infrastructure-language-resources-technologies-greece"/>
-        <updated>2022-09-21T12:20:48.000Z</updated>
-        <summary type="html"><![CDATA[B-Centre Re-Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)
-
-            
-We are pleased to announce that CLARIN:EL, the National Infrastructure for Language Resources & Technologies in Greece, has been successfully assessed as a CLARIN B-centre and has received a B-centre certificate.
-    
-
-              
-              
-              
-                  
-
-  
-CLARIN:EL is part of the National Roadmap for Research Infrastructures of Greece and collects, documents, curates and distributes digital language resources and tools, as well as providing certified online language processing services. CLARIN:EL thereby supports academics, students, language professionals and citizen scientists in the fields of language studies, digital humanities an…]]></summary>
-        <author>
-            <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracing Ideas Across Networks]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/blog/tracing-ideas-across-networks/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/tracing-ideas-across-networks/"/>
-        <updated>2022-09-21T12:03:00.000Z</updated>
-        <summary type="html"><![CDATA[A Collaborative Approach to Topic Modelling and Social Network Analysis on the Letters of John Stevens Henslow Funded by Cambridge Digital Humanities as part of their Project Incubation Awards, Tracing Ideas Across Networks was conceived with the aim of using the transcribed letters of John Stevens Henslow as the basis for experimenting with different Python]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tracing Ideas Across Networks]]></title>
         <id>https://www.cdh.cam.ac.uk/?p=35339</id>
         <link href="https://www.cdh.cam.ac.uk/media/blog/tracing-ideas-across-networks/"/>
@@ -11004,26 +10941,6 @@ CLARIN:EL is part of the National Roadmap for Research Infrastructures of Greece
 The post Tracing Ideas Across Networks first appeared on CDH.]]></summary>
         <author>
             <name>Heather Stallard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Poster Presentation]]></title>
-        <id>https://tei-c.org/?p=31386</id>
-        <link href="https://tei-c.org/2022/09/21/virtual-poster-presentation/"/>
-        <updated>2022-09-21T08:29:55.000Z</updated>
-        <summary type="html"><![CDATA[As a follow up to this year’s excellent and successful TEI conference at Newcastle University, which has just ended, there is an exciting opportunity for further international exchange. You are cordially invited to attend the TEI 2022 virtual poster presentation on Thursday, September 22, 2022 from 1pm-2pm (BST)! The virtual poster session will feature the […]]]></summary>
-        <author>
-            <name>Martina Scholger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From our outgoing and incoming presidents!]]></title>
-        <id>https://csdh-schn.org/?p=1105</id>
-        <link href="https://csdh-schn.org/from-our-outgoing-and-incoming-presidents/"/>
-        <updated>2022-09-21T03:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Having reached the end of my term as President of CSDH-SCHN I would like to thank the wonderful executive that I got to work with over these years. I’m thrilled that many are staying on and taking on new roles, but also recognize those that have served for years and now turn to other opportunities. We […]]]></summary>
-        <author>
-            <name>Milena Radzikowska</name>
         </author>
     </entry>
     <entry>

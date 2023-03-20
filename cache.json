@@ -219,7 +219,7 @@
     {
       "title": "Blog - IMPACT Centre of Competence",
       "feedUrl": "http://www.digitisation.eu/blog/feed/",
-      "siteUrl": "https://www.digitisation.eu",
+      "siteUrl": "https://www.digitisation.eu/blog/",
       "articles": [
         {
           "id": "https://www.digitisation.eu/?p=17433",
@@ -688,15 +688,6 @@
           "publishedOn": "2022-11-30T20:48:20.000Z",
           "wordCount": 319,
           "title": "Call for CSDH/SCHN Program Chair (Congress 2023)"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=1105",
-          "author": "Milena Radzikowska",
-          "description": "Having reached the end of my term as President of CSDH-SCHN I would like to thank the wonderful executive that I got to work with over these years. I’m thrilled that many are staying on and taking on new roles, but also recognize those that have served for years and now turn to other opportunities. We […]",
-          "link": "https://csdh-schn.org/from-our-outgoing-and-incoming-presidents/",
-          "publishedOn": "2022-09-21T03:14:21.000Z",
-          "wordCount": null,
-          "title": "From our outgoing and incoming presidents!"
         }
       ]
     },
@@ -2024,17 +2015,7 @@
       "title": "Digital Humanities Summer Institute (DHSI)",
       "feedUrl": "https://dhsi.org/feed",
       "siteUrl": "https://dhsi.org",
-      "articles": [
-        {
-          "id": "https://onlineacademiccommunity.uvic.ca/dhsi/?p=1",
-          "author": "Ray",
-          "description": "Welcome to UVic Online Academic Community. This is your first post. Edit or delete it, then start blogging!",
-          "link": "https://dhsi.org/2022/09/21/hello-world/",
-          "publishedOn": "2022-09-21T17:00:06.000Z",
-          "wordCount": 117,
-          "title": "Hello world!"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Tagungen",
@@ -4000,6 +3981,15 @@
       "siteUrl": "https://radihum20.de/",
       "articles": [
         {
+          "id": "https://radihum20.de/?p=684",
+          "author": "Mareike Schumacher",
+          "description": "Heute haben wir für Euch eine ganz besondere Folge vorbereitet, randvoll mit frischen Eindrücken und Gesprächen von der Jahreskonferenz der digitalen Geisteswissenschaften im deutschsprachigen Raum – DHd2023. Einige der Konfernzteilnehmer*Innen haben sich netterweise die Zeit genommen, sich für ein Gespräch mit uns zusammenzusetzen, obwohl die zwischen Panels, Workshops und Kaffee-Gesprächen wirklich rar war. Mit dabei […]\nDer Beitrag Eindrücke und Gespräche von der DHd2023 erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/eindruecke-und-gespraeche-von-der-dhd2023/?utm_source=rss&utm_medium=rss&utm_campaign=eindruecke-und-gespraeche-von-der-dhd2023",
+          "publishedOn": "2023-03-20T08:00:00.000Z",
+          "wordCount": 863,
+          "title": "Eindrücke und Gespräche von der DHd2023"
+        },
+        {
           "id": "https://radihum20.de/?p=672",
           "author": "Mareike Schumacher",
           "description": "Heute geht sie los, die DHd2023!! Wir sind schon total eingestimmt und freuen uns schon sehr auf die Events! Heute und morgen finden die Workshops in Belval (Luxemburg) statt, bevor es dann am Dienstag Abend per Shuttlebus nach Trier geht. Wir haben allen Organisator:innen von Workshops die Möglichkeit gegeben, uns eine kurze Beschreibung ihres Workshops […]\nDer Beitrag RaDiHum20 präsentiert: einige Workshop der DHd2023 erschien zuerst auf RaDiHum 20.",
@@ -5279,15 +5269,6 @@
           "publishedOn": "2022-10-25T16:06:58.000Z",
           "wordCount": 192,
           "title": "New release: TEI Guidelines 4.5.0 / Styleshets 7.54.0"
-        },
-        {
-          "id": "https://tei-c.org/?p=31386",
-          "author": "Martina Scholger",
-          "description": "As a follow up to this year’s excellent and successful TEI conference at Newcastle University, which has just ended, there is an exciting opportunity for further international exchange. You are cordially invited to attend the TEI 2022 virtual poster presentation on Thursday, September 22, 2022 from 1pm-2pm (BST)! The virtual poster session will feature the […]",
-          "link": "https://tei-c.org/2022/09/21/virtual-poster-presentation/",
-          "publishedOn": "2022-09-21T08:29:55.000Z",
-          "wordCount": 254,
-          "title": "Virtual Poster Presentation"
         }
       ]
     },
@@ -7563,24 +7544,6 @@
           "publishedOn": "2022-09-22T13:23:12.000Z",
           "wordCount": 518,
           "title": "Digital Archival Photography in-depth"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35349/",
-          "author": null,
-          "description": "The new MPhil in Digital Humanities at the University of Cambridge explores ways in which the humanities can engage with digitally enabled research approaches, considers the impact of digital innovations on cultural forms and practices, and explores digital futures. The nine-month taught masters programme is designed to be inter-disciplinary and caters for different skill levels",
-          "link": "https://www.cdh.cam.ac.uk/events/35349/",
-          "publishedOn": "2022-09-21T13:20:37.000Z",
-          "wordCount": 468,
-          "title": "MPhil Q&A"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/blog/tracing-ideas-across-networks/",
-          "author": null,
-          "description": "A Collaborative Approach to Topic Modelling and Social Network Analysis on the Letters of John Stevens Henslow Funded by Cambridge Digital Humanities as part of their Project Incubation Awards, Tracing Ideas Across Networks was conceived with the aim of using the transcribed letters of John Stevens Henslow as the basis for experimenting with different Python",
-          "link": "https://www.cdh.cam.ac.uk/media/blog/tracing-ideas-across-networks/",
-          "publishedOn": "2022-09-21T12:03:00.000Z",
-          "wordCount": 1424,
-          "title": "Tracing Ideas Across Networks"
         }
       ]
     },
@@ -7840,24 +7803,6 @@
           "publishedOn": "2022-09-26T11:04:27.000Z",
           "wordCount": 459,
           "title": "2022 Steven Krauwer Award for Early Career CLARIN Researcher Awarded to Roberts Darģis"
-        },
-        {
-          "id": "5798 at https://www.clarin.eu",
-          "author": "Julia Misersky",
-          "description": "B-Centre Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)\n\n            \nWe are pleased to announce that CLARIN:EL, the National Infrastructure for Language Resources & Technologies in Greece, has been successfully assessed as a CLARIN B-centre and has received a B-centre certificate.\n    \n\n              \n              \n              \n                  \n\n  \nCLARIN:EL is part of the National Roadmap for Research Infrastructures of Greece and collects, documents, curates and distributes digital language resources and tools, as well as providing certified online language processing services. CLARIN:EL thereby supports academics, students, language professionals and citizen scientists in the fields of language studies, digital humanities and s…",
-          "link": "https://www.clarin.eu/news/b-centre-certification-national-infrastructure-language-resources-technologies-greece-clarinel",
-          "publishedOn": "2022-09-21T12:20:48.000Z",
-          "wordCount": 596,
-          "title": "B-Centre Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)"
-        },
-        {
-          "id": "5798 at https://www.clarin.eu",
-          "author": "Julia Misersky",
-          "description": "B-Centre Re-Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)\n\n            \nWe are pleased to announce that CLARIN:EL, the National Infrastructure for Language Resources & Technologies in Greece, has been successfully assessed as a CLARIN B-centre and has received a B-centre certificate.\n    \n\n              \n              \n              \n                  \n\n  \nCLARIN:EL is part of the National Roadmap for Research Infrastructures of Greece and collects, documents, curates and distributes digital language resources and tools, as well as providing certified online language processing services. CLARIN:EL thereby supports academics, students, language professionals and citizen scientists in the fields of language studies, digital humanities an…",
-          "link": "https://www.clarin.eu/news/b-centre-re-certification-national-infrastructure-language-resources-technologies-greece",
-          "publishedOn": "2022-09-21T12:20:48.000Z",
-          "wordCount": 606,
-          "title": "B-Centre Re-Certification of National Infrastructure for Language Resources & Technologies in Greece (CLARIN:EL)"
         }
       ]
     },
