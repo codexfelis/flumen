@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-03-20T08:04:13.583Z</updated>
+    <updated>2023-03-21T08:04:15.256Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Form Follows Conception. Representing Non-Linear History through Multimodal Hypertext]]></title>
+        <id>4454 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/form-follows-conception-representing-non-linear-history-through-multimodal-hypertext"/>
+        <updated>2023-03-21T07:42:37.000Z</updated>
+        <summary type="html"><![CDATA[How do historians shape conceptions of history? How do these conceptions structure narratives and argumentation? And how do historians represent these structures by the design of their publications?
+Traditional text formats seem to favor the representation of linear progression: Text flows from beginning to end, mostly sequentially. Chapters and sections serve as means of hierarchization. This structure resembles the flow of time in history, on the one hand, and the logical ‘architecture’ of academic sense-making, on the other hand. However, complex conceptions of history like global entanglements, time layers, or spatial history resist the linear logic of the text. The same applies to data-driven research, when DH scholars present their interpretations, refer to data and visualizations, a…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrating 5 years of DRI's Membership programme]]></title>
+        <id>1633 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/5-years-dri-membership"/>
+        <updated>2023-03-20T19:12:08.000Z</updated>
+        <summary type="html"><![CDATA[2023 marked five years since the Digital Repository of Ireland launched our Membership programme. This blog post discusses the reasons for the programme, our early members, and significant collection deposited by members since 2018.]]></summary>
+        <author>
+            <name>clarelanigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1658 – Apparatus ad acta publica. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=17639</id>
+        <link href="https://schoenberginstitute.org/2023/03/20/manuscript-monday-ms-codex-1658-apparatus-ad-acta-publica-video-orientation/"/>
+        <updated>2023-03-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1658, the first volume of a list of ecclesiastical decrees by subject, with entries arranged in alphabetical sections based on a subject keyword at the beginning of each entry, through the letter L. You can readContinue reading "Manuscript Monday: Ms. Codex 1658 – Apparatus ad acta publica. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inviting blogs for India Humanities Forum]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1943</id>
+        <link href="https://discourse.computational-humanities-research.org/t/inviting-blogs-for-india-humanities-forum/1943"/>
+        <updated>2023-03-20T10:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+I am the founder of IHF and a Digital Humanities researcher - https://indiahumanitiesforum.in/
+I have been working on this forum for a while and it was just launched yesterday. I am posting on this forum to invite blogs from experts in fields like you. The aim of the forum is to improve access to opportunities and resources for students in Humanities in India.
+As you may already know, the DH scene in India still needs a lot of work and many students in Humanities don’t know what Digital Humanities is.
+Hence, I am inviting blogs on a variety of topics including but not limited to:
+A simple guide to understanding DH
+A blog about your current research
+How can you get involved in Digital Humanities as a student
+Interesting developments in Digital Humanities
+Why you chose Digital Humanities
+Scope of Digital Humanities in academia/ industry
+The blog can be casual and about 400-750 words. If you are interested, pleaser reply or email at indiahumanitiesforum@gmail.com
+You volunteering your time can really help a lot of students out there!
+1 post - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>Shrish</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eindrücke und Gespräche von der DHd2023]]></title>
         <id>https://radihum20.de/?p=684</id>
@@ -10868,68 +10923,6 @@ Post-doctoral Fellow (Ref: 2200871) in the Department of Literature and Cultural
 The Department of Literature and Cultural Studies seeks a postdoctoral fellow to enhance the department’s ongoing and developing initiatives in the area of Digital Humanities. These centre around literary and historical inquiry with GIS, computational approaches to literary and philological research, and teaching and learning with technology. During the appointment period, the appointee will present the work during the departmental seminar series, produce at least one article-length research output or comparable digital project, and support the department’s teaching development, knowledge transfer, and com…]]></summary>
         <author>
             <name>Communication Fellow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Archival Photography]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35354/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35354/"/>
-        <updated>2022-09-22T13:24:09.000Z</updated>
-        <summary type="html"><![CDATA[Workshop Tutor: Maciej Pawlikowski, Head of Digital Content Unit, Cambridge University Library This Methods Workshop will introduce advanced techniques used for the digitisation and preservation of archival material. The first workshop will introduce the following topics: Copyrights and sensitive data considerations Understanding Photography basics Digitisation Imaging Standards Scene and capture calibration Image post-processing Taking usable]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Archival Photography in-depth]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35357/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35357/"/>
-        <updated>2022-09-22T13:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Workshop Tutor: Maciej Pawlikowski, Head of Digital Content Unit, Cambridge University Library This second session, following the Methods Workshop, held on 7th November 2022, will focus on how to adopt the principles to the projects chosen by the participants. This will cover learning a practical approach to taking images fit for purpose in any conditions with]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“What’s new, Switzerland ?”  dans le dernier numéro de l’uniscope]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11623</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/09/22/whats-new-switzerland-dans-le-dernier-numero-de-luniscope/"/>
-        <updated>2022-09-22T10:28:59.000Z</updated>
-        <summary type="html"><![CDATA[Aris Xanthos, maître d’enseignement et de recherche à la section des sciences du langage et de l’information (Faculté des lettres, UNIL) et membre du dhCenter, présente la recherche What’s new, Switzerland ?  dans un article publié par l’uniscope, le magazine du campus de l’UNIL. Terminer son message avec un clin d’œil ou un cœur rouge […]
-The post “What’s new, Switzerland ?”  dans le dernier numéro de l’uniscope appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LURN2: Luxembourg Ukrainian Researcher Network / Мережа українських дослідників у Люксембурзі: 2-е засідання]]></title>
-        <id>4200 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/lurn2-luxembourg-ukrainian-researcher-network-merezha-ukrayinskih-doslidnikiv-u-lyuksemburzi"/>
-        <updated>2022-09-22T07:36:03.000Z</updated>
-        <summary type="html"><![CDATA[English version below
-Після успішного відкриття колоквіуму Luxembourg Ukrainian Researcher Network (LURN) з майже 40 українськими дослідниками, друга зустріч відбудеться 30 вересня 2022 року з 8:30 до 13:30. в Університеті Люксембургу на кампусі Белваль, Porte des Sciences 11, L -4365 Esch-sur-Alzette у C²DH Open Space, 4-й поверх.
-Ця зустріч присвячена не стільки самопрезентації членів та формуванню груп, пов’язаних із дослідницькими інтересами, скільки набуттю навичок, необхідних для спільної та індивідуальної розробки проектів і двосторонньої співпраці між Люксембургом та Україною: очікування в західноєвропейських університетах, навчання проектній роботі, наукової доброчесності, дослідницької етики, фінансових ресурсів проектів, академічної роботи за межами університету та багато іншого…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you want your Trove newspaper articles in bulk? Meet the new Trove Newspaper Harvester Python package!]]></title>
-        <id>http://wragge.micro.blog/2022/09/22/do-you-want.html</id>
-        <link href="https://updates.timsherratt.org/2022/09/22/do-you-want.html"/>
-        <updated>2022-09-22T03:53:49.000Z</updated>
-        <summary type="html"><![CDATA[The Trove Newspaper Harvester has been around in different forms for more than a decade. It helps you download all the articles in a Trove newspaper search, opening up new possibilities for large-scale analysis. You can use it as a command-line tool by installing a Python package, or through the Trove Newspaper Harvester section of the GLAM Workbench.
-I’ve just overhauled development of the Python package. The new trove-newspaper-harvester replaces the old troveharvester repository. The command-line interface remains the same (with a few new options), so it’s really a drop in replacement. Read the full documentation of the new package for more details.
-
-Here’s a summary of the changes:
-the package can now be used as a library (that you incorporate into your own code) as well as a standalone command-line tool – this means you can embed the harvester in your own tools or workflows
-both the library and the CLI now let you set the names of the directories in which your harvests will be saved – this makes it easier to organise your harvests into groups and give them meaningful names
-the harvesting process now saves results into a newline-delimited JSON file (one JSON object per line) – the library has a save_csv() option to convert this to a CSV file, while the CLI automatically converts the results to CSV to maintain compatibility with previous versions
-behind the scenes, the package is now developed and maintained using nbdev – this means the code and documentation are all generated from a set of Jupyter notebooks
-the Jupyter notebooks include a variety of automatic tests which should make maintenance and development much easier in the future
-I’ve also updated the Trove Newspaper Harvester section of the GLAM Workbench to use the new package. The new core library will make it easier to develop more complex harvesting examples – for example, searching for articles from a specific day across a range of years. If you find any problems, or want to suggest improvements, please raise an issue.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
