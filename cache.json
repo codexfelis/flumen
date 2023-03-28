@@ -1901,15 +1901,6 @@
           "publishedOn": "2022-09-30T09:51:06.000Z",
           "wordCount": 678,
           "title": "Médialab : Post-doc researcher – Horizon Europe PROJECT AUTHLIB"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11662",
-          "author": "Heloise schibler",
-          "description": "Isaac Pante, directeur scientifique du dhCenter pour l’UNIL, et David Javet, médiateur scientifique à l’Éprouvette (UNIL), sont intevenus dans l’émission “CQFD” (La Première/RTS) du 26 septembre. Lors de cette émission, David Javet et Isaac Pante ont présenté le nouveau programme thématique interdisciplinaire “cultures numériques” développé par l’Éprouvette, et notamment l’atelier scientifique “Créons en direct un […]\nThe post CQFD : Les cultures numériques à la une appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/09/29/cqfd-les-cultures-numeriques-a-la-une/",
-          "publishedOn": "2022-09-29T14:33:14.000Z",
-          "wordCount": 363,
-          "title": "CQFD : Les cultures numériques à la une"
         }
       ]
     },
@@ -1946,6 +1937,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=7672",
+          "author": "DHN Admin",
+          "description": "The Critical Digital Humanities Initiative (CDHI), a tri-campus research initiative funded by the University of Toronto’s Institutional Strategic Initiatives (ISI) program is pleased to announce a new online workshop in […]",
+          "link": "https://dhn.utoronto.ca/call-for-applications-cdhi-digital-research-storytelling-workshop-may-2023/?utm_source=rss&utm_medium=rss&utm_campaign=call-for-applications-cdhi-digital-research-storytelling-workshop-may-2023",
+          "publishedOn": "2023-03-27T20:32:11.000Z",
+          "wordCount": 812,
+          "title": "Call for Applications: CDHI Digital Research Storytelling Workshop, May 2023"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=7507",
           "author": "Tanya Rohrmoser",
@@ -4427,6 +4427,66 @@
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
         {
+          "id": "15ab5f53-cdd1-425d-90b3-995c2649967d",
+          "author": "Roopika Risam",
+          "description": "Editors' note on the March 2023 issue of Reviews in Digital Humanities",
+          "link": "https://reviewsindh.pubpub.org/pub/editors-note-march-2023",
+          "publishedOn": "2023-03-27T14:03:59.000Z",
+          "wordCount": 849,
+          "title": "Editors' Note: March 2023",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/gtiecsar/01679922514708.png"
+          }
+        },
+        {
+          "id": "73a95551-d0e2-4763-b90f-0cfa8ceb25f6",
+          "author": "Liz Polcha",
+          "description": "A review of QR Code Quilt, an ArcGIS StoryMap exploring the digital and tactile dimensions of information, created by Kelsey Dufresne and Mary Downs",
+          "link": "https://reviewsindh.pubpub.org/pub/qr-code-quilt",
+          "publishedOn": "2023-03-27T13:03:33.000Z",
+          "wordCount": 1056,
+          "title": "Review: QR Code Quilt",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/kbhjud2c/51679921538121.png"
+          }
+        },
+        {
+          "id": "0ead851e-3ffa-46c7-83e2-5f018ae1e5b3",
+          "author": "Darren Freebury-Jones",
+          "description": "A review of That Shakespeare Life, a podcast exploring the historical contexts of William Shakespeare, directed by Cassidy Cash",
+          "link": "https://reviewsindh.pubpub.org/pub/that-shakespeare-life",
+          "publishedOn": "2023-03-27T12:42:13.000Z",
+          "wordCount": 1215,
+          "title": "Review: That Shakespeare Life",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/quelto22/11679920000198.png"
+          }
+        },
+        {
+          "id": "51697199-58d4-48be-8efa-0edaea298ba5",
+          "author": "Cameron Blevins",
+          "description": "A review of Outliers and Outlaws, a public digital humanities project based on the Eugene Lesbian Oral History Project, created by Judith Raiskin, Courtney Hermann, and Kerribeth Elliott",
+          "link": "https://reviewsindh.pubpub.org/pub/outliers-outlaws",
+          "publishedOn": "2023-03-27T12:13:50.000Z",
+          "wordCount": 1226,
+          "title": "Review: Outliers and Outlaws",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/n0ut9bhb/41679918602225.jpg"
+          }
+        },
+        {
+          "id": "17e205b7-a011-4b9b-87ef-e6c5b0550de7",
+          "author": "Ann E. Komora",
+          "description": "A review of History of Early American Landscape Design, a digital resource for early U.S. landscape aesthetics and garden design in the colonial and national periods, directed by Therese O'Malley and Matthew J. Westerby",
+          "link": "https://reviewsindh.pubpub.org/pub/history-early-american-landscape-design",
+          "publishedOn": "2023-03-27T11:54:50.000Z",
+          "wordCount": 1151,
+          "title": "Review: History of Early American Landscape Design",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/p9fvjg38/61679917257335.jpg"
+          }
+        },
+        {
           "id": "84122563-d3a5-4281-b34f-f390929b8084",
           "author": "Roopika Risam",
           "description": "Editors' note on the January/February 2023 issue of Reviews in Digital Humanities",
@@ -4653,30 +4713,6 @@
           "enclosure": {
             "url": "https://assets.pubpub.org/su52dknk/31666831780897.png"
           }
-        },
-        {
-          "id": "2f03e2b9-6f52-4f43-beca-3027611acc7f",
-          "author": "Kalle Westerling",
-          "description": "A review of London Stage Database, a digital projects that remediates the London Stage Information Book (1970-1978), directed by Mattie Burkert",
-          "link": "https://reviewsindh.pubpub.org/pub/london-stage-database",
-          "publishedOn": "2022-09-29T18:16:05.000Z",
-          "wordCount": 1529,
-          "title": "Review: London Stage Database",
-          "enclosure": {
-            "url": "https://s3.amazonaws.com/assets.pubpub.org/9vfhdc6ckejdzws223cbqrwtut4pcs80.pdf"
-          }
-        },
-        {
-          "id": "2f03e2b9-6f52-4f43-beca-3027611acc7f",
-          "author": "Kalle Westerling",
-          "description": "A review of London Stage Database, a digital projects that remediates the London Stage Information Book (1970-1978), directed by Mattie Burkert",
-          "link": "https://reviewsindh.pubpub.org/pub/rk38qt09",
-          "publishedOn": "2022-09-29T18:16:05.000Z",
-          "wordCount": 1535,
-          "title": "Review: London Stage Database",
-          "enclosure": {
-            "url": "https://s3.amazonaws.com/assets.pubpub.org/3gsxnoo1zgoaqpl1lp3y57iv4xapel5l.pdf"
-          }
         }
       ]
     },
@@ -4685,6 +4721,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=17643",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 384, a treatise in 4 books on astronomy, geography, meteorology, and medicine, and also contains several maps and diagrams, written ca. 1150. You can read the complete record for this document (and find links to digitized copies)Continue reading \"Manuscript Monday: LJS 384 – De philosophia mundi … [etc.]. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/03/27/manuscript-monday-ljs-384-de-philosophia-mundi-etc-video-orientation/",
+          "publishedOn": "2023-03-27T12:00:00.000Z",
+          "wordCount": 1199,
+          "title": "Manuscript Monday: LJS 384 – De philosophia mundi … [etc.]. (Video Orientation)"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=17639",
           "author": "simsmss",
@@ -5425,6 +5470,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4464 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "In this research seminar, we will discuss the ongoing extraction of data from the administrative archives of Dudelange, relying on an automated transcription, with layout detection and the automated extraction of temporal and spatial information from these sources to create historical maps.\nThe city of Dudelange has entered a partnership with the C²DH, for which they shared their residential cards. These administrative forms contain information on the population movements in and out of the city. These are being scanned and transcribed.\nFor the transcription, the project uses Transkribus to restitute not only the textual content of these administrative forms but also their structure, e.g., for each field, a tag is attached. Secondly, for the blocs of texts, a script to detect place and time information is being developed internally. All these steps should lead up to the structuration before import of the data to be visualised on a map and open these rich collections for further analysis, on the history of migration, housing, public health etc.\nWe invite all interested persons to join the discussion on how to improve this pipeline and share other potential uses for the extracted material. \n \nWednesday, 19 April 2023\n14.00 - 15.00\nC²DH Open Space\nMaison des Sciences humaines, 4th floor\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/logo_research_seminars_content_list.png?itok=r2xDOs_L\n  Research seminar with Estelle Bunout.\n  19 April 2023\n  Contemporary history of Luxembourg\n  Archives  Data Science  Digital methods  Digitisation  Visualisation\n  Research seminars\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/analogue-forms-digital-maps-digitisation-pipeline-dudelange-archives",
+          "publishedOn": "2023-03-28T06:34:12.000Z",
+          "wordCount": 434,
+          "title": "From analogue forms to digital maps: digitisation pipeline of the Dudelange archives"
+        },
+        {
           "id": "4462 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "The aim of the Study Morning is to explore the history of European integration from two angles: firstly, looking at various key events in terms of their content, and secondly reflecting on how critical analysis can be used to shed more light on them. The idea is to begin by familiarising pupils in their final years at the European School (from a variety of specialisations including history, geography and political science) with the origins, content and consequences of the Declaration given by Robert Schuman on 9 May 1950 on the building of a united Europe. We will consider its impact on Luxembourg’s role in the European integration process, especially given the country’s status as a permanent capital of the European institutions, and explore the current challenges facing both Luxembourg an…",
@@ -5827,6 +5881,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/blog/cdh-award-contributes-to-islanders-exhibition-at-fitzwilliam/",
+          "author": null,
+          "description": "We are delighted to report that the resources funded by Cambridge Digital Humanities have contributed to the Fitzwilliam Museum’s critically acclaimed new exhibition ‘Islanders: the making of the Mediterranean.’ CDH supported the Fitzwilliam Museum through a Digitisation Award, to bring archival material from the British School at Athens to Cambridge for the very first time.",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/cdh-award-contributes-to-islanders-exhibition-at-fitzwilliam/",
+          "publishedOn": "2023-03-27T13:41:25.000Z",
+          "wordCount": 694,
+          "title": "CDH Award contributes to Islanders Exhibition at Fitzwilliam"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/research/cdh-funding/computational-methods-for-tracing-the-evolution-of-meaning-in-ancient-languages/",
           "author": null,

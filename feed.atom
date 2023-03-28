@@ -2,10 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-03-27T08:04:12.498Z</updated>
+    <updated>2023-03-28T08:04:11.752Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From analogue forms to digital maps: digitisation pipeline of the Dudelange archives]]></title>
+        <id>4464 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/analogue-forms-digital-maps-digitisation-pipeline-dudelange-archives"/>
+        <updated>2023-03-28T06:34:12.000Z</updated>
+        <summary type="html"><![CDATA[In this research seminar, we will discuss the ongoing extraction of data from the administrative archives of Dudelange, relying on an automated transcription, with layout detection and the automated extraction of temporal and spatial information from these sources to create historical maps.
+The city of Dudelange has entered a partnership with the C²DH, for which they shared their residential cards. These administrative forms contain information on the population movements in and out of the city. These are being scanned and transcribed.
+For the transcription, the project uses Transkribus to restitute not only the textual content of these administrative forms but also their structure, e.g., for each field, a tag is attached. Secondly, for the blocs of texts, a script to detect place and time information is being developed internally. All these steps should lead up to the structuration before import of the data to be visualised on a map and open these rich collections for further analysis, on the history of migration, housing, public health etc.
+We invite all interested persons to join the discussion on how to improve this pipeline and share other potential uses for the extracted material. 
+ 
+Wednesday, 19 April 2023
+14.00 - 15.00
+C²DH Open Space
+Maison des Sciences humaines, 4th floor
+ 
+
+  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/logo_research_seminars_content_list.png?itok=r2xDOs_L
+  Research seminar with Estelle Bunout.
+  19 April 2023
+  Contemporary history of Luxembourg
+  Archives  Data Science  Digital methods  Digitisation  Visualisation
+  Research seminars
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Applications: CDHI Digital Research Storytelling Workshop, May 2023]]></title>
+        <id>https://dhn.utoronto.ca/?p=7672</id>
+        <link href="https://dhn.utoronto.ca/call-for-applications-cdhi-digital-research-storytelling-workshop-may-2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=call-for-applications-cdhi-digital-research-storytelling-workshop-may-2023"/>
+        <updated>2023-03-27T20:32:11.000Z</updated>
+        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI), a tri-campus research initiative funded by the University of Toronto’s Institutional Strategic Initiatives (ISI) program is pleased to announce a new online workshop in […]]]></summary>
+        <author>
+            <name>DHN Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editors' Note: March 2023]]></title>
+        <id>15ab5f53-cdd1-425d-90b3-995c2649967d</id>
+        <link href="https://reviewsindh.pubpub.org/pub/editors-note-march-2023"/>
+        <updated>2023-03-27T14:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Editors' note on the March 2023 issue of Reviews in Digital Humanities]]></summary>
+        <author>
+            <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDH Award contributes to Islanders Exhibition at Fitzwilliam]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/blog/cdh-award-contributes-to-islanders-exhibition-at-fitzwilliam/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/blog/cdh-award-contributes-to-islanders-exhibition-at-fitzwilliam/"/>
+        <updated>2023-03-27T13:41:25.000Z</updated>
+        <summary type="html"><![CDATA[We are delighted to report that the resources funded by Cambridge Digital Humanities have contributed to the Fitzwilliam Museum’s critically acclaimed new exhibition ‘Islanders: the making of the Mediterranean.’ CDH supported the Fitzwilliam Museum through a Digitisation Award, to bring archival material from the British School at Athens to Cambridge for the very first time.]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: QR Code Quilt]]></title>
+        <id>73a95551-d0e2-4763-b90f-0cfa8ceb25f6</id>
+        <link href="https://reviewsindh.pubpub.org/pub/qr-code-quilt"/>
+        <updated>2023-03-27T13:03:33.000Z</updated>
+        <summary type="html"><![CDATA[A review of QR Code Quilt, an ArcGIS StoryMap exploring the digital and tactile dimensions of information, created by Kelsey Dufresne and Mary Downs]]></summary>
+        <author>
+            <name>Liz Polcha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: That Shakespeare Life]]></title>
+        <id>0ead851e-3ffa-46c7-83e2-5f018ae1e5b3</id>
+        <link href="https://reviewsindh.pubpub.org/pub/that-shakespeare-life"/>
+        <updated>2023-03-27T12:42:13.000Z</updated>
+        <summary type="html"><![CDATA[A review of That Shakespeare Life, a podcast exploring the historical contexts of William Shakespeare, directed by Cassidy Cash]]></summary>
+        <author>
+            <name>Darren Freebury-Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Outliers and Outlaws]]></title>
+        <id>51697199-58d4-48be-8efa-0edaea298ba5</id>
+        <link href="https://reviewsindh.pubpub.org/pub/outliers-outlaws"/>
+        <updated>2023-03-27T12:13:50.000Z</updated>
+        <summary type="html"><![CDATA[A review of Outliers and Outlaws, a public digital humanities project based on the Eugene Lesbian Oral History Project, created by Judith Raiskin, Courtney Hermann, and Kerribeth Elliott]]></summary>
+        <author>
+            <name>Cameron Blevins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 384 – De philosophia mundi … [etc.]. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=17643</id>
+        <link href="https://schoenberginstitute.org/2023/03/27/manuscript-monday-ljs-384-de-philosophia-mundi-etc-video-orientation/"/>
+        <updated>2023-03-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 384, a treatise in 4 books on astronomy, geography, meteorology, and medicine, and also contains several maps and diagrams, written ca. 1150. You can read the complete record for this document (and find links to digitized copies)Continue reading "Manuscript Monday: LJS 384 – De philosophia mundi … [etc.]. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: History of Early American Landscape Design]]></title>
+        <id>17e205b7-a011-4b9b-87ef-e6c5b0550de7</id>
+        <link href="https://reviewsindh.pubpub.org/pub/history-early-american-landscape-design"/>
+        <updated>2023-03-27T11:54:50.000Z</updated>
+        <summary type="html"><![CDATA[A review of History of Early American Landscape Design, a digital resource for early U.S. landscape aesthetics and garden design in the colonial and national periods, directed by Therese O'Malley and Matthew J. Westerby]]></summary>
+        <author>
+            <name>Ann E. Komora</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preserving memory, sharing history: Luxembourg and the Schuman Declaration of 9 May 1950]]></title>
         <id>4462 at https://www.c2dh.uni.lu</id>
@@ -10898,37 +11006,6 @@ Please confirm your participation before 10 November 2022 at vanessa.napolitano@
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: London Stage Database]]></title>
-        <id>2f03e2b9-6f52-4f43-beca-3027611acc7f</id>
-        <link href="https://reviewsindh.pubpub.org/pub/london-stage-database"/>
-        <updated>2022-09-29T18:16:05.000Z</updated>
-        <summary type="html"><![CDATA[A review of London Stage Database, a digital projects that remediates the London Stage Information Book (1970-1978), directed by Mattie Burkert]]></summary>
-        <author>
-            <name>Kalle Westerling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: London Stage Database]]></title>
-        <id>2f03e2b9-6f52-4f43-beca-3027611acc7f</id>
-        <link href="https://reviewsindh.pubpub.org/pub/rk38qt09"/>
-        <updated>2022-09-29T18:16:05.000Z</updated>
-        <summary type="html"><![CDATA[A review of London Stage Database, a digital projects that remediates the London Stage Information Book (1970-1978), directed by Mattie Burkert]]></summary>
-        <author>
-            <name>Kalle Westerling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CQFD : Les cultures numériques à la une]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11662</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/09/29/cqfd-les-cultures-numeriques-a-la-une/"/>
-        <updated>2022-09-29T14:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Isaac Pante, directeur scientifique du dhCenter pour l’UNIL, et David Javet, médiateur scientifique à l’Éprouvette (UNIL), sont intevenus dans l’émission “CQFD” (La Première/RTS) du 26 septembre. Lors de cette émission, David Javet et Isaac Pante ont présenté le nouveau programme thématique interdisciplinaire “cultures numériques” développé par l’Éprouvette, et notamment l’atelier scientifique “Créons en direct un […]
-The post CQFD : Les cultures numériques à la une appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
         </author>
     </entry>
     <entry>
