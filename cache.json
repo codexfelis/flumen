@@ -1978,6 +1978,24 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/892",
+          "author": "434",
+          "description": "Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto „Anything Goes?!“ vom 4. bis 6. Oktober 2023 in Tübingen statt. \nNoch bis zum 28.04.2023 läuft der…",
+          "link": "https://dig-hum.de/aktuelles/reminder-call-for-papers-forge23-forschungsdaten-den-geisteswissenschaften",
+          "publishedOn": "2023-03-30T10:53:52.030Z",
+          "wordCount": 953,
+          "title": "Reminder: Call for Papers. FORGE23 Forschungsdaten in den Geisteswissenschaften"
+        },
+        {
+          "id": "node/893",
+          "author": "434",
+          "description": "Unsere nächste Jahrestagung, die DHd2024, findet vom 26.02.2024 bis zum 01.03.2024 unter dem Motto „DH Quo Vadis“ statt.\nPassend zum 10-jährigen Jubiläum der DHd-Jahreskonferenzen…",
+          "link": "https://dig-hum.de/aktuelles/dhd2024-passau",
+          "publishedOn": "2023-03-30T10:53:52.004Z",
+          "wordCount": 734,
+          "title": "DHd2024 in Passau"
+        },
+        {
           "id": "node/890",
           "author": "434",
           "description": "Africa Multiple Cluster of Excellence\nThe University of Bayreuth is a research-oriented university with internationally competitive and interdisciplinary focuses in research and…",
@@ -2340,15 +2358,6 @@
           "publishedOn": "2022-10-11T17:40:26.000Z",
           "wordCount": 922,
           "title": "Moya Bailey – Misogynoir Transformed"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=4831",
-          "author": "Kayla Hilstob",
-          "description": "This was originally posted by Svitlana Matviyenko on the Institute of Network Cultures blog on September 29, 2022. June 26 – August 30, 2022 I have been resisting to return …\n  Dispatches from the Place of Imminence, part 12 Read More »\nDispatches from the Place of Imminence, part 12 first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/dispatches-from-the-place-of-imminence-part-12/?utm_source=rss&utm_medium=rss&utm_campaign=dispatches-from-the-place-of-imminence-part-12",
-          "publishedOn": "2022-09-30T23:21:00.000Z",
-          "wordCount": 4539,
-          "title": "Dispatches from the Place of Imminence, part 12"
         }
       ]
     },
@@ -8540,6 +8549,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=13087",
+          "author": "Melanie Cheung",
+          "description": "A new project that works to increase access to valuable research is to receive more than £5.8 million in funding. Led by Lancaster University, the Open Book Futures (OBF) project will develop and support organisations, tools and practices that enable both academics and the wider public to make more and better use of books [...]\nThe post RLUK joins Open Book Futures consortium appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk-joins-open-book-futures-consortium/",
+          "publishedOn": "2023-03-30T09:03:09.000Z",
+          "wordCount": 1623,
+          "title": "RLUK joins Open Book Futures consortium"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=13013",
           "author": "Melanie Cheung",
