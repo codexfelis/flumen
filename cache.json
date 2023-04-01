@@ -2264,24 +2264,6 @@
           "publishedOn": "2022-10-04T08:04:11.132Z",
           "wordCount": 783,
           "title": "Präsentation neuer DH-Projekte im DHd-Projekteschaufenster"
-        },
-        {
-          "id": "node/855",
-          "author": "406",
-          "description": "Am Lehrstuhl für Digital Humanities (Professor Dr. Malte Rehbein) ist ab 1. November 2022 die Stelle einer/eines Wissenschaftlichen Mitarbeiterin / Wissenschaftlichen Mitarbeiters…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-wma-am-lehrstuhl-f%C3%BCr-digital-humanities-universit%C3%A4t-passau",
-          "publishedOn": "2022-10-03T08:04:01.254Z",
-          "wordCount": 857,
-          "title": "Stellenangebot: WMA am Lehrstuhl für Digital Humanities (Universität Passau)"
-        },
-        {
-          "id": "node/856",
-          "author": "406",
-          "description": "Alle weitere Informationen zu den Stellen finden sich hier:https://dhd-blog.org/?p=18455",
-          "link": "https://dig-hum.de/aktuelles/stellenangebote-2x-wma-65-3-jahre-digitalem-editionsprojekt-plus-3x-shk-wuppertal",
-          "publishedOn": "2022-10-03T08:04:01.006Z",
-          "wordCount": 734,
-          "title": "Stellenangebote: 2x WMA (65%, 3 Jahre) in digitalem Editionsprojekt; plus 3x SHK; in Wuppertal"
         }
       ]
     },
@@ -2388,6 +2370,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10263",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Laurent Van Cutsem (Ghent University). Part I: The Database of Medieval Chinese Texts. A …",
+          "link": "https://digitalorientalist.com/2023/03/31/working-title-the-database-of-medieval-chinese-texts-a-critical-overview-part-one/",
+          "publishedOn": "2023-03-31T13:00:00.000Z",
+          "wordCount": 1790,
+          "title": "The Database of Medieval Chinese Texts: A Critical Overview (part one)"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10321",
           "author": "The Digital Orientalist",
@@ -4756,15 +4747,6 @@
           "publishedOn": "2022-10-04T14:07:53.000Z",
           "wordCount": 1207,
           "title": "If Today Is Sunday, This Must Be 1798"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17179",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, offers a video orientation to Ms. Codex 1645, an 18th-century copy of a technical treatise on the painting of miniatures, in print from 1673. Includes information on the reduction of images and mixes of pigments for landscapes, skies, varieties of flowers, skin, faces,Continue reading \"Manuscript Monday: Ms. Codex 1645 – Technical treatise on the painting of miniatures\"",
-          "link": "https://schoenberginstitute.org/2022/10/03/manuscript-monday-ms-codex-1645-technical-treatise-on-the-painting-of-miniatures/",
-          "publishedOn": "2022-10-03T16:38:00.000Z",
-          "wordCount": 1228,
-          "title": "Manuscript Monday: Ms. Codex 1645 – Technical treatise on the painting of miniatures"
         }
       ]
     },
@@ -5792,15 +5774,6 @@
           "publishedOn": "2022-10-11T10:04:19.000Z",
           "wordCount": 388,
           "title": "Curation, Crowdsourcing, & Community: Exploring Community-Based Curation of The Journal of a Plague Year Rapid-Response Archive"
-        },
-        {
-          "id": "4205 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "This presentation uses the framework of “slow disasters” to consider the ways in which the theory and practice of digital public history is transforming in the wake of climate change and global pandemics. This presentation will focus on the work of The COVID-19 Oral History Project—a partner project of the Journal of the Plague Year: A COVID-19 Archive—as well as digital public history projects associated with The Anthropocenes Network. \nJason M. Kelly is Director of the IUPUI Arts and Humanities Institute and Chair and Professor of History in the Indiana University School of Liberal Arts at IUPUI. He is also an Adjunct Professor of Africana Studies and American Studies. He is a Fellow of the Society of Antiquaries of London and a Fellow of the Royal Historical Society. More info.\n \nMonday, 10 October 2022\nBegin at 15.00\nC²DH DTU Room and online\n\n\n\nPlease register for on-site or online participation.\n10 October 2022\n  Public history\n  Public History as the New Citizen Science of the Past (PHACS)\n  Oral history  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/digital-public-history-context-slow-disasters",
-          "publishedOn": "2022-10-03T10:02:18.000Z",
-          "wordCount": 375,
-          "title": "Digital Public History in the Context of Slow Disasters"
         }
       ]
     },
@@ -7671,51 +7644,6 @@
           "publishedOn": "2022-10-05T07:02:39.000Z",
           "wordCount": 463,
           "title": "Dr Alexis Litvine"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/research/cdh-awards/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/research/cdh-awards/",
-          "publishedOn": "2022-10-03T15:34:05.000Z",
-          "wordCount": 648,
-          "title": "CDH Awards"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/learning/dataschools/cultural-heritage-data-school-december-2022/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/learning/dataschools/cultural-heritage-data-school-december-2022/",
-          "publishedOn": "2022-10-03T14:08:40.000Z",
-          "wordCount": 987,
-          "title": "Cultural Heritage Data School: December 2022"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/events/",
-          "publishedOn": "2022-10-03T13:33:44.000Z",
-          "wordCount": 310,
-          "title": "What’s On"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/research/funding/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/research/funding/",
-          "publishedOn": "2022-10-03T13:33:43.000Z",
-          "wordCount": 409,
-          "title": "Research Funding"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-chaudhary-muhammad-aqdus-ilyas/",
-          "author": null,
-          "description": "Dr Chaudhary Muhammad Aqdus Ilyas is a Research Associate at Cambridge Digital Humanities (CDH). He is currently working on the AHRC project on Isaac Newton's Watermark analysis. He was previously a Postdoctoral Researcher of Computer Science at the University of Cambridge and worked on \"workingage\" EU-Horizon 2020 project. Chaudhary has a background in electrical engineering",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-chaudhary-muhammad-aqdus-ilyas/",
-          "publishedOn": "2022-10-03T13:17:43.000Z",
-          "wordCount": 423,
-          "title": "Dr Chaudhary Muhammad Aqdus Ilyas"
         }
       ]
     },
@@ -8522,15 +8450,6 @@
           "publishedOn": "2022-10-10T12:43:01.000Z",
           "wordCount": 899,
           "title": "New Collection- Fingal and the Fight for Irish Freedom"
-        },
-        {
-          "id": "1565 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "DRI's Dr Daniel Bangert and Dr Natalie Harrower spoke at Ireland’s first European Open Science Cloud (EOSC) National Tripartite Event.",
-          "link": "https://www.dri.ie/irelands-first-european-open-science-cloud-eosc-national-tripartite-event",
-          "publishedOn": "2022-10-03T09:19:07.000Z",
-          "wordCount": 613,
-          "title": "Ireland’s first European Open Science Cloud (EOSC) National Tripartite Event"
         }
       ]
     },
