@@ -12,6 +12,15 @@
       "siteUrl": "https://blogs.ucl.ac.uk/dh",
       "articles": [
         {
+          "id": "https://blogs.ucl.ac.uk/dh/?p=8291",
+          "author": "Lucy Stagg",
+          "description": "We are seeking to appoint Community Fellows (ten in total until summer 2024) to contribute to “The Sloane Lab: Looking back to build future shared collections”, led by University College London (UCL) in partnership with the Technische Universität Darmstadt, British Museum (BM) and Natural History Museum (NHM). The fellow will undertake creative, critical, practice and/or […]",
+          "link": "https://blogs.ucl.ac.uk/dh/2023/04/04/the-sloane-lab-community-fellowship-round-two/",
+          "publishedOn": "2023-04-04T07:54:30.000Z",
+          "wordCount": 479,
+          "title": "The Sloane Lab Community Fellowship Round Two"
+        },
+        {
           "id": "https://blogs.ucl.ac.uk/dh/?p=8289",
           "author": "Adam Crymble",
           "description": "UCL’s Department of Information Studies is seeking a Lecturer in Data Science for Society for a full time academic post. Deadline for applications is 26 February 2023. “We are seeking an innovative researcher to appoint to a full-time lectureship beginning in August 2023 who can teach and research in the broad field of data science […]",
@@ -694,6 +703,15 @@
       "feedUrl": "https://dh.rutgers.edu/feed/",
       "siteUrl": "https://dh.rutgers.edu",
       "articles": [
+        {
+          "id": "https://dh.rutgers.edu/?p=77955",
+          "author": "Francesca Giannetti",
+          "description": "On March 23, 2023, we held our third or fourth Digital Humanities Showcase (depending on how you count), resurrecting an old tradition of gathering the Rutgers DH community, plus friends, to share their findings on a range of topics under the “big tent.”1 In the interest of keeping the conversation going, I am sharing this year’s program, with slides linked where I have the authors’ permission. For the institutional historians among you, be sure to compare it to the 2014 program, and to those of the intervening years, represented by the gallery below. Enjoy! 2023 Program Lightning Round “Expanding Family Ties: Digital Storytelling Tools &",
+          "link": "https://dh.rutgers.edu/showcase-2023/?utm_source=rss&utm_medium=rss&utm_campaign=showcase-2023",
+          "publishedOn": "2023-04-03T19:46:43.000Z",
+          "wordCount": 570,
+          "title": "2023 Digital Humanities Showcase"
+        },
         {
           "id": "https://dh.rutgers.edu/?p=77879",
           "author": "Francesca Giannetti",
@@ -4060,6 +4078,15 @@
       "siteUrl": "https://readcoop.eu/",
       "articles": [
         {
+          "id": "https://readcoop.eu/?p=32208",
+          "author": "Florian Stauder",
+          "description": "Think of an archive and you might think of old, dusty basements full of disorganised boxes of papers. But in the technological age, archives are taking on a new role. No longer are they purely physical collections of papers, manuscripts, or physical media, such as photographs or artwork. Instead, archives are becoming fully searchable digital […]\nThe post How to digitise archival materials with Transkribus appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/how-to-digitise-archival-materials-with-transkribus/",
+          "publishedOn": "2023-04-04T07:34:17.000Z",
+          "wordCount": 3193,
+          "title": "How to digitise archival materials with Transkribus"
+        },
+        {
           "id": "https://readcoop.eu/?p=32160",
           "author": "Florian Stauder",
           "description": "The majority of Transkribus models are also trained to read just one language — after all, most historical documents are written in one language. But what if your document contains three (or even more) languages? Can you train a model to read all three at the same time? The answer is yes, as Jeff Rusten […]\nThe post Training a multilingual model in Transkribus: Jeff Rusten appeared first on READ-COOP.",
@@ -4596,6 +4623,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17646",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1659, a 16th century manuscript written in Ladino (aka Judeo-Spanish or Sephardi, a Romance language written using the Hebrew alphabet and spoken by Sephardic Jews), removed from a larger volume. You can read the complete recordContinue reading \"Manuscript Monday: Ms. Codex 1659 – Ladino manuscript. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/04/03/manuscript-monday-ms-codex-1659-ladino-manuscript-video-orientation/",
+          "publishedOn": "2023-04-03T12:00:00.000Z",
+          "wordCount": 1216,
+          "title": "Manuscript Monday: Ms. Codex 1659 – Ladino manuscript. (Video Orientation)"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17643",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 384, a treatise in 4 books on astronomy, geography, meteorology, and medicine, and also contains several maps and diagrams, written ca. 1150. You can read the complete record for this document (and find links to digitized copies)Continue reading \"Manuscript Monday: LJS 384 – De philosophia mundi … [etc.]. (Video Orientation)\"",
@@ -4970,15 +5006,6 @@
           "publishedOn": "2022-10-18T07:11:17.000Z",
           "wordCount": 1963,
           "title": "Training: How do you do it? A behind-the-scenes look at research workflows (KU Leuven)"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1369",
-          "author": "Rebecca Burke",
-          "description": "Over the next months CAMille (ULB-KBR), the Data Science Lab (VUB-KBR), the Digital Research Lab (UGent – KBR), and LabEL (UCLouvain-KBR) will co-organise a three-part series of webinars on Digital Humanities and lexical semantic change. Lexical semantic change, a phenomenon describing the evolution of the meanings of lexical…\n\nContinue reading “Webinar: “Digital Heritage Seminar series” co-organized by the KBR”…",
-          "link": "https://scholarlytales.hcommons.org/2022/10/06/webinar-digital-heritage-seminar/",
-          "publishedOn": "2022-10-06T15:02:10.000Z",
-          "wordCount": 2098,
-          "title": "Webinar: “Digital Heritage Seminar series” co-organized by the KBR"
         }
       ]
     },
@@ -5737,6 +5764,78 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/",
+          "publishedOn": "2023-04-03T09:27:22.000Z",
+          "wordCount": 3010,
+          "title": "Methods Fellowships 2022/23"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/blog/",
+          "author": null,
+          "description": "Cambridge Digital Humanities",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/",
+          "publishedOn": "2023-04-03T09:27:22.000Z",
+          "wordCount": 576,
+          "title": "Blog"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/events/",
+          "publishedOn": "2023-04-03T09:27:22.000Z",
+          "wordCount": 336,
+          "title": "What’s On"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/",
+          "publishedOn": "2023-04-03T09:27:22.000Z",
+          "wordCount": 1434,
+          "title": "Learning"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/funding/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/funding/",
+          "publishedOn": "2023-04-03T09:27:21.000Z",
+          "wordCount": 426,
+          "title": "Research Funding"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-open/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-open/",
+          "publishedOn": "2023-04-03T09:27:21.000Z",
+          "wordCount": 347,
+          "title": "CDH Open"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/",
+          "publishedOn": "2023-04-03T09:27:21.000Z",
+          "wordCount": 944,
+          "title": "About"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/36367/",
+          "author": null,
+          "description": "A public lecture in which Mark Algee-Hewitt (Stanford) discusses his recent project that uses a contemporary large language model to explore how climate fiction exists in tension between accurate but ineffective science writing and the strategies of climate disinformation. In other words, how does climate fiction appear more true to readers than climate science while",
+          "link": "https://www.cdh.cam.ac.uk/events/36367/",
+          "publishedOn": "2023-04-03T08:52:30.000Z",
+          "wordCount": 669,
+          "title": "Mark Algee-Hewitt: Truth in (Climate) Fiction"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/media/blog/cdh-award-contributes-to-islanders-exhibition-at-fitzwilliam/",
           "author": null,
@@ -7500,60 +7599,6 @@
           "publishedOn": "2022-10-10T07:00:55.000Z",
           "wordCount": 392,
           "title": "Dr Kanta Dihal"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/wanjia-wang/",
-          "author": null,
-          "description": "Wanjia (Olivia) Wang is an MPhil student at the CDH, who is interested in cultural development in the digital ages. She comes from Shanghai and graduated from Tongji University in China with a Bachelor's degree in Cultural Industry Management. In Cambridge, she will study how to use digital technology to protect and develop agricultural cultural",
-          "link": "https://www.cdh.cam.ac.uk/about/people/wanjia-wang/",
-          "publishedOn": "2022-10-06T12:39:26.000Z",
-          "wordCount": 345,
-          "title": "Wanjia Wang"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/alessandro-trevisan/",
-          "author": null,
-          "description": "Alessandro grew up in Padua, Italy, and read for a BA (First Class) in English at the University of Bristol. His MPhil research at Cambridge focuses on the literary study of automated writing: he suggests that texts generated using language models provide an apt testing ground for the study of AI creativity. He is also",
-          "link": "https://www.cdh.cam.ac.uk/about/people/alessandro-trevisan/",
-          "publishedOn": "2022-10-06T11:37:12.000Z",
-          "wordCount": 378,
-          "title": "Alessandro Trevisan"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/shuangyuan-cao/",
-          "author": null,
-          "description": "Shuangyuan (Kevin) Cao is a digital media designer and student interested in the deconstruction and interpretation of visual culture. When being an undergraduate in Xi'an Jiaotong-Liverpool University, he pursued the study of video game programming in the Digital Media Arts programme, which has given him some insights into computer science. As a media designer, he focuses",
-          "link": "https://www.cdh.cam.ac.uk/about/people/shuangyuan-cao/",
-          "publishedOn": "2022-10-06T11:18:13.000Z",
-          "wordCount": 387,
-          "title": "Shuangyuan Cao"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-shauna-concannon/",
-          "author": null,
-          "description": "Dr Shauna Concannon is an interdisciplinary researcher studying and using computational approaches to understand how knowledge is linguistically encoded in an increasingly technologically mediated society. Shauna's work focuses on the societal and ethical implications of communication technologies. Shauna started her academic life in the humanities after completing a master’s in English Literature. She began working on various digital projects focusing on",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-shauna-concannon/",
-          "publishedOn": "2022-10-06T11:17:04.000Z",
-          "wordCount": 396,
-          "title": "Dr Shauna Concannon"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/laurel-boxall/",
-          "author": null,
-          "description": "Laurel Boxall is an MPhil student at the CDH, specialising in the depictions of Artificial Intelligence within literature and film (and the implications of this!) Having completed her undergraduate in English Language & Literature at Jesus College, Oxford, Laurel has since been involved in numerous projects within the DigHums field. This includes ongoing work for",
-          "link": "https://www.cdh.cam.ac.uk/about/people/laurel-boxall/",
-          "publishedOn": "2022-10-06T11:13:02.000Z",
-          "wordCount": 362,
-          "title": "Laurel Boxall"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/mphil/info-sessions/",
-          "author": null,
-          "description": "This is the excerpt",
-          "link": "https://www.cdh.cam.ac.uk/mphil/info-sessions/",
-          "publishedOn": "2022-10-06T08:24:17.000Z",
-          "wordCount": 406,
-          "title": "Information Sessions"
         }
       ]
     },
@@ -7562,6 +7607,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5897 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "CLARIN Joins CoARA\n\n            \n\n  \n  \n            \n    \n\n\n      \n\nCLARIN has recently signed an agreement with ​​CoARA, the Coalition for Advancing Research Assessment, establishing a common direction for research assessment reform, while respecting organisations’ autonomy. \nCoARA’s Agreement on Reforming Research Assessment is one of the most concrete steps towards Open Science, as it sets a shared course for changes in assessment practices for researchers and research-performing organisations. \nCLARIN supports CoARA’s overarching goal of recognising diverse outputs, practices and activities that maximise the quality and impact of research and agrees to its principles, commitments and timeframe for reforms. To date, more than 500 organisations have signed the agreement and CLARIN is proud to be one of them.\nRead more about CoARA\n \n\n \n\n      Elisa Gorgaini\n 3 April 2023",
+          "link": "https://www.clarin.eu/news/clarin-joins-coara",
+          "publishedOn": "2023-04-03T08:45:49.000Z",
+          "wordCount": 257,
+          "title": "CLARIN Joins CoARA"
+        },
         {
           "id": "5890 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
