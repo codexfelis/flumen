@@ -3298,9 +3298,9 @@
       ]
     },
     {
-      "title": "Blog – Digital Scholarship",
+      "title": "Blog Archives - Digital Scholarship",
       "feedUrl": "https://dslab.lib.rochester.edu/category/blog/feed",
-      "siteUrl": "https://dslab.lib.rochester.edu",
+      "siteUrl": null,
       "articles": []
     },
     {
@@ -5782,6 +5782,42 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/professor-mark-algee-hewitt-to-be-cdh-visiting-fellow-in-easter-2023/",
+          "author": null,
+          "description": "We are delighted to announce that Mark Algee-Hewitt will be joining us at the University of Cambridge this Easter from 1 - 12 of May as a Cambridge Digital Humanities visiting academic. Mark Algee-Hewitt is Associate Professor of Digital Humanities and English at Stanford University where he directs the Stanford Literary Lab, a multidisciplinary collaborative research group",
+          "link": "https://www.cdh.cam.ac.uk/about/news/professor-mark-algee-hewitt-to-be-cdh-visiting-fellow-in-easter-2023/",
+          "publishedOn": "2023-04-06T07:55:17.000Z",
+          "wordCount": 668,
+          "title": "Professor Mark Algee-Hewitt to be CDH Visiting Academic in Easter 2023"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/",
+          "author": null,
+          "description": "Anne Alexander has been Director of Learning at CDH since its foundation. She was previously Co-ordinator of the Cambridge Digital Humanities Network. Her research interests include ethics of big data, activist media in the Middle East and the political economy of the Internet. She is a member of the Data Ethics Group and the Humanities and",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/",
+          "publishedOn": "2023-04-05T11:10:49.000Z",
+          "wordCount": 396,
+          "title": "Dr Anne Alexander"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/cdh-funding/poetic-dissent-in-the-spanish-caribbean-movement-revolutions-and-liberation-at-the-intersection-of-empires-1815-1898/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/cdh-funding/poetic-dissent-in-the-spanish-caribbean-movement-revolutions-and-liberation-at-the-intersection-of-empires-1815-1898/",
+          "publishedOn": "2023-04-05T11:05:37.000Z",
+          "wordCount": 499,
+          "title": "Poetic Dissent in the Spanish Caribbean: Movement, Revolutions, and Liberation at the Intersection of Empires, 1815-1898"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/blog/best-part-of-the-cambridge-data-school/",
+          "author": null,
+          "description": "Since the first Cambridge Data School in 2019, our schools have expanded year upon year. In total, we have now conducted eight Data Schools in two formats — the Cultural Heritage Data School, aimed at people working in GLAM institutions, and the Social Data School, reaching journalists and organisations doing investigations in the public interest.",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/best-part-of-the-cambridge-data-school/",
+          "publishedOn": "2023-04-05T10:39:49.000Z",
+          "wordCount": 551,
+          "title": "Best part of the Cambridge Data School?"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/mphil/info-sessions/",
           "author": null,
