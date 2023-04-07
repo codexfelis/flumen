@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-04-06T08:03:48.694Z</updated>
+    <updated>2023-04-07T08:04:28.101Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multilingual African Electronic Literature Database & African Diasporic Electronic Literature Database (MAELD &]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1953</id>
+        <link href="https://discourse.computational-humanities-research.org/t/multilingual-african-electronic-literature-database-african-diasporic-electronic-literature-database-maeld/1953"/>
+        <updated>2023-04-07T05:36:02.000Z</updated>
+        <summary type="html"><![CDATA[African Electronic Literature Database
+1 post - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>Waliya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centre news vol. 58 - April 2023]]></title>
+        <id>5899 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/centre-news-vol-58-april-2023"/>
+        <updated>2023-04-06T14:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Centre news vol. 58 - April 2023
+
+            
+  
+Reminder: deadline Centre Assessment Round approaching
+The deadline for the upcoming B-centre assessment round is 21 April 2023.
+Please note there are a few novelties:
+The updated CoreTrustSeal 2023-2025 is to be used. 
+The CoreTrustSeal's updated AMT platform for submission has been available for some months. Already ongoing  assessments should also be handled through it too.
+The latest version of the B-centre checklist (4.7) must be used. The difference with the previous version is the addition of two (optional) recommendations at the end of the document, on the use of the attribute checker and attribute aggregator.
+Centre Meeting on 13 and 14 June
+We are busy planning the Centre Meeting which will take place on 13 and 14 June 2023 in Utrecht and online. To help us shape the agenda, please let us know which topics you would like to discuss during the meeting. You can do so by (1) indicating which topics you are interested in and (2) by adding new topic suggestions in this document before 12 April.
+Federated Content Search updates
+Version 3.6.0 of the FCS aggregator has been released – Changelog
+The FCS SRU CQI Bridge has been updated to support the latest version (2.0) of the 
+    
+Federated Content Search
+See: http://www.clarin.eu/content/content-search
+read more
+
+   protocol – providing an easy upgrade path for those centres running Corpus Workbench with the old (legacy) FCS bridge
+Kudos to Erik Körner for all his recent work on the FCS stack!
+New software deployments
+Centre Registry 2.3.5 – Changelog
+Virtual Language Observatory 4.11.3 – Changelog 
+Curation Module and Linkchecker 6.0.0 – Changelog
+Scheduled Maintenance
+Icinga server update » 20 April
+Maintenance CLARINO Bergen centre » 22 April 2023 07:00 CEST
+More information on reporting planned maintenance intervals
+ 
+Dieter Van Uytvanck
+ 6 April 2023
+
+    
+centre news]]></summary>
+        <author>
+            <name>Dieter Van Uytvanck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for the CAA2022 and CAA2023 Proceedings is Open]]></title>
+        <id>https://sites.caa-international.org/main/?p=17206</id>
+        <link href="https://caa-international.org/2023/04/06/call-for-the-caa2022-and-caa2023-proceedings-is-open/"/>
+        <updated>2023-04-06T12:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Authors who presented a paper at the CAA2022 conference in Oxford and the CAA2023 conference in Amsterdam are invited to submit their papers to the CAA2023 proceedings, which will be a joint volume for the two meetings. Full papers from either conference must be submitted by 31 May 2023 in order to be considered for […]]]></summary>
+        <author>
+            <name>lisafischer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Professor Mark Algee-Hewitt to be CDH Visiting Academic in Easter 2023]]></title>
         <id>https://www.cdh.cam.ac.uk/about/news/professor-mark-algee-hewitt-to-be-cdh-visiting-fellow-in-easter-2023/</id>
@@ -10849,21 +10916,6 @@ Legal notice
         <summary type="html"><![CDATA[Dr Kanta Dihal is a Senior Research Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge. Her research focuses on science narratives, particularly those that emerge from conflict. She currently manages the project ‘Desirable Digitalisation’, an international research collaboration that investigates intercultural perspectives on AI and fundamental rights and values. She]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is PixPlot? (DH Tools) – YouTube]]></title>
-        <id>https://www.youtube.com/watch?v=fCwihTOnQv0</id>
-        <link href="https://openmethods.dariah.eu/2022/10/09/what-is-pixplot-dh-tools-youtube/"/>
-        <updated>2022-10-09T06:59:58.000Z</updated>
-        <summary type="html"><![CDATA[This short video teaser summarizes the main characteristics of PixPlot, a Python-based tool for clustering images and analyzing them from a numerical perspective as well as its pedagogical relevance as far as
-machine learning is concerned.
-
-The paper "Visual Patterns Discovery in Large Databases of Paintings", presented at the Digital Humanities 2016 Conference held in Poland,
-can be considered the foundational text for the development of the PixPlot Project at Yale University.
-[Click ‘Read more’ for the full post!]]]></summary>
-        <author>
-            <name>Author on Source</name>
         </author>
     </entry>
     <entry>

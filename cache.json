@@ -496,6 +496,15 @@
       "siteUrl": "https://caa-international.org/",
       "articles": [
         {
+          "id": "https://sites.caa-international.org/main/?p=17206",
+          "author": "lisafischer",
+          "description": "Authors who presented a paper at the CAA2022 conference in Oxford and the CAA2023 conference in Amsterdam are invited to submit their papers to the CAA2023 proceedings, which will be a joint volume for the two meetings. Full papers from either conference must be submitted by 31 May 2023 in order to be considered for […]",
+          "link": "https://caa-international.org/2023/04/06/call-for-the-caa2022-and-caa2023-proceedings-is-open/",
+          "publishedOn": "2023-04-06T12:59:45.000Z",
+          "wordCount": 170,
+          "title": "Call for the CAA2022 and CAA2023 Proceedings is Open"
+        },
+        {
           "id": "https://sites.caa-international.org/main/?p=17193",
           "author": "lisafischer",
           "description": "CAA’s 50th conference will be held in Amsterdam in April. To document the history of the organisation, we are collecting photos of previous conferences. To learn more about the types of images for which we are looking, how to submit them, and how they will be used, please visit: https://members.caa-international.org/submit-your-caa-photos/",
@@ -2846,6 +2855,15 @@
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
         {
+          "id": "discourse.computational-humanities-research.org-topic-1953",
+          "author": "Waliya",
+          "description": "African Electronic Literature Database\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/multilingual-african-electronic-literature-database-african-diasporic-electronic-literature-database-maeld/1953",
+          "publishedOn": "2023-04-07T05:36:02.000Z",
+          "wordCount": 67,
+          "title": "Multilingual African Electronic Literature Database & African Diasporic Electronic Literature Database (MAELD &"
+        },
+        {
           "id": "discourse.computational-humanities-research.org-topic-1943",
           "author": "Shrish",
           "description": "Hello,\nI am the founder of IHF and a Digital Humanities researcher - https://indiahumanitiesforum.in/\nI have been working on this forum for a while and it was just launched yesterday. I am posting on this forum to invite blogs from experts in fields like you. The aim of the forum is to improve access to opportunities and resources for students in Humanities in India.\nAs you may already know, the DH scene in India still needs a lot of work and many students in Humanities don’t know what Digital Humanities is.\nHence, I am inviting blogs on a variety of topics including but not limited to:\nA simple guide to understanding DH\nA blog about your current research\nHow can you get involved in Digital Humanities as a student\nInteresting developments in Digital Humanities\nWhy you chose Digital Humanities\nScope of Digital Humanities in academia/ industry\nThe blog can be casual and about 400-750 words. If you are interested, pleaser reply or email at indiahumanitiesforum@gmail.com\nYou volunteering your time can really help a lot of students out there!\n1 post - 1 participant\nRead full topic",
@@ -3677,15 +3695,6 @@
           "publishedOn": "2022-11-21T06:58:00.000Z",
           "wordCount": 1468,
           "title": "Humanities Data Analysis: Case Studies with Python — Humanities Data Analysis: Case Studies with Python"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fCwihTOnQv0",
-          "author": "Author on Source",
-          "description": "This short video teaser summarizes the main characteristics of PixPlot, a Python-based tool for clustering images and analyzing them from a numerical perspective as well as its pedagogical relevance as far as\nmachine learning is concerned.\n\nThe paper \"Visual Patterns Discovery in Large Databases of Paintings\", presented at the Digital Humanities 2016 Conference held in Poland,\ncan be considered the foundational text for the development of the PixPlot Project at Yale University.\n[Click ‘Read more’ for the full post!]",
-          "link": "https://openmethods.dariah.eu/2022/10/09/what-is-pixplot-dh-tools-youtube/",
-          "publishedOn": "2022-10-09T06:59:58.000Z",
-          "wordCount": 1255,
-          "title": "What is PixPlot? (DH Tools) – YouTube"
         }
       ]
     },
@@ -7670,6 +7679,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5899 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 58 - April 2023\n\n            \n  \nReminder: deadline Centre Assessment Round approaching\nThe deadline for the upcoming B-centre assessment round is 21 April 2023.\nPlease note there are a few novelties:\nThe updated CoreTrustSeal 2023-2025 is to be used. \nThe CoreTrustSeal's updated AMT platform for submission has been available for some months. Already ongoing  assessments should also be handled through it too.\nThe latest version of the B-centre checklist (4.7) must be used. The difference with the previous version is the addition of two (optional) recommendations at the end of the document, on the use of the attribute checker and attribute aggregator.\nCentre Meeting on 13 and 14 June\nWe are busy planning the Centre Meeting which will take place on 13 and 14 June 2023 in Utrecht and online. To help us shape the agenda, please let us know which topics you would like to discuss during the meeting. You can do so by (1) indicating which topics you are interested in and (2) by adding new topic suggestions in this document before 12 April.\nFederated Content Search updates\nVersion 3.6.0 of the FCS aggregator has been released – Changelog\nThe FCS SRU CQI Bridge has been updated to support the latest version (2.0) of the \n    \nFederated Content Search\nSee: http://www.clarin.eu/content/content-search\nread more\n\n   protocol – providing an easy upgrade path for those centres running Corpus Workbench with the old (legacy) FCS bridge\nKudos to Erik Körner for all his recent work on the FCS stack!\nNew software deployments\nCentre Registry 2.3.5 – Changelog\nVirtual Language Observatory 4.11.3 – Changelog \nCuration Module and Linkchecker 6.0.0 – Changelog\nScheduled Maintenance\nIcinga server update » 20 April\nMaintenance CLARINO Bergen centre » 22 April 2023 07:00 CEST\nMore information on reporting planned maintenance intervals\n \nDieter Van Uytvanck\n 6 April 2023\n\n    \ncentre news",
+          "link": "https://www.clarin.eu/blog/centre-news-vol-58-april-2023",
+          "publishedOn": "2023-04-06T14:42:44.000Z",
+          "wordCount": 447,
+          "title": "Centre news vol. 58 - April 2023"
+        },
         {
           "id": "5897 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",
