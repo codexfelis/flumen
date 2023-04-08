@@ -161,15 +161,6 @@
           "publishedOn": "2022-10-11T06:29:44.000Z",
           "wordCount": 331,
           "title": "DHNB2023 Extended Deadline: Abstracts due October 21st!"
-        },
-        {
-          "id": "https://dhnb.eu/?p=2303",
-          "author": "Annika Rockenberger",
-          "description": "DHNB 2022 PROCEEDINGS PUBLISHED We are happy to inform you that the DHNB 2022 proceedings are now published on CEUR. You can find volume ‘3232’ here:  http://ceur-ws.org/Vol-3232/.   We think it is an excellent collection of research that represents both the fruitful conference we had in March and the richness of the status of Digital Humanities […]",
-          "link": "https://dhnb.eu/dhnb-2022-proceedings-published/",
-          "publishedOn": "2022-10-10T08:51:08.000Z",
-          "wordCount": 203,
-          "title": "DHNB 2022 PROCEEDINGS PUBLISHED"
         }
       ]
     },
@@ -764,6 +755,105 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=126317",
+          "author": "Caitlin Christian-Lamb",
+          "description": "Elisabetta Rocchetti and Tommaso Locatelli (both University of Milan) have authored a post on the ISLAB at Università degli Studi di Milano’s Tales from the ISLab blog, “John2Vec, or embedding Dewey’s philosophy.” This post describes using an Artificial Neural Network (ANN), in this case, word2vec, on the massive text corpus of the writings of philosopher ...read more",
+          "link": "https://dhandlib.org/2023/04/07/post-john2vec-or-embedding-deweys-philosophy/?utm_source=rss&utm_medium=rss&utm_campaign=post-john2vec-or-embedding-deweys-philosophy",
+          "publishedOn": "2023-04-07T18:00:23.000Z",
+          "wordCount": 896,
+          "title": "POST: John2Vec, or embedding Dewey’s philosophy"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126332",
+          "author": "Linsey Ford",
+          "description": "The Andrew W. Mellon Fellowship for Diversity, Inclusion, and Cultural Heritage at the Rare Book School is launching “Counter Narratives in Practice,” a podcast series about multicultural heritage collections, storytelling, and representation in Galleries, Libraries, Archives, Museums, and beyond. The Mellon fellows worked in three groups: the Pacific Time Zone Group, Central Time Zone Group, ...read more",
+          "link": "https://dhandlib.org/2023/04/07/resource-counter-narratives-in-practice/?utm_source=rss&utm_medium=rss&utm_campaign=resource-counter-narratives-in-practice",
+          "publishedOn": "2023-04-07T17:59:01.000Z",
+          "wordCount": 769,
+          "title": "RESOURCE: Counter Narratives in Practice"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126311",
+          "author": "Caitlin Christian-Lamb",
+          "description": "Temple University Libraries is hosting a virtual workshop on April 27, “Professional Pathways in the Black Digital.” From the workshop description: Digital tools are being used in a plethora of ways to study and serve the lived experiences and cultures of people across the African continent and Diaspora. These digital tools can include digital mapping, ...read more",
+          "link": "https://dhandlib.org/2023/04/07/event-professional-pathways-in-the-black-digital/?utm_source=rss&utm_medium=rss&utm_campaign=event-professional-pathways-in-the-black-digital",
+          "publishedOn": "2023-04-07T17:56:02.000Z",
+          "wordCount": 755,
+          "title": "EVENT: Professional Pathways in the Black Digital"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126315",
+          "author": "Caitlin Christian-Lamb",
+          "description": "Women in Focus, Full Stack Feminism, and the Sussex Humanities Lab are hosting the AI and Archives: Explorations, Possibilities and Challenges Symposium. The full-day hybrid symposium is on April 27, with the in-person portions taking place at the University of Sussex Sussex Humanities Lab. From the symposium description: AI and Archives: Explorations, Possibilities and Challenges ...read more",
+          "link": "https://dhandlib.org/2023/04/07/event-ai-and-archives-explorations-possibilities-and-challenges-symposium/?utm_source=rss&utm_medium=rss&utm_campaign=event-ai-and-archives-explorations-possibilities-and-challenges-symposium",
+          "publishedOn": "2023-04-07T17:54:17.000Z",
+          "wordCount": 762,
+          "title": "EVENT: AI and Archives: Explorations, Possibilities and Challenges Symposium"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126327",
+          "author": "Linsey Ford",
+          "description": "The ACRL Digital Scholarship Section (DSS), in association with ACRL DSS Digital Humanities Discussion Group, will present Inclusive and Ethically-Informed Approaches to Digital Projects, a program featuring presentations on digital project work with a focus on studies that highlight inclusive, ethically-minded approaches. From the talk abstract: Molly Roy and Miriam Posner will each present a ...read more",
+          "link": "https://dhandlib.org/2023/04/07/event-inclusive-and-ethically-informed-approaches-to-digital-projects/?utm_source=rss&utm_medium=rss&utm_campaign=event-inclusive-and-ethically-informed-approaches-to-digital-projects",
+          "publishedOn": "2023-04-07T17:53:08.000Z",
+          "wordCount": 687,
+          "title": "EVENT: Inclusive and Ethically-Informed Approaches to Digital Projects"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126313",
+          "author": "Caitlin Christian-Lamb",
+          "description": "The Digital Preservation Outreach & Education Network (DPOE-N) is hosting two upcoming online workshops. The first workshop is “Climate change, archives, and digital preservation” on April 21, taught by Eira Tansey (University of Cincinnati). Participants need to RSVP by April 17. From the workshop description: Climate change poses enormous challenges to archives and archivists. In ...read more",
+          "link": "https://dhandlib.org/2023/04/07/event-digital-preservation-outreach-education-network-dpoe-n-workshops/?utm_source=rss&utm_medium=rss&utm_campaign=event-digital-preservation-outreach-education-network-dpoe-n-workshops",
+          "publishedOn": "2023-04-07T17:51:47.000Z",
+          "wordCount": 850,
+          "title": "EVENT: Digital Preservation Outreach & Education Network (DPOE-N) Workshops"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126330",
+          "author": "Linsey Ford",
+          "description": "The Association of College & Research Libraries (ACRL) DSS Numeric and Geospatial Services Discussion Group will host a virtual book panel comprised of contributors to The Rise of AI: Implications and Applications of Artificial Intelligence in Academic Libraries, a book that “collects projects, collaborations, and future uses from academic librarians who have begun to embrace ...read more",
+          "link": "https://dhandlib.org/2023/04/07/event-virtual-book-panel-with-contributors-to-the-rise-of-ai-implications-and-applications-of-artificial-intelligence-in-academic-libraries/?utm_source=rss&utm_medium=rss&utm_campaign=event-virtual-book-panel-with-contributors-to-the-rise-of-ai-implications-and-applications-of-artificial-intelligence-in-academic-libraries",
+          "publishedOn": "2023-04-07T17:50:11.000Z",
+          "wordCount": 748,
+          "title": "EVENT: Virtual Book Panel with Contributors to The Rise of AI: Implications and Applications of Artificial Intelligence in Academic Libraries"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126309",
+          "author": "Caitlin Christian-Lamb",
+          "description": "Frontiers in Communication has released a call for papers for their research area, “Feminist Fabulations in Algorithmic Empires.” According to the call, “Fabulation refers to the way we tell stories and has recently emerged as a useful concept to reemphasize and recenter human pluralities in contemporary technocentric digital systems. Prioritizing storytelling and embodiment helps to ...read more",
+          "link": "https://dhandlib.org/2023/04/07/cfp-feminist-fabulations-in-algorithmic-empires/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-feminist-fabulations-in-algorithmic-empires",
+          "publishedOn": "2023-04-07T17:47:55.000Z",
+          "wordCount": 843,
+          "title": "CFP: Feminist Fabulations in Algorithmic Empires"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126341",
+          "author": "Linsey Ford",
+          "description": "Co-sponsors of the 9th Annual Digital Pedagogy Institute (DPI) Conference, the University of Toronto Scarborough Library, Brock University, Toronto Metropolitan University, and University of Waterloo, have announced a Call for Proposals. The virtual conference will take place August 16-17, 2023, and will welcome faculty, researchers, graduate students, educational developers, librarians, and many other post-secondary personnel. ...read more",
+          "link": "https://dhandlib.org/2023/04/07/cfp-digital-pedagogy-institute-2023/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-digital-pedagogy-institute-2023",
+          "publishedOn": "2023-04-07T17:45:53.000Z",
+          "wordCount": 912,
+          "title": "CFP: Digital Pedagogy Institute 2023"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126307",
+          "author": "Caitlin Christian-Lamb",
+          "description": "From the announcement: The University of Wisconsin Law Library seeks an energetic and intellectually curious professional to join our team as the Digital Collections and Reference Librarian. This newly created position is responsible for managing and developing our growing UW Law School Digital Repository (https://repository.law.wisc.edu/) which provides open access to faculty research and scholarship, historical ...read more",
+          "link": "https://dhandlib.org/2023/04/07/job-digital-collections-reference-librarian-university-of-wisconsin-madison/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-collections-reference-librarian-university-of-wisconsin-madison",
+          "publishedOn": "2023-04-07T17:42:20.000Z",
+          "wordCount": 1719,
+          "title": "JOB: Digital Collections & Reference Librarian, University of Wisconsin-Madison"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126334",
+          "author": "Linsey Ford",
+          "description": "From the announcement: Northwestern University Libraries seek a Digital Publishing and Repository Librarian committed to open scholarship and providing innovative services to faculty and students for creating and publishing original educational and scholarly materials. This role is integral to the Libraries’ collaboration across campus and the wider academic community in the planning, execution, and assessment ...read more",
+          "link": "https://dhandlib.org/2023/04/07/job-digital-publishing-and-repository-librarian-northwestern-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-publishing-and-repository-librarian-northwestern-university",
+          "publishedOn": "2023-04-07T17:40:49.000Z",
+          "wordCount": 51,
+          "title": "JOB: Digital Publishing and Repository Librarian, Northwestern University"
+        },
         {
           "id": "https://dhandlib.org/?p=126175",
           "author": "Caitlin Christian-Lamb",
@@ -2388,6 +2478,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10219",
+          "author": "Rachael Griffiths",
+          "description": "In January 2023, Ladakh Archaeology was launched. This is to date the largest database on the heritage of Ladakh, located …",
+          "link": "https://digitalorientalist.com/2023/04/07/ladakh-archaeology-unlocking-access-to-a-uniquely-vast-database/",
+          "publishedOn": "2023-04-07T13:15:00.000Z",
+          "wordCount": 1334,
+          "title": "Ladakh Archaeology: Introduction and Review"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10342",
           "author": "Alice Casalini",
@@ -4765,15 +4864,6 @@
           "publishedOn": "2022-10-17T13:18:10.000Z",
           "wordCount": 1314,
           "title": "Manuscript Monday: Ms. Codex 1648 – Del esta[tu]to Toledano, i çierta apologia (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17243",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1646, the first part of a four-part poem in octaves on the monarchy of Portugal, with allusions to astrology, alchemy, and cabala. The manuscript contains a copy of the edition printed in Lisbon in 1624 inContinue reading \"Manuscript Monday: Ms. Codex 1646 – Estado astrologico\"",
-          "link": "https://schoenberginstitute.org/2022/10/10/manuscript-monday-ms-codex-1646-estado-astrologico/",
-          "publishedOn": "2022-10-10T13:11:15.000Z",
-          "wordCount": 1250,
-          "title": "Manuscript Monday: Ms. Codex 1646 – Estado astrologico"
         }
       ]
     },
@@ -5791,6 +5881,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/36421/",
+          "author": null,
+          "description": "Speaker: Mark Algee-Hewitt, Associate Professor of English and Director of the Stanford Literary Lab. About this Methods workshop At the heart of many of the current computational models of language usage, from generative A.I. to recommendation engines, are large language models that relate hundreds of thousands, or millions, of words to each other based on",
+          "link": "https://www.cdh.cam.ac.uk/events/36421/",
+          "publishedOn": "2023-04-06T15:04:35.000Z",
+          "wordCount": 756,
+          "title": "From Corpus to Context: Word Embeddings as a Digital Humanities Research Methodology"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/news/professor-mark-algee-hewitt-to-be-cdh-visiting-fellow-in-easter-2023/",
           "author": null,
@@ -7572,105 +7671,6 @@
           "publishedOn": "2022-10-11T09:05:25.000Z",
           "wordCount": 424,
           "title": "Beyza Cicik"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35480/",
-          "author": null,
-          "description": "The Cultural Heritage Data School, led by Cambridge Digital Humanities, is an online intensive application-only teaching programme which aims to bring together participants from the wider Galleries, Libraries, Archives and Museums (GLAM) sector and academia to explore the methods used to create, visualise and analyse digital archives and collections. The curriculum will be structured around",
-          "link": "https://www.cdh.cam.ac.uk/events/35480/",
-          "publishedOn": "2022-10-10T13:56:53.000Z",
-          "wordCount": 1034,
-          "title": "Cultural Heritage Data School: December 2022 (online)"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35489/",
-          "author": null,
-          "description": "The Social Data School is an application only intensive teaching programme structured around the life-cycle of a digital research project, covering principles of research design, data collection, cleaning and preparation, methods of analysis and visualisation, and data management and preservation practices. The school welcomes applications from all backgrounds, including journalists, NGOs, activists, trade unionists and",
-          "link": "https://www.cdh.cam.ac.uk/events/35489/",
-          "publishedOn": "2022-10-10T09:20:42.000Z",
-          "wordCount": 400,
-          "title": "Social Data School: June 2023 (Cambridge)"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35485/",
-          "author": null,
-          "description": "The Cultural Heritage Data School, led by Cambridge Digital Humanities, is an online intensive application-only teaching programme which aims to bring together participants from the wider Galleries, Libraries, Archives and Museums (GLAM) sector and academia to explore the methods used to create, visualise and analyse digital archives and collections. The curriculum will be structured around",
-          "link": "https://www.cdh.cam.ac.uk/events/35485/",
-          "publishedOn": "2022-10-10T09:20:16.000Z",
-          "wordCount": 423,
-          "title": "Cultural Heritage Data School: March 2023 (Cambridge)"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35487/",
-          "author": null,
-          "description": "The Social Data School is an application only online intensive teaching programme structured around the life-cycle of a digital research project, covering principles of research design, data collection, cleaning and preparation, methods of analysis and visualisation, and data management and preservation practices. The school welcomes applications from all backgrounds, including journalists, NGOs, activists, trade unionists",
-          "link": "https://www.cdh.cam.ac.uk/events/35487/",
-          "publishedOn": "2022-10-10T09:19:50.000Z",
-          "wordCount": 399,
-          "title": "Social Data School: Jan 2023 (online)"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/christian-fernandez-perotti/",
-          "author": null,
-          "description": "I am from Buenos Aires, Argentina, but I have lived and worked in Cambridge for almost four years now. I graduated in Classics at the Catholic University of Argentina with a dissertation on the literary genre of Apuleius' Metamorphoses and moved from academia to Librarianship, Education, Government, Entertainment and most recently Information Technology. I am",
-          "link": "https://www.cdh.cam.ac.uk/about/people/christian-fernandez-perotti/",
-          "publishedOn": "2022-10-10T08:02:21.000Z",
-          "wordCount": 392,
-          "title": "Christian Fernandez Perotti"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/alpo-honkapohja/",
-          "author": null,
-          "description": "Alpo Honkapohja is an EU-funded Marie Sklodowska Curie fellow working on The Index of Middle English Prose (IMEP). IMEP is a reference tool for locating and identifying all surviving English prose texts composed between circa 1200 and 1500. The project is a collaboration between the CDH and the University of Oslo, where Alpo is normally based. Alpo is originally",
-          "link": "https://www.cdh.cam.ac.uk/about/people/alpo-honkapohja/",
-          "publishedOn": "2022-10-10T07:52:25.000Z",
-          "wordCount": 412,
-          "title": "Alpo Honkapohja"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/welcome-to-new-starters/",
-          "author": null,
-          "description": "Jonathan Blaney Research Software Engineer at CDH What was your first job? At Oxford University Press, writing and editing dictionaries. I worked on the full range of English dictionaries, from the Oxford English Mini Dictionary to the full OED. For the OED I read books and periodicals looking for new words. I particularly remember some",
-          "link": "https://www.cdh.cam.ac.uk/about/news/welcome-to-new-starters/",
-          "publishedOn": "2022-10-10T07:18:30.000Z",
-          "wordCount": 1331,
-          "title": "Welcome to new starters"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/yixun-zhou/",
-          "author": null,
-          "description": "Yixun Zhou is curious about how computation and programming can be applied to large-scale literary text analysis. After finishing his Bachelor of Science degree in Statistics at the University of Nottingham, he joined Mphil Digital Humanities to explore metaphor recognition through natural language processing. His research interest mainly lies in NLP and machine learning for",
-          "link": "https://www.cdh.cam.ac.uk/about/people/yixun-zhou/",
-          "publishedOn": "2022-10-10T07:12:15.000Z",
-          "wordCount": 346,
-          "title": "Yixun Zhou"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/john-schaefer/",
-          "author": null,
-          "description": "Hailing from Michigan, John is an MPhil student with CDH and recently received his A.B. from Harvard University in History and Science, focusing on the history of biology. His current research examines the use of handwritten text recognition (HTR) models in volunteer-based digital transcription projects. He is also interested in the interdisciplinary application of plants as",
-          "link": "https://www.cdh.cam.ac.uk/about/people/john-schaefer/",
-          "publishedOn": "2022-10-10T07:10:00.000Z",
-          "wordCount": 372,
-          "title": "John Schaefer"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/yerin-kim/",
-          "author": null,
-          "description": "Yerin Kim is an MPhil student at CDH. Her bachelor's degree is from Yonsei University Underwood International College (Seoul, South Korea) in Justice and Civil Leadership. She also completed an MA in International Relations at the University of Nottingham Ningbo China and an MS in Applied Artificial Intelligence at Sungkyunkwan University. As a researcher at",
-          "link": "https://www.cdh.cam.ac.uk/about/people/yerin-kim/",
-          "publishedOn": "2022-10-10T07:08:08.000Z",
-          "wordCount": 420,
-          "title": "Yerin Kim"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-kanta-dihal/",
-          "author": null,
-          "description": "Dr Kanta Dihal is a Senior Research Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge. Her research focuses on science narratives, particularly those that emerge from conflict. She currently manages the project ‘Desirable Digitalisation’, an international research collaboration that investigates intercultural perspectives on AI and fundamental rights and values. She",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-kanta-dihal/",
-          "publishedOn": "2022-10-10T07:00:55.000Z",
-          "wordCount": 392,
-          "title": "Dr Kanta Dihal"
         }
       ]
     },
@@ -8495,15 +8495,6 @@
           "publishedOn": "2022-10-17T08:20:33.000Z",
           "wordCount": 995,
           "title": "New Resource: Literary Dublin in the Digital Archive booklet"
-        },
-        {
-          "id": "1566 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "The Digital Repository of Ireland (DRI) is delighted to announce that Fingal County Libraries has published its collection ‘Fingal and the Fight for Irish Freedom’.",
-          "link": "https://www.dri.ie/new-collection-fingal-and-fight-irish-freedom",
-          "publishedOn": "2022-10-10T12:43:01.000Z",
-          "wordCount": 899,
-          "title": "New Collection- Fingal and the Fight for Irish Freedom"
         }
       ]
     },
