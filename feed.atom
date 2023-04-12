@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-04-11T08:04:16.086Z</updated>
+    <updated>2023-04-12T08:04:04.103Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DRI Coffee Morning: April 2023]]></title>
+        <id>1639 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-coffee-morning-april-2023"/>
+        <updated>2023-04-12T07:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Date: 
+
+26 Apr 2023
+
+
+Location: 
+
+Zoom
+
+
+
+April's coffee morning will be hosted by Kathryn Cassidy, Software Engineer at the Digital Repository of Ireland (DRI), and Padraic Stack, Senior Librarian at Dublin City Library and Archives (DCLA) who will discuss the EnrichEuropeana+ project.]]></summary>
+        <author>
+            <name>l.griffith@ria.ie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessibility of Texts and Tools in Ancient Studies: Reframing the Discussion]]></title>
+        <id>http://digitalorientalist.com/?p=10255</id>
+        <link href="https://digitalorientalist.com/2023/04/11/accessibility-of-texts-and-tools-in-ancient-studies-reframing-the-discussion/"/>
+        <updated>2023-04-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest post by Sarah Blake LaRose. As a scholar of biblical studies who is blind, I often …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Einladung zum DHd-Community-Forum am 05.05.2023, 14:00 Uhr]]></title>
+        <id>node/895</id>
+        <link href="https://dig-hum.de/aktuelles/einladung-zum-dhd-community-forum-am-05052023-1400-uhr"/>
+        <updated>2023-04-11T17:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Liebe Mitglieder des DHd-Verbandes,
+für unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche Mitgliederversammlung bereits eine…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Call for Position: CDHI Associate Director]]></title>
+        <id>https://dhn.utoronto.ca/?p=7855</id>
+        <link href="https://dhn.utoronto.ca/cdhi-associate-director/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cdhi-associate-director"/>
+        <updated>2023-04-11T15:43:07.000Z</updated>
+        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) is a tri-campus research initiative that bridges the humanities’ emphasis on power and culture with the tools and analysis of digital technology to forge […]]]></summary>
+        <author>
+            <name>DHN Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book launch - The Humanities in the Digital: Beyond Critical Digital Humanities]]></title>
+        <id>4487 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/book-launch-humanities-digital-beyond-critical-digital-humanities"/>
+        <updated>2023-04-11T08:46:31.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Turn had promised to ‘free’ knowledge from subjectivity. But as the reassuring promises of objectivity and accuracy based on notions of quantitative, computational, automated, and unsupervised turned out to be illusory, is digital scholarship even more biased than the interpretative act itself? As there is no such a thing as ‘neutral data’ or ‘objective methods’, what is now the role of the digital scholar? Is Critical Digital Humanities the answer?
+In this presentation, Lorella Viola will first analyse many of the different ways in which reality has been transformed by technology: the pervasive adoption of big data, the fetishisation of algorithms and automation, the digitisation of education and research. She will argue that the full digitisation of society, accelerated by th…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fachreferent/in (d/m/w) für die Region Osteuropa und Eurasien mit Kompetenzen in den Bereichen Data Engineering und Softwareentwicklung]]></title>
+        <id>node/894</id>
+        <link href="https://dig-hum.de/aktuelles/fachreferentin-dmw-f%C3%BCr-die-region-osteuropa-und-eurasien-kompetenzen-den-bereichen-data"/>
+        <updated>2023-04-11T08:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Die Stiftung Wissenschaft und Politik sucht zum nächstmöglichen Zeitpunkt eine/n
+Fachreferent/in (d/m/w) für die Region Osteuropa und Eurasien mit Kompetenzen in den Bereichen…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manuscript Monday: LJS 385 – School miscellany. (Video Orientation)]]></title>
         <id>http://schoenberginstitute.org/?p=17649</id>
@@ -377,6 +451,25 @@ The post How to digitise archival materials with Transkribus appeared first on R
         <id>https://www.cdh.cam.ac.uk/learning/</id>
         <link href="https://www.cdh.cam.ac.uk/learning/"/>
         <updated>2023-04-03T09:27:22.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDH Reactor]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/reactor/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/reactor/"/>
+        <updated>2023-04-03T09:27:21.000Z</updated>
+        <summary type="html"><![CDATA[You can now watch the recording of our November 2022 event "COP27 in Egypt: Between data colonialism and climate justice".]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/"/>
+        <updated>2023-04-03T09:27:21.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
@@ -10232,247 +10325,6 @@ The post RLUK signs statement on Wiley’s withdrawal of access to ebook titles 
         <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce a new resource ‘Literary Dublin in the Digital Archive’. The booklet features literary collections held in DRI and other digital archives.]]></summary>
         <author>
             <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes from the Field: Digital Humanities at #DOT2022]]></title>
-        <id>http://digitalorientalist.com/?p=8905</id>
-        <link href="https://digitalorientalist.com/2022/10/14/notes-from-the-field-digital-humanities-at-dot2022/"/>
-        <updated>2022-10-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Deutsche Morgenländische Gesellschaft is the oldest association of German Orientalists, with most members’ research in the fields of philology and …]]></summary>
-        <author>
-            <name>elizabethbishop78666</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities  &  Black Digital Heritage]]></title>
-        <id>1214 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/events/digital-humanities-black-digital-heritage"/>
-        <updated>2022-10-14T13:40:08.000Z</updated>
-        <summary type="html"><![CDATA[Dorothy   Berry
-
-
-Monday, October 24, 2022 - 5:00pm
-
-
-
-Max Kade Center
-(329A) 3401 Walnut Street Philadelphia, PA 19104
-
-
-
-Dorothy Berry is a Digital Curator at the Smithsonian National Museum of African American History and Culture and she is a leading voice in Black Digital Huminites and Black Cultural Heritage. Her talk will address the intersection of Africana Studies and DH as well as questions of archiving and public accessibility, the intersections between public/community space and DH, and the need for an ethics of care. 
-
-
- 
-
-
-Image for Left Column:]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dorothy   Berry]]></title>
-        <id>1213 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/speakers/berry-dorothy"/>
-        <updated>2022-10-14T13:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Digital Curator, Smithsonian National Museum of African American History and Culture]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roopika Risam with Manali Desai: ‘Insurgent Academics’]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35545/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35545/"/>
-        <updated>2022-10-14T10:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Insurgent Academics, my new book project, constructs an intellectual history of what I term “academic insurgency,” which links contemporary developments in mobilized, experimental, digital, and public humanities emerging in African diaspora, U.S. ethnic, and postcolonial studies to a longer trajectory of interventions made by scholars of colour within higher education. These “insurgent academics,” I argue,]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing… Guy Solomon]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=2767</id>
-        <link href="https://livingwithmachines.ac.uk/introducing-guy-solomon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introducing-guy-solomon"/>
-        <updated>2022-10-14T09:42:38.000Z</updated>
-        <summary type="html"><![CDATA[We’ve asked each member of the Living with Machines team to introduce themselves in their initial blog post. What’s your name? Guy Solomon. What’s your background? I completed my undergraduate degree in History at the University of Oxford, where I developed a general interest in economic history (and the Industrial Revolution in particular). After a […]]]></summary>
-        <author>
-            <name>Léllé Demertzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: Junior Researcher Computer Vision &amp; Machine Learning im kulturellen Kontext (FH St. Pölten)]]></title>
-        <id>node/859</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-junior-researcher-computer-vision-machine-learning-im-kulturellen-kontext"/>
-        <updated>2022-10-14T08:05:17.310Z</updated>
-        <summary type="html"><![CDATA[Junior Researcher Computer Vision & Machine Learning im kulturellen Kontext w/m/d (40 h)
-Ihre Aufgaben
-Sie forschen in Projekten der Angewandten- und Grundlagenforschung zu…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: Informatiker / IT-Mitarbeiter (d/m/w) mit Schwerpunkt Volltextspeicher (Württembergische Landesbibliothek, Stuttgart)]]></title>
-        <id>node/861</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-informatiker-it-mitarbeiter-dmw-schwerpunkt-volltextspeicher"/>
-        <updated>2022-10-14T08:05:17.231Z</updated>
-        <summary type="html"><![CDATA[Die Württembergische Landesbibliothek ist die größte Wissenschaftliche Bibliothek in Baden-Württemberg und betreibt in enger Kooperation mit anderen Einrichtungen oder in…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: &quot;Research Software Engineer&quot; an der KU Leuven, Belgien (ERC-CoG BICROSS)]]></title>
-        <id>node/860</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-research-software-engineer-der-ku-leuven-belgien-erc-cog-bicross"/>
-        <updated>2022-10-14T08:05:17.195Z</updated>
-        <summary type="html"><![CDATA[An der KU Leuven, Belgien, ist derzeit eine Vollzeitstelle für eine/n „Research Software Engineer“ am ERC-CoG Projekt BICROSS zur Erforschung zweisprachiger Bibelhandschriften vom…]]></summary>
-        <author>
-            <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research Funding Process]]></title>
-        <id>https://www.cdh.cam.ac.uk/research/funding/research-funding-process/</id>
-        <link href="https://www.cdh.cam.ac.uk/research/funding/research-funding-process/"/>
-        <updated>2022-10-14T08:03:27.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L‘usine secrète]]></title>
-        <id>4225 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/lusine-secrete"/>
-        <updated>2022-10-14T07:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Tourné en Lorraine et au Luxembourg, « L‘usine secrète » propose un regard empathique et fort sur la sidérurgie et les mines, en montrant des dessous peu connus de ce monde particulier : l’autonomie, l’humour, la débrouille, la fauche, la bricole, l’alcool, l’entraide. Comment tissait-on des liens entre sidérurgistes ou mineurs ? Comment déjouait-on les surveillances des gardes pour sortir du materiel ? Comment s’arrangeait-on pour « bricoler » sur place des objets qu’on ramenait ensuite à la maison ou dans son jardin ? Comment prenait-on des libertés sur les règlements ? Et qu’est devenue avec le temps cette autonomie ouvrière connue mais peu racontée ? Au final, à quoi servaient ces systèmes de transgression ?
-« L’usine secrète » dresse un portrait original et inhabituel du monde ouvrier et de ses évolutions sur 50 ans. Il fait partie de ces rares documentaires sur des sujets sérieux mais traités avec humour et donc pouvant aussi s’adresser « aux jeunes »… Car l’autonomie dans le travail est un thème universel.
- 
-Mardi, 6 décembre 2022
-16h30 - 18h30
-Black Box
-Maison des Sciences humaines
-11, Porte des Sciences
-L-4366 Esch-sur-Alzette
-
-
-
-Inscription gratuite.
-6 December 2022
-
-  
-  
-            
-Public history
-  Industrial history
-  Outreach
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: ACRL Digital Scholarship Section’s Professional Development Program]]></title>
-        <id>https://dhandlib.org/?p=124692</id>
-        <link href="https://dhandlib.org/2022/10/13/cfp-acrl-digital-scholarship-sections-professional-development-program-2022/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-acrl-digital-scholarship-sections-professional-development-program-2022"/>
-        <updated>2022-10-13T23:43:12.000Z</updated>
-        <summary type="html"><![CDATA[The ACRL Digital Scholarship Section’s Professional Development Committee (PDC), in collaboration with both the Outreach Committee and the Equity, Diversity and Inclusion Committee, is seeking proposals for its 2022 DSS free, virtual professional development series. From the call: This series aims to convene professionals from a variety of institution types and at different stages of ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Digital Humanities Pedagogies in Times of Crisis]]></title>
-        <id>https://dhandlib.org/?p=124686</id>
-        <link href="https://dhandlib.org/2022/10/13/cfp-digital-humanities-pedagogies-in-times-of-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-digital-humanities-pedagogies-in-times-of-crisis"/>
-        <updated>2022-10-13T23:40:54.000Z</updated>
-        <summary type="html"><![CDATA[The International Journal of Humanities and Arts Computing invites submissions for a special issue, “Digital Humanities Pedagogies in Times of Crisis,” edited by Drs. Roopika Risam (Dartmouth College) and Sara Dias-Trindade (Universidade do Porto and CEIS20). From the call: From the COVID-19 pandemic, to the Russian war against Ukraine, to accelerating climate change, to the rise ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Minimal Computing and Ed Tech: Special Issue of Learning, Media and Technology]]></title>
-        <id>https://dhandlib.org/?p=124690</id>
-        <link href="https://dhandlib.org/2022/10/13/cfp-minimal-computing-and-ed-tech-special-issue-of-learning-media-and-technology/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-minimal-computing-and-ed-tech-special-issue-of-learning-media-and-technology"/>
-        <updated>2022-10-13T23:40:13.000Z</updated>
-        <summary type="html"><![CDATA[The Journal Learning, Media and Technology invites submissions for a special issue on “Minimal Computing and Ed Tech,” edited by Lee Skallerup Bessette (Georgetown University) and Roopika Risam (Dartmouth College). As minimal computing continues to gain traction as more sustainable and equitable approaches, digital humanities library practitioners offer unique and important perspectives to critical digital ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Global Digital Humanities Symposium 2023]]></title>
-        <id>https://dhandlib.org/?p=124688</id>
-        <link href="https://dhandlib.org/2022/10/13/cfp-global-digital-humanities-symposium-2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-global-digital-humanities-symposium-2023"/>
-        <updated>2022-10-13T23:39:15.000Z</updated>
-        <summary type="html"><![CDATA[The eighth annual Global Digital Humanities Symposium hosted by Michigan State University will be held in March 2023, with both in-person and virtual events; proposals are currently being accepted. From the call: Digital humanities scholarship continues to be driven by work at the intersections of a range of distinct disciplines and an ethical commitment to ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: The Nineteenth-Century Data Collective: Call for Datasets and Data Essays]]></title>
-        <id>https://dhandlib.org/?p=124694</id>
-        <link href="https://dhandlib.org/2022/10/13/cfp-the-nineteenth-century-data-collective-call-for-datasets-and-data-essays/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-the-nineteenth-century-data-collective-call-for-datasets-and-data-essays"/>
-        <updated>2022-10-13T23:38:13.000Z</updated>
-        <summary type="html"><![CDATA[The Nineteenth-Century Data Collective, which peer-reviews and houses literary or cultural data ca. 1800-1900 at Princeton University Library, invites submissions of datasets and data essays. From the call: Not simply a static repository, the Nineteenth-Century Data Collective hopes to increase discoverability for nineteenth-century datasets, share teaching resources, and most importantly, take data creation seriously as ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPORTUNITY: Wikimedia Research Fund]]></title>
-        <id>https://dhandlib.org/?p=124682</id>
-        <link href="https://dhandlib.org/2022/10/13/opportunity-wikimedia-research-fund/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=opportunity-wikimedia-research-fund"/>
-        <updated>2022-10-13T23:37:21.000Z</updated>
-        <summary type="html"><![CDATA[The Wikimedia Research Fund invites proposals for up to $50,000 to support individuals, groups, and organizations with research interests on or about Wikimedia projects. From the call: We encourage submissions from across research disciplines including but not limited to humanities, social sciences, computer science, education, and law. We aim to support applicants who have limited ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPORTUNITY: Reviews Co-Editor, Journal of Librarianship and Scholarly Communication (JLSC)]]></title>
-        <id>https://dhandlib.org/?p=124684</id>
-        <link href="https://dhandlib.org/2022/10/13/opportunity-reviews-co-editor-journal-of-librarianship-and-scholarly-communication-jlsc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=opportunity-reviews-co-editor-journal-of-librarianship-and-scholarly-communication-jlsc"/>
-        <updated>2022-10-13T23:36:47.000Z</updated>
-        <summary type="html"><![CDATA[The open-access Journal of Librarianship and Scholarly Communication (JLSC) invites applications to serve as a Reviews Co-Editor, to support a program of reviewing scholarship, platforms and tools, and programs and courses whose subject matter is directly connected to the journal’s publication scope. From the call: Working together, the Reviews Co-Editors are responsible for identifying publications and other ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: Black Beyond Data Reading Group]]></title>
-        <id>https://dhandlib.org/?p=124680</id>
-        <link href="https://dhandlib.org/2022/10/13/event-black-beyond-data-reading-group/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-black-beyond-data-reading-group"/>
-        <updated>2022-10-13T23:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Black Beyond Data seeks to “create an open resource for scholars to combat racial injustice through digital humanities,” and meets during the last Friday of each month at 12:00noon Eastern Time (4:00pm UTC), via zoom. Register for the zoom link and to join the conversations. From the website: The Black Beyond Data Reading Group is focused on exploring ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Black Studies Librarian, Black Bibliography Project (Rutgers University Libraries)]]></title>
-        <id>https://dhandlib.org/?p=124734</id>
-        <link href="https://dhandlib.org/2022/10/13/job-black-studies-librarian-black-bibliography-project-rutgers-university-libraries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-black-studies-librarian-black-bibliography-project-rutgers-university-libraries"/>
-        <updated>2022-10-13T23:34:54.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: The Rutgers University Libraries seek an innovative, collaborative and service-oriented librarian to serve as Black Studies Librarian. This new grant-funded position will support the work of the Black Bibliography Project (https://blackbibliog.org), an Andrew W. Mellon Foundation supported project based at Yale University and Rutgers (https://www.rutgers.edu/news/rutgers-researcher-developing-digital-bibliography-black-authors-and-print-work). Working with a team of faculty, librarians, technicians, ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Head of Digital Learning and Scholarship (Trinity College)]]></title>
-        <id>https://dhandlib.org/?p=124678</id>
-        <link href="https://dhandlib.org/2022/10/13/job-head-of-digital-learning-and-scholarship-trinity-college/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-head-of-digital-learning-and-scholarship-trinity-college"/>
-        <updated>2022-10-13T23:21:05.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: Trinity College seeks a staff that reflects the changing demographics of our student body. Our student body is diverse, representing 41 states and 70 countries, with 21 percent U.S. students of color and 50 percent who identify as women. More than 90 percent of students live on campus. Trinity is a highly ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
         </author>
     </entry>
     <entry>
