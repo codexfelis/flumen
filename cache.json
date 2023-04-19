@@ -2254,6 +2254,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=10276",
+          "author": "Henry Jacobs",
+          "description": "Part I of this two-part assessment of the Academia Sinica’s bronze inscription research tools examined key features of the ‘Shang …",
+          "link": "https://digitalorientalist.com/2023/04/18/digital-resources-for-chinese-bronze-research-the-academia-sinica-collection-part-2/",
+          "publishedOn": "2023-04-18T13:00:00.000Z",
+          "wordCount": 1918,
+          "title": "Digital Resources for Chinese Bronze Research: The Academia Sinica Collection (Part 2)"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=10375",
           "author": "Rohan Chauhan",
           "description": "OCR of historical printing in Bengali using segmentation and recognition models trained in Kraken from an annotated dataset of Bengali texts published between 1860 and 1940.",
@@ -2702,15 +2711,6 @@
           "publishedOn": "2022-10-25T14:30:00.000Z",
           "wordCount": 1541,
           "title": "Transkribus in Practice: Improving CER"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=8940",
-          "author": "Christopher L. Diamond",
-          "description": "The ‘Research Environment for Ancient Documents’ (or ‘READ‘) is an ecosystem of open-source tools and platforms for the creation of …",
-          "link": "https://digitalorientalist.com/2022/10/21/read-workbench-part-1-an-introduction-to-a-text-image-annotation-ecosystem/",
-          "publishedOn": "2022-10-21T13:00:00.000Z",
-          "wordCount": 1748,
-          "title": "READ Workbench (Part 1): An Introduction to a Text and Image Annotation Ecosystem"
         }
       ]
     },
@@ -3879,6 +3879,15 @@
       "feedUrl": "https://readcoop.eu/feed",
       "siteUrl": "https://readcoop.eu/",
       "articles": [
+        {
+          "id": "https://readcoop.eu/?p=32309",
+          "author": "Florian Stauder",
+          "description": "Did you know that Transkribus isn’t run by an ordinary company but by a cooperative? READ-COOP was set up in 2019 to ensure the long-term development of Transkribus through cooperation and collaboration with users. Four years later and our cooperative now has over 145 members from 30 different countries, who all have their say in […]\nThe post Meet the members of READ-COOP appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/meet-the-members-of-read-coop/",
+          "publishedOn": "2023-04-19T06:01:36.000Z",
+          "wordCount": 3011,
+          "title": "Meet the members of READ-COOP"
+        },
         {
           "id": "https://readcoop.eu/?p=32267",
           "author": "Florian Stauder",
@@ -5234,6 +5243,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4495 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The talk will focus on the representation of history in AAA video games. Familiar to millions of users worldwide and therefore conceptualised as public spaces, these games may depict real-world historical environments, such as the sceneries in Assassin's Creed, the maps in Europa Universalis, or the mechanisms of Civilization. Alternatively, they may deconstruct fictional or virtual pasts, as seen in Shadow of the Colossus, or combine both approaches, like in Siberia.\nJoanna Wojdon is Professor of History at the University of Wrocław, Poland, member of the Steering Committee of the International Federation for Public History, co-organizer of the Public History Summer School in Wrocław, editor of Public History in Poland (Routledge, 2021) and co-editor, with Dorota Wiśniewska, of Public in Public History (Routledge, 2021). Her interests include the use of information technology in history education, edutainment, the influence of politics and propaganda on education, with a particular focus on the communist period in Poland, and investigating the history of Polish Americans after World War II.\n \nWednesday, 3 May 2023\n16.30 – 18:00\nMaison du Savoir, Auditorium 3.110\nBelval Campus\nand online (join here)\n \nFree entrance. The lecture will be followed by a reception.\n3 May 2023\n  Public history\n  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/video-game-worlds-digital-public-history-spaces",
+          "publishedOn": "2023-04-18T13:26:54.000Z",
+          "wordCount": 401,
+          "title": "Video Game Worlds as Digital Public History Spaces"
+        },
         {
           "id": "4494 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -7184,15 +7202,6 @@
           "publishedOn": "2022-10-25T09:12:53.000Z",
           "wordCount": 356,
           "title": "Xiaoyi Jiang"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35587/",
-          "author": null,
-          "description": "Convenor: Tom Kissock (CDH Methods Fellow) This Methods Workshop will offer Video Data Analysis for Social Science and Humanities students. It’s a relatively new, broad, and innovative multi-disciplinary methodology that helps students understand how video fits into modern research, both inside and outside academia. For example, Cisco has estimated that video will make up 80% of",
-          "link": "https://www.cdh.cam.ac.uk/events/35587/",
-          "publishedOn": "2022-10-21T08:46:08.000Z",
-          "wordCount": 693,
-          "title": "Video Data Analysis for social science and humanities"
         }
       ]
     },
@@ -7201,6 +7210,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5905 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "New Impact Story: Chatbots and Copyright - CLARIN Café Addresses Key Issue for DH\n\n            \n\n  \n  \n            \n    \n\n\n      \n\nThe release of ChatGPT, Bing Chat and, more recently, GPT-4, has turned the spotlight on language models and generative chatbots. The interest in AI-generated language data and human-machine interaction is significant, underpinned by extensive coverage in the media. However, many of the discussions tend to focus on the chatbots’ ability to produce content, and their potential uses in the future. Few address the specific issues relevant to those working with digital language resources.  \nCLARIN’s legal experts - the CLARIN Legal and Ethical Issues Committee, or CLIC - made this topic the focus of the latest CLARIN Café. Entitled 'Do Chatbots Dream of Copyright?' Copyright in AI-generated Language Data, the Café brought together a group of experts from different fields in order to explore the legal implications of working with or using AI-generated texts, and specifically whether these texts can—and should—be protected by copyright.\nRead the full impact story here. \n\n      Karina Berger\n 18 April 2023",
+          "link": "https://www.clarin.eu/blog/new-impact-story-chatbots-and-copyright-clarin-cafe-addresses-key-issue-dh",
+          "publishedOn": "2023-04-18T12:07:35.000Z",
+          "wordCount": 316,
+          "title": "New Impact Story: Chatbots and Copyright - CLARIN Café Addresses Key Issue for DH"
+        },
         {
           "id": "5903 at https://www.clarin.eu",
           "author": "Karina Berger",
@@ -8017,15 +8035,6 @@
           "publishedOn": "2022-10-26T12:22:48.000Z",
           "wordCount": 505,
           "title": "Open science, research data management, FAIR: why should you care?"
-        },
-        {
-          "id": "1571 at https://www.dri.ie",
-          "author": "l.griffith@ria.ie",
-          "description": "Date: \n\n30 Nov 2022\n\n\nLocation: \n\nZoom\n\n\n\nNovember’s virtual coffee morning will take place on Wednesday 30 of November at 10.00 am for half an hour.  The coffee morning will be hosted by Natalie Harrower, Director of DRI.",
-          "link": "https://www.dri.ie/dri-virtual-coffee-morning-november",
-          "publishedOn": "2022-10-21T10:46:06.000Z",
-          "wordCount": 567,
-          "title": "DRI Virtual Coffee Morning: November"
         }
       ]
     },
