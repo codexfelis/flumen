@@ -55,15 +55,6 @@
           "publishedOn": "2022-10-27T13:53:42.000Z",
           "wordCount": 372,
           "title": "Job Alert – Lecturer in Digital Archives"
-        },
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8275",
-          "author": "Adam Crymble",
-          "description": "UCL’s Department of Information Studies is seeking a Lecturer in Digital Methods in the Humanities for a full time academic post. Deadline for applications is 20 November 2022. “We are seeking an innovative researcher to appoint to a full-time lectureship beginning in January 2023. We are seeking applicants who answer research questions of relevance to […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2022/10/25/job-alert-lecturer-in-digital-methods-in-the-humanities/",
-          "publishedOn": "2022-10-25T11:03:37.000Z",
-          "wordCount": 364,
-          "title": "Job Alert – Lecturer in Digital Methods in the Humanities"
         }
       ]
     },
@@ -229,15 +220,6 @@
           "publishedOn": "2022-12-12T12:00:00.000Z",
           "wordCount": 883,
           "title": "IMPACT 10th Anniversary Workshop and Writing Sprint"
-        },
-        {
-          "id": "https://www.digitisation.eu/?post_type=tribe_events&p=17317",
-          "author": "Impact Centre of Competence",
-          "description": "The webinar will bring together theory and practice on how to make available GLAM digital collections as datasets for publication ... \nRead More\nThe post Towards implementing Collections as Data in GLAM institutions appeared first on IMPACT Centre of Competence.",
-          "link": "https://www.digitisation.eu/event/towards-implementing-collections-as-data-in-glam-institutions/",
-          "publishedOn": "2022-10-25T13:30:00.000Z",
-          "wordCount": 552,
-          "title": "Towards implementing Collections as Data in GLAM institutions"
         }
       ]
     },
@@ -710,6 +692,105 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=126444",
+          "author": "Linsey Ford",
+          "description": "This semester, Dr. Miriam Posner (UCLA) is teaching a digital humanities undergraduate course, DH150: “Digital Labor.” Her open syllabus offers a thoughtful response to current issues and conversations at the intersections of technology, power, gender, and race, and leveraging video storytelling, to explore ways in which we as workers can regain agency in the ever ...read more",
+          "link": "https://dhandlib.org/2023/04/21/resource-digital-labor-syllabus-by-miriam-posner/?utm_source=rss&utm_medium=rss&utm_campaign=resource-digital-labor-syllabus-by-miriam-posner",
+          "publishedOn": "2023-04-21T19:12:13.000Z",
+          "wordCount": 790,
+          "title": "RESOURCE: Digital Labor Syllabus by Miriam Posner"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126453",
+          "author": "Linsey Ford",
+          "description": "Digital Holocaust Memory has recently co-created a collection of recommendations for digital interventions in Holocaust memory and education. They have “worked with more than 80 representatives from a diverse range of academic disciplines, Holocaust institutions across the world, and wider GLAM, creative and technical professionals” to create the collection, presented in multiple reports. From the ...read more",
+          "link": "https://dhandlib.org/2023/04/21/resource-digital-holocaust-memory-and-education/?utm_source=rss&utm_medium=rss&utm_campaign=resource-digital-holocaust-memory-and-education",
+          "publishedOn": "2023-04-21T19:10:58.000Z",
+          "wordCount": 785,
+          "title": "RESOURCE: Digital Holocaust Memory and Education"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126459",
+          "author": "Linsey Ford",
+          "description": "The Women Writers Project at Northeastern University is hosting a virtual symposium on Antiracist Markup Practices, on Monday, 15 May 2023. From the announcement: The symposium will investigate the implications of social justice frameworks for text encoding theory and practice. The focus of this event will be on text encoding with TEI and XML, but ...read more",
+          "link": "https://dhandlib.org/2023/04/21/event-antiracist-markup-practices-symposium/?utm_source=rss&utm_medium=rss&utm_campaign=event-antiracist-markup-practices-symposium",
+          "publishedOn": "2023-04-21T19:09:55.000Z",
+          "wordCount": 747,
+          "title": "EVENT: Antiracist Markup Practices Symposium"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126457",
+          "author": "Linsey Ford",
+          "description": "Beginning May 9, 2023, DH@Guelph will host a 4-day workshop series on topics related to digital humanities research and teaching. The in-person event will welcome instructors from myriad disciplines and will also offer modular workshops. Short workshops include titles such as Linked Open Data Fundamentals, Introduction to Research Data Management (RDM), and Best Project Practices ...read more",
+          "link": "https://dhandlib.org/2023/04/21/event-dhguelph-summer-workshops-2023/?utm_source=rss&utm_medium=rss&utm_campaign=event-dhguelph-summer-workshops-2023",
+          "publishedOn": "2023-04-21T19:08:51.000Z",
+          "wordCount": 670,
+          "title": "EVENT: DH@Guelph Summer Workshops 2023"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126455",
+          "author": "Linsey Ford",
+          "description": "This summer, Ohio State University’s Center for Urban and Regional Analysis and its University Libraries’ Research Commons will host a webinar series of presentations featuring community-engaged digital humanities scholars. They will present how they are uncovering the legacies of discriminatory practices and seeking a more socially just future for the people and places that have ...read more",
+          "link": "https://dhandlib.org/2023/04/21/event-race-and-place-learning-from-the-past-and-looking-to-the-future/?utm_source=rss&utm_medium=rss&utm_campaign=event-race-and-place-learning-from-the-past-and-looking-to-the-future",
+          "publishedOn": "2023-04-21T19:07:55.000Z",
+          "wordCount": 710,
+          "title": "EVENT: Race and Place: Learning from the Past and Looking to the Future"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126465",
+          "author": "Linsey Ford",
+          "description": "The 14th International Conference on Computational Creativity (ICCC) will take place from June 19-23, 2023 in Federation Hall at the University of Waterloo. ICCC is an annual conference that welcomes papers on different aspects of Computational Creativity (CC), ” on systems that exhibit varying degrees of creative autonomy, on systems that act as creative partners for ...read more",
+          "link": "https://dhandlib.org/2023/04/21/cfp-computational-creativity-short-papers-iccc23/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-computational-creativity-short-papers-iccc23",
+          "publishedOn": "2023-04-21T19:06:37.000Z",
+          "wordCount": 1125,
+          "title": "CFP: Computational Creativity Short Papers, ICCC’23"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126467",
+          "author": "Linsey Ford",
+          "description": "The Austrian Centre for Digital Humanities and Cultural Heritage, Austrian Academy of Sciences, Vienna will present Life Narrative and the Digital 2023: Interdisciplinary Conference and Workshop September 26-27 of this year.  This combination of conference and workshop, “brings together scholars from a wide range of disciplines and different career stages to explore the possibilities, uses, ...read more",
+          "link": "https://dhandlib.org/2023/04/21/cfp-life-narrative-and-the-digital-2023/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-life-narrative-and-the-digital-2023",
+          "publishedOn": "2023-04-21T19:02:46.000Z",
+          "wordCount": 836,
+          "title": "CFP: Life Narrative and the Digital 2023"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126461",
+          "author": "Linsey Ford",
+          "description": "The 15th annual Semantic Web in Libraries (SWIB) will take place from September 11-13 in Berlin, Germany. The event will be in person for the first time in three years and “will have more interactive formats in order to get the most out of participants coming together physically in one place.” The conference is an ...read more",
+          "link": "https://dhandlib.org/2023/04/21/cfp-swib23-15th-semantic-web-in-libraries-conference/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-swib23-15th-semantic-web-in-libraries-conference",
+          "publishedOn": "2023-04-21T19:01:51.000Z",
+          "wordCount": 827,
+          "title": "CFP: SWIB23 – 15th Semantic Web in Libraries Conference"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126451",
+          "author": "Linsey Ford",
+          "description": "From the announcement: The University of Idaho Library seeks an innovative, flexible, and highly collaborative librarian who will help promote, develop, and maintain the digital services and projects of the library and the relationships that make these services and projects possible. Reporting to the Dean, this position will work within the Digital Scholarship and Open ...read more",
+          "link": "https://dhandlib.org/2023/04/21/job-digital-initiatives-librarian-university-of-idaho-3/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-initiatives-librarian-university-of-idaho-3",
+          "publishedOn": "2023-04-21T19:00:09.000Z",
+          "wordCount": null,
+          "title": "JOB: Digital Initiatives Librarian, University of Idaho"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126449",
+          "author": "Linsey Ford",
+          "description": "From the announcement: The Iowa State University Library is seeking applications for a dynamic and forward-thinking Repository Services Librarian who will work collaboratively within and outside of the Digital Scholarship and Initiatives (DSI) department to lead the digital repository unit. DSI is comprised of specialists that support digital collections, digital scholarship, and the digital repository. ...read more",
+          "link": "https://dhandlib.org/2023/04/21/job-digital-repository-services-librarian-iowa-state-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-repository-services-librarian-iowa-state-university",
+          "publishedOn": "2023-04-21T18:58:55.000Z",
+          "wordCount": null,
+          "title": "JOB: Digital Repository Services Librarian, Iowa State University"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126446",
+          "author": "Linsey Ford",
+          "description": "From the announcement: The University of Houston seeks a Research Data Curation Coordinator to lead data services across the research lifecycle. Reporting to the Head of Research Services within the University Libraries, the Research Data Curation Coordinator will establish partnerships in the Libraries and on campus to address existing and emerging research data needs of ...read more",
+          "link": "https://dhandlib.org/2023/04/21/job-research-data-curation-coordinator-university-of-houston-libraries/?utm_source=rss&utm_medium=rss&utm_campaign=job-research-data-curation-coordinator-university-of-houston-libraries",
+          "publishedOn": "2023-04-21T18:53:59.000Z",
+          "wordCount": null,
+          "title": "JOB: Research Data Curation Coordinator, University of Houston Libraries"
+        },
         {
           "id": "https://dhandlib.org/?p=126317",
           "author": "Caitlin Christian-Lamb",
@@ -2720,15 +2801,6 @@
           "publishedOn": "2022-10-28T12:35:28.000Z",
           "wordCount": 1553,
           "title": "Interview with Arezou Azad on the Invisible East Programme and its Digitisation of Documents from the Medieval Islamicate East, part 1"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=8961",
-          "author": "Rachael Griffiths",
-          "description": "Since joining the ERC-funded project, The Dawn of Tibetan Buddhist Scholasticism (11th-13th C.)(TibSchol),1 at the Austrian Academy of Science in …",
-          "link": "https://digitalorientalist.com/2022/10/25/transkribus-in-practice-improving-cer/",
-          "publishedOn": "2022-10-25T14:30:00.000Z",
-          "wordCount": 1541,
-          "title": "Transkribus in Practice: Improving CER"
         }
       ]
     },
@@ -4170,29 +4242,6 @@
             "length": "268499",
             "type": "image/jpeg"
           }
-        },
-        {
-          "id": "https://review.gale.com/?p=13728",
-          "author": "Gale Review Team",
-          "description": "│By Dr. Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ This month’s blog post will discuss datasets – what they are, and how they might be used by a researcher or student who plans to use digital tools to generate answers to questions they have about their data. The timing of this post coincides with ... Read more\nThe post Working with Datasets, A Primer appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2022/10/25/working-with-datasets-a-primer/",
-          "publishedOn": "2022-10-25T08:30:00.000Z",
-          "wordCount": 1937,
-          "title": "Working with Datasets, A Primer"
-        },
-        {
-          "id": "https://review.gale.com/?p=13728",
-          "author": "Gale Review Team",
-          "description": "│By Dr. Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ This month’s blog post will discuss datasets – what they are, and how they might be used by a researcher or student who plans to use digital tools to generate answers to questions they have about their data. The timing of this post coincides with ... Read more\nThe post Working with Datasets, A Primer appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2022/10/25/working-with-datasets-a-primer/?utm_source=rss&utm_medium=rss&utm_campaign=working-with-datasets-a-primer",
-          "publishedOn": "2022-10-25T08:30:00.000Z",
-          "wordCount": 1821,
-          "title": "Working with Datasets, A Primer",
-          "enclosure": {
-            "url": "https://review.gale.com/wp-content/uploads/2022/10/09.-Notes-from-a-DH-Correspondent-Oct.png",
-            "length": "2119530",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -4871,15 +4920,6 @@
           "publishedOn": "2022-10-26T09:10:12.000Z",
           "wordCount": 1922,
           "title": "Training: RDM workshop for PhDs (KU Leuven)"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1448",
-          "author": "Leah Budke",
-          "description": "Yesterday we kicked off our fall 2022 edition of the DH Virtual Discussion Group for ECRs in Belgium. This edition marks our fifth semester of the discussion group, which is jointly organized this year by Prof. Margherita Fantoli (KU Leuven…\n\nContinue reading “Recap: DH Virtual Discussion Group for ECRs in Belgium 24/10”…",
-          "link": "https://scholarlytales.hcommons.org/2022/10/25/recap-dh-virtual-discussion-group-for-ecrs-in-belgium-24-10/",
-          "publishedOn": "2022-10-25T10:17:46.000Z",
-          "wordCount": 2179,
-          "title": "Recap: DH Virtual Discussion Group for ECRs in Belgium 24/10"
         }
       ]
     },
@@ -5026,15 +5066,6 @@
           "publishedOn": "2022-12-22T13:23:00.000Z",
           "wordCount": 360,
           "title": "Call for articles for the jTEI 2022 conference edition"
-        },
-        {
-          "id": "https://tei-c.org/?p=31412",
-          "author": "Martina Scholger",
-          "description": "The TEI Consortium has released version 4.5.0 of the TEI Guidelines, “The Release of One’s Own”, and version 7.54.0 of the TEI Stylesheets. For more details, please see the release notes.",
-          "link": "https://tei-c.org/2022/10/25/new-release-tei-guidelines-4-5-0-styleshets-7-54-0/",
-          "publishedOn": "2022-10-25T16:06:58.000Z",
-          "wordCount": 192,
-          "title": "New release: TEI Guidelines 4.5.0 / Styleshets 7.54.0"
         }
       ]
     },
@@ -7211,42 +7242,6 @@
           "publishedOn": "2022-10-27T08:12:15.000Z",
           "wordCount": 490,
           "title": "Code of Conduct"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/mphil/",
-          "author": null,
-          "description": "Come study with us, for an MPhil in Digital Humanities. Apply now!",
-          "link": "https://www.cdh.cam.ac.uk/mphil/",
-          "publishedOn": "2022-10-25T13:08:42.000Z",
-          "wordCount": 1186,
-          "title": "MPhil"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/gefeng-liu/",
-          "author": null,
-          "description": "Gefeng Liu has completed her undergraduate in archaeology at Renmin University of China and graduated from Peking University with a major in sociology. Her initial interest in digital humanities was sparked by involving in the curation of exhibitions and designing visual products when AI, VR, and AR were amazingly applied. Fascinated by urban sociology, she",
-          "link": "https://www.cdh.cam.ac.uk/about/people/gefeng-liu/",
-          "publishedOn": "2022-10-25T10:06:15.000Z",
-          "wordCount": 442,
-          "title": "Gefeng Liu"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dominic-chivers/",
-          "author": null,
-          "description": "Dominic is currently a postgraduate student at the University of Cambridge undertaking an MPhil in Digital Humanities. He is exploring the use of data analysis and computational methods in the study of historical archives. He received his bachelors' degree in History (First-Class Honours) from the University of Warwick. Dominic is a former Associate at global",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dominic-chivers/",
-          "publishedOn": "2022-10-25T09:24:45.000Z",
-          "wordCount": 377,
-          "title": "Dominic Chivers"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/xiaoyi-jiang/",
-          "author": null,
-          "description": "After receiving a bachelor’s degree in Art History and Art Administration from Renmin University of China, I became interested in the critical theory of emerging digitisation trends within museums and galleries. Specifically, I will focus on how museums engage with decolonisation through digital and artistic practices. Related to this, I am also concerned with the",
-          "link": "https://www.cdh.cam.ac.uk/about/people/xiaoyi-jiang/",
-          "publishedOn": "2022-10-25T09:12:53.000Z",
-          "wordCount": 356,
-          "title": "Xiaoyi Jiang"
         }
       ]
     },
