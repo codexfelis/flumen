@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-04-23T08:04:32.796Z</updated>
+    <updated>2023-04-24T08:03:56.033Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review: BERT for Humanists]]></title>
+        <id>4a46854c-dfd9-4d4e-a1bc-b56d11aef381</id>
+        <link href="https://reviewsindh.pubpub.org/pub/bert-for-humanists"/>
+        <updated>2023-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of BERT for Humanists, an online resource helping humanists use natural language processing, directed by Matt Wilkens, David Mimno, and Melanie Walsh]]></summary>
+        <author>
+            <name>Lidia Bocanegra Barbecho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Lynching in Texas]]></title>
+        <id>4c363c1e-a19a-4d29-ae70-0c32ca853715</id>
+        <link href="https://reviewsindh.pubpub.org/pub/lynching-in-texas"/>
+        <updated>2023-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Lynching in Texas, a website uncovering little-known stories of Texan lynching victims, directed by Jeffrey L. Littlejohn]]></summary>
+        <author>
+            <name>Maria Juzinskas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editors' Note: April 2023]]></title>
+        <id>6baa22b0-88c1-43f8-9311-ff1e9410eba6</id>
+        <link href="https://reviewsindh.pubpub.org/pub/editors-note-april-2023"/>
+        <updated>2023-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Editors' note on the April 2023 issue of Reviews in Digital Humanities]]></summary>
+        <author>
+            <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Disability and Belonging]]></title>
+        <id>8f971d7b-3d08-43b9-a894-8ca317f7637c</id>
+        <link href="https://reviewsindh.pubpub.org/pub/disability-and-belonging"/>
+        <updated>2023-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Disability and Belonging, an ArcGIS StoryMap exploring the Camphill movement, directed by Katherine Sorrels]]></summary>
+        <author>
+            <name>Jennifer Guiliano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Islam Burkina Faso Collection]]></title>
+        <id>89e71c81-0c9f-4d88-9c99-7362764d92cb</id>
+        <link href="https://reviewsindh.pubpub.org/pub/islam-burkina-faso-collection"/>
+        <updated>2023-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of the Islam Burkina Faso Collection, a database of materials on Islam, directed by Frédérick Madore]]></summary>
+        <author>
+            <name>Robert Launay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RESOURCE: Digital Labor Syllabus by Miriam Posner]]></title>
         <id>https://dhandlib.org/?p=126444</id>
@@ -1036,6 +1086,16 @@ The post How to digitise archival materials with Transkribus appeared first on R
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1659, a 16th century manuscript written in Ladino (aka Judeo-Spanish or Sephardi, a Romance language written using the Hebrew alphabet and spoken by Sephardic Jews), removed from a larger volume. You can read the complete recordContinue reading "Manuscript Monday: Ms. Codex 1659 – Ladino manuscript. (Video Orientation)"]]></summary>
         <author>
             <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPhil]]></title>
+        <id>https://www.cdh.cam.ac.uk/mphil/</id>
+        <link href="https://www.cdh.cam.ac.uk/mphil/"/>
+        <updated>2023-04-03T09:27:22.000Z</updated>
+        <summary type="html"><![CDATA[Come study with us, for an MPhil in Digital Humanities. Apply now!]]></summary>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -10298,61 +10358,6 @@ Continue reading “Hackathon – BiblioTech 2023 (KU Leuven)”…]]></summary>
 Wir wollen uns dabei mit den Themen Qualitätssicherung befassen und dabei…]]></summary>
         <author>
             <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training: “From Paper to Files – How to Efficiently Digitize (Historical) Documents”]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1486</id>
-        <link href="https://scholarlytales.hcommons.org/2022/10/26/training-from-paper-to-files-how-to-efficiently-digitize-historical-documents/"/>
-        <updated>2022-10-26T14:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Program   The Faculty of Arts and KU Leuven Libraries jointly organize a 2-day training (22/11 and 23/11) focusing on “self-made” document digitization for researchers and staff members. Different modules (that can be followed independently from each other) will teach…
-
-Continue reading “Training: “From Paper to Files – How to Efficiently Digitize (Historical) Documents””…]]></summary>
-        <author>
-            <name>Leah Budke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open science, research data management, FAIR: why should you care?]]></title>
-        <id>1572 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/open-science-research-data-management-fair-why-should-you-care"/>
-        <updated>2022-10-26T12:22:48.000Z</updated>
-        <summary type="html"><![CDATA[This in-person talk is hosted by University College Dublin and will be held in the O'Brien Centre for Science, Room H2.40.SCH on Nov 2nd, 1-2pm.]]></summary>
-        <author>
-            <name>bethknazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training: RDM workshop for PhDs (KU Leuven)]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1479</id>
-        <link href="https://scholarlytales.hcommons.org/2022/10/26/training-rdm-workshop-for-phds-ku-leuven/"/>
-        <updated>2022-10-26T09:10:12.000Z</updated>
-        <summary type="html"><![CDATA[This event is only open to KU Leuven researchers and staff. If you are a PhD student and would like to learn basic RDM skills and how to write a Data Management Plan (DMP), this training is definitely for you!…
-
-Continue reading “Training: RDM workshop for PhDs (KU Leuven)”…]]></summary>
-        <author>
-            <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Register for the next Montreux Jazz Memories Hackathon!]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=11829</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/10/26/register-for-the-next-montreux-jazz-memories-hackathon/"/>
-        <updated>2022-10-26T09:02:12.000Z</updated>
-        <summary type="html"><![CDATA[There are still some places left for the Montreux Jazz Memories Hackathon. Registration deadline : October 30th, 2022 Many prizes are to be won, including free tickets for the Montreux Jazz Festival 2023! Click here for more information The event is supported and financed by the dhCenter UNIL-EPFL.
-The post Register for the next Montreux Jazz Memories Hackathon! appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The DH Lab is 5!]]></title>
-        <id>https://digitalhumanities.exeter.ac.uk/?p=961</id>
-        <link href="https://digitalhumanities.exeter.ac.uk/2022/10/the-dh-lab-is-5/"/>
-        <updated>2022-10-26T08:03:40.000Z</updated>
-        <summary type="html"><![CDATA[5 years ago, on the 23rd October 2017, after many months of planning and construction work, the Digital Humanities Lab officially opened. Since then we’ve supported teaching and research through a pandemic, collaborated with academics and cultural heritage institutions on research projects, created many exciting digital resources and websites, worked with 28 undergraduate interns, digitised […]]]></summary>
-        <author>
-            <name>Julia Hopkin</name>
         </author>
     </entry>
     <entry>
