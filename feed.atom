@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-04-27T08:04:28.025Z</updated>
+    <updated>2023-04-28T08:03:48.964Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CDH Network | Technology & New Media Research]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/36504/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/36504/"/>
+        <updated>2023-04-27T11:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerability and Control: Queer Men Using Smartphones to Negotiate Their Cultures of Intimacy with Dr Jamie Hakim (King’s College London) Dr Jamie Hakim (King’s College London) will discuss queer men’s use of smartphones to negotiate their culture of intimacy, locating such practises in a historical conjuncture consumed by ‘poly-crisis’ (Tooze, 2021) and defined by a]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event: In-Person Meeting of DH (Usually Virtual) Discussion Group for ECRs in Belgium]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1854</id>
+        <link href="https://scholarlytales.hcommons.org/2023/04/27/event-in-person-meeting-of-dh-usually-virtual-discussion-group-for-ecrs-in-belgium/"/>
+        <updated>2023-04-27T10:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Yes, you read it correctly; we are having our first in-person meeting! As the name suggests, the DH Virtual Discussion Group for ECRs in Belgium is usually a virtual event. We meet on a monthly basis during the academic year…
+
+Continue reading “Event: In-Person Meeting of DH (Usually Virtual) Discussion Group for ECRs in Belgium”…]]></summary>
+        <author>
+            <name>Leah Budke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperdigital Designs Workshop]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/36499/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/36499/"/>
+        <updated>2023-04-27T10:13:32.000Z</updated>
+        <summary type="html"><![CDATA[Digital technologies have become a deeply integrated aspect of our lives. From speaking to friends and ordering food to finding our way around, all our daily acts are now mediated by the digital. This deep integration promises to expand our agency, yet it also shapes and constrains it in ways that we may not recognise]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Queer Art and Archives: Critical DH Pedagogy in Action]]></title>
         <id>https://dhn.utoronto.ca/?p=7888</id>
@@ -1378,6 +1410,15 @@ The post How to digitise archival materials with Transkribus appeared first on R
         <id>https://www.cdh.cam.ac.uk/learning/</id>
         <link href="https://www.cdh.cam.ac.uk/learning/"/>
         <updated>2023-04-03T09:27:22.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code of Conduct]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/code-of-conduct/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/code-of-conduct/"/>
+        <updated>2023-04-03T09:27:21.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
