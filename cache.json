@@ -503,15 +503,6 @@
           "publishedOn": "2022-11-15T19:11:44.000Z",
           "wordCount": 137,
           "title": "CAA ESC Election Results"
-        },
-        {
-          "id": "https://sites.caa-international.org/main/?p=16602",
-          "author": "lisafischer",
-          "description": "All current 2022 CAA members should have received their electronic ballots today. The positions being elected are Secretary, Membership Secretary, and Bursary and Student/Low-Income Officer. To learn more about the candidates, please see the ESC Candidate Statements page. If you did not receive your ballot, please check your spam folder, and then send an email […]",
-          "link": "https://caa-international.org/2022/10/31/caa-executive-steering-committee-elections/",
-          "publishedOn": "2022-10-31T18:20:44.000Z",
-          "wordCount": 142,
-          "title": "CAA Executive Steering Committee Elections"
         }
       ]
     },
@@ -1712,24 +1703,6 @@
           "publishedOn": "2022-11-10T09:09:24.000Z",
           "wordCount": null,
           "title": "ACDH-CH offering internship positions"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11864",
-          "author": "Heloise schibler",
-          "description": "The Local Time Machine project UrbanHistory4D organises a workshop on Research and Education in Urban History in the Age of Digital Libraries and is calling for contributions. The workshop will take place on 27 – 28 March 2021 at the Ludwig Maximilian University of Munich. Submission deadline: 30 November 2022. Call for Papers The organisers […]\nThe post CFP : Workshop on Research and Education in Urban History in the Age of Digital Libraries appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/10/31/cfp-workshop-on-research-and-education-in-urban-history-in-the-age-of-digital-libraries/",
-          "publishedOn": "2022-10-31T11:32:38.000Z",
-          "wordCount": 860,
-          "title": "CFP : Workshop on Research and Education in Urban History in the Age of Digital Libraries"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=11853",
-          "author": "Heloise schibler",
-          "description": "Les résultats du projet MuseumXTD ont été présentés les 12 et 13 octobre 2022 à l’aula de la HEIG-VD, Yverdon-les-Bains. Ce symposium a réuni musées et expert.e.s du domaine de la numérisation des petits et moyens musées, suisses et étrangers. Mercredi 12 octobre (9h-17h): présentations, retours d’expérience et tables rondes avec la présence de professionnel·le·s des […]\nThe post Forum MuseumXTD : ressources disponibles appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/10/31/forum-museumxtd-ressources-disponibles/",
-          "publishedOn": "2022-10-31T09:25:04.000Z",
-          "wordCount": 446,
-          "title": "Forum MuseumXTD : ressources disponibles"
         }
       ]
     },
@@ -1766,6 +1739,15 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=7972",
+          "author": "Astrid Chandler",
+          "description": "A web anthology of 4,800 poems in English and French by over 700 poets spanning 1400 years",
+          "link": "https://dhn.utoronto.ca/representative-poetry-online-rpo-2/?utm_source=rss&utm_medium=rss&utm_campaign=representative-poetry-online-rpo-2",
+          "publishedOn": "2023-04-28T13:13:05.000Z",
+          "wordCount": 488,
+          "title": "Representative Poetry Online (RPO)"
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=7888",
           "author": "Tanya Rohrmoser",
@@ -1932,6 +1914,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/896",
+          "author": "434",
+          "description": "Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto \"Anything Goes?!\" vom 4. bis 6. Oktober 2023 in Tübingen statt. \nDer Call for Papers für die …",
+          "link": "https://dig-hum.de/aktuelles/forge23-verl%C3%A4ngerung-des-call-for-papers-zum-15052023",
+          "publishedOn": "2023-04-28T11:22:31.000Z",
+          "wordCount": 869,
+          "title": "FORGE23: Verlängerung des Call for Papers bis zum 15.05.2023"
+        },
         {
           "id": "node/895",
           "author": "434",
@@ -2252,6 +2243,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10269",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Laurent Van Cutsem (Ghent University). Part II: The Database of Medieval Chinese Texts: A Critical …",
+          "link": "https://digitalorientalist.com/2023/04/28/working-title-the-database-of-medieval-chinese-texts-a-critical-overview-part-two/",
+          "publishedOn": "2023-04-28T13:00:00.000Z",
+          "wordCount": 2778,
+          "title": "The Database of Medieval Chinese Texts: A Critical Overview (part two)"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10389",
           "author": "Busranur Bekman",
@@ -4446,66 +4446,6 @@
           "enclosure": {
             "url": "https://assets.pubpub.org/b59y72kh/11669228156745.png"
           }
-        },
-        {
-          "id": "5210ce01-a426-46f5-bae7-17c9bb076e93",
-          "author": "Dan Royles",
-          "description": "A review of I'm Still Surviving, an interactive digital exhibition featuring oral histories of women living with HIV/AIDS, directed by Jennifer Brier and Matt Wizinsky",
-          "link": "https://reviewsindh.pubpub.org/pub/im-still-surviving",
-          "publishedOn": "2022-10-31T00:00:00.000Z",
-          "wordCount": 1265,
-          "title": "Review: I'm Still Surviving",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/v6koov0u/71666830602028.png"
-          }
-        },
-        {
-          "id": "2c9fa3b6-e8a7-4e36-bb02-01059dc6dc77",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the October 2022 issue of Reviews in Digital Humanities, guest edited by Kim Gallon and Kirsten Ostherr",
-          "link": "https://reviewsindh.pubpub.org/pub/editors-note-october-2022",
-          "publishedOn": "2022-10-31T00:00:00.000Z",
-          "wordCount": 2304,
-          "title": "Editors' Note: October 2022",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/3a87o1fh/01666893654912.png"
-          }
-        },
-        {
-          "id": "c8c75e50-7ffc-4702-9ffc-5e96fc53e9d0",
-          "author": "Elizabeth Nelson",
-          "description": "A review of Black Health and the Humanities, interdisciplinary training workshops exploring Black health, directed by Josie Gill and Amber Lascelles",
-          "link": "https://reviewsindh.pubpub.org/pub/black-health-and-the-humanities",
-          "publishedOn": "2022-10-31T00:00:00.000Z",
-          "wordCount": 1227,
-          "title": "Review: Black Health and the Humanities",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/wth7kl5v/41666829390631.png"
-          }
-        },
-        {
-          "id": "822b8b16-8de0-4f3b-83ef-f20151658c7b",
-          "author": "Olivia Banner",
-          "description": "A review of Visualizing the Virus, a digital project exploring COVID-19, directed by Sria Chatterjee and Ellen Ambrosone",
-          "link": "https://reviewsindh.pubpub.org/pub/visualizing-the-virus",
-          "publishedOn": "2022-10-31T00:00:00.000Z",
-          "wordCount": 1267,
-          "title": "Review: Visualizing the Virus",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/2xkf184h/41666831589329.png"
-          }
-        },
-        {
-          "id": "28b3b40b-d9ce-49b8-ab19-62063e139f3b",
-          "author": "Amelia Gibson",
-          "description": "A review of Medicine | Race | Democracy Lab, a digital humanities project exploring access and care beyond hospital systems, led by Lan Li, Ricardo Nuila, Fady Joudah, Pierce Salguero, and their team",
-          "link": "https://reviewsindh.pubpub.org/pub/medicine-race-democracy-lab",
-          "publishedOn": "2022-10-31T00:00:00.000Z",
-          "wordCount": 1369,
-          "title": "Review: Medicine | Race | Democracy Lab",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/su52dknk/31666831780897.png"
-          }
         }
       ]
     },
@@ -4621,24 +4561,6 @@
           "publishedOn": "2022-11-07T14:39:42.000Z",
           "wordCount": 1230,
           "title": "Manuscript Monday: Ms. Codex 1655- Adversariorum pars prima. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17263",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 355, a 15th-century copy of Books III (al-Amrāḍ al-juzʼīyah, diseases arranged by part of the body), IV (al-Amrāḍ allatī lā takhuṣṣ bi-ʻuḍwin bi-ʻaynih, diseases not specific to particular organs), and V (al-Adwiyah al-murakkabah, compound drugs, ointments, andContinue reading \"Manuscript Monday: LJS 355- Selections from Avicenna’s medical encyclopedia (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2022/10/31/manuscript-monday-ljs-355-selections-from-avicennas-medical-encyclopedia-video-orientation/",
-          "publishedOn": "2022-10-31T13:32:28.000Z",
-          "wordCount": 1241,
-          "title": "Manuscript Monday: LJS 355- Selections from Avicenna’s medical encyclopedia (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17258",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1650, a collection of scholarly and devotional materials, some copied from 17th-century publications. The Latin works in the front of the volume include indexes of Virgilian topoi and letters of Cicero; a devotional poem on theContinue reading \"Manuscript Monday: Ms. Codex 1650- [Classical and Catholic miscellany] (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2022/10/31/manuscript-monday-ms-codex-1650-classical-and-catholic-miscellany-video-orientation/",
-          "publishedOn": "2022-10-31T13:27:17.000Z",
-          "wordCount": 1294,
-          "title": "Manuscript Monday: Ms. Codex 1650- [Classical and Catholic miscellany] (Video Orientation)"
         }
       ]
     },
@@ -5601,6 +5523,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/36509/",
+          "author": null,
+          "description": "This clinic is open to graduate students and staff at the University of Cambridge. It is running as a drop-in on Wednesday, 17th May from 2pm - 4pm in the Alison Richard Building Foyer and SG1 and you’re welcome to just turn up on the day. If you can’t make that time slot or you’d",
+          "link": "https://www.cdh.cam.ac.uk/events/36509/",
+          "publishedOn": "2023-04-28T14:13:56.000Z",
+          "wordCount": 787,
+          "title": "Machine Learning Clinic Session – Accelerate Programme and Cambridge Digital Humanities"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/36504/",
           "author": null,
@@ -7283,24 +7214,6 @@
           "publishedOn": "2022-11-01T08:03:33.000Z",
           "wordCount": 544,
           "title": "Estara Arrant"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/",
-          "publishedOn": "2022-10-31T11:47:42.000Z",
-          "wordCount": 575,
-          "title": "Homepage"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/orla-delaney/",
-          "author": null,
-          "description": "My research is concerned with the agentic, live qualities of digital infrastructures in the museum, and how these infrastructures operate as a meaning-making force in relation to the collection. My PhD work consists of the development and implementation of an ethnographic methodology for the critical study of museum databases, which aims to give a richly",
-          "link": "https://www.cdh.cam.ac.uk/about/people/orla-delaney/",
-          "publishedOn": "2022-10-31T11:32:08.000Z",
-          "wordCount": 748,
-          "title": "Orla Delaney"
         }
       ]
     },
