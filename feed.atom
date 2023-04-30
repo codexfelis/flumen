@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-04-29T08:03:49.168Z</updated>
+    <updated>2023-04-30T08:03:54.601Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -207,6 +207,15 @@ The post Emerging Leaders Programme Scoping Study Launched appeared first on Res
         <link href="https://www.cdh.cam.ac.uk/about/people/tomasz-hollankek/"/>
         <updated>2023-04-24T16:24:21.000Z</updated>
         <summary type="html"><![CDATA[Tomasz Hollanek is a design researcher working at the intersection of design theory, technology ethics, and critical artificial intelligence studies. Currently, he is a Postdoctoral Research Fellow at the Leverhulme Centre for the Future of Intelligence (LCFI) at Cambridge, where he is a part of the 'AI for Just and Sustainable Futures' project.' His ongoing research]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homepage]]></title>
+        <id>https://www.cdh.cam.ac.uk/</id>
+        <link href="https://www.cdh.cam.ac.uk/"/>
+        <updated>2023-04-24T14:56:08.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
@@ -10243,106 +10252,6 @@ The post Event: Equality, Diversity, and Inclusion in the Research Library Space
 Each year…]]></summary>
         <author>
             <name>406</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Opportunity – DRI Director at the Digital Repository of Ireland]]></title>
-        <id>1578 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/job-opportunity-%E2%80%93-dri-director-digital-repository-ireland"/>
-        <updated>2022-11-01T16:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Applications are invited for the position of DRI Director at the Digital Repository of Ireland (DRI), located at the Royal Irish Academy (RIA).]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoNOSC Welcomes DRI's Dr Daniel Bangert to Board]]></title>
-        <id>1577 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/conosc-welcomes-dris-dr-daniel-bangert-board"/>
-        <updated>2022-11-01T14:54:07.000Z</updated>
-        <summary type="html"><![CDATA[DRI's Dr Daniel Bangert has been elected to the Council for National Open Science Coordination (CoNOSC) Board.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Funding: Critical DH Training Bursaries]]></title>
-        <id>https://dhn.utoronto.ca/?p=6222</id>
-        <link href="https://dhn.utoronto.ca/dh-training-bursaries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dh-training-bursaries"/>
-        <updated>2022-11-01T13:48:29.000Z</updated>
-        <summary type="html"><![CDATA[CDHI is offering bursaries of $1000 to faculty and graduate students who wish to develop specialized skills at other DH training sites. Applications accepted on a rolling basis.]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Applications: 2022 ADHO Communications Fellowships]]></title>
-        <id>https://adho.org/?p=1788</id>
-        <link href="https://adho.org/2022/11/01/call-for-applications-2022-adho-communications-fellowships/"/>
-        <updated>2022-11-01T13:30:31.000Z</updated>
-        <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for its two 2022 Communications Fellowships, each of which comes with a stipend of €500 (Euros). Each year, Communications Fellows work with ADHO’s Communications Officer to manage ADHO’s public communications activities. The fellowship is well suited for graduate students, young scholars, and academic professionals who wish… Read More »Call for Applications: 2022 ADHO Communications Fellowships]]></summary>
-        <author>
-            <name>Erdal Ayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transkribus in Practice: Abbreviations]]></title>
-        <id>http://digitalorientalist.com/?p=9026</id>
-        <link href="https://digitalorientalist.com/2022/11/01/transkribus-in-practice-abbreviations/"/>
-        <updated>2022-11-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In my last article, I wrote about my experiments to improve the accuracy of a Handwritten Text Recognition (HTR) model …]]></summary>
-        <author>
-            <name>Rachael Griffiths</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yashila Bordag]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/yashila-bordag/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/yashila-bordag/"/>
-        <updated>2022-11-01T11:57:53.000Z</updated>
-        <summary type="html"><![CDATA[I am a recent UC Berkeley graduate with a BA in Classics and Data Science, minoring in Electrical Engineering and Computer Science, and I previously worked as a software engineer in Cisco Systems. I was also a research assistant in the Sumerian Networks project in Berkeley where we used NLP on Sumerian Tablets to aggregate]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chen Qu]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/susan-qu/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/susan-qu/"/>
-        <updated>2022-11-01T08:07:42.000Z</updated>
-        <summary type="html"><![CDATA[Chen is a PhD student in Urban Studies, whose research interests lie in human–environment relationships. She has several years’ research and practice experience in urban planning/design, resilient/sustainable cities and health studies. Her focus this year has been on digital tool development for education and learning, the potential of digital data and coding in research and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dr Arild Stenberg]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/dr-arild-stenberg/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/dr-arild-stenberg/"/>
-        <updated>2022-11-01T08:07:28.000Z</updated>
-        <summary type="html"><![CDATA[Arild's background combines experience as a composer and conductor with a more recent focus on research in music psychology and music cognition. As a composer, he was always interested in the effect of notational choices on performance and had already started to explore how the design of a musical text affected practice and rehearsal. After]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carleigh Morgan]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/carleigh-morgan/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/carleigh-morgan/"/>
-        <updated>2022-11-01T08:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Carleigh Morgan is a Trinity College Research Scholar, Fulbright Scholar (2013-2014) and first-generation PhD candidate in Film and Screen Studies at the University of Cambridge. Her doctoral thesis explores the relationship between cinematic labour and cinematic materiality through the lens of animated filmmaking, owing to its propensity for self-reflexive mediation—across a range of genres, mediums,]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estara Arrant]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/estara-arrant/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/estara-arrant/"/>
-        <updated>2022-11-01T08:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Dr Estara Arrant is a Postdoctoral Research Associate based at the Cambridge University Library in the Taylor-Schechter Genizah Research Unit. She works on the ERC-funded project TEXTEVOLVE: A New Approach to the Evolution of Texts Based on the Manuscripts of the Targums, where she analyses the history of Aramaic translations of the Bible using bioinformatic]]></summary>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>
