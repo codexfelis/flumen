@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-05-02T08:03:48.404Z</updated>
+    <updated>2023-05-03T08:04:06.194Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Guide for Using the New Testament Virtual Manuscript Room (Part 2)]]></title>
+        <id>http://digitalorientalist.com/?p=10537</id>
+        <link href="https://digitalorientalist.com/2023/05/02/a-guide-for-using-the-new-testament-virtual-manuscript-room-part-2/"/>
+        <updated>2023-05-02T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post on how to use the New Testament Virtual Manuscript Room (NTVMR), I walked through the process …]]></summary>
+        <author>
+            <name>Zach Butler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI May Virtual Coffee Morning]]></title>
+        <id>1645 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-may-virtual-coffee-morning"/>
+        <updated>2023-05-02T15:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Date: 
+
+31 May 2023
+
+
+Location: 
+
+Zoom
+
+
+
+Duration: 10:00 am to 10:30 am]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing a New CLARIN Resource Family: Corpus Query Tools]]></title>
+        <id>5908 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/introducing-new-clarin-resource-family-corpus-query-tools"/>
+        <updated>2023-05-02T11:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Introducing a New CLARIN Resource Family: Corpus Query Tools
+
+            
+
+
+Written by Martin Wynne, Lancaster University, recipient of the CLARIN Resource Families Project Funding initiative.
+The CLARIN Resource Families (CRF) provide user-friendly overviews of available language resources in the CLARIN infrastructure for researchers from the digital humanities, social sciences and human language technologies. Many CRF are datasets of various types, but an increasing number now focus on software applications and tools.
+ 
+The new Corpus Query Resource Family is for software applications which allow searching, exploring, analysing and visualising linguistic corpora and texts. Text and corpus analysis lie at the heart of digital scholarship in the humanities and social sciences, and a wide range of software tools are available in this domain. These software tools represent prime examples of the ways in which language technologies can support research across a range of disciplines, and they are therefore central to CLARIN’s mission.
+ 
+The Corpus Query Resource Family includes both applications for installation on the users' own computer (desktop) and those accessible via a web browser (online), with some key information to help users to find them and choose the appropriate tool for their particular research goal. Corpus Query Tools are defined here as ones that allow the user to search and explore a text or corpus, and can produce concordances, wordlists and other means of understanding the the texts, such as concordances, clusters and keywords.
+ 
+Resource Families include all tools in this domain which are useful to researchers (not only 'CLARIN tools'), so please get in touch if your favourite software application or online interface is not yet included. For comments, changes or additions, please email resource-families@clarin.eu.
+ 
+More information:
+CLARIN Resource Families
+CLARIN Café on Online and Desktop Tools for Querying a Language Corpus 
+Blog post about the Café
+
+      Elisa Gorgaini
+ 2 May 2023]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1661 – Arts and sciences : chemistry. (Video Orientation)]]></title>
         <id>http://schoenberginstitute.org/?p=17658</id>
@@ -10021,61 +10082,6 @@ Image for Left Column:]]></summary>
         <summary type="html"><![CDATA[Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, in addition to short invited talks and presentations on topics decided by the]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build a community of collaborative transcription? Feed-back from an on-going project]]></title>
-        <id>http://digitalorientalist.com/?p=9066</id>
-        <link href="https://digitalorientalist.com/2022/11/04/how-to-build-a-community-of-collaborative-transcription-feed-back-from-an-on-going-project/"/>
-        <updated>2022-11-04T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[(Part 1) For my first post here on African studies and the use of digital tools, I’ll talk about my …]]></summary>
-        <author>
-            <name>Anaïs Wion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NORF National Action Plan and Projects' Launch Event]]></title>
-        <id>1579 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/norf-national-action-plan-and-projects-launch-event"/>
-        <updated>2022-11-04T10:50:32.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-21 Nov 2022
-
-
-Location: 
-
-Online
-
-
-
-The National Open Research Forum (NORF) is delighted to announce an online event on 21 November 2022 to launch Ireland’s National Action Plan for Open Research 2022-2030 and projects funded by the NORF 2022 Open Research Fund.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achievements | Honors, appointments, publications for Nov. 4]]></title>
-        <id>2662 at https://cdrh.unl.edu</id>
-        <link href="https://cdrh.unl.edu/achievements-honors-appointments-publications-nov-4"/>
-        <updated>2022-11-04T05:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: 
-
-
-
-
-Link: 
-
-Achievements | Honors, appointments, publications for Nov. 4
-
-
-
-Recent achievements for the campus community were earned by Sasitharan Balasubramaniam, Frederick Bliss, Richard DeFusco, Nicole Gray, Priscilla Grew, Holly Hatton-Bowers, Charles William Stuber and Kristy Weissling.
-Honors
-
-Frederick A. Bliss and Charles William Stuber, received the Department of Agronomy and Horticulture 2022 Alumni Lifetime Achievement Award. This award is the highest honor bestowed upon graduates of the Department of Agronomy and Horticulture who have made significant contributions to their community, state and nation through professional service, public service and/or civic engagement. Stuber is considered a pioneer of quantitative genetic mapping and marker-assisted selection in maize…]]></summary>
-        <author>
-            <name>Anonymous</name>
         </author>
     </entry>
     <entry>
