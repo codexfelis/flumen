@@ -1887,6 +1887,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/897",
+          "author": "434",
+          "description": "Die Philosophische Fakultät und Fachbereich Theologie besetzt im Department Digital Humanities and Social Studies zum frühestmöglichen Zeitpunkt eine\nW1-Professur für Digitale…",
+          "link": "https://dig-hum.de/aktuelles/w1-professur-f%C3%BCr-digitale-literatur-und-methoden-tenure-track-friedrich-alexander",
+          "publishedOn": "2023-05-05T08:03:05.011Z",
+          "wordCount": 1249,
+          "title": "W1-Professur für Digitale Literatur und Methoden (Tenure Track) Friedrich-Alexander-Universität Erlangen-Nürnberg"
+        },
+        {
           "id": "node/896",
           "author": "434",
           "description": "Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto \"Anything Goes?!\" vom 4. bis 6. Oktober 2023 in Tübingen statt. \nDer Call for Papers für die …",
@@ -2110,15 +2119,6 @@
           "publishedOn": "2022-11-11T20:04:29.000Z",
           "wordCount": null,
           "title": "Call for Hosts DHd2025"
-        },
-        {
-          "id": "node/867",
-          "author": "434",
-          "description": "An der Fachhochschule Potsdam wird im Fachbereich Design zum 01.01.2023 ein*e\nAkademische*r Mitarbeiter*in (w/m/d) im Fachbereich Design (13 TV-L) mit einer wöchentlichen…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-akademischer-mitarbeiterin-wmd-im-fachbereich-design-fachhochschule-potsdam",
-          "publishedOn": "2022-11-06T11:46:10.000Z",
-          "wordCount": 1201,
-          "title": "Stellenangebot: Akademische*r Mitarbeiter*in (w/m/d) im Fachbereich Design, Fachhochschule Potsdam (Bewerbungsfrist 25.11.2022)"
         }
       ]
     },
@@ -7921,6 +7921,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=13116",
+          "author": "Melanie Cheung",
+          "description": "SCONUL and RLUK welcomed the recent announcement of an agreement with Springer Nature1 as the best outcome that could reasonably have been achieved but are calling on academic colleagues to work with the library community to deliver the cultural shift needed to make academic publishing sustainable and affordable. The deal is the result of detailed, [...]\nThe post Libraries call on academic colleagues to help shift to full open academic publishing appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/libraries-call-on-academic-colleagues-to-help-shift-to-full-open-academic-publishing/",
+          "publishedOn": "2023-05-04T10:20:24.000Z",
+          "wordCount": 1655,
+          "title": "Libraries call on academic colleagues to help shift to full open academic publishing"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=13104",
           "author": "Melanie Cheung",
