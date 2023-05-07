@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-05-06T08:03:33.261Z</updated>
+    <updated>2023-05-07T08:04:07.744Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -1504,6 +1504,16 @@ The post How to digitise archival materials with Transkribus appeared first on R
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1659, a 16th century manuscript written in Ladino (aka Judeo-Spanish or Sephardi, a Romance language written using the Hebrew alphabet and spoken by Sephardic Jews), removed from a larger volume. You can read the complete recordContinue reading "Manuscript Monday: Ms. Codex 1659 – Ladino manuscript. (Video Orientation)"]]></summary>
         <author>
             <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/videos/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/videos/"/>
+        <updated>2023-04-03T09:27:22.000Z</updated>
+        <summary type="html"><![CDATA[Watch our latest videos here.]]></summary>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -9811,97 +9821,6 @@ Continue reading “The Digital Humanities journey of Sara Cosemans: using digit
 Seán Cubitt – The Vancouver Abstraction first appeared on Digital Democracies Institute.]]></summary>
         <author>
             <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACH Professional Development Series 22-23]]></title>
-        <id>https://ach.org/?p=2425</id>
-        <link href="https://ach.org/blog/2022/11/08/ach-professional-development-series-22-23/"/>
-        <updated>2022-11-08T18:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Making DH Work for Us: Labor, Care, and Careers How do your digital humanities interests, experiences, and aspirations connect to careers within and beyond higher ed? The answer to that question will vary, depending on who you are and what you’d like to do with your DH knowledge. Join ACH Council representatives with a range…Continue reading.]]></summary>
-        <author>
-            <name>jwoowinter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training Funding: Data Science Certificate Tuition Support Available]]></title>
-        <id>https://dhn.utoronto.ca/?p=6894</id>
-        <link href="https://dhn.utoronto.ca/training-funding-data-science-certificate-tuition-support-available/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=training-funding-data-science-certificate-tuition-support-available"/>
-        <updated>2022-11-08T18:40:39.000Z</updated>
-        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) is pleased to support our members in Data Sciences training through the University of Toronto Data Sciences Institute (DSI) Data Sciences Certificate Program. The […]]]></summary>
-        <author>
-            <name>Astrid Chandler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Funding: Critical DH Training Bursaries]]></title>
-        <id>https://dhn.utoronto.ca/?p=6892</id>
-        <link href="https://dhn.utoronto.ca/call-for-funding-critical-dh-training-bursaries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=call-for-funding-critical-dh-training-bursaries"/>
-        <updated>2022-11-08T18:36:10.000Z</updated>
-        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI), a University of Toronto strategic initiative, supports trans-disciplinary collaborations that emphasize questions of power, social justice, and critical theory in digital humanities research. Our vision […]]]></summary>
-        <author>
-            <name>Astrid Chandler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing…. Sherman Lo]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=2849</id>
-        <link href="https://livingwithmachines.ac.uk/introducing-sherman-lo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introducing-sherman-lo"/>
-        <updated>2022-11-08T15:24:28.000Z</updated>
-        <summary type="html"><![CDATA[We’ve asked each member of the Living with Machines team to introduce themselves in their initial blog post.]]></summary>
-        <author>
-            <name>Léllé Demertzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Testament Greek Manuscripts In Your Pocket: The NT Greek MSS iOS App]]></title>
-        <id>http://digitalorientalist.com/?p=9102</id>
-        <link href="https://digitalorientalist.com/2022/11/08/new-testament-greek-manuscripts-in-your-pocket-the-nt-greek-mss-ios-app/"/>
-        <updated>2022-11-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The H. Milton Haggard Center for New Testament Textual Studies (CNTTS) is involved in several projects in the field of …]]></summary>
-        <author>
-            <name>Zach Butler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tristan Dot]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/tristan-dot/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/tristan-dot/"/>
-        <updated>2022-11-08T12:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Coming from a double background in machine learning and in art history, Tristan analyses, during his PhD, the links between the formalist school, in art history, and the way computers understand images. After studies in Paris, in mathematics applied to machine learning, and in art history, Tristan now tries to link these two fields together]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Data School June 2022]]></title>
-        <id>https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/social-data-school-2022/</id>
-        <link href="https://www.cdh.cam.ac.uk/learning/dataschools/past-data-schools/social-data-school-2022/"/>
-        <updated>2022-11-08T10:16:21.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigating the Evolution of Twenty-First Century Pop Culture Using Digital Humanities Techniques]]></title>
-        <id>https://review.gale.com/?p=13762</id>
-        <link href="https://review.gale.com/2022/11/08/investigating-the-evolution-of-twenty-first-century-pop-culture-using-digital-humanities-techniques/"/>
-        <updated>2022-11-08T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[| By James Carney, Senior Gale Ambassador at King’s College London | Since the new millennium’s infancy, popular culture and famous lifestyles have captivated the public to an ever greater extent. From the emergence of social media, to the escapism provided from global crises or even the marketability of celebrities in late stage capitalism, the ... Read more
-The post Investigating the Evolution of Twenty-First Century Pop Culture Using Digital Humanities Techniques appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Ambassadors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigating the Evolution of Twenty-First Century Pop Culture Using Digital Humanities Techniques]]></title>
-        <id>https://review.gale.com/?p=13762</id>
-        <link href="https://review.gale.com/2022/11/08/investigating-the-evolution-of-twenty-first-century-pop-culture-using-digital-humanities-techniques/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=investigating-the-evolution-of-twenty-first-century-pop-culture-using-digital-humanities-techniques"/>
-        <updated>2022-11-08T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[| By James Carney, Senior Gale Ambassador at King’s College London | Since the new millennium’s infancy, popular culture and famous lifestyles have captivated the public to an ever greater extent. From the emergence of social media, to the escapism provided from global crises or even the marketability of celebrities in late stage capitalism, the ... Read more
-The post Investigating the Evolution of Twenty-First Century Pop Culture Using Digital Humanities Techniques appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Ambassadors</name>
         </author>
     </entry>
     <entry>
