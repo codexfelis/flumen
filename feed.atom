@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-05-07T08:04:07.744Z</updated>
+    <updated>2023-05-08T08:04:04.796Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Updated harvest of NSW State Archives indexes – more than 2 million rows of data!]]></title>
+        <id>http://wragge.micro.blog/2023/05/08/updated-harvest-of.html</id>
+        <link href="https://updates.timsherratt.org/2023/05/08/updated-harvest-of.html"/>
+        <updated>2023-05-08T02:25:09.000Z</updated>
+        <summary type="html"><![CDATA[The NSW State Archives (now part of Museums of History NSW) publishes a series of useful indexes to its collections. The indexes include basic data transcribed from the records, such as names, dates, and places, providing fine-grained access to the collections. But when they’re explored as data, the indexes also suggest new ways of analysing, visualising, and linking sets of records. (For some of the possibilities and challenges of using this sort of data see Missing Links: Data Stories from the Archive of British Settler Colonial Citizenship).
+In 2016, I started harvesting the index data from the NSW State Archives website to make each dataset available as an easily downloadable CSV file. In 2019, changes to the website made it impossible to access the complete indexes, so I was unable to…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join or Nominate Someone for the ADHO Executive Board and Committees]]></title>
         <id>https://adho.org/?p=1962</id>
@@ -9727,16 +9738,6 @@ The post ACDH-CH offering internship positions appeared first on dhCenter.]]></s
     </entry>
     <entry>
         <title type="html"><![CDATA[The Cambridge Data Schools Expand]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/blog/the-cambridge-data-schools-expand/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/the-cambridge-data-schools-expand/"/>
-        <updated>2022-11-09T18:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Data Schools at the University of Cambridge started in 2019, with the aim of putting research methods and tools in the hands of practitioners in the Galleries, Libraries, Archives, and Museums (GLAM) sector, journalists, and NGOs. A very important part was to ​​encourage dialogue between academia, civil society, the public sector and industry about the]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cambridge Data Schools Expand]]></title>
         <id>https://www.cdh.cam.ac.uk/?p=35713</id>
         <link href="https://www.cdh.cam.ac.uk/media/blog/the-cambridge-data-schools-expand/"/>
         <updated>2022-11-09T18:13:19.000Z</updated>
@@ -9744,83 +9745,6 @@ The post ACDH-CH offering internship positions appeared first on dhCenter.]]></s
 The post The Cambridge Data Schools Expand first appeared on CDH.]]></summary>
         <author>
             <name>Heather Stallard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE SOUND OF DATA – Science meets Music]]></title>
-        <id>4273 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/sound-data-science-meets-music"/>
-        <updated>2022-11-09T16:52:25.000Z</updated>
-        <summary type="html"><![CDATA[For the Sound of Data project, Luxembourg researchers collected scientific data, which was then used by local and international musicians and composers to produce music during an artist residency under the supervision of Valery Vermeulen. You can discover the outcome of this creative and innovative process and see the musicians perform live on stage on December 3, along with Valery Vermeulen and headliner Max Cooper, a leading figure in electronica, who will present his new album in an immersive live show!
-The program of the evening comprises two parts:
-Part 1: The Sound of Data – Official Closing Conference
-Saturday 3 December 2022 – 17:45-19:30
-Rockhal – Esch/Alzette (LUX)
-Book your seat here
-(N.B. registration required due to limited capacity!)           
- 
-Program of the evening:
-17:45 – Welcome by Ms. Sam Tanson, Minister for Culture, and by the four project partners
-18:05 – Fireside Chat with Max Cooper, followed by Q/A
-18:40 – Roundtable Discussion with Valery Vermeulen, Pol Belardi, Catherine Elsen, Djamila
-Aoada and Oliver Glassl
-19:25 – Final words by Nancy Braun, General Director of Esch2022
-19h30 – Networking drinks
- 
-Part 2: The Sound of Data – Final Show
-Saturday 3 December 2022 – Doors: 19:30
-Rockhal – Esch/Alzette (LUX)
-Ticketing: rockhal.lu/agenda
-Line up
-The Sound of Data artists
-Showcase of the 11 compositions of the artists in residence
-All Reitz Reserved, Catherine Elsen, Hester-1, Mike von der Nahmer, Pol Belardi, Slumbergaze, SpudBencer, Tessy Troes, Theerens Cousins, Timelord, Virgilio Fernandez
-Valery Vermeulen
-Performance of his original commissioned piece for the Sound of Data project
-Max Cooper
-Immersive live show from his latest album Unspoken words
-3 December 2022
-  Public history
-  Data Science  Design  Digitisation  History of technology  Industrial history  Sensory studies  Sound studies
-  Conferences
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Stefan Krebs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Digital Humanities journey of Sara Cosemans: using digital research methods to deal with information overload]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1527</id>
-        <link href="https://scholarlytales.hcommons.org/2022/11/09/the-digital-humanities-journey-of-sara-cosemans-using-digital-research-methods-to-deal-with-information-overload/"/>
-        <updated>2022-11-09T10:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Sara Cosemans is a Doctor Assistant in Cultural History at KU Leuven and a part-time Assistant Professor in the School of Social Sciences at the UHasselt. She developed this digital method during her PhD at KU Leuven, together with data scientists…
-
-Continue reading “The Digital Humanities journey of Sara Cosemans: using digital research methods to deal with information overload”…]]></summary>
-        <author>
-            <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1940/41: Alex Bonn et la situation des juifs persécutés au Luxembourg]]></title>
-        <id>4272 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/194041-alex-bonn-et-la-situation-des-juifs-persecutes-au-luxembourg"/>
-        <updated>2022-11-09T08:16:52.000Z</updated>
-        <summary type="html"><![CDATA[Le nombre des juifs vivant au Luxembourg en mai 1940 n’est pas connu avec exactitude. Il est généralement admis qu’en 1940 3.500 à 4.000 personnes de confession israélite vivaient au Luxembourg, des citoyens luxembourgeois, mais aussi un grand nombre de juifs de nationalité étrangère ou apatrides. Environ 3.000 juifs quitteront le Luxembourg entre le 10 mai 1940 et la veille du premier convoi de déportation en Europe de l’Est, le 15 octobre 1941. L’occupation allemande au 10 mai 1940 signifia la fin de l’Etat de droit luxembourgeois. Le Gauleiter du Gau de Coblence‐Trèves, Gustav Simon, fut nommé par décision du Führer chef de l’administration civile pour le territoire luxembourgeois (CdZ) au mois de juillet 1940. Ce fut sous sa responsabilité que les mesures qui allaient bientôt toucher l…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seán Cubitt – The Vancouver Abstraction]]></title>
-        <id>https://digitaldemocracies.org/?p=4624</id>
-        <link href="https://digitaldemocracies.org/sean-cubitt-the-vancouver-abstraction/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sean-cubitt-the-vancouver-abstraction"/>
-        <updated>2022-11-08T22:57:11.000Z</updated>
-        <summary type="html"><![CDATA[This response to Seán Cubitt’s presentation as part of our Summer Speaker Series was written by Dr. Alberto Lusoli, post-doctoral fellow at the Digital Democracies Institute. Invented in 1994 by …
-  Seán Cubitt – The Vancouver Abstraction Read More »
-Seán Cubitt – The Vancouver Abstraction first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Kayla Hilstob</name>
         </author>
     </entry>
     <entry>
