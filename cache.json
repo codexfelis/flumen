@@ -308,6 +308,15 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=1992",
+          "author": "Erdal Ayan",
+          "description": "Episode 4 of ADHO Podcast is on air. This time we hosted Jonathan Giron Palau from La Red de Humanidades Digitales (Red_HD).You can listen the episode on SoundCloud or on ADHO.",
+          "link": "https://adho.org/2023/05/09/adho-podcast-episode-4-is-on-air/",
+          "publishedOn": "2023-05-09T14:34:53.000Z",
+          "wordCount": 133,
+          "title": "ADHO Podcast, Episode 4 is on air."
+        },
+        {
           "id": "https://adho.org/?p=1972",
           "author": "Alexandra Núñez",
           "description": "English | Español | Italiano | Türkçe 数字人文组织联盟的 交叉性融合工作组（最初是反种族主义工作组）的出现，是为了解决​​数字人文组织联盟内部以及与其活动相关的更广泛的数字人文社区的系统性不平等问题。* 这些问题包括但不限于种族、阶级、性别、健全、种姓、部落、性取向、国籍、地理位置、宗教、健康、语言或其他社会类别。它们往往因当前全球背景下无限制的技术实证主义而变得更加严重。特别工作组延伸和扩大了由 “黑人的命也是命”、”结构性种族主义 “和 “建制暴力 “声明发起的对话，并试图承认、倾听和理解那些被边缘化的人、组织和社区的（声音。工作组的成员代表了来自不同地点和实践社区的数字人文学科。工作组成员的生活经历和立场截然不同但又相辅相成，这促使我们在数字媒介空间内外倡导一种自我反思和批判性的公平、多样性和包容原则、反歧视和社会正义事业。 交叉性融合工作组的目标包括： 了解更多关于交叉性融合工作组的信息。 我们正在征求全球数字人文社区的意见。问题、评论和想法可以发到 edi@adho.org。 __________  *数字人文组织联盟的主要活动是举办国际DH会议，赞助期刊，并提供奖励和助学金",
@@ -691,6 +700,105 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=126583",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The latest issue of Reviews in Digital Humanities (vol 4, no 4, April 2023) has been released. This issue features projects that were sourced from their open submission process. This issue’s Editors’ Note highlights the role the reviewers have in the journal and their philosophy towards review., from the piece:  We’ve been fortunate that all ...read more",
+          "link": "https://dhandlib.org/2023/05/08/recommended-reviews-in-digital-humanities-vol-4-4/?utm_source=rss&utm_medium=rss&utm_campaign=recommended-reviews-in-digital-humanities-vol-4-4",
+          "publishedOn": "2023-05-08T23:46:44.000Z",
+          "wordCount": 689,
+          "title": "RECOMMENDED: Reviews in Digital Humanities, Vol. 4.4"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126585",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The Roy Rosenzweig Center for History and New Media’s American Religious Ecologies project has received another grant to continue the work, focusing on the 1926 Census of Religious Bodies. The materials are an important source of information about American religious institutions and the project is working on transcribing them into datasets that can be used ...read more",
+          "link": "https://dhandlib.org/2023/05/08/project-religious-ecologies/?utm_source=rss&utm_medium=rss&utm_campaign=project-religious-ecologies",
+          "publishedOn": "2023-05-08T23:45:37.000Z",
+          "wordCount": 619,
+          "title": "PROJECT: Religious Ecologies"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126588",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "A recent piece in Nightingale “Touching Data: Conducting a Survey With Paper and Thread” explores using physical data methods to collect survey results. This process also resulted instant visualization of the results. While this survey was not on a humanities specific topic, this method could provide interesting new ways to engage patrons with humanities data questions. ...read more",
+          "link": "https://dhandlib.org/2023/05/08/post-touching-data-conducting-a-survey-with-paper-and-thread/?utm_source=rss&utm_medium=rss&utm_campaign=post-touching-data-conducting-a-survey-with-paper-and-thread",
+          "publishedOn": "2023-05-08T23:44:41.000Z",
+          "wordCount": 645,
+          "title": "POST: Touching Data: Conducting a Survey With Paper and Thread"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126590",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The Scholarly API Cookbook is an open online book containing short scholarly API code examples (i.e., “recipes”) that demonstrate how to work with various scholarly web service APIs. It is part of the University of Alabama Libraries efforts to support Research Data Services and covers a variety of APIs, like Wikidata, Chronicaling America, and U.S. ...read more",
+          "link": "https://dhandlib.org/2023/05/08/resource-scholarly-api-cookbook/?utm_source=rss&utm_medium=rss&utm_campaign=resource-scholarly-api-cookbook",
+          "publishedOn": "2023-05-08T23:43:51.000Z",
+          "wordCount": 618,
+          "title": "RESOURCE: Scholarly API Cookbook"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126630",
+          "author": "Claudia Berger",
+          "description": "Jupyter notebooks for digital humanities is a list compiled by Quinn Dombrowski of Jupyter notebooks covering research, course materials, learning python, as well as specific forms of analysis. There are notebooks available in English, German, Spanish and French. The list was started in 2019, but was most recently updated in April 2023, making this a ...read more",
+          "link": "https://dhandlib.org/2023/05/08/resource-jupyter-notebooks-for-digital-humanities/?utm_source=rss&utm_medium=rss&utm_campaign=resource-jupyter-notebooks-for-digital-humanities",
+          "publishedOn": "2023-05-08T23:43:14.000Z",
+          "wordCount": 645,
+          "title": "RESOURCE: Jupyter notebooks for digital humanities"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126632",
+          "author": "Claudia Berger",
+          "description": "The Library of Congress By The People project has released two new datasets from its crowdsourced transcription campaigns, the correspondence of Georgia O’Keeffe and Alfred Stieglitz and the notebooks of Frederick Hockley. The O’Keeffe/Stieglitz dataset includes over 500 letters they wrote between 1929-1947 to their friend Henwar Rodakiewicz, a documentary filmmaker. The digital collection of ...read more",
+          "link": "https://dhandlib.org/2023/05/08/resource-loc-by-the-people-transcription-datasets/?utm_source=rss&utm_medium=rss&utm_campaign=resource-loc-by-the-people-transcription-datasets",
+          "publishedOn": "2023-05-08T23:43:12.000Z",
+          "wordCount": 673,
+          "title": "RESOURCE: LOC By The People Transcription Datasets"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126628",
+          "author": "Claudia Berger",
+          "description": "“Overcoming Legal Barriers to Text and Data Mining” hosted by ACH on May 15 at 1pm EST is a free webinar open that is open to ACH-members and non-members. From the event description: This webinar is meant to help researchers understand how existing law can help them move forward on text and data mining projects ...read more",
+          "link": "https://dhandlib.org/2023/05/08/event-overcoming-legal-barriers-to-text-and-data-mining/?utm_source=rss&utm_medium=rss&utm_campaign=event-overcoming-legal-barriers-to-text-and-data-mining",
+          "publishedOn": "2023-05-08T23:42:51.000Z",
+          "wordCount": 845,
+          "title": "EVENT: Overcoming Legal Barriers to Text and Data Mining"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126626",
+          "author": "Claudia Berger",
+          "description": "Registration is now open for the first annual wikihistories symposium: Wikipedia and its implications for memory (and forgetting), a free virtual conference that will be re-run across a number of time zones between June 7th and June 9th to best accommodate registrants around the world. The symposium will feature keynotes by Dr. Shira Klein, author of ...read more",
+          "link": "https://dhandlib.org/2023/05/08/event-wikihistories2023-wikipedia-and-its-implications-for-memory-and-forgetting/?utm_source=rss&utm_medium=rss&utm_campaign=event-wikihistories2023-wikipedia-and-its-implications-for-memory-and-forgetting",
+          "publishedOn": "2023-05-08T23:42:41.000Z",
+          "wordCount": 844,
+          "title": "EVENT: wikihistories2023 Wikipedia and its implications for memory (and forgetting)"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126622",
+          "author": "Claudia Berger",
+          "description": "Adventures in handwriting recognition with Transkribus – experimentation with archives in Aotearoa New Zealand (May 9th 11 am AEST) is a free online event that explores a number of handwriting transcription projects and new features of Transkribus. The talk will feature Vivienne Cuff, an archivist based at the Dunedin Regional Office of Archives New Zealand, ...read more",
+          "link": "https://dhandlib.org/2023/05/08/event-adventures-in-handwriting-recognition-with-transkribus/?utm_source=rss&utm_medium=rss&utm_campaign=event-adventures-in-handwriting-recognition-with-transkribus",
+          "publishedOn": "2023-05-08T23:41:51.000Z",
+          "wordCount": null,
+          "title": "EVENT: Adventures in handwriting recognition with Transkribus"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126620",
+          "author": "Claudia Berger",
+          "description": "ACH 2023 focuses on equity and justice in digital humanities scholarship, choosing to highlight the sociopolitical aspects of the work in the place of a formal theme. The keynote will be a roundtable focusing on accessibility and digital scholarship. Registration is now open. The conference will be held virtually from June 29-July 1.",
+          "link": "https://dhandlib.org/2023/05/08/event-ach-2023/?utm_source=rss&utm_medium=rss&utm_campaign=event-ach-2023",
+          "publishedOn": "2023-05-08T23:41:38.000Z",
+          "wordCount": 606,
+          "title": "EVENT: ACH 2023"
+        },
+        {
+          "id": "https://dhandlib.org/?p=126624",
+          "author": "Claudia Berger",
+          "description": "Coalition of Networked Information (CNI) is inviting people from its member institutions to a webinar on May 24 from 1-2:30 EST, “Directions in Digital Scholarship: Support for Digital, Data-Intensive, and Computational Research: What’s Next?” This talk will explore campus partnerships, communication, reorganization of library units, and policy development and strategies around current societal issues. From ...read more",
+          "link": "https://dhandlib.org/2023/05/08/event-directions-in-digital-scholarship/?utm_source=rss&utm_medium=rss&utm_campaign=event-directions-in-digital-scholarship",
+          "publishedOn": "2023-05-08T23:41:00.000Z",
+          "wordCount": null,
+          "title": "EVENT: Directions in Digital Scholarship"
+        },
         {
           "id": "https://dhandlib.org/?p=126444",
           "author": "Linsey Ford",
@@ -1491,105 +1599,6 @@
           "publishedOn": "2022-12-01T15:45:48.000Z",
           "wordCount": null,
           "title": "JOB: Digital Collections Librarian (Dartmouth College)"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125019",
-          "author": "Pamella Lach",
-          "description": "The Data Literacy Cookbook is now available. Edited by Kelly Getz (Associate Professor and S.T.E.M. Librarian at Eastern Michigan University) and Meryl Brodsky (Liaison Librarian for the School of Information and the Moody College of Communication at the University of Texas – Austin), the cookbook helps librarians prepare to teach a broad range of data ...read more",
-          "link": "https://dhandlib.org/2022/11/11/resource-data-literacy-cookbook/?utm_source=rss&utm_medium=rss&utm_campaign=resource-data-literacy-cookbook",
-          "publishedOn": "2022-11-11T16:21:30.000Z",
-          "wordCount": 655,
-          "title": "RESOURCE: Data Literacy Cookbook"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125026",
-          "author": "Pamella Lach",
-          "description": "AEOLIAN (Artificial Intelligence for Cultural Organisations) will offer an upcoming online workshop, Making More Sense With Machines: AI/ML Methods for Interrogating and Understanding Our Textual Heritage in the Humanities, Natural Sciences, and Social Sciences. Hosted by University of Illinois and the HathiTrust Research Center, this workshop will be held November 29-30 from 10am – 2pm ...read more",
-          "link": "https://dhandlib.org/2022/11/11/event-making-more-sense-with-machines/?utm_source=rss&utm_medium=rss&utm_campaign=event-making-more-sense-with-machines",
-          "publishedOn": "2022-11-11T16:19:51.000Z",
-          "wordCount": 857,
-          "title": "EVENT: Making More Sense With Machines"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125024",
-          "author": "Pamella Lach",
-          "description": "Organized by the University of London’s School of Advance Study, Reframing Failure: Setting the Failure Agenda is a free virtual seminar being held on November 15 (5:00pm GMT). From the event page: In 2012 Lisa Spiro wrote, ‘Not all experiments succeed as originally imagined, but the digital humanities community recognizes the value of failure in ...read more",
-          "link": "https://dhandlib.org/2022/11/11/event-reframing-failure-setting-the-failure-agenda/?utm_source=rss&utm_medium=rss&utm_campaign=event-reframing-failure-setting-the-failure-agenda",
-          "publishedOn": "2022-11-11T16:19:08.000Z",
-          "wordCount": 809,
-          "title": "EVENT: Reframing Failure: Setting the Failure Agenda"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125022",
-          "author": "Pamella Lach",
-          "description": "The Building Digital Humanities Symposium is a free, online event organized by Western Sydney University in conjunction with Gale, part of Cengage Group and the Pondicherry University and running November 7-25. The symposium “will explore the conditions in which Digital Humanities (DH) can flourish at institutional, inter-institutional, national and supra-national level, considering issues such as ...read more",
-          "link": "https://dhandlib.org/2022/11/11/event-building-digital-humanities-symposium/?utm_source=rss&utm_medium=rss&utm_campaign=event-building-digital-humanities-symposium",
-          "publishedOn": "2022-11-11T16:18:27.000Z",
-          "wordCount": 756,
-          "title": "EVENT: Building Digital Humanities Symposium"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125031",
-          "author": "Pamella Lach",
-          "description": "The Coalition for Networked Information (CNI) announced its call for its February 2023 pre-recorded project briefings. From the call: Videos should focus on a timely topic or on a specific project related to digital information. We especially invite briefings on recently published reports, and updates on new or ongoing projects, programs, or organizations that may have reported ...read more",
-          "link": "https://dhandlib.org/2022/11/11/cfp-cni-pre-recorded-project-briefing-series/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-cni-pre-recorded-project-briefing-series",
-          "publishedOn": "2022-11-11T16:17:44.000Z",
-          "wordCount": 723,
-          "title": "CFP: CNI Pre-Recorded Project Briefing Series"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125037",
-          "author": "Rachel Starry",
-          "description": "Guest editors Lorena Gauthereau, Marissa K. López, and Maira E. Álvarez, welcome submissions for a special issue of Chiricú Journal: Latina/o Literatures, Arts, and Cultures, on the topic of “Latinx Digital Humanities: Method, Theory, and Praxis.” From the announcement: This special issue will bring together critical essays, snapshots from the field (e.g. reports, descriptions of ...read more",
-          "link": "https://dhandlib.org/2022/11/11/cfp-latinx-digital-humanities-method-theory-and-praxis/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-latinx-digital-humanities-method-theory-and-praxis",
-          "publishedOn": "2022-11-11T16:16:59.000Z",
-          "wordCount": 651,
-          "title": "CFP: Latinx Digital Humanities: Method, Theory, and Praxis"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125039",
-          "author": "Rachel Starry",
-          "description": "The The Journal of Interactive Technology and Pedagogy (JITP) is seeking new members to join their Editorial Collective as the JITP team prepares to migrate the journal’s production and publication process to Manifold. The announcement welcomes applications from a variety of DH and library practitioners interested in gaining experience with academic editorship: We invite applications from graduate ...read more",
-          "link": "https://dhandlib.org/2022/11/11/opportunity-journal-of-interactive-technology-and-pedagogy-editorial-collective/?utm_source=rss&utm_medium=rss&utm_campaign=opportunity-journal-of-interactive-technology-and-pedagogy-editorial-collective",
-          "publishedOn": "2022-11-11T16:15:25.000Z",
-          "wordCount": 754,
-          "title": "OPPORTUNITY: Journal of Interactive Technology and Pedagogy Editorial Collective"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125041",
-          "author": "Rachel Starry",
-          "description": "From the announcement: The Web and Data Services Developer designs, develops, and maintains custom web-based and other applications in support of Digital Humanities research and pedagogy at SFU. The position adapts and extends existing open-source software across a variety of platforms, frameworks, and languages. The position works with faculty and others to determine the most ...read more",
-          "link": "https://dhandlib.org/2022/11/11/job-web-and-data-services-developer-simon-fraser-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-web-and-data-services-developer-simon-fraser-university",
-          "publishedOn": "2022-11-11T16:14:19.000Z",
-          "wordCount": null,
-          "title": "JOB: Web and Data Services Developer (Simon Fraser University)"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125033",
-          "author": "Pamella Lach",
-          "description": "From the announcement: Bucknell University’s Library and Information Technology division is seeking a Digital Pedagogy & Scholarship Specialist with an emphasis on public scholarship to support our vision of transformative and inclusive digital scholarship. The primary goal of this position is to provide support to campus stakeholders who are working on ​​digital scholarship and pedagogy ...read more",
-          "link": "https://dhandlib.org/2022/11/11/job-digital-pedagogy-scholarship-specialist-in-public-scholarship-bucknell-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-pedagogy-scholarship-specialist-in-public-scholarship-bucknell-university",
-          "publishedOn": "2022-11-11T16:13:15.000Z",
-          "wordCount": null,
-          "title": "JOB: Digital Pedagogy & Scholarship Specialist in Public Scholarship (Bucknell University)"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125043",
-          "author": "Rachel Starry",
-          "description": "From the announcement: Job Description Boston College Libraries seek a Data Visualization Librarian to join our Digital Scholarship Group (DSG). This position is primarily responsible for digital scholarship collaborations and services related to data visualization. Such activities include consulting on faculty and student data-visualization projects; providing data visualization skills training to faculty and staff; and providing ...read more",
-          "link": "https://dhandlib.org/2022/11/11/job-data-visualization-librarian-boston-college/?utm_source=rss&utm_medium=rss&utm_campaign=job-data-visualization-librarian-boston-college",
-          "publishedOn": "2022-11-11T16:12:19.000Z",
-          "wordCount": null,
-          "title": "JOB: Data Visualization Librarian (Boston College)"
-        },
-        {
-          "id": "https://dhandlib.org/?p=125016",
-          "author": "Pamella Lach",
-          "description": "From the announcement: The Michigan State University Libraries seeks a creative, knowledgeable, and user-oriented librarian for the position of Head of Digital Scholarship Services (Librarian I/II). The successful candidate will lead and build a team of innovative and collaborative professionals in the Libraries’ Digital Scholarship Lab and work closely with campus partners across disciplines in ...read more",
-          "link": "https://dhandlib.org/2022/11/11/job-head-digital-scholarship-services-librarian-michigan-state-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-head-digital-scholarship-services-librarian-michigan-state-university",
-          "publishedOn": "2022-11-11T16:09:55.000Z",
-          "wordCount": null,
-          "title": "JOB: Head, Digital Scholarship Services Librarian (Michigan State University)"
         }
       ]
     },
@@ -2098,6 +2107,24 @@
       "siteUrl": "https://digitaldemocracies.org",
       "articles": [
         {
+          "id": "https://digitaldemocracies.org/?p=4969",
+          "author": "Kayla Hilstob",
+          "description": "This post was written by Sage Hughes, an undergraduate researcher at the Digital Democracies Institute. On November 23, Dr. Angelica Lim presented to the Digital Democracies Institute for the final …\n  Angelica Lim – Machine Learning for HRI: Bridging the Gap between Action and Perception Read More »\nAngelica Lim – Machine Learning for HRI: Bridging the Gap between Action and Perception first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/angelica-lim-machine-learning-for-hri-bridging-the-gap-between-action-and-perception/?utm_source=rss&utm_medium=rss&utm_campaign=angelica-lim-machine-learning-for-hri-bridging-the-gap-between-action-and-perception",
+          "publishedOn": "2023-05-09T19:48:44.000Z",
+          "wordCount": 2031,
+          "title": "Angelica Lim – Machine Learning for HRI: Bridging the Gap between Action and Perception"
+        },
+        {
+          "id": "https://digitaldemocracies.org/?p=4965",
+          "author": "Kayla Hilstob",
+          "description": "This post was written by Amy Harris, PhD Candidate at the School of Communication at SFU, and Project Manager & Researcher at the Digital Democracies Institute. Dr. Rosenthal is an Assistant …\n  Chelsea Rosenthal – Losing Privacy and Living the Sound Bite Life Read More »\nChelsea Rosenthal – Losing Privacy and Living the Sound Bite Life first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/chelsea-rosenthal-losing-privacy-and-living-the-sound-bite-life/?utm_source=rss&utm_medium=rss&utm_campaign=chelsea-rosenthal-losing-privacy-and-living-the-sound-bite-life",
+          "publishedOn": "2023-05-09T19:34:59.000Z",
+          "wordCount": 733,
+          "title": "Chelsea Rosenthal – Losing Privacy and Living the Sound Bite Life"
+        },
+        {
           "id": "https://digitaldemocracies.org/?p=4849",
           "author": "Kayla Hilstob",
           "description": "This was originally posted by Svitlana Matviyenko on the Institute of Network Cultures blog on February 21, 2023. November 13th – December 12th, 2022 At 6am on Sunday, November 13th, I …\n  Dispatches from the Place of Imminence, part 15 Read More »\nDispatches from the Place of Imminence, part 15 first appeared on Digital Democracies Institute.",
@@ -2143,6 +2170,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10531",
+          "author": "The Digital Orientalist",
+          "description": "A quick API solution for a Chinese text classification task– and its limitations. This is a guest post by Tilman …",
+          "link": "https://digitalorientalist.com/2023/05/09/can-i-automate-the-boring-stuff-with-chatgpt/",
+          "publishedOn": "2023-05-09T13:00:00.000Z",
+          "wordCount": 1841,
+          "title": "Can I automate the boring stuff with ChatGPT?"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10556",
           "author": "Lu Wang",
@@ -2592,15 +2628,6 @@
           "publishedOn": "2022-11-15T14:00:00.000Z",
           "wordCount": 1754,
           "title": "eScriptorium: Digital Text Production for Urdu, Hindi, and Bengali Print, part 1"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=9145",
-          "author": "Theodora Zampaki",
-          "description": "This is the second part of an interview with Arezou Azad, Senior Research Fellow at Oxford University’s Faculty of Asian …",
-          "link": "https://digitalorientalist.com/2022/11/11/interview-with-arezou-azad-on-the-invisible-east-programme-and-its-digitisation-of-documents-from-the-medieval-islamicate-east-part-2/",
-          "publishedOn": "2022-11-11T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Interview with Arezou Azad on the Invisible East Programme and its Digitisation of Documents from the Medieval Islamicate East, part 2"
         }
       ]
     },
@@ -3881,6 +3908,15 @@
       "siteUrl": "https://review.gale.com",
       "articles": [
         {
+          "id": "https://review.gale.com/?p=14312",
+          "author": "Gale Review Team",
+          "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ This dataset post is a follow-up to Working with Datasets, a Primer which discussed text datasets of primary sources and explored how to access and work with them in Gale Digital Scholar Lab. Here, we’ll look at the topics of the first eight datasets in the Lab ... Read more\nThe post Digging into Datasets in <i>Gale Digital Scholar Lab</i> appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2023/05/09/digging-into-datasets-in-gale-digital-scholar-lab/",
+          "publishedOn": "2023-05-09T09:00:00.000Z",
+          "wordCount": 2566,
+          "title": "Digging into Datasets in Gale Digital Scholar Lab"
+        },
+        {
           "id": "https://review.gale.com/?p=14225",
           "author": "Gale Ambassadors",
           "description": "│By Tamar Atkinson, Gale Ambassador at the University of Liverpool│ Primary sources can be a great resource for Master’s dissertation research, providing a deeper understanding of history. Whilst they make handy supportive evidence to back up the points you want to make in an assessment, is there a way to take them further? Within Gale ... Read more\nThe post Taking Your Master’s Dissertation to the Next Level: Using <em>Gale Digital Scholar Lab</em> for Research appeared first on The Gale Review.",
@@ -4242,6 +4278,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17661",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 387, a dictionary of the Arabic language originally compiled between 1368 and 1392. You can read the complete record for this document (and find links to digitized copies) on Franklin. You can also download a copy ofContinue reading \"Manuscript Monday: LJS 387 – al-Qāmūs al-muḥīṭ. = القاموس المحيط. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/05/08/manuscript-monday-ljs-387-al-qamus-al-mu%e1%b8%a5i%e1%b9%ad-%d8%a7%d9%84%d9%82%d8%a7%d9%85%d9%88%d8%b3-%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7-video-orientation/",
+          "publishedOn": "2023-05-08T12:00:00.000Z",
+          "wordCount": 1173,
+          "title": "Manuscript Monday: LJS 387 – al-Qāmūs al-muḥīṭ. = القاموس المحيط. (Video Orientation)"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17658",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1661, a collection of recipes (numbered 1-253 with many errors) for alchemical and practical applications such as making candles, butter, varnish, many types of ink (including a recipe for “magic ink”), sealant for waterproofing shoes, cementContinue reading \"Manuscript Monday: Ms. Codex 1661 – Arts and sciences : chemistry. (Video Orientation)\"",
@@ -4356,6 +4401,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1869",
+          "author": "Alisa Grishin",
+          "description": "In March of 2023, Artes Research Intern Alisa Grishin interviewed Professor Fred Truyen of the Faculty of Arts. As a professor in the Digital Humanities and Cultural Studies programs, Prof. Truyen has also been involved in numerous projects related to…\n\nContinue reading “Interview: Professor Fred Truyen in Conversation with Artes Research Intern Alisa Grishin”…",
+          "link": "https://scholarlytales.hcommons.org/2023/05/09/interview-professor-fred-truyen-in-conversation-with-artes-research-intern-alisa-grishin/",
+          "publishedOn": "2023-05-09T13:55:36.000Z",
+          "wordCount": 5329,
+          "title": "Interview: Professor Fred Truyen in Conversation with Artes Research Intern Alisa Grishin"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1854",
           "author": "Leah Budke",
@@ -4562,15 +4616,6 @@
           "publishedOn": "2022-11-14T08:47:48.000Z",
           "wordCount": 2056,
           "title": "Training: Sharing and publishing research data (KU Leuven)"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1550",
-          "author": "Laura Mesotten",
-          "description": "The Open Science Day of KU Leuven is a yearly event for KU Leuven researchers to exchange Open Science experiences. The 2023 edition will be a combination of classical paper presentations, debates, and posters. We welcome both in-depth analyses of…\n\nContinue reading “Call for contributions: KU Leuven Open Science Day”…",
-          "link": "https://scholarlytales.hcommons.org/2022/11/10/call-for-contributions-ku-leuven-open-science-day/",
-          "publishedOn": "2022-11-10T09:57:26.000Z",
-          "wordCount": 2112,
-          "title": "Call for contributions: KU Leuven Open Science Day"
         }
       ]
     },
@@ -5247,6 +5292,33 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/dh-teaching-forum/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/dh-teaching-forum/",
+          "publishedOn": "2023-05-10T07:59:59.000Z",
+          "wordCount": 385,
+          "title": "DH Teaching Forum"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/phd/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/phd/",
+          "publishedOn": "2023-05-10T07:58:01.000Z",
+          "wordCount": 857,
+          "title": "PhD"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/blog/programme-released-for-research-software-engineering-summer-school-2023/",
+          "author": null,
+          "description": "Download or view the programme for the RSE Summer School here: Programme RSE Summer School Aimed at those who have an interest in becoming a Research Software Engineer in the humanities, or using research software engineering practices in their current or future role, the Digital Humanities Research Software Engineering Summer School is a summer school",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/programme-released-for-research-software-engineering-summer-school-2023/",
+          "publishedOn": "2023-05-09T10:41:23.000Z",
+          "wordCount": 622,
+          "title": "Programme Released for Research Software Engineering Summer School 2023"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/36519/",
           "author": null,
@@ -6812,15 +6884,6 @@
           "publishedOn": "2022-11-15T11:51:53.000Z",
           "wordCount": 1865,
           "title": "The Sandbach Tinne Programme"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/aphrodita-nicolova/",
-          "author": null,
-          "description": "Aphrodita Nicolova is an interdisciplinary social scientist and education researcher researching intersections across youth education, creative arts and digital humanities, and abolitionist social justice. As an ESRC Postdoctoral Research Fellow, she is working on a spoken word poetry project at the Faculty of Education, University of Cambridge where she completed her doctorate (Gates Cambridge Scholarship).",
-          "link": "https://www.cdh.cam.ac.uk/about/people/aphrodita-nicolova/",
-          "publishedOn": "2022-11-10T11:12:42.000Z",
-          "wordCount": 409,
-          "title": "Aphrodita Nicolova"
         }
       ]
     },
@@ -7115,6 +7178,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1647 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The Digital Repository of Ireland (DRI) is pleased to announce that the Historic Environment Record of Northern Ireland (HERoNI) has joined as our latest member.",
+          "link": "https://www.dri.ie/new-member-historic-environment-record-northern-ireland-heroni",
+          "publishedOn": "2023-05-09T11:36:09.000Z",
+          "wordCount": 748,
+          "title": "New Member: Historic Environment Record of Northern Ireland (HERoNI)"
+        },
         {
           "id": "1646 at https://www.dri.ie",
           "author": "ainemadden",
