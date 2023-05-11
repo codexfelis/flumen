@@ -2083,15 +2083,6 @@
           "publishedOn": "2022-11-14T20:20:26.000Z",
           "wordCount": 1318,
           "title": "DHd-Verband initiiert mit Fedihum.org neue Mastodon-Instanz für alle Digital Humanities-Aficionados"
-        },
-        {
-          "id": "node/868",
-          "author": "414",
-          "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…",
-          "link": "https://dig-hum.de/aktuelles/call-for-hosts-dhd2025",
-          "publishedOn": "2022-11-11T20:04:29.000Z",
-          "wordCount": null,
-          "title": "Call for Hosts DHd2025"
         }
       ]
     },
@@ -2163,7 +2154,17 @@
       "title": "Digital Humanities at Exeter",
       "feedUrl": "https://digitalhumanities.exeter.ac.uk/feed",
       "siteUrl": "https://digitalhumanities.exeter.ac.uk",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://digitalhumanities.exeter.ac.uk/?p=1004",
+          "author": "Gemma Poulton",
+          "description": "As part of the AHRC’s iDAH program, the University of Exeter Digital Humanities Lab is organizing a Summer School during June 2023 in Digital Skills that comprises two free training courses for Arts & Humanities Researchers:  Course 1: AHRC iDAH/Exeter Digital Summer School: Introduction to Text Analysis Using Python As part of the AHRC iDAH […]",
+          "link": "https://digitalhumanities.exeter.ac.uk/2023/05/hot-source-digital-skills-training/",
+          "publishedOn": "2023-05-11T07:40:23.000Z",
+          "wordCount": 1127,
+          "title": "Hot Source! Digital Skills Training"
+        }
+      ]
     },
     {
       "title": "The Digital Orientalist",
@@ -3734,6 +3735,15 @@
       "siteUrl": "https://readcoop.eu/",
       "articles": [
         {
+          "id": "https://readcoop.eu/?p=32511",
+          "author": "Florian Stauder",
+          "description": "If you’re new to Transkribus, or machine learning in general, then you are also probably new to the term “Ground Truth”. In short, Ground Truth is the accurate and verified data which is used to train machine learning models, such as those used for automatic transcriptions in Transkribus. And this data is pretty important for […]\nThe post What is Ground Truth? appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/what-is-ground-truth/",
+          "publishedOn": "2023-05-10T11:35:34.000Z",
+          "wordCount": 2657,
+          "title": "What is Ground Truth?"
+        },
+        {
           "id": "https://readcoop.eu/?p=32453",
           "author": "Florian Stauder",
           "description": "If you scroll through the list of Transkribus’ public AI models, you might be forgiven for thinking the platform can only be used for European languages in Latin scripts, such as German, English, or Dutch. But thankfully for researchers working with more “unusual” languages, this is not the case. Transkribus has a wide variety of […]\nThe post Ethiopic, Hebrew, Devanagari, and Balinese: 4 public AI models for transcribing non-Latin scripts appeared first on READ-COOP.",
@@ -5016,6 +5026,24 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4536 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The EUROPAST Summer schools are designed t offer theoretical and methodological training, while placing a strong emphasis on supporting the development of early-career researchers in their chosen fields, promoting research integrity, conduct, and communication.\nThe Lund Summer School aims to gather scholars with an interest in the evolution of European history in the 20th and 21st centuries and in debates on these processes beyond academia.\nThe program comprises two core elements: theory, which explores the influence of social and political change, the advantages and disadvantages of digitisation, citizen science and co-production, history's role in the public sphere, and shared authority, and practice which delves into the communication of history, exhibitions, websites, museums, and othe…",
+          "link": "https://www.c2dh.uni.lu/events/lund-summer-school",
+          "publishedOn": "2023-05-10T08:35:30.000Z",
+          "wordCount": 502,
+          "title": "Lund Summer School"
+        },
+        {
+          "id": "4535 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Wrocław’s Public History Summer School brings together undergraduate and graduate students from all over the world. The event will combine lectures, workshops and debates concerning methodology and specific case studies delivered by specialists in the field, as well as presentations of individual and collaborative projects. It will be held on-site in Wrocław, Poland and online.\nThe summer school is organised within the framework of the 6th International Conference Studying Public History – Methods, Difficulties, Perspectives.\nProgramme and free registration are available on the official website.\n \n\n\n \n \n12 June 2023 to 16 June 2023\n  Public history\n  Public History\n  Teaching and learning\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/public-history-summer-school",
+          "publishedOn": "2023-05-10T07:58:20.000Z",
+          "wordCount": 339,
+          "title": "Public History Summer School"
+        },
+        {
           "id": "4495 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "The talk will focus on the representation of history in AAA video games. Familiar to millions of users worldwide and therefore conceptualised as public spaces, these games may depict real-world historical environments, such as the sceneries in Assassin's Creed, the maps in Europa Universalis, or the mechanisms of Civilization. Alternatively, they may deconstruct fictional or virtual pasts, as seen in Shadow of the Colossus, or combine both approaches, like in Siberia.\nJoanna Wojdon is Professor of History at the University of Wrocław, Poland, member of the Steering Committee of the International Federation for Public History, co-organizer of the Public History Summer School in Wrocław, editor of Public History in Poland (Routledge, 2021) and co-editor, with Dorota Wiśniewska, of Public in Public History (Routledge, 2021). Her interests include the use of information technology in history education, edutainment, the influence of politics and propaganda on education, with a particular focus on the communist period in Poland, and investigating the history of Polish Americans after World War II.\n \nWednesday, 3 May 2023\n16.30 – 18:00\nMaison du Savoir, Auditorium 3.110\nBelval Campus\nand online (join here)\n \nFree entrance. The lecture will be followed by a reception.\n3 May 2023\n  Public history\n  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
@@ -5292,6 +5320,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/blog/cdh-associate-malik-al-nasir-awarded-vice-chancellors-award-for-global-social-impact/",
+          "author": null,
+          "description": "We are delighted to offer our congratulations to CDH Associate, Malik Al Nasir, who has been awarded the Vice Chancellor's Award for Global Social Impact based on his work on the Sandbach Tinne Project. Malik was among 16 students from the University of Cambridge recognised for exceptional achievement at the annual Vice-Chancellor’s Social Impact Awards",
+          "link": "https://www.cdh.cam.ac.uk/media/blog/cdh-associate-malik-al-nasir-awarded-vice-chancellors-award-for-global-social-impact/",
+          "publishedOn": "2023-05-11T07:55:31.000Z",
+          "wordCount": 999,
+          "title": "CDH Associate Malik Al Nasir awarded Vice Chancellor’s Award for Global Social Impact"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/research/dh-teaching-forum/",
           "author": null,
@@ -6892,6 +6929,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5911 at https://www.clarin.eu",
+          "author": "Elisa Gorgaini",
+          "description": "Highlights from the First SSH Open Cluster Assembly\n\n            \nSSHOC Continues to Build Stronger European SSH Community: Highlights from the 1st SSH Open Cluster Assembly\n    \n\n\n      \n\nThe SSH Research Infrastructures organised a Cluster Assembly on April 24th, 2023, which marked an important milestone since the SSHOC project ended. The event attracted 70 participants from funding agencies, research institutions, project partners, and all \n    \n\r\n\tEuropean Strategy Forum for Research Infrastructures See: https://www.esfri.eu\r\n\r\nread more\n\n   Landmarks and Projects from the Group Social and Cultural Innovation.\nThe SSH Open Cluster Chair Toma Tasovac (DARIAH), gave an introduction positioning SSHOC Cluster in the European research area. The Vice-Chair Bonnie Wolff-Boenisch  (CESSDA), sh…",
+          "link": "https://www.clarin.eu/news/highlights-first-ssh-open-cluster-assembly",
+          "publishedOn": "2023-05-10T13:43:53.000Z",
+          "wordCount": 510,
+          "title": "Highlights from the First SSH Open Cluster Assembly"
+        },
         {
           "id": "5908 at https://www.clarin.eu",
           "author": "Elisa Gorgaini",

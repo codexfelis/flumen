@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-05-10T08:04:16.551Z</updated>
+    <updated>2023-05-11T08:04:14.558Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CDH Associate Malik Al Nasir awarded Vice Chancellor’s Award for Global Social Impact]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/blog/cdh-associate-malik-al-nasir-awarded-vice-chancellors-award-for-global-social-impact/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/blog/cdh-associate-malik-al-nasir-awarded-vice-chancellors-award-for-global-social-impact/"/>
+        <updated>2023-05-11T07:55:31.000Z</updated>
+        <summary type="html"><![CDATA[We are delighted to offer our congratulations to CDH Associate, Malik Al Nasir, who has been awarded the Vice Chancellor's Award for Global Social Impact based on his work on the Sandbach Tinne Project. Malik was among 16 students from the University of Cambridge recognised for exceptional achievement at the annual Vice-Chancellor’s Social Impact Awards]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot Source! Digital Skills Training]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=1004</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2023/05/hot-source-digital-skills-training/"/>
+        <updated>2023-05-11T07:40:23.000Z</updated>
+        <summary type="html"><![CDATA[As part of the AHRC’s iDAH program, the University of Exeter Digital Humanities Lab is organizing a Summer School during June 2023 in Digital Skills that comprises two free training courses for Arts & Humanities Researchers:  Course 1: AHRC iDAH/Exeter Digital Summer School: Introduction to Text Analysis Using Python As part of the AHRC iDAH […]]]></summary>
+        <author>
+            <name>Gemma Poulton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highlights from the First SSH Open Cluster Assembly]]></title>
+        <id>5911 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/highlights-first-ssh-open-cluster-assembly"/>
+        <updated>2023-05-10T13:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Highlights from the First SSH Open Cluster Assembly
+
+            
+SSHOC Continues to Build Stronger European SSH Community: Highlights from the 1st SSH Open Cluster Assembly
+    
+
+
+      
+
+The SSH Research Infrastructures organised a Cluster Assembly on April 24th, 2023, which marked an important milestone since the SSHOC project ended. The event attracted 70 participants from funding agencies, research institutions, project partners, and all 
+    
+
+	European Strategy Forum for Research Infrastructures See: https://www.esfri.eu
+
+read more
+
+   Landmarks and Projects from the Group Social and Cultural Innovation.
+The SSH Open Cluster Chair Toma Tasovac (DARIAH), gave an introduction positioning SSHOC Cluster in the European research area. The Vice-Chair Bonnie Wolff-Boenisch  (CESSDA), sh…]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Ground Truth?]]></title>
+        <id>https://readcoop.eu/?p=32511</id>
+        <link href="https://readcoop.eu/what-is-ground-truth/"/>
+        <updated>2023-05-10T11:35:34.000Z</updated>
+        <summary type="html"><![CDATA[If you’re new to Transkribus, or machine learning in general, then you are also probably new to the term “Ground Truth”. In short, Ground Truth is the accurate and verified data which is used to train machine learning models, such as those used for automatic transcriptions in Transkribus. And this data is pretty important for […]
+The post What is Ground Truth? appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lund Summer School]]></title>
+        <id>4536 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/lund-summer-school"/>
+        <updated>2023-05-10T08:35:30.000Z</updated>
+        <summary type="html"><![CDATA[The EUROPAST Summer schools are designed t offer theoretical and methodological training, while placing a strong emphasis on supporting the development of early-career researchers in their chosen fields, promoting research integrity, conduct, and communication.
+The Lund Summer School aims to gather scholars with an interest in the evolution of European history in the 20th and 21st centuries and in debates on these processes beyond academia.
+The program comprises two core elements: theory, which explores the influence of social and political change, the advantages and disadvantages of digitisation, citizen science and co-production, history's role in the public sphere, and shared authority, and practice which delves into the communication of history, exhibitions, websites, museums, and othe…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DH Teaching Forum]]></title>
         <id>https://www.cdh.cam.ac.uk/research/dh-teaching-forum/</id>
@@ -13,6 +83,29 @@
         <updated>2023-05-10T07:59:59.000Z</updated>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public History Summer School]]></title>
+        <id>4535 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/public-history-summer-school"/>
+        <updated>2023-05-10T07:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Wrocław’s Public History Summer School brings together undergraduate and graduate students from all over the world. The event will combine lectures, workshops and debates concerning methodology and specific case studies delivered by specialists in the field, as well as presentations of individual and collaborative projects. It will be held on-site in Wrocław, Poland and online.
+The summer school is organised within the framework of the 6th International Conference Studying Public History – Methods, Difficulties, Perspectives.
+Programme and free registration are available on the official website.
+ 
+
+
+ 
+ 
+12 June 2023 to 16 June 2023
+  Public history
+  Public History
+  Teaching and learning
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>
@@ -9750,16 +9843,6 @@ Read full topic]]></summary>
 Continue reading “Training: Sharing and publishing research data (KU Leuven)”…]]></summary>
         <author>
             <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Hosts DHd2025]]></title>
-        <id>node/868</id>
-        <link href="https://dig-hum.de/aktuelles/call-for-hosts-dhd2025"/>
-        <updated>2022-11-11T20:04:29.000Z</updated>
-        <summary type="html"><![CDATA[DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…]]></summary>
-        <author>
-            <name>414</name>
         </author>
     </entry>
     <entry>
