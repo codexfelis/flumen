@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-05-18T08:04:00.798Z</updated>
+    <updated>2023-05-19T08:03:53.889Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ausschreibung zum DHd Early Career Mentoring Programm 2023-24]]></title>
+        <id>node/901</id>
+        <link href="https://dig-hum.de/aktuelles/ausschreibung-zum-dhd-early-career-mentoring-programm-2023-24"/>
+        <updated>2023-05-19T08:03:04.935Z</updated>
+        <summary type="html"><![CDATA[In den Digital Humanities (DH) stellen sich Karrierefragen, die in anderen Disziplinen nicht unbedingt relevant sind und die daher von klassischen Mentoringangeboten nicht…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Welcomes First ECR Board Member]]></title>
+        <id>1649 at https://www.dri.ie</id>
+        <link href="https://www.dri.ie/dri-welcomes-first-ecr-board-member"/>
+        <updated>2023-05-18T11:30:37.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to welcome Postdoctoral Researcher Dr Zenobie Susanne Garrett to the DRI Board.]]></summary>
+        <author>
+            <name>ainemadden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Research Software Engineer im Kontext DH mit dem Schwerpunkt Machine Learning oder Digitale Edition (wissenschaftliche:r Mitarbeiter:in, E 13 TV-L)]]></title>
         <id>node/900</id>
@@ -9070,17 +9090,6 @@ Updated the repository and documentation to use nbdev v2
 Don’t try to re-download existing images]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RaDiHum20 spricht mit Mareike König, Aglaia Bianchi und Lydia Repke über Wissenschaftskommunikation]]></title>
-        <id>https://radihum20.de/?p=603</id>
-        <link href="https://radihum20.de/radihum20-wissenschaftskommunikation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-wissenschaftskommunikation"/>
-        <updated>2022-11-20T07:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Persönliche Wissenschaftskommunikation kann Forscherinnen und Forscher dazu bringen, eine eigene Stimme zu entwickeln und hörbar zu machen. Warum das so ist und wie man diesen Effekt des Empowerment erreicht, darüber sprechen wir in dieser Folge mit drei ausgewiesenen Expertinnen für Wissenschaftskommunikation. Mareike König vom DHI Paris leitet seit vielen Jahren das Blogportal de.hypotheses.org, auf dem […]
-Der Beitrag RaDiHum20 spricht mit Mareike König, Aglaia Bianchi und Lydia Repke über Wissenschaftskommunikation erschien zuerst auf RaDiHum 20.]]></summary>
-        <author>
-            <name>Mareike Schumacher</name>
         </author>
     </entry>
     <entry>

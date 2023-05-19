@@ -1851,6 +1851,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/901",
+          "author": "434",
+          "description": "In den Digital Humanities (DH) stellen sich Karrierefragen, die in anderen Disziplinen nicht unbedingt relevant sind und die daher von klassischen Mentoringangeboten nicht…",
+          "link": "https://dig-hum.de/aktuelles/ausschreibung-zum-dhd-early-career-mentoring-programm-2023-24",
+          "publishedOn": "2023-05-19T08:03:04.935Z",
+          "wordCount": 1686,
+          "title": "Ausschreibung zum DHd Early Career Mentoring Programm 2023-24"
+        },
+        {
           "id": "node/900",
           "author": "434",
           "description": "Die Universitäts- und Landesbibliothek (ULB) Münster ist die Zentralbibliothek der Westfälischen Wilhelms-Universität und gleichzeitig Landesbibliothek für den Landesteil…",
@@ -3312,15 +3321,6 @@
           "publishedOn": "2022-12-20T07:45:00.000Z",
           "wordCount": 781,
           "title": "RaDiHum20 spricht mit Jaqueline Klusik-Eckert über Studiengangsmanagement"
-        },
-        {
-          "id": "https://radihum20.de/?p=603",
-          "author": "Mareike Schumacher",
-          "description": "Persönliche Wissenschaftskommunikation kann Forscherinnen und Forscher dazu bringen, eine eigene Stimme zu entwickeln und hörbar zu machen. Warum das so ist und wie man diesen Effekt des Empowerment erreicht, darüber sprechen wir in dieser Folge mit drei ausgewiesenen Expertinnen für Wissenschaftskommunikation. Mareike König vom DHI Paris leitet seit vielen Jahren das Blogportal de.hypotheses.org, auf dem […]\nDer Beitrag RaDiHum20 spricht mit Mareike König, Aglaia Bianchi und Lydia Repke über Wissenschaftskommunikation erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/radihum20-wissenschaftskommunikation/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-wissenschaftskommunikation",
-          "publishedOn": "2022-11-20T07:38:00.000Z",
-          "wordCount": 727,
-          "title": "RaDiHum20 spricht mit Mareike König, Aglaia Bianchi und Lydia Repke über Wissenschaftskommunikation"
         }
       ]
     },
@@ -6837,6 +6837,15 @@
       "feedUrl": "https://www.dri.ie/rss.xml",
       "siteUrl": "https://www.dri.ie/news",
       "articles": [
+        {
+          "id": "1649 at https://www.dri.ie",
+          "author": "ainemadden",
+          "description": "The Digital Repository of Ireland (DRI) is pleased to welcome Postdoctoral Researcher Dr Zenobie Susanne Garrett to the DRI Board.",
+          "link": "https://www.dri.ie/dri-welcomes-first-ecr-board-member",
+          "publishedOn": "2023-05-18T11:30:37.000Z",
+          "wordCount": 777,
+          "title": "DRI Welcomes First ECR Board Member"
+        },
         {
           "id": "1648 at https://www.dri.ie",
           "author": "ainemadden",
