@@ -2092,15 +2092,6 @@
           "publishedOn": "2022-12-02T08:03:08.116Z",
           "wordCount": 863,
           "title": "Stellenangebot: Wissenschaftliche*r Mitarbeiter*in (w/m/d) in den Digital Humanities"
-        },
-        {
-          "id": "node/870",
-          "author": "434",
-          "description": "Autor*innen aus der Taskforce „DHd Abstracts“\nPatrick Helling (ORCID: 0000-0003-4043-165X), Rebekka Borges (ORCID: 0000-0002-4651-5638), Ingo Börner (ORCID: 0000-0001-8294-2541),…",
-          "link": "https://dig-hum.de/aktuelles/der-dhd-verband-und-seine-abstracts-betrachtungen-des-einreichungsprozesses-zu-den-dhd",
-          "publishedOn": "2022-11-21T16:55:59.000Z",
-          "wordCount": 2616,
-          "title": "Der DHd-Verband und seine Abstracts Betrachtungen des Einreichungsprozesses zu den DHd Jahrestagungen"
         }
       ]
     },
@@ -2171,6 +2162,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10605",
+          "author": "The Digital Orientalist",
+          "description": "Our 2023 conference on Sustainability in the DH will take place on June 3rd, 2023. This year, we bring together …",
+          "link": "https://digitalorientalist.com/2023/05/19/digital-orientalists-2023-conference-sustainability-in-the-dh/",
+          "publishedOn": "2023-05-19T13:00:00.000Z",
+          "wordCount": 600,
+          "title": "Digital Orientalist’s 2023 Conference: Sustainability in the DH"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10249",
           "author": "maddalena poli",
@@ -3037,15 +3037,6 @@
           "publishedOn": "2022-11-23T15:50:39.000Z",
           "wordCount": 1074,
           "title": "SPARQL for music: when melodies meet ontology"
-        },
-        {
-          "id": "https://www.humanitiesdataanalysis.org/index.html",
-          "author": "Author on Source",
-          "description": "Introduction: Folgert Karsdorp, Mike Kestemont and Allen Riddell ‘s  interactive book, Humanities Data Analysis: Case Studies with Python had been written with the aim in mind to equip humanities students and scholars working with textual and tabular resources with practical, hands-on knowledge to better understand the potentials of data-rich, computer-assisted approaches that the Python framework offers to them and eventually to apply and integrate them to their own research projects.\n\nThe first part introduces a “Data carpentry”, a collection of essential techniques for gathering, cleaning, representing, and transforming textual and tabular data. This sets the stage for the second part that consists of 5 case studies (Statistics Essentials: WhoReads Novels? ; Introduction to Probability ; Narrating with Maps ; Stylometry and the Voice of Hildegard ; A Topic Model of United States Supreme Court Opinions, 1900–2000 ) showcasing how to draw meaningful insights from data using quantitative methods. Each chapter contains executable Python codes and ends with exercises ranging from easier drills to more creative and complex possibilities to adapt the apply and adopt the newly acquired knowledge to their own research problems.\n\nThe book exhibits best practices in how to make digital scholarship available in an open, sustainable ad digital-native manner, coming in different layers that are firmly interlinked with each other. Published with Princeton University Press in 2021, hardcopies are also available, but more importantly, the digital version is an  Open Access Jupyter notebook that can be read in multiple environments and formats (.md and .pdf). The documentation, coda and data materials are available on Zenodo (https://zenodo.org/record/3560761#.Y3tCcn3MJD9). The authors also made sure to select and use packages which are mature and actively maintained.",
-          "link": "https://openmethods.dariah.eu/2022/11/21/humanities-data-analysis-case-studies-with-python-humanities-data-analysis-case-studies-with-python/",
-          "publishedOn": "2022-11-21T06:58:00.000Z",
-          "wordCount": 1468,
-          "title": "Humanities Data Analysis: Case Studies with Python — Humanities Data Analysis: Case Studies with Python"
         }
       ]
     },
@@ -4434,24 +4425,6 @@
           "publishedOn": "2022-12-10T03:00:33.000Z",
           "wordCount": 670,
           "title": "Recent presentations – Library of Congress Data Jam, Everyday Heritage, Wikidata, and GLAM Workbench!"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/11/21/the-australian-history.html",
-          "author": null,
-          "description": "The Australian History Industry was published recently. Edited by Paul Ashton and Paula Hamilton, the book ‘explores the complex, multi-roomed house of Australian history’, exploring academic, school, and public history, the impact of digital technologies, and the relationship of history to memory, social justice, politics, and cultural practice.\nMy chapter ‘Digital revolutions: The limits and affordances of online collections’ looks at how digitisation of GLAM collections has (and hasn’t) changed historical practice:\nAs the COVID lockdowns in 2020 emphasised, the online availability of  primary source materials makes historical research possible even when  access to the originals is limited. But the undoubted convenience of  being able to browse 200 years worth of newspapers at home masks other  issues that historians have been slow to acknowledge and address. How do we discover relevant resources? What gets digitised and why? How can  researchers use these collections to ask new types of questions? After more than 25 years, the web has its own history. What problems and  possibilities has it brought to the way we understand the past?\nIt’s available as a green open access preprint on Zenodo.",
-          "link": "https://updates.timsherratt.org/2022/11/21/the-australian-history.html",
-          "publishedOn": "2022-11-21T03:04:59.000Z",
-          "wordCount": 252,
-          "title": "The Australian history industry and the impact of digitisation (open access preprint chapter)"
-        },
-        {
-          "id": "http://wragge.micro.blog/2022/11/21/recent-updates-to.html",
-          "author": null,
-          "description": "Catching up on some software package updates over the last few months.\nThe trove-newspaper-harvester package is now at v0.6.5. Recent changes include:\nFix to handle articles with missing metadata\nDon’t try to re-download existing text and PDF files on restart\nBetter error messages for CLI\nBetter handling of exceptions\nThe trove-newspaper-images package is now at v0.2.1. Recent changes include:\nMinor changes to make it easier to use this package within the trove-newspaper-harvester\nUse argparse directly for the CLI, putting the initialisation within a function to avoid conflicts\nRemove the messages printed to stdout\nUpdated the repository and documentation to use nbdev v2\nDon’t try to re-download existing images",
-          "link": "https://updates.timsherratt.org/2022/11/21/recent-updates-to.html",
-          "publishedOn": "2022-11-21T01:19:23.000Z",
-          "wordCount": 162,
-          "title": "Recent updates to trove-newspaper-harvester and trove-newspaper-images"
         }
       ]
     },
@@ -6820,15 +6793,6 @@
           "publishedOn": "2022-11-28T15:47:24.000Z",
           "wordCount": 902,
           "title": "A CLARIN Resource Family for Sign Languages"
-        },
-        {
-          "id": "5820 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "New Impact Story: Ukrainian History Course in Response to the War in Ukraine\n\n            \n\n\n  \n  \n            \n    \n\n              \n              \n                  \n\n  \nThis impact story shines the spotlight on one of the initiatives in response to the invasion of Ukraine that CLARIN has supported. The distance learning course ‘Ukrainian History’ was developed by two friends and colleagues, based in Ukraine and Lithuania, as an example of collaboration between EU universities and Ukrainian researchers. The short distant learning course covers the history of Ukraine and its statehood, beginning with the Kyivan Rus’ state and its Ukrainian principalities (9th-13th c.) and then traces Ukraine’s historical development and its struggle for independence until the present day. \nRead more here.\n\n      Karina Berger\n 21 November 2022",
-          "link": "https://www.clarin.eu/blog/new-impact-story-ukrainian-history-course-response-war-ukraine",
-          "publishedOn": "2022-11-21T10:26:56.000Z",
-          "wordCount": 281,
-          "title": "New Impact Story: Ukrainian History Course in Response to the War in Ukraine"
         }
       ]
     },
@@ -7340,15 +7304,6 @@
           "publishedOn": "2022-11-22T09:33:25.000Z",
           "wordCount": 718,
           "title": "Europeana Aggregators Forum Outreach Event - 15th December 2022"
-        },
-        {
-          "id": "1587 at https://www.dri.ie",
-          "author": "Natalie Harrower",
-          "description": "The National Action Plan for Open Research 2022-2030 was launched today.",
-          "link": "https://www.dri.ie/minister-harris-welcomes-launch-national-action-plan-open-research",
-          "publishedOn": "2022-11-21T15:22:35.000Z",
-          "wordCount": 717,
-          "title": "Minister Harris Welcomes Launch of National Action Plan for Open Research"
         }
       ]
     },
