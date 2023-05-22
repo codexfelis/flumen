@@ -3001,15 +3001,6 @@
           "publishedOn": "2022-12-29T19:32:30.000Z",
           "wordCount": 1078,
           "title": "Tools for Critical Discourse Analysis – and introduction to tool critizism"
-        },
-        {
-          "id": "http://openmethods.dariah.eu/?p=3306",
-          "author": "Marinella Testori",
-          "description": "Introduction: Developed in the context of the EU H2020 Polifonia project, the investigation deals with the potentialities of SPARQL Anything to\nto extract musical features, both at metadata and symbolic levels, from MusicXML files. The paper captures the procedure that has applied by starting from an overview about the application of ontologies to music, as well as of the so- called 'façade-based' approach to knowledge graphs, which is at the core of the SPARQL Anything software. Then, it moves to an illustration of the passages involved (i.e., melody extraction, N-grams extraction, N-grams analysis and exploitation\nof the Music Notation Ontology). Finally, it provides some considerations regarding the result of the experiment in terms of effectiveness of the queries' performance. In conclusion, the authors highlight how further studies in the field may cast an increasingly brighter light on the application of semantic-oriented methods and techniques to computational musicology. \n[Click ‘Read more’ for the full post!]",
-          "link": "https://openmethods.dariah.eu/2022/11/23/sparql-for-music-when-melodies-meet-ontology/",
-          "publishedOn": "2022-11-23T15:50:39.000Z",
-          "wordCount": 1074,
-          "title": "SPARQL for music: when melodies meet ontology"
         }
       ]
     },
@@ -3802,18 +3793,6 @@
           "title": "Review: Colonial Frontier Massacres in Australia, 1788-1930",
           "enclosure": {
             "url": "https://assets.pubpub.org/kr31nzht/31669223324229.png"
-          }
-        },
-        {
-          "id": "47ac01be-8a11-48dc-aa12-2b37a00b5d08",
-          "author": "Roopika Risam",
-          "description": "Editors' Note on the November 2022 issue of Reviews in Digital Humanities",
-          "link": "https://reviewsindh.pubpub.org/pub/7oqi0otv",
-          "publishedOn": "2022-11-23T18:24:10.000Z",
-          "wordCount": 905,
-          "title": "Editors' Note: November 2022",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/b59y72kh/11669228156745.png"
           }
         }
       ]
@@ -4838,6 +4817,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/mphil/courses/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/mphil/courses/",
+          "publishedOn": "2023-05-22T07:48:33.000Z",
+          "wordCount": 2249,
+          "title": "Courses"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/nathaniel-zetter/",
           "author": null,
@@ -7209,15 +7197,6 @@
           "publishedOn": "2022-11-25T15:32:50.000Z",
           "wordCount": 648,
           "title": "DRI Coffee Morning: January 2023"
-        },
-        {
-          "id": "1590 at https://www.dri.ie",
-          "author": "ainemadden",
-          "description": "The Digital Repository of Ireland (DRI) is pleased to welcome three new members to the DRI Board – Dr Siobhán O’Sullivan, Brendan Teeling, and David Kane.",
-          "link": "https://www.dri.ie/dri-welcomes-new-board-members",
-          "publishedOn": "2022-11-23T14:56:58.000Z",
-          "wordCount": 932,
-          "title": "DRI Welcomes New Board Members"
         }
       ]
     },
