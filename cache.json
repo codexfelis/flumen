@@ -55,6 +55,15 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=2666",
+          "author": "Anda",
+          "description": "Registration for the Baltic Summer School of Digital Humanities 2023 is open Students, researchers, and GLAM professionals are welcome to enrol in the Baltic Summer School of Digital Humanities: Discourse Analysis and Digital Literary Studies, which will be held on 25-28 July 2023 at the National Library of Latvia (NLL) and Online. The Baltic Summer School […]",
+          "link": "https://dhnb.eu/registration-for-the-bssdh-2023-is-open/",
+          "publishedOn": "2023-05-24T10:09:34.000Z",
+          "wordCount": 443,
+          "title": "Registration for the BSSDH 2023 is open"
+        },
+        {
           "id": "https://dhnb.eu/?p=2585",
           "author": "Annika Rockenberger",
           "description": "Follow us on Mastodon! Digital Humanities in the Nordic and Baltic Countries is now also on Mastodon. What is Mastodon, you ask? Wikipedia says it “is free and open-source software for running self-hosted social networking services. It has microblogging features similar to Twitter, which are offered by a large number of independently run nodes“. DHNB has found its home on the Fedihum […]",
@@ -448,7 +457,7 @@
     {
       "title": "CAA International",
       "feedUrl": "https://caa-international.org/feed",
-      "siteUrl": "https://caa-international.org/",
+      "siteUrl": "https://caa-international.org",
       "articles": [
         {
           "id": "https://sites.caa-international.org/main/?p=17244",
@@ -4356,7 +4365,7 @@
     {
       "title": "CAA UK",
       "feedUrl": "https://uk.caa-international.org/feed",
-      "siteUrl": "https://uk.caa-international.org/",
+      "siteUrl": "https://uk.caa-international.org",
       "articles": []
     },
     {
@@ -4585,6 +4594,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4546 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "As a result of the digital revolution and the new possibilities for communication and documentation, Russia's war against Ukraine is already considered the best-documented war to date. How should this be assessed, however, from the perspective of digital humanities? What does this mean for the concept of digital source criticism in times of fragile facts? What form of digital agency can be observed and what does this mean for the status of classical historical research and curatorial activities taken care of by institutions? The presentation develops four hypotheses on the manifold implications of the current war for the future of digital history. It also addresses ethical challenges for research and asks how a decolonization of Russian/Soviet history and the demand for a recentering of Ukraine in the European understanding of history can be met in the field of digital humanities.\n \nWednesday, 31 May 2023\n14.00 - 15.00\nHybrid event\nC²DH Open Space or join online\n31 May 2023\n  Digital hermeneutics  Digital source criticism\n  Hands-on History\n  Published  \nEyes on Russia: The Russia-Ukraine Monitor Map, https://maphub.net/Cen4infoRes/russian-ukraine-monitor, Download 8.11.2022",
+          "link": "https://www.c2dh.uni.lu/events/digital-humanities-times-war-consequences-russias-aggression-against-ukraine",
+          "publishedOn": "2023-05-25T07:17:41.000Z",
+          "wordCount": 402,
+          "title": "Digital Humanities in Times of War: The Consequences of Russia's Aggression against Ukraine"
+        },
         {
           "id": "4542 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -4862,6 +4880,42 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/",
+          "author": null,
+          "description": "Dr Leonardo Impett is a University Assistant Professor in Digital Humanities and convenor of the MPhil in Digital Humanities. He was previously Assistant Professor of Computer Science at Durham University. Leonardo has a background in information engineering and machine learning, having worked or studied at the Cambridge Machine Learning Lab, the Cambridge Computer Lab's Rainbow",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/",
+          "publishedOn": "2023-05-24T14:33:30.000Z",
+          "wordCount": 573,
+          "title": "Dr Leonardo Impett"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/new-vacancy-comms-and-events-coordinator/",
+          "author": null,
+          "description": "Cambridge Digital Humanities is seeking a talented and enthusiastic administrator to join us in the part-time role of Communications and Events Coordinator where you will join a dynamic and supportive team delivering the CDH research learning and data schools programmes. As the Communications and Events Coordinator, you will work with the CDH Programme Manager to",
+          "link": "https://www.cdh.cam.ac.uk/about/news/new-vacancy-comms-and-events-coordinator/",
+          "publishedOn": "2023-05-24T10:38:11.000Z",
+          "wordCount": 664,
+          "title": "New Vacancy: Comms and Events Coordinator"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/caroline-bassett/",
+          "author": null,
+          "description": "Caroline Bassett has been CDH's Director since 2019. She is a professor within the Faculty of English, and co-founded the Sussex Humanities Lab at Sussex University. Her research interests include Digital Media, computational humanities, AI and the transformation of knowledge cultures, technology and social power, science fiction, technology and utopian thinking, critical theories of the digital, and feminist",
+          "link": "https://www.cdh.cam.ac.uk/about/people/caroline-bassett/",
+          "publishedOn": "2023-05-24T10:13:18.000Z",
+          "wordCount": 457,
+          "title": "Professor Caroline Bassett"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-hugo-leal/",
+          "author": null,
+          "description": "Dr Hugo Leal is a Teaching Associate at CDH for the MPhil in Digital Humanities. He is also the Research Associate at the Minderoo Centre for Technology and Democracy (MCTD) based in CRASSH. He previously worked as a postdoctoral fellow in the internet branch of the project “Conspiracy and Democracy” and as a methods fellow",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-hugo-leal/",
+          "publishedOn": "2023-05-24T10:12:10.000Z",
+          "wordCount": 534,
+          "title": "Dr Hugo Leal"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/news/new-phd-in-digital-humanities/",
           "author": null,
@@ -6480,6 +6534,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5916 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "New Impact Story: Gender in Poland’s Presidential Election Campaigns\n\n            \n\n  \n  \n            \n    \n\n\n      \n\nAt a time when Poland is grappling with a conservative push and growing polarisation among its population, political scientists Agata Włodkowska and Joanna Gajda reconstructed and analysed how the notions of sex and gender featured in the 2015 and 2020 Polish presidential election campaigns. Using the CLARIN-PL tools Korpusomat and ComCorp, the researchers analysed the language used by the presidential candidates, as well as the presence of gender-related topics in their election agendas, showing the impact that vocabulary and dominant themes can have during the election process itself, as well as their importance for gender equality more broadly.\nhere.\n\n      Karina Berger\n 24 May 2023",
+          "link": "https://www.clarin.eu/news/new-impact-story-gender-polands-presidential-election-campaigns",
+          "publishedOn": "2023-05-24T13:21:16.000Z",
+          "wordCount": 262,
+          "title": "New Impact Story: Gender in Poland’s Presidential Election Campaigns"
+        },
         {
           "id": "5913 at https://www.clarin.eu",
           "author": "Julia Misersky",
