@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-05-27T08:03:42.785Z</updated>
+    <updated>2023-05-28T08:04:12.925Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -8904,26 +8904,6 @@ The post Invitation to tender for a cross-sector Emerging Leaders programme stud
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cracking the Oracle Bones: The Yinxu Oracle Bone Inscription Digital Database (Part 2)]]></title>
-        <id>http://digitalorientalist.com/?p=9155</id>
-        <link href="https://digitalorientalist.com/2022/11/29/cracking-the-oracle-bones-the-yinxu-oracle-bone-inscription-digital-database-part-2/"/>
-        <updated>2022-11-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of our exploration of the Yinxu Oracle Bone Inscription Digital Database 殷墟甲骨文數據庫 (YOD), we’ll continue our …]]></summary>
-        <author>
-            <name>Henry Jacobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Welcomes the Institute of Art Design + Technology Dún Laoghaire (IADT) as its latest member]]></title>
-        <id>1595 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-welcomes-institute-art-design-technology-d%C3%BAn-laoghaire-iadt-its-latest-member"/>
-        <updated>2022-11-29T11:37:05.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce Dún Laoghaire Institute of Art Design + Technology (IADT) has joined DRI as our forty-third member.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grassroots Data Wranglers]]></title>
         <id>https://www.cdh.cam.ac.uk/media/blog/grassroots-data-wranglers/</id>
         <link href="https://www.cdh.cam.ac.uk/media/blog/grassroots-data-wranglers/"/>
@@ -8942,61 +8922,6 @@ The post Invitation to tender for a cross-sector Emerging Leaders programme stud
 The post Grassroots Data Wranglers first appeared on CDH.]]></summary>
         <author>
             <name>Emma Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Recap on the CLARIN Café on Text and Data Mining Exceptions a Year After - Has the Pony Become a Horse?]]></title>
-        <id>5823 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/recap-clarin-cafe-text-and-data-mining-exceptions-year-after-has-pony-become-horse"/>
-        <updated>2022-11-29T10:08:55.000Z</updated>
-        <summary type="html"><![CDATA[A Recap on the CLARIN Café on Text and Data Mining Exceptions a Year After - Has the Pony Become a Horse? 
-
-            
-
-About
-The CLARIN Café on Text and Data Mining (TDM) Exceptions a Year After took place via Zoom on 8 November 2022 and was organised by the CLARIN Legal and Ethical Issues Committee (CLIC). It was attended by around 25 participants, including language researchers, lawyers and legal experts from both CLARIN institutions and the private sector. The aim of the event was to discuss the impact of the copyright exceptions for TDM introduced by the recent Directive on Copyright in the Digital Single Market (hereinafter DSM Directive) on language research and technology so far. The event was a follow-up of a Café organised by the CLIC on the same subject in 2021, with the inten…]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keynote 2: Nina Tahmasebi "The Strengths and Pitfalls of Large-Scale Text Mining for DH"]]></title>
-        <id>discourse.computational-humanities-research.org-topic-1901</id>
-        <link href="https://discourse.computational-humanities-research.org/t/keynote-2-nina-tahmasebi-the-strengths-and-pitfalls-of-large-scale-text-mining-for-dh/1901"/>
-        <updated>2022-11-29T09:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Speaker: Nina Tahmasebi
- Affiliation: University of Gothenburg
-Title: The Strengths and Pitfalls of Large-Scale Text Mining for DH
-Abstract: In this talk, I will discuss how we can use digital methods to generate sustainable knowledge in the humanities. I will give an overview of the data-intensive research methodology and discuss how methods, results, and data relate to each other and must be evaluated as parts of a whole: there is no such thing as a good method, nor is there a way to know if the results are good, without considering the data. I will discuss results as a window from which we can see our data, and how we can reason about the results of digital methods. I will also present the Change is Key! research program and describe our efforts to connect computational research with research questions from the humanities and social sciences.
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>chr-user</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keynote 1: Peter Turchin "Computational Humanities and Testing Theories of the Evolution of Social Complexity in Human History"]]></title>
-        <id>discourse.computational-humanities-research.org-topic-1900</id>
-        <link href="https://discourse.computational-humanities-research.org/t/keynote-1-peter-turchin-computational-humanities-and-testing-theories-of-the-evolution-of-social-complexity-in-human-history/1900"/>
-        <updated>2022-11-29T09:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Speaker: Peter Turchin
- Affiliation: Complexity Science Hub–Vienna and University of Connecticut
-Title: Computational Humanities and Testing Theories of the Evolution of Social Complexity in Human History
-Abstract: During the Holocene the scale and complexity of human societies increased dramatically. Generations of scholars have proposed different theories explaining this expansion, which range from functionalist explanations, focusing on the provision of public goods, to conflict theories, emphasizing the role of class struggle or warfare. To quantitatively test these theories, I develop a general dynamical model, based on the theoretical framework of cultural macroevolution. Using this model and Seshat: Global History Databank I test 17 potential predictor variables proxying mechanisms suggested by major theories of sociopolitical complexity (and >100,000 combinations of these predictors). The best-fitting model indicates a strong causal role played by a combination of increasing agricultural productivity and invention/adoption of military technologies (most notably, iron weapons and cavalry in the first millennium BCE).
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>chr-user</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 381- Humanist copy of Sallust’s works on the history of Rome (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=17285</id>
-        <link href="https://schoenberginstitute.org/2022/11/28/manuscript-monday-ljs-381-humanist-copy-of-sallusts-works-on-the-history-of-rome-video-orientation/"/>
-        <updated>2022-11-28T15:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 381, a 15th century Humanist copy of the ancient Roman historian Sallust’s works on the history of Rome, with contemporary and later annotations, including alternate readings, some of which were incorporated into the text as corrections. YouContinue reading "Manuscript Monday: LJS 381- Humanist copy of Sallust’s works on the history of Rome (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
         </author>
     </entry>
     <entry>
