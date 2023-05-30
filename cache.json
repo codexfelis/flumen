@@ -606,15 +606,6 @@
           "publishedOn": "2022-12-12T21:49:19.000Z",
           "wordCount": 443,
           "title": "Conference 2023"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=1118",
-          "author": "Kyle Dase",
-          "description": "Dear Colleagues, CSDH/SCHN is seeking a program chair to lead the organization of our annual conference as part of Congress 2023 (York University, May 27th to June 2nd). Ideally, we would like to run a hybrid conference allowing members to meet in person for the first time since 2019 while also offering the chance to […]",
-          "link": "https://csdh-schn.org/call-for-csdh-schn-program-chair-congress-2023/",
-          "publishedOn": "2022-11-30T20:48:20.000Z",
-          "wordCount": 319,
-          "title": "Call for CSDH/SCHN Program Chair (Congress 2023)"
         }
       ]
     },
@@ -1666,15 +1657,6 @@
           "publishedOn": "2022-12-13T09:39:32.000Z",
           "wordCount": null,
           "title": "EPFL: Des technologies au service de la formation professionnelle"
-        },
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=12058",
-          "author": "Heloise schibler",
-          "description": "Le colloque “Le numérique comme méthodes et terrains : perspectives féministes” (NuMFem2023) se tiendra les  29-30 juin 2023 en ligne et au Centre Internet et Sociétré (CIS) sur le site Pouchet du CNRS (Paris). L’ambition de ce colloque international est d’interroger la façon dont le numérique, à la fois instrument, méthode, terrain et objet de […]\nThe post CFP:  Le numérique comme méthodes et terrains. Perspectives féministes (NuMFem 2023) appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2022/12/01/cfp-le-numerique-comme-methodes-et-terrains-perspectives-feministes-numfem-2023/",
-          "publishedOn": "2022-12-01T10:52:12.000Z",
-          "wordCount": 2361,
-          "title": "CFP:  Le numérique comme méthodes et terrains. Perspectives féministes (NuMFem 2023)"
         }
       ]
     },
@@ -3547,6 +3529,30 @@
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
         {
+          "id": "524e7bb2-fd94-438d-afde-e81a982004cb",
+          "author": "Mackenzie Brooks",
+          "description": "A review of Age of Revolutions, a digital journal exploring the history of revolutions, directed by Bryan A. Banks and Cindy Ermus",
+          "link": "https://reviewsindh.pubpub.org/pub/age-of-revolutions",
+          "publishedOn": "2023-05-30T00:00:00.000Z",
+          "wordCount": 1157,
+          "title": "Review: Age of Revolutions",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/psfai0ww/61685410171580.png"
+          }
+        },
+        {
+          "id": "868ec8ac-b28c-4fa9-a3f2-ef5ae8b82d8f",
+          "author": "Adrian S. Wisnicki",
+          "description": "A review of Keys to the Archive, an archival collection focusing on the works of Ernest J. Gaines, directed by David Squires",
+          "link": "https://reviewsindh.pubpub.org/pub/keys-to-the-archive",
+          "publishedOn": "2023-05-30T00:00:00.000Z",
+          "wordCount": 2123,
+          "title": "Review: Keys to the Archive",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/cjy4hws1/51685408783271.png"
+          }
+        },
+        {
           "id": "4a46854c-dfd9-4d4e-a1bc-b56d11aef381",
           "author": "Lidia Bocanegra Barbecho",
           "description": "A review of BERT for Humanists, an online resource helping humanists use natural language processing, directed by Matt Wilkens, David Mimno, and Melanie Walsh",
@@ -3793,6 +3799,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=17671",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1678, a Latin translation of an Arabic magical handbook copied from the Spanish-language version. Written in France[?] in the second half of the 18th century. You can read the complete record for this document (and findContinue reading \"Manuscript Monday: Ms. Codex 1678 – Liber Piccatriciae. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/05/29/manuscript-monday-ms-codex-1678-liber-piccatriciae-video-orientation/",
+          "publishedOn": "2023-05-29T12:00:00.000Z",
+          "wordCount": 1176,
+          "title": "Manuscript Monday: Ms. Codex 1678 – Liber Piccatriciae. (Video Orientation)"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=17668",
           "author": "simsmss",
@@ -6695,15 +6710,6 @@
           "publishedOn": "2022-12-13T11:40:23.000Z",
           "wordCount": 764,
           "title": "Guidelines and Best Practices for Research-Based Teaching"
-        },
-        {
-          "id": "5824 at https://www.clarin.eu",
-          "author": "Elisa Gorgaini",
-          "description": "CLARIN Compatible NER and Geoparsing Web Services for Italian and Serbian Parallel Text (It-Sr-Ner)\n\n            \n\nBlog post written by Prof. Olja Perisic outlining the outcomes of the project 'Compatible NER and Geoparsing Web Services for Italian and Serbian Parallel Text (It-Sr-Ner)' that won the CLARIN Bridging Gap Call.\n\n \n\nThe Project\nWinning the ‘Bridging gaps’ Call allowed us to connect CLARIN to external language technology tools by building web services that would enable monolingual and bilingual NER (Named Entity Recognition)  annotation of aligned text, specifically Italian-Serbian and geoparsing. The possibility of integrating the It-Sr-NER-ws into the CLARIN ERIC Switchboard and the JERTEH (Society for Language Resources and Tools) infrastructure following FAIR Data Principle…",
-          "link": "https://www.clarin.eu/blog/clarin-compatible-ner-and-geoparsing-web-services-italian-and-serbian-parallel-text-it-sr-ner",
-          "publishedOn": "2022-12-01T14:16:07.000Z",
-          "wordCount": 1364,
-          "title": "CLARIN Compatible NER and Geoparsing Web Services for Italian and Serbian Parallel Text (It-Sr-Ner)"
         }
       ]
     },

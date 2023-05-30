@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-05-29T08:03:54.737Z</updated>
+    <updated>2023-05-30T08:04:02.929Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review: Age of Revolutions]]></title>
+        <id>524e7bb2-fd94-438d-afde-e81a982004cb</id>
+        <link href="https://reviewsindh.pubpub.org/pub/age-of-revolutions"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Age of Revolutions, a digital journal exploring the history of revolutions, directed by Bryan A. Banks and Cindy Ermus]]></summary>
+        <author>
+            <name>Mackenzie Brooks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Keys to the Archive]]></title>
+        <id>868ec8ac-b28c-4fa9-a3f2-ef5ae8b82d8f</id>
+        <link href="https://reviewsindh.pubpub.org/pub/keys-to-the-archive"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Keys to the Archive, an archival collection focusing on the works of Ernest J. Gaines, directed by David Squires]]></summary>
+        <author>
+            <name>Adrian S. Wisnicki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1678 – Liber Piccatriciae. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=17671</id>
+        <link href="https://schoenberginstitute.org/2023/05/29/manuscript-monday-ms-codex-1678-liber-piccatriciae-video-orientation/"/>
+        <updated>2023-05-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1678, a Latin translation of an Arabic magical handbook copied from the Spanish-language version. Written in France[?] in the second half of the 18th century. You can read the complete record for this document (and findContinue reading "Manuscript Monday: Ms. Codex 1678 – Liber Piccatriciae. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Video Games in the Classroom and the Non-Western World]]></title>
         <id>http://digitalorientalist.com/?p=10632</id>
@@ -8821,46 +8851,6 @@ wissenschaftlich*r Mitarbeiter’in (w/m/d) in den…]]></summary>
         <summary type="html"><![CDATA[From the announcement: The Digital Collections Librarian works as part of the Digital by Dartmouth Library (DxDL) program, in collaboration with Dartmouth students, faculty, staff, and community partners, to develop digital collections and exhibits in alignment with the Dartmouth Library’s priorities and values. The Digital Collections Librarian will contribute to the design, creation and reuse ...read more]]></summary>
         <author>
             <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARIN Compatible NER and Geoparsing Web Services for Italian and Serbian Parallel Text (It-Sr-Ner)]]></title>
-        <id>5824 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/clarin-compatible-ner-and-geoparsing-web-services-italian-and-serbian-parallel-text-it-sr-ner"/>
-        <updated>2022-12-01T14:16:07.000Z</updated>
-        <summary type="html"><![CDATA[CLARIN Compatible NER and Geoparsing Web Services for Italian and Serbian Parallel Text (It-Sr-Ner)
-
-            
-
-Blog post written by Prof. Olja Perisic outlining the outcomes of the project 'Compatible NER and Geoparsing Web Services for Italian and Serbian Parallel Text (It-Sr-Ner)' that won the CLARIN Bridging Gap Call.
-
- 
-
-The Project
-Winning the ‘Bridging gaps’ Call allowed us to connect CLARIN to external language technology tools by building web services that would enable monolingual and bilingual NER (Named Entity Recognition)  annotation of aligned text, specifically Italian-Serbian and geoparsing. The possibility of integrating the It-Sr-NER-ws into the CLARIN ERIC Switchboard and the JERTEH (Society for Language Resources and Tools) infrastructure following FAIR Data Principle…]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP:  Le numérique comme méthodes et terrains. Perspectives féministes (NuMFem 2023)]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=12058</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2022/12/01/cfp-le-numerique-comme-methodes-et-terrains-perspectives-feministes-numfem-2023/"/>
-        <updated>2022-12-01T10:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Le colloque “Le numérique comme méthodes et terrains : perspectives féministes” (NuMFem2023) se tiendra les  29-30 juin 2023 en ligne et au Centre Internet et Sociétré (CIS) sur le site Pouchet du CNRS (Paris). L’ambition de ce colloque international est d’interroger la façon dont le numérique, à la fois instrument, méthode, terrain et objet de […]
-The post CFP:  Le numérique comme méthodes et terrains. Perspectives féministes (NuMFem 2023) appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for CSDH/SCHN Program Chair (Congress 2023)]]></title>
-        <id>https://csdh-schn.org/?p=1118</id>
-        <link href="https://csdh-schn.org/call-for-csdh-schn-program-chair-congress-2023/"/>
-        <updated>2022-11-30T20:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Dear Colleagues, CSDH/SCHN is seeking a program chair to lead the organization of our annual conference as part of Congress 2023 (York University, May 27th to June 2nd). Ideally, we would like to run a hybrid conference allowing members to meet in person for the first time since 2019 while also offering the chance to […]]]></summary>
-        <author>
-            <name>Kyle Dase</name>
         </author>
     </entry>
     <entry>
