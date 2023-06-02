@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-06-01T08:03:36.878Z</updated>
+    <updated>2023-06-02T08:03:45.101Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call for Papers: DHd2024]]></title>
+        <id>node/903</id>
+        <link href="https://dig-hum.de/aktuelles/call-for-papers-dhd2024"/>
+        <updated>2023-06-01T13:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Die 10. DHd Jahreskonferenz wird vom 26.02.2024 bis zum 01.03.2024 in Passau unter dem Motto "DH Quo Vadis" stattfinden. 
+Call for Papers
+Mittlerweile ist es zehn Jahre her, dass…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Evolution of Projects and the Importance of Reassessment]]></title>
         <id>http://digitalorientalist.com/?p=10362</id>
