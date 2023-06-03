@@ -37,15 +37,6 @@
           "publishedOn": "2023-01-13T10:03:07.000Z",
           "wordCount": 462,
           "title": "Dickens Letters Hackathon"
-        },
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8281",
-          "author": "Lucy Stagg",
-          "description": "The Sloane Lab are seeking to appoint Community Fellows (ten in total until summer 2024) to contribute to “The Sloane Lab: Looking back to build future shared collections”, led by University College London (UCL) in partnership with the Technische Universität Darmstadt, British Museum (BM) and Natural History Museum (NHM). The fellow will undertake creative, critical, […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2022/12/05/the-sloane-lab-community-fellowships-round-one/",
-          "publishedOn": "2022-12-05T14:58:00.000Z",
-          "wordCount": 466,
-          "title": "The Sloane Lab Community Fellowships Round One"
         }
       ]
     },
@@ -307,6 +298,15 @@
       "feedUrl": "https://adho.org/rss.xml",
       "siteUrl": "https://adho.org",
       "articles": [
+        {
+          "id": "https://adho.org/?p=1999",
+          "author": "Erdal Ayan",
+          "description": "The following memorial announcements and condolences were published by EADH and AIUCD The passing of Prof. Dino Buzzetti Dear colleagues, dear EADH community, It is with immense sadness that I must inform you of the passing of Prof. Dino Buzzetti on Sunday, 23 April. Dino was one of the most profound and insightful minds in… Read More »Prof. Dino Buzzetti, In Memoriam",
+          "link": "https://adho.org/2023/06/02/prof-dino-buzzetti-in-memoriam/",
+          "publishedOn": "2023-06-02T12:26:34.000Z",
+          "wordCount": 358,
+          "title": "Prof. Dino Buzzetti, In Memoriam"
+        },
         {
           "id": "https://adho.org/?p=1992",
           "author": "Erdal Ayan",
@@ -2054,6 +2054,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10664",
+          "author": "Mariana Zorkina",
+          "description": "This post is prepared together with Tilman Schalmey (Trier University). Digital approaches changed a lot in the way we deal …",
+          "link": "https://digitalorientalist.com/2023/06/02/working-in-dh-projects-a-survey/",
+          "publishedOn": "2023-06-02T13:00:00.000Z",
+          "wordCount": 665,
+          "title": "Working in DH projects – a survey."
+        },
         {
           "id": "http://digitalorientalist.com/?p=10362",
           "author": "James Harry Morris",
@@ -4761,15 +4770,6 @@
           "publishedOn": "2022-12-19T07:55:04.000Z",
           "wordCount": 677,
           "title": "Crowdsourcing in Living with Machines: crowdsourcing for engagement meets data science research"
-        },
-        {
-          "id": "4296 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "English version below\n.\nТретя зустріч учасників Люксембурзької мережі українських дослідників (LURN) відбудеться 9 грудня 2022 року з 8:30 до 13:00 в Люксембурзькому університеті на кампусі Belval, Porte des Sciences 11, L-4365 Еш-сюр-Альзетт, у відкритому просторі C²DH.\nПрограма має два розділи. У першій частині тренінги та дискусії проведуть Сандра Камарда, Маріон Рутц, Ерве Мюллер, Андреас Фікерс і Філіп Дельфосс на теми цілепокладання в науці, академічної комунікації, написання резюме, культурних відмінностей між західноєвропейськими та східноєвропейськими академічними закладами. традиції та ментроінг. У другій частині заходу запрошені люксембурзькі колеги презентують українським дослідникам свої наукові спільноти, дослідницькі центри та можливості фінансування.\nОфіційна частина заверш…",
-          "link": "https://www.c2dh.uni.lu/events/lurn3-luxembourg-ukrainian-researcher-network-merezha-ukrayinskih-doslidnikiv-u-lyuksemburzi",
-          "publishedOn": "2022-12-05T11:57:16.000Z",
-          "wordCount": 570,
-          "title": "LURN3: Luxembourg Ukrainian Researcher Network / Мережа українських дослідників у Люксембурзі: 3-тя зустріч"
         }
       ]
     },
@@ -6370,24 +6370,6 @@
           "publishedOn": "2022-12-06T10:50:14.000Z",
           "wordCount": 323,
           "title": "Mailing List"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/mphil-new-course-options-for-2023-2024/",
-          "author": null,
-          "description": "Applications for our MPhil in Digital Humanities are currently open (deadline for funding 5 January 2023). Our MPhil explores what it means to be human in an increasingly digital world, in a flexible format that allows you to bring your existing expertise to the programme, and design an end-of-year project or dissertation that works for",
-          "link": "https://www.cdh.cam.ac.uk/about/news/mphil-new-course-options-for-2023-2024/",
-          "publishedOn": "2022-12-05T11:41:15.000Z",
-          "wordCount": 383,
-          "title": "MPhil: new course options for 2023-2024"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/stephen-turton/",
-          "author": null,
-          "description": "Stephen Turton is a Research Fellow at Gonville and Caius College specializing in the history of English dictionaries from 1600 to the present, with a particular interest in their representations of marginalized language varieties and social groups. One of his projects is a collaboration with Charlotte Brewer (Oxford) to digitize and edit the correspondence of",
-          "link": "https://www.cdh.cam.ac.uk/about/people/stephen-turton/",
-          "publishedOn": "2022-12-05T10:42:20.000Z",
-          "wordCount": 351,
-          "title": "Stephen Turton"
         }
       ]
     },
