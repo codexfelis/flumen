@@ -107,15 +107,6 @@
           "publishedOn": "2022-12-16T10:10:47.000Z",
           "wordCount": 251,
           "title": "DHNB2023 Notifications to Authors – Program Committee"
-        },
-        {
-          "id": "https://dhnb.eu/?p=2371",
-          "author": "Annika Rockenberger",
-          "description": "DHNB – CALL FOR HOSTS The Digital Humanities in the Nordic and Baltic Countries (DHNB) Board invites proposals to host the 2025 DHNB Conference.  The DHNB conference has become a fixed annual event in the DH calendar. After successful events in Oslo, Gothenburg, Helsinki, Copenhagen, virtually in Riga, and hybrid in Uppsala, our next DHNB conference […]",
-          "link": "https://dhnb.eu/dhnb-call-for-conference-hosts-2025/",
-          "publishedOn": "2022-12-08T08:53:54.000Z",
-          "wordCount": 644,
-          "title": "DHNB Call for Conference Hosts 2025"
         }
       ]
     },
@@ -213,6 +204,15 @@
       "feedUrl": "https://ach.org/feed/",
       "siteUrl": "https://ach.org",
       "articles": [
+        {
+          "id": "https://ach.org/?p=2472",
+          "author": "Quinn Dombrowski",
+          "description": "The Association for Computers and the Humanities is sad to share the news of David L. Hoover’s passing on May 25, 2023. David served on the ACH Executive Board from 2005 to 2008, and as Vice-President in 2006-2007. For decades, he was among the most faithful presences at the annual DH conference (remarkably, he presented…Continue reading.",
+          "link": "https://ach.org/blog/2023/06/05/in-memoriam-david-l-hoover/",
+          "publishedOn": "2023-06-05T15:02:07.000Z",
+          "wordCount": 828,
+          "title": "In memoriam David L. Hoover"
+        },
         {
           "id": "https://ach.org/?p=2469",
           "author": "jwoowinter",
@@ -1725,6 +1725,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/904",
+          "author": "434",
+          "description": "Liebe Mitglieder des DHd-Verbandes und Interessierte,\nfür unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…",
+          "link": "https://dig-hum.de/aktuelles/einladung-zum-dhd-community-forum-am-07072023-14-uhr",
+          "publishedOn": "2023-06-05T19:26:40.000Z",
+          "wordCount": 878,
+          "title": "Einladung zum DHd Community Forum am 07.07.2023, 14 Uhr"
+        },
+        {
           "id": "node/903",
           "author": "434",
           "description": "Die 10. DHd Jahreskonferenz wird vom 26.02.2024 bis zum 01.03.2024 in Passau unter dem Motto \"DH Quo Vadis\" stattfinden. \nCall for Papers\nMittlerweile ist es zehn Jahre her, dass…",
@@ -2972,15 +2981,6 @@
           "publishedOn": "2023-01-05T13:50:29.000Z",
           "wordCount": 551,
           "title": "Douglass Day 2023"
-        },
-        {
-          "id": "1229 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Monday, June 5, 2023 - 10:00am—Thursday, June 8, 2023 - 5:00pm\n\n\n\nThe Univesity of Pennsylvania\n\n\n\nDream Lab is a week-long digital humanities training opportunity hosted by the University of Pennsylvania and designed to help humanists become more confident and thoughtful users, creators, and critics of digital technology. There are several courses to choose from, each of which combines technology instruction with practical application. Dream Lab is open to everyone but has been designed especially to serve early-stage scholars aspiring to be teaching faculty, research librarians, and archivists.\nDream Lab 2023 will feature the following classes:\nAdvocating for Community: Data Collection and Visualization, Dr. Jennifer Garcon, Cassandra Hradil, and Emily Esten\nBlack Speculative Digital Arts and Humanities, Dr. Michael Burns & Dr. Clay Colmon\nCreative Coding, Dr. Mark Sample\nDigital Humanities in the Classroom, Dorothy Berry & Roberto Vargas\nDigital Surrogates, Dot Porter\nEast Asian Studies and Digital Humanities, Dr. Paula R. Curtis & Dr. Paul Vierthaler\nHumanities Mapping, Dr. Andrew Janco\nNuts and Bolts of DH Project Development, Kayla Abner & Lauren Cooper\nText Analysis, Dr. J.D. Porter\nFor more information about each class, visit the Dream Lab page: https://web.sas.upenn.edu/dream-lab/courses-2023/\n\n\nRegister\n\n\nSubtitle: \n\nDigital Humanities Summer Training Institute\n\n\nImage for Left Column:",
-          "link": "https://pricelab.sas.upenn.edu/events/dream-lab-2023",
-          "publishedOn": "2022-12-08T12:03:06.000Z",
-          "wordCount": 387,
-          "title": "Dream Lab 2023"
         }
       ]
     },
@@ -3167,6 +3167,20 @@
       "feedUrl": "https://readcoop.eu/feed",
       "siteUrl": "https://readcoop.eu/",
       "articles": [
+        {
+          "id": "https://readcoop.eu/?p=32658",
+          "author": "Florian Stauder",
+          "description": "Transkribus Desk is where the work happens.  We are thrilled to offer you a sneak peek into the future of Transkribus with the availability of the Transkribus Next Gen Desk on beta.transkribus.eu. It is now live for you to give it a try. This is the first step towards the new generation of Transkribus. The […]\nThe post Try out the Transkribus Next Gen Desk on our Beta appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/try-out-the-transkribus-next-gen-desk-on-our-beta/",
+          "publishedOn": "2023-06-05T14:42:39.000Z",
+          "wordCount": 1638,
+          "title": "Try out the Transkribus Next Gen Desk on our Beta",
+          "enclosure": {
+            "url": "https://readcoop.eu/wp-content/uploads/2023/06/Transkribus-5-June-2023.mp4",
+            "length": "434363",
+            "type": "video/mp4"
+          }
+        },
         {
           "id": "https://readcoop.eu/?p=32593",
           "author": "Florian Stauder",
@@ -4030,15 +4044,6 @@
           "publishedOn": "2022-12-12T08:13:52.000Z",
           "wordCount": 1858,
           "title": "Call for contributions: 2023 DH Benelux Conference"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1646",
-          "author": "Laura Mesotten",
-          "description": "To kick-off the Digital Scholarship Module, a training for first-year PhD researchers at the Faculty of Arts, we, at Artes Research, hosted a training session dedicated to research data workflows. Three researchers from the Faculty of Arts offered a behind-the-scenes…\n\nContinue reading “Recap: How do you do it? A behind-the-scenes look at research workflows”…",
-          "link": "https://scholarlytales.hcommons.org/2022/12/08/recap-how-do-you-do-it-a-behind-the-scenes-look-at-research-workflows/",
-          "publishedOn": "2022-12-08T08:14:49.000Z",
-          "wordCount": 3437,
-          "title": "Recap: How do you do it? A behind-the-scenes look at research workflows"
         }
       ]
     },
@@ -4725,6 +4730,15 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/about/people/imogen-ford/",
+          "author": null,
+          "description": "Imogen works at Cambridge Digital Library as a Digital Library Coordinator, with a focus on data. She has a background in software development and is interested in the digital representation, manipulation, and management of information.",
+          "link": "https://www.cdh.cam.ac.uk/about/people/imogen-ford/",
+          "publishedOn": "2023-06-05T09:07:37.000Z",
+          "wordCount": 394,
+          "title": "Imogen Ford"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/about/people/dr-leonardo-impett/",
           "author": null,
           "description": "Dr Leonardo Impett is a University Assistant Professor in Digital Humanities and convenor of the MPhil in Digital Humanities. He was previously Assistant Professor of Computer Science at Durham University. Leonardo has a background in information engineering and machine learning, having worked or studied at the Cambridge Machine Learning Lab, the Cambridge Computer Lab's Rainbow",
@@ -4786,6 +4800,15 @@
           "publishedOn": "2023-05-22T07:48:33.000Z",
           "wordCount": 2249,
           "title": "Courses"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/mailing-list/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/mailing-list/",
+          "publishedOn": "2023-05-22T07:48:32.000Z",
+          "wordCount": 410,
+          "title": "Mailing List"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/nathaniel-zetter/",
@@ -7118,15 +7141,6 @@
           "publishedOn": "2022-12-31T13:18:48.000Z",
           "wordCount": 75,
           "title": "Journal of JADH Vol.6及び『デジタル・ヒューマニティーズ』第三号を刊行しました"
-        },
-        {
-          "id": "72 at https://www.jadh.org",
-          "author": "adminweb",
-          "description": "The Journal of the Japanese Association for Digital Humanities (in English) is now inviting submissions for Volume 7 of the journal to be issued in October 2023. \nThe JJADH is a peer-review and open-access journal, online at:\nhttps://www.jstage.jst.go.jp/browse/jjadh/5/0/_contents/-char/en\nTo submit your paper, please access the online submission system at:\nhttps://journals.jadh.org/index.php/jjadh/about/submissions\nFirst please register with the journal by clicking the \"register\" link. Make sure to register as “Author.\" Once you have registered, you can submit your paper by clicking \"New submission.\" Please read the instructions on the pages carefully. We ask that papers be submitted according to the guidelines and web-submission process stipulated.\nThe JJADH is not limited to Japanese st…",
-          "link": "https://www.jadh.org/node/72",
-          "publishedOn": "2022-12-08T06:50:17.000Z",
-          "wordCount": 446,
-          "title": "CFP Volume 7 JJADH"
         }
       ]
     },
