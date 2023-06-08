@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-06-07T08:04:01.748Z</updated>
+    <updated>2023-06-08T08:03:50.077Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Garth Davies – A Hodgepodge of Research on Violent Extremism]]></title>
+        <id>https://digitaldemocracies.org/?p=5057</id>
+        <link href="https://digitaldemocracies.org/garth-davies-a-hodgepodge-of-research-on-violent-extremism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=garth-davies-a-hodgepodge-of-research-on-violent-extremism"/>
+        <updated>2023-06-07T21:17:01.000Z</updated>
+        <summary type="html"><![CDATA[This post was written by Carina Albrecht, PhD Candidate and Data Fluencies fellow at the Digital Democracies Institute On April 12, 2023, we had the pleasure of hosting Dr. Garth …
+  Garth Davies – A Hodgepodge of Research on Violent Extremism Read More »
+Garth Davies – A Hodgepodge of Research on Violent Extremism first appeared on Digital Democracies Institute.]]></summary>
+        <author>
+            <name>Kayla Hilstob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: Art within Reach: Photomechanical Reproductions of Works of Art from Print to Digital]]></title>
+        <id>1453 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2023/06/07/cfp-art-within-reach-photomechanical-reproductions-works-art-print-digital"/>
+        <updated>2023-06-07T14:21:23.000Z</updated>
+        <summary type="html"><![CDATA[30 Jul 2023 - 00:00
+
+
+
+CFP: Art within Reach: Photomechanical Reproductions of Works of Art from Print to Digital
+
+
+
+bit.ly/art-within-reach
+In-person conference, Prague, Czech Academy of Sciences, 5-6 December 2023
+Abstract deadline: 30 July
+We are pleased to share the CFP for the international conference Art within Reach: Photomechanical Reproductions of Works of Art from Print to Digital.
+The conference is organised by the Institute of Art History of the Czech Academy of Sciences in Prague, 5–6 December 2023.
+Abstract:
+With the development of photomechanical printing techniques around 1900, the dissemination of visual information about art objects expanded on an unprecedented scale. For the first time, editors, publishers, gallerists, auctioneers, artists, art historians, and associatio…]]></summary>
+        <author>
+            <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-Computing: Dissent and the Machine’]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/project-archive/anti-computing-dissent-and-the-machine/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/project-archive/anti-computing-dissent-and-the-machine/"/>
+        <updated>2023-06-07T14:08:05.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public History in European Historical Perspectives]]></title>
         <id>4557 at https://www.c2dh.uni.lu</id>
@@ -8613,23 +8658,6 @@ Continue reading “Call for contributions: 2023 DH Benelux Conference”…]]><
 
 This was part of the Real Face of White Australia project – an ongoing effort by Kate Bagnall and me to increase awareness and understanding of the White Australia Policy records held by the NAA. For an introduction to the project and its origins, see our chapter ‘The people inside’, published in Seeing the Past with Computers: Experiments with Augmented Reality and Computer Vision for History, edited by Kevin Kee and Tim Compeau.
 The…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent presentations – Library of Congress Data Jam, Everyday Heritage, Wikidata, and GLAM Workbench!]]></title>
-        <id>http://wragge.micro.blog/2022/12/10/recent-presentations-library.html</id>
-        <link href="https://updates.timsherratt.org/2022/12/10/recent-presentations-library.html"/>
-        <updated>2022-12-10T03:00:33.000Z</updated>
-        <summary type="html"><![CDATA[October and November brought a flurry of presentations from which I’m still recovering. Here’s a few details and links.
-Library of Congress Data Jam
-In October, the Computing Cultural Heritage in the Cloud project at the Library of Congress organised a Data Jam. I was invited to spend a couple of weeks playing around with one of their datasets and to report on the results. I ended up trying to find references to countries in a collection of 90,000 OCRd books. Of course I struck a few problems along the way, and didn’t get nearly as much done as I’d hoped, but that was really part of the point – to find the problems and explore the possibilities. You can watch a video of my presentation, or the whole Data Jam.
-
-
-You can also:
-View the slides of my presentation
-Examine the Jupyter notebooks …]]></summary>
         <author>
             <name>Tim Sherratt</name>
         </author>
