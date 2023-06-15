@@ -98,15 +98,6 @@
           "publishedOn": "2023-01-05T12:46:16.000Z",
           "wordCount": 177,
           "title": "DHNB2023 Workshops Published – Registration Open!"
-        },
-        {
-          "id": "https://dhnb.eu/?p=2374",
-          "author": "Annika Rockenberger",
-          "description": "Notifications Sent to Authors On December 15th, notifications were sent to all authors who submitted proposals to DHNB2023. We received 85 submissions for long papers, panels, show-and-tell presentations and workshops. All accepted proposals will be published in the Book of Abstracts. All authors of accepted proposals will also be invited to submit full papers for […]",
-          "link": "https://dhnb.eu/dhnb2023-notifications-to-authors-program-committee/",
-          "publishedOn": "2022-12-16T10:10:47.000Z",
-          "wordCount": 251,
-          "title": "DHNB2023 Notifications to Authors – Program Committee"
         }
       ]
     },
@@ -2386,6 +2377,24 @@
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
         {
+          "id": "discourse.computational-humanities-research.org-topic-1978",
+          "author": "melvin.wevers",
+          "description": "From December 6 to 8, 2023, the fourth edition of the CHR conference will take place at École pour l’informatique et les techniques avancées, Paris!\nDates\nJuly 24, 2023: Submission deadline\nSeptember 2023: Notification to authors\nOctober, 2023: Final papers ready\nDecember 6-87, 2023: Conference\nFrom the call for papers\nIn the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches. Despite the undeniable growth of th…",
+          "link": "https://discourse.computational-humanities-research.org/t/chr2023-conference/1978",
+          "publishedOn": "2023-06-14T10:08:14.000Z",
+          "wordCount": 464,
+          "title": "CHR2023 Conference"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-1977",
+          "author": "melvin.wevers",
+          "description": "This is tag that can be used to flag topics as relating to the CHR2023 conference.\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/about-the-chr2023-category/1977",
+          "publishedOn": "2023-06-14T10:01:25.000Z",
+          "wordCount": 58,
+          "title": "About the CHR2023 category"
+        },
+        {
           "id": "discourse.computational-humanities-research.org-topic-1953",
           "author": "Waliya",
           "description": "African Electronic Literature Database\n1 post - 1 participant\nRead full topic",
@@ -4441,6 +4450,60 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/hand-in-hand-archive/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/hand-in-hand-archive/",
+          "publishedOn": "2023-06-14T14:08:59.000Z",
+          "wordCount": 595,
+          "title": "Hand in Hand Archive"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/transcribing-objects-of-tabulated-handwriting/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/transcribing-objects-of-tabulated-handwriting/",
+          "publishedOn": "2023-06-14T14:07:59.000Z",
+          "wordCount": 376,
+          "title": "Transcribing Objects of Tabulated Handwriting"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/anti-computing-dissent-and-the-machine/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/anti-computing-dissent-and-the-machine/",
+          "publishedOn": "2023-06-14T13:51:24.000Z",
+          "wordCount": 697,
+          "title": "Anti-Computing: Dissent and the Machine’"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/impacting-parnells-speeches/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/impacting-parnells-speeches/",
+          "publishedOn": "2023-06-14T13:48:12.000Z",
+          "wordCount": 661,
+          "title": "Impacting Parnell’s Speeches"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/academic-visitors-and-fellowships/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/academic-visitors-and-fellowships/",
+          "publishedOn": "2023-06-14T12:46:35.000Z",
+          "wordCount": 1456,
+          "title": "Academic Visitors and Fellowships"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/36714/",
+          "author": null,
+          "description": "What it Would Mean to Thrive?: Social Justice, Digital Media A Research Workshop and Discussion with: Edgar Gomez Cruz: Associate Professor at the School of Information at The University of Texas at Austin. Helen Thornham: Professor of Feminism, Technology & Society, University of Leeds Lead Investigator INCLUDE+ (EPSRC). and Caroline Bassett: Professor of Digital Humanities,",
+          "link": "https://www.cdh.cam.ac.uk/events/36714/",
+          "publishedOn": "2023-06-14T10:02:32.000Z",
+          "wordCount": 570,
+          "title": "What it Would Mean to Thrive?: Social Justice, Digital Media"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/34098/",
           "author": null,
