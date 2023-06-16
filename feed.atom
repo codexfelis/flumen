@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-06-15T08:04:12.877Z</updated>
+    <updated>2023-06-16T08:04:02.216Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Releasing content for researchers to re-use]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=3373</id>
+        <link href="https://livingwithmachines.ac.uk/releasing-content-for-researchers-to-re-use/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=releasing-content-for-researchers-to-re-use"/>
+        <updated>2023-06-15T14:13:25.000Z</updated>
+        <summary type="html"><![CDATA[A desire of the Living with Machines project (and indeed an AHRC ‘gold standard’) is to release as many of the newspapers we digitised as we can (subject to copyright) in forms that other researchers can access and interrogate. The digitisation process undertaken jointly by the British Library and FindMyPast for Living with Machines has […]]]></summary>
+        <author>
+            <name>Claire Austin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Blog Post | The Cambridge Theatre Hackathon]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/blog/the-cambridge-theatre-hackathon/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/blog/the-cambridge-theatre-hackathon/"/>
+        <updated>2023-06-15T13:28:29.000Z</updated>
+        <summary type="html"><![CDATA[What happens when you bring together dozens of actors, writers, designers and developers to experiment with technical theatre? The Cambridge Theatre Hackathon set out to find out. The inaugural event, supported by funding from Cambridge Digital Humanities, took place 19-20 May, 2023. The hybrid teams, with participants from around the world, created, rehearsed and performed]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome 2023 Communications Fellow, Damir Padieu]]></title>
+        <id>https://adho.org/?p=2011</id>
+        <link href="https://adho.org/2023/06/15/welcome-2023-communications-fellow-damir-padieu/"/>
+        <updated>2023-06-15T11:26:13.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to introduce and welcome Damir Padieu as ADHO’s 2023 Communications Fellow: Damir is a master’s student in Digital Humanities with a bachelor’s degree in Chinese studies. He is currently completing his master’s degree at Trier University and working as a research assistant at Trier Center for Digital Humanities. His DH research interests… Read More »Welcome 2023 Communications Fellow, Damir Padieu]]></summary>
+        <author>
+            <name>Erdal Ayan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hand in Hand Archive]]></title>
         <id>https://www.cdh.cam.ac.uk/research/projects/hand-in-hand-archive/</id>
