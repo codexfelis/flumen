@@ -1913,6 +1913,15 @@
       "siteUrl": "https://digitalhumanities.exeter.ac.uk",
       "articles": [
         {
+          "id": "https://digitalhumanities.exeter.ac.uk/?p=1033",
+          "author": "Gemma Poulton",
+          "description": "Each year we ask our interns to write a blog post at the end of their time working with us looking back on their time in the DH Lab. Here is the first of this year’s blogs from Jane-Marie: I am Jane Marie a final year Art History, Visual Culture and Classical studies student. I […]",
+          "link": "https://digitalhumanities.exeter.ac.uk/2023/06/digital-humanities-interns-2022-23/",
+          "publishedOn": "2023-06-16T11:33:00.000Z",
+          "wordCount": 1025,
+          "title": "Digital Humanities Interns 2022/23 part 1"
+        },
+        {
           "id": "https://digitalhumanities.exeter.ac.uk/?p=1004",
           "author": "Gemma Poulton",
           "description": "As part of the AHRC’s iDAH program, the University of Exeter Digital Humanities Lab is organizing a Summer School during June 2023 in Digital Skills that comprises two free training courses for Arts & Humanities Researchers:  Course 1: AHRC iDAH/Exeter Digital Summer School: Introduction to Text Analysis Using Python As part of the AHRC iDAH […]",
@@ -2648,6 +2657,15 @@
       "feedUrl": "https://livingwithmachines.ac.uk/feed",
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=3396",
+          "author": "Mia Ridge",
+          "description": "We’ve been running crowdsourcing projects at the British Library for over a decade, and began using MailChimp to send a newsletter to subscribers in 2015, when we first launched the LibCrowds platform. I’ve included updates on Living with Machines work with crowdsourcing in this newsletter since December 2019. As we start to write up our […]",
+          "link": "https://livingwithmachines.ac.uk/living-with-machines-in-the-libcrowds-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=living-with-machines-in-the-libcrowds-newsletter",
+          "publishedOn": "2023-06-16T17:39:16.000Z",
+          "wordCount": 1598,
+          "title": "Living with Machines in the LibCrowds newsletter"
+        },
         {
           "id": "https://livingwithmachines.ac.uk/?p=3373",
           "author": "Claire Austin",
@@ -4451,15 +4469,6 @@
           "publishedOn": "2023-01-09T09:54:56.000Z",
           "wordCount": 519,
           "title": "Virality, platforms and influence"
-        },
-        {
-          "id": "4325 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Living with Machines is a large interdisciplinary research project that rethinks the impact of technology on the lives of ordinary people during the Industrial Revolution and Britain’s rapid transformation into an industrial society. The 19th century was a dynamic moment in the history of English, with vocabulary undergoing rapid changes.\nTwo different strands of work within the Living with Machines project collaborated to explore how language about machines changed over time. Each strand drew on different disciplinary models for research and practice. Voluntary crowdsourcing (also known as citizen science or citizen history, or crowdsourcing in cultural heritage) and computational linguistics are well-developed fields with established methods and epistemologies.\nThis talk reflects on how …",
-          "link": "https://www.c2dh.uni.lu/events/crowdsourcing-living-machines-crowdsourcing-engagement-meets-data-science-research",
-          "publishedOn": "2022-12-19T07:55:04.000Z",
-          "wordCount": 677,
-          "title": "Crowdsourcing in Living with Machines: crowdsourcing for engagement meets data science research"
         }
       ]
     },
