@@ -2305,15 +2305,6 @@
           "publishedOn": "2022-12-30T14:05:00.000Z",
           "wordCount": 2143,
           "title": "We Need To Talk About Twitter"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=9568",
-          "author": "James Harry Morris",
-          "description": "The Digital Turn in Early Modern Japanese Studies was held from the 2nd to the 4th of December 2022. The …",
-          "link": "https://digitalorientalist.com/2022/12/27/a-critical-introduction-to-the-repository-of-digital-humanities-resources-for-early-modern-japanese-literature/",
-          "publishedOn": "2022-12-27T14:00:00.000Z",
-          "wordCount": 1463,
-          "title": "A Critical Introduction to the Repository of Digital Humanities Resources for Early Modern Japanese Literature"
         }
       ]
     },
@@ -4340,6 +4331,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/",
+          "author": null,
+          "description": "Giulia Grisot is a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally. She is currently part of the research project \"High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century\". Her",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/",
+          "publishedOn": "2023-06-23T10:10:20.000Z",
+          "wordCount": 518,
+          "title": "Dr Giulia Grisot"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/media/blog/the-cambridge-theatre-hackathon/",
           "author": null,

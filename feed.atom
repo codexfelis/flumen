@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-06-24T08:04:15.124Z</updated>
+    <updated>2023-06-25T08:04:31.118Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Each year we ask our interns to write a blog post at the end of their time working with us looking back on their time in the DH Lab. Here is the second of this year’s blogs from Dayna: Being a DH Intern Working at the Digital Humanities Lab over my final year has been […]]]></summary>
         <author>
             <name>Gemma Poulton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Giulia Grisot]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/"/>
+        <updated>2023-06-23T10:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Giulia Grisot is a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally. She is currently part of the research project "High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century". Her]]></summary>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -7995,16 +8005,6 @@ Even though the video does not provide just-as-good open source alternatives to 
 Sharing the video on Humanities Commons with stable archiving, DOI and rich metadata is among the best things that could happen to teaching resources of all kinds.]]></summary>
         <author>
             <name>Author on Source</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Critical Introduction to the Repository of Digital Humanities Resources for Early Modern Japanese Literature]]></title>
-        <id>http://digitalorientalist.com/?p=9568</id>
-        <link href="https://digitalorientalist.com/2022/12/27/a-critical-introduction-to-the-repository-of-digital-humanities-resources-for-early-modern-japanese-literature/"/>
-        <updated>2022-12-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Turn in Early Modern Japanese Studies was held from the 2nd to the 4th of December 2022. The …]]></summary>
-        <author>
-            <name>James Harry Morris</name>
         </author>
     </entry>
     <entry>
