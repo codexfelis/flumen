@@ -1378,17 +1378,7 @@
       "title": "dhCenter",
       "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
       "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
-      "articles": [
-        {
-          "id": "https://dhcenter-unil-epfl.ch/?p=12095",
-          "author": "Heloise schibler",
-          "description": "La Direction académique du dhCenter UNIL-EPFL et toute son équipe ont le regret de vous annoncer que le Centre a cessé ses activités le 31 décembre 2022. Le dhCenter a été créé pour soutenir et développer le domaine des humanités numériques en s’ouvrant à l’ensemble du campus UNIL-EPFL. Depuis son lancement le 1er février 2018 […]\nThe post Clôture du dhCenter UNIL-EPFL / Closing of the UNIL-EPFL dhCenter appeared first on dhCenter.",
-          "link": "https://dhcenter-unil-epfl.ch/en/2023/01/01/cloture-du-dhcenter-unil-epfl-closing-of-the-unil-epfl-dhcenter/",
-          "publishedOn": "2022-12-31T23:01:59.000Z",
-          "wordCount": 638,
-          "title": "Clôture du dhCenter UNIL-EPFL / Closing of the UNIL-EPFL dhCenter"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "centerNet",
@@ -2959,6 +2949,15 @@
       "siteUrl": "https://readcoop.eu/",
       "articles": [
         {
+          "id": "https://readcoop.eu/?p=32823",
+          "author": "Helene",
+          "description": "Following the successful 2022 User Conference, we want to thank everyone who attended and contributed, and are happy to announce that preparations for the next Transkribus User Conference are already underway!  Our next conference will take place in Innsbruck on 15-16 February 2024. Join us and other users from around the world to share insights, […]\nThe post Transkribus User Conference 2024 appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/transkribus-user-conference-2024/",
+          "publishedOn": "2023-06-28T08:43:43.000Z",
+          "wordCount": 1774,
+          "title": "Transkribus User Conference 2024"
+        },
+        {
           "id": "https://readcoop.eu/?p=32764",
           "author": "Florian Stauder",
           "description": "As part of our ongoing dedication to improving and adapting to the ever-changing needs of our users, we’re excited to provide a sneak peek into our upcoming pricing system that will bring more flexibility, increased value, and tailored solutions to a vast array of usage scenarios. Introducing Tailored Subscription Plans Our new pricing system introduces […]\nThe post Coming Soon: Exciting Changes to Transkribus Subscription Plans! appeared first on READ-COOP.",
@@ -4331,6 +4330,60 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/walking-the-landscape-new-film-on-the-constable-project/",
+          "author": null,
+          "description": "Inspired by French theorist of embodiment and phenomenology, Michel de Certeau, the Constable Project takes prints of the famous 19th century artist, John Constable, outside of the museum, in order to walk with them; utilising simple technologies to understand and experience these art works in the environment that inspired them, in new and deeply embodied",
+          "link": "https://www.cdh.cam.ac.uk/about/news/walking-the-landscape-new-film-on-the-constable-project/",
+          "publishedOn": "2023-06-29T14:51:03.000Z",
+          "wordCount": 1112,
+          "title": "Walking the Landscape: New Film on the Constable Project"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/past-methods-fellows/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/past-methods-fellows/",
+          "publishedOn": "2023-06-28T11:32:27.000Z",
+          "wordCount": 1937,
+          "title": "Former Methods Fellows"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/",
+          "publishedOn": "2023-06-28T11:26:24.000Z",
+          "wordCount": 2769,
+          "title": "Methods Fellowships 2023/24"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/academic-visitor-programme/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/academic-visitor-programme/",
+          "publishedOn": "2023-06-28T10:45:16.000Z",
+          "wordCount": 1458,
+          "title": "Academic Visitors and Fellowships"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/about/news/",
+          "publishedOn": "2023-06-28T10:45:15.000Z",
+          "wordCount": 358,
+          "title": "News"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/",
+          "publishedOn": "2023-06-28T08:55:04.000Z",
+          "wordCount": 982,
+          "title": "Walking the Landscape"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/36771/",
           "author": null,

@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-06-29T08:04:12.805Z</updated>
+    <updated>2023-06-30T08:14:26.951Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Walking the Landscape: New Film on the Constable Project]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/walking-the-landscape-new-film-on-the-constable-project/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/walking-the-landscape-new-film-on-the-constable-project/"/>
+        <updated>2023-06-29T14:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Inspired by French theorist of embodiment and phenomenology, Michel de Certeau, the Constable Project takes prints of the famous 19th century artist, John Constable, outside of the museum, in order to walk with them; utilising simple technologies to understand and experience these art works in the environment that inspired them, in new and deeply embodied]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Methods Fellows]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/past-methods-fellows/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/methods-fellowship-2022-23/past-methods-fellows/"/>
+        <updated>2023-06-28T11:32:27.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Methods Fellowships 2023/24]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/"/>
+        <updated>2023-06-28T11:26:24.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Academic Visitors and Fellowships]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/academic-visitor-programme/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/academic-visitor-programme/"/>
+        <updated>2023-06-28T10:45:16.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/"/>
+        <updated>2023-06-28T10:45:15.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLARIN Newsflash June 2023 Is Out]]></title>
         <id>5926 at https://www.clarin.eu</id>
@@ -30,6 +76,26 @@ You are welcome to submit a news item with CLARIN-related news (or call for pape
  28 June 2023]]></summary>
         <author>
             <name>Julia Misersky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walking the Landscape]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/projects/walking-the-landscape/"/>
+        <updated>2023-06-28T08:55:04.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transkribus User Conference 2024]]></title>
+        <id>https://readcoop.eu/?p=32823</id>
+        <link href="https://readcoop.eu/transkribus-user-conference-2024/"/>
+        <updated>2023-06-28T08:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Following the successful 2022 User Conference, we want to thank everyone who attended and contributed, and are happy to announce that preparations for the next Transkribus User Conference are already underway!  Our next conference will take place in Innsbruck on 15-16 February 2024. Join us and other users from around the world to share insights, […]
+The post Transkribus User Conference 2024 appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Helene</name>
         </author>
     </entry>
     <entry>
@@ -8042,17 +8108,6 @@ This workshop is part of the Digital Humanities in Nordic and Baltic Countries A
         <updated>2023-01-03T12:32:52.000Z</updated>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clôture du dhCenter UNIL-EPFL / Closing of the UNIL-EPFL dhCenter]]></title>
-        <id>https://dhcenter-unil-epfl.ch/?p=12095</id>
-        <link href="https://dhcenter-unil-epfl.ch/en/2023/01/01/cloture-du-dhcenter-unil-epfl-closing-of-the-unil-epfl-dhcenter/"/>
-        <updated>2022-12-31T23:01:59.000Z</updated>
-        <summary type="html"><![CDATA[La Direction académique du dhCenter UNIL-EPFL et toute son équipe ont le regret de vous annoncer que le Centre a cessé ses activités le 31 décembre 2022. Le dhCenter a été créé pour soutenir et développer le domaine des humanités numériques en s’ouvrant à l’ensemble du campus UNIL-EPFL. Depuis son lancement le 1er février 2018 […]
-The post Clôture du dhCenter UNIL-EPFL / Closing of the UNIL-EPFL dhCenter appeared first on dhCenter.]]></summary>
-        <author>
-            <name>Heloise schibler</name>
         </author>
     </entry>
     <entry>
