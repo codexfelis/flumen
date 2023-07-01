@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-06-30T08:14:26.951Z</updated>
+    <updated>2023-07-01T08:14:00.286Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities Interns 2022/23 part 3]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=1043</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2023/06/digital-humanities-interns-2022-23-part-3/"/>
+        <updated>2023-06-30T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Each year we ask our interns to write a blog post at the end of their time working with us looking back on their time in the DH Lab. Here is the third of this year’s blogs from Isabel: Hi, my name’s Isabel and I’m a third year History student and intern at the Digital […]]]></summary>
+        <author>
+            <name>Gemma Poulton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADHO Podcast, Episode 5 is on air.]]></title>
+        <id>https://adho.org/?p=2134</id>
+        <link href="https://adho.org/2023/06/30/adho-podcast-episode-5-is-on-air/"/>
+        <updated>2023-06-30T11:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Episode 5 of ADHO Podcast is on air. This time we hosted Dr. Nadezhda Povroznik from CenterNet. You can listen the episode on SoundCloud or on ADHO.]]></summary>
+        <author>
+            <name>Erdal Ayan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Walking the Landscape: New Film on the Constable Project]]></title>
         <id>https://www.cdh.cam.ac.uk/about/news/walking-the-landscape-new-film-on-the-constable-project/</id>
