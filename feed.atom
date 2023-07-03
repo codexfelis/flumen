@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-07-02T08:14:23.266Z</updated>
+    <updated>2023-07-03T08:15:31.939Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reminder: Call for Papers DHd2024]]></title>
+        <id>node/907</id>
+        <link href="https://dig-hum.de/aktuelles/reminder-call-for-papers-dhd2024"/>
+        <updated>2023-07-03T07:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Die 10. DHd Jahreskonferenz wird vom 26.02.2024 bis zum 01.03.2024 in Passau unter dem Motto "DH Quo Vadis" stattfinden. 
+Call for Papers
+Mittlerweile ist es zehn Jahre her, dass…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting to work on the Trove Data Guide]]></title>
+        <id>http://wragge.micro.blog/2023/07/03/getting-to-work.html</id>
+        <link href="https://updates.timsherratt.org/2023/07/03/getting-to-work.html"/>
+        <updated>2023-07-03T00:17:57.000Z</updated>
+        <summary type="html"><![CDATA[The ARDC has started work on the development of a HASS Community Data Lab to support digital research in the humanities. I’m part of the team of contractors, and my work package is focused on the development of a Trove Data Guide. My aim is to give researchers what they need to use and understand all the varieties of data that Trove makes available – from newspaper text to digitised, high-resolution maps.
+I’ve started sketching out the contents and approach in a series of GitHub issues. Comments and suggestions are welcome. The Guide will be built from a collection of Jupyter notebooks using Jupyter Book. You can get an idea of how this works from the development site (Warning! Will change often!).
+I’m working to get the Guide finished by December. I’ll be sharing my progress here and on Mastodon, so follow along!]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Humanities Interns 2022/23 part 3]]></title>
         <id>https://digitalhumanities.exeter.ac.uk/?p=1043</id>
@@ -50,6 +74,15 @@
         <id>https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/</id>
         <link href="https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/"/>
         <updated>2023-06-28T11:26:24.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cambridge Data Schools]]></title>
+        <id>https://www.cdh.cam.ac.uk/dataschools/</id>
+        <link href="https://www.cdh.cam.ac.uk/dataschools/"/>
+        <updated>2023-06-28T10:45:16.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
@@ -8012,84 +8045,6 @@ Douglass Day is an annual program that marks the birth of Frederick Douglass. Ea
         <summary type="html"><![CDATA[Workshops Published The DHNB 2023 Conference workshops have been published and are available to view on the DHNB2023 Conference workshops webpage. The Conference offers a mix of both in-person and online workshops, and a range of topics will be covered. To sign-up follow the instructions on the specific Conference’s page. The Program Committee and the […]]]></summary>
         <author>
             <name>Sofie Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Practices in Coding for Digital Humanities]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35916/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35916/"/>
-        <updated>2023-01-04T16:11:35.000Z</updated>
-        <summary type="html"><![CDATA[Mary Chester-Kadwell - Lead Research Software Engineer, Cambridge Digital Humanities Please note this workshop has limited spaces and an application process in place. Application forms should be completed by noon, Sunday, 12 March 2023. Successful applicants will be notified by the end-of-day Friday, 17 March 2023. This course introduces best practices and techniques to help you]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning for Investigations]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35913/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35913/"/>
-        <updated>2023-01-04T15:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Governments and big corporations are, in many cases, abusing the use of machine learning. But citizen organisations and journalists are finding creative ways of making the most of machine learning to conduct investigations in the public interest. The problem of abundance of available information has been met with the use of machines to process and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Scraping Wikipedia to Analyze XBOX Game Development Companies by Nationality]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8346</id>
-        <link href="https://sites.temple.edu/tudsc/2023/01/04/web-scraping-to-measure-developer-nationality-on-xbox-games/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=web-scraping-to-measure-developer-nationality-on-xbox-games"/>
-        <updated>2023-01-04T15:14:22.000Z</updated>
-        <summary type="html"><![CDATA[By T.A. Spiro-Costello Introduction Working on the Cultural Analytics Certificate program exposed me to a lot of the best work in digital humanities scholarship.  Two fields that jumped out at me were...]]></summary>
-        <author>
-            <name>Trystram Spiro-Costello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Scraping Wikipedia to Analyze XBOX Game Development Companies by Nationality]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8346</id>
-        <link href="https://sites.temple.edu/tudsc/2023/01/04/web-scraping-to-measure-developer-nationality-on-xbox-games/"/>
-        <updated>2023-01-04T15:14:22.000Z</updated>
-        <summary type="html"><![CDATA[By T.A. Spiro-Costello Introduction Working on the Cultural Analytics Certificate program exposed me to a lot of the best work in digital humanities scholarship.  Two fields that jumped out at me were...]]></summary>
-        <author>
-            <name>Trystram Spiro-Costello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/"/>
-        <updated>2023-01-04T14:25:31.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities Hackathons]]></title>
-        <id>https://www.cdh.cam.ac.uk/learning/digital-humanities-hackathons/</id>
-        <link href="https://www.cdh.cam.ac.uk/learning/digital-humanities-hackathons/"/>
-        <updated>2023-01-04T14:24:29.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Digital Humanities Education Workshop]]></title>
-        <id>1435 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2023/01/04/cfp-digital-humanities-education-workshop"/>
-        <updated>2023-01-04T08:26:25.000Z</updated>
-        <summary type="html"><![CDATA[15 Jan 2023 - 00:00
-
-
-
-CFP: Digital Humanities Education Workshop
-
-
-
-Scholars and practitioners are invited to submit proposals for presentations to be held at a workshop focused on digital humanities education.
-The workshop is entitled “Cross-university collaboration in Digital Humanities & Social Science (DHSS) and Digital Humanities & Cultural Heritage (DHCH) Education”. It will focus on educational matters in the field and will be held online on March 7. Accepted presentations will be run during the workshop’s open period segment.
-This workshop is part of the Digital Humanities in Nordic and Baltic Countries Annual Conference, running March 8-10, 2023. For more information on the workshop, please visit: https://lnu.se/en/research/research-groups/digital-humanities/workshop-online-2023/…]]></summary>
-        <author>
-            <name>Communication Fellow</name>
         </author>
     </entry>
     <entry>

@@ -1544,6 +1544,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/907",
+          "author": "434",
+          "description": "Die 10. DHd Jahreskonferenz wird vom 26.02.2024 bis zum 01.03.2024 in Passau unter dem Motto \"DH Quo Vadis\" stattfinden. \nCall for Papers\nMittlerweile ist es zehn Jahre her, dass…",
+          "link": "https://dig-hum.de/aktuelles/reminder-call-for-papers-dhd2024",
+          "publishedOn": "2023-07-03T07:50:54.000Z",
+          "wordCount": 2486,
+          "title": "Reminder: Call for Papers DHd2024"
+        },
+        {
           "id": "node/906",
           "author": "434",
           "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…",
@@ -2486,15 +2495,6 @@
           "publishedOn": "2023-01-10T17:53:30.000Z",
           "wordCount": 512,
           "title": "CfP: UK-Ireland Digital Humanities Association launches Community Interest Groups"
-        },
-        {
-          "id": "1435 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "15 Jan 2023 - 00:00\n\n\n\nCFP: Digital Humanities Education Workshop\n\n\n\nScholars and practitioners are invited to submit proposals for presentations to be held at a workshop focused on digital humanities education.\nThe workshop is entitled “Cross-university collaboration in Digital Humanities & Social Science (DHSS) and Digital Humanities & Cultural Heritage (DHCH) Education”. It will focus on educational matters in the field and will be held online on March 7. Accepted presentations will be run during the workshop’s open period segment.\nThis workshop is part of the Digital Humanities in Nordic and Baltic Countries Annual Conference, running March 8-10, 2023. For more information on the workshop, please visit: https://lnu.se/en/research/research-groups/digital-humanities/workshop-online-2023/…",
-          "link": "https://eadh.org/news/2023/01/04/cfp-digital-humanities-education-workshop",
-          "publishedOn": "2023-01-04T08:26:25.000Z",
-          "wordCount": 815,
-          "title": "CFP: Digital Humanities Education Workshop"
         }
       ]
     },
@@ -3868,24 +3868,6 @@
           "publishedOn": "2023-05-08T04:33:22.000Z",
           "wordCount": 1645,
           "title": "Machine Learning for Image Segmentation"
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8346",
-          "author": "Trystram Spiro-Costello",
-          "description": "By T.A. Spiro-Costello Introduction Working on the Cultural Analytics Certificate program exposed me to a lot of the best work in digital humanities scholarship.  Two fields that jumped out at me were...",
-          "link": "https://sites.temple.edu/tudsc/2023/01/04/web-scraping-to-measure-developer-nationality-on-xbox-games/?utm_source=rss&utm_medium=rss&utm_campaign=web-scraping-to-measure-developer-nationality-on-xbox-games",
-          "publishedOn": "2023-01-04T15:14:22.000Z",
-          "wordCount": 1274,
-          "title": "Web Scraping Wikipedia to Analyze XBOX Game Development Companies by Nationality"
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8346",
-          "author": "Trystram Spiro-Costello",
-          "description": "By T.A. Spiro-Costello Introduction Working on the Cultural Analytics Certificate program exposed me to a lot of the best work in digital humanities scholarship.  Two fields that jumped out at me were...",
-          "link": "https://sites.temple.edu/tudsc/2023/01/04/web-scraping-to-measure-developer-nationality-on-xbox-games/",
-          "publishedOn": "2023-01-04T15:14:22.000Z",
-          "wordCount": 1274,
-          "title": "Web Scraping Wikipedia to Analyze XBOX Game Development Companies by Nationality"
         }
       ]
     },
@@ -3940,6 +3922,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2023/07/03/getting-to-work.html",
+          "author": null,
+          "description": "The ARDC has started work on the development of a HASS Community Data Lab to support digital research in the humanities. I’m part of the team of contractors, and my work package is focused on the development of a Trove Data Guide. My aim is to give researchers what they need to use and understand all the varieties of data that Trove makes available – from newspaper text to digitised, high-resolution maps.\nI’ve started sketching out the contents and approach in a series of GitHub issues. Comments and suggestions are welcome. The Guide will be built from a collection of Jupyter notebooks using Jupyter Book. You can get an idea of how this works from the development site (Warning! Will change often!).\nI’m working to get the Guide finished by December. I’ll be sharing my progress here and on Mastodon, so follow along!",
+          "link": "https://updates.timsherratt.org/2023/07/03/getting-to-work.html",
+          "publishedOn": "2023-07-03T00:17:57.000Z",
+          "wordCount": 201,
+          "title": "Getting to work on the Trove Data Guide"
+        },
         {
           "id": "http://wragge.micro.blog/2023/05/08/updated-harvest-of.html",
           "author": null,
@@ -4365,6 +4356,15 @@
           "publishedOn": "2023-06-28T11:26:24.000Z",
           "wordCount": 2769,
           "title": "Methods Fellowships 2023/24"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/dataschools/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/dataschools/",
+          "publishedOn": "2023-06-28T10:45:16.000Z",
+          "wordCount": 686,
+          "title": "Cambridge Data Schools"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/research/academic-visitor-programme/",
@@ -5985,42 +5985,6 @@
           "publishedOn": "2023-01-05T16:05:55.000Z",
           "wordCount": 1315,
           "title": "Creative-Critical Methods: Bearing Witness to Personal and Collective Trauma"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35916/",
-          "author": null,
-          "description": "Mary Chester-Kadwell - Lead Research Software Engineer, Cambridge Digital Humanities Please note this workshop has limited spaces and an application process in place. Application forms should be completed by noon, Sunday, 12 March 2023. Successful applicants will be notified by the end-of-day Friday, 17 March 2023. This course introduces best practices and techniques to help you",
-          "link": "https://www.cdh.cam.ac.uk/events/35916/",
-          "publishedOn": "2023-01-04T16:11:35.000Z",
-          "wordCount": 957,
-          "title": "Best Practices in Coding for Digital Humanities"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35913/",
-          "author": null,
-          "description": "Governments and big corporations are, in many cases, abusing the use of machine learning. But citizen organisations and journalists are finding creative ways of making the most of machine learning to conduct investigations in the public interest. The problem of abundance of available information has been met with the use of machines to process and",
-          "link": "https://www.cdh.cam.ac.uk/events/35913/",
-          "publishedOn": "2023-01-04T15:33:20.000Z",
-          "wordCount": 644,
-          "title": "Machine Learning for Investigations"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/media/",
-          "publishedOn": "2023-01-04T14:25:31.000Z",
-          "wordCount": 287,
-          "title": "Media"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/learning/digital-humanities-hackathons/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/learning/digital-humanities-hackathons/",
-          "publishedOn": "2023-01-04T14:24:29.000Z",
-          "wordCount": 324,
-          "title": "Digital Humanities Hackathons"
         }
       ]
     },
