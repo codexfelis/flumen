@@ -89,15 +89,6 @@
           "publishedOn": "2023-01-23T10:44:02.000Z",
           "wordCount": 177,
           "title": "Conference Registration is now open!"
-        },
-        {
-          "id": "https://dhnb.eu/?p=2429",
-          "author": "Sofie Gilbert",
-          "description": "Workshops Published The DHNB 2023 Conference workshops have been published and are available to view on the DHNB2023 Conference workshops webpage. The Conference offers a mix of both in-person and online workshops, and a range of topics will be covered. To sign-up follow the instructions on the specific Conference’s page. The Program Committee and the […]",
-          "link": "https://dhnb.eu/dhnb2023-workshops-published-registration-open/",
-          "publishedOn": "2023-01-05T12:46:16.000Z",
-          "wordCount": 177,
-          "title": "DHNB2023 Workshops Published – Registration Open!"
         }
       ]
     },
@@ -1544,6 +1535,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/908",
+          "author": "434",
+          "description": "Am Mittwoch, den 30.08., und Donnerstag, den 31.08.2023, findet in der Zentralbibliothek Zürich die Summer School zum Thema \"Einführung in die digitale Editorik. Briefe mit TEI…",
+          "link": "https://dig-hum.de/aktuelles/summer-school-einf%C3%BChrung-die-digitale-editorik-briefe-tei-codieren-und-publizieren",
+          "publishedOn": "2023-07-03T19:43:56.000Z",
+          "wordCount": 1110,
+          "title": "Summer School: Einführung in die digitale Editorik. Briefe mit TEI codieren und publizieren."
+        },
+        {
           "id": "node/907",
           "author": "434",
           "description": "Die 10. DHd Jahreskonferenz wird vom 26.02.2024 bis zum 01.03.2024 in Passau unter dem Motto \"DH Quo Vadis\" stattfinden. \nCall for Papers\nMittlerweile ist es zehn Jahre her, dass…",
@@ -2504,6 +2504,15 @@
       "siteUrl": "https://escripta.hypotheses.org",
       "articles": [
         {
+          "id": "https://escripta.hypotheses.org/?p=521",
+          "author": "Daniel Stoekl Ben Ezra",
+          "description": "Postdoc ERC Synergy MiDRASH in Paris The Ecole pratique des hautes études, PSL-University in Paris, France is hiring a postdoctoral research associate in Hebrew Literature to work on the ERC Synergy project MiDRASH (Migrations...",
+          "link": "https://escripta.hypotheses.org/521",
+          "publishedOn": "2023-07-03T13:06:25.000Z",
+          "wordCount": 854,
+          "title": "Open Position: Postdoc ERC Synergy MiDRASH"
+        },
+        {
           "id": "https://escripta.hypotheses.org/?p=500",
           "author": "Daniel Stoekl Ben Ezra",
           "description": "MiDRASH – Migrations of Textual and Scribal Traditions via Large-Scale Computational Analysis of Medieval Manuscripts in Hebrew Script The European Research Council has awarded an ERC Synergy Grant to the EPHE and its partner...",
@@ -2762,15 +2771,6 @@
           "publishedOn": "2023-01-10T22:07:19.000Z",
           "wordCount": 208,
           "title": "Jim  English"
-        },
-        {
-          "id": "1231 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Tuesday, February 14, 2023 - 3:00pm\n\n\n\nThe Kislak Center, 6th floor of Van Pelt Library\n\n\n\nEvery Valentine’s Day, we invite you to a birthday party for Frederick Douglass. Although Douglass never knew his birthdate, he chose to celebrate every year on February 14th. We celebrate this date as a moment for creating Black history together by hosting a transcribe-a-thon.\nWhat is Douglass Day?\n \nDouglass Day is an annual program that marks the birth of Frederick Douglass. Each year, we gather thousands of people to help create new & freely available resources for learning about Black history. We frequently focus on important Black women’s archives, such as Anna Julia Cooper (2020), Mary Church Terrell (2021), and plenty more to come in future years. Learn more about the history of Douglass Day.…",
-          "link": "https://pricelab.sas.upenn.edu/events/douglass-day-2023",
-          "publishedOn": "2023-01-05T13:50:29.000Z",
-          "wordCount": 551,
-          "title": "Douglass Day 2023"
         }
       ]
     },
@@ -4356,6 +4356,15 @@
           "publishedOn": "2023-06-28T11:26:24.000Z",
           "wordCount": 2769,
           "title": "Methods Fellowships 2023/24"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/media/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/media/",
+          "publishedOn": "2023-06-28T10:45:16.000Z",
+          "wordCount": 363,
+          "title": "Media"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/dataschools/",
@@ -5976,15 +5985,6 @@
           "publishedOn": "2023-01-06T09:29:05.000Z",
           "wordCount": 842,
           "title": "Gaming the Revolution – Bid Development Award"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35822/",
-          "author": null,
-          "description": "Convenor: Aphrodita Nicolova (CDH Methods Fellow) Sarah Ahmed and Jackie Stacey wrote that “speaking out about injustice, trauma, pain and grief have become crucial aspects of contemporary life which have transformed notions of what it means to be a subject, what it means to speak, and how we can understand the formation of communities and",
-          "link": "https://www.cdh.cam.ac.uk/events/35822/",
-          "publishedOn": "2023-01-05T16:05:55.000Z",
-          "wordCount": 1315,
-          "title": "Creative-Critical Methods: Bearing Witness to Personal and Collective Trauma"
         }
       ]
     },

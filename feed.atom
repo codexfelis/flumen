@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-07-03T08:15:31.939Z</updated>
+    <updated>2023-07-04T08:15:48.928Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Summer School: Einführung in die digitale Editorik. Briefe mit TEI codieren und publizieren.]]></title>
+        <id>node/908</id>
+        <link href="https://dig-hum.de/aktuelles/summer-school-einf%C3%BChrung-die-digitale-editorik-briefe-tei-codieren-und-publizieren"/>
+        <updated>2023-07-03T19:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Am Mittwoch, den 30.08., und Donnerstag, den 31.08.2023, findet in der Zentralbibliothek Zürich die Summer School zum Thema "Einführung in die digitale Editorik. Briefe mit TEI…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Position: Postdoc ERC Synergy MiDRASH]]></title>
+        <id>https://escripta.hypotheses.org/?p=521</id>
+        <link href="https://escripta.hypotheses.org/521"/>
+        <updated>2023-07-03T13:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Postdoc ERC Synergy MiDRASH in Paris The Ecole pratique des hautes études, PSL-University in Paris, France is hiring a postdoctoral research associate in Hebrew Literature to work on the ERC Synergy project MiDRASH (Migrations...]]></summary>
+        <author>
+            <name>Daniel Stoekl Ben Ezra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reminder: Call for Papers DHd2024]]></title>
         <id>node/907</id>
@@ -74,6 +94,15 @@ I’m working to get the Guide finished by December. I’ll be sharing my progre
         <id>https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/</id>
         <link href="https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/"/>
         <updated>2023-06-28T11:26:24.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Media]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/"/>
+        <updated>2023-06-28T10:45:16.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
@@ -8004,47 +8033,6 @@ Black Box, Maison des Sciences hu…]]></summary>
         <summary type="html"><![CDATA[Dr Alexis Litvine was awarded a CDH Bid Development Award in 2021. The funding helped Alexis and his team prepare a bid to develop an innovative approach to game-based learning. The collaborative project would benefit students, teachers, and game designers. A game prototype articulates multiple causal chains in a game format, allowing students to explore]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creative-Critical Methods: Bearing Witness to Personal and Collective Trauma]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35822/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35822/"/>
-        <updated>2023-01-05T16:05:55.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Aphrodita Nicolova (CDH Methods Fellow) Sarah Ahmed and Jackie Stacey wrote that “speaking out about injustice, trauma, pain and grief have become crucial aspects of contemporary life which have transformed notions of what it means to be a subject, what it means to speak, and how we can understand the formation of communities and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglass Day 2023]]></title>
-        <id>1231 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/events/douglass-day-2023"/>
-        <updated>2023-01-05T13:50:29.000Z</updated>
-        <summary type="html"><![CDATA[Tuesday, February 14, 2023 - 3:00pm
-
-
-
-The Kislak Center, 6th floor of Van Pelt Library
-
-
-
-Every Valentine’s Day, we invite you to a birthday party for Frederick Douglass. Although Douglass never knew his birthdate, he chose to celebrate every year on February 14th. We celebrate this date as a moment for creating Black history together by hosting a transcribe-a-thon.
-What is Douglass Day?
- 
-Douglass Day is an annual program that marks the birth of Frederick Douglass. Each year, we gather thousands of people to help create new & freely available resources for learning about Black history. We frequently focus on important Black women’s archives, such as Anna Julia Cooper (2020), Mary Church Terrell (2021), and plenty more to come in future years. Learn more about the history of Douglass Day.…]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHNB2023 Workshops Published – Registration Open!]]></title>
-        <id>https://dhnb.eu/?p=2429</id>
-        <link href="https://dhnb.eu/dhnb2023-workshops-published-registration-open/"/>
-        <updated>2023-01-05T12:46:16.000Z</updated>
-        <summary type="html"><![CDATA[Workshops Published The DHNB 2023 Conference workshops have been published and are available to view on the DHNB2023 Conference workshops webpage. The Conference offers a mix of both in-person and online workshops, and a range of topics will be covered. To sign-up follow the instructions on the specific Conference’s page. The Program Committee and the […]]]></summary>
-        <author>
-            <name>Sofie Gilbert</name>
         </author>
     </entry>
     <entry>
