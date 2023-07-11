@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-07-10T08:16:40.503Z</updated>
+    <updated>2023-07-11T08:16:09.378Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SUMAC'23 @ACMM'23: the 5th ACM International workshop on analySis, Understanding and proMotion of heritAge Contents]]></title>
+        <id>discourse.computational-humanities-research.org-topic-1990</id>
+        <link href="https://discourse.computational-humanities-research.org/t/sumac23-acmm23-the-5th-acm-international-workshop-on-analysis-understanding-and-promotion-of-heritage-contents/1990"/>
+        <updated>2023-07-11T07:19:41.000Z</updated>
+        <summary type="html"><![CDATA[Call for Papers
+SUMAC 2023: 5th ACM International workshop on analySis, Understanding and proMotion of heritAge Contents
+Advances in machine learning, signal processing, multimodal techniques and human-machine interaction
+In conjunction with ACM Multimedia 2023
+29 Oct - 3 Nov, 2023
+Ottawa, Canada
+Workshop: https://sumac-workshops.github.io/2023/
+https://www.acmmm2023.org/
+Aims and scope
+The ambition of SUMAC is to bring together researchers and practitioners from different disciplines to share ideas and methods on current trends in the analysis, understanding and promotion of heritage contents. These challenges are reflected in the corresponding sub-fields of machine learning, signal processing, multi-modal techniques and human-machine interaction. We welcome research contributions for the…]]></summary>
+        <author>
+            <name>vgouet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Transkribus Super Models – Get Access to ‘The Text Titan I’]]></title>
+        <id>https://readcoop.eu/?p=32930</id>
+        <link href="https://readcoop.eu/introducing-transkribus-super-models-get-access-to-the-text-titan-i/"/>
+        <updated>2023-07-10T11:21:25.000Z</updated>
+        <summary type="html"><![CDATA[With the Transkribus Next Gen well on its way, we are excited to announce that access to our new Transkribus super model ‘The Text Titan  I’ is now available for early access. In this blog post we will talk about why we are introducing this new technology and about the benefits that come with it. […]
+The post Introducing Transkribus Super Models – Get Access to ‘The Text Titan I’ appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Helene</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Multilingual Research Projects: Non-Latin Script Challenges for Making Use of Standards, Authority Files, and Character Recognition”.]]></title>
         <id>http://openmethods.dariah.eu/?p=3345</id>
@@ -7920,43 +7950,6 @@ Symposium der RISM-Arbeitsgruppe Deutschland e.V. in der Bayerischen Staatsbibli
 München, 21.…]]></summary>
         <author>
             <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixelated Realities - 3-Visualisations of Cultural Heritage and the "Museum of UA Victory. Digital heritage for recovery”]]></title>
-        <id>4381 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/pixelated-realities-3-visualisations-cultural-heritage-and-museum-ua-victory-digital-heritage"/>
-        <updated>2023-01-12T11:56:36.000Z</updated>
-        <summary type="html"><![CDATA[On 24 February 2022, Pixelated Realities NPO launched the documentary project “The Museum of Ukrainian Victory”, with the aim of reflecting the full picture of the war in Ukraine.
-
-
-
- 
-Fedir Boitsov, the Head of Pixelated Realities, will be sharing the vision behind the Museum of UA Victory and discussing the use of three-dimensional reconstructions in the project. He will focus on how these reconstructions, whether of a destroyed home or the rusting shell of a burnt-out car, can evoke more emotion than traditional photography. The project, which is an emergency war-documentary, aims to shed light on the widespread phenomenon of confidence in victory among Ukrainians.
-
-
-Fedir Boitsov - Head of Pixelated Realities. Visioner, architect and 3d artist, 3d scanning expert, producer for VR/AR, digital manufacturing.
- 
-Thursday, 19 January 2023, starting at 14.00 (CET)
-C²DH Open Space, 4th floor Maison des Sciences humaines, Belval Campus
-and online (please write to nina.janz@uni.lu to receive the webex link)
-19 January 2023
-  Augmented reality  Digitisation  Preservation
-  Conferences
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New CAA Computational Archaeology Lab]]></title>
-        <id>https://sites.caa-international.org/main/?p=16897</id>
-        <link href="https://caa-international.org/2023/01/11/new-caa-computational-archaeology-lab/"/>
-        <updated>2023-01-11T23:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Join us in Amsterdam 11-14 April 2023 for CAA’s first Computational Archaeology Lab (CAL), a four-day course entitled “Delving into Data. The Lab, which is being organised in collaboration with the ARCHON Research School of Archaeology, will showcase different ways to handle archaeological data that go beyond standard database manipulations and visualisations. Please visit the Lab’s homepage, […]]]></summary>
-        <author>
-            <name>lisafischer</name>
         </author>
     </entry>
     <entry>
