@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-07-14T08:15:10.273Z</updated>
+    <updated>2023-07-15T08:13:57.550Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Survey on ADHO’s Identity]]></title>
+        <id>https://adho.org/?p=2335</id>
+        <link href="https://adho.org/2023/07/14/survey-on-adhos-identity/"/>
+        <updated>2023-07-14T17:28:40.000Z</updated>
+        <summary type="html"><![CDATA[The ADHO Identity Project began following the July 2022 ADHO meetings. One of the major challenges ADHO faces is the lack of a clear articulation of its own identity, particularly after many years of ADHO executive effort have been directed towards addressing numerous bureaucratic, logistical, and structural challenges. With those issues largely sorted out, there… Read More »Survey on ADHO’s Identity]]></summary>
+        <author>
+            <name>hannah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHARTI & KADH Join ADHO!]]></title>
         <id>https://adho.org/?p=2297</id>
@@ -7910,116 +7920,6 @@ The post Digital Humanities and Data Mining: The Key to Efficient Seminar Prepar
         <summary type="html"><![CDATA[La SCHN-CSDH est à la recherche de personnes intéressées à occuper le poste de secrétaire dans son comité exécutive. Ce rôle prend la responsabilité de maintenir les inscriptions de ses membres, de consigner ses activités, et des correspondances officielles. Il s’agit d’une excellente opportunité de développement professionnel, d’engagement dans la communauté des humanités numériques au […]]]></summary>
         <author>
             <name>Kyle Dase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join Our Team!]]></title>
-        <id>https://csdh-schn.org/?p=1141</id>
-        <link href="https://csdh-schn.org/join-our-team/"/>
-        <updated>2023-01-16T19:59:26.000Z</updated>
-        <summary type="html"><![CDATA[CSDH-SCHN is currently looking for nominees interested in serving on its executive team as secretary. The Secretary is responsible for duties related to the maintenance of the membership, the history, and the general correspondence of the society. It’s also a great opportunity to build your CV, engage with dh, and meet colleagues from around the […]]]></summary>
-        <author>
-            <name>Kyle Dase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theorising Transparency in Digital Culture]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35975/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35975/"/>
-        <updated>2023-01-16T14:54:36.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Carleigh Morgan (CDH Methods Fellow) This project begins from the premise that ‘transparency’ is not clear at all. Transparency is historically mediated, culturally constructed, and ideologically complex. Understood expansively, transparency is enmeshed with a variety of functions and associations, having been mobilised as a political call to action; a design methodology; a radical practice]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Abstracts: CLARIN2023]]></title>
-        <id>5840 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/call-abstracts-clarin2023"/>
-        <updated>2023-01-16T13:04:14.000Z</updated>
-        <summary type="html"><![CDATA[Call for Abstracts: CLARIN2023
-
-            
-
-    
-
-
-      
-
-Photo: Groot Begijnhof, Leuven, Belgium
-  
-The call for the submission of extended abstracts for the CLARIN Annual Conference 2023 (CLARIN2023) is now open.
-The CLARIN Annual Conference is organised for the wider humanities and social sciences community in order to exchange experiences in working with the CLARIN infrastructure, share best practices, and discuss plans for future developments. CLARIN2023 will be a face-to-face event, which will also be fully accessible virtually (hybrid format). The conference will take place in the historic city of Leuven, Belgium.
-You are invited to submit your abstract until 14 April 2023
-Read the full call here.
-
-      Julia Misersky
- 16 January 2023]]></summary>
-        <author>
-            <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archiving with the Apsáalooke]]></title>
-        <id>4384 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/archiving-apsaalooke"/>
-        <updated>2023-01-16T12:26:45.000Z</updated>
-        <summary type="html"><![CDATA[In 1922, the U.S. Office of Indian Affairs ordered a photographic survey of every reservation in the West. The federal government planned to pass a law making all Native Americans citizens of the United States. The surveys would measure individual family’s readiness for citizenship. Among the Apsáalooke (Crow Nation), the Indian Agent surveyed 244 houses. While these surveys and photographs are instruments of surveillance, they also provide a unique snapshot into Crow daily life. However, the descendants of the families haven’t seen these photographs before. It is relatively easy to create a digital archive to rematriate the surveys. But is it possible to do something more? Can we reframe these images wrought of settler violence as family portraits?
-
-
-Rebecca S. Wingo is a scholar of the I…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Georeferencing Ordnance Survey Maps]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=2952</id>
-        <link href="https://livingwithmachines.ac.uk/georeferencing-ordnance-survey-maps/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=georeferencing-ordnance-survey-maps"/>
-        <updated>2023-01-16T10:47:09.000Z</updated>
-        <summary type="html"><![CDATA[The British Library has digitised over 10,500 historical Ordnance Survey (OS) maps as part of the Living with Machines project (to know more about the selection process you can read our blogpost on Digitising Ordnance Survey maps).  These maps were digitised as TIFF files – a high-quality format that is standard in libraries and archives. […]]]></summary>
-        <author>
-            <name>Giorgia Tolfo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a national picture: digitising Ordnance Survey maps]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=2950</id>
-        <link href="https://livingwithmachines.ac.uk/creating-a-national-picture-digitising-ordnance-survey-maps/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=creating-a-national-picture-digitising-ordnance-survey-maps"/>
-        <updated>2023-01-16T10:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Ordnance Survey (OS) maps are incredible resources for researchers interested in British history, such as the Living with Machines team who have developed the MapReader software library to analyze historical maps at scale. These maps contain details about the built and natural environments that are uniquely captured on a national scale over a period of […]]]></summary>
-        <author>
-            <name>Giorgia Tolfo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Political Orders: Louise Amoore]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35969/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35969/"/>
-        <updated>2023-01-16T09:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The transformation from rules based algorithms to deep learning models has been a condition of possibility for the undoing of rules based social and political orders, from the Brexit challenges to EU integration to the austerity politics and digitalization of welfare states and the pandemic NHS. Where rules-based computation and decision was critical to the]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning experiments in computer vision and visual literacy: Geoff Cox]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35966/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35966/"/>
-        <updated>2023-01-16T09:16:27.000Z</updated>
-        <summary type="html"><![CDATA[Referring to John Berger’s Ways of Seeing (1972) the presentation argues for an expansion of visual literacy to examine how machine vision further unsettles received humanist notions. When images are made by machines for other machines, and part of vast annotated datasets, how are worldviews reinforced differently, and what kind of literacy applies, if at]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Networking Letters; Networking Archives: Ruth Ahnert]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35963/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35963/"/>
-        <updated>2023-01-16T09:12:26.000Z</updated>
-        <summary type="html"><![CDATA[This paper will present research from the linked projects Tudor Networks of Power and Networking Archives. These projects employ methods from the field of quantitive network analysis, as well as other digital methods and visualisation techniques, to analyse epistolary networks and the movement of information in the early modern world. These data-driven approaches to the]]></summary>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>

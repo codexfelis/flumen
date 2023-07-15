@@ -245,6 +245,15 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=2335",
+          "author": "hannah",
+          "description": "The ADHO Identity Project began following the July 2022 ADHO meetings. One of the major challenges ADHO faces is the lack of a clear articulation of its own identity, particularly after many years of ADHO executive effort have been directed towards addressing numerous bureaucratic, logistical, and structural challenges. With those issues largely sorted out, there… Read More »Survey on ADHO’s Identity",
+          "link": "https://adho.org/2023/07/14/survey-on-adhos-identity/",
+          "publishedOn": "2023-07-14T17:28:40.000Z",
+          "wordCount": 449,
+          "title": "Survey on ADHO’s Identity"
+        },
+        {
           "id": "https://adho.org/?p=2297",
           "author": "hannah",
           "description": "We are thrilled to announce that the Digital Humanities Alliance for Research and Teaching Innovations (DHARTI) of India and the Korean Association for Digital Humanities / 한국디지털인문학협의회 (KADH) have joined ADHO as our newest Constituent Organisations. ADHO’s Constituent Organisations Board voted in favor of DHARTI and KADH joining during their annual meeting on 11 July… Read More »DHARTI & KADH Join ADHO!",
@@ -579,15 +588,6 @@
           "publishedOn": "2023-01-16T23:56:43.000Z",
           "wordCount": 222,
           "title": "Rejoignez l’équipe!"
-        },
-        {
-          "id": "https://csdh-schn.org/?p=1141",
-          "author": "Kyle Dase",
-          "description": "CSDH-SCHN is currently looking for nominees interested in serving on its executive team as secretary. The Secretary is responsible for duties related to the maintenance of the membership, the history, and the general correspondence of the society. It’s also a great opportunity to build your CV, engage with dh, and meet colleagues from around the […]",
-          "link": "https://csdh-schn.org/join-our-team/",
-          "publishedOn": "2023-01-16T19:59:26.000Z",
-          "wordCount": 224,
-          "title": "Join Our Team!"
         }
       ]
     },
@@ -2649,24 +2649,6 @@
             "length": "130840184",
             "type": "video/quicktime"
           }
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=2952",
-          "author": "Giorgia Tolfo",
-          "description": "The British Library has digitised over 10,500 historical Ordnance Survey (OS) maps as part of the Living with Machines project (to know more about the selection process you can read our blogpost on Digitising Ordnance Survey maps).  These maps were digitised as TIFF files – a high-quality format that is standard in libraries and archives. […]",
-          "link": "https://livingwithmachines.ac.uk/georeferencing-ordnance-survey-maps/?utm_source=rss&utm_medium=rss&utm_campaign=georeferencing-ordnance-survey-maps",
-          "publishedOn": "2023-01-16T10:47:09.000Z",
-          "wordCount": 1225,
-          "title": "Georeferencing Ordnance Survey Maps"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=2950",
-          "author": "Giorgia Tolfo",
-          "description": "Ordnance Survey (OS) maps are incredible resources for researchers interested in British history, such as the Living with Machines team who have developed the MapReader software library to analyze historical maps at scale. These maps contain details about the built and natural environments that are uniquely captured on a national scale over a period of […]",
-          "link": "https://livingwithmachines.ac.uk/creating-a-national-picture-digitising-ordnance-survey-maps/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-national-picture-digitising-ordnance-survey-maps",
-          "publishedOn": "2023-01-16T10:46:17.000Z",
-          "wordCount": 1116,
-          "title": "Creating a national picture: digitising Ordnance Survey maps"
         }
       ]
     },
@@ -4277,15 +4259,6 @@
           "publishedOn": "2023-01-20T12:41:39.000Z",
           "wordCount": 546,
           "title": "LURN4: Luxembourg Ukrainian Researcher Network / Мережа українських дослідників у Люксембурзі: 4-е засідання"
-        },
-        {
-          "id": "4384 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "In 1922, the U.S. Office of Indian Affairs ordered a photographic survey of every reservation in the West. The federal government planned to pass a law making all Native Americans citizens of the United States. The surveys would measure individual family’s readiness for citizenship. Among the Apsáalooke (Crow Nation), the Indian Agent surveyed 244 houses. While these surveys and photographs are instruments of surveillance, they also provide a unique snapshot into Crow daily life. However, the descendants of the families haven’t seen these photographs before. It is relatively easy to create a digital archive to rematriate the surveys. But is it possible to do something more? Can we reframe these images wrought of settler violence as family portraits?\n\n\nRebecca S. Wingo is a scholar of the I…",
-          "link": "https://www.c2dh.uni.lu/events/archiving-apsaalooke",
-          "publishedOn": "2023-01-16T12:26:45.000Z",
-          "wordCount": 555,
-          "title": "Archiving with the Apsáalooke"
         }
       ]
     },
@@ -5895,42 +5868,6 @@
           "publishedOn": "2023-01-17T12:52:04.000Z",
           "wordCount": 373,
           "title": "Q&A Session: Social Data School"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35975/",
-          "author": null,
-          "description": "Convenor: Carleigh Morgan (CDH Methods Fellow) This project begins from the premise that ‘transparency’ is not clear at all. Transparency is historically mediated, culturally constructed, and ideologically complex. Understood expansively, transparency is enmeshed with a variety of functions and associations, having been mobilised as a political call to action; a design methodology; a radical practice",
-          "link": "https://www.cdh.cam.ac.uk/events/35975/",
-          "publishedOn": "2023-01-16T14:54:36.000Z",
-          "wordCount": 612,
-          "title": "Theorising Transparency in Digital Culture"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35969/",
-          "author": null,
-          "description": "The transformation from rules based algorithms to deep learning models has been a condition of possibility for the undoing of rules based social and political orders, from the Brexit challenges to EU integration to the austerity politics and digitalization of welfare states and the pandemic NHS. Where rules-based computation and decision was critical to the",
-          "link": "https://www.cdh.cam.ac.uk/events/35969/",
-          "publishedOn": "2023-01-16T09:23:00.000Z",
-          "wordCount": 737,
-          "title": "Machine Learning Political Orders: Louise Amoore"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35966/",
-          "author": null,
-          "description": "Referring to John Berger’s Ways of Seeing (1972) the presentation argues for an expansion of visual literacy to examine how machine vision further unsettles received humanist notions. When images are made by machines for other machines, and part of vast annotated datasets, how are worldviews reinforced differently, and what kind of literacy applies, if at",
-          "link": "https://www.cdh.cam.ac.uk/events/35966/",
-          "publishedOn": "2023-01-16T09:16:27.000Z",
-          "wordCount": 490,
-          "title": "Learning experiments in computer vision and visual literacy: Geoff Cox"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/35963/",
-          "author": null,
-          "description": "This paper will present research from the linked projects Tudor Networks of Power and Networking Archives. These projects employ methods from the field of quantitive network analysis, as well as other digital methods and visualisation techniques, to analyse epistolary networks and the movement of information in the early modern world. These data-driven approaches to the",
-          "link": "https://www.cdh.cam.ac.uk/events/35963/",
-          "publishedOn": "2023-01-16T09:12:26.000Z",
-          "wordCount": 467,
-          "title": "Networking Letters; Networking Archives: Ruth Ahnert"
         }
       ]
     },
@@ -6181,15 +6118,6 @@
           "publishedOn": "2023-01-22T12:58:27.000Z",
           "wordCount": 421,
           "title": "CLARIN Internships – Meet the Interns"
-        },
-        {
-          "id": "5840 at https://www.clarin.eu",
-          "author": "Julia Misersky",
-          "description": "Call for Abstracts: CLARIN2023\n\n            \n\n    \n\n\n      \n\nPhoto: Groot Begijnhof, Leuven, Belgium\n  \nThe call for the submission of extended abstracts for the CLARIN Annual Conference 2023 (CLARIN2023) is now open.\nThe CLARIN Annual Conference is organised for the wider humanities and social sciences community in order to exchange experiences in working with the CLARIN infrastructure, share best practices, and discuss plans for future developments. CLARIN2023 will be a face-to-face event, which will also be fully accessible virtually (hybrid format). The conference will take place in the historic city of Leuven, Belgium.\nYou are invited to submit your abstract until 14 April 2023\nRead the full call here.\n\n      Julia Misersky\n 16 January 2023",
-          "link": "https://www.clarin.eu/news/call-abstracts-clarin2023",
-          "publishedOn": "2023-01-16T13:04:14.000Z",
-          "wordCount": 252,
-          "title": "Call for Abstracts: CLARIN2023"
         }
       ]
     },
