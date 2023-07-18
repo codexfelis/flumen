@@ -3869,6 +3869,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2023/07/18/trove-api-console.html",
+          "author": null,
+          "description": "The Trove API Console provides examples of the Trove API in action that you can run, edit, and share. It’s been online for 9 years now, and I’ve just updated it to use version 3 of the Trove API by default. I’ve also added a new ‘Share’ button that makes it easier to share and embed examples.\nIf you click on the ‘Share’ button, a box will pop up.\n\r\nIf you add a comment, this will appear above the example query when users follow the shared link. You can use this to provide them with some context or a description.\n\r\nThere are two buttons providing different share options:\nCopy share url – copies the full url to the shared example\nCopy Markdown button – copies a Markdown snippet that embeds a button like this  linked to your example. Just paste it into your Markdown-formatted documentation!\nOther improvements include:\nThe parameters used in any request are now displayed in a table for easy reference.\nThe Console includes a link to an API Status page. This page runs all the example queries in the Console and checks the results to make sure the API is working as expected. It’s updated every 6 hours.\nVersion 3 of the Trove API includes a standard Swagger UI that you can use to build queries, and provides limited anonymous access (without the need for an API key). But if, like me, you learn best by looking at examples, then you should find the API Console handy. In particular, the API Console makes it easy to share live examples which can be very useful in training, troubleshooting, and writing documentation. The Trove Data Guide, which I’m working on at the moment, includes lots of ‘Try it!’ buttons.",
+          "link": "https://updates.timsherratt.org/2023/07/18/trove-api-console.html",
+          "publishedOn": "2023-07-18T01:27:11.000Z",
+          "wordCount": 340,
+          "title": "Trove API Console updates"
+        },
+        {
           "id": "http://wragge.micro.blog/2023/07/03/getting-to-work.html",
           "author": null,
           "description": "The ARDC has started work on the development of a HASS Community Data Lab to support digital research in the humanities. I’m part of the team of contractors, and my work package is focused on the development of a Trove Data Guide. My aim is to give researchers what they need to use and understand all the varieties of data that Trove makes available – from newspaper text to digitised, high-resolution maps.\nI’ve started sketching out the contents and approach in a series of GitHub issues. Comments and suggestions are welcome. The Guide will be built from a collection of Jupyter notebooks using Jupyter Book. You can get an idea of how this works from the development site (Warning! Will change often!).\nI’m working to get the Guide finished by December. I’ll be sharing my progress here and on Mastodon, so follow along!",

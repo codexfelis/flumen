@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-07-17T08:16:14.081Z</updated>
+    <updated>2023-07-18T08:14:54.687Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trove API Console updates]]></title>
+        <id>http://wragge.micro.blog/2023/07/18/trove-api-console.html</id>
+        <link href="https://updates.timsherratt.org/2023/07/18/trove-api-console.html"/>
+        <updated>2023-07-18T01:27:11.000Z</updated>
+        <summary type="html"><![CDATA[The Trove API Console provides examples of the Trove API in action that you can run, edit, and share. It’s been online for 9 years now, and I’ve just updated it to use version 3 of the Trove API by default. I’ve also added a new ‘Share’ button that makes it easier to share and embed examples.
+If you click on the ‘Share’ button, a box will pop up.
+
+If you add a comment, this will appear above the example query when users follow the shared link. You can use this to provide them with some context or a description.
+
+There are two buttons providing different share options:
+Copy share url – copies the full url to the shared example
+Copy Markdown button – copies a Markdown snippet that embeds a button like this  linked to your example. Just paste it into your Markdown-formatted documentation!
+Other improvements include:
+The parameters used in any request are now displayed in a table for easy reference.
+The Console includes a link to an API Status page. This page runs all the example queries in the Console and checks the results to make sure the API is working as expected. It’s updated every 6 hours.
+Version 3 of the Trove API includes a standard Swagger UI that you can use to build queries, and provides limited anonymous access (without the need for an API key). But if, like me, you learn best by looking at examples, then you should find the API Console handy. In particular, the API Console makes it easy to share live examples which can be very useful in training, troubleshooting, and writing documentation. The Trove Data Guide, which I’m working on at the moment, includes lots of ‘Try it!’ buttons.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call for Proposals to Host FORCE11 Annual Conference]]></title>
         <id>https://force11.org/?p=150602</id>
