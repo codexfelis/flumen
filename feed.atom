@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-07-18T08:14:54.687Z</updated>
+    <updated>2023-07-19T08:14:12.401Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Referent / Referentin (m/w/d) für Digitales Kulturerbe und Denkmalinformationssysteme]]></title>
+        <id>node/909</id>
+        <link href="https://dig-hum.de/aktuelles/referent-referentin-mwd-f%C3%BCr-digitales-kulturerbe-und-denkmalinformationssysteme"/>
+        <updated>2023-07-18T14:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Der Landschaftsverband Rheinland sucht zum nächstmöglichen Zeitpunkt eine/n Referent / Referentin (m/w/d) für Digitales Kulturerbe und Denkmalinformationssysteme
+Standort:…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Past Data Schools]]></title>
+        <id>https://www.cdh.cam.ac.uk/dataschools/past-data-schools/</id>
+        <link href="https://www.cdh.cam.ac.uk/dataschools/past-data-schools/"/>
+        <updated>2023-07-18T13:36:34.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British Academy Postdoctoral Fellowships 2023]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/british-academy-postdoctoral-fellowships-2023/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/british-academy-postdoctoral-fellowships-2023/"/>
+        <updated>2023-07-18T09:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Cambridge Digital Humanities (CDH) at the University of Cambridge welcomes applications for the British Academy Postdoctoral Fellowships 2023. The deadline for the full application to be submitted to the Research Office is 27 September 2023 but your application to CDH must reach us by 12.00pm BST on Monday 21 August 2023. The British Academy Postdoctoral Fellowship is]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trove API Console updates]]></title>
         <id>http://wragge.micro.blog/2023/07/18/trove-api-console.html</id>
@@ -25,6 +55,18 @@ The Console includes a link to an API Status page. This page runs all the exampl
 Version 3 of the Trove API includes a standard Swagger UI that you can use to build queries, and provides limited anonymous access (without the need for an API key). But if, like me, you learn best by looking at examples, then you should find the API Console handy. In particular, the API Console makes it easy to share live examples which can be very useful in training, troubleshooting, and writing documentation. The Trove Data Guide, which I’m working on at the moment, includes lots of ‘Try it!’ buttons.]]></summary>
         <author>
             <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the 2023-2024 Data Fluencies Faculty Fellows]]></title>
+        <id>https://digitaldemocracies.org/?p=5125</id>
+        <link href="https://digitaldemocracies.org/data-fluencies-mellon-sfu-faculty-fellows/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=data-fluencies-mellon-sfu-faculty-fellows"/>
+        <updated>2023-07-17T20:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Dr. Susan Erikson and Dr. Victoria Thomas, the 2023-2024 Data Fluencies Faculty fellows The Mellon Foundation, together with the Digital Democracies Institute’s (DDI) Data Fluencies Project, is sponsoring …
+  Announcing the 2023-2024 Data Fluencies Faculty Fellows Read More »
+Announcing the 2023-2024 Data Fluencies Faculty Fellows first appeared on Digital Democracies Institute.]]></summary>
+        <author>
+            <name>Kayla Hilstob</name>
         </author>
     </entry>
     <entry>
@@ -124,6 +166,29 @@ More info and full programme can be found at the workshop's webpage (https://fra
 Andreas Antonopoulos (University of Ioannina – University of Patras)]]></summary>
         <author>
             <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Collaborative Software Development School]]></title>
+        <id>5929 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/collaborative-software-development-school"/>
+        <updated>2023-07-11T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[The Collaborative Software Development School
+
+            
+
+  
+  
+            
+    
+
+
+      
+
+The interdisciplinary summer school for PhD candidates and younger researchers ‘The Collaborative Software Development School’ took place from 19-30 June, 2023, at the University of Bergen. The summer school was a collaboration between the Digital Lab at the University of Bergen Library, Digital Culture at the Department of Linguistic, Literary and Aesthetic Studies, and the Department of Informatics at the University of Bergen. 
+The 15 participants in the summer school came from different universities and institutions in Norway and mainly from fields connected to the social sciences and humanities (SSH). Among the participants were foremost PhD candidates, but also master students, postdocs and …]]></summary>
+        <author>
+            <name>Karina Berger</name>
         </author>
     </entry>
     <entry>
@@ -409,6 +474,16 @@ I’m working to get the Guide finished by December. I’ll be sharing my progre
         <id>https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/</id>
         <link href="https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/"/>
         <updated>2023-06-28T11:26:24.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Anti) Colonial Archives Working Group]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/anti-colonial-archives/"/>
+        <updated>2023-06-28T10:45:16.000Z</updated>
+        <summary type="html"><![CDATA[You can now watch the recording of our December 2022 event "Mapping the road to archival justice".]]></summary>
         <author>
             <name>CDH</name>
         </author>
@@ -7804,81 +7879,6 @@ Lesley has a BA in Linguistic and Intercultural Mediation and is now in her seco
  22 January 2023]]></summary>
         <author>
             <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dita N. Love]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/dita-n-love/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/dita-n-love/"/>
-        <updated>2023-01-20T15:47:14.000Z</updated>
-        <summary type="html"><![CDATA[Dita N. Love is an interdisciplinary social scientist and education researcher researching intersections across youth education, creative arts and digital humanities, and abolitionist social justice. As an ESRC Postdoctoral Research Fellow, she is working on a spoken word poetry project at the Faculty of Education, University of Cambridge where she completed her doctorate (Gates Cambridge]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digitizing Chinese Minority Textiles: An Interview with Sun Xiaolin]]></title>
-        <id>http://digitalorientalist.com/?p=9641</id>
-        <link href="https://digitalorientalist.com/2023/01/20/digitizing-chinese-minority-textiles-an-interview-with-sun-xiaolin/"/>
-        <updated>2023-01-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is an interview with Sun Xiaolin, former M.A. student at Loyola University Chicago and current Ph.D. student at the …]]></summary>
-        <author>
-            <name>Lu Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LURN4: Luxembourg Ukrainian Researcher Network / Мережа українських дослідників у Люксембурзі: 4-е засідання]]></title>
-        <id>4387 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/lurn4-luxembourg-ukrainian-researcher-network-merezha-ukrayinskih-doslidnikiv-u-lyuksemburzi"/>
-        <updated>2023-01-20T12:41:39.000Z</updated>
-        <summary type="html"><![CDATA[English version below
- 
-Четверта зустріч мережі українських дослідників у Люксембурзі LURN відбудеться 27 січня 2023 р. у приміщенні Люксембрської школи бізнесу LSB, яка люб'язно запросила ЛУРН для знайомства та проведення чергової зустрічі.
-Січнева міні-конференція стосується тем планування проектів (David White), їх здійснення (Inna Ganschow), прозорості та наукометричності досліджень (Marten Düring). LSB, окрім презентації власного закладу освіти, також дасть важливі рекомендації щодо пошуку роботи в Люксембурзі для вчених поза академічним суспiльством (Elisa Jensen). Також буде можливість послухати докторку філософії про те, як вона запустила свій успішний стартап (Katya Kamlovskaya). Модераторка засидання Оксана Карбашевська.
-LURN радий повідомити, що деякі члени влаштувалися на повну…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training: Write a Data Management Plan for research with personal data (KU Leuven)]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1747</id>
-        <link href="https://scholarlytales.hcommons.org/2023/01/20/training-write-a-data-management-plan-for-research-with-personal-data-ku-leuven/"/>
-        <updated>2023-01-20T10:26:35.000Z</updated>
-        <summary type="html"><![CDATA[This event is only open to KU Leuven researchers and staff During this training you will learn how to write and implement a data management plan (DMP) for projects and fellowships funded by FWO, BELSPO and BOF-IOF.  Through best practice…
-
-Continue reading “Training: Write a Data Management Plan for research with personal data (KU Leuven)”…]]></summary>
-        <author>
-            <name>Rebecca Burke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Research Seminar: Jennifer Cobbe]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36001/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36001/"/>
-        <updated>2023-01-20T10:25:20.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Research Seminar: Tomasz Hollanek]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36003/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36003/"/>
-        <updated>2023-01-20T10:18:13.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RaDiHum20 spricht mit Peter Niedermüller über den Studiengang in Mainz und dessen Studiengangsmanagement]]></title>
-        <id>https://radihum20.de/?p=621</id>
-        <link href="https://radihum20.de/radihum20-studiengangsmanagement2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-studiengangsmanagement2"/>
-        <updated>2023-01-20T08:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Auch der Studiengang in Mainz mit dem Namen “Digitale Methodik in den Geistes- und Kulturwissenschaften” ist ein Digital Humanities-Studiengang, in seiner breiten Ausrichtung und institutionell anspruchsvollen Verankerung allerdings ein Unikat. Zu den Herausforderungen des Studiengangsmanagements haben wir mit dem Studiengangskoordinator Peter Niedermüller gesprochen. Peter Niedermüller ist von Hause aus Musikwissenschaftler und hatte aber immer schon […]
-Der Beitrag RaDiHum20 spricht mit Peter Niedermüller über den Studiengang in Mainz und dessen Studiengangsmanagement erschien zuerst auf RaDiHum 20.]]></summary>
-        <author>
-            <name>Mareike Schumacher</name>
         </author>
     </entry>
     <entry>
