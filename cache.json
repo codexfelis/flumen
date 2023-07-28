@@ -1369,6 +1369,15 @@
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
         {
+          "id": "https://dhn.utoronto.ca/?p=8173",
+          "author": "DHN Admin",
+          "description": "CDHI is now accepting applications for Research Teams in Residence in the Critical DH Co-Working Space.   As researchers make plans for returning to campus, the Critical Digital Humanities Initiative and […]",
+          "link": "https://dhn.utoronto.ca/applications-co-working-space/?utm_source=rss&utm_medium=rss&utm_campaign=applications-co-working-space",
+          "publishedOn": "2023-07-27T13:27:35.000Z",
+          "wordCount": 568,
+          "title": "Call for Applications: Critical DH Co-Working Space"
+        },
+        {
           "id": "https://dhn.utoronto.ca/?p=7972",
           "author": "Astrid Chandler",
           "description": "A web anthology of 4,800 poems in English and French by over 700 poets spanning 1400 years",
@@ -2545,20 +2554,6 @@
           "publishedOn": "2023-02-20T16:34:53.000Z",
           "wordCount": 1245,
           "title": "Digitising newspapers press directories to understand the landscape of historical newspapers"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=2904",
-          "author": "Mia Ridge",
-          "description": "Kalle Westerling and Mia Ridge produced this for the Living with Machines exhibition, held in Leeds City Museum from July 2022-January 2023. The animation was designed to provide background information about Leeds industries and geography as context for visitors unfamiliar with Leeds, and to showcase digital humanities and data science outputs from the Living with […]",
-          "link": "https://livingwithmachines.ac.uk/leeds-over-time-as-seen-through-a-data-science-lens/?utm_source=rss&utm_medium=rss&utm_campaign=leeds-over-time-as-seen-through-a-data-science-lens",
-          "publishedOn": "2023-01-29T15:20:06.000Z",
-          "wordCount": 508,
-          "title": "Animation: ‘Leeds over time: as seen through a data science lens’",
-          "enclosure": {
-            "url": "https://livingwithmachines.ac.uk/wp-content/uploads/2022/07/Living-with-Machines-exhibition-video-20220719-480.mov",
-            "length": "130840184",
-            "type": "video/quicktime"
-          }
         }
       ]
     },
@@ -2610,6 +2605,42 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1246 at https://pricelab.sas.upenn.edu",
+          "author": "pamhorn@upenn.edu",
+          "description": "Academic Title: \n\nLecturer of Foreign Language, Francophone, Italian, and Germanic Studies Department (FIGS)\n\n\n\nJulia Heim (she/they) is a lecturer of foreign language in the department of Francophone, Italian, and Germanic Studies at the University of Pennsylvania. Their scholarly areas of inquiry range from radical pedagogies to queer Italian media studies, to translation studies. Some of their recent publications include: “Italian LGBTQ representation in Transnational TV, ” “Why LGBTQIA+ Inclusivity Matters for Italian Studies,” and the co-edited volumes Queering Italian Media (Lexington, 2020) and Spaghetti Sissies (Palgrave, 2023). In addition to research, Heim is a translator of queer theory, art criticism, and the children’s book series Geronimo Stilton. They are currently working on a digital Italian language learning resource called PRIMA (The Pedagogical Repository of Italian Media Activities) which can be accessed at primalearning.org. \n\n\nFellowship Date: \n\nJuly, 2023",
+          "link": "https://pricelab.sas.upenn.edu/fellows/heim-julia",
+          "publishedOn": "2023-07-27T20:44:37.000Z",
+          "wordCount": 329,
+          "title": "Julia  Heim"
+        },
+        {
+          "id": "1245 at https://pricelab.sas.upenn.edu",
+          "author": "pamhorn@upenn.edu",
+          "description": "Academic Title: \n\nPenn Presidential Compact Professor of Media Studies and the History of Art \n\n\n\nShannon Mattern is the Penn Presidential Compact Professor of Media Studies and the History of Art at the University of Pennsylvania. Her dad owned a hardware store and makes beautiful furniture, and her mom was a special education teacher. Before coming to Penn, between 2004 and 2022, she worked in the School of Media Studies and the Department of Anthropology at The New School and collaborated regularly with the Parsons School of Design. She won The New School’s Distinguished University Teaching Award. \nHer writing and teaching focus on archives, libraries, and other media spaces; media infrastructures; sites where data intersect with art and design; and media that shape our sensory experiences. She is the author of The New Downtown Library: Designing with Communities; Deep Mapping the Media City; Code and Clay, Data and Dirt: 5000 Years of Urban Media, all published by University of Minnesota Press; and A City Is Not a Computer, published by Princeton University Press. She also contributes a regular long-form column about urban data and mediated infrastructures to Places Journal. In addition, she serves as president of the board of the Metropolitan New York Library Council and regularly collaborates on public design and interactive projects and exhibitions.\nShe’s currently working on research and creative projects that examine how furniture design structures our engagement with media and our performance of intellectual labor; how trees have supplied both raw material and conceptual models for our media and computational technologies; and how we might creatively reimagine various genres of didactic or bureaucratic media — from field guides and repair manuals to slide decks and toolkits. \nYou can find her at wordsinspace.net\n\n\nFellowship Date: \n\nSeptember, 2023—August, 2024",
+          "link": "https://pricelab.sas.upenn.edu/fellows/mattern-shannon",
+          "publishedOn": "2023-07-27T19:39:44.000Z",
+          "wordCount": 482,
+          "title": "Shannon  Mattern"
+        },
+        {
+          "id": "1244 at https://pricelab.sas.upenn.edu",
+          "author": "pamhorn@upenn.edu",
+          "description": "Academic Title: \n\nPh.D. Candidate, Italian Studies\n\n\n\nLourdes Contreras’ academic interest encompass the themes of exile, displacement, temporality, rootedness and ecological representations in literature. Her interest in displacement and rootedness stem from the presence of the root metaphor in Italian literature from the fifteenth century to the contemporary period and the implications that this metaphor has on broader political and theoretical issues. Her research in these subjects investigates connections in both Ecocriticism, Mediterranean Studies, and Ecofeminism through authors such as Fausta Cialente, Grazia Deledda, Gianna Manzini, and Alba de Céspedes, among others. She is interested in the theme of rootedness and its significance in contemporary women-written novels. \nBefore beg…",
+          "link": "https://pricelab.sas.upenn.edu/fellows/contreras-lourdes",
+          "publishedOn": "2023-07-27T19:21:57.000Z",
+          "wordCount": 546,
+          "title": "Lourdes  Contreras"
+        },
+        {
+          "id": "1243 at https://pricelab.sas.upenn.edu",
+          "author": "pamhorn@upenn.edu",
+          "description": "Academic Title: \n\nPh.D. Candidate, English\n\n\n\nPeter Diamond is a PhD candidate in English at University of Pennsylvania, studying seventeenth- and eighteenth-century literature of the Atlantic World. His research interests include Anglophone literature from about 1637–1837, poetry and poetics, political theory, economic history, transatlantic and early American studies, empire, pastoral and georgic traditions, environmental humanities, Biblical exegesis, and the history of material texts. \nSince December 2022, Peter has been a project manager for the Digital Beehive, a project dedicated to digitizing an early eighteenth-century commonplace book from Philadelphia, which is supported by the McNeil Center for Early American Studies; the Price Lab for Digital Humanities; and the Kislak Center for Special Collections, Rare Books, and Manuscripts.\nPeter received his M.A. in English from Penn in 2021 as the 2020–2021 John Louis Haney Graduate Fellow. From fall 2021–spring 2023, Peter served as a co-coordinator of the Restoration to Victorian Studies Reading Group (ResVic) in Penn English. He is also a Graduate Resident Advisor at Lauder College House, and he has assisted with the teaching of Penn courses in English, psychoanalytic studies, and cinema and media studies.\nBefore coming to Penn, Peter received his B.A. in 2020 from Brandeis University, where he graduated summa cum laude with the highest honors in English. At Brandeis, he was a recipient of the Provost's Undergraduate Research Fellowship, the Jerome A. Schiff Undergraduate Fellowship, and the Shalom Award for Undergraduate Research.\n \n\n\nFellowship Date: \n\nSeptember, 2023—August, 2024",
+          "link": "https://pricelab.sas.upenn.edu/fellows/diamond-peter",
+          "publishedOn": "2023-07-27T19:12:21.000Z",
+          "wordCount": 429,
+          "title": "Peter  Diamond"
+        },
         {
           "id": "1242 at https://pricelab.sas.upenn.edu",
           "author": "perezste@upenn.edu",
@@ -3755,15 +3786,6 @@
           "publishedOn": "2023-02-27T13:45:50.000Z",
           "wordCount": 407,
           "title": "Call for Proposals: Encoding Cultures – joint MEC and TEI Conference 2023"
-        },
-        {
-          "id": "https://tei-c.org/?p=31528",
-          "author": "Hugh Cayless",
-          "description": "Are you looking for a way to become more involved in the Text Encoding Initiative Consortium’s (TEI-C) community? Do you have basic communications IT skills that you could share? We’re looking for a Communications Officer to run the TEI-C’s online presence. This is a two-year post, from March 2023 to March 2025, and open to […]",
-          "link": "https://tei-c.org/2023/01/28/call-for-communications-officer/",
-          "publishedOn": "2023-01-28T22:11:54.000Z",
-          "wordCount": 468,
-          "title": "Call for Communications Officer"
         }
       ]
     },
