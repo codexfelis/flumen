@@ -2676,24 +2676,6 @@
           "publishedOn": "2023-03-02T11:08:25.000Z",
           "wordCount": 284,
           "title": "Introduction to Humanities Data Viz with Tableau"
-        },
-        {
-          "id": "1235 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Monday, March 20, 2023 - 12:00pm\n\n\n\nWilliams Hall 623\n \n\n\n\nFor several years, there has been significant buzz in academica and cultural herritage instiotuions around Extended Reality, a term that encompasses a number of emerging technologies such as virtual reality and augmented reality. These tools offer scholars the possibility to create exciting and engaging experiences but does the technology live up to the hype? What sorts of experiences are possible and what promises are, at best, aspirational? Join the Graduate Student Working Group in Digital Humanities for a conversation with Jade Davis, Director of Educational Technology & Learning Management and author of the forthcoming book The Other Side of Empathy (Duke) on the promise and peril of extended reality.\n\n\nSubtitle: \n\nwith Jade Davis (Penn Libraries)\n\n\nImage for Left Column:",
-          "link": "https://pricelab.sas.upenn.edu/events/digital-humanities-and-extended-reality",
-          "publishedOn": "2023-02-01T17:22:04.000Z",
-          "wordCount": 317,
-          "title": "Digital Humanities and Extended Reality"
-        },
-        {
-          "id": "1234 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Monday, February 27, 2023 - 12:00pm\n\n\n\nWilliams Hall 623\n\n\n\nDigital Humanities has deep roots in research libraries and archives. What do grad students in the humanities need to know about how DH opperates in the context of libraries and archives? What kinds of jobs are available in these spaces? Join Dot Porter, Curator of Digital Research Services in the Kislak Center, and Stewart Varner, managing director of the Price Lab, for a conversation about digital humanities in archives and libraries.\nThis meeting is part of the Graduate Student Working Group's spring series. Light snacks will be provided. Feel free to bring a lunch!\n\n\nSubtitle: \n\nWith Dot Porter (Kislak) & Stewart Varner (Price Lab)\n\n\nImage for Left Column:",
-          "link": "https://pricelab.sas.upenn.edu/events/digital-humanities-archives-and-libraries",
-          "publishedOn": "2023-02-01T17:05:39.000Z",
-          "wordCount": 307,
-          "title": "Digital Humanities in Archives and Libraries"
         }
       ]
     },
@@ -3060,15 +3042,6 @@
           "publishedOn": "2023-02-06T16:20:15.000Z",
           "wordCount": 3069,
           "title": "What is citizen science?"
-        },
-        {
-          "id": "https://readcoop.eu/?p=31607",
-          "author": "Florian Stauder",
-          "description": "“I want to organise a Transkribus workshop but I don’t know where to start. Could you give me some advice?” This is a common question we get at READ-COOP. Learning to digitise historical documents can be a challenge for students, colleagues and volunteers in citizen science projects, and a workshop is a great way to […]\nThe post How to organise a successful Transkribus workshop: Jan Odstrčilík appeared first on READ-COOP.",
-          "link": "https://readcoop.eu/how-to-organise-a-successful-transkribus-workshop-jan-odstrcilik/",
-          "publishedOn": "2023-02-01T10:00:58.000Z",
-          "wordCount": 2663,
-          "title": "How to organise a successful Transkribus workshop: Jan Odstrčilík"
         }
       ]
     },
@@ -3129,6 +3102,78 @@
       "feedUrl": "https://reviewsindh.pubpub.org/rss.xml",
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
+        {
+          "id": "9fa6e06f-35e3-45ee-b3e3-bcb10f9c27b3",
+          "author": "Kimberly Takahata",
+          "description": "A review of Imagined Homeland, a project exploring locations referenced in the literature of Dominica, directed by Schuyler Esprit",
+          "link": "https://reviewsindh.pubpub.org/pub/imagined-homeland-security",
+          "publishedOn": "2023-07-31T00:00:00.000Z",
+          "wordCount": 971,
+          "title": "Review: Imagined Homeland",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/hwy5rbo7/CE26A8BF-14E0-4CAE-AD6B-ED5685FF0C75-21690751352189.jpeg"
+          }
+        },
+        {
+          "id": "578a2a61-865b-4a48-ac8c-2b197415d8ea",
+          "author": "Traci Parker",
+          "description": "A review of Singing the Nation, a digital project on contemporary resonance of “Lift Every Voice and Sing,” directed by Sonya Donaldson",
+          "link": "https://reviewsindh.pubpub.org/pub/singing-the-nation",
+          "publishedOn": "2023-07-31T00:00:00.000Z",
+          "wordCount": 1241,
+          "title": "Review: Singing the Nation",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/0hg506ei/242BF826-FA03-43CA-A945-45E10990FD91-31690749814508.jpeg"
+          }
+        },
+        {
+          "id": "d8be99f9-5c5a-4bf6-83ea-b036f76991a5",
+          "author": "Andrew Sluyter",
+          "description": "A review of In the Same Boats, a digital map exploring the travels of Afro-Atlantic intellectuals, directed by Kaiama L. Glover and Alex Gil",
+          "link": "https://reviewsindh.pubpub.org/pub/in-the-same-boats",
+          "publishedOn": "2023-07-31T00:00:00.000Z",
+          "wordCount": 1175,
+          "title": "Review: In the Same Boats",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/722mpfck/05E0A6CF-764F-4521-B6E4-D811C2388106-31690752714862.jpeg"
+          }
+        },
+        {
+          "id": "f840f6a2-4ee5-4e8b-802a-28578f4e47bd",
+          "author": "Anna E. Kijas",
+          "description": "A review of Musical Passage Project, an exploration of early African diasporic music, directed by Laurent Dubois, Mary Caton Lingold, and David K. Garner",
+          "link": "https://reviewsindh.pubpub.org/pub/musical-passage-project",
+          "publishedOn": "2023-07-31T00:00:00.000Z",
+          "wordCount": 1474,
+          "title": "Review: Musical Passage",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/h9snb02u/585E311C-8CC5-47B5-BEA6-B32AEDF34544-41690751539436.jpeg"
+          }
+        },
+        {
+          "id": "acb7e62a-0523-47c9-917b-f52171498d8a",
+          "author": "DaNia Childress",
+          "description": "A review of Digital Library of the Caribbean, a digital library focused on preservation and access, housed at University of Florida Libraries",
+          "link": "https://reviewsindh.pubpub.org/pub/digital-library-of-the-caribbean",
+          "publishedOn": "2023-07-31T00:00:00.000Z",
+          "wordCount": 1413,
+          "title": "Review: Digital Library of the Caribbean",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/37prmxa6/8E0CE011-8AB7-4795-BBA8-E41C43F5E498-61690751308073.png"
+          }
+        },
+        {
+          "id": "8b03208a-00af-4d9c-b51c-fca4abba0d8e",
+          "author": "Jennifer Guiliano",
+          "description": "Editors' note on the July 2023 issue of Reviews in Digital Humanities, guest edited by Roopika Risam and Kelly Baker Josephs",
+          "link": "https://reviewsindh.pubpub.org/pub/editors-note-july-2023",
+          "publishedOn": "2023-07-31T00:00:00.000Z",
+          "wordCount": 1212,
+          "title": "Editors’ Note: July 2023",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/9z4x7l8y/04BBE7FA-D113-4628-8D06-6DEE78060ABA-31690754292763.png"
+          }
+        },
         {
           "id": "210a2e60-cadc-481a-b048-7a1ead7c729f",
           "author": "Jan Burzlaff",
