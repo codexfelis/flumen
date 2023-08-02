@@ -1490,6 +1490,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/910",
+          "author": "434",
+          "description": "Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto „Anything Goes?!“ vom 4. bis 6. Oktober 2023 in Tübingen statt. \nForschungsdaten sind eine…",
+          "link": "https://dig-hum.de/aktuelles/finales-programm-der-forge23-ver%C3%B6ffentlicht",
+          "publishedOn": "2023-08-02T07:21:56.000Z",
+          "wordCount": 836,
+          "title": "Finales Programm der FORGE23 veröffentlicht"
+        },
+        {
           "id": "node/909",
           "author": "434",
           "description": "Der Landschaftsverband Rheinland sucht zum nächstmöglichen Zeitpunkt eine/n Referent / Referentin (m/w/d) für Digitales Kulturerbe und Denkmalinformationssysteme\nStandort:…",
@@ -2205,15 +2214,6 @@
           "publishedOn": "2023-02-07T15:00:00.000Z",
           "wordCount": 2340,
           "title": "Nota Bene: Software for Academic Composition"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=9587",
-          "author": "The Digital Orientalist",
-          "description": "This is a post by DO founder L. W. Cornelis Van Lit Does a research project which produced a large …",
-          "link": "https://digitalorientalist.com/2023/02/03/a-closer-look-at-a-big-classic-humanities-project/",
-          "publishedOn": "2023-02-03T14:00:00.000Z",
-          "wordCount": 2137,
-          "title": "A closer look at a big, classic humanities project"
         }
       ]
     },
@@ -2430,15 +2430,6 @@
           "publishedOn": "2023-07-03T13:06:25.000Z",
           "wordCount": 854,
           "title": "Open Position: Postdoc ERC Synergy MiDRASH"
-        },
-        {
-          "id": "https://escripta.hypotheses.org/?p=500",
-          "author": "Daniel Stoekl Ben Ezra",
-          "description": "MiDRASH – Migrations of Textual and Scribal Traditions via Large-Scale Computational Analysis of Medieval Manuscripts in Hebrew Script The European Research Council has awarded an ERC Synergy Grant to the EPHE and its partner...",
-          "link": "https://escripta.hypotheses.org/500",
-          "publishedOn": "2023-02-03T17:27:12.000Z",
-          "wordCount": 757,
-          "title": "ERC Synergy MiDRASH Awarded to EPHE and partner institutions"
         }
       ]
     },
@@ -2596,6 +2587,24 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1248 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "WWII Paris and the Shoah\n\n\nProject Start Date: \n\nAugust, 2023\n\n\n\nThe project of this website was created for an undergraduate advanced French history and culture course entitled Paris under the German Occupation and its [Non-] Places of Memory. The French title is a play on the words « lieu de mémoire » (place of memory) and « un non-lieu » (a dismissed case). The first questions I was faced with when putting the syllabus together were: How could students of French, from an American university, understand a past neither of us lived? And how to expect students – some of whom have never been to Paris - to envision the city under the German Occupation without even knowing its space?\nhttps://occupiedparis.pennds.org/en/\nStudent Workers:\nMap and Research:\n• Kyra Schulman (’19)\nTrancriptions:\n• Beverlye Gedeon (’21)\n• Leanore Petermeijer (’20)\n• Chloë Reum (’19)\nWebsite:\n• Anyelina Wu (’22)\n• The students of FRENCH 225 from 2016 to today\nContributors\n• Laurie Allen (Library of Congress)\n• Peter Decherney (Penn Online Learning Initiative and Cinema and Media Studies)\n• Scott Enderle (Penn Libraries)\n • Cassidy Holohan (Ph.D. Candidate in the English Department)\n• Cassandra Hradil (Price Lab for Digital Humanities)\n• Vickie Karasic (Bryn Mawr College)\n• Samantha Kirk (Drexel University)\n• Wes Martin (Vitale Lab, Penn Libraries)\n• Meaghan Moody (U. of Rochester)\n• Ian Petrie (Penn Center for Teaching and Learning)\n• Sasha Renninger (S.A.S. Computing)\n• Coral Salomón\n• Chava Spivak-Birndorf (Drexel University)\n• David Toccafondi (Vitale Lab, Penn Libraries)\n• Chris Vandergrift (Vitale Lab, Penn Libraries)\n• Kenneth Whitebloom (Swarthmore U.)\n• Last but not least, all the survivors who kindly entrusted us with their stories and were always willing to talk with us.\nSupport\n• The Price Lab for Digital Humanities\n• The Penn Language Center\n• The Penn Center for Teaching and Learning\n\n\nProject Principal Investigator: \n\nMélanie  Péron\n\n\nProject Team Heading: \n\nProject Team Members",
+          "link": "https://pricelab.sas.upenn.edu/projects/stitching-fragmented",
+          "publishedOn": "2023-08-01T16:37:00.000Z",
+          "wordCount": 493,
+          "title": "Stitching the Fragmented"
+        },
+        {
+          "id": "1247 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Project Start Date: \n\nAugust, 2023\n\n\n\nThe Heart of Puerto Rico is a 13-episode virtual reality documentary series focusing on artists in Puerto Rico after Hurricane Maria. To make the film, directors Peter Decherney (University of Pennsylvania) and Jean Lee (writer/director) collaborated with a wide range of artists in Puerto Rico, from internationally-known sculptors and painters to street clowns and drag performers.\n \n \n \n\n\nInsert an Image: \n\n\n\n\nCo-Investigators: \n\nCassandra Hradil, Digital Humanities Specialist\nOlivia Lee, Web Design\nCecilia Gonzalez Godino, Translation\n\n\nProject Principal Investigator: \n\nPeter  Decherney\nJean  Lee",
+          "link": "https://pricelab.sas.upenn.edu/projects/heart-puerto-rico",
+          "publishedOn": "2023-08-01T16:12:43.000Z",
+          "wordCount": 289,
+          "title": "Heart of Puerto Rico"
+        },
         {
           "id": "1246 at https://pricelab.sas.upenn.edu",
           "author": "pamhorn@upenn.edu",
