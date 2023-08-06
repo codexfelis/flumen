@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-05T08:12:18.152Z</updated>
+    <updated>2023-08-06T08:12:05.603Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -7726,31 +7726,6 @@ Switze…]]></summary>
         <summary type="html"><![CDATA[The FORCE11 annual conference held online from April 18-20 will discuss open science in global and local contexts.]]></summary>
         <author>
             <name>Elisabeth Shook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nota Bene: Software for Academic Composition]]></title>
-        <id>http://digitalorientalist.com/?p=9935</id>
-        <link href="https://digitalorientalist.com/2023/02/07/nota-bene-software-for-academic-composition/"/>
-        <updated>2023-02-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Publishing. It’s one of the most important parts of research in academia. Yet not many programs cater to the specific …]]></summary>
-        <author>
-            <name>Jonathan Robker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Document Enrichment as a Tool for Automated Interview Coding”]]></title>
-        <id>http://openmethods.dariah.eu/?p=3325</id>
-        <link href="https://openmethods.dariah.eu/2023/02/07/document-enrichment-as-a-tool-for-automated-interview-coding/"/>
-        <updated>2023-02-07T08:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Following our last post focusing on Critical Discourse Analysis, today we highlight an automated document enrichment pipeline for automated interview coding, proposed by Ajda Pretnar Žagar, Nikola Ðukic´, Rajko Muršic in their paper presented at the Conference on Language Technologies & Digital Humanities, Ljubljana 2022.  As described in the "Essential Guide to Coding Qualitative Data" (https://delvetool.com/guide), one of the main field of application of such a procedure is Ethnography, but not only.
-
-Thanks to qualitative data coding it is possible to enrich texts through adding labels and descriptions to specific passages, that are generally pinpointed by means of computer-assisted qualitative data analysis softwares (CAQDAS). This can be valid for several fields of applications, from the humanities to biology, from sociology to medicine.
-﻿In their paper, Pretnar Žagar, Ðukic´  and Muršicˇ illustrate how relying on a couple of taxonomies (or onthologies) already known in anthropological studies may represent an asset to automatize and hasten the process of data labelling. These taxonomies are the Outline of Cultural Materials (OCM) and the ETSEO (acronym for Ethnological Topography of Slovenian Ethnic Territory) systematics. In both cases we deal with taxonomies elaborated and applied in ethnographic research in order to organize and better analyze concepts and categories related to human cultures and traditions.
-
-[Click ‘Read more’ for the full post!]]]></summary>
-        <author>
-            <name>Marinella Testori</name>
         </author>
     </entry>
     <entry>
