@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-06T08:12:05.603Z</updated>
+    <updated>2023-08-07T08:14:26.256Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TEI-C Elections 2023]]></title>
+        <id>https://tei-c.org/?p=31664</id>
+        <link href="https://tei-c.org/2023/08/06/tei-c-elections-2023/"/>
+        <updated>2023-08-06T20:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Introduction A Note on Voting Candidate Statements: TEI Technical Council Syd Bauman Gustavo Fernández Riva Torsten Roeder Nicholas Cole Raffaele Viglianti Matthew Evan Davis Joey Takeda Candidate Statements: TEI Board Julius Beneoluchi Odili Gimena del Rio Riande David Maus Kevin McMullen Emmanuel NGUE UM Karen Bourrier Introduction In 2023, TEI Members will hold an election […]]]></summary>
+        <author>
+            <name>Hugh Cayless</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Online Social Data School: information session for applicants]]></title>
         <id>https://www.cdh.cam.ac.uk/events/36960/</id>
@@ -7716,45 +7726,6 @@ Switze…]]></summary>
         <summary type="html"><![CDATA[Program Online We published the DHNB2023 conference program a while ago, but some smaller changes were necessary. You can check out the up-to-date program on our website or ConfTool. Build your Conference Agenda To build your personalised agenda, once you have registered for the conference, you can add the sessions you are interested in by […]]]></summary>
         <author>
             <name>Annika Rockenberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FORCE2023: call for proposals]]></title>
-        <id>https://force11.org/?p=149948</id>
-        <link href="https://force11.org/post/force2023-call-for-proposals/"/>
-        <updated>2023-02-07T23:25:23.000Z</updated>
-        <summary type="html"><![CDATA[The FORCE11 annual conference held online from April 18-20 will discuss open science in global and local contexts.]]></summary>
-        <author>
-            <name>Elisabeth Shook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is citizen science?]]></title>
-        <id>https://readcoop.eu/?p=31650</id>
-        <link href="https://readcoop.eu/what-is-citizen-science/"/>
-        <updated>2023-02-06T16:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Citizen science, community science, crowdsourcing science, volunteer monitoring — however you want to call it, this type of scientific research always centres around one basic principle: the data collection is done not by professional scientists but by members of the public. These “citizen scientists” willingly give up their free time to help collect and collate […]
-The post What is citizen science? appeared first on READ-COOP.]]></summary>
-        <author>
-            <name>Florian Stauder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Current Research Projects]]></title>
-        <id>https://www.cdh.cam.ac.uk/research/projects/</id>
-        <link href="https://www.cdh.cam.ac.uk/research/projects/"/>
-        <updated>2023-02-06T11:38:31.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology & New Media]]></title>
-        <id>https://www.cdh.cam.ac.uk/research/networks/technology-new-media/</id>
-        <link href="https://www.cdh.cam.ac.uk/research/networks/technology-new-media/"/>
-        <updated>2023-02-06T11:19:24.000Z</updated>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>
