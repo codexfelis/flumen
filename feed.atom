@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-07T08:14:26.256Z</updated>
+    <updated>2023-08-08T08:13:39.200Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring the front pages of newspapers (10 years on)]]></title>
+        <id>http://wragge.micro.blog/2023/08/08/exploring-the-front.html</id>
+        <link href="https://updates.timsherratt.org/2023/08/08/exploring-the-front.html"/>
+        <updated>2023-08-08T06:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Way back in 2012, I used the brand new Trove API to download the details of 4 million  articles published on the front pages of newspapers. I did it for two reasons: first, I wanted to see how the content of front pages changed over time; and second, I wanted to show that large-scale data wrangling was entirely possible using nothing more than a laptop and a home broadband connection. I described my adventures in this blog post, but if you look at it now you’ll see lots of sad, empty boxes where live charts used to be. This is because I shared my results though a custom web application which, 10 years later, seems like a really, really dumb idea. Needless to say the app fell foul of web hosting changes and is no more. Nowadays I use GitHub and Jupyter notebooks to share my data noodling, s…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECCO’ing through the Ages: Exploring Reception with Gale’s Eighteenth Century Collections Online]]></title>
+        <id>https://review.gale.com/?p=14540</id>
+        <link href="https://review.gale.com/2023/08/08/eccoing-through-the-ages/"/>
+        <updated>2023-08-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[│By David Rosson, Doctoral Researcher at the University of Helsinki│ A big-picture goal for the Computational History research group at the University of Helsinki is to develop methods for studying how ideas spread during the Age of Enlightenment. This was a time period marked by notable thinkers and burgeoning ideas about reason, science, human nature, ... Read more
+The post ECCO’ing through the Ages: Exploring Reception with Gale’s <i>Eighteenth Century Collections Online</i> appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Review Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TEI-C Elections 2023]]></title>
         <id>https://tei-c.org/?p=31664</id>
@@ -530,6 +551,15 @@ This project was supported by CLARIN via the CLARIN Resource Families funding sc
 The concept of the workflows was aligned with the CLARIN 2021-2023…]]></summary>
         <author>
             <name>Julia Misersky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Projects]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/projects/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/projects/"/>
+        <updated>2023-07-25T11:10:10.000Z</updated>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -7579,153 +7609,6 @@ Read the full call here
         <summary type="html"><![CDATA[Applications are invited for the position of Systems Administrator as part of the Digital Repository of Ireland tehnical team based at Trinity College Dublin.]]></summary>
         <author>
             <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RECOMMENDED: Tech Won’t Save Us: Don’t Fall for the AI Hype with Timnit Gebru]]></title>
-        <id>https://dhandlib.org/?p=125664</id>
-        <link href="https://dhandlib.org/2023/02/09/recommended-tech-wont-save-us-dont-fall-for-the-ai-hype-with-timnit-gebru/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recommended-tech-wont-save-us-dont-fall-for-the-ai-hype-with-timnit-gebru"/>
-        <updated>2023-02-09T17:38:01.000Z</updated>
-        <summary type="html"><![CDATA[Explore the latest episode of Tech Won’t Save Us, a podcast that “examine[s] the tech industry, its big promises, and the people behind them. Tech Won’t Save Us challenges the notion that tech alone can drive our world forward by showing that separating tech from politics has consequences for us all, especially the most vulnerable.” ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESOURCE: Smithsonian Open Access]]></title>
-        <id>https://dhandlib.org/?p=125666</id>
-        <link href="https://dhandlib.org/2023/02/09/resource-smithsonian-open-access-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resource-smithsonian-open-access-2"/>
-        <updated>2023-02-09T17:37:13.000Z</updated>
-        <summary type="html"><![CDATA[The Smithsonian recently launched Smithsonian Open Access, featuring “more than 4.5 million 2D and 3D digital items” from their collection. The open access content includes “images and data from across the Smithsonian’s 21 museums, nine research centers, libraries, archives, and the National Zoo.” All content is available for download and reuse, and will surely prove ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESOURCE: Debates in the Digital Humanities: New OA Editions]]></title>
-        <id>https://dhandlib.org/?p=125668</id>
-        <link href="https://dhandlib.org/2023/02/09/resource-debates-in-the-digital-humanities-new-oa-editions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resource-debates-in-the-digital-humanities-new-oa-editions"/>
-        <updated>2023-02-09T17:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Several new editions in the Debates in Digital Humanities series are now open access in Manifold. Most recently added volumes include Debates in the Global Digital Humanities and People, Practice, and Power: Digital Humanities Outside the Center. The Debates in Digital Humanities series, which began with the first Debates book in 2011, has grown into a comprehensive ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: ACH 2023 (virtual)]]></title>
-        <id>https://dhandlib.org/?p=125678</id>
-        <link href="https://dhandlib.org/2023/02/09/cfp-ach-2023-virtual/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-ach-2023-virtual"/>
-        <updated>2023-02-09T17:35:42.000Z</updated>
-        <summary type="html"><![CDATA[The Association for Computers and the Humanities seeks proposals for ACH 2023, our virtual conference, to be held June 29-July 1, 2023. From the announcement: We welcome a broad range of topics, with a particular emphasis on social justice in multiple contexts: anti-racist work, Indigenous studies, cultural and critical ethnic studies, intersectional feminism, postcolonial and ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Digital Humanities Pedagogies in Times of Crisis]]></title>
-        <id>https://dhandlib.org/?p=125680</id>
-        <link href="https://dhandlib.org/2023/02/09/cfp-digital-humanities-pedagogies-in-times-of-crisis-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-digital-humanities-pedagogies-in-times-of-crisis-2"/>
-        <updated>2023-02-09T17:34:15.000Z</updated>
-        <summary type="html"><![CDATA[Call for Papers: Digital Humanities Pedagogies in Times of Crisis Guest Editors: Roopika Risam (Dartmouth College) and Sara Dias-Trindade (Universidade do Porto and CEIS20) From the call: From the COVID-19 pandemic, to the Russian war against Ukraine, to accelerating climate change, to the rise of neo-fascist politics that target racial and ethnic minorities, refugees, and ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Turning It Off and Back On Again: Speculative Digital Librarianship]]></title>
-        <id>https://dhandlib.org/?p=125683</id>
-        <link href="https://dhandlib.org/2023/02/09/cfp-turning-it-off-and-back-on-again-speculative-digital-librarianship/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-turning-it-off-and-back-on-again-speculative-digital-librarianship"/>
-        <updated>2023-02-09T17:33:36.000Z</updated>
-        <summary type="html"><![CDATA[The Journal of Critical Digital Librarianship seeks proposals for a special issue “Turning It Off and Back On Again: Speculative Digital Librarianship.” From the call: Digital Librarianship is a thriving subfield of LIS, concerned with the tools, technologies, theory and practice of creating, managing, sharing, and exploring digitized and born-digital material held by cultural heritage ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: Item Not Found: Accounting for Loss in Libraries, Archives, and Other Heritage and Memory Organizations]]></title>
-        <id>https://dhandlib.org/?p=125670</id>
-        <link href="https://dhandlib.org/2023/02/09/event-item-not-found-accounting-for-loss-in-libraries-archives-and-other-heritage-and-memory-organizations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-item-not-found-accounting-for-loss-in-libraries-archives-and-other-heritage-and-memory-organizations"/>
-        <updated>2023-02-09T17:32:46.000Z</updated>
-        <summary type="html"><![CDATA[The Center for 17th- & 18th-Century Studies at UCLA is hosting a free, virtual conference Wednesday, March 8, 2023–Thursday, March 9, 2023. Item Not Found: Accounting for Loss in Libraries, Archives, and Other Heritage and Memory Organizations “considers the ongoing reassessment of memory and heritage work and heritage ownership, as it is understood by libraries, ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: Automation by Design]]></title>
-        <id>https://dhandlib.org/?p=125674</id>
-        <link href="https://dhandlib.org/2023/02/09/event-automation-by-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-automation-by-design"/>
-        <updated>2023-02-09T17:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Automation by Design is a global, interdisciplinary, virtual symposium on the politics and culture of digital automation, to be held Friday through Saturday, February 17 & 18, 2023. Hosted by the Charles Babbage Institute at the University of Minnesota College of Science and Engineering & University Libraries, this two-day symposium explores “The platformization of society, ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: Global Digital Humanities Symposium]]></title>
-        <id>https://dhandlib.org/?p=125672</id>
-        <link href="https://dhandlib.org/2023/02/09/event-global-digital-humanities-symposium-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-global-digital-humanities-symposium-2"/>
-        <updated>2023-02-09T17:30:41.000Z</updated>
-        <summary type="html"><![CDATA[The 8th annual Global Digital Humanities Symposium will take place as a virtual event, March 13-15, 2023, and as an in-person event at Michigan State University, March 17, 2023. The Global DH Symposium explores how “DH has been a key site for interrogating narratives about disruption, connection, virtuality, surveillance, algorithmic bias, data and resistance, the ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: Lightning Lunch: Old Data, New Data]]></title>
-        <id>https://dhandlib.org/?p=125676</id>
-        <link href="https://dhandlib.org/2023/02/09/event-lightning-lunch-old-data-new-data/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-lightning-lunch-old-data-new-data"/>
-        <updated>2023-02-09T17:29:58.000Z</updated>
-        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative at the University of Toronto is hosting their fourth virtual lunch in their 2022-2023 lightning lunch series on February 17 at 12pm EST. The session will explore “digital humanities approaches working with new data and ethics — and the afterlives of old data.” The conversation will feature three speakers: Dr. ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPORTUNITY: CLIR Invites Applications for Digitizing At-Risk Audio and Audiovisual Materials]]></title>
-        <id>https://dhandlib.org/?p=125689</id>
-        <link href="https://dhandlib.org/2023/02/09/opportunity-clir-invites-applications-for-digitizing-at-risk-audio-and-audiovisual-materials/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=opportunity-clir-invites-applications-for-digitizing-at-risk-audio-and-audiovisual-materials"/>
-        <updated>2023-02-09T17:28:41.000Z</updated>
-        <summary type="html"><![CDATA[The Council on Library & Information Resources (CLIR) is accepting applications for the Recordings at Risk program, which “support[s] the preservation of rare and unique audio, audiovisual, and other time-based media of high scholarly value.” Applications for between $10,000 and $50,000 to digitally reformat projects will be accepted through April 19th, be announced in August, ...read more]]></summary>
-        <author>
-            <name>Hillary Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centre news vol. 56 - February 2023]]></title>
-        <id>5857 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/centre-news-vol-56-february-2023"/>
-        <updated>2023-02-09T16:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Centre news vol. 56 - February 2023
-
-            
- 
-Upcoming assessment deadline
-The deadline for the upcoming B-centre assessment round is 21 April 2023.
-Please note there are a few novelties:
-The updated CoreTrustSeal 2023-2025 is to be used. 
-The CoreTrustSeal's updated AMT platform for submission has been launched earlier this week. Already ongoing 
-    CoreTrustSeal, successor of the Data Seal of Approval
-
-See: https://www.coretrustseal.org
-read more
-
-   assessments should also be handled through it too.
-The latest version of the B-centre checklist (4.7) must be used. The difference with the previous version is the addition of two (optional) recommendations at the end of the document, on the use of the attribute checker and attribute aggregator.
-SPF extended with Switzerland
-Switze…]]></summary>
-        <author>
-            <name>Dieter Van Uytvanck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conference Program]]></title>
-        <id>https://dhnb.eu/?p=2538</id>
-        <link href="https://dhnb.eu/conference-program/"/>
-        <updated>2023-02-09T07:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Program Online We published the DHNB2023 conference program a while ago, but some smaller changes were necessary. You can check out the up-to-date program on our website or ConfTool. Build your Conference Agenda To build your personalised agenda, once you have registered for the conference, you can add the sessions you are interested in by […]]]></summary>
-        <author>
-            <name>Annika Rockenberger</name>
         </author>
     </entry>
     <entry>
