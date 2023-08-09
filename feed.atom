@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-08T08:13:39.200Z</updated>
+    <updated>2023-08-09T08:14:22.222Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Living with Machines Report]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=3462</id>
+        <link href="https://livingwithmachines.ac.uk/the-living-with-machines-report/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-living-with-machines-report"/>
+        <updated>2023-08-08T16:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Living with Machines came to an official end on 31 July 2023. It has been a genuine privilege to work with this team over the last 5 years. As part of our conclusion phase we have created a report which lists some of our many achievements, and reflects on our journey as a project.  Here’s […]]]></summary>
+        <author>
+            <name>Léllé Demertzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch now! Roundtable discussion of Living with Machines new book on collaboration]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=3459</id>
+        <link href="https://livingwithmachines.ac.uk/watch-now-roundtable-discussion-of-living-with-machines-new-book/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=watch-now-roundtable-discussion-of-living-with-machines-new-book"/>
+        <updated>2023-08-08T16:49:47.000Z</updated>
+        <summary type="html"><![CDATA[In February our book Collaborative Historical Research in the Age of Big Data: Lessons from an interdisciplinary project was published by Cambridge University Press. The book shares lessons from the experience of running a large collaborative digital project like Living with Machines. We might think collaboration should be easy, that it simply divides a task – distributing work along lines of expertise. […]]]></summary>
+        <author>
+            <name>Léllé Demertzi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the front pages of newspapers (10 years on)]]></title>
         <id>http://wragge.micro.blog/2023/08/08/exploring-the-front.html</id>
@@ -7548,47 +7568,6 @@ We invite proposals on all aspects of Digital Humanities, and especially encoura
 The recent global spread of open science has led to data-driven science, and expectations are also growing for the humanities. Data-driven research in the humanities is still in its infancy, and in many fields,…]]></summary>
         <author>
             <name>adminweb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Resources for the Study of Persian Manuscripts]]></title>
-        <id>http://digitalorientalist.com/?p=10089</id>
-        <link href="https://digitalorientalist.com/2023/02/10/digital-resources-for-the-study-of-persian-manuscripts/"/>
-        <updated>2023-02-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following resources are some of the main institutions and libraries for the purpose, but this post can be updated …]]></summary>
-        <author>
-            <name>Shiva Mihan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Nomination Steven Krauwer Award 2023 now Open]]></title>
-        <id>5859 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/call-nomination-steven-krauwer-award-2023-now-open"/>
-        <updated>2023-02-10T13:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Call for Nomination Steven Krauwer Award 2023 now Open
-
-            
-The call for nominations for the Steven Krauwer Awards 2023 is now open. The awards, named in honour of Steven Krauwer (the first Executive Director of CLARIN 
-    
-European Research Infrastructure Consortium
-
-See: https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric_en
-
-read more
-
-  ) are given annually to outstanding scientists or engineers in recognition of outstanding contributions towards CLARIN goals in the areas of language resource building, tool or service development, exemplary use cases, user involvement, knowledge sharing and socio economic impact. In 2023, Steven Krauwer Awards will be awarded to the following categories: 
-Early Career CLARIN Researcher, to promote a young person or a group of cooperating young persons aged 35 years or younger.
-CLARIN Achievement, to recognise the work of a person or a group of cooperating people.
-If you know someone eligible for nomination, please contact your National Coordinator by email and describe how this person meets the criteria for the selected award.
-The nomination deadline is 28 April 2023, 17:00 CET.
-The award ceremony will take place at the CLARIN Annual Conference 2023.
-Read the full call here
-  
-
-      Elisa Gorgaini
- 10 February 2023]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
         </author>
     </entry>
     <entry>
