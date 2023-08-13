@@ -2178,15 +2178,6 @@
           "publishedOn": "2023-02-17T14:00:00.000Z",
           "wordCount": 2151,
           "title": "Digital Resources for Chinese Bronze Research: The Academia Sinica Collection (Part 1)"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=10114",
-          "author": "Elizabeth Lee",
-          "description": "The release of a public version of OpenAI’s generative AI platform, Chat GPT, at the end of last year has …",
-          "link": "https://digitalorientalist.com/2023/02/14/an-alternative-to-the-undergraduate-research-paper-online-exhibitions-with-artsteps/",
-          "publishedOn": "2023-02-14T14:00:00.000Z",
-          "wordCount": 1629,
-          "title": "An alternative to the undergraduate research paper: Online Exhibitions with ArtSteps"
         }
       ]
     },
@@ -6629,7 +6620,17 @@
       "title": "Japanese Association for Digital Humanities",
       "feedUrl": "https://www.jadh.org/rss.xml",
       "siteUrl": "https://www.jadh.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "76 at https://www.jadh.org",
+          "author": "adminweb",
+          "description": "The JADH 2023 conference will be held online by the National Institute of Japanese Literature.\nSee the JADH2023 Web site!\nJADH2023国際会議は国文学研究資料館によりオンラインで開催されます。\n詳しくはカンファレンスのWebサイトをご覧ください。",
+          "link": "https://www.jadh.org/node/76",
+          "publishedOn": "2023-08-12T17:53:39.000Z",
+          "wordCount": 87,
+          "title": "JADH2023: Call for Participation"
+        }
+      ]
     },
     {
       "title": "The National Endowment for the Humanities",

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-12T08:11:52.351Z</updated>
+    <updated>2023-08-13T08:12:03.810Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JADH2023: Call for Participation]]></title>
+        <id>76 at https://www.jadh.org</id>
+        <link href="https://www.jadh.org/node/76"/>
+        <updated>2023-08-12T17:53:39.000Z</updated>
+        <summary type="html"><![CDATA[The JADH 2023 conference will be held online by the National Institute of Japanese Literature.
+See the JADH2023 Web site!
+JADH2023国際会議は国文学研究資料館によりオンラインで開催されます。
+詳しくはカンファレンスのWebサイトをご覧ください。]]></summary>
+        <author>
+            <name>adminweb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Protected: A Q&A with Elio Colavito, CDHI Graduate Fellow]]></title>
         <id>https://dhn.utoronto.ca/?p=8225</id>
@@ -7726,16 +7739,6 @@ Continue reading “Webinar Series: DH Virtual Discussion Group for Early Career
         <summary type="html"><![CDATA[Sophie is a PhD candidate in the Sociology Department at the University of Cambridge. She holds a BA in Media Culture from Maastricht University (2016 - 2019), as well as an MSc in Marketing from the University of Edinburgh (2019 - 2020). Her current research, which she began as a master's student, focuses on the]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An alternative to the undergraduate research paper: Online Exhibitions with ArtSteps]]></title>
-        <id>http://digitalorientalist.com/?p=10114</id>
-        <link href="https://digitalorientalist.com/2023/02/14/an-alternative-to-the-undergraduate-research-paper-online-exhibitions-with-artsteps/"/>
-        <updated>2023-02-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The release of a public version of OpenAI’s generative AI platform, Chat GPT, at the end of last year has …]]></summary>
-        <author>
-            <name>Elizabeth Lee</name>
         </author>
     </entry>
     <entry>
