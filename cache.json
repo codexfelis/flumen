@@ -151,6 +151,15 @@
       "siteUrl": "https://ach.org",
       "articles": [
         {
+          "id": "https://ach.org/?p=2495",
+          "author": "Quinn Dombrowski",
+          "description": "As announced at the ACH 2023 conference, ACH is soliciting working group proposals for the upcoming academic year. We’ve posted guidelines for proposals here, along with more information about the benefits of forming a working group. Each working group must have co-chairs who are ACH members. We hope that the ACH working group framework will…Continue reading.",
+          "link": "https://ach.org/blog/2023/08/15/ach-seeks-working-group-proposals/",
+          "publishedOn": "2023-08-15T22:13:50.000Z",
+          "wordCount": 194,
+          "title": "ACH seeks working group proposals"
+        },
+        {
           "id": "https://ach.org/?p=2472",
           "author": "Quinn Dombrowski",
           "description": "The Association for Computers and the Humanities is sad to share the news of David L. Hoover’s passing on May 25, 2023. David served on the ACH Executive Board from 2005 to 2008, and as Vice-President in 2006-2007. For decades, he was among the most faithful presences at the annual DH conference (remarkably, he presented…Continue reading.",
@@ -199,6 +208,24 @@
       "feedUrl": "https://adho.org/rss.xml",
       "siteUrl": "https://adho.org",
       "articles": [
+        {
+          "id": "https://adho.org/?p=2805",
+          "author": "EB Chair",
+          "description": "The Roberto Busa Prize is an award of the Alliance of Digital Humanities Organisations (ADHO). It is named in honour of Father Roberto Busa, the first pioneer of humanities computing, who in 1949 began experiments in linguistic automation, with the support of the IBM offices in New York and Milan, as part of his analytical… Read More »Call for Nominations: ADHO Roberto Busa Prize",
+          "link": "https://adho.org/2023/08/15/call-for-nominations-adho-roberto-busa-prize/",
+          "publishedOn": "2023-08-15T17:48:00.000Z",
+          "wordCount": 435,
+          "title": "Call for Nominations: ADHO Roberto Busa Prize"
+        },
+        {
+          "id": "https://adho.org/?p=2801",
+          "author": "EB Chair",
+          "description": "The Alliance of Digital Humanities Organizations (ADHO) seeks nominations of committed individuals who would like to actively help further DH in all its breadth and diversity for the following volunteer positions (position descriptions below): All of these positions have a global reach, but involve working closely with small, supportive groups of volunteers, including the ADHO… Read More »Join or Nominate Someone for a Position on the ADHO Executive Board",
+          "link": "https://adho.org/2023/08/15/join-or-nominate-someone-for-a-position-on-the-adho-executive-board/",
+          "publishedOn": "2023-08-15T16:00:00.000Z",
+          "wordCount": 737,
+          "title": "Join or Nominate Someone for a Position on the ADHO Executive Board"
+        },
         {
           "id": "https://adho.org/?p=2335",
           "author": "hannah",
@@ -1466,15 +1493,6 @@
           "publishedOn": "2023-02-20T05:00:00.000Z",
           "wordCount": 1168,
           "title": "Graduate Fellowship in Critical Digital Humanities –  Academic Year 2023-2024"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=7235",
-          "author": "Matt Lefaive",
-          "description": "The Critical Digital Humanities Initiative (CDHI) is a tri-campus research initiative that was funded by the University of Toronto’s Institutional Strategic Initiatives (ISI) Program in December 2020 for 3 years […]",
-          "link": "https://dhn.utoronto.ca/emerging-projects-fund-in-critical-digital-humanities/?utm_source=rss&utm_medium=rss&utm_campaign=emerging-projects-fund-in-critical-digital-humanities",
-          "publishedOn": "2023-02-16T05:00:00.000Z",
-          "wordCount": 904,
-          "title": "Emerging Projects Fund in Critical Digital Humanities"
         }
       ]
     },
@@ -2160,15 +2178,6 @@
           "publishedOn": "2023-02-21T14:00:00.000Z",
           "wordCount": 1499,
           "title": "A Twine Journey to Mecca: Digital Storytelling in the Classroom"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=9938",
-          "author": "Henry Jacobs",
-          "description": "From the accidental discovery of a bronze “three-legged cauldron” (ding 鼎) during the reign of Emperor Wu of Han 武漢帝 …",
-          "link": "https://digitalorientalist.com/2023/02/17/digital-resources-for-chinese-bronze-research-the-academia-sinica-collection-part-1/",
-          "publishedOn": "2023-02-17T14:00:00.000Z",
-          "wordCount": 2151,
-          "title": "Digital Resources for Chinese Bronze Research: The Academia Sinica Collection (Part 1)"
         }
       ]
     },
@@ -2845,15 +2854,6 @@
           "publishedOn": "2023-02-20T14:32:26.000Z",
           "wordCount": 682,
           "title": "RaDiHum20 spricht mit dem DHd2023-Konferenz-Organisationsteam"
-        },
-        {
-          "id": "https://radihum20.de/?p=627",
-          "author": "Mareike Schumacher",
-          "description": "Die DHd-Konferenz ist für uns ein ganz besonderes Event: Auf der DHd2020 haben Lisa, Jonathan und Mareike sich zum ersten Mal getroffen und beschlossen, einen Podcast zu gründen. Ein Jahr später haben wir bei der vDHd2021, der virtuellen Ersatzkonferenz für unsere zweite Staffel, über 30 Folgen in wenigen Wochen aufgenommen und veröffentlicht. In diesem Jahr […]\nDer Beitrag Staffel 4 Reveal: Wir begleiten die DHd-Konferenz 2023 in Luxemburg und  Trier erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/staffel-4-reveal-wir-begleiten-die-dhd-konferenz-2023-in-luxemburg-und-trier/?utm_source=rss&utm_medium=rss&utm_campaign=staffel-4-reveal-wir-begleiten-die-dhd-konferenz-2023-in-luxemburg-und-trier",
-          "publishedOn": "2023-02-17T08:17:00.000Z",
-          "wordCount": 843,
-          "title": "Staffel 4 Reveal: Wir begleiten die DHd-Konferenz 2023 in Luxemburg und  Trier"
         }
       ]
     },
@@ -3775,15 +3775,6 @@
           "publishedOn": "2023-02-20T13:42:57.000Z",
           "wordCount": 1835,
           "title": "Interesting trial for musicologists: test nkoda until 27 March 2023"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1767",
-          "author": "Leah Budke",
-          "description": "Are you a Digital Humanities student or early career researcher in Belgium who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual Discussion…\n\nContinue reading “Webinar Series: DH Virtual Discussion Group for Early Career Researchers in Belgium – Spring 2023 Edition”…",
-          "link": "https://scholarlytales.hcommons.org/2023/02/16/webinar-series-dh-virtual-discussion-group-for-early-career-researchers-in-belgium-spring-2023-edition/",
-          "publishedOn": "2023-02-16T11:18:53.000Z",
-          "wordCount": 2398,
-          "title": "Webinar Series: DH Virtual Discussion Group for Early Career Researchers in Belgium – Spring 2023 Edition"
         }
       ]
     },
@@ -3925,15 +3916,6 @@
           "publishedOn": "2023-03-24T01:40:58.000Z",
           "wordCount": 1013,
           "title": "A big milestone, Trove contributor data, and the coming of API v3 – recent GLAM Workbench updates"
-        },
-        {
-          "id": "http://wragge.micro.blog/2023/02/17/maps-people-lists.html",
-          "author": null,
-          "description": "Once again I’ve gotten a bit behind in noting GLAM Workbench updates, so here’s a quick catch up on some Trove-related changes from the last couple of months.\nTrove API introduction\nThe section that introduces the Trove API (or APIs!) hasn’t had much love over recent years. I’m hoping to add some more content in the coming months, but for now I just did a bit of maintenance – updating Python packages and config files, including tests, and setting up automated builds of Docker containers. The documentation pages have also had a bit of a refresh. More soon!\nTrove lists and tags\nFor the Everyday Heritage digital workshop last November, I added a new notebook to convert a Trove list into a CollectionBuilder exhibition. The notebook harvests metadata and images from the items in a Trove list, t…",
-          "link": "https://updates.timsherratt.org/2023/02/17/maps-people-lists.html",
-          "publishedOn": "2023-02-17T05:53:07.000Z",
-          "wordCount": 810,
-          "title": "Maps, people, lists & more – recent updates to Trove resources in the GLAM Workbench"
         }
       ]
     },

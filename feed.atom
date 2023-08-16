@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-15T08:13:04.299Z</updated>
+    <updated>2023-08-16T08:13:17.427Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ACH seeks working group proposals]]></title>
+        <id>https://ach.org/?p=2495</id>
+        <link href="https://ach.org/blog/2023/08/15/ach-seeks-working-group-proposals/"/>
+        <updated>2023-08-15T22:13:50.000Z</updated>
+        <summary type="html"><![CDATA[As announced at the ACH 2023 conference, ACH is soliciting working group proposals for the upcoming academic year. We’ve posted guidelines for proposals here, along with more information about the benefits of forming a working group. Each working group must have co-chairs who are ACH members. We hope that the ACH working group framework will…Continue reading.]]></summary>
+        <author>
+            <name>Quinn Dombrowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Nominations: ADHO Roberto Busa Prize]]></title>
+        <id>https://adho.org/?p=2805</id>
+        <link href="https://adho.org/2023/08/15/call-for-nominations-adho-roberto-busa-prize/"/>
+        <updated>2023-08-15T17:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The Roberto Busa Prize is an award of the Alliance of Digital Humanities Organisations (ADHO). It is named in honour of Father Roberto Busa, the first pioneer of humanities computing, who in 1949 began experiments in linguistic automation, with the support of the IBM offices in New York and Milan, as part of his analytical… Read More »Call for Nominations: ADHO Roberto Busa Prize]]></summary>
+        <author>
+            <name>EB Chair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join or Nominate Someone for a Position on the ADHO Executive Board]]></title>
+        <id>https://adho.org/?p=2801</id>
+        <link href="https://adho.org/2023/08/15/join-or-nominate-someone-for-a-position-on-the-adho-executive-board/"/>
+        <updated>2023-08-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks nominations of committed individuals who would like to actively help further DH in all its breadth and diversity for the following volunteer positions (position descriptions below): All of these positions have a global reach, but involve working closely with small, supportive groups of volunteers, including the ADHO… Read More »Join or Nominate Someone for a Position on the ADHO Executive Board]]></summary>
+        <author>
+            <name>EB Chair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JADH2023: Call for Participation]]></title>
         <id>76 at https://www.jadh.org</id>
@@ -7625,41 +7655,6 @@ The post 3 AI Models For Transcribing German Text In Fraktur, Kurrent and Sütte
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Resources for Chinese Bronze Research: The Academia Sinica Collection (Part 1)]]></title>
-        <id>http://digitalorientalist.com/?p=9938</id>
-        <link href="https://digitalorientalist.com/2023/02/17/digital-resources-for-chinese-bronze-research-the-academia-sinica-collection-part-1/"/>
-        <updated>2023-02-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From the accidental discovery of a bronze “three-legged cauldron” (ding 鼎) during the reign of Emperor Wu of Han 武漢帝 …]]></summary>
-        <author>
-            <name>Henry Jacobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Staffel 4 Reveal: Wir begleiten die DHd-Konferenz 2023 in Luxemburg und  Trier]]></title>
-        <id>https://radihum20.de/?p=627</id>
-        <link href="https://radihum20.de/staffel-4-reveal-wir-begleiten-die-dhd-konferenz-2023-in-luxemburg-und-trier/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=staffel-4-reveal-wir-begleiten-die-dhd-konferenz-2023-in-luxemburg-und-trier"/>
-        <updated>2023-02-17T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Die DHd-Konferenz ist für uns ein ganz besonderes Event: Auf der DHd2020 haben Lisa, Jonathan und Mareike sich zum ersten Mal getroffen und beschlossen, einen Podcast zu gründen. Ein Jahr später haben wir bei der vDHd2021, der virtuellen Ersatzkonferenz für unsere zweite Staffel, über 30 Folgen in wenigen Wochen aufgenommen und veröffentlicht. In diesem Jahr […]
-Der Beitrag Staffel 4 Reveal: Wir begleiten die DHd-Konferenz 2023 in Luxemburg und  Trier erschien zuerst auf RaDiHum 20.]]></summary>
-        <author>
-            <name>Mareike Schumacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maps, people, lists & more – recent updates to Trove resources in the GLAM Workbench]]></title>
-        <id>http://wragge.micro.blog/2023/02/17/maps-people-lists.html</id>
-        <link href="https://updates.timsherratt.org/2023/02/17/maps-people-lists.html"/>
-        <updated>2023-02-17T05:53:07.000Z</updated>
-        <summary type="html"><![CDATA[Once again I’ve gotten a bit behind in noting GLAM Workbench updates, so here’s a quick catch up on some Trove-related changes from the last couple of months.
-Trove API introduction
-The section that introduces the Trove API (or APIs!) hasn’t had much love over recent years. I’m hoping to add some more content in the coming months, but for now I just did a bit of maintenance – updating Python packages and config files, including tests, and setting up automated builds of Docker containers. The documentation pages have also had a bit of a refresh. More soon!
-Trove lists and tags
-For the Everyday Heritage digital workshop last November, I added a new notebook to convert a Trove list into a CollectionBuilder exhibition. The notebook harvests metadata and images from the items in a Trove list, t…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Save the Date - Ireland's First Annual National Open Research Festival]]></title>
         <id>1623 at https://www.dri.ie</id>
         <link href="https://www.dri.ie/save-date-irelands-first-annual-national-open-research-festival"/>
@@ -7670,18 +7665,6 @@ For the Everyday Heritage digital workshop last November, I added a new notebook
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Webinar Series: DH Virtual Discussion Group for Early Career Researchers in Belgium – Spring 2023 Edition]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1767</id>
-        <link href="https://scholarlytales.hcommons.org/2023/02/16/webinar-series-dh-virtual-discussion-group-for-early-career-researchers-in-belgium-spring-2023-edition/"/>
-        <updated>2023-02-16T11:18:53.000Z</updated>
-        <summary type="html"><![CDATA[Are you a Digital Humanities student or early career researcher in Belgium who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual Discussion…
-
-Continue reading “Webinar Series: DH Virtual Discussion Group for Early Career Researchers in Belgium – Spring 2023 Edition”…]]></summary>
-        <author>
-            <name>Leah Budke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CDH accepting applications for British Academy International Fellowships 2023]]></title>
         <id>https://www.cdh.cam.ac.uk/about/news/british-academy-international-fellowships-2023/</id>
         <link href="https://www.cdh.cam.ac.uk/about/news/british-academy-international-fellowships-2023/"/>
@@ -7689,16 +7672,6 @@ Continue reading “Webinar Series: DH Virtual Discussion Group for Early Career
         <summary type="html"><![CDATA[Cambridge Digital Humanities (CDH) at the University of Cambridge welcomes applications for the British Academy International Fellowships 2023. The deadline for applications to CDH is midnight on Sunday 5 March 2023, and the deadline for applications to the British Academy is 28 March 2023. The International Fellowships Programme provides support for outstanding early career researchers to make]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emerging Projects Fund in Critical Digital Humanities]]></title>
-        <id>https://dhn.utoronto.ca/?p=7235</id>
-        <link href="https://dhn.utoronto.ca/emerging-projects-fund-in-critical-digital-humanities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=emerging-projects-fund-in-critical-digital-humanities"/>
-        <updated>2023-02-16T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI) is a tri-campus research initiative that was funded by the University of Toronto’s Institutional Strategic Initiatives (ISI) Program in December 2020 for 3 years […]]]></summary>
-        <author>
-            <name>Matt Lefaive</name>
         </author>
     </entry>
     <entry>
