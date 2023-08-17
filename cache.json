@@ -1731,15 +1731,6 @@
           "publishedOn": "2023-02-19T14:37:42.000Z",
           "wordCount": 1453,
           "title": "Ausschreibung Professur &quot;Data Science in the Humanities&quot; W1 mit Tenure auf W2 an der THM"
-        },
-        {
-          "id": "node/884",
-          "author": "434",
-          "description": "Wir freuen uns, dass wir für die DHd2023 noch 9 von der Gerda Henkel Stiftung geförderte Reisekostenstipendien in Höhe von jeweils 500,00 EUR an Promovierende vergeben können.…",
-          "link": "https://dig-hum.de/aktuelles/zweite-runde-reisekostenstipendien-f%C3%BCr-promovierende-f%C3%BCr-die-dhd2023",
-          "publishedOn": "2023-02-18T11:51:00.000Z",
-          "wordCount": 1107,
-          "title": "Zweite Runde: Reisekostenstipendien für Promovierende für die DHd2023"
         }
       ]
     },
@@ -2430,6 +2421,15 @@
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
         {
+          "id": "https://livingwithmachines.ac.uk/?p=3481",
+          "author": "Daniel Wilson",
+          "description": "New Research Article Published! Humans make machines, we make them in our image. They are very different to us, but they are also quite like us too. These similarities have caught the imagination, inviting the use of figurative language and metaphors in the way we describe them. This language can be slippery or even hazardous, […]",
+          "link": "https://livingwithmachines.ac.uk/stop-press-the-living-machine/?utm_source=rss&utm_medium=rss&utm_campaign=stop-press-the-living-machine",
+          "publishedOn": "2023-08-16T18:13:51.000Z",
+          "wordCount": 1464,
+          "title": "Stop Press! The Living Machine"
+        },
+        {
           "id": "https://livingwithmachines.ac.uk/?p=3462",
           "author": "Léllé Demertzi",
           "description": "Living with Machines came to an official end on 31 July 2023. It has been a genuine privilege to work with this team over the last 5 years. As part of our conclusion phase we have created a report which lists some of our many achievements, and reflects on our journey as a project.  Here’s […]",
@@ -3042,15 +3042,6 @@
           "publishedOn": "2023-02-22T11:36:42.000Z",
           "wordCount": 3588,
           "title": "A Short History of Transkribus with Günter Mühlberger"
-        },
-        {
-          "id": "https://readcoop.eu/?p=31858",
-          "author": "Florian Stauder",
-          "description": "If you regularly work with German historical documents then there are three types of German script that you are probably very familiar with: Fraktur, Kurrent, and Sütterlin. These scripts were used from the 16th century right up until the Second World War, covering several centuries of German and Central European history. However, nowadays, they are […]\nThe post 3 AI Models For Transcribing German Text In Fraktur, Kurrent and Sütterlin appeared first on READ-COOP.",
-          "link": "https://readcoop.eu/3-ai-models-for-transcribing-german-text-in-fraktur-kurrent-and-sutterlin/",
-          "publishedOn": "2023-02-17T14:57:11.000Z",
-          "wordCount": 2302,
-          "title": "3 AI Models For Transcribing German Text In Fraktur, Kurrent and Sütterlin"
         }
       ]
     },
@@ -3873,6 +3864,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2023/08/17/bye-bye-birdsite.html",
+          "author": null,
+          "description": "In early June I pinned a “nobody’s home” post to my profile and said goodbye to Twitter. After 15 years, I was sad to leave behind friends and colleagues, but glad to get away from the hate, the nazis, and the transphobes. I hadn’t been posting much since Elno took over anyway, and was happily building a new network over on Mastodon. This morning I finally removed the Twitter links from my home page. Bye bye birdsite.\nIf you want to find me now I’m @wragge@hcommons.social. If you’re still wondering about making the move to Mastodon, I can heartily recommend hcommons.social as a friendly, well run instance. They also have a really useful guide to Mastodon for humanities scholars.",
+          "link": "https://updates.timsherratt.org/2023/08/17/bye-bye-birdsite.html",
+          "publishedOn": "2023-08-17T01:53:47.000Z",
+          "wordCount": 167,
+          "title": "Bye bye birdsite"
+        },
+        {
           "id": "http://wragge.micro.blog/2023/08/08/exploring-the-front.html",
           "author": null,
           "description": "Way back in 2012, I used the brand new Trove API to download the details of 4 million  articles published on the front pages of newspapers. I did it for two reasons: first, I wanted to see how the content of front pages changed over time; and second, I wanted to show that large-scale data wrangling was entirely possible using nothing more than a laptop and a home broadband connection. I described my adventures in this blog post, but if you look at it now you’ll see lots of sad, empty boxes where live charts used to be. This is because I shared my results though a custom web application which, 10 years later, seems like a really, really dumb idea. Needless to say the app fell foul of web hosting changes and is no more. Nowadays I use GitHub and Jupyter notebooks to share my data noodling, s…",
@@ -4003,6 +4003,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4614 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "This talk explores the way Rockstar Games has been mediating American history for the last two decades. It also surveys the way the company deployed a range of paratextual promotional materials to sell games like Red Dead Redemption and L.A. Noire – and specifically, to sell their “authenticity”. The talk notes the importance of incorporating games into our conceptualisation of “digital history,” as well as the need to consider born-digital paratexts materials in our analyses of historical video games.\nEsther Wright is Lecturer in Digital History at Cardiff University (Wales, UK), where she researches and teaches historical video games. She is the author of Rockstar Games and American History: Promotional Materials and the Construction of Authenticity (De Gruyter, 2022), and co-editor (with John Wills) of Red Dead Redemption: History, Myth and Violence in the Video Games West (University of Oklahoma Press, 2023). She is also co-convenor of the Historical Games Network, a space for conversation and collaboration between academics, game makers, and cultural heritage professionals. \n \nTuesday, 19 September 2023\n14.00 – 15.30\nBlack Box\nMaison des Sciences Humaines \nBelval Campus\nand online: https://unilu.webex.com/unilu/j.php?MTID=madc9cc89d58c4828d0cb32c54d7274f8\nThe lecture will be followed by a reception.\n \n\n\n19 September 2023\n  Public history\n  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/history-and-digital-margins-rockstar-games",
+          "publishedOn": "2023-08-16T12:20:16.000Z",
+          "wordCount": 398,
+          "title": "History and the (Digital) Margins of Rockstar Games"
+        },
         {
           "id": "4612 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -4208,6 +4217,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-irving-huerta/",
+          "author": null,
+          "description": "Irving Huerta is a Research Associate and Data School Convenor of our Data Schools (four scheduled for 23-24). His background is in journalism, collaborating with organisations like Forensic Architecture, the International Consortium for Investigative Journalism and others. He is interested in the intersection between politics, media, and accountability. His research revolves around the politics of",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-irving-huerta/",
+          "publishedOn": "2023-08-14T15:13:26.000Z",
+          "wordCount": 523,
+          "title": "Dr Irving Huerta"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/36960/",
           "author": null,
@@ -5737,69 +5755,6 @@
           "publishedOn": "2023-02-24T09:02:34.000Z",
           "wordCount": 655,
           "title": "Data: Materialities, Infrastructures, Critiques"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/british-academy-international-fellowships-2023/",
-          "author": null,
-          "description": "Cambridge Digital Humanities (CDH) at the University of Cambridge welcomes applications for the British Academy International Fellowships 2023. The deadline for applications to CDH is midnight on Sunday 5 March 2023, and the deadline for applications to the British Academy is 28 March 2023. The International Fellowships Programme provides support for outstanding early career researchers to make",
-          "link": "https://www.cdh.cam.ac.uk/about/news/british-academy-international-fellowships-2023/",
-          "publishedOn": "2023-02-16T10:14:33.000Z",
-          "wordCount": 761,
-          "title": "CDH accepting applications for British Academy International Fellowships 2023"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/florence-d-harry/",
-          "author": null,
-          "description": "Florence is excited to be joining CDH part-time as Communications and Events Coordinator as of February 2023, having just completed her MPhil in Philosophy of Religion at the University of Cambridge. She is passionate about higher education and fascinated by the new opportunities afforded to the humanities in an increasingly digital age. In her spare",
-          "link": "https://www.cdh.cam.ac.uk/about/people/florence-d-harry/",
-          "publishedOn": "2023-02-14T15:08:19.000Z",
-          "wordCount": 360,
-          "title": "Florence D. Harry"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/amira-moeding/",
-          "author": null,
-          "description": "Amira Moeding is a PhD student at Cambridge University in the history of Political Thought and Intellectual History, supervised by Dr Emma Mackinnon. Amira’s PhD project focuses on the Intellectual History of ‘Big Data,’ how ‘Big Data’ as an approach to building artificial intelligence became thinkable, how data became foremost an economic resource, and how",
-          "link": "https://www.cdh.cam.ac.uk/about/people/amira-moeding/",
-          "publishedOn": "2023-02-14T14:47:09.000Z",
-          "wordCount": 424,
-          "title": "Amira Moeding"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/sophie-mary/",
-          "author": null,
-          "description": "Sophie is a PhD candidate in the Sociology Department at the University of Cambridge. She holds a BA in Media Culture from Maastricht University (2016 - 2019), as well as an MSc in Marketing from the University of Edinburgh (2019 - 2020). Her current research, which she began as a master's student, focuses on the",
-          "link": "https://www.cdh.cam.ac.uk/about/people/sophie-mary/",
-          "publishedOn": "2023-02-14T14:41:32.000Z",
-          "wordCount": 414,
-          "title": "Sophie Mary"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/elizabeth-smith/",
-          "author": null,
-          "description": "Liz is the digital curator for 19th century science collections at Cambridge University Library, with responsibility for data relating to 19th century scientific manuscripts. She worked first with the Newton Project, and then with the Darwin Correspondence Project, where she formed part of the team that converted the Project’s core files to TEI XML. She continues",
-          "link": "https://www.cdh.cam.ac.uk/about/people/elizabeth-smith/",
-          "publishedOn": "2023-02-14T12:22:54.000Z",
-          "wordCount": 374,
-          "title": "Elizabeth Smith"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36056/",
-          "author": null,
-          "description": "Convenor: Dr Anne Alexander (Director of CDH Learning ) This in-person workshop will provide an accessible, non-technical introduction to Machine Learning systems, aimed primarily at graduate students and researchers in the humanities, arts and social sciences. Key topics covered in the sessions will include: Situating Machine Learning in the longer history of Artificial Intelligence Machine",
-          "link": "https://www.cdh.cam.ac.uk/events/36056/",
-          "publishedOn": "2023-02-13T11:02:39.000Z",
-          "wordCount": 488,
-          "title": "Machine Learning Systems: a critical introduction"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-michael-hawkins/",
-          "author": null,
-          "description": "Dr Michael Hawkins has been working in Digital Humanities since completing his PhD on Thomas Willis’s neurocartography of the passions at Imperial College London in 2004. He has served as Technical Director of numerous digital humanities projects. His main areas of interest are editing and encoding materials for historical research. His specialities include TEI, XSLT, xQuery,",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-michael-hawkins/",
-          "publishedOn": "2023-02-13T09:36:49.000Z",
-          "wordCount": 363,
-          "title": "Dr Michael Hawkins"
         }
       ]
     },

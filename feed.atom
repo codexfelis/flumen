@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-16T08:13:17.427Z</updated>
+    <updated>2023-08-17T08:13:03.933Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bye bye birdsite]]></title>
+        <id>http://wragge.micro.blog/2023/08/17/bye-bye-birdsite.html</id>
+        <link href="https://updates.timsherratt.org/2023/08/17/bye-bye-birdsite.html"/>
+        <updated>2023-08-17T01:53:47.000Z</updated>
+        <summary type="html"><![CDATA[In early June I pinned a “nobody’s home” post to my profile and said goodbye to Twitter. After 15 years, I was sad to leave behind friends and colleagues, but glad to get away from the hate, the nazis, and the transphobes. I hadn’t been posting much since Elno took over anyway, and was happily building a new network over on Mastodon. This morning I finally removed the Twitter links from my home page. Bye bye birdsite.
+If you want to find me now I’m @wragge@hcommons.social. If you’re still wondering about making the move to Mastodon, I can heartily recommend hcommons.social as a friendly, well run instance. They also have a really useful guide to Mastodon for humanities scholars.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Press! The Living Machine]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=3481</id>
+        <link href="https://livingwithmachines.ac.uk/stop-press-the-living-machine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stop-press-the-living-machine"/>
+        <updated>2023-08-16T18:13:51.000Z</updated>
+        <summary type="html"><![CDATA[New Research Article Published! Humans make machines, we make them in our image. They are very different to us, but they are also quite like us too. These similarities have caught the imagination, inviting the use of figurative language and metaphors in the way we describe them. This language can be slippery or even hazardous, […]]]></summary>
+        <author>
+            <name>Daniel Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History and the (Digital) Margins of Rockstar Games]]></title>
+        <id>4614 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/history-and-digital-margins-rockstar-games"/>
+        <updated>2023-08-16T12:20:16.000Z</updated>
+        <summary type="html"><![CDATA[This talk explores the way Rockstar Games has been mediating American history for the last two decades. It also surveys the way the company deployed a range of paratextual promotional materials to sell games like Red Dead Redemption and L.A. Noire – and specifically, to sell their “authenticity”. The talk notes the importance of incorporating games into our conceptualisation of “digital history,” as well as the need to consider born-digital paratexts materials in our analyses of historical video games.
+Esther Wright is Lecturer in Digital History at Cardiff University (Wales, UK), where she researches and teaches historical video games. She is the author of Rockstar Games and American History: Promotional Materials and the Construction of Authenticity (De Gruyter, 2022), and co-editor (with John Wills) of Red Dead Redemption: History, Myth and Violence in the Video Games West (University of Oklahoma Press, 2023). She is also co-convenor of the Historical Games Network, a space for conversation and collaboration between academics, game makers, and cultural heritage professionals. 
+ 
+Tuesday, 19 September 2023
+14.00 – 15.30
+Black Box
+Maison des Sciences Humaines 
+Belval Campus
+and online: https://unilu.webex.com/unilu/j.php?MTID=madc9cc89d58c4828d0cb32c54d7274f8
+The lecture will be followed by a reception.
+ 
+
+
+19 September 2023
+  Public history
+  Public History
+  Conferences
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACH seeks working group proposals]]></title>
         <id>https://ach.org/?p=2495</id>
@@ -34,6 +83,16 @@
         <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks nominations of committed individuals who would like to actively help further DH in all its breadth and diversity for the following volunteer positions (position descriptions below): All of these positions have a global reach, but involve working closely with small, supportive groups of volunteers, including the ADHO… Read More »Join or Nominate Someone for a Position on the ADHO Executive Board]]></summary>
         <author>
             <name>EB Chair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Irving Huerta]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-irving-huerta/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-irving-huerta/"/>
+        <updated>2023-08-14T15:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Irving Huerta is a Research Associate and Data School Convenor of our Data Schools (four scheduled for 23-24). His background is in journalism, collaborating with organisations like Forensic Architecture, the International Consortium for Investigative Journalism and others. He is interested in the intersection between politics, media, and accountability. His research revolves around the politics of]]></summary>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -7634,27 +7693,6 @@ Der Call for Papers für die…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zweite Runde: Reisekostenstipendien für Promovierende für die DHd2023]]></title>
-        <id>node/884</id>
-        <link href="https://dig-hum.de/aktuelles/zweite-runde-reisekostenstipendien-f%C3%BCr-promovierende-f%C3%BCr-die-dhd2023"/>
-        <updated>2023-02-18T11:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Wir freuen uns, dass wir für die DHd2023 noch 9 von der Gerda Henkel Stiftung geförderte Reisekostenstipendien in Höhe von jeweils 500,00 EUR an Promovierende vergeben können.…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 AI Models For Transcribing German Text In Fraktur, Kurrent and Sütterlin]]></title>
-        <id>https://readcoop.eu/?p=31858</id>
-        <link href="https://readcoop.eu/3-ai-models-for-transcribing-german-text-in-fraktur-kurrent-and-sutterlin/"/>
-        <updated>2023-02-17T14:57:11.000Z</updated>
-        <summary type="html"><![CDATA[If you regularly work with German historical documents then there are three types of German script that you are probably very familiar with: Fraktur, Kurrent, and Sütterlin. These scripts were used from the 16th century right up until the Second World War, covering several centuries of German and Central European history. However, nowadays, they are […]
-The post 3 AI Models For Transcribing German Text In Fraktur, Kurrent and Sütterlin appeared first on READ-COOP.]]></summary>
-        <author>
-            <name>Florian Stauder</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Save the Date - Ireland's First Annual National Open Research Festival]]></title>
         <id>1623 at https://www.dri.ie</id>
         <link href="https://www.dri.ie/save-date-irelands-first-annual-national-open-research-festival"/>
@@ -7665,56 +7703,6 @@ The post 3 AI Models For Transcribing German Text In Fraktur, Kurrent and Sütte
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CDH accepting applications for British Academy International Fellowships 2023]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/british-academy-international-fellowships-2023/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/british-academy-international-fellowships-2023/"/>
-        <updated>2023-02-16T10:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Cambridge Digital Humanities (CDH) at the University of Cambridge welcomes applications for the British Academy International Fellowships 2023. The deadline for applications to CDH is midnight on Sunday 5 March 2023, and the deadline for applications to the British Academy is 28 March 2023. The International Fellowships Programme provides support for outstanding early career researchers to make]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Florence D. Harry]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/florence-d-harry/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/florence-d-harry/"/>
-        <updated>2023-02-14T15:08:19.000Z</updated>
-        <summary type="html"><![CDATA[Florence is excited to be joining CDH part-time as Communications and Events Coordinator as of February 2023, having just completed her MPhil in Philosophy of Religion at the University of Cambridge. She is passionate about higher education and fascinated by the new opportunities afforded to the humanities in an increasingly digital age. In her spare]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amira Moeding]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/amira-moeding/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/amira-moeding/"/>
-        <updated>2023-02-14T14:47:09.000Z</updated>
-        <summary type="html"><![CDATA[Amira Moeding is a PhD student at Cambridge University in the history of Political Thought and Intellectual History, supervised by Dr Emma Mackinnon. Amira’s PhD project focuses on the Intellectual History of ‘Big Data,’ how ‘Big Data’ as an approach to building artificial intelligence became thinkable, how data became foremost an economic resource, and how]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sophie Mary]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/sophie-mary/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/sophie-mary/"/>
-        <updated>2023-02-14T14:41:32.000Z</updated>
-        <summary type="html"><![CDATA[Sophie is a PhD candidate in the Sociology Department at the University of Cambridge. She holds a BA in Media Culture from Maastricht University (2016 - 2019), as well as an MSc in Marketing from the University of Edinburgh (2019 - 2020). Her current research, which she began as a master's student, focuses on the]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elizabeth Smith]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/elizabeth-smith/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/elizabeth-smith/"/>
-        <updated>2023-02-14T12:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Liz is the digital curator for 19th century science collections at Cambridge University Library, with responsibility for data relating to 19th century scientific manuscripts. She worked first with the Newton Project, and then with the Darwin Correspondence Project, where she formed part of the team that converted the Project’s core files to TEI XML. She continues]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DRI is the New National Node for RDA in Ireland #LoveData]]></title>
         <id>1621 at https://www.dri.ie</id>
         <link href="https://www.dri.ie/dri-new-national-node-rda-ireland-lovedata"/>
@@ -7722,26 +7710,6 @@ The post 3 AI Models For Transcribing German Text In Fraktur, Kurrent and Sütte
         <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that it has become the national node for the Research Data Alliance (RDA) in Ireland. The RDA is an international volunteer member-based organisation fostering an inclusive approach to research data management. To celebrate the DRI's new role with the RDA during #LoveDataWeek, we've also put together a list of resources the DRI has created for researchers and members.]]></summary>
         <author>
             <name>bethknazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Systems: a critical introduction]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36056/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36056/"/>
-        <updated>2023-02-13T11:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Dr Anne Alexander (Director of CDH Learning ) This in-person workshop will provide an accessible, non-technical introduction to Machine Learning systems, aimed primarily at graduate students and researchers in the humanities, arts and social sciences. Key topics covered in the sessions will include: Situating Machine Learning in the longer history of Artificial Intelligence Machine]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dr Michael Hawkins]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/dr-michael-hawkins/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/dr-michael-hawkins/"/>
-        <updated>2023-02-13T09:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Dr Michael Hawkins has been working in Digital Humanities since completing his PhD on Thomas Willis’s neurocartography of the passions at Imperial College London in 2004. He has served as Technical Director of numerous digital humanities projects. His main areas of interest are editing and encoding materials for historical research. His specialities include TEI, XSLT, xQuery,]]></summary>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>
