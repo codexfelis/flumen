@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-17T08:13:03.933Z</updated>
+    <updated>2023-08-18T08:13:18.826Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Family history resources in the GLAM Workbench]]></title>
+        <id>http://wragge.micro.blog/2023/08/18/family-history-resources.html</id>
+        <link href="https://updates.timsherratt.org/2023/08/18/family-history-resources.html"/>
+        <updated>2023-08-18T04:06:21.000Z</updated>
+        <summary type="html"><![CDATA[It’s Family History Month, so I thought a brief post was in order describing some of the family history related resources in the GLAM Workbench.
+GLAM Name Index Search
+This is the biggie (in more ways than one). I’ve brought 263 datasets from 10 Australian GLAM organisations together into a single search interface. All these datasets index collections by people’s names, so with one search you can find information about individuals across a broad range of records, locations, and periods. There’s more than 10 million rows of data to explore!
+Try it now!
+NSW Post Office and Sydney Telephone Directories
+Many volumes of the NSW Post Office and Sydney Telephone Directories have been digitised and made available through Trove. However, they’re not easy to search. I’ve taken the text from these vo…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jennifer  Pybus]]></title>
+        <id>1254 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/speakers/pybus-jennifer"/>
+        <updated>2023-08-17T17:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Assistant Professor, Politics, York University]]></summary>
+        <author>
+            <name>perezste@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super SDKs: Tracking Personal Data and Platform Monopolies in the Mobile Ecosystem]]></title>
+        <id>1253 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/events/super-sdks"/>
+        <updated>2023-08-17T17:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Jennifer  Pybus
+
+
+Wednesday, September 20, 2023 - 12:00pm—1:30pm
+
+
+
+330 Fisher-Bennett Hall
+
+
+
+This presentation focuses on the question ‘what is tracking’ through a comprehensive overview of what Software Development Kit (SDKs) are and why these technical objects are relevant to platform power. The aim is to examine the relationship between personal data capture and platform monopolisation through a socio-technical overview of how datafication works in our apps.  SDKs are important tools used by developers to make apps work and to capitalise on their users. The average person has more than 40 different apps on their phone and each app uses an average of 18 SDKs which gather, share, and process our data. Users have little access to or understanding of this core technical data hub or of how…]]></summary>
+        <author>
+            <name>perezste@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yuqin Jiang]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/yuqin-jiang/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/yuqin-jiang/"/>
+        <updated>2023-08-17T08:36:12.000Z</updated>
+        <summary type="html"><![CDATA[Yuqin Jiang is a Professor of Comparative Literature at Shenzhen University, a director of Digital Humanities Studies at the school of Humanities, and a Fellow of Chinese Comparative Literature Association. Jiang primarily focuses her research on cyborg narrative, sci-fi poetics, digital humanities and science fiction studies, postcolonial literature studies, and cultural theory studies. She has]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bye bye birdsite]]></title>
         <id>http://wragge.micro.blog/2023/08/17/bye-bye-birdsite.html</id>
@@ -7667,27 +7723,6 @@ Julia Misersky
         <updated>2023-02-19T20:53:36.000Z</updated>
         <summary type="html"><![CDATA[Liebe Community, Eure kreativen Ideen sind gefragt!
 Am 14.11.22 hat der DHd-Verband die Mastodon Instanz FeDiHum gegründet. Wir freuen uns sehr darüber, bereits über 230 aktive…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Papers: FORGE23 Forschungsdaten in den Geisteswissenschaften]]></title>
-        <id>node/886</id>
-        <link href="https://dig-hum.de/aktuelles/call-for-papers-forge23-forschungsdaten-den-geisteswissenschaften"/>
-        <updated>2023-02-19T15:03:46.000Z</updated>
-        <summary type="html"><![CDATA[Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto "Anything Goes?!" vom 4. bis 6. Oktober 2023 in Tübingen statt. 
-Der Call for Papers für die…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ausschreibung Professur &quot;Data Science in the Humanities&quot; W1 mit Tenure auf W2 an der THM]]></title>
-        <id>node/885</id>
-        <link href="https://dig-hum.de/aktuelles/ausschreibung-professur-data-science-the-humanities-w1-tenure-w2-der-thm"/>
-        <updated>2023-02-19T14:37:42.000Z</updated>
-        <summary type="html"><![CDATA[An der Technischen Hochschule Mittelhessen ist am Campus Gießen im Fachbereich Mathematik, Naturwissenschaften und Informatik (MNI) sowie in Kooperation mit dem Herder-Institut…]]></summary>
         <author>
             <name>434</name>
         </author>

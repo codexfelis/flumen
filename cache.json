@@ -1713,24 +1713,6 @@
           "publishedOn": "2023-02-19T20:53:36.000Z",
           "wordCount": 918,
           "title": "DHd-Community-Aktion: Logo und Banner auf FeDiHum"
-        },
-        {
-          "id": "node/886",
-          "author": "434",
-          "description": "Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto \"Anything Goes?!\" vom 4. bis 6. Oktober 2023 in Tübingen statt. \nDer Call for Papers für die…",
-          "link": "https://dig-hum.de/aktuelles/call-for-papers-forge23-forschungsdaten-den-geisteswissenschaften",
-          "publishedOn": "2023-02-19T15:03:46.000Z",
-          "wordCount": 1228,
-          "title": "Call for Papers: FORGE23 Forschungsdaten in den Geisteswissenschaften"
-        },
-        {
-          "id": "node/885",
-          "author": "434",
-          "description": "An der Technischen Hochschule Mittelhessen ist am Campus Gießen im Fachbereich Mathematik, Naturwissenschaften und Informatik (MNI) sowie in Kooperation mit dem Herder-Institut…",
-          "link": "https://dig-hum.de/aktuelles/ausschreibung-professur-data-science-the-humanities-w1-tenure-w2-der-thm",
-          "publishedOn": "2023-02-19T14:37:42.000Z",
-          "wordCount": 1453,
-          "title": "Ausschreibung Professur &quot;Data Science in the Humanities&quot; W1 mit Tenure auf W2 an der THM"
         }
       ]
     },
@@ -2569,6 +2551,24 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1254 at https://pricelab.sas.upenn.edu",
+          "author": "perezste@upenn.edu",
+          "description": "Assistant Professor, Politics, York University",
+          "link": "https://pricelab.sas.upenn.edu/speakers/pybus-jennifer",
+          "publishedOn": "2023-08-17T17:42:45.000Z",
+          "wordCount": 200,
+          "title": "Jennifer  Pybus"
+        },
+        {
+          "id": "1253 at https://pricelab.sas.upenn.edu",
+          "author": "perezste@upenn.edu",
+          "description": "Jennifer  Pybus\n\n\nWednesday, September 20, 2023 - 12:00pm—1:30pm\n\n\n\n330 Fisher-Bennett Hall\n\n\n\nThis presentation focuses on the question ‘what is tracking’ through a comprehensive overview of what Software Development Kit (SDKs) are and why these technical objects are relevant to platform power. The aim is to examine the relationship between personal data capture and platform monopolisation through a socio-technical overview of how datafication works in our apps.  SDKs are important tools used by developers to make apps work and to capitalise on their users. The average person has more than 40 different apps on their phone and each app uses an average of 18 SDKs which gather, share, and process our data. Users have little access to or understanding of this core technical data hub or of how…",
+          "link": "https://pricelab.sas.upenn.edu/events/super-sdks",
+          "publishedOn": "2023-08-17T17:42:05.000Z",
+          "wordCount": 597,
+          "title": "Super SDKs: Tracking Personal Data and Platform Monopolies in the Mobile Ecosystem"
+        },
         {
           "id": "1252 at https://pricelab.sas.upenn.edu",
           "author": "pamhorn@upenn.edu",
@@ -3864,6 +3864,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2023/08/18/family-history-resources.html",
+          "author": null,
+          "description": "It’s Family History Month, so I thought a brief post was in order describing some of the family history related resources in the GLAM Workbench.\nGLAM Name Index Search\nThis is the biggie (in more ways than one). I’ve brought 263 datasets from 10 Australian GLAM organisations together into a single search interface. All these datasets index collections by people’s names, so with one search you can find information about individuals across a broad range of records, locations, and periods. There’s more than 10 million rows of data to explore!\nTry it now!\nNSW Post Office and Sydney Telephone Directories\nMany volumes of the NSW Post Office and Sydney Telephone Directories have been digitised and made available through Trove. However, they’re not easy to search. I’ve taken the text from these vo…",
+          "link": "https://updates.timsherratt.org/2023/08/18/family-history-resources.html",
+          "publishedOn": "2023-08-18T04:06:21.000Z",
+          "wordCount": 513,
+          "title": "Family history resources in the GLAM Workbench"
+        },
+        {
           "id": "http://wragge.micro.blog/2023/08/17/bye-bye-birdsite.html",
           "author": null,
           "description": "In early June I pinned a “nobody’s home” post to my profile and said goodbye to Twitter. After 15 years, I was sad to leave behind friends and colleagues, but glad to get away from the hate, the nazis, and the transphobes. I hadn’t been posting much since Elno took over anyway, and was happily building a new network over on Mastodon. This morning I finally removed the Twitter links from my home page. Bye bye birdsite.\nIf you want to find me now I’m @wragge@hcommons.social. If you’re still wondering about making the move to Mastodon, I can heartily recommend hcommons.social as a friendly, well run instance. They also have a really useful guide to Mastodon for humanities scholars.",
@@ -4217,6 +4226,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/yuqin-jiang/",
+          "author": null,
+          "description": "Yuqin Jiang is a Professor of Comparative Literature at Shenzhen University, a director of Digital Humanities Studies at the school of Humanities, and a Fellow of Chinese Comparative Literature Association. Jiang primarily focuses her research on cyborg narrative, sci-fi poetics, digital humanities and science fiction studies, postcolonial literature studies, and cultural theory studies. She has",
+          "link": "https://www.cdh.cam.ac.uk/about/people/yuqin-jiang/",
+          "publishedOn": "2023-08-17T08:36:12.000Z",
+          "wordCount": 641,
+          "title": "Yuqin Jiang"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/dr-irving-huerta/",
           "author": null,
