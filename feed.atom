@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-18T08:13:18.826Z</updated>
+    <updated>2023-08-19T08:11:58.256Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sustaining your data]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/36978/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/36978/"/>
+        <updated>2023-08-18T14:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring long-term access to digital data is often a difficult task: both hardware and code decay much more rapidly than many other means of information storage. Digital data created in the 1980s is frequently unreadable, whereas books and manuscripts written in the 980s are still legible. This session explores good practice in data preservation and]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysing and presenting your data]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/36977/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/36977/"/>
+        <updated>2023-08-18T14:35:41.000Z</updated>
+        <summary type="html"><![CDATA[The impact of well-crafted data visualisations has been well-documented historically. Florence Nightingale famously used charts to make her case for hospital hygiene in the Crimean War, while Dr John Snow’s bar charts of cholera deaths in London helped convince the authorities of the water-borne nature of the disease. However, as information designer Alberto Cairo notes,]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming your data]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/36976/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/36976/"/>
+        <updated>2023-08-18T14:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Data which you have captured rather than created yourself is likely to need cleaning up before you can use it effectively. This short session will introduce you to the basic principles of creating structured datasets and walk you through some case studies in data cleaning with OpenRefine, a powerful open source tool for working with]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acquiring data for your project]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/36975/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/36975/"/>
+        <updated>2023-08-18T14:35:09.000Z</updated>
+        <summary type="html"><![CDATA[This session provides a brief introduction to different methods for capturing bulk data from online sources or via agreement with data collection holders, including Application Programme Interfaces (APIs). We will address issues of data provenance, exceptions to copyright for text and data-mining, and discuss good practice in managing and working with data that others have]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing a digital research project]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/36974/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/36974/"/>
+        <updated>2023-08-18T14:34:51.000Z</updated>
+        <summary type="html"><![CDATA[This CDH Basics session explores the lifecycle of a digital research project across the stages of design, data capture, transformation, analysis, presentation and preservation. It introduces tactics for embedding ethical research principles and practices at each stage of the research process. Introduction to the digital project life cycle Ethics by design and EDI-informed data processing]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenausschreibung: Wissenschaftliche/r Mitarbeiter/in im Rahmen des Impulsprojektes &quot;Neuedition der Werke und Briefe Ephraim Lessings&quot;]]></title>
+        <id>node/914</id>
+        <link href="https://dig-hum.de/aktuelles/stellenausschreibung-wissenschaftlicher-mitarbeiterin-im-rahmen-des-impulsprojektes"/>
+        <updated>2023-08-18T13:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Die Herzog August Bibliothek Wolfenbüttel ist eine zentrale Institution zur Erforschung der Kulturgeschichte des Mittelalters und der frühen Neuzeit. Sie besitzt bedeutende…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenausschreibung: Wissenschaftliche/r Mitarbeiter/in (m/w/d) in Digital Humanities]]></title>
+        <id>node/913</id>
+        <link href="https://dig-hum.de/aktuelles/stellenausschreibung-wissenschaftlicher-mitarbeiterin-mwd-digital-humanities"/>
+        <updated>2023-08-18T13:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Wissenschaftliche/r Mitarbeiter/in (m/w/d) in Digital Humanities
+An der Philosophischen Fakultät der RWTH Aachen University ist zum nächstmöglichen Zeitpunkt die Stelle (100%…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paths to survival. Escape trajectories and supportive aid networks regarding persecuted Jews from Luxembourg, 1940-1943]]></title>
+        <id>4615 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/paths-survival-escape-trajectories-and-supportive-aid-networks-regarding-persecuted-jews"/>
+        <updated>2023-08-18T12:49:33.000Z</updated>
+        <summary type="html"><![CDATA[The period between the occupation of Luxembourg by Nazi Germany on 10 May 1940 and the beginning of the first deportation train to the East on 16 October 1941, marked by the constantly tightening net of Nazi persecution, was characterized by waves of escape movements of Jewish people leaving the Grand-Duchy. While many initially sought refuge in France, a minority was able to emigrate via neutral countries such as Spain or Portugal to safe havens like the USA.
+In parallel with the examination of the fleeing population itself, the strategies it employs, as well as the geographic framework of the escape routes, the thesis investigates the influence of potential aid networks that impacted the flight marked by multiple motivations.
+In addition to displaying the initial findings of the research, the presentation will also address the particular challenges regarding the transnational perspective and the micro historical character of the work as individual fates will particularly be woven into the discussion, as well as the connections to the project of the Mémorial de la Shoah au Luxembourg.
+ 
+Wednesday, 20 Septemner 2023
+14.00 - 15.00
+
+C²DH Open Space 
+20 September 2023
+  Contemporary history of Luxembourg
+  Digital Shoah Memorial Luxembourg
+  Holocaust  Jewish history  Migration history  WW2
+  Research seminars
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Das DHd Community Forum macht Sommerpause]]></title>
+        <id>node/912</id>
+        <link href="https://dig-hum.de/aktuelles/das-dhd-community-forum-macht-sommerpause"/>
+        <updated>2023-08-18T11:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Am 3. November findet das nächste DHd Community Forum statt.
+Weitere Infos und spannende Themen folgen. Bis bald!]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Family history resources in the GLAM Workbench]]></title>
         <id>http://wragge.micro.blog/2023/08/18/family-history-resources.html</id>
@@ -7627,104 +7733,6 @@ Dispatches from the Place of Imminence, part 15 first appeared on Digital Democr
         <summary type="html"><![CDATA[The deadline for applications for the Archiving Reproductive Health Collection Day has been extended to Sunday 26 February 2023.]]></summary>
         <author>
             <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digitising newspapers press directories to understand the landscape of historical newspapers]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=3016</id>
-        <link href="https://livingwithmachines.ac.uk/digitising-newspapers-press-directories-to-understand-the-landscape-of-historical-newspapers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=digitising-newspapers-press-directories-to-understand-the-landscape-of-historical-newspapers"/>
-        <updated>2023-02-20T16:34:53.000Z</updated>
-        <summary type="html"><![CDATA[In this blog post, we introduce the digitised newspaper press directories, a dataset central to the Living with Machines project. We first explain the research context and reasons for digitisation. Then we briefly discuss the digitisation process and describe the data. Of course, the impatient, or busy, reader can skip all of this and download […]]]></summary>
-        <author>
-            <name>Kaspar Beelen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RaDiHum20 spricht mit dem DHd2023-Konferenz-Organisationsteam]]></title>
-        <id>https://radihum20.de/?p=629</id>
-        <link href="https://radihum20.de/radihum20-spricht-mit-dem-dhd2023-konferenz-organisationsteam/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-spricht-mit-dem-dhd2023-konferenz-organisationsteam"/>
-        <updated>2023-02-20T14:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Unsere heutige Folge ist die erste unserer 4. Staffel und, wie angekündigt, wird sich dabei alles um die DHd2023 – die Jahreskonferenz der digitalen Geisteswissenschaften im deutschsprachigen Raum (https://dhd2023.dig-hum.de/) – und ihr Konferenzthema „Open Humanities, Open Culture“ drehen! Als Einstimmung haben wir in dieser Folge das Organisationsteam der Konferenz zu Gast, in Person von Estelle […]
-Der Beitrag RaDiHum20 spricht mit dem DHd2023-Konferenz-Organisationsteam erschien zuerst auf RaDiHum 20.]]></summary>
-        <author>
-            <name>Mareike Schumacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interesting trial for musicologists: test nkoda until 27 March 2023]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1782</id>
-        <link href="https://scholarlytales.hcommons.org/2023/02/20/interesting-trial-for-musicologists-test-nkoda-until-27-march-2023/"/>
-        <updated>2023-02-20T13:42:57.000Z</updated>
-        <summary type="html"><![CDATA[Nkoda is a rapidly growing library of digital scores (containing already more than 100 000 titles). After creating a personal account, you’re able to access the nkoda app from your mobile devices and desktop. In the app, you can create…
-
-Continue reading “Interesting trial for musicologists: test nkoda until 27 March 2023”…]]></summary>
-        <author>
-            <name>Melissa Portaels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Impact Story: Networks of Power - Gender Analysis in European Parliaments]]></title>
-        <id>5868 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/new-impact-story-networks-power-gender-analysis-european-parliaments"/>
-        <updated>2023-02-20T10:31:49.000Z</updated>
-        <summary type="html"><![CDATA[New Impact Story: Networks of Power - Gender Analysis in European Parliaments
-
-            
- 
-Using the ParlaMint dataset, this project examines different aspects of power in three European parliaments, with a particular focus on gender distribution in the debates. The project began at the Helsinki Digital Humanities Hackathon 2022 (DHH22), which took place in May 2022. After the hackathon ended, five members of the interdisciplinary team - Larissa Leiminger, Jure Skubic, Alexandra Bruncrona, Jan Angermeier and Bojan Evkoski - continued to work together on the topic and recently published their findings in the paper ‘Networks of Power: Gender Analysis in Selected European Parliaments’. 
-Read the full Impact Story
-
-      Karina Berger
- 20 February 2023]]></summary>
-        <author>
-            <name>Karina Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two CLARIN B-Centres Certified: BAS and CLARIN-LV]]></title>
-        <id>5867 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/two-clarin-b-centres-certified-bas-and-clarin-lv"/>
-        <updated>2023-02-20T09:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Two CLARIN B-Centres Certified: BAS and CLARIN-LV
-
-            
-We are pleased to announce that two B-centres have been successfully assessed and have received a B-centre certificate: the Bavarian Archive for Speech Signals (BAS) and the CLARIN Centre of Latvian Language Resources and Tools (CLARIN-LV).
- 
-Bavarian Archive for Speech Signals
-  
-BAS is a public institution hosted by the University of Munich. BAS has been a CLARIN B-centre since 2013 and was re-certified in late 2022. BAS makes speech resources from contemporary spoken German, as well as tools for the processing of digitised speech available to research and speech technology communities. The way in which the speech materials are structured allows flexible and precise access, with rich annotations, metadata and linguistic-phonetic evaluation.
-Read more about BAS here.
- 
-CLARIN Centre of Latvian language resources and tools
-  
-CLARIN-LV recently received its Core Trust Seal certification, a pre-requisite to becoming a CLARIN B-centre. The CLARIN-LV repository was set up in March 2020 and focuses on collecting, documenting, curating and providing easy and sustainable long-term access to digital Latvian language data and tools for a wide group of users: the SSH research community, language technology developers, language teachers and students, and others (e.g. via citizen science). Access to the CLARIN-LV repository and its language resources and tools is open to the academic and research community, industry and also to the public, in accordance with Open Data Principles and FAIR Data Principles.   
-Read more about CLARIN-LV here.
- 
-Julia Misersky
- 20 February 2023]]></summary>
-        <author>
-            <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graduate Fellowship in Critical Digital Humanities –  Academic Year 2023-2024]]></title>
-        <id>https://dhn.utoronto.ca/?p=7240</id>
-        <link href="https://dhn.utoronto.ca/graduate-fellowship-in-critical-digital-humanities-academic-year-2023-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=graduate-fellowship-in-critical-digital-humanities-academic-year-2023-2024"/>
-        <updated>2023-02-20T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI), a University of Toronto strategic initiative, supports trans-disciplinary collaborations that emphasize questions of power, social justice, and critical theory in digital humanities research. Our […]]]></summary>
-        <author>
-            <name>Matt Lefaive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHd-Community-Aktion: Logo und Banner auf FeDiHum]]></title>
-        <id>node/887</id>
-        <link href="https://dig-hum.de/aktuelles/dhd-community-aktion-logo-und-banner-fedihum"/>
-        <updated>2023-02-19T20:53:36.000Z</updated>
-        <summary type="html"><![CDATA[Liebe Community, Eure kreativen Ideen sind gefragt!
-Am 14.11.22 hat der DHd-Verband die Mastodon Instanz FeDiHum gegründet. Wir freuen uns sehr darüber, bereits über 230 aktive…]]></summary>
-        <author>
-            <name>434</name>
         </author>
     </entry>
     <entry>
