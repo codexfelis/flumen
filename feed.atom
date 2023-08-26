@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-25T08:13:24.945Z</updated>
+    <updated>2023-08-26T08:11:59.578Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trove Query Parser updated!]]></title>
+        <id>http://wragge.micro.blog/2023/08/26/trove-query-parser.html</id>
+        <link href="https://updates.timsherratt.org/2023/08/26/trove-query-parser.html"/>
+        <updated>2023-08-26T07:21:23.000Z</updated>
+        <summary type="html"><![CDATA[I’ve just updated the Trove Query Parser to work with version 3 of the Trove API. You just give it the url of a search in Trove’s newspapers, and it translates the search into a set of parameters that the API will understand. So this:
+parse_query("https://trove.nla.gov.au/search/category/newspapers?keyword=wragge&l-artType=newspapers&l-state=Queensland&l-category=Article&l-illustrationType=Cartoon", 3)
+Produces this:
+{'q': 'wragge', 'l-artType': 'newspapers', 'l-state': ['Queensland'], 'l-category': ['Article'], 'l-illustrated': 'true', 'l-illtype': ['Cartoon'], 'category': 'newspaper'}
+You can then feed the parameters to the Trove API with your API key and you’ll get data back. Easy! It’s simple but handy – I use the Query Parser in other tools like the Trove Newspaper Harvester and QueryPic.
+This version adds a second parameter to the parse_query() function so you can specify the version of the Trove API you’re using. The default value is 2 for backwards compatibility. See the documentation for more information.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assistant Professor - Dartmouth College]]></title>
         <id>1458 at https://eadh.org</id>
@@ -7505,31 +7520,6 @@ If you are interested in taking on this important role, please write to secretar
         <summary type="html"><![CDATA[A review of Eileen Southern and The Music of Black Americans, a community-curated digital exhibition, directed by Katie Callam, Christina Linklater, and Carol J. Oja]]></summary>
         <author>
             <name>Bethany Gareis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Proposals: Encoding Cultures – joint MEC and TEI Conference 2023]]></title>
-        <id>https://tei-c.org/?p=31556</id>
-        <link href="https://tei-c.org/2023/02/27/call-for-proposals-encoding-cultures-joint-mec-and-tei-conference-2023/"/>
-        <updated>2023-02-27T13:45:50.000Z</updated>
-        <summary type="html"><![CDATA[We are pleased to announce a call for papers, posters, panels, and workshops for “Encoding Cultures,” a joint conference of the annual Music Encoding Conference and Text Encoding Initiative Members’ Meeting. The conference will be held 5–8 September 2023 (Tue-Fri) at Paderborn University, Germany, with pre-conference workshops 4–5 September 2023 (Mon-Tue). This event brings together, […]]]></summary>
-        <author>
-            <name>Patricia O Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Médias sociaux en politique]]></title>
-        <id>4439 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/medias-sociaux-en-politique"/>
-        <updated>2023-02-27T10:55:39.000Z</updated>
-        <summary type="html"><![CDATA[Des personnalités politiques, des professionnel-le-s de la communication et des scientifiques discuteront de l’utilisation et de l’impact des réseaux sociaux numériques dans le monde politique. Quels sont les avantages, mais aussi les risques pour les hommes et femmes politiques d’utiliser les réseaux sociaux ? Quelles sont les pratiques, notamment le choix des plateformes de communication et l’audience visée? Comment sont modérés les échanges et retours et comment sont évalués et mesurés l’impact et la réussite de cette communication en ligne?
-Autant de questions qui seront abordées lors de cette rencontre croisant les regards, les retours d’expérience et les expertises autour d’un enjeu démocratique et citoyen. 
- 
-Programme:
-Accueil à partir de 11:45
-Une légère collation vous sera propos…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>

@@ -3714,15 +3714,6 @@
           "publishedOn": "2023-08-02T13:23:07.000Z",
           "wordCount": 535,
           "title": "Rahtz Prize for Ingenuity 2023 — Call for nominations and self-submissions"
-        },
-        {
-          "id": "https://tei-c.org/?p=31556",
-          "author": "Patricia O Connor",
-          "description": "We are pleased to announce a call for papers, posters, panels, and workshops for “Encoding Cultures,” a joint conference of the annual Music Encoding Conference and Text Encoding Initiative Members’ Meeting. The conference will be held 5–8 September 2023 (Tue-Fri) at Paderborn University, Germany, with pre-conference workshops 4–5 September 2023 (Mon-Tue). This event brings together, […]",
-          "link": "https://tei-c.org/2023/02/27/call-for-proposals-encoding-cultures-joint-mec-and-tei-conference-2023/",
-          "publishedOn": "2023-02-27T13:45:50.000Z",
-          "wordCount": 407,
-          "title": "Call for Proposals: Encoding Cultures – joint MEC and TEI Conference 2023"
         }
       ]
     },
@@ -3737,6 +3728,15 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2023/08/26/trove-query-parser.html",
+          "author": null,
+          "description": "I’ve just updated the Trove Query Parser to work with version 3 of the Trove API. You just give it the url of a search in Trove’s newspapers, and it translates the search into a set of parameters that the API will understand. So this:\nparse_query(\"https://trove.nla.gov.au/search/category/newspapers?keyword=wragge&l-artType=newspapers&l-state=Queensland&l-category=Article&l-illustrationType=Cartoon\", 3)\nProduces this:\n{'q': 'wragge',\r 'l-artType': 'newspapers',\r 'l-state': ['Queensland'],\r 'l-category': ['Article'],\r 'l-illustrated': 'true',\r 'l-illtype': ['Cartoon'],\r 'category': 'newspaper'}\nYou can then feed the parameters to the Trove API with your API key and you’ll get data back. Easy! It’s simple but handy – I use the Query Parser in other tools like the Trove Newspaper Harvester and QueryPic.\nThis version adds a second parameter to the parse_query() function so you can specify the version of the Trove API you’re using. The default value is 2 for backwards compatibility. See the documentation for more information.",
+          "link": "https://updates.timsherratt.org/2023/08/26/trove-query-parser.html",
+          "publishedOn": "2023-08-26T07:21:23.000Z",
+          "wordCount": 189,
+          "title": "Trove Query Parser updated!"
+        },
         {
           "id": "http://wragge.micro.blog/2023/08/18/family-history-resources.html",
           "author": null,
@@ -4092,15 +4092,6 @@
           "publishedOn": "2023-03-08T12:28:50.000Z",
           "wordCount": 285,
           "title": "COLUX, researching Luxembourg’s colonial entanglements"
-        },
-        {
-          "id": "4439 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Des personnalités politiques, des professionnel-le-s de la communication et des scientifiques discuteront de l’utilisation et de l’impact des réseaux sociaux numériques dans le monde politique. Quels sont les avantages, mais aussi les risques pour les hommes et femmes politiques d’utiliser les réseaux sociaux ? Quelles sont les pratiques, notamment le choix des plateformes de communication et l’audience visée? Comment sont modérés les échanges et retours et comment sont évalués et mesurés l’impact et la réussite de cette communication en ligne?\nAutant de questions qui seront abordées lors de cette rencontre croisant les regards, les retours d’expérience et les expertises autour d’un enjeu démocratique et citoyen. \n \nProgramme:\nAccueil à partir de 11:45\nUne légère collation vous sera propos…",
-          "link": "https://www.c2dh.uni.lu/events/medias-sociaux-en-politique",
-          "publishedOn": "2023-02-27T10:55:39.000Z",
-          "wordCount": 455,
-          "title": "Médias sociaux en politique"
         }
       ]
     },

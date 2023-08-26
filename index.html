@@ -48,6 +48,22 @@
     <p>A newsfeed and aggregator for the digital humanities by <a href="https://codexfelis.dev">Codex Felis</a></p>
 
     <section>
+      <h2>2023-08-26</h2>
+      <article>
+        <a href=https://updates.timsherratt.org/2023/08/26/trove-query-parser.html target="_blank" rel="noopener noreferrer">
+          <h3>Trove Query Parser updated!<span aria-hidden="true"></span></h3>
+        </a>
+        <p class="dim">Source: <a href=https://updates.timsherratt.org/>Tim Sherratt</a> |
+          Reading time: 1 minutes </p>
+        <p>I’ve just updated the Trove Query Parser to work with version 3 of the Trove API. You just give it the url of a search in Trove’s newspapers, and it translates the search into a set of parameters that the API will understand. So this:
+parse_query(&quot;https://trove.nla.gov.au/search/category/newspapers?keyword&#x3D;wragge&amp;l-artType&#x3D;newspapers&amp;l-state&#x3D;Queensland&amp;l-category&#x3D;Article&amp;l-illustrationType&#x3D;Cartoon&quot;, 3)
+Produces this:
+{&#x27;q&#x27;: &#x27;wragge&#x27;, &#x27;l-artType&#x27;: &#x27;newspapers&#x27;, &#x27;l-state&#x27;: [&#x27;Queensland&#x27;], &#x27;l-category&#x27;: [&#x27;Article&#x27;], &#x27;l-illustrated&#x27;: &#x27;true&#x27;, &#x27;l-illtype&#x27;: [&#x27;Cartoon&#x27;], &#x27;category&#x27;: &#x27;newspaper&#x27;}
+You can then feed the parameters to the Trove API with your API key and you’ll get data back. Easy! It’s simple but handy – I use the Query Parser in other tools like the Trove Newspaper Harvester and QueryPic.
+This version adds a second parameter to the parse_query() function so you can specify the version of the Trove API you’re using. The default value is 2 for backwards compatibility. See the documentation for more information.</p>
+      </article>
+    </section>
+    <section>
       <h2>2023-08-23</h2>
       <article>
         <a href=https://eadh.org/news/2023/08/23/assistant-professor-dartmouth-college target="_blank" rel="noopener noreferrer">
@@ -6767,30 +6783,6 @@ If you are interested in taking on this important role, please write to secretar
       </article>
     </section>
     <section>
-      <h2>2023-02-27</h2>
-      <article>
-        <a href=https://tei-c.org/2023/02/27/call-for-proposals-encoding-cultures-joint-mec-and-tei-conference-2023/ target="_blank" rel="noopener noreferrer">
-          <h3>Call for Proposals: Encoding Cultures – joint MEC and TEI Conference 2023<span aria-hidden="true"></span></h3>
-        </a>
-        <p class="dim">Source: <a href=https://tei-c.org>TEI: Text Encoding Initiative</a> |
-          Reading time: 1 minutes </p>
-        <p>We are pleased to announce a call for papers, posters, panels, and workshops for “Encoding Cultures,” a joint conference of the annual Music Encoding Conference and Text Encoding Initiative Members’ Meeting. The conference will be held 5–8 September 2023 (Tue-Fri) at Paderborn University, Germany, with pre-conference workshops 4–5 September 2023 (Mon-Tue). This event brings together, […]</p>
-      </article>
-      <article>
-        <a href=https://www.c2dh.uni.lu/events/medias-sociaux-en-politique target="_blank" rel="noopener noreferrer">
-          <h3>Médias sociaux en politique<span aria-hidden="true"></span></h3>
-        </a>
-        <p class="dim">Source: <a href=https://www.c2dh.uni.lu>C2DH | Luxembourg Centre for Contemporary and Digital History</a> |
-          Reading time: 2 minutes </p>
-        <p>Des personnalités politiques, des professionnel-le-s de la communication et des scientifiques discuteront de l’utilisation et de l’impact des réseaux sociaux numériques dans le monde politique. Quels sont les avantages, mais aussi les risques pour les hommes et femmes politiques d’utiliser les réseaux sociaux ? Quelles sont les pratiques, notamment le choix des plateformes de communication et l’audience visée? Comment sont modérés les échanges et retours et comment sont évalués et mesurés l’impact et la réussite de cette communication en ligne?
-Autant de questions qui seront abordées lors de cette rencontre croisant les regards, les retours d’expérience et les expertises autour d’un enjeu démocratique et citoyen. 
- 
-Programme:
-Accueil à partir de 11:45
-Une légère collation vous sera propos…</p>
-      </article>
-    </section>
-    <section>
       <h2>2023-02-24</h2>
       <article>
         <a href=https://www.dri.ie/first-worldfair-project-report-dri-cultural-heritage-image-sharing-landscape target="_blank" rel="noopener noreferrer">
@@ -7318,7 +7310,7 @@ Digiandmed kultuuripärandi teenistuses - töötuba ja häkaton, 24-25.11.2021
             src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg">Buy us
           coffee</span></a></div>
 
-    <p class="dim">Last updated 2023-08-25T08:13:24.914Z</p>
+    <p class="dim">Last updated 2023-08-26T08:11:59.541Z</p>
 
   </footer>
 </body>
