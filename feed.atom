@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-08-27T08:12:20.073Z</updated>
+    <updated>2023-08-28T08:14:29.201Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review: Gloria Naylor Archive]]></title>
+        <id>a3f5cf6e-0051-47c3-864e-937bceffca2a</id>
+        <link href="https://reviewsindh.pubpub.org/pub/gloria-naylor-archive"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of the Gloria Naylor Archive, a physical and digital space making the works of Gloria Naylor available, directed by Suzanne M. Edwards and Mary Foltz]]></summary>
+        <author>
+            <name>Jina DuVernay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editors' Note: August 2023]]></title>
+        <id>5f4a045e-49eb-4ed7-89de-b96ea14ee19f</id>
+        <link href="https://reviewsindh.pubpub.org/pub/editors-note-august-2023"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Editors' note on the August 2023 issue of Reviews in Digital Humanities, a partner issue with the Recovery Hub for American Women Writers, edited by Jessica DeSpain]]></summary>
+        <author>
+            <name>Roopika Risam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: "The Yellow Wall-Paper" Digital Edition]]></title>
+        <id>ce6d8e69-7940-41a9-8d64-73bebc2577f9</id>
+        <link href="https://reviewsindh.pubpub.org/pub/the-yellow-wall-paper-digital-edition"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of “The Yellow Wall-Paper” Digital Edition, an open-access digital version of the original short story by Charlotte Perkins Stetson, directed by Deanna Stover and Rebecca Norton]]></summary>
+        <author>
+            <name>Nicole Gray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Marjorie C. Luesebrink Collection at ELO's The NEXT]]></title>
+        <id>fb0bd342-fd23-4151-86cc-913774de0eb0</id>
+        <link href="https://reviewsindh.pubpub.org/pub/marjorie-c-luesebrink-collection"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of Marjorie C. Luesebrink Collection at ELO’s The NEXT, a collection of digital literary art, directed by Dene Grigar]]></summary>
+        <author>
+            <name>Kristen Lillvis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Winnifred Eaton Archive]]></title>
+        <id>29171417-02db-45bf-95c2-4f786a952f88</id>
+        <link href="https://reviewsindh.pubpub.org/pub/winnifred-eaton-archive"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of the Winnifred Eaton Archive, a digital edition of the works of Winnifred Eaton Babcock Reeve, directed by Mary Chapman]]></summary>
+        <author>
+            <name>Heather Ball</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trove Query Parser updated!]]></title>
         <id>http://wragge.micro.blog/2023/08/26/trove-query-parser.html</id>
@@ -7341,72 +7391,6 @@ Continue reading “Job Vacancy: 4 Positions on ERC Starting Grant Project “Ma
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RLUK signs statement calling on suppliers to reduce prices in growing cost of living crisis]]></title>
-        <id>https://www.rluk.ac.uk/?p=12995</id>
-        <link href="https://www.rluk.ac.uk/cost-of-living-crisis-statement/"/>
-        <updated>2023-03-01T11:04:08.000Z</updated>
-        <summary type="html"><![CDATA[RLUK has joined a collective of education and research sector organisations appealing to digital content, hardware and software vendors seeking “pricing constraint” in the face of the growing cost-of-living crisis. Signatories to the statement, which cites a “perfect storm of declining resources and increased demands”, include: Professor Stephen Decent, chair, UUK/Jisc content negotiation strategy group [...]
-The post RLUK signs statement calling on suppliers to reduce prices in growing cost of living crisis appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training: RDM workshop for PhDs (KU Leuven)]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1804</id>
-        <link href="https://scholarlytales.hcommons.org/2023/03/01/training-rdm-workshop-for-phds-ku-leuven-2/"/>
-        <updated>2023-03-01T08:33:39.000Z</updated>
-        <summary type="html"><![CDATA[This event is only open to KU Leuven researchers and staff. Research data management (RDM) refers to how you handle your data during and after your research project to ensure they are well organized, structured, of high quality and Findable,…
-
-Continue reading “Training: RDM workshop for PhDs (KU Leuven)”…]]></summary>
-        <author>
-            <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Document Editor: Enhanced Editing Experience with Unified Editor and Improved Tagging]]></title>
-        <id>https://readcoop.eu/?p=31970</id>
-        <link href="https://readcoop.eu/new-document-editor-enhanced-editing-experience-with-unified-editor-and-improved-tagging/"/>
-        <updated>2023-03-01T08:26:19.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the latest version of Transkribus, which includes several significant improvements to our document editor. Below are the key updates in this release: Unified Text and Layout Editor Our new document editor features a unified text and layout editor view, making it easier for users to work with historical documents. With […]
-The post New Document Editor: Enhanced Editing Experience with Unified Editor and Improved Tagging appeared first on READ-COOP.]]></summary>
-        <author>
-            <name>Florian Stauder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conference: KU Leuven Open Science Day on 2 May 2023]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1798</id>
-        <link href="https://scholarlytales.hcommons.org/2023/03/01/join-us-at-the-ku-leuven-open-science-day-on-2-may-2023/"/>
-        <updated>2023-03-01T08:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Join us at the annual KU Leuven Open Science day on 2 May! Program The KU Leuven Open Science Day is an annual event where KU Leuven researchers from all career stages share knowledge and exchange examples of how they…
-
-Continue reading “Conference: KU Leuven Open Science Day on 2 May 2023”…]]></summary>
-        <author>
-            <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join Our Team!]]></title>
-        <id>https://csdh-schn.org/?p=1171</id>
-        <link href="https://csdh-schn.org/join-our-team-2/"/>
-        <updated>2023-02-28T21:31:36.000Z</updated>
-        <summary type="html"><![CDATA[CSDH/SCHN is currently looking for nominees interested in serving on its executive team in the new position of Vice President of Equity, Diversity, Inclusion and Decolonization (VP EDID). The VP EDID will work with the executive to coordinate initiatives that make CSDH/SCHN more diverse, accessible, and inclusive, liaise with other organizations like CGSA and the […]]]></summary>
-        <author>
-            <name>Kyle Dase</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rejoignez notre équipe!]]></title>
-        <id>https://csdh-schn.org/?p=1169</id>
-        <link href="https://csdh-schn.org/rejoignez-notre-equipe/"/>
-        <updated>2023-02-28T21:30:21.000Z</updated>
-        <summary type="html"><![CDATA[SCHN/CSDH est à la recherche de nominés intéressés à rejoindre son comité exécutif dans le rôle récemment créé de Vice-présidence Équité, diversité, inclusion et décolonisation (VP EDID). Les responsabilités liées à cette position sont de développer et implémenter les initiatives destinées à rendre SCHN/CSDH plus inclusif et accessible, et coordonner ces efforts EDID avec d’autres […]]]></summary>
-        <author>
-            <name>Kyle Dase</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NORF’s Open Research Fund 2023 is Open]]></title>
         <id>1628 at https://www.dri.ie</id>
         <link href="https://www.dri.ie/norf-open-research-fund-2023-open"/>
@@ -7414,36 +7398,6 @@ Continue reading “Conference: KU Leuven Open Science Day on 2 May 2023”…]]
         <summary type="html"><![CDATA[NORF’s Open Research Fund 2023 is now open to proposals. This year, the Fund includes a new strand designed to recognise and reward researchers who want to play a leading role in advancing open research in Ireland.]]></summary>
         <author>
             <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cambridge Theatre Hackathon]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36112/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36112/"/>
-        <updated>2023-02-28T11:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Memories are critical to the ways we narrativize ourselves and our relationships, but they are often contested, unstable, and fallible. The digital seemingly stands in contrast: with memory referring to literal hard storage and a codified process of acquiring, storing, retaining, and later retrieving information. But what else can memory mean when we offload and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Network | Technology & New Media Research]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36121/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36121/"/>
-        <updated>2023-02-28T10:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Communication in Criminal Governance: The Role of Digital Tools In Latin America, millions of urban residents live under some form of extra-legal governance. Daniel Rincon-Machon (Cambridge) will talk about how looking at digital communication may help us understand the capacity of criminal groups to enforce social order. He will discuss how the literature on criminal]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Network | Technology & New Media Research]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36120/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36120/"/>
-        <updated>2023-02-28T10:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Performing Political Neutrality in Digital Democracy Projects Civic technology projects try to create non-political online tools. This… isn’t easy. Creating data about parliaments and governments is hard to do without bringing along the political context that creates that data. In this short talk, Alex Blandford (Oxford) will look at the ways that data is made]]></summary>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>
