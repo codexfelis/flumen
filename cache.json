@@ -593,6 +593,15 @@
       "siteUrl": "https://dhandlib.org",
       "articles": [
         {
+          "id": "https://dhandlib.org/?p=128102",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The dh+lib Review is looking for volunteers to serve as Editors-at-Large for Fall 2023. Editors-at-Large (EALs) are the backbone to the dh+lib Review experiment! We rely on you to find, share, and nominate content that is important to highlight, specifically at the intersections of digital humanities (DH) and libraries. Library professionals, archivists, students, and other DH-curious people, ...read more",
+          "link": "https://dhandlib.org/2023/09/04/cfp-dhlib-review-editors-at-large-fall-2023/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-dhlib-review-editors-at-large-fall-2023",
+          "publishedOn": "2023-09-04T19:19:01.000Z",
+          "wordCount": 812,
+          "title": "CFP: dh+lib Review Editors-at-Large, Fall 2023"
+        },
+        {
           "id": "https://dhandlib.org/?p=127167",
           "author": "Claudia Berger",
           "description": "Before work begins on Wax 2.0, Marii Nyrop and Alex Gil are looking to learn from the community about what has worked, what hasn’t, what would be great to have. They have prepared a survey (and an optional follow up) to help gather feedback. You can also share your own Wax site using their other ...read more",
@@ -2557,24 +2566,6 @@
           "publishedOn": "2023-03-10T08:34:00.000Z",
           "wordCount": 767,
           "title": "Jascha spricht mit Anne Baillot und Anja Gerber von der AG Greening DH über die DHd2023"
-        },
-        {
-          "id": "https://radihum20.de/?p=664",
-          "author": "Mareike Schumacher",
-          "description": "In dieser Folge spricht Jonathan mit Daniel Jettka, einem der Convenor*innen der DHd-AG Research Software Engineering in den Digital Humanities. Auch für diese Arbeitsgruppe spielt das Tagungsthema der DHd2023 “Open Humanities, Open Culture” eine zentrale Rolle: In Bezug auf die Entwicklung von Forschungssoftware lässt sich Offenheit einmal in Bezug auf den Gegenstand, nämlich Software und […]\nDer Beitrag Jonathan spricht mit Daniel Jettka von der AG Research Software Engineering in den Digital Humanities über die DHd2023 erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/jonathan-spricht-mit-daniel-jettka-von-der-ag-research-software-engineering-in-den-digital-humanities-ueber-die-dhd2023/?utm_source=rss&utm_medium=rss&utm_campaign=jonathan-spricht-mit-daniel-jettka-von-der-ag-research-software-engineering-in-den-digital-humanities-ueber-die-dhd2023",
-          "publishedOn": "2023-03-09T13:11:00.000Z",
-          "wordCount": 793,
-          "title": "Jonathan spricht mit Daniel Jettka von der AG Research Software Engineering in den Digital Humanities über die DHd2023"
-        },
-        {
-          "id": "https://radihum20.de/?p=650",
-          "author": "Mareike Schumacher",
-          "description": "In der fünften Folge unserer 4. Staffel, die wir in Vorbereitung auf die Jahreskonferenz der digitalen Geisteswissenschaften im deutschsprachigen Raum (DHd2023) aufgenommen haben, hat Mareike die beiden Convener der DHd-AG Digitales Publizieren zu Gast, Michael Dahnke und Timo Steyer. Die beiden erzählen uns, wie die AG-Mitglieder das Konferenzthema mit Begeisterung aufgenommen haben – denn “Openness” […]\nDer Beitrag Mareike spricht mit Michael Dahnke und Timo Steyer von der AG Digitales Publizieren über die DHd2023 erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/mareike-spricht-mit-michael-dahnke-und-timo-steyer-von-der-ag-digitales-publizieren-ueber-die-dhd2023/?utm_source=rss&utm_medium=rss&utm_campaign=mareike-spricht-mit-michael-dahnke-und-timo-steyer-von-der-ag-digitales-publizieren-ueber-die-dhd2023",
-          "publishedOn": "2023-03-09T08:37:00.000Z",
-          "wordCount": 873,
-          "title": "Mareike spricht mit Michael Dahnke und Timo Steyer von der AG Digitales Publizieren über die DHd2023"
         }
       ]
     },
@@ -3197,6 +3188,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=17888",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1663, divided into two books, with the first on mathematics and judicial astrology and the second book concerning palmistry. Includes an introduction by the compiler (f. 2r) and a table of contents (f. 2v-4v). It wasContinue reading \"Manuscript Monday: Ms. Codex 1663 – Liber Piccatriciae. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/09/04/manuscript-monday-ms-codex-1663-liber-piccatriciae-video-orientation/",
+          "publishedOn": "2023-09-04T13:00:00.000Z",
+          "wordCount": 1235,
+          "title": "Manuscript Monday: Ms. Codex 1663 – Liber Piccatriciae. (Video Orientation)"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=17884",
           "author": "simsmss",
@@ -3889,15 +3889,6 @@
           "publishedOn": "2023-03-21T07:42:37.000Z",
           "wordCount": 609,
           "title": "Form Follows Conception. Representing Non-Linear History through Multimodal Hypertext"
-        },
-        {
-          "id": "4449 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The talk critically discusses the opportunities and challenges of developing serious video games on contested past. Vít Šisler, the lead game designer of the critically acclaimed historical games Attentat 1945 and Svoboda 1945: Liberation, will revisit the games’ development process and summarise key lessons learned during the latter. In particular, the talk will focus on the intersections and tensions between authenticity and fiction, realism and schematisation, and narrativity and procedurality.\nVít Šisler is an Assistant Professor at the Institute of Information Science and Librarianship at Charles University’s Faculty of Arts in Prague. He is also a co-founder of Charles Games, an indie game studio pushing the boundaries of narrative and serious games. He was a lead game designer of the award-winning video games Attentat 1942 (Best Learning Game, Games for Change 2018) and Svoboda 1945: Liberation (Grand Jury Award, IndieCade, 2022).\n \n\n\n \nThursday, 30 March 2023\n16.30 – 18:00\n \nMaison du Savoir, Auditorium 3.530, Belval Campus\nand online: https://unilu.webex.com/unilu/j.php?MTID=m555a452fb98f430094f0a6d5e907af88\n \nFree entrance. The lecture will be followed by a reception.\n \n\n\n30 March 2023\n  Public history\n  Design  Media history\n  Conferences\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/designing-historical-video-games-attentat-1942-svoboda-1945-and-beyond",
-          "publishedOn": "2023-03-09T07:11:04.000Z",
-          "wordCount": 387,
-          "title": "Designing Historical Video Games: Attentat 1942, Svoboda 1945, and Beyond"
         }
       ]
     },
@@ -3906,6 +3897,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/36983/",
+          "author": null,
+          "description": "Persistent Identifiers as Infrastructure in Cambridge The AHRC’s recent Towards a National Collection (TaNC) research initiative completed several foundation projects. One of these focused on Persistent Identifiers as IRO Infrastructure. A collaborative group from Cambridge Digital Humanities (CDH), Cambridge University Libraries (CULs), University Information Services (UIS), and Cambridge University Press & Assessment (CUPA) have been",
+          "link": "https://www.cdh.cam.ac.uk/events/36983/",
+          "publishedOn": "2023-09-04T10:49:52.000Z",
+          "wordCount": 632,
+          "title": "Persistent Identifiers as Infrastructure in Cambridge Symposium"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/36978/",
           "author": null,
@@ -5263,6 +5263,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5948 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 59 - September 2023\n\n            \nDeadline Centre Assessment Round approaching\nThe deadline for the upcoming B-centre assessment round is 31 October 2023.\nIf you would like to participate in this 22nd round, please make sure to use:\nThe updated CoreTrustSeal 2023-2025 and AMT platform. \nThe latest version of the B-centre checklist (7.4). The difference with the previous version is the addition of two (optional) recommendations at the end of the document, on the use of the attribute checker and attribute aggregator.\nCLARIN technical open hour, 11 September at 11:00 CEST\nAs an experiment, next week Monday CLARIN \n    \nEuropean Research Infrastructure Consortium\nSee: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-…",
+          "link": "https://www.clarin.eu/blog/centre-news-vol-59-september-2023",
+          "publishedOn": "2023-09-04T14:00:00.000Z",
+          "wordCount": 697,
+          "title": "Centre news vol. 59 - September 2023"
+        },
         {
           "id": "5945 at https://www.clarin.eu",
           "author": "Julia Misersky",
