@@ -1268,15 +1268,6 @@
           "publishedOn": "2023-03-21T04:00:00.000Z",
           "wordCount": 1295,
           "title": "Graduate Fellowship in Critical Digital Humanities –  Academic Year 2023-2024"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=7507",
-          "author": "Tanya Rohrmoser",
-          "description": "Dr. Shanmugapriya T discusses her work employing the features of digital humanities and literature to study water scarcity issues in her home of Coimbatore — and explains how digital mapping can be harnessed as tool to narrate historical impacts on the environment.",
-          "link": "https://dhn.utoronto.ca/water-scarcity-transformation-a-qa-with-shanmugapriya-t/?utm_source=rss&utm_medium=rss&utm_campaign=water-scarcity-transformation-a-qa-with-shanmugapriya-t",
-          "publishedOn": "2023-03-13T16:02:46.000Z",
-          "wordCount": 1925,
-          "title": "Water Scarcity & Transformation: A Q&A with Shanmugapriya T"
         }
       ]
     },
@@ -1291,6 +1282,15 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/915",
+          "author": "434",
+          "description": "Vom 9. September bis zum 24. September 2023 machen wir Sommerferien.\nWir bitten um Verständnis, wenn in diesem Zeitraum an uns gestellte Anfragen (Email info@dig-hum.de) nicht…",
+          "link": "https://dig-hum.de/aktuelles/der-dhd-macht-sommerpause-0909-240923",
+          "publishedOn": "2023-09-08T12:30:53.000Z",
+          "wordCount": 825,
+          "title": "Der DHd macht Sommerpause (09.09.-24.09.23)"
+        },
         {
           "id": "node/914",
           "author": "434",
@@ -1648,6 +1648,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10861",
+          "author": "Alice Casalini",
+          "description": "In this post, I continue my exploration of digital reconstructions in Asian art historical practice. I virtually sat down for …",
+          "link": "https://digitalorientalist.com/2023/09/08/digital-architecture-in-dunhuang-and-beyond-an-interview-with-dr-zhenru-zhou/",
+          "publishedOn": "2023-09-08T13:00:00.000Z",
+          "wordCount": 2029,
+          "title": "Digital Architecture in Dunhuang—and beyond: an interview with Dr Zhenru Zhou"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10832",
           "author": "The Digital Orientalist",
@@ -2273,6 +2282,51 @@
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
         {
+          "id": "1263 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, November 20, 2023 - 12:00pm\n\n\n\nWilliams Hall 623\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/mellon-seminar-sue-mobley",
+          "publishedOn": "2023-09-08T20:15:40.000Z",
+          "wordCount": 202,
+          "title": "Mellon Seminar: Sue Mobley"
+        },
+        {
+          "id": "1262 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, November 6, 2023 - 12:00pm\n\n\n\nWilliams Hall 623\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/mellon-seminar-dan-calacci",
+          "publishedOn": "2023-09-08T20:13:35.000Z",
+          "wordCount": 202,
+          "title": "Mellon Seminar: Dan Calacci"
+        },
+        {
+          "id": "1261 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, October 23, 2023 - 12:00pm\n\n\n\nWilliams Hall 623\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/mellon-seminar-josh-teplitsky",
+          "publishedOn": "2023-09-08T20:11:32.000Z",
+          "wordCount": 202,
+          "title": "Mellon Seminar: Josh Teplitsky"
+        },
+        {
+          "id": "1260 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, October 9, 2023 - 12:00pm\n\n\n\nWilliams Hall 623\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/mellon-seminar-laurie-allen",
+          "publishedOn": "2023-09-08T20:07:00.000Z",
+          "wordCount": 202,
+          "title": "Mellon Seminar: Laurie Allen"
+        },
+        {
+          "id": "1259 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, September 25, 2023 - 12:00pm\n\n\n\nWilliams 623\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/mellon-seminar-brent-cebul",
+          "publishedOn": "2023-09-08T20:05:56.000Z",
+          "wordCount": 201,
+          "title": "Mellon Seminar: Brent Cebul"
+        },
+        {
           "id": "1256 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
           "description": "Monday, September 18, 2023 - 4:30pm\n\n\n\nWilliams Hall 623\n\n\n\nJoin the Price Lab staff and fellows for drinks and light refreshments. Meet you colleagues and learn more about what the Price Lab is up to.\n\n\nImage for Left Column:",
@@ -2467,15 +2521,6 @@
           "publishedOn": "2023-03-20T08:00:00.000Z",
           "wordCount": 863,
           "title": "Eindrücke und Gespräche von der DHd2023"
-        },
-        {
-          "id": "https://radihum20.de/?p=672",
-          "author": "Mareike Schumacher",
-          "description": "Heute geht sie los, die DHd2023!! Wir sind schon total eingestimmt und freuen uns schon sehr auf die Events! Heute und morgen finden die Workshops in Belval (Luxemburg) statt, bevor es dann am Dienstag Abend per Shuttlebus nach Trier geht. Wir haben allen Organisator:innen von Workshops die Möglichkeit gegeben, uns eine kurze Beschreibung ihres Workshops […]\nDer Beitrag RaDiHum20 präsentiert: einige Workshop der DHd2023 erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/radihum20-praesentiert-einige-workshop-der-dhd2023/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-praesentiert-einige-workshop-der-dhd2023",
-          "publishedOn": "2023-03-13T07:30:00.000Z",
-          "wordCount": 633,
-          "title": "RaDiHum20 präsentiert: einige Workshop der DHd2023"
         }
       ]
     },
@@ -3223,15 +3268,6 @@
           "publishedOn": "2023-03-20T12:00:00.000Z",
           "wordCount": 1265,
           "title": "Manuscript Monday: Ms. Codex 1658 – Apparatus ad acta publica. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17636",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 382, a collection of alchemical notes gathered by Georg Hayniger of Dormpoch, near Vienna, ca. 1476. You can read the complete record for this document (and find links to digitized copies) on Franklin. You can also downloadContinue reading \"Manuscript Monday: LJS 382 – Alchemical compendium. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/03/13/manuscript-monday-ljs-382-alchemical-compendium-video-orientation/",
-          "publishedOn": "2023-03-13T12:00:00.000Z",
-          "wordCount": 1209,
-          "title": "Manuscript Monday: LJS 382 – Alchemical compendium. (Video Orientation)"
         }
       ]
     },
@@ -3639,6 +3675,15 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4624 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "In April 2023, we released a call for paper entitled “Is artificial intelligence the future of collective memory? Bridging AI scholarship and Memory Studies”, in order to collect papers for a special issue of Memory Studies Review. Our aim was twofold: coordinating a special issue and identifying “a network of colleagues, across the two fields, who are interested in the development of co-conceived case studies and research programs”.\nTo discuss the making of the informal network, we are organising on 27 September at the University of Luxembourg, Belval campus, a workshop that will be divided into two parts: the morning will be devoted to the formation of this informal network and short presentations of each other works, and the afternoon to a sort of ‘datathon’ on sources and methods we could use to explore the links between AI and collective memory.\n \nWednesday, 27 September 2023\nHybrid event\nPlease contact frederic.clavert@uni.lu if you wish to participate online or on-site.\n27 September 2023\n  Digital history & historiography\n  Artificial  intelligence  Memory studies\n  Workshop\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/bridging-ai-scholarship-and-memory-studies",
+          "publishedOn": "2023-09-08T10:36:37.000Z",
+          "wordCount": 368,
+          "title": "Bridging AI scholarship and Memory Studies"
+        },
+        {
           "id": "4623 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "La Fondation luxembourgeoise pour la Mémoire de la Shoah et le C²DH invitent toute personne intéressée à participer à une journée d'études qui sera également l'occasion de présenter les biographies des familles déportées le 16 octobre 1941 de Luxembourg au ghetto de Litzmannstadt récemment publiées sur memorialshoah.lu.\nL'événement aura lieu le\nVendredi, 13 octobre 2023\nde 9:00 à 17:00 heures\nà l'Abbaye Neumünster (28, rue Münster, L-2160 Luxembourg)\nEntrée libre.\n \nLe programme détaillé sera disponible bientôt.\n13 October 2023\n  Contemporary history of Luxembourg\n  Digital Shoah Memorial Luxembourg\n  Holocaust  WW2\n  Workshop\n  Published  \n    Hide image in content detail",
@@ -3852,6 +3897,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/33787/",
+          "author": null,
+          "description": "(Critical) Machine Vision for the Humanities Leonardo Impett, Cambridge Digital Humanities Application forms should be returned to CDH Learning (learning@cdh.cam.ac.uk) by Friday 22 May 2020. Successful applicants will be notified by 26 May 2020. This course will introduce graduate students, early-career researchers, and professionals in the humanities to the technologies of image recognition and machine",
+          "link": "https://www.cdh.cam.ac.uk/events/33787/",
+          "publishedOn": "2023-09-08T11:33:55.000Z",
+          "wordCount": 1018,
+          "title": "(Critical) Machine Vision for the Humanities"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/37002/",
           "author": null,
