@@ -143,7 +143,17 @@
       "title": "aaDH",
       "feedUrl": "https://aa-dh.org/feed/",
       "siteUrl": "https://aa-dh.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://aa-dh.org/?p=502",
+          "author": "Simon Musgrave",
+          "description": "This is a placeholder – information to come very soon.",
+          "link": "https://aa-dh.org/2023/09/11/aadh-election-2023/",
+          "publishedOn": "2023-09-11T06:30:05.000Z",
+          "wordCount": 189,
+          "title": "aaDH Election 2023"
+        }
+      ]
     },
     {
       "title": "The Association for Computers and the Humanities",
@@ -541,15 +551,6 @@
           "publishedOn": "2023-04-04T17:17:39.000Z",
           "wordCount": 920,
           "title": "CUNY DHI Lighting Talks Switch to Virtual Format"
-        },
-        {
-          "id": "https://cunydhi.commons.gc.cuny.edu/?p=1956",
-          "author": "Zachary Lloyd",
-          "description": "Interested in digital humanities at CUNY? Have a project to share? Sign up to present […]",
-          "link": "https://cunydhi.commons.gc.cuny.edu/2023/03/15/call-for-participation-dhi-lightning-talks-2023/",
-          "publishedOn": "2023-03-15T17:10:44.000Z",
-          "wordCount": 984,
-          "title": "Call for Participation: DHI Lightning Talks 2023"
         }
       ]
     },
@@ -1488,15 +1489,6 @@
           "publishedOn": "2023-03-30T10:53:52.004Z",
           "wordCount": 734,
           "title": "DHd2024 in Passau"
-        },
-        {
-          "id": "node/890",
-          "author": "434",
-          "description": "Africa Multiple Cluster of Excellence\nThe University of Bayreuth is a research-oriented university with internationally competitive and interdisciplinary focuses in research and…",
-          "link": "https://dig-hum.de/aktuelles/data-curator-project-consultations-for-data-intake-mfd-tv-l-e-13-100",
-          "publishedOn": "2023-03-15T08:03:30.275Z",
-          "wordCount": 1329,
-          "title": "Data Curator - Project Consultations for Data Intake  (m/f/d) (TV-L, E-13, 100%)"
         }
       ]
     },
@@ -2668,15 +2660,6 @@
           "publishedOn": "2023-03-23T11:22:35.000Z",
           "wordCount": 2377,
           "title": "Women’s History Month: Unlocking the lives of three inspiring women from history"
-        },
-        {
-          "id": "https://readcoop.eu/?p=32080",
-          "author": "Florian Stauder",
-          "description": "By Fiona Park Not everyone who works with history is a professional historian. From hobby genealogists to volunteers in local museums, laypeople have always played an important role in keeping history alive. And in the digital age, there is a new way for volunteers to get involved. The Enrich Europeana project is a citizen science […]\nThe post A collaborative approach: READ-COOP and the Europeana Foundation join forces to enhance the Transcribathon platform appeared first on READ-COOP.",
-          "link": "https://readcoop.eu/read-coop-and-the-europeana-foundation-join-forces/",
-          "publishedOn": "2023-03-15T13:20:44.000Z",
-          "wordCount": 2967,
-          "title": "A collaborative approach: READ-COOP and the Europeana Foundation join forces to enhance the Transcribathon platform"
         }
       ]
     },
@@ -5192,33 +5175,6 @@
           "publishedOn": "2023-03-16T11:46:28.000Z",
           "wordCount": 443,
           "title": "Xian Xu"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/17-march-cross-connections-discovering-the-living-space/",
-          "author": null,
-          "description": "The previous 'After Abstraction' event last month went down a hit and we are excitedly awaiting the second event later this week. Join us on Friday the 17th of March from 5pm for this multi sensorial and multimedia performance featuring art, panel, and participation at Magdalene College, University of Cambridge where you will become part of the",
-          "link": "https://www.cdh.cam.ac.uk/about/news/17-march-cross-connections-discovering-the-living-space/",
-          "publishedOn": "2023-03-15T12:10:00.000Z",
-          "wordCount": 661,
-          "title": "Sensorial & Multimedia Performance 17 March | Cross-Connections: Discovering the Living Space"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/rewatch-the-qa-for-short-cultural-heritage-data-school-this-april/",
-          "author": null,
-          "description": "Curious about delving into Digital Humanities? Wanting to find out more about the Data Schools run by CDH? Join course conveyors in this recorded presentation to learn more about our upcoming Cultural Heritage Data School, hosted this April in Cambridge. This is a great opportunity to learn about the application process, course content, and bursary,",
-          "link": "https://www.cdh.cam.ac.uk/about/news/rewatch-the-qa-for-short-cultural-heritage-data-school-this-april/",
-          "publishedOn": "2023-03-15T11:36:13.000Z",
-          "wordCount": 532,
-          "title": "Rewatch the Q&A for Short Cultural Heritage Data School this April"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36213/",
-          "author": null,
-          "description": "Speakers: Scott Mandelbrote (Cambridge), William R. Newman (Indiana), Marc Adam Kolakowski (Geneva). Isaac Newton (1642-1727) is famous as a natural philosopher, mathematician, and public servant. His archive survives very largely complete and has opened up knowledge of his work on chronology, chemistry, and religion. Despite this, significant questions remain which derive from the nature of",
-          "link": "https://www.cdh.cam.ac.uk/events/36213/",
-          "publishedOn": "2023-03-14T16:18:50.000Z",
-          "wordCount": 476,
-          "title": "The Manuscripts of Isaac Newton: Dating the Undatable"
         }
       ]
     },
