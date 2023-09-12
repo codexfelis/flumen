@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-09-11T08:14:33.428Z</updated>
+    <updated>2023-09-12T08:13:49.824Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -224,6 +224,30 @@ Keynote Speaker: Prof. Ruth Ahnert, Queen Mary University of London
 In his canonical book, Linked, Albert-László Barabási explored the history and prevalence of networks in the world, and how studying them opens new avenues of understanding, predicting that “network thinking is poised to invade all domains of human activity and most fields of human inquiry… aimed at approaching our interlocked universe.” Often influenced by methodologies from the social sciences, this ‘network thinking’ and an interest in the use of digital and computational tools within the humanities continues to flourish. More recently, t…]]></summary>
         <author>
             <name>Communication Fellow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2L From Lemmatisers to Linkers]]></title>
+        <id>5949 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/l2l-lemmatisers-linkers"/>
+        <updated>2023-09-07T07:46:46.000Z</updated>
+        <summary type="html"><![CDATA[L2L From Lemmatisers to Linkers
+
+            
+Motivation and Goals
+Interoperability is a crucial feature for the exchange and utilisation of data. CLARIN promotes interoperability by endorsing the adoption of open science standards. There is, however, a more intuitive notion of interoperability that involves language resources: be they corpora or lexicons, language resources are all made of a basic ingredient, i.e. words. Interoperable content should embed the information that the same lexical item is used across different resources.
+The main goal of L2L is to experiment with this idea to connect resources available in CLARIN’s 
+    
+Virtual Language Observatory
+
+
+See: http://www.clarin.eu/vlo
+
+read more
+
+   using a lexically-based approach, and to build a network of corpora and lexicon…]]></summary>
+        <author>
+            <name>Karina Berger</name>
         </author>
     </entry>
     <entry>
@@ -6955,16 +6979,6 @@ Der Beitrag Eindrücke und Gespräche von der DHd2023 erschien zuerst auf RaDiHu
 Continue reading “Training: Workshop on the Relational Database Platform, Nodegoat”…]]></summary>
         <author>
             <name>Leah Budke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACH Executive Council 2023 Elections Results]]></title>
-        <id>https://ach.org/?p=2461</id>
-        <link href="https://ach.org/blog/2023/03/16/ach-executive-council-2023-elections-results/"/>
-        <updated>2023-03-16T16:56:13.000Z</updated>
-        <summary type="html"><![CDATA[The Association for Computers and the Humanities is pleased to announce the results of our 2023 elections. We had a slate of nineteen stellar candidates, and we are grateful to all the digital humanities practitioners for rising to the occasion of being nominees and willing to work at this organizational level. The 2023-27 ACH Executive…Continue reading.]]></summary>
-        <author>
-            <name>jwoowinter</name>
         </author>
     </entry>
     <entry>
