@@ -3429,7 +3429,17 @@
       "title": "CAA UK",
       "feedUrl": "https://uk.caa-international.org/feed",
       "siteUrl": "https://uk.caa-international.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sites.caa-international.org/uk/?p=1278",
+          "author": "Doug Rocks-Macqueen",
+          "description": "The organisers of CAA-UK 2023 would like to invite papers and posters for the 2023 meeting, to be held in Edinburgh AND Online, at Augustine United Church, 41-43 George IV Bridge, EH1 1EL, on the 24th-25th November, 2023. The use … Continue reading →",
+          "link": "https://uk.caa-international.org/2023/09/13/call-for-papers-caauk-2023-edinburgh/",
+          "publishedOn": "2023-09-13T13:51:54.000Z",
+          "wordCount": 492,
+          "title": "Call for Papers CAAUK 2023, Edinburgh"
+        }
+      ]
     },
     {
       "title": "Tim Sherratt",
@@ -3845,6 +3855,33 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/about/people/yasmin-faghihi/",
+          "author": null,
+          "description": "Yasmin Faghihi is Head of the Near and Middle Eastern Department at Cambridge University Library. She is the editor of FIHRIST, the online union catalogue for manuscripts from the Islamicate world and chairs the Board of Directors. She has been leading on using and promoting standardized practices in text encoding for manuscript description and teaching",
+          "link": "https://www.cdh.cam.ac.uk/about/people/yasmin-faghihi/",
+          "publishedOn": "2023-09-14T08:12:38.000Z",
+          "wordCount": 504,
+          "title": "Yasmin Faghihi"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/readinggroups/criticalcode/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/readinggroups/criticalcode/",
+          "publishedOn": "2023-09-13T16:15:03.000Z",
+          "wordCount": 421,
+          "title": "The Cultural Politics of Code: a critical code studies reading group"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/readinggroups/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/readinggroups/",
+          "publishedOn": "2023-09-13T12:40:14.000Z",
+          "wordCount": 369,
+          "title": "Reading Groups"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/research/projects/digitisation-of-samuel-pepyss-calligraphical-fragments/",
           "author": null,
           "description": "",
@@ -3960,6 +3997,15 @@
           "publishedOn": "2023-08-18T14:34:51.000Z",
           "wordCount": 501,
           "title": "Designing a digital research project"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/xian-xu/",
+          "author": null,
+          "description": "Xian Xu (徐娴) is a writer and researcher in film and computational media. Currently, she is a Ph.D. candidate in HKUST VisLab and majored in Computational Media and Arts, Individualized Interdisciplinary Program, The Hong Kong University of Science and Technology (HKUST). She received her BA in Directing (Film and TV Producing) and MFA in Studies",
+          "link": "https://www.cdh.cam.ac.uk/about/people/xian-xu/",
+          "publishedOn": "2023-08-17T08:44:59.000Z",
+          "wordCount": 529,
+          "title": "Xian Xu"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/yuqin-jiang/",
@@ -5928,6 +5974,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=14097",
+          "author": "Melanie Cheung",
+          "description": "RLUK, AHRC, and ARMA are delighted to announce the second Research Catalyst Cohort for academic libraries Research Libraries UK (RLUK), the Association of Research Managers and Administrators (ARMA), and the Arts and Humanities Research Council (AHRC) are delighted to continue working in partnership to deliver a multifaceted Research Engagement Programme (REP) for academic libraries. The  [...]\nThe post RLUK-AHRC Research Engagement Programme second cohort announced appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk-ahrc-rep-second-cohort/",
+          "publishedOn": "2023-09-13T11:07:06.000Z",
+          "wordCount": 1172,
+          "title": "RLUK-AHRC Research Engagement Programme second cohort announced"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=13656",
           "author": "Melanie Cheung",
