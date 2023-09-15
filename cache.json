@@ -477,15 +477,6 @@
           "publishedOn": "2023-04-06T12:59:45.000Z",
           "wordCount": 170,
           "title": "Call for the CAA2022 and CAA2023 Proceedings is Open"
-        },
-        {
-          "id": "https://sites.caa-international.org/main/?p=17193",
-          "author": "lisafischer",
-          "description": "CAA’s 50th conference will be held in Amsterdam in April. To document the history of the organisation, we are collecting photos of previous conferences. To learn more about the types of images for which we are looking, how to submit them, and how they will be used, please visit: https://members.caa-international.org/submit-your-caa-photos/",
-          "link": "https://caa-international.org/2023/03/18/submit-your-photos-of-previous-caa-conferences/",
-          "publishedOn": "2023-03-18T23:49:45.000Z",
-          "wordCount": 140,
-          "title": "Submit Your Photos of Previous CAA Conferences"
         }
       ]
     },
@@ -1622,6 +1613,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10891",
+          "author": "Mariana Zorkina",
+          "description": "This post is prepared together with Tilman Schalmey (Trier University). Right before going on summer hiatus, we launched a survey …",
+          "link": "https://digitalorientalist.com/2023/09/14/what-can-you-share-about-your-dh-project-survey-results/",
+          "publishedOn": "2023-09-14T13:00:00.000Z",
+          "wordCount": 1891,
+          "title": "What can you share about your DH project? – Survey Results."
+        },
         {
           "id": "http://digitalorientalist.com/?p=10821",
           "author": "Michele Eduarda Brasil de Sá",
@@ -3447,6 +3447,15 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2023/09/15/trove-data-guide.html",
+          "author": null,
+          "description": "I’m continuing to slog away at the Trove Data Guide (part of the ARDC’s HASS Community Data Lab) – dumping everything I know about Trove into a format that I hope will be useful for researchers.\nI’ve just finished a first pass through the section on accessing data from newspapers and gazettes, and it’s online if you want to have a look. There’s still lots of things to add, update, and reorganise, but getting the basic content of the section defined is a bit of a milestone, so I’ll allow myself a little moment of celebration. Yay!\n\r\nOf course it took longer than I expected, but that’s largely due to the fact that I was sketching out related sections as I went along. You’ll see lots of pages in the navigation that only contain a list of dot points, but they’ll get filled out over the next couple of months.\nThe ‘Accessing data’ section is going to be the most code heavy, as it’s focused on using the API to develop reusable methods for harvesting machine-readable data. Other sections, such as ‘Understanding search’ and ‘Collections and contexts’ will be more discursive, aimed at helping all Trove users better understand what Trove is and how it works.\nComments and suggestions are welcome! You can add issues on GitHub, or use Hypothes.is to annotate the text.",
+          "link": "https://updates.timsherratt.org/2023/09/15/trove-data-guide.html",
+          "publishedOn": "2023-09-15T04:53:20.000Z",
+          "wordCount": 288,
+          "title": "Trove Data Guide update – accessing data from newspapers and gazettes"
+        },
+        {
           "id": "http://wragge.micro.blog/2023/08/31/some-important-updates.html",
           "author": null,
           "description": "Version 3 of the Trove API is out, and version 2 is scheduled to be decommissioned in early 2023 – that means I have a lot of code to update! First cab of the rank is the Trove Newspaper & Gazette Harvester with version 0.7.1 now available.\n\r\nThe Harvester is a Python package that can be used as either a library or a command-line tool. It’s been around in some form for more than 10 years. The latest updates include:\nsupport for version 3 of the Trove API\nautomatic creation of a metadata file describing each harvest according to the RO-Crate format\nautomatic creation of a harvester config file, capturing the query parameters sent to Trove as well as the Harvester options\nthe ability to initiate a harvest from an existing config file\nmore memory-friendly generation of CSV result files (no lo…",
@@ -3622,6 +3631,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4626 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "In this research seminar, we will discuss the ongoing extraction of data from the administrative archives of Dudelange, relying on an automated transcription, with layout detection and the automated extraction of temporal and spatial information from these sources to create historical maps.\nThe city of Dudelange has entered a partnership with the C²DH, for which they shared their residential cards. These administrative forms contain information on the population movements in and out of the city. These are being scanned and transcribed.\nFor the transcription, the project uses Transkribus to restitute not only the textual content of these administrative forms but also their structure, e.g., for each field, a tag is attached. Secondly, for the blocs of texts, a script to detect place and time information is being developed internally. All these steps should lead up to the structuration before import of the data to be visualised on a map and open these rich collections for further analysis, on the history of migration, housing, public health etc.\nWe invite all interested persons to join the discussion on how to improve this pipeline and share other potential uses for the extracted material.\n \nWednesday, 18 October 2023\n14.00 - 15.00\nC²DH Open Space\n18 October 2023\n  Digital history & historiography\n  Archives  Data Science  Digital methods  Digital tools  Digitisation  Visualisation\n  Research seminars\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/analogue-forms-digital-maps-digitisation-pipeline-dudelange-archives-0",
+          "publishedOn": "2023-09-14T11:34:00.000Z",
+          "wordCount": 430,
+          "title": "From analogue forms to digital maps: digitisation pipeline of the Dudelange archives"
+        },
         {
           "id": "4625 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
