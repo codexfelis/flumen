@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-09-15T08:14:17.032Z</updated>
+    <updated>2023-09-16T08:12:20.811Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claire Carroll]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/claire-carroll/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/claire-carroll/"/>
+        <updated>2023-09-15T13:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Claire is interested in the aesthetics of interactive fiction (IF) and how they might connect to broader digital behaviours. More specifically, she’s exploring how the normalised usages of the second person voice and the present tense in IF create slippage for players’ immersion as they are simultaneously readers and characters, thus balancing and bouncing between]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trove Data Guide update – accessing data from newspapers and gazettes]]></title>
         <id>http://wragge.micro.blog/2023/09/15/trove-data-guide.html</id>
@@ -19,6 +29,16 @@ The ‘Accessing data’ section is going to be the most code heavy, as it’s f
 Comments and suggestions are welcome! You can add issues on GitHub, or use Hypothes.is to annotate the text.]]></summary>
         <author>
             <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is that all there is? Digital Art as <del>Spectacle</del> Critical Reflection on Technology | Operator (Ania Catherine and Dejha Ti)]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37073/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37073/"/>
+        <updated>2023-09-14T13:51:13.000Z</updated>
+        <summary type="html"><![CDATA[Is that all there is? Digital Art as Spectacle Critical Reflection on Technology Speakers: Operator (Ania Catherine and Dejha Ti) Technology shapes contemporary life, changing what it means to be human and participate in society, while affecting desires, our relationships, and our bodies. The question is: whose needs, interests, and worldview is it representing? It]]></summary>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -6997,51 +7017,6 @@ Traditional text formats seem to favor the representation of linear progression:
         <summary type="html"><![CDATA[2023 marked five years since the Digital Repository of Ireland launched our Membership programme. This blog post discusses the reasons for the programme, our early members, and significant collection deposited by members since 2018.]]></summary>
         <author>
             <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1658 – Apparatus ad acta publica. (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=17639</id>
-        <link href="https://schoenberginstitute.org/2023/03/20/manuscript-monday-ms-codex-1658-apparatus-ad-acta-publica-video-orientation/"/>
-        <updated>2023-03-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1658, the first volume of a list of ecclesiastical decrees by subject, with entries arranged in alphabetical sections based on a subject keyword at the beginning of each entry, through the letter L. You can readContinue reading "Manuscript Monday: Ms. Codex 1658 – Apparatus ad acta publica. (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inviting blogs for India Humanities Forum]]></title>
-        <id>discourse.computational-humanities-research.org-topic-1943</id>
-        <link href="https://discourse.computational-humanities-research.org/t/inviting-blogs-for-india-humanities-forum/1943"/>
-        <updated>2023-03-20T10:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Hello,
-I am the founder of IHF and a Digital Humanities researcher - https://indiahumanitiesforum.in/
-I have been working on this forum for a while and it was just launched yesterday. I am posting on this forum to invite blogs from experts in fields like you. The aim of the forum is to improve access to opportunities and resources for students in Humanities in India.
-As you may already know, the DH scene in India still needs a lot of work and many students in Humanities don’t know what Digital Humanities is.
-Hence, I am inviting blogs on a variety of topics including but not limited to:
-A simple guide to understanding DH
-A blog about your current research
-How can you get involved in Digital Humanities as a student
-Interesting developments in Digital Humanities
-Why you chose Digital Humanities
-Scope of Digital Humanities in academia/ industry
-The blog can be casual and about 400-750 words. If you are interested, pleaser reply or email at indiahumanitiesforum@gmail.com
-You volunteering your time can really help a lot of students out there!
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>Shrish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eindrücke und Gespräche von der DHd2023]]></title>
-        <id>https://radihum20.de/?p=684</id>
-        <link href="https://radihum20.de/eindruecke-und-gespraeche-von-der-dhd2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=eindruecke-und-gespraeche-von-der-dhd2023"/>
-        <updated>2023-03-20T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Heute haben wir für Euch eine ganz besondere Folge vorbereitet, randvoll mit frischen Eindrücken und Gesprächen von der Jahreskonferenz der digitalen Geisteswissenschaften im deutschsprachigen Raum – DHd2023. Einige der Konfernzteilnehmer*Innen haben sich netterweise die Zeit genommen, sich für ein Gespräch mit uns zusammenzusetzen, obwohl die zwischen Panels, Workshops und Kaffee-Gesprächen wirklich rar war. Mit dabei […]
-Der Beitrag Eindrücke und Gespräche von der DHd2023 erschien zuerst auf RaDiHum 20.]]></summary>
-        <author>
-            <name>Mareike Schumacher</name>
         </author>
     </entry>
     <entry>
