@@ -500,7 +500,26 @@
       "title": "CSDH / SCHN",
       "feedUrl": "https://csdh-schn.org/feed",
       "siteUrl": "https://csdh-schn.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://csdh-schn.org/?p=1192",
+          "author": "Kyle Dase",
+          "description": "C’est avec grand plaisir que nous annonçons que la gagnante du prix Ian Lancashire 2023 de l’étudiant·e prometteur·euse est Megan Perram PhD. La récipiendaire a défendu avec succès sa thèse dans le Département de langues modernes et d’études culturelles à l’Université de l’Alberta (et ce tout juste après le Congrès), et travaille comme [analyste de […]",
+          "link": "https://csdh-schn.org/annonce-de-la-gagnante-du-prix-ian-lancashire-de-letudiante-prometteureuse/",
+          "publishedOn": "2023-09-18T21:22:11.000Z",
+          "wordCount": 565,
+          "title": "Annonce de la gagnante du prix Ian Lancashire de l’étudiant·e prometteur·euse : Megan Perram!"
+        },
+        {
+          "id": "https://csdh-schn.org/?p=1189",
+          "author": "Kyle Dase",
+          "description": "It is with great pleasure that we announce the winner of the 2023 Ian Lancashire Award for Student Promise! This year’s award recipient is Dr. Megan Perram (she/her), who successfully defended her dissertation in the Department of Modern Languages and Cultural Studies at the University of Alberta (shortly after Congress) and is a Senior Policy […]",
+          "link": "https://csdh-schn.org/announcing-the-winner-of-the-2023-ian-lancashire-award-for-student-promise/",
+          "publishedOn": "2023-09-18T21:22:08.000Z",
+          "wordCount": 496,
+          "title": "Announcing the Winner of the 2023 Ian Lancashire Award for Student Promise, Megan Perram!"
+        }
+      ]
     },
     {
       "title": "CUNY Digital Humanities Initiative",
@@ -2089,6 +2108,24 @@
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
         {
+          "id": "https://livingwithmachines.ac.uk/?p=3524",
+          "author": "Léllé Demertzi",
+          "description": "Living with Machines is an AHRC-funded project at The Alan Turing Institute (aka the Turing), bringing together academics from different disciplines, to answer research questions such as how did historical newspapers tell the political landscape, how were accidents in factories reported, how did road and settlement names change, how did people change occupations during the industrial revolution… Millions […]",
+          "link": "https://livingwithmachines.ac.uk/a-large-scale-ancestry-study/?utm_source=rss&utm_medium=rss&utm_campaign=a-large-scale-ancestry-study",
+          "publishedOn": "2023-09-18T11:01:44.000Z",
+          "wordCount": 1974,
+          "title": "A Large Scale Ancestry Study"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=3516",
+          "author": "David Beavan",
+          "description": "Living with Machine’s AI Beyond STEM: digital skills to unleash the power of data science and AI for all online panel hit the small screens on 6 June 2023. This virtual gathering, hosted by the Turing and supported by Arts & Humanities Research Council, was a triumph, showcasing the interdisciplinary promise of technology and non- […]",
+          "link": "https://livingwithmachines.ac.uk/ai-beyond-stem-beyond-expectations/?utm_source=rss&utm_medium=rss&utm_campaign=ai-beyond-stem-beyond-expectations",
+          "publishedOn": "2023-09-18T10:50:28.000Z",
+          "wordCount": 517,
+          "title": "AI Beyond STEM beyond expectations"
+        },
+        {
           "id": "https://livingwithmachines.ac.uk/?p=3481",
           "author": "Daniel Wilson",
           "description": "New Research Article Published! Humans make machines, we make them in our image. They are very different to us, but they are also quite like us too. These similarities have caught the imagination, inviting the use of figurative language and metaphors in the way we describe them. This language can be slippery or even hazardous, […]",
@@ -2606,15 +2643,6 @@
           "publishedOn": "2023-03-29T06:38:27.000Z",
           "wordCount": 2972,
           "title": "Training a multilingual model in Transkribus: Jeff Rusten"
-        },
-        {
-          "id": "https://readcoop.eu/?p=32140",
-          "author": "Florian Stauder",
-          "description": "Go to any history museum or read any history book and you’ll find that many of the stories and events revolve around men. For example, this study into history books used in the US found that in one 819-page textbook, there was less than a single page of text referencing women. According to the Smithsonian […]\nThe post Women’s History Month: Unlocking the lives of three inspiring women from history appeared first on READ-COOP.",
-          "link": "https://readcoop.eu/womens-history-month/",
-          "publishedOn": "2023-03-23T11:22:35.000Z",
-          "wordCount": 2377,
-          "title": "Women’s History Month: Unlocking the lives of three inspiring women from history"
         }
       ]
     },
@@ -2623,6 +2651,15 @@
       "feedUrl": "https://review.gale.com/category/digital-humanities/feed",
       "siteUrl": "https://review.gale.com",
       "articles": [
+        {
+          "id": "https://review.gale.com/?p=14623",
+          "author": "Gale Review Team",
+          "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ It’s back-to-school season, and the next two ‘Notes from Our DH Correspondent’ blog posts will focus on non-traditional assignments in the DH classroom. Often, Humanities classes culminate in a final paper or essay which is a worthwhile exercise in sifting through relevant information to answer a question ... Read more",
+          "link": "https://review.gale.com/2023/09/19/re-imagining-assignments-in-the-dh-classroom-storymaps/",
+          "publishedOn": "2023-09-19T05:00:00.000Z",
+          "wordCount": 2008,
+          "title": "Re-imagining Assignments in the DH Classroom: StoryMaps"
+        },
         {
           "id": "https://review.gale.com/?p=14561",
           "author": "Gale Review Team",
@@ -3063,6 +3100,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=17896",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1668, instructions on the magical use of the psalms divided into one section for each psalm. The text begins with an introduction explaining that the magic of the psalms may only be used by those withContinue reading \"Manuscript Monday: Ms. Codex 1668 – Cabale misterieuse de 150 pseaumes du Roy David (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/09/18/manuscript-monday-ms-codex-1668-cabale-misterieuse-de-150-pseaumes-du-roy-david-video-orientation/",
+          "publishedOn": "2023-09-18T13:00:00.000Z",
+          "wordCount": 1394,
+          "title": "Manuscript Monday: Ms. Codex 1668 – Cabale misterieuse de 150 pseaumes du Roy David (Video Orientation)"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=17892",
           "author": "simsmss",
@@ -3578,6 +3624,24 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "4630 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "In this talk, Cinderella Petz will evaluate chances and challenges when combining computational methods in historical research and address the limitations and implications of its epistemological and ontological changes. She will exemplify this on two case studies based on her doctoral research: the analysis of court records assessing the extent of political judiciary during the Dollfuß-/Schuschnigg-Regime, and the structural analysis of the influence relations of a Linked Open Data network of intellectuals. \nShe will propose to take the framework of modeling seriously for digital historical research in order to successfully tackle the research design, the structuring of data, and the evaluation of analysis. Furthermore, she stresses the importance of a multimodal literacy, as well as digital and computational competences as key for a successfull implementation of an embedded digital humanities framework.\n \nWednesday, 25 october 2023\n14.00 - 15.00\n\n\nC²DH\n Open Space (4th floor, Maison des Sciences humaines and online.\n25 October 2023\n  Digital hermeneutics  Digital methods\n  Hands-on History\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/embedded-digital-humanities-framework-historical-research",
+          "publishedOn": "2023-09-18T12:52:23.000Z",
+          "wordCount": 356,
+          "title": "An Embedded Digital Humanities Framework for Historical Research"
+        },
+        {
+          "id": "4629 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "In France, as elsewhere, the Covid 19 pandemic led to a large number of grassroots archiving projets. The aim of these initiatives was to collect the 'ordinary' memory of the event and thus help to build a collective memory that reflected a diversity of experiences. Using qualitative and quantitative data, this article examines the genesis of these initiatives in France and draws up the socio-economic profile of the participants, asking the question: to what extent did these operations reach the entire target population in an egalitarian manner? What kind of memory will be preserved over the long term by the archive centres, and who are the people whose words will go down in history?\nSarah Gensburger is a Full Professor of Sociology at the French National Center for Scientific Research - Sciences Po Paris. In her most recent work, she has been investigating the relationship between memory, public policies and neoliberalism. She is the author of a dozen of books among which, in the perspective of this talk, Memory on my doorstep. Chronicles of the Bataclan Neighborhood (Paris, 2015-2016), (Leuven University Press, 2019), with Gérôme Truc (eds.), Les Mémoriaux du 13 novembre (Ed. EHESS, 2020) and with Orli Fridman (eds.), The Covid-19 Pandemic and Memory. Remembrance, commemoration, and archiving in crisis (Palgrave, 2023). In 2021, she was elected President of the Memory Studies Association.\n \nWednesday, 27 September 2023\n14.00 - 15.00\nC²DH Open Space (4th floor, Maison des Sciences humaines and online\n27 September 2023\n  Archives  Data Science  Memory studies  Public History\n  Hands-on History\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/sociology-covid-memory-boom-french-case-study",
+          "publishedOn": "2023-09-18T09:36:44.000Z",
+          "wordCount": 463,
+          "title": "A sociology of the covid memory boom. The French case study"
+        },
+        {
           "id": "4626 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "In this research seminar, we will discuss the ongoing extraction of data from the administrative archives of Dudelange, relying on an automated transcription, with layout detection and the automated extraction of temporal and spatial information from these sources to create historical maps.\nThe city of Dudelange has entered a partnership with the C²DH, for which they shared their residential cards. These administrative forms contain information on the population movements in and out of the city. These are being scanned and transcribed.\nFor the transcription, the project uses Transkribus to restitute not only the textual content of these administrative forms but also their structure, e.g., for each field, a tag is attached. Secondly, for the blocs of texts, a script to detect place and time information is being developed internally. All these steps should lead up to the structuration before import of the data to be visualised on a map and open these rich collections for further analysis, on the history of migration, housing, public health etc.\nWe invite all interested persons to join the discussion on how to improve this pipeline and share other potential uses for the extracted material.\n \nWednesday, 18 October 2023\n14.00 - 15.00\nC²DH Open Space\n18 October 2023\n  Digital history & historiography\n  Archives  Data Science  Digital methods  Digital tools  Digitisation  Visualisation\n  Research seminars\n  Published  \n    Hide image in content detail",
@@ -3792,15 +3856,6 @@
           "publishedOn": "2023-03-24T07:47:50.000Z",
           "wordCount": 719,
           "title": "Faire équipe: quand historien-ne-s et auteur-e-s de bande dessinée travaillent ensemble"
-        },
-        {
-          "id": "4459 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The history of European integration and Europeanisation has developed into a varied field that has moved on from an initial focus on the vision and achievements of the founding fathers. However, even though women played a vital part in the European project launched after the Second World War, their role has yet to be fully explored. Women tended to remain in the background until they began to be more readily accepted, from the mid-1970 onwards, as political leaders, particularly following the first European elections by direct universal suffrage (1979) and the appointment of the first female European Commissioner (1989). By adopting an interdisciplinary approach and divers methodological backgrounds, the conference aims to analyse the topic of women from a variety of perspectives including…",
-          "link": "https://www.c2dh.uni.lu/events/womens-narratives-and-european-integration-history",
-          "publishedOn": "2023-03-23T06:45:51.000Z",
-          "wordCount": 896,
-          "title": "Women’s narratives and European integration history"
         }
       ]
     },
