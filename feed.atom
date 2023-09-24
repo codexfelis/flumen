@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-09-23T08:12:09.548Z</updated>
+    <updated>2023-09-24T08:12:31.625Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -6928,44 +6928,6 @@ The post Training a multilingual model in Transkribus: Jeff Rusten appeared firs
         <summary type="html"><![CDATA[For Elio Colavito, oral history allows queer and trans people to speak "to and through the historical record" toward a history that allows them to simply be people, with their own rich lives and experiences and stories. But what of the process of hearing these stories? Colavito is working to create an authentic interview space that not only shows what happens when executing an interview or project, but one that captures just how dynamic oral history can be.]]></summary>
         <author>
             <name>Tanya Rohrmoser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DREAMSEA]]></title>
-        <id>http://digitalorientalist.com/?p=10321</id>
-        <link href="https://digitalorientalist.com/2023/03/28/dreamsea/"/>
-        <updated>2023-03-28T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is guest post by Mark Boersma. Recently I came across a website of a project on manuscripts from Southeast …]]></summary>
-        <author>
-            <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From analogue forms to digital maps: digitisation pipeline of the Dudelange archives]]></title>
-        <id>4464 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/analogue-forms-digital-maps-digitisation-pipeline-dudelange-archives"/>
-        <updated>2023-03-28T06:34:12.000Z</updated>
-        <summary type="html"><![CDATA[In this research seminar, we will discuss the ongoing extraction of data from the administrative archives of Dudelange, relying on an automated transcription, with layout detection and the automated extraction of temporal and spatial information from these sources to create historical maps.
-The city of Dudelange has entered a partnership with the C²DH, for which they shared their residential cards. These administrative forms contain information on the population movements in and out of the city. These are being scanned and transcribed.
-For the transcription, the project uses Transkribus to restitute not only the textual content of these administrative forms but also their structure, e.g., for each field, a tag is attached. Secondly, for the blocs of texts, a script to detect place and time information is being developed internally. All these steps should lead up to the structuration before import of the data to be visualised on a map and open these rich collections for further analysis, on the history of migration, housing, public health etc.
-We invite all interested persons to join the discussion on how to improve this pipeline and share other potential uses for the extracted material. 
- 
-Wednesday, 19 April 2023
-14.00 - 15.00
-C²DH Open Space
-Maison des Sciences humaines, 4th floor
- 
-
-  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/logo_research_seminars_content_list.png?itok=r2xDOs_L
-  Research seminar with Estelle Bunout.
-  19 April 2023
-  Contemporary history of Luxembourg
-  Archives  Data Science  Digital methods  Digitisation  Visualisation
-  Research seminars
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>
