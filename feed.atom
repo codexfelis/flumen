@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-09-24T08:12:31.625Z</updated>
+    <updated>2023-09-25T08:14:21.345Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[European Development of the Firm Worms & Co (20th century)]]></title>
+        <id>4634 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/european-development-firm-worms-co-20th-century"/>
+        <updated>2023-09-25T08:01:29.000Z</updated>
+        <summary type="html"><![CDATA[The Firm Worms & Co was founded in the middle of the nineteenth century by the French merchant Hypolite Worms (1801-1877). From the beginning, the European and international vocation of his company led him to consider setting up in Great Britain: in Swansea, Newcastle, Great-Grimsby, … He ships French products there and brings back English coal sold on the French coast. He thus became a coal importer, then a maritime carrier opening lines linking Bordeaux, Le Havre and Rouen to Hamburg, Antwerp and to the North of Europe. Later, in the twentieth century, one sector of activity opening up prospects in another, his house will open branches or offices in Rotterdam, Genoa, Prague, Danzig, Warsaw, …
+ 
+
+
+ 
+Mathieu Bidaux is a corporate historian for Phoramm Sàrl, which is a company responsible for studying and promoting the history of Worms & Co. He has a doctorate in contemporary history and he is an associate researcher at the GRHIS laboratory at the University of Rouen Normandy. His latest book, La fabrication des billets en France : Construire la confiance monétaire (1800-1914) was published by Presses de Sciences Po in 2022.
+ 
+Tuesday, 3 October 2023
+17.00 - 18.30 (CET)
+C²DH Open Space (4th floor, Maison des Sciences humaines)
+Free entrance
+3 October 2023
+  Contemporary history of Europe
+  Economic history
+  Conferences
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEI Annual Members Meeting – Report]]></title>
+        <id>https://tei-c.org/?p=31726</id>
+        <link href="https://tei-c.org/2023/09/24/tei-annual-members-meeting-report/"/>
+        <updated>2023-09-24T15:27:25.000Z</updated>
+        <summary type="html"><![CDATA[TEI 2022-23 Annual Report The Annual General Meeting of the TEI Consortium was held on 7 September, 2023 at Paderborn, Germany. The meeting took place during the TEI-MEC “Encoding Cultures” conference. (9:15-10:30 am local time) The following is a report of that meeting. The meeting was convened by Diane Jakacki, Board of Directors Chair. Board […]]]></summary>
+        <author>
+            <name>Diane Jakacki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RECOMMENDED: Training Information Professionals in the Digital Humanities]]></title>
         <id>https://dhandlib.org/?p=130161</id>
@@ -6900,17 +6936,6 @@ The post RLUK joins Open Book Futures consortium appeared first on Research Libr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Training a multilingual model in Transkribus: Jeff Rusten]]></title>
-        <id>https://readcoop.eu/?p=32160</id>
-        <link href="https://readcoop.eu/training-a-multilingual-model-in-transkribus-jeff-rusten/"/>
-        <updated>2023-03-29T06:38:27.000Z</updated>
-        <summary type="html"><![CDATA[The majority of Transkribus models are also trained to read just one language — after all, most historical documents are written in one language. But what if your document contains three (or even more) languages? Can you train a model to read all three at the same time? The answer is yes, as Jeff Rusten […]
-The post Training a multilingual model in Transkribus: Jeff Rusten appeared first on READ-COOP.]]></summary>
-        <author>
-            <name>Florian Stauder</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Guest Blog from Women in Research Ireland: Honest Conversations that Bring Women Researchers Closer]]></title>
         <id>1635 at https://www.dri.ie</id>
         <link href="https://www.dri.ie/guest-blog-women-research-ireland-honest-conversations-bring-women-researchers-closer"/>
@@ -6918,26 +6943,6 @@ The post Training a multilingual model in Transkribus: Jeff Rusten appeared firs
         <summary type="html"><![CDATA[The Digital Repository of Ireland seeks to support researchers from all backgrounds, gender and career stage. We were delighted to meet with representatives from Women in Research Ireland (WIRI) recently who told us all about the work they do to support women and diversity in academic research in Ireland.]]></summary>
         <author>
             <name>bethknazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Space: A Q&A with Oral Historian Elio Colavito]]></title>
-        <id>https://dhn.utoronto.ca/?p=7704</id>
-        <link href="https://dhn.utoronto.ca/creating-space-a-qa-with-oral-historian-elio-colavito/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=creating-space-a-qa-with-oral-historian-elio-colavito"/>
-        <updated>2023-03-28T15:03:26.000Z</updated>
-        <summary type="html"><![CDATA[For Elio Colavito, oral history allows queer and trans people to speak "to and through the historical record" toward a history that allows them to simply be people, with their own rich lives and experiences and stories. But what of the process of hearing these stories? Colavito is working to create an authentic interview space that not only shows what happens when executing an interview or project, but one that captures just how dynamic oral history can be.]]></summary>
-        <author>
-            <name>Tanya Rohrmoser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Applications: CDHI Digital Research Storytelling Workshop, May 2023]]></title>
-        <id>https://dhn.utoronto.ca/?p=7672</id>
-        <link href="https://dhn.utoronto.ca/call-for-applications-cdhi-digital-research-storytelling-workshop-may-2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=call-for-applications-cdhi-digital-research-storytelling-workshop-may-2023"/>
-        <updated>2023-03-27T20:32:11.000Z</updated>
-        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI), a tri-campus research initiative funded by the University of Toronto’s Institutional Strategic Initiatives (ISI) program is pleased to announce a new online workshop in […]]]></summary>
-        <author>
-            <name>DHN Admin</name>
         </author>
     </entry>
     <entry>
