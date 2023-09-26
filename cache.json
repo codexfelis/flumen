@@ -1101,6 +1101,15 @@
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
         {
+          "id": "https://dhn.utoronto.ca/?p=8443",
+          "author": "Tanya Rohrmoser",
+          "description": "CDHI is pleased to announce that we are launching the Indigenous Digital Practice initiative, with the goal of building strengths in Indigenous Digital Practice among university and community-based Indigenous researchers. \n\nDr. Jennifer Wemigwans is leading this initiative and has commenced her position as Director of Indigenous Digital Practice.",
+          "link": "https://dhn.utoronto.ca/cdhi-launches-indigenous-digital-practice-initiative-for-2023-24/?utm_source=rss&utm_medium=rss&utm_campaign=cdhi-launches-indigenous-digital-practice-initiative-for-2023-24",
+          "publishedOn": "2023-09-25T19:39:32.000Z",
+          "wordCount": 573,
+          "title": "CDHI Launches Indigenous Digital Practice Initiative for 2023-24"
+        },
+        {
           "id": "https://dhn.utoronto.ca/?p=8420",
           "author": "DHN Admin",
           "description": "The Jackman Humanities Institute (JHI) at the University of Toronto, in partnership with the Critical Digital Humanities Initiative (CDHI), offers a twelve-month Postdoctoral Fellowship in Digital Humanities, with a project that fits the JHI’s annual theme, “Undergrounds/Underworlds”.",
@@ -1454,24 +1463,6 @@
           "publishedOn": "2023-04-11T08:06:03.000Z",
           "wordCount": 1211,
           "title": "Fachreferent/in (d/m/w) für die Region Osteuropa und Eurasien mit Kompetenzen in den Bereichen Data Engineering und Softwareentwicklung"
-        },
-        {
-          "id": "node/892",
-          "author": "434",
-          "description": "Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto „Anything Goes?!“ vom 4. bis 6. Oktober 2023 in Tübingen statt. \nNoch bis zum 28.04.2023 läuft der…",
-          "link": "https://dig-hum.de/aktuelles/reminder-call-for-papers-forge23-forschungsdaten-den-geisteswissenschaften",
-          "publishedOn": "2023-03-30T10:53:52.030Z",
-          "wordCount": 953,
-          "title": "Reminder: Call for Papers. FORGE23 Forschungsdaten in den Geisteswissenschaften"
-        },
-        {
-          "id": "node/893",
-          "author": "434",
-          "description": "Unsere nächste Jahrestagung, die DHd2024, findet vom 26.02.2024 bis zum 01.03.2024 unter dem Motto „DH Quo Vadis“ statt.\nPassend zum 10-jährigen Jubiläum der DHd-Jahreskonferenzen…",
-          "link": "https://dig-hum.de/aktuelles/dhd2024-passau",
-          "publishedOn": "2023-03-30T10:53:52.004Z",
-          "wordCount": 734,
-          "title": "DHd2024 in Passau"
         }
       ]
     },
@@ -2745,6 +2736,66 @@
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
         {
+          "id": "990a2921-8b4e-483e-bb84-1d7003424760",
+          "author": "Meghan Ferriter",
+          "description": "A review of the Roswell Museum Federal Art Center, a digital exploration of the early history of the Roswell Museum and Art Center in New Mexico, directed by Sara Woodbury",
+          "link": "https://reviewsindh.pubpub.org/pub/roswell-museum-federal-art-center",
+          "publishedOn": "2023-09-25T00:00:00.000Z",
+          "wordCount": 1135,
+          "title": "Roswell Museum Federal Art Center",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/zcqzzw0z/Screen Shot 2023-09-21 at 11.02.52 AM-51695645890398.png"
+          }
+        },
+        {
+          "id": "cbd7ad26-f71c-4608-96ad-90f43f1a4b9d",
+          "author": "Henry T. Christopher",
+          "description": "A review of the Maine Digital Collaborative, a multimodal digital public humanities project, directed by John Muthyala and Lisa Hibl",
+          "link": "https://reviewsindh.pubpub.org/pub/maine-digital-collaborative",
+          "publishedOn": "2023-09-25T00:00:00.000Z",
+          "wordCount": 1098,
+          "title": "Maine Digital Collaborative",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/081ngrkn/Screen Shot 2023-09-25 at 8.57.31 AM-61695646669058.png"
+          }
+        },
+        {
+          "id": "42a531e4-3ee1-4b85-aa50-fbaf5dde78d3",
+          "author": "Roopika Risam",
+          "description": "Editors' note on the September 2023 issue of Reviews in Digital Humanities",
+          "link": "https://reviewsindh.pubpub.org/pub/editors-note-september-2023",
+          "publishedOn": "2023-09-25T00:00:00.000Z",
+          "wordCount": 409,
+          "title": "Editors' Note: September 2023",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/gj64xuhn/croppedlogo-31695651740199.png"
+          }
+        },
+        {
+          "id": "5cf9a288-1d5d-4dd2-bec9-a4f73362391c",
+          "author": "Judith Raiskin",
+          "description": "A review of The Resemblage Project, a multimedia project exploring aging in Toronto, directed by Andrea Charise",
+          "link": "https://reviewsindh.pubpub.org/pub/the-resemblage-project",
+          "publishedOn": "2023-09-25T00:00:00.000Z",
+          "wordCount": 1300,
+          "title": "The Resemblage Project",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/76fx89c4/Screen Shot 2023-09-25 at 10.16.51 AM-71695651421872.png"
+          }
+        },
+        {
+          "id": "17bb8a99-eb93-461a-a378-0cb77d6ad092",
+          "author": "Alanna Prince",
+          "description": "A review of African American History and Culture, a pedagogical website, directed by Terry Carter",
+          "link": "https://reviewsindh.pubpub.org/pub/african-american-history-and-culture-website",
+          "publishedOn": "2023-09-25T00:00:00.000Z",
+          "wordCount": 1172,
+          "title": "African American History and Culture",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/dknyuma2/Screen Shot 2023-09-25 at 8.54.18 AM-61695646466658.png"
+          }
+        },
+        {
           "id": "a3f5cf6e-0051-47c3-864e-937bceffca2a",
           "author": "Jina DuVernay",
           "description": "A review of the Gloria Naylor Archive, a physical and digital space making the works of Gloria Naylor available, directed by Suzanne M. Edwards and Mary Foltz",
@@ -3064,6 +3115,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17900",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1670, a collection of alchemical recipes and instructions for the purification, distillation, and transmutation of metals and ores such as gold, silver, cinnabar, lead, antimony, and mercury. Also includes a few recipes for elixirs and oilsContinue reading \"Manuscript Monday: Ms. Codex 1670 – Flambeau des vrais rosecroix ou des sages. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/09/25/manuscript-monday-ms-codex-1670-flambeau-des-vrais-rosecroix-ou-des-sages-video-orientation/",
+          "publishedOn": "2023-09-25T13:00:00.000Z",
+          "wordCount": 1179,
+          "title": "Manuscript Monday: Ms. Codex 1670 – Flambeau des vrais rosecroix ou des sages. (Video Orientation)"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17896",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1668, instructions on the magical use of the psalms divided into one section for each psalm. The text begins with an introduction explaining that the magic of the psalms may only be used by those withContinue reading \"Manuscript Monday: Ms. Codex 1668 – Cabale misterieuse de 150 pseaumes du Roy David (Video Orientation)\"",
@@ -3303,15 +3363,6 @@
           "publishedOn": "2023-03-31T07:42:13.000Z",
           "wordCount": 2040,
           "title": "Food for thought: The role of the library catalog in an Open Access world"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1827",
-          "author": "Leah Budke",
-          "description": "In April (27 & 28), the 2023 Chair of the KU Leuven Institute for the Study of the Transmission of Texts, Ideas and Images in Antiquity, the Middle Ages and the Renaissance (LECTIO) will give a lecture and lead an…\n\nContinue reading “Seminar: LECTIO Chair Barbara McGillivray on Semantic Change in Ancient Texts”…",
-          "link": "https://scholarlytales.hcommons.org/2023/03/30/seminar-lectio-chair-barbara-mcgillivray-on-semantic-change-in-ancient-texts/",
-          "publishedOn": "2023-03-30T13:33:33.000Z",
-          "wordCount": 2052,
-          "title": "Seminar: LECTIO Chair Barbara McGillivray on Semantic Change in Ancient Texts"
         }
       ]
     },
@@ -3841,6 +3892,24 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/jennifer-cobbe/",
+          "author": null,
+          "description": "Dr Jennifer Cobbe is an Assistant Professor in Law and Technology in the Faculty of Law at the University of Cambridge. Jennifer holds a PhD in Law and an LLM in Law and Governance from Queen’s University, Belfast. She is generally interested in critical, interdisciplinary work on questions of power, political economy, and the law",
+          "link": "https://www.cdh.cam.ac.uk/about/people/jennifer-cobbe/",
+          "publishedOn": "2023-09-25T08:27:30.000Z",
+          "wordCount": 480,
+          "title": "Dr Jennifer Cobbe"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/maciej-pawlikowski/",
+          "author": null,
+          "description": "Maciej Pawlikowski is Head of the Digital Content Unit at Cambridge University Library, which main activities are focused around providing digital content to the Cambridge Digital Library and to academic researchers. He has led number of digitisation projects, which include, Parker on the Web, Darwin manuscripts and the Friedberg Genizah digitisation project. He is a",
+          "link": "https://www.cdh.cam.ac.uk/about/people/maciej-pawlikowski/",
+          "publishedOn": "2023-09-25T08:20:38.000Z",
+          "wordCount": 460,
+          "title": "Maciej Pawlikowski"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/37114/",
           "author": null,
@@ -5969,15 +6038,6 @@
           "publishedOn": "2023-04-25T09:23:54.000Z",
           "wordCount": 1204,
           "title": "Emerging Leaders Programme Scoping Study Launched"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=13087",
-          "author": "Melanie Cheung",
-          "description": "A new project that works to increase access to valuable research is to receive more than £5.8 million in funding. Led by Lancaster University, the Open Book Futures (OBF) project will develop and support organisations, tools and practices that enable both academics and the wider public to make more and better use of books [...]\nThe post RLUK joins Open Book Futures consortium appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/rluk-joins-open-book-futures-consortium/",
-          "publishedOn": "2023-03-30T09:03:09.000Z",
-          "wordCount": 1623,
-          "title": "RLUK joins Open Book Futures consortium"
         }
       ]
     },
