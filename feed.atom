@@ -2,10 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-09-26T08:14:02.250Z</updated>
+    <updated>2023-09-27T08:14:10.401Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Impact Story: MATEO: Easy and Accessible Machine Translation Evaluation]]></title>
+        <id>5965 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/new-impact-story-mateo-easy-and-accessible-machine-translation-evaluation"/>
+        <updated>2023-09-27T07:44:19.000Z</updated>
+        <summary type="html"><![CDATA[New Impact Story: MATEO: Easy and Accessible Machine Translation Evaluation 
+
+            
+
+  
+  
+            
+    
+
+
+      
+
+With the rapid developments in machine translation (
+    
+Machine Translation
+
+read more
+
+  ) in recent years, improved evaluation methods are needed in order to determine which translation system is best for a given dataset, language pair or domain. MATEO (MAchine Translation Evaluation Online) is a new, user-friendly tool for both experts and non-experts that answers a growing need for easy and accessible evaluation of machine translation. The software was developed by  Bram Vanroy, Arda Tezcan, Lieve Macken and Michaël Lumingu from Ghent University, and was funded by a CLARIN Bridging Gaps grant after getting seed funding from the European Association for Machine Translation. 
+Read the full Impact Story.
+ 
+Karina Berger
+ 27 September 2023]]></summary>
+        <author>
+            <name>Karina Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ethico-Politics of Design Toolkits: The Case of Responsible AI]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37009/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37009/"/>
+        <updated>2023-09-26T16:43:51.000Z</updated>
+        <summary type="html"><![CDATA[The Ethico-Politics of Design Toolkits: The Case of Responsible AI Speaker: Dr Tomasz Hollanek Description Design toolkits have recently begun to proliferate as a means for translating high-level principles (such as transparency or fairness) into design practice – in general, and in the development of artificial intelligence (AI) in particular. Numerous tech companies, research teams,]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tristan Dot]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/tristan-dot/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/tristan-dot/"/>
+        <updated>2023-09-26T15:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Tristan is a second year PhD student in digital art history at the University of Cambridge. He is working on 19th century textile patterns in Great Britain, their diversification and diffusion through the Jacquard loom and grammars of ornaments. He is also interested in the epistemology, and long historiography of digital art history – in]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Train Your Own OCR/HTR Models with Kraken, part 1]]></title>
+        <id>http://digitalorientalist.com/?p=10695</id>
+        <link href="https://digitalorientalist.com/2023/09/26/train-your-own-ocr-htr-models-with-kraken-part-1/"/>
+        <updated>2023-09-26T13:28:23.000Z</updated>
+        <summary type="html"><![CDATA[How to train custom OCR/HTR models in Kraken]]></summary>
+        <author>
+            <name>Rohan Chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spanish Paleography Digital Teaching and Learning Tool]]></title>
+        <id>http://openmethods.dariah.eu/?p=3379</id>
+        <link href="https://openmethods.dariah.eu/2023/09/26/spanish-paleography-digital-teaching-and-learning-tool/"/>
+        <updated>2023-09-26T06:53:20.000Z</updated>
+        <summary type="html"><![CDATA[The Spanish Paleography (http://spanishpaleographytool.org) tool helps to bridge this gap for those interested in learning paleography of the early modern Spanish period, covering the late 15th to the 18th centuries. The tool is intended to allow users to learn how to decipher and read handwriting from documents of this era. Full transcriptions of the documents can be viewed in a facing-page format, or users can highlight individual words. This tool could be used as a teaching tool to introduce students to paleography.
+[Click ‘Read more’ for the full post!]]]></summary>
+        <author>
+            <name>Ulrike Wuttke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mediate: A Collaborative Time-Based Media Annotation Tool for the Web]]></title>
+        <id>http://openmethods.dariah.eu/?p=3382</id>
+        <link href="https://openmethods.dariah.eu/2023/09/26/mediate-a-collaborative-time-based-media-annotation-tool-for-the-web/"/>
+        <updated>2023-09-26T06:52:36.000Z</updated>
+        <summary type="html"><![CDATA[Mediate is a collaborative time-based media annotation tool for the web that can be used both individually and collaboratively for synchronous and asynchronous digital annotation. One of its highlighting features is accessibility and customization, i.e. the ability to customize the schema that forms the basis of the analysis or the purpose of the project.
+[Click ‘Read more’ for the full post!]]]></summary>
+        <author>
+            <name>Ulrike Wuttke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Engaging Environment for Ancient Chinese Texts: An Introduction to ctext.org]]></title>
+        <id>http://openmethods.dariah.eu/?p=3352</id>
+        <link href="https://openmethods.dariah.eu/2023/09/26/an-introduction-to-ctext-org/"/>
+        <updated>2023-09-26T06:49:43.000Z</updated>
+        <summary type="html"><![CDATA[The Chinese Text Project is a well-established resource in Sinology, providing open access to a large number of ancient Chinese texts. As a digital medium, it utilizes crowdsourcing, linked data, knowledge graph and other computational technologies to provide an interactive interface for users who are interested in ancient Chinese texts. Beyond its main aim of providing open access to Chinese literature and philosophy texts, the project features an integrated Chinese character dictionary tool, images of scanned source texts, a search function for parallel passages, and much more. In terms of structured data, the project’s data wiki contains a wealth of records on entities such as persons, locations, and works.
+[Click ‘Read more’ for the full post!]]]></summary>
+        <author>
+            <name>Ulrike Wuttke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CDHI Launches Indigenous Digital Practice Initiative for 2023-24]]></title>
         <id>https://dhn.utoronto.ca/?p=8443</id>
@@ -447,6 +542,26 @@ The post Transkribus Update – September 2023 appeared first on READ-COOP.]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LWM Digital Residency: Unlocking the Past: Structured Data Extraction in 19th Century Chilean Newspapers]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=3550</id>
+        <link href="https://livingwithmachines.ac.uk/lwm-digital-residency-unlocking-the-past-structured-data-extraction-in-19th-century-chilean-newspapers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lwm-digital-residency-unlocking-the-past-structured-data-extraction-in-19th-century-chilean-newspapers"/>
+        <updated>2023-09-19T12:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Despite the increased pace of digitization, providing access to the data embedded within historical archives remains a challenge, particularly when dealing with the degraded and inconsistent typefaces in century-old newspapers. Enter the Living with Machines Digital Residency. A cross-disciplinary project aimed at extracting structured data from 19th-century Chilean newspapers, this effort ushers in a […]]]></summary>
+        <author>
+            <name>Léllé Demertzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LWM Digital Residency: An Etiquette For Minor Time Travel]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=3540</id>
+        <link href="https://livingwithmachines.ac.uk/lwm-digital-residency-an-etiquette-for-minor-time-travel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lwm-digital-residency-an-etiquette-for-minor-time-travel"/>
+        <updated>2023-09-19T12:07:57.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all experienced that moment on a train journey – perhaps hundred of such moments –when we look up from our phone, laptop, book or attractive fellow passenger and catch aglimpse of something outside the window: two motorists maybe fighting or embracing at ajunction; a terraced back garden filled with American car parts; a cloud […]]]></summary>
+        <author>
+            <name>Léllé Demertzi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Perspectives on Uses and Users in the History of Office Buildings]]></title>
         <id>4632 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/perspectives-uses-and-users-history-office-buildings"/>
@@ -544,6 +659,25 @@ C²DH
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LWM Digital Residency: Visualising the Press Directories dataset]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=3534</id>
+        <link href="https://livingwithmachines.ac.uk/lwm-digital-residency-visualising-the-press-directories-dataset/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lwm-digital-residency-visualising-the-press-directories-dataset"/>
+        <updated>2023-09-18T12:22:30.000Z</updated>
+        <author>
+            <name>Léllé Demertzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LWM Digital Residency: Accessing and Using Historical Newspaper Data]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=3531</id>
+        <link href="https://livingwithmachines.ac.uk/lwm-digital-residency-accessing-and-using-historical-newspaper-data/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lwm-digital-residency-accessing-and-using-historical-newspaper-data"/>
+        <updated>2023-09-18T12:02:30.000Z</updated>
+        <summary type="html"><![CDATA[My Living with Machines Digital Residency, which I carried out between May and July 2023, allowed me to update and publish an online guide to accessing and analysing newspaper data. The goal of the book is to make available an end-to-end set of instructions and tutorials which would allow researchers, with a variety of skill […]]]></summary>
+        <author>
+            <name>Léllé Demertzi</name>
         </author>
     </entry>
     <entry>
@@ -1968,6 +2102,16 @@ Fellowship Date: 
 September, 2023—August, 2024]]></summary>
         <author>
             <name>pamhorn@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closing the Gap in Non-Latin-Script Data: A tool for building and navigating collections of DH research projects]]></title>
+        <id>http://openmethods.dariah.eu/?p=3375</id>
+        <link href="https://openmethods.dariah.eu/2023/08/09/closing-the-gap-in-non-latin-script-data-a-tool-for-building-and-navigating-collections-of-dh-research-projects/"/>
+        <updated>2023-08-09T09:54:48.000Z</updated>
+        <summary type="html"><![CDATA[The Closing the Gap in non-Latin script data aims at mapping the field of digital humanities projects outside and beyond the anglosphere with a particular focus on non-Latin scripts such as Arabic or Chinese in both machine-actionable and human readable form. The urgency and value of such a survey has been highlighted in recent discussions around global, decolonial, and multilingual digital humanities.]]></summary>
+        <author>
+            <name>Ulrike Wuttke</name>
         </author>
     </entry>
     <entry>
@@ -6916,28 +7060,6 @@ Read more about CoARA
  3 April 2023]]></summary>
         <author>
             <name>Elisa Gorgaini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Database of Medieval Chinese Texts: A Critical Overview (part one)]]></title>
-        <id>http://digitalorientalist.com/?p=10263</id>
-        <link href="https://digitalorientalist.com/2023/03/31/working-title-the-database-of-medieval-chinese-texts-a-critical-overview-part-one/"/>
-        <updated>2023-03-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a guest post by Laurent Van Cutsem (Ghent University). Part I: The Database of Medieval Chinese Texts. A …]]></summary>
-        <author>
-            <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Food for thought: The role of the library catalog in an Open Access world]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1832</id>
-        <link href="https://scholarlytales.hcommons.org/2023/03/31/food-for-thought-the-role-of-the-library-catalog-in-an-open-access-world/"/>
-        <updated>2023-03-31T07:42:13.000Z</updated>
-        <summary type="html"><![CDATA[The common way readers use library catalogs is to find out whether they have access to a particular resource through the library they are using. Catalogs of academic libraries thus provide information about what publications a student or staff member…
-
-Continue reading “Food for thought: The role of the library catalog in an Open Access world”…]]></summary>
-        <author>
-            <name>Demmy Verbeke</name>
         </author>
     </entry>
     <entry>

@@ -1606,6 +1606,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=10695",
+          "author": "Rohan Chauhan",
+          "description": "How to train custom OCR/HTR models in Kraken",
+          "link": "https://digitalorientalist.com/2023/09/26/train-your-own-ocr-htr-models-with-kraken-part-1/",
+          "publishedOn": "2023-09-26T13:28:23.000Z",
+          "wordCount": 2240,
+          "title": "Train Your Own OCR/HTR Models with Kraken, part 1"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=10710",
           "author": "egiuna",
           "description": "The digitization of Georgian-Persian illuminated documents represents an important and urgent cultural and research desideratum. These rare manuscripts remain exceptional, …",
@@ -1838,15 +1847,6 @@
           "publishedOn": "2023-04-04T13:00:00.000Z",
           "wordCount": 1315,
           "title": "Procreate and the power of visualization tools"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=10263",
-          "author": "The Digital Orientalist",
-          "description": "This is a guest post by Laurent Van Cutsem (Ghent University). Part I: The Database of Medieval Chinese Texts. A …",
-          "link": "https://digitalorientalist.com/2023/03/31/working-title-the-database-of-medieval-chinese-texts-a-critical-overview-part-one/",
-          "publishedOn": "2023-03-31T13:00:00.000Z",
-          "wordCount": 1790,
-          "title": "The Database of Medieval Chinese Texts: A Critical Overview (part one)"
         }
       ]
     },
@@ -2099,6 +2099,42 @@
       "siteUrl": "https://livingwithmachines.ac.uk",
       "articles": [
         {
+          "id": "https://livingwithmachines.ac.uk/?p=3550",
+          "author": "Léllé Demertzi",
+          "description": "Introduction Despite the increased pace of digitization, providing access to the data embedded within historical archives remains a challenge, particularly when dealing with the degraded and inconsistent typefaces in century-old newspapers. Enter the Living with Machines Digital Residency. A cross-disciplinary project aimed at extracting structured data from 19th-century Chilean newspapers, this effort ushers in a […]",
+          "link": "https://livingwithmachines.ac.uk/lwm-digital-residency-unlocking-the-past-structured-data-extraction-in-19th-century-chilean-newspapers/?utm_source=rss&utm_medium=rss&utm_campaign=lwm-digital-residency-unlocking-the-past-structured-data-extraction-in-19th-century-chilean-newspapers",
+          "publishedOn": "2023-09-19T12:14:41.000Z",
+          "wordCount": 817,
+          "title": "LWM Digital Residency: Unlocking the Past: Structured Data Extraction in 19th Century Chilean Newspapers"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=3540",
+          "author": "Léllé Demertzi",
+          "description": "We’ve all experienced that moment on a train journey – perhaps hundred of such moments –when we look up from our phone, laptop, book or attractive fellow passenger and catch aglimpse of something outside the window: two motorists maybe fighting or embracing at ajunction; a terraced back garden filled with American car parts; a cloud […]",
+          "link": "https://livingwithmachines.ac.uk/lwm-digital-residency-an-etiquette-for-minor-time-travel/?utm_source=rss&utm_medium=rss&utm_campaign=lwm-digital-residency-an-etiquette-for-minor-time-travel",
+          "publishedOn": "2023-09-19T12:07:57.000Z",
+          "wordCount": 1162,
+          "title": "LWM Digital Residency: An Etiquette For Minor Time Travel"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=3534",
+          "author": "Léllé Demertzi",
+          "description": "",
+          "link": "https://livingwithmachines.ac.uk/lwm-digital-residency-visualising-the-press-directories-dataset/?utm_source=rss&utm_medium=rss&utm_campaign=lwm-digital-residency-visualising-the-press-directories-dataset",
+          "publishedOn": "2023-09-18T12:22:30.000Z",
+          "wordCount": 245,
+          "title": "LWM Digital Residency: Visualising the Press Directories dataset"
+        },
+        {
+          "id": "https://livingwithmachines.ac.uk/?p=3531",
+          "author": "Léllé Demertzi",
+          "description": "My Living with Machines Digital Residency, which I carried out between May and July 2023, allowed me to update and publish an online guide to accessing and analysing newspaper data. The goal of the book is to make available an end-to-end set of instructions and tutorials which would allow researchers, with a variety of skill […]",
+          "link": "https://livingwithmachines.ac.uk/lwm-digital-residency-accessing-and-using-historical-newspaper-data/?utm_source=rss&utm_medium=rss&utm_campaign=lwm-digital-residency-accessing-and-using-historical-newspaper-data",
+          "publishedOn": "2023-09-18T12:02:30.000Z",
+          "wordCount": 1140,
+          "title": "LWM Digital Residency: Accessing and Using Historical Newspaper Data"
+        },
+        {
           "id": "https://livingwithmachines.ac.uk/?p=3524",
           "author": "Léllé Demertzi",
           "description": "Living with Machines is an AHRC-funded project at The Alan Turing Institute (aka the Turing), bringing together academics from different disciplines, to answer research questions such as how did historical newspapers tell the political landscape, how were accidents in factories reported, how did road and settlement names change, how did people change occupations during the industrial revolution… Millions […]",
@@ -2222,6 +2258,42 @@
       "feedUrl": "https://openmethods.dariah.eu/feed/",
       "siteUrl": "https://openmethods.dariah.eu",
       "articles": [
+        {
+          "id": "http://openmethods.dariah.eu/?p=3379",
+          "author": "Ulrike Wuttke",
+          "description": "The Spanish Paleography (http://spanishpaleographytool.org) tool helps to bridge this gap for those interested in learning paleography of the early modern Spanish period, covering the late 15th to the 18th centuries. The tool is intended to allow users to learn how to decipher and read handwriting from documents of this era. Full transcriptions of the documents can be viewed in a facing-page format, or users can highlight individual words. This tool could be used as a teaching tool to introduce students to paleography.\n[Click ‘Read more’ for the full post!]",
+          "link": "https://openmethods.dariah.eu/2023/09/26/spanish-paleography-digital-teaching-and-learning-tool/",
+          "publishedOn": "2023-09-26T06:53:20.000Z",
+          "wordCount": 1111,
+          "title": "Spanish Paleography Digital Teaching and Learning Tool"
+        },
+        {
+          "id": "http://openmethods.dariah.eu/?p=3382",
+          "author": "Ulrike Wuttke",
+          "description": "Mediate is a collaborative time-based media annotation tool for the web that can be used both individually and collaboratively for synchronous and asynchronous digital annotation. One of its highlighting features is accessibility and customization, i.e. the ability to customize the schema that forms the basis of the analysis or the purpose of the project.\n[Click ‘Read more’ for the full post!]",
+          "link": "https://openmethods.dariah.eu/2023/09/26/mediate-a-collaborative-time-based-media-annotation-tool-for-the-web/",
+          "publishedOn": "2023-09-26T06:52:36.000Z",
+          "wordCount": 1028,
+          "title": "Mediate: A Collaborative Time-Based Media Annotation Tool for the Web"
+        },
+        {
+          "id": "http://openmethods.dariah.eu/?p=3352",
+          "author": "Ulrike Wuttke",
+          "description": "The Chinese Text Project is a well-established resource in Sinology, providing open access to a large number of ancient Chinese texts. As a digital medium, it utilizes crowdsourcing, linked data, knowledge graph and other computational technologies to provide an interactive interface for users who are interested in ancient Chinese texts. Beyond its main aim of providing open access to Chinese literature and philosophy texts, the project features an integrated Chinese character dictionary tool, images of scanned source texts, a search function for parallel passages, and much more. In terms of structured data, the project’s data wiki contains a wealth of records on entities such as persons, locations, and works.\n[Click ‘Read more’ for the full post!]",
+          "link": "https://openmethods.dariah.eu/2023/09/26/an-introduction-to-ctext-org/",
+          "publishedOn": "2023-09-26T06:49:43.000Z",
+          "wordCount": 1206,
+          "title": "An Engaging Environment for Ancient Chinese Texts: An Introduction to ctext.org"
+        },
+        {
+          "id": "http://openmethods.dariah.eu/?p=3375",
+          "author": "Ulrike Wuttke",
+          "description": "The Closing the Gap in non-Latin script data aims at mapping the field of digital humanities projects outside and beyond the anglosphere with a particular focus on non-Latin scripts such as Arabic or Chinese in both machine-actionable and human readable form. The urgency and value of such a survey has been highlighted in recent discussions around global, decolonial, and multilingual digital humanities.",
+          "link": "https://openmethods.dariah.eu/2023/08/09/closing-the-gap-in-non-latin-script-data-a-tool-for-building-and-navigating-collections-of-dh-research-projects/",
+          "publishedOn": "2023-08-09T09:54:48.000Z",
+          "wordCount": 1478,
+          "title": "Closing the Gap in Non-Latin-Script Data: A tool for building and navigating collections of DH research projects"
+        },
         {
           "id": "http://openmethods.dariah.eu/?p=3345",
           "author": "Marinella Testori",
@@ -3354,15 +3426,6 @@
           "publishedOn": "2023-04-12T14:37:10.000Z",
           "wordCount": 2790,
           "title": "Results: BiblioTech Hackathon"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1832",
-          "author": "Demmy Verbeke",
-          "description": "The common way readers use library catalogs is to find out whether they have access to a particular resource through the library they are using. Catalogs of academic libraries thus provide information about what publications a student or staff member…\n\nContinue reading “Food for thought: The role of the library catalog in an Open Access world”…",
-          "link": "https://scholarlytales.hcommons.org/2023/03/31/food-for-thought-the-role-of-the-library-catalog-in-an-open-access-world/",
-          "publishedOn": "2023-03-31T07:42:13.000Z",
-          "wordCount": 2040,
-          "title": "Food for thought: The role of the library catalog in an Open Access world"
         }
       ]
     },
@@ -3892,6 +3955,24 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/37009/",
+          "author": null,
+          "description": "The Ethico-Politics of Design Toolkits: The Case of Responsible AI Speaker: Dr Tomasz Hollanek Description Design toolkits have recently begun to proliferate as a means for translating high-level principles (such as transparency or fairness) into design practice – in general, and in the development of artificial intelligence (AI) in particular. Numerous tech companies, research teams,",
+          "link": "https://www.cdh.cam.ac.uk/events/37009/",
+          "publishedOn": "2023-09-26T16:43:51.000Z",
+          "wordCount": 761,
+          "title": "The Ethico-Politics of Design Toolkits: The Case of Responsible AI"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/tristan-dot/",
+          "author": null,
+          "description": "Tristan is a second year PhD student in digital art history at the University of Cambridge. He is working on 19th century textile patterns in Great Britain, their diversification and diffusion through the Jacquard loom and grammars of ornaments. He is also interested in the epistemology, and long historiography of digital art history – in",
+          "link": "https://www.cdh.cam.ac.uk/about/people/tristan-dot/",
+          "publishedOn": "2023-09-26T15:59:45.000Z",
+          "wordCount": 505,
+          "title": "Tristan Dot"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/jennifer-cobbe/",
           "author": null,
@@ -5159,6 +5240,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5965 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "New Impact Story: MATEO: Easy and Accessible Machine Translation Evaluation \n\n            \n\n  \n  \n            \n    \n\n\n      \n\nWith the rapid developments in machine translation (\n    \nMachine Translation\n\r\nread more\n\n  ) in recent years, improved evaluation methods are needed in order to determine which translation system is best for a given dataset, language pair or domain. MATEO (MAchine Translation Evaluation Online) is a new, user-friendly tool for both experts and non-experts that answers a growing need for easy and accessible evaluation of machine translation. The software was developed by  Bram Vanroy, Arda Tezcan, Lieve Macken and Michaël Lumingu from Ghent University, and was funded by a CLARIN Bridging Gaps grant after getting seed funding from the European Association for Machine Translation. \nRead the full Impact Story.\n \nKarina Berger\n 27 September 2023",
+          "link": "https://www.clarin.eu/news/new-impact-story-mateo-easy-and-accessible-machine-translation-evaluation",
+          "publishedOn": "2023-09-27T07:44:19.000Z",
+          "wordCount": 288,
+          "title": "New Impact Story: MATEO: Easy and Accessible Machine Translation Evaluation"
+        },
         {
           "id": "5949 at https://www.clarin.eu",
           "author": "Karina Berger",
