@@ -2808,6 +2808,18 @@
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
         {
+          "id": "dd7c4291-3408-494d-8521-dafff0f2778a",
+          "author": "Brian J. Daugherity",
+          "description": "A review of Celebrating Simms, a permanent physical and digital exhibit honoring the legacy of Black educator Lucy Simms, directed by Mollie Godfrey and Seán McCarthy",
+          "link": "https://reviewsindh.pubpub.org/pub/celebrating-simms",
+          "publishedOn": "2023-09-28T12:08:08.000Z",
+          "wordCount": 1156,
+          "title": "Review: Celebrating Simms",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/zt09z0fx/simms00344-celebrating-simms-exhibit-on-permanent-display - Mollie Godfrey-71695900977722.jpg"
+          }
+        },
+        {
           "id": "990a2921-8b4e-483e-bb84-1d7003424760",
           "author": "Meghan Ferriter",
           "description": "A review of the Roswell Museum Federal Art Center, a digital exploration of the early history of the Roswell Museum and Art Center in New Mexico, directed by Sara Woodbury",
@@ -3955,6 +3967,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/joseph-powell/",
+          "author": null,
+          "description": "Dr Joseph Powell is a British Academy Postdoctoral Fellow within the Faculty of Divinity at the University of Cambridge, having previously served as a Lecturer at Birmingham Newman University and a Research Fellow at the University of Birmingham. Joseph's research primary research focus is Rastafari spirituality in the Caribbean and the UK. His recent PhD",
+          "link": "https://www.cdh.cam.ac.uk/about/people/joseph-powell/",
+          "publishedOn": "2023-09-28T09:29:17.000Z",
+          "wordCount": 495,
+          "title": "Dr Joseph Powell"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/alexia-cardona/",
           "author": null,

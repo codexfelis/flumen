@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-09-28T08:14:01.107Z</updated>
+    <updated>2023-09-29T08:13:49.972Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review: Celebrating Simms]]></title>
+        <id>dd7c4291-3408-494d-8521-dafff0f2778a</id>
+        <link href="https://reviewsindh.pubpub.org/pub/celebrating-simms"/>
+        <updated>2023-09-28T12:08:08.000Z</updated>
+        <summary type="html"><![CDATA[A review of Celebrating Simms, a permanent physical and digital exhibit honoring the legacy of Black educator Lucy Simms, directed by Mollie Godfrey and Seán McCarthy]]></summary>
+        <author>
+            <name>Brian J. Daugherity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Joseph Powell]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/joseph-powell/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/joseph-powell/"/>
+        <updated>2023-09-28T09:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Dr Joseph Powell is a British Academy Postdoctoral Fellow within the Faculty of Divinity at the University of Cambridge, having previously served as a Lecturer at Birmingham Newman University and a Research Fellow at the University of Birmingham. Joseph's research primary research focus is Rastafari spirituality in the Caribbean and the UK. His recent PhD]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLARIN Newsflash September 2023 Is Out]]></title>
         <id>5966 at https://www.clarin.eu</id>
