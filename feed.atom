@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-09-30T08:12:51.302Z</updated>
+    <updated>2023-10-01T08:12:41.932Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -55,6 +55,15 @@ The post RLUK Members Meeting 2023 appeared first on Research Libraries UK.]]></
         <link href="https://www.cdh.cam.ac.uk/about/people/joseph-powell/"/>
         <updated>2023-09-28T09:29:17.000Z</updated>
         <summary type="html"><![CDATA[Dr Joseph Powell is a British Academy Postdoctoral Fellow within the Faculty of Divinity at the University of Cambridge, having previously served as a Lecturer at Birmingham Newman University and a Research Fellow at the University of Birmingham. Joseph's research primary research focus is Rastafari spirituality in the Caribbean and the UK. His recent PhD]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/"/>
+        <updated>2023-09-27T12:09:25.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
@@ -937,6 +946,15 @@ The post RLUK-AHRC Research Engagement Programme second cohort announced appeare
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Research]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/"/>
+        <updated>2023-09-13T10:55:07.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Des archives et des mots-clés. Moteurs de recherche, interfaces et pratiques numériques discrètes des historien·ne·s.]]></title>
         <id>4625 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/des-archives-et-des-mots-cles-moteurs-de-recherche-interfaces-et-pratiques-numeriques"/>
@@ -1325,6 +1343,16 @@ September, 2023]]></summary>
         <link href="https://www.cdh.cam.ac.uk/events/37002/"/>
         <updated>2023-09-06T15:34:26.000Z</updated>
         <summary type="html"><![CDATA[Join us for this online Q&A subject session during the university's Virtual Open Day: hear more about the MPhil and PhD in Digital Humanities, and get the opportunity to ask the team your questions. To book your place, fill out the Open Day form and select “Cambridge Digital Humanities” as your department of interest. For]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPhil]]></title>
+        <id>https://www.cdh.cam.ac.uk/mphil/</id>
+        <link href="https://www.cdh.cam.ac.uk/mphil/"/>
+        <updated>2023-09-06T14:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Come study with us, for an MPhil in Digital Humanities. Apply now!]]></summary>
         <author>
             <name>CDH</name>
         </author>
@@ -2798,6 +2826,16 @@ This project was supported by CLARIN via the CLARIN Resource Families funding sc
 The concept of the workflows was aligned with the CLARIN 2021-2023…]]></summary>
         <author>
             <name>Julia Misersky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/blog/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/blog/"/>
+        <updated>2023-07-25T11:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Cambridge Digital Humanities]]></summary>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -6828,58 +6866,6 @@ centre news]]></summary>
         <summary type="html"><![CDATA[Since the first Cambridge Data School in 2019, our schools have expanded year upon year. In total, we have now conducted eight Data Schools in two formats — the Cultural Heritage Data School, aimed at people working in GLAM institutions, and the Social Data School, reaching journalists and organisations doing investigations in the public interest.]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUNY DHI Lighting Talks Switch to Virtual Format]]></title>
-        <id>https://cunydhi.commons.gc.cuny.edu/?p=1971</id>
-        <link href="https://cunydhi.commons.gc.cuny.edu/2023/04/04/cuny-dhi-lighting-talks-switch-to-virtual-format/"/>
-        <updated>2023-04-04T17:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Today at 5:30 p.m. is our annual CUNY Digital Humanities Initiative Lightning Talk event. Originally, […]]]></summary>
-        <author>
-            <name>Lisa Marie Rhody</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Procreate and the power of visualization tools]]></title>
-        <id>http://digitalorientalist.com/?p=10342</id>
-        <link href="https://digitalorientalist.com/2023/04/04/procreate-and-the-power-of-visualization-tools/"/>
-        <updated>2023-04-04T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Reconstruction has always been part of the practice of art historians, archaeologists, and artists. Even as far back as the …]]></summary>
-        <author>
-            <name>Alice Casalini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking Your Master’s Dissertation to the Next Level: Using Gale Digital Scholar Lab for Research]]></title>
-        <id>https://review.gale.com/?p=14225</id>
-        <link href="https://review.gale.com/2023/04/04/taking-your-masters-dissertation-to-the-next-level/"/>
-        <updated>2023-04-04T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[│By Tamar Atkinson, Gale Ambassador at the University of Liverpool│ Primary sources can be a great resource for Master’s dissertation research, providing a deeper understanding of history. Whilst they make handy supportive evidence to back up the points you want to make in an assessment, is there a way to take them further? Within Gale ... Read more
-The post Taking Your Master’s Dissertation to the Next Level: Using <em>Gale Digital Scholar Lab</em> for Research appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Ambassadors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sloane Lab Community Fellowship Round Two]]></title>
-        <id>https://blogs.ucl.ac.uk/dh/?p=8291</id>
-        <link href="https://blogs.ucl.ac.uk/dh/2023/04/04/the-sloane-lab-community-fellowship-round-two/"/>
-        <updated>2023-04-04T07:54:30.000Z</updated>
-        <summary type="html"><![CDATA[We are seeking to appoint Community Fellows (ten in total until summer 2024) to contribute to “The Sloane Lab: Looking back to build future shared collections”, led by University College London (UCL) in partnership with the Technische Universität Darmstadt, British Museum (BM) and Natural History Museum (NHM). The fellow will undertake creative, critical, practice and/or […]]]></summary>
-        <author>
-            <name>Lucy Stagg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to digitise archival materials with Transkribus]]></title>
-        <id>https://readcoop.eu/?p=32208</id>
-        <link href="https://readcoop.eu/how-to-digitise-archival-materials-with-transkribus/"/>
-        <updated>2023-04-04T07:34:17.000Z</updated>
-        <summary type="html"><![CDATA[Think of an archive and you might think of old, dusty basements full of disorganised boxes of papers. But in the technological age, archives are taking on a new role. No longer are they purely physical collections of papers, manuscripts, or physical media, such as photographs or artwork. Instead, archives are becoming fully searchable digital […]
-The post How to digitise archival materials with Transkribus appeared first on READ-COOP.]]></summary>
-        <author>
-            <name>Florian Stauder</name>
         </author>
     </entry>
     <entry>
