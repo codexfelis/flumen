@@ -1606,6 +1606,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=11027",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Ruth Mostern, University of Pittsburgh@ruthmostern Like all terms for disciplines and methodologies, the digital …",
+          "link": "https://digitalorientalist.com/2023/10/06/quantitative-scholarship-as-low-tech-digital-humanities/",
+          "publishedOn": "2023-10-06T13:00:00.000Z",
+          "wordCount": 1664,
+          "title": "Quantitative Scholarship as “Low Tech” Digital Humanities"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=10945",
           "author": "danwojahn",
           "description": "If you are interested in digital humanities, cultural heritage, or any field that involves working with images and audio/visual materials …",
@@ -2310,6 +2319,15 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1266 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Academic Title: \n\nPh.D. candidate, History\n\n\n\nAna Paula Nadalini Mendes is a PhD candidate in the History Department at the University of Pennsylvania. Her studies focus on gender and slavery in the nineteenth-century Lusophone world. Her current research centers the shifts in gender dynamics during the anti-slave trade-campaing in Brazil and Mozambique. She is a Mellon Fellow at the Price Lab for Digital Humanities where is she is mapping the anti-slave trade-voyages by analysing travelers' narratives. Prior to her studies in the United States, Ana Mendes worked as a professor at the Catholic University of Parana, In Brazil. \n\n\nFellowship Date: \n\nOctober, 2023—October, 2024",
+          "link": "https://pricelab.sas.upenn.edu/fellows/nadalini-mendes-ana",
+          "publishedOn": "2023-10-06T14:27:24.000Z",
+          "wordCount": 278,
+          "title": "Ana Paula Nadalini Mendes"
+        },
         {
           "id": "1265 at https://pricelab.sas.upenn.edu",
           "author": "perezste@upenn.edu",
@@ -3305,15 +3323,6 @@
           "publishedOn": "2023-04-17T12:00:00.000Z",
           "wordCount": 1161,
           "title": "Manuscript Monday: Ms. Codex 1660 – School miscellany. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17649",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 385, a collection of classical Latin school texts in various hands. Written in Italy, ca. 1500. You can read the complete record for this document (and find links to digitized copies) on Franklin. You can also downloadContinue reading \"Manuscript Monday: LJS 385 – School miscellany. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/04/10/manuscript-monday-ljs-385-school-miscellany-video-orientation/",
-          "publishedOn": "2023-04-10T12:00:00.000Z",
-          "wordCount": 1187,
-          "title": "Manuscript Monday: LJS 385 – School miscellany. (Video Orientation)"
         }
       ]
     },
