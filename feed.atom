@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-10-08T08:12:27.932Z</updated>
+    <updated>2023-10-09T08:15:44.290Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Centre news vol. 60 - October 2023]]></title>
+        <id>5972 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/centre-news-vol-60-october-2023"/>
+        <updated>2023-10-08T09:44:44.000Z</updated>
+        <summary type="html"><![CDATA[Centre news vol. 60 - October 2023
+
+            
+CLARIN technical open hour, Monday 9 October at 11:00 CEST
+Here it is: the second edition of the CLARIN technology open hour. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!
+There will be more open hours on 13 November and 11 December.
+Deadline Centre Assessment Round approaching
+The deadline for the upcoming B-centre assessment round is 31 October 2023.
+If you would like to participate in this 22nd round, please make sure to use:
+The updated CoreTrustSeal 2023-2025 and AMT platform. 
+The latest version of the B-centre checklist (7.4). The difference with the previous version is the addition of two (optional) recommendations at the end of the document, on the use of the attrib…]]></summary>
+        <author>
+            <name>Dieter Van Uytvanck</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ana Paula Nadalini Mendes]]></title>
         <id>1266 at https://pricelab.sas.upenn.edu</id>
@@ -6887,74 +6907,6 @@ Read the full call here.
 The issue of “Surprising Sources” can be understood in two ways: first by reflecting on a source that is surprising in its form (use of a series of stamps, unpublished data, a natively digital archive, material traces like abandoned factory, pipes, etc.), and second by presenting a source that is surprising in its content…]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julia  Pelosi-Thorpe]]></title>
-        <id>1239 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/node/1239"/>
-        <updated>2023-04-12T17:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Academic Title: 
-
-Ph.D Candidate, Italian Studies, Comparative Literature and Literary Theory
-
-
-
-Julia Pelosi-Thorpe is an Italian-Australian PhD student in Italian Studies/Comparative Literature and Literary Theory at the University of Pennsylvania, coming to the end of her first year.
-Her research interests include reception/adaptation/translation studies; cultures of textual production from scribal to print to digital; and language pedagogy. She translates Latin, Italian, and Parmesan Dialect texts into English, and is a 2022–2023 Graduate Project Assistant with the Schoenberg Database of Manuscripts.
-Her Digital Humanities training in Australia included the seminar “Digital Editing and the Medieval and Early Modern Manuscript” at the University of Sydney and a DH research assistant internship through the University of Melbourne's Digital Studio. Since beginning doctoral studies, she has sought learning opportunities such as the Newberry Library Center for Renaissance Studies’ “Digital Humanities and Premodern Studies” seminar, a digitisation-centered Comparative Literature & Literary Theory M.A. theory list, and the Price Lab's upcoming 2023 Dream Lab summer school.
-She can be found at @jpelosithorpe and her website is jpelosithorpe.com.
- 
-
-
-Fellowship Date: 
-
-May, 2023—September, 2023]]></summary>
-        <author>
-            <name>pamhorn@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nat  Rivkin]]></title>
-        <id>1238 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/fellows/rivkin-nat"/>
-        <updated>2023-04-12T17:42:27.000Z</updated>
-        <summary type="html"><![CDATA[Academic Title: 
-
-Ph.D Candidate, English
-
-
-
-Nat Rivkin is a PhD Candidate in English at Penn. Their research interests include premodern poetry, trans studies, and the history of sexuality. They are working on a dissertation that examines gender, race, and classical reception history in late medieval and early modern England. For the AY 2022–24, they are a Graduate Associate for the Trans Oral History Project run by the Center for Research in Feminist, Queer, and Transgender Studies. Nat received a BA in English and Gender & Women's Studies from Pomona College.
-
-
-Fellowship Date: 
-
-May, 2023—September, 2023]]></summary>
-        <author>
-            <name>pamhorn@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weaving Humanities Research Software Engineering and AI]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=3198</id>
-        <link href="https://livingwithmachines.ac.uk/weaving-humanities-research-software-engineering-and-ai/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=weaving-humanities-research-software-engineering-and-ai"/>
-        <updated>2023-04-12T15:16:58.000Z</updated>
-        <summary type="html"><![CDATA[I’m never one to leave a metaphor untouched, as you can see, but there’s something in it. I’ve been doing a lot of thinking recently about how large-scale research, like Living with Machines (LwM), depends on a weaving together of people, skills and disciplines, just as a loom weaves cloth from thread. LwM reveals itself […]]]></summary>
-        <author>
-            <name>David Beavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Results: BiblioTech Hackathon]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1846</id>
-        <link href="https://scholarlytales.hcommons.org/2023/04/12/results-bibliotech-hackathon/"/>
-        <updated>2023-04-12T14:37:10.000Z</updated>
-        <summary type="html"><![CDATA[During March 2023, the first ever BiblioTech Hackathon took place! This initiative was jointly organized by KU Leuven Libraries, Artes Research, and the Faculty of Arts. Over the course of 10 days, students, researchers, and KU Leuven staff came together to…
-
-Continue reading “Results: BiblioTech Hackathon”…]]></summary>
-        <author>
-            <name>Alisa Grishin</name>
         </author>
     </entry>
     <entry>
