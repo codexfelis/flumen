@@ -1588,6 +1588,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=11168",
+          "author": "Orestis Georgalas",
+          "description": "Introduction Up until a few years ago, the history of the Cold War was dominated by interpretations that focused solely …",
+          "link": "https://digitalorientalist.com/2023/10/10/the-digital-cold-war-and-decolonization-archives-methods-and-tools/",
+          "publishedOn": "2023-10-10T13:00:00.000Z",
+          "wordCount": 2132,
+          "title": "The Digital Cold War and Decolonization: Archives, Methods, and Tools"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=11250",
           "author": "The Digital Orientalist",
           "description": "We are seeking candidates for the position of Social Media Manager, who would be running our current social media accounts …",
@@ -1829,15 +1838,6 @@
           "publishedOn": "2023-04-18T13:00:00.000Z",
           "wordCount": 1918,
           "title": "Digital Resources for Chinese Bronze Research: The Academia Sinica Collection (Part 2)"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=10375",
-          "author": "Rohan Chauhan",
-          "description": "OCR of historical printing in Bengali using segmentation and recognition models trained in Kraken from an annotated dataset of Bengali texts published between 1860 and 1940.",
-          "link": "https://digitalorientalist.com/2023/04/14/escriptorium-digital-text-production-for-urdu-hindi-and-bengali-print-part-3/",
-          "publishedOn": "2023-04-14T13:30:00.000Z",
-          "wordCount": 2227,
-          "title": "eScriptorium: Digital Text Production for Urdu, Hindi, and Bengali Print, part 3"
         }
       ]
     },
@@ -3913,6 +3913,60 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/announcing-2023-24-mphil-cohort/",
+          "author": null,
+          "description": "CDH is delighted to welcome its new cohort of MPhil students for 2023/24. The MPhil programme, now in its second year, brings together students from a diverse range of disciplines, backgrounds, and research specialisms, and challenges them to acquire a critical and well-informed understanding of the stakes of digital transformation in contemporary society. We look",
+          "link": "https://www.cdh.cam.ac.uk/about/news/announcing-2023-24-mphil-cohort/",
+          "publishedOn": "2023-10-11T07:24:16.000Z",
+          "wordCount": 513,
+          "title": "Announcing: 2023/24 MPhil Cohort"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/37218/",
+          "author": null,
+          "description": "Convenor: Emily Quin (CDH Methods Fellow) This Methods Workshop explores primary data collection using digital and online qualitative methods. Teaching methods for detailed assessment of the suitability of online platforms for the collection of research data. Considering not only general ethical issues, privacy, encryption, terms and conditions but also inclusivity for neurodivergent and vulnerable participants. Target",
+          "link": "https://www.cdh.cam.ac.uk/events/37218/",
+          "publishedOn": "2023-10-10T15:33:54.000Z",
+          "wordCount": 611,
+          "title": "Primary data collection from online platforms: inclusive approaches"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/sophia-mohr/",
+          "author": null,
+          "description": "Raised in Frankfurt Germany, Sophia is half America and half German. Sophia is interested in the effects of media on people's habits and behaviours, and enjoys testing out new forms of media - whether films, music or socials. They have an undergraduate degree in Media and Information from the University of Amsterdam.",
+          "link": "https://www.cdh.cam.ac.uk/about/people/sophia-mohr/",
+          "publishedOn": "2023-10-10T15:00:39.000Z",
+          "wordCount": 423,
+          "title": "Sophia Mohr"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/qiaochu-clarissa-wang/",
+          "author": null,
+          "description": "Clarissa holds an MSc in Mental Health Studies from King’s College London. She graduated from University of Toronto with a BSc in Psychology and Criminology. Growing up, and in her work as a marketer, she has observed how social media increasingly skew users’ perceptions and cause polarisation of opinions. At CDH, she is interested in",
+          "link": "https://www.cdh.cam.ac.uk/about/people/qiaochu-clarissa-wang/",
+          "publishedOn": "2023-10-10T15:00:18.000Z",
+          "wordCount": 467,
+          "title": "Qiaochu Wang (Clarissa)"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dylan-chng/",
+          "author": null,
+          "description": "Dylan holds a BA (Hons) in English Literature, with a minor in Art History, from the National University of Singapore (NUS). His undergraduate thesis examined social media horror storytelling and new readerly/textual ontologies in the electronic literary sphere. Presently, Dylan is interested in media archaeology and literary interfaces (and interfacings) more broadly: he seeks to",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dylan-chng/",
+          "publishedOn": "2023-10-10T15:00:07.000Z",
+          "wordCount": 476,
+          "title": "Dylan Chng"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/zoe-deborah-tauro/",
+          "author": null,
+          "description": "Zoe Tauro (she/her) is an MPhil student at the CDH interested in the creative capacity of AI-generated texts. She graduated from Nanyang Technological University (Singapore) with a BA in English Literature focused on posthumanism, science fiction and postmodernism. Her MPhil research at Cambridge will analyse figurative and metaphorical language in AI-generated as well as co-written",
+          "link": "https://www.cdh.cam.ac.uk/about/people/zoe-deborah-tauro/",
+          "publishedOn": "2023-10-10T14:59:46.000Z",
+          "wordCount": 453,
+          "title": "Zoe Deborah Tauro"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/laura-isabel-sastoque-pabon/",
           "author": null,
@@ -6150,6 +6204,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=14206",
+          "author": "Melanie Cheung",
+          "description": "#RLUK24 Virtual Conference :: 20-22 March 2024 New Frontiers: The expanding scope of the modern research library  The RLUK24 Conference call for papers is now open. The deadline for submissions is Friday 1 December 2023. Full details can be found on the RLUK Conference website. The role of the research library continues to  [...]\nThe post RLUK24 Conference Call for Papers appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk24-conference-call-for-papers/",
+          "publishedOn": "2023-10-10T11:24:23.000Z",
+          "wordCount": 1249,
+          "title": "RLUK24 Conference Call for Papers"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=14161",
           "author": "Melanie Cheung",
