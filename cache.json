@@ -46,6 +46,15 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=2748",
+          "author": "Sofie Gilbert",
+          "description": "We are delighted to announce the publication of DHNB Conference Proceedings, Volume 5, Number 1 (2023), within our newly established diamond open-access publication platform, Digital Humanities in the Nordic and Baltic Countries Publications, abbreviated as DHNB Publications. The latest installment, DHNB Conference Proceedings, Volume 5, Number 1 (2023), comprises a collection of 25 articles. This […]",
+          "link": "https://dhnb.eu/dhnb2023-conference-proceedings-published-in-our-new-diamond-open-access-publication-platform/",
+          "publishedOn": "2023-10-20T13:30:29.000Z",
+          "wordCount": 286,
+          "title": "DHNB2023 Conference Proceedings published in our new diamond open-access publication platform!"
+        },
+        {
           "id": "https://dhnb.eu/?p=2666",
           "author": "Anda",
           "description": "Registration for the Baltic Summer School of Digital Humanities 2023 is open Students, researchers, and GLAM professionals are welcome to enrol in the Baltic Summer School of Digital Humanities: Discourse Analysis and Digital Literary Studies, which will be held on 25-28 July 2023 at the National Library of Latvia (NLL) and Online. The Baltic Summer School […]",
@@ -152,15 +161,6 @@
           "publishedOn": "2023-06-05T15:02:07.000Z",
           "wordCount": 828,
           "title": "In memoriam David L. Hoover"
-        },
-        {
-          "id": "https://ach.org/?p=2469",
-          "author": "jwoowinter",
-          "description": "Computational research techniques such as text and data mining (TDM) hold tremendous opportunities for researchers across the disciplines, with the digital humanities at the forefront of work to build large corpora of creative works to gain better understandings into concepts such as how gender, race, and identity are shared over time. Unfortunately, legal uncertainty associated…Continue reading.",
-          "link": "https://ach.org/blog/2023/04/24/webinar-5-15-overcoming-legal-barriers-to-text-and-data-mining/",
-          "publishedOn": "2023-04-24T19:17:24.000Z",
-          "wordCount": 297,
-          "title": "Webinar (5/15): Overcoming Legal Barriers to Text and Data Mining"
         }
       ]
     },
@@ -425,15 +425,6 @@
           "publishedOn": "2023-05-11T18:34:48.000Z",
           "wordCount": 177,
           "title": "Apply to Join the Future Conferences Task Force by 15 May"
-        },
-        {
-          "id": "https://sites.caa-international.org/main/?p=17225",
-          "author": "lisafischer",
-          "description": "The Journal of Computer Applications in Archaeology (JCAA) website portal is being updated this week. During the migration, users may find the site temporarily unavailable or experience diminished functionality. When completed, the site will have a new look to align with CAA’s new branding. We apologise for any inconvenience.",
-          "link": "https://caa-international.org/2023/04/24/jcaa-website-being-migrated-to-new-design/",
-          "publishedOn": "2023-04-24T19:49:10.000Z",
-          "wordCount": 139,
-          "title": "JCAA website being migrated to new design"
         }
       ]
     },
@@ -482,17 +473,7 @@
       "title": "CUNY Digital Humanities Initiative",
       "feedUrl": "https://cunydhi.commons.gc.cuny.edu/feed",
       "siteUrl": "https://cunydhi.commons.gc.cuny.edu",
-      "articles": [
-        {
-          "id": "https://cunydhi.commons.gc.cuny.edu/?p=1979",
-          "author": "Zachary Lloyd",
-          "description": "Thank you all for a great Lightning Talks event! It was wonderful to hear about […]",
-          "link": "https://cunydhi.commons.gc.cuny.edu/2023/04/24/recap-cuny-dhi-2023/",
-          "publishedOn": "2023-04-24T14:23:41.000Z",
-          "wordCount": 894,
-          "title": "Recap: CUNY DHI 2023"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Digital Humanities Initiative",
@@ -1590,6 +1571,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=11290",
+          "author": "Anaïs Wion",
+          "description": "The script used by the Christian cultures of Ethiopia is ancient, developing from the Sabaean script in the first centuries …",
+          "link": "https://digitalorientalist.com/2023/10/20/current-approaches-on-automatic-recognition-of-ethiopic-script/",
+          "publishedOn": "2023-10-20T14:00:00.000Z",
+          "wordCount": 1812,
+          "title": "Current approaches on Automatic Recognition of Ethiopic script"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10920",
           "author": "maddalena poli",
@@ -3115,66 +3105,6 @@
           "enclosure": {
             "url": "https://assets.pubpub.org/cjy4hws1/51685408783271.png"
           }
-        },
-        {
-          "id": "4a46854c-dfd9-4d4e-a1bc-b56d11aef381",
-          "author": "Lidia Bocanegra Barbecho",
-          "description": "A review of BERT for Humanists, an online resource helping humanists use natural language processing, directed by Matt Wilkens, David Mimno, and Melanie Walsh",
-          "link": "https://reviewsindh.pubpub.org/pub/bert-for-humanists",
-          "publishedOn": "2023-04-24T00:00:00.000Z",
-          "wordCount": 1158,
-          "title": "Review: BERT for Humanists",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/fj76bcin/71681868443761.png"
-          }
-        },
-        {
-          "id": "4c363c1e-a19a-4d29-ae70-0c32ca853715",
-          "author": "Maria Juzinskas",
-          "description": "A review of Lynching in Texas, a website uncovering little-known stories of Texan lynching victims, directed by Jeffrey L. Littlejohn",
-          "link": "https://reviewsindh.pubpub.org/pub/lynching-in-texas",
-          "publishedOn": "2023-04-24T00:00:00.000Z",
-          "wordCount": 1188,
-          "title": "Review: Lynching in Texas",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/q5plvymn/51681868212765.png"
-          }
-        },
-        {
-          "id": "6baa22b0-88c1-43f8-9311-ff1e9410eba6",
-          "author": "Roopika Risam",
-          "description": "Editors' note on the April 2023 issue of Reviews in Digital Humanities",
-          "link": "https://reviewsindh.pubpub.org/pub/editors-note-april-2023",
-          "publishedOn": "2023-04-24T00:00:00.000Z",
-          "wordCount": 475,
-          "title": "Editors' Note: April 2023",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/1rfv9k4q/11681869070626.png"
-          }
-        },
-        {
-          "id": "8f971d7b-3d08-43b9-a894-8ca317f7637c",
-          "author": "Jennifer Guiliano",
-          "description": "A review of Disability and Belonging, an ArcGIS StoryMap exploring the Camphill movement, directed by Katherine Sorrels",
-          "link": "https://reviewsindh.pubpub.org/pub/disability-and-belonging",
-          "publishedOn": "2023-04-24T00:00:00.000Z",
-          "wordCount": 1501,
-          "title": "Review: Disability and Belonging",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/9kxrkdys/01681868862874.png"
-          }
-        },
-        {
-          "id": "89e71c81-0c9f-4d88-9c99-7362764d92cb",
-          "author": "Robert Launay",
-          "description": "A review of the Islam Burkina Faso Collection, a database of materials on Islam, directed by Frédérick Madore",
-          "link": "https://reviewsindh.pubpub.org/pub/islam-burkina-faso-collection",
-          "publishedOn": "2023-04-24T00:00:00.000Z",
-          "wordCount": 1188,
-          "title": "Review: Islam Burkina Faso Collection",
-          "enclosure": {
-            "url": "https://assets.pubpub.org/owgzvzt9/01681868561177.png"
-          }
         }
       ]
     },
@@ -3299,15 +3229,6 @@
           "publishedOn": "2023-05-01T12:00:00.000Z",
           "wordCount": 1210,
           "title": "Manuscript Monday: Ms. Codex 1661 – Arts and sciences : chemistry. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17655",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 386, substantial sections from an illustrated treatise (called in English “Book of the balance of wisdom”) on the measurement of weight, with a historical introduction to theories of gravity and weighing in Greek and Arabic science; tablesContinue reading \"Manuscript Monday: LJS 386 – Kitāb Mīzān al-ḥikmah. = كتاب ميزان الحكمة. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/04/24/manuscript-monday-ljs-386-kitab-mizan-al-%e1%b8%a5ikmah-%d9%83%d8%aa%d8%a7%d8%a8-%d9%85%d9%8a%d8%b2%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d9%83%d9%85%d8%a9-video-orientation/",
-          "publishedOn": "2023-04-24T12:00:00.000Z",
-          "wordCount": 1267,
-          "title": "Manuscript Monday: LJS 386 – Kitāb Mīzān al-ḥikmah. = كتاب ميزان الحكمة. (Video Orientation)"
         }
       ]
     },
@@ -3316,6 +3237,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1966",
+          "author": "Alisa Grishin",
+          "description": "The following is an interview between Alisa Grishin, Artes Research intern 2022-2023, and Heike Pauli, BiblioTech Hackathon participant and MA student in linguistics. The hackathon took place in March 2023. It was a 10-day event and included a pre-hackathon orientation…\n\nContinue reading “Interview Series: In Conversation with BiblioTech Hackathon Participants”…",
+          "link": "https://scholarlytales.hcommons.org/2023/10/20/interview-series-in-conversation-with-bibliotech-hackathon-participants-3/",
+          "publishedOn": "2023-10-20T12:54:44.000Z",
+          "wordCount": 2873,
+          "title": "Interview Series: In Conversation with BiblioTech Hackathon Participants"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1960",
           "author": "Laura Mesotten",
@@ -5426,51 +5356,6 @@
           "publishedOn": "2023-04-25T11:57:41.000Z",
           "wordCount": 1589,
           "title": "MPhil"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/james-gabrillo/",
-          "author": null,
-          "description": "James Gabrillo is an assistant professor of music at the University of Texas at Austin. He is currently a faculty fellow at UT’s Humanities Institute Seminar on Digital Futures and Social Justice, where he is also principal investigator of the multimedia research initiative Sound Space Art Lab. James teaches courses on digital musicology, ethnography, and",
-          "link": "https://www.cdh.cam.ac.uk/about/people/james-gabrillo/",
-          "publishedOn": "2023-04-24T16:29:21.000Z",
-          "wordCount": 448,
-          "title": "James Gabrillo"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/tomasz-hollankek/",
-          "author": null,
-          "description": "Tomasz Hollanek is a design researcher working at the intersection of design theory, technology ethics, and critical artificial intelligence studies. Currently, he is a Postdoctoral Research Fellow at the Leverhulme Centre for the Future of Intelligence (LCFI) at Cambridge, where he is a part of the 'AI for Just and Sustainable Futures' project.' His ongoing research",
-          "link": "https://www.cdh.cam.ac.uk/about/people/tomasz-hollankek/",
-          "publishedOn": "2023-04-24T16:24:21.000Z",
-          "wordCount": 468,
-          "title": "Tomasz Hollankek"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/",
-          "publishedOn": "2023-04-24T14:56:08.000Z",
-          "wordCount": 569,
-          "title": "Homepage"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/data-schools-what-where-why/",
-          "author": null,
-          "description": "The Cambridge Data School is an intensive educational and practical journey that immerses students in the world of Data and Digital Humanities to help them boost their skills and careers. Since the first Cambridge Data School in 2019, our schools have expanded year upon year. We have now conducted nine Data Schools in two forms",
-          "link": "https://www.cdh.cam.ac.uk/about/news/data-schools-what-where-why/",
-          "publishedOn": "2023-04-24T13:45:27.000Z",
-          "wordCount": 633,
-          "title": "What is the Data School and why do it?"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/maya-indira-ganesh/",
-          "author": null,
-          "description": "Maya Indira Ganesh is a digital cultures theorist, researcher, and writer. Her work and collaborative practice are organised around bringing questions of power, justice, and global inequality together with those of knowledge, and the body. Her current research interests include the material-discursive shaping of AI in terms of its metaphors and epistemologies; automation and autonomous",
-          "link": "https://www.cdh.cam.ac.uk/about/people/maya-indira-ganesh/",
-          "publishedOn": "2023-04-24T12:58:56.000Z",
-          "wordCount": 383,
-          "title": "Maya Indira Ganesh"
         }
       ]
     },
