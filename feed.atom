@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-10-21T08:12:42.971Z</updated>
+    <updated>2023-10-22T08:12:12.895Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -188,6 +188,15 @@ C²DH Open Space (4th floor, Maison des Sciences humaines)
         <link href="https://www.cdh.cam.ac.uk/about/people/jacob-forward/"/>
         <updated>2023-10-19T07:39:41.000Z</updated>
         <summary type="html"><![CDATA[Jacob is a PhD student in the Faculty of History at Cambridge. His research focuses on the discourse of crisis in post-Cold War American politics, specifically the language and metaphors politicians use in connection with terrorism, immigration, natural disasters, and financial shocks. His method involves fine-tuning language models on distinct corpora of political speeches, and]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homepage]]></title>
+        <id>https://www.cdh.cam.ac.uk/</id>
+        <link href="https://www.cdh.cam.ac.uk/"/>
+        <updated>2023-10-18T15:58:41.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
@@ -7102,68 +7111,6 @@ Continue reading “Event: In-Person Meeting of DH (Usually Virtual) Discussion 
         <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that The Butter Museum has joined as our latest member.]]></summary>
         <author>
             <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The passing of Prof. Dino Buzzetti]]></title>
-        <id>1447 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2023/04/25/passing-prof-dino-buzzetti"/>
-        <updated>2023-04-25T17:31:40.000Z</updated>
-        <summary type="html"><![CDATA[The passing of Prof. Dino Buzzetti
-
-
-
-
-
-
-
-Dear colleagues, dear EADH community,
-It is with immense sadness that I must inform you of the passing of Prof. Dino Buzzetti on Sunday, 23 April. Dino was one of the most profound and insightful minds in the Digital Humanities, and his theoretical contributions have been a source of inspiration for many generations of scholars. Dino was a member of the Executive of EADH and President and co-founder of AIUCD, the Italian digital humanities association. AIUCD was the first national DH association in Europe to become an Associate Organization of EADH, also and especially at his behest. For me personally, he was a master and a friend whose passing opened a void that is difficult to fill.
-Fabio Ciotti
-Chair EADH Executive Committee]]></summary>
-        <author>
-            <name>Communication Coordinator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knight Lab JS and Storytelling Tools]]></title>
-        <id>http://digitalorientalist.com/?p=10389</id>
-        <link href="https://digitalorientalist.com/2023/04/25/knight-lab-js-and-storytelling-tools/"/>
-        <updated>2023-04-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Knight Lab, produced by Northwestern University, is a community of designers, developers, students, and educators working on experiments designed to …]]></summary>
-        <author>
-            <name>Busranur Bekman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities Research Software Engineering (RSE) Summer School 2023]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36442/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36442/"/>
-        <updated>2023-04-25T13:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Digital Humanities Research Software Engineering (RSE) Summer School Cambridge Digital Humanities is pleased to announce that registration is now open for the Digital Humanities & Research Software Engineering Summer School taking place on 24–25 July 2023 (online) and 27–28 July 2023 (Cambridge). The Summer School is co-organised by Cambridge Digital Humanities (Mary Chester-Kadwell), Edinburgh Centre]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPhil]]></title>
-        <id>https://www.cdh.cam.ac.uk/mphil-2/</id>
-        <link href="https://www.cdh.cam.ac.uk/mphil-2/"/>
-        <updated>2023-04-25T11:57:41.000Z</updated>
-        <summary type="html"><![CDATA[Come study with us, for an MPhil in Digital Humanities. Apply now!]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emerging Leaders Programme Scoping Study Launched]]></title>
-        <id>https://www.rluk.ac.uk/?p=13104</id>
-        <link href="https://www.rluk.ac.uk/emerging-leaders-prog-study/"/>
-        <updated>2023-04-25T09:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Evidence shows that there is a lack of diversity within the library workforce and this is particularly pronounced in management and leadership positions. This poses a great challenge across all sectors of the library profession. In response to this, we are pleased to announce the commencement of a research project commissioned to support the [...]
-The post Emerging Leaders Programme Scoping Study Launched appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
         </author>
     </entry>
     <entry>
