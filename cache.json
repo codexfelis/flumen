@@ -168,7 +168,17 @@
       "title": "Alabama Digital Humanities Center",
       "feedUrl": "https://adhc.lib.ua.edu/feed",
       "siteUrl": "https://adhc.lib.ua.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://adhc.lib.ua.edu/?p=1358",
+          "author": "adhcadmin",
+          "description": "Oct. 15-21  |  ADHC Newsletter |  Fall 2023  Join us for our programs & events this week! ADHC Sandbox Join us on Mondays and Fridays from 1—3 PM in the ADHC, Gorgas 1015, for unstructured work time where you can receive point-of-need contact with one of our DH specialists! #DropIn Lunch & Learn: An Introduction … \nRead more \"\"",
+          "link": "https://adhc.lib.ua.edu/1358-2/",
+          "publishedOn": "2023-10-23T14:46:36.000Z",
+          "wordCount": 246,
+          "title": "Untitled"
+        }
+      ]
     },
     {
       "title": "News – Alliance of Digital Humanities Organizations",
@@ -1173,15 +1183,6 @@
           "publishedOn": "2023-04-28T13:13:05.000Z",
           "wordCount": 488,
           "title": "Representative Poetry Online (RPO)"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=7888",
-          "author": "Tanya Rohrmoser",
-          "description": "Rachel Corbman shares her experience teaching “Queer Art and Archives,” a six-week information workshop she designed for Master of Information students at the University of Toronto.",
-          "link": "https://dhn.utoronto.ca/queer-art-and-archives-critical-dh-pedagogy-in-action/?utm_source=rss&utm_medium=rss&utm_campaign=queer-art-and-archives-critical-dh-pedagogy-in-action",
-          "publishedOn": "2023-04-26T20:16:39.000Z",
-          "wordCount": 1604,
-          "title": "Queer Art and Archives: Critical DH Pedagogy in Action"
         }
       ]
     },
@@ -3087,6 +3088,15 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=17910",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 398, a medical treatise in 50 chapters, 35 concerning reproduction and the final 15 addressing the soul and intellect from a neoplatonic perspective. Copy completed in Mamluk Syria or Iraq by ʻAbd al-Raḥmān ibn ʻAbd al-Salām al-ṢafūrīContinue reading \"Manuscript Monday: LJS 398 – Maqālah fī khalq al-insān. = مقالة في خلق الانسان. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/10/23/manuscript-monday-ljs-398-maqalah-fi-khalq-al-insan-%d9%85%d9%82%d8%a7%d9%84%d8%a9-%d9%81%d9%8a-%d8%ae%d9%84%d9%82-%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86-video-orientation/",
+          "publishedOn": "2023-10-23T13:00:00.000Z",
+          "wordCount": 1193,
+          "title": "Manuscript Monday: LJS 398 – Maqālah fī khalq al-insān. = مقالة في خلق الانسان. (Video Orientation)"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=17908",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 397, student lecture notes for the second level of instruction in astronomy at the university at Wittenberg during Philipp Melanchthon’s tenure on the theology faculty there, including discussion of spherical astronomy, atmospheric refraction, conversion of degrees intoContinue reading \"Manuscript Monday: LJS 397 – [Astronomy lecture notes]. (Video Orientation)\"",
@@ -3308,15 +3318,6 @@
           "publishedOn": "2023-05-09T13:55:36.000Z",
           "wordCount": 5329,
           "title": "Interview: Professor Fred Truyen in Conversation with Artes Research Intern Alisa Grishin"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1854",
-          "author": "Leah Budke",
-          "description": "Yes, you read it correctly; we are having our first in-person meeting! As the name suggests, the DH Virtual Discussion Group for ECRs in Belgium is usually a virtual event. We meet on a monthly basis during the academic year…\n\nContinue reading “Event: In-Person Meeting of DH (Usually Virtual) Discussion Group for ECRs in Belgium”…",
-          "link": "https://scholarlytales.hcommons.org/2023/04/27/event-in-person-meeting-of-dh-usually-virtual-discussion-group-for-ecrs-in-belgium/",
-          "publishedOn": "2023-04-27T10:40:01.000Z",
-          "wordCount": 2428,
-          "title": "Event: In-Person Meeting of DH (Usually Virtual) Discussion Group for ECRs in Belgium"
         }
       ]
     },
@@ -5302,24 +5303,6 @@
           "publishedOn": "2023-04-28T14:13:56.000Z",
           "wordCount": 787,
           "title": "Machine Learning Clinic Session – Accelerate Programme and Cambridge Digital Humanities"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36504/",
-          "author": null,
-          "description": "Vulnerability and Control: Queer Men Using Smartphones to Negotiate Their Cultures of Intimacy with Dr Jamie Hakim (King’s College London) Dr Jamie Hakim (King’s College London) will discuss queer men’s use of smartphones to negotiate their culture of intimacy, locating such practises in a historical conjuncture consumed by ‘poly-crisis’ (Tooze, 2021) and defined by a",
-          "link": "https://www.cdh.cam.ac.uk/events/36504/",
-          "publishedOn": "2023-04-27T11:15:30.000Z",
-          "wordCount": 464,
-          "title": "CDH Network | Technology & New Media Research"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36499/",
-          "author": null,
-          "description": "Digital technologies have become a deeply integrated aspect of our lives. From speaking to friends and ordering food to finding our way around, all our daily acts are now mediated by the digital. This deep integration promises to expand our agency, yet it also shapes and constrains it in ways that we may not recognise",
-          "link": "https://www.cdh.cam.ac.uk/events/36499/",
-          "publishedOn": "2023-04-27T10:13:32.000Z",
-          "wordCount": 641,
-          "title": "Hyperdigital Designs Workshop"
         }
       ]
     },
@@ -6118,6 +6101,15 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=14249",
+          "author": "Melanie Cheung",
+          "description": "Developing sustainable libraries: from design to user engagement - 26 October This event will explore how research libraries are currently working towards meeting their sustainability goals, taking into account issues ranging from the design of library buildings to how they engage with users through space. Meeting venue: Woburn Suite, Senate House  [...]\nThe post RLUK Space Event – Developing sustainable libraries: from design to user engagement appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk-space-sustainable-libraries/",
+          "publishedOn": "2023-10-23T15:17:48.000Z",
+          "wordCount": 2238,
+          "title": "RLUK Space Event – Developing sustainable libraries: from design to user engagement"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=14206",
           "author": "Melanie Cheung",
