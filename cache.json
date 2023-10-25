@@ -1174,15 +1174,6 @@
           "publishedOn": "2023-07-27T13:27:35.000Z",
           "wordCount": 568,
           "title": "Call for Applications: Critical DH Co-Working Space"
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=7972",
-          "author": "Astrid Chandler",
-          "description": "A web anthology of 4,800 poems in English and French by over 700 poets spanning 1400 years",
-          "link": "https://dhn.utoronto.ca/representative-poetry-online-rpo-2/?utm_source=rss&utm_medium=rss&utm_campaign=representative-poetry-online-rpo-2",
-          "publishedOn": "2023-04-28T13:13:05.000Z",
-          "wordCount": 488,
-          "title": "Representative Poetry Online (RPO)"
         }
       ]
     },
@@ -1403,15 +1394,6 @@
           "publishedOn": "2023-05-05T08:03:05.011Z",
           "wordCount": 1249,
           "title": "W1-Professur für Digitale Literatur und Methoden (Tenure Track) Friedrich-Alexander-Universität Erlangen-Nürnberg"
-        },
-        {
-          "id": "node/896",
-          "author": "434",
-          "description": "Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto \"Anything Goes?!\" vom 4. bis 6. Oktober 2023 in Tübingen statt. \nDer Call for Papers für die …",
-          "link": "https://dig-hum.de/aktuelles/forge23-verl%C3%A4ngerung-des-call-for-papers-zum-15052023",
-          "publishedOn": "2023-04-28T11:22:31.000Z",
-          "wordCount": 869,
-          "title": "FORGE23: Verlängerung des Call for Papers bis zum 15.05.2023"
         }
       ]
     },
@@ -1563,6 +1545,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=11201",
+          "author": "soniwadhwa",
+          "description": "P G Sindhi Library is an archive I built to make sense of Sindhi books I found in someone else’s …",
+          "link": "https://digitalorientalist.com/2023/10/24/p-g-sindhi-library-a-digital-archive-for-sindhi-writing-published-in-post-partition-india-2/",
+          "publishedOn": "2023-10-24T13:00:00.000Z",
+          "wordCount": 1503,
+          "title": "P G Sindhi Library: A Digital Archive for Sindhi Writing Published in Post-Partition India"
+        },
         {
           "id": "http://digitalorientalist.com/?p=11290",
           "author": "Anaïs Wion",
@@ -1805,15 +1796,6 @@
           "publishedOn": "2023-05-02T19:00:00.000Z",
           "wordCount": 1762,
           "title": "A Guide for Using the New Testament Virtual Manuscript Room (Part 2)"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=10269",
-          "author": "The Digital Orientalist",
-          "description": "This is a guest post by Laurent Van Cutsem (Ghent University). Part II: The Database of Medieval Chinese Texts: A Critical …",
-          "link": "https://digitalorientalist.com/2023/04/28/working-title-the-database-of-medieval-chinese-texts-a-critical-overview-part-two/",
-          "publishedOn": "2023-04-28T13:00:00.000Z",
-          "wordCount": 2778,
-          "title": "The Database of Medieval Chinese Texts: A Critical Overview (part two)"
         }
       ]
     },
@@ -2268,6 +2250,15 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1267 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Wednesday, November 8, 2023 - 12:00pm\n\n\n\nVan Pelt-Dietrich Library Center\n\n\n\nPart 1: Roundtable\nDigital Publishing in Dialogue: Quire, Manifold, and Contemporary Publishing\n12:00–1:00 p.m.\nClass of 1978 Orrery Pavilion, Van Pelt-Dietrich Library Center\nLunch will be provided. Register Here\n\nThis roundtable conversation brings together the perspectives of publishers, editors, and authors around the topic of born-digital, multimodal publishing paths, focusing on the digital publishing platforms Quire (Getty) and Manifold (Cuny/University of Minnesota Press). Speakers include Matthew K. Gold (CUNY Graduate Center), Katie Rawson (Annenberg School for Communication), and Chris Diaz (Northwestern University Libraries).\nThe unique affordances of digital publishing enable authors to advance their …",
+          "link": "https://pricelab.sas.upenn.edu/events/day-digital-publishing",
+          "publishedOn": "2023-10-24T14:46:25.000Z",
+          "wordCount": 888,
+          "title": "A Day of Digital Publishing"
+        },
         {
           "id": "1266 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
@@ -3221,6 +3212,15 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=1970",
+          "author": "Rebecca Burke",
+          "description": "Does your (collaborative) research project involve working with a lot of data? Is your data complex and does it contain different types of entities (persons, places, events, …)? Do you have trouble keeping an overview of the amount of data…\n\nContinue reading “Training: Relational Databases”…",
+          "link": "https://scholarlytales.hcommons.org/2023/10/24/training-relational-databases/",
+          "publishedOn": "2023-10-24T14:49:51.000Z",
+          "wordCount": 1915,
+          "title": "Training: Relational Databases"
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=1966",
           "author": "Alisa Grishin",
           "description": "The following is an interview between Alisa Grishin, Artes Research intern 2022-2023, and Heike Pauli, BiblioTech Hackathon participant and MA student in linguistics. The hackathon took place in March 2023. It was a 10-day event and included a pre-hackathon orientation…\n\nContinue reading “Interview Series: In Conversation with BiblioTech Hackathon Participants”…",
@@ -3424,6 +3424,15 @@
       "siteUrl": "https://uk.caa-international.org",
       "articles": [
         {
+          "id": "https://sites.caa-international.org/uk/?p=1295",
+          "author": "Doug Rocks-Macqueen",
+          "description": "The CAAUK conference focuses on quantitative methods and computer applications in heritage.  The first day of the conference (November 24th) will be concurrent sessions of presentations, the CAAUK AGM, a workshop and evening social, at the Augustine United Church (41 … Continue reading →",
+          "link": "https://uk.caa-international.org/2023/10/24/caauk-2023-tickets-and-schedule/",
+          "publishedOn": "2023-10-24T11:31:54.000Z",
+          "wordCount": 503,
+          "title": "CAAUK 2023: Tickets and Schedule"
+        },
+        {
           "id": "https://sites.caa-international.org/uk/?p=1278",
           "author": "Doug Rocks-Macqueen",
           "description": "The organisers of CAA-UK 2023 would like to invite papers and posters for the 2023 meeting, to be held in Edinburgh AND Online, at Augustine United Church, 41-43 George IV Bridge, EH1 1EL, on the 24th-25th November, 2023. The use … Continue reading →",
@@ -3542,6 +3551,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4647 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The second CONDE workshop takes place on 30 November and 1 December 2023 at the Black Box, Maison des Sciences humaines, University of Luxembourg, Belval Campus.\nIf you are interested in participating, please contact Tessy Delledera: tessy.delledera@uni.lu\n \nProgramme\nThursday, 30 November\n14.00    \n \nWelcome\n \n\n\n14.30\n \nPanel 1 (Chair: Frank Trentmann)\n \n\n\n \nDeindustrialization and consumer society. Producers, trade and consumer culture\nChristian Marx (Commentator: Christian Kleinschmidt)\n \n\n\n \nDeindustrialization and Adult Education: Politics, Learning Opportunities and Participation\nJonas Fey (Commentator: Andreas Martin)\n \n\n\n16.00\n \nCoffee break\n \n\n\n16.30\n \nPanel 2 (Chair: Matthew Worley)\n \n\n\n \nDispositives of Deindustrialization in Pop History: Image Production in the Face of Structur…",
+          "link": "https://www.c2dh.uni.lu/events/workshop-confronting-decline-challenges-deindustrialisation-western-societies-1970s",
+          "publishedOn": "2023-10-24T12:49:53.000Z",
+          "wordCount": 473,
+          "title": "Workshop 'Confronting Decline: Challenges of Deindustrialisation in Western Societies Since the 1970s'"
+        },
         {
           "id": "4644 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -3774,6 +3792,15 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/37274/",
+          "author": null,
+          "description": "An online public event convened by members of the (Anti) Colonial Archives Working Group at the Cambridge Cultural Heritage Data School. The global majority have often faced the historical erasure of cultural heritage. This public event seeks to open the conversation by presenting initiatives already combating that erasure, showcasing projects that are actively working to",
+          "link": "https://www.cdh.cam.ac.uk/events/37274/",
+          "publishedOn": "2023-10-24T10:30:17.000Z",
+          "wordCount": 1011,
+          "title": "Utopian Cycles in Archiving Practices: Past, Present, and Future Histories"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/jacob-forward/",
           "author": null,
@@ -5294,15 +5321,6 @@
           "publishedOn": "2023-05-02T15:49:20.000Z",
           "wordCount": 756,
           "title": "CDH Network | CamTech Media: The History and Context of Online Disinformation"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36509/",
-          "author": null,
-          "description": "This clinic is open to graduate students and staff at the University of Cambridge. It is running as a drop-in on Wednesday, 17th May from 2pm - 4pm in the Alison Richard Building Foyer and SG1 and you’re welcome to just turn up on the day. If you can’t make that time slot or you’d",
-          "link": "https://www.cdh.cam.ac.uk/events/36509/",
-          "publishedOn": "2023-04-28T14:13:56.000Z",
-          "wordCount": 787,
-          "title": "Machine Learning Clinic Session – Accelerate Programme and Cambridge Digital Humanities"
         }
       ]
     },
