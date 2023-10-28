@@ -483,7 +483,17 @@
       "title": "CUNY Digital Humanities Initiative",
       "feedUrl": "https://cunydhi.commons.gc.cuny.edu/feed",
       "siteUrl": "https://cunydhi.commons.gc.cuny.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cunydhi.commons.gc.cuny.edu/?p=1984",
+          "author": "Tuka Al-Sahlani",
+          "description": "Are you working on a digital humanities project or query at CUNY? Then sign up […]",
+          "link": "https://cunydhi.commons.gc.cuny.edu/2023/10/27/call-for-participation-dhi-lightning-talks-fall-2023/",
+          "publishedOn": "2023-10-27T18:48:25.000Z",
+          "wordCount": 973,
+          "title": "Call for Participation: DHI Lightning Talks Fall 2023"
+        }
+      ]
     },
     {
       "title": "Digital Humanities Initiative",
@@ -1555,6 +1565,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=11352",
+          "author": "Jonathan Robker",
+          "description": "The Digital Orientalist (DO) has been publishing for roughly a decade. In that time it has undergone many changes and …",
+          "link": "https://digitalorientalist.com/2023/10/27/editors-digest-october-2023-middle-eastern-and-african-studies/",
+          "publishedOn": "2023-10-27T13:00:00.000Z",
+          "wordCount": 1334,
+          "title": "Editor’s Digest October 2023: Middle Eastern and African Studies"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=11201",
           "author": "soniwadhwa",
           "description": "P G Sindhi Library is an archive I built to make sense of Sindhi books I found in someone else’s …",
@@ -2517,6 +2536,15 @@
       "siteUrl": "https://readcoop.eu/",
       "articles": [
         {
+          "id": "https://readcoop.eu/?p=33685",
+          "author": "Helene",
+          "description": "Following the launch of the new and improved web app, we are able to reveal more about the new generation of trainable layout technology. With the previously introduced trainable Field Models, it will be much easier to process documents with more complex layouts, such as newspapers, periodicals, log books, legal records or forms.  But what […]\nThe post Introducing Table Models – Trainable Layout AI in Transkribus appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/introducing-table-models-trainable-layout-ai-in-transkribus/",
+          "publishedOn": "2023-10-27T08:57:48.000Z",
+          "wordCount": 2396,
+          "title": "Introducing Table Models – Trainable Layout AI in Transkribus"
+        },
+        {
           "id": "https://readcoop.eu/?p=33632",
           "author": "Helene",
           "description": "Ever wondered whether your grandfather’s old diaries or the ancient manuscripts in your library hold any cultural significance? Cultural heritage, encapsulating the richness of our past, unveils the profound meaning woven into these artefacts. If you are interested in history, you have probably come across the term ‘cultural heritage’ more than once. Most people think […]\nThe post What is cultural heritage? appeared first on READ-COOP.",
@@ -3203,15 +3231,6 @@
           "publishedOn": "2023-05-08T12:00:00.000Z",
           "wordCount": 1173,
           "title": "Manuscript Monday: LJS 387 – al-Qāmūs al-muḥīṭ. = القاموس المحيط. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17658",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1661, a collection of recipes (numbered 1-253 with many errors) for alchemical and practical applications such as making candles, butter, varnish, many types of ink (including a recipe for “magic ink”), sealant for waterproofing shoes, cementContinue reading \"Manuscript Monday: Ms. Codex 1661 – Arts and sciences : chemistry. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/05/01/manuscript-monday-ms-codex-1661-arts-and-sciences-chemistry-video-orientation/",
-          "publishedOn": "2023-05-01T12:00:00.000Z",
-          "wordCount": 1210,
-          "title": "Manuscript Monday: Ms. Codex 1661 – Arts and sciences : chemistry. (Video Orientation)"
         }
       ]
     },
@@ -3220,6 +3239,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1975",
+          "author": "Alisa Grishin",
+          "description": "The following is an interview between Alisa Grishin, Artes Research intern 2022-2023, and Sandra Elpers, BiblioTech Hackathon participant and Bachelor student in Theology. The hackathon took place in March 2023. It was a 10-day event and included a pre-hackathon orientation…\n\nContinue reading “Interview Series: In Conversation with BiblioTech Hackathon Participants”…",
+          "link": "https://scholarlytales.hcommons.org/2023/10/27/interview-series-in-conversation-with-bibliotech-hackathon-participants-4/",
+          "publishedOn": "2023-10-27T14:51:55.000Z",
+          "wordCount": 2579,
+          "title": "Interview Series: In Conversation with BiblioTech Hackathon Participants"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1970",
           "author": "Rebecca Burke",
