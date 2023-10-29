@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-10-28T08:12:12.552Z</updated>
+    <updated>2023-10-29T08:12:44.117Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -7134,16 +7134,6 @@ The post Ethiopic, Hebrew, Devanagari, and Balinese: 4 public AI models for tran
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide for Using the New Testament Virtual Manuscript Room (Part 2)]]></title>
-        <id>http://digitalorientalist.com/?p=10537</id>
-        <link href="https://digitalorientalist.com/2023/05/02/a-guide-for-using-the-new-testament-virtual-manuscript-room-part-2/"/>
-        <updated>2023-05-02T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In my previous post on how to use the New Testament Virtual Manuscript Room (NTVMR), I walked through the process …]]></summary>
-        <author>
-            <name>Zach Butler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CDH Network | CamTech Media: The History and Context of Online Disinformation]]></title>
         <id>https://www.cdh.cam.ac.uk/events/36519/</id>
         <link href="https://www.cdh.cam.ac.uk/events/36519/"/>
@@ -7172,36 +7162,6 @@ Zoom
 Duration: 10:00 am to 10:30 am]]></summary>
         <author>
             <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing a New CLARIN Resource Family: Corpus Query Tools]]></title>
-        <id>5908 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/introducing-new-clarin-resource-family-corpus-query-tools"/>
-        <updated>2023-05-02T11:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Introducing a New CLARIN Resource Family: Corpus Query Tools
-
-            
-
-
-Written by Martin Wynne, Lancaster University, recipient of the CLARIN Resource Families Project Funding initiative.
-The CLARIN Resource Families (CRF) provide user-friendly overviews of available language resources in the CLARIN infrastructure for researchers from the digital humanities, social sciences and human language technologies. Many CRF are datasets of various types, but an increasing number now focus on software applications and tools.
- 
-The new Corpus Query Resource Family is for software applications which allow searching, exploring, analysing and visualising linguistic corpora and texts. Text and corpus analysis lie at the heart of digital scholarship in the humanities and social sciences, and a wide range of software tools are available in this domain. These software tools represent prime examples of the ways in which language technologies can support research across a range of disciplines, and they are therefore central to CLARIN’s mission.
- 
-The Corpus Query Resource Family includes both applications for installation on the users' own computer (desktop) and those accessible via a web browser (online), with some key information to help users to find them and choose the appropriate tool for their particular research goal. Corpus Query Tools are defined here as ones that allow the user to search and explore a text or corpus, and can produce concordances, wordlists and other means of understanding the the texts, such as concordances, clusters and keywords.
- 
-Resource Families include all tools in this domain which are useful to researchers (not only 'CLARIN tools'), so please get in touch if your favourite software application or online interface is not yet included. For comments, changes or additions, please email resource-families@clarin.eu.
- 
-More information:
-CLARIN Resource Families
-CLARIN Café on Online and Desktop Tools for Querying a Language Corpus 
-Blog post about the Café
-
-      Elisa Gorgaini
- 2 May 2023]]></summary>
-        <author>
-            <name>Elisa Gorgaini</name>
         </author>
     </entry>
     <entry>
