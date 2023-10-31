@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-10-30T08:14:11.961Z</updated>
+    <updated>2023-10-31T08:14:00.624Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot der pagina GmbH: Full Stack Software Entwickler (w/d/m)]]></title>
+        <id>node/923</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-der-pagina-gmbh-full-stack-software-entwickler-wdm"/>
+        <updated>2023-10-31T08:13:25.303Z</updated>
+        <summary type="html"><![CDATA[Die pagina GmbH ist ein Dienstleistungsunternehmen mit spezieller Ausrichtung auf die digitalen Anforderungen in den Bereichen Bildung, Kultur und Wissenschaft. Zu unseren Kunden…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot der pagina GmbH: Software Entwickler (d/m/w)]]></title>
+        <id>node/924</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-der-pagina-gmbh-software-entwickler-dmw"/>
+        <updated>2023-10-31T08:13:25.267Z</updated>
+        <summary type="html"><![CDATA[Historisch Programmieren. Ein Schreiber und eine junge Frau in einem klösterlichen Setting um eine Tastatur herum Die pagina GmbH ist ein Dienstleistungsunternehmen mit spezieller…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 403 – [Alchemical compendium]. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=17913</id>
+        <link href="https://schoenberginstitute.org/2023/10/30/manuscript-monday-ljs-403-alchemical-compendium-video-orientation/"/>
+        <updated>2023-10-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 403, the working notes of an alchemist, who signs himself as the compiler and composer of the manuscript. Includes a commentary on an unknown text and references to the concept of balance found in the work ofContinue reading "Manuscript Monday: LJS 403 – [Alchemical compendium]. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training: Nodegoat Relational Database Platform (Supported by CLARIAH-VL and GhentCDH)]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=1979</id>
+        <link href="https://scholarlytales.hcommons.org/2023/10/30/training-nodegoat-relational-database-platform-supported-by-clariah-vl-and-ghentcdh/"/>
+        <updated>2023-10-30T09:40:54.000Z</updated>
+        <summary type="html"><![CDATA[On 16 November, CLARIAH-VL and Ghent Centre for Digital Humanities (Ghent University) are hosting a workshop on Nodegoat, the relational database platform. The workshops will be given by the developers of the platform – Lab1100. Nodegoat is an object oriented…
+
+Continue reading “Training: Nodegoat Relational Database Platform (Supported by CLARIAH-VL and GhentCDH)”…]]></summary>
+        <author>
+            <name>Leah Budke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Museums and Conflict: Speculative Political Designs]]></title>
+        <id>4649 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/museums-and-conflict-speculative-political-designs"/>
+        <updated>2023-10-30T08:58:47.000Z</updated>
+        <summary type="html"><![CDATA[This talk is part of the conference on Agonism: Conflicting Interpretations of the Past, Participation Practices, and Transforming Cultural Venues , 7-8 December 2023.
+ 
+
+
+
+ 
+Abstract
+Museums expect to be called out, there is inbuilt conflict. Museums are forged in a ‘cunning’ liberal constitutional structure (Povinelli 2002): to conserve for future generations; to make collections accessible to everyone now; to represent the world; to shape the world. Ideals so big they can never be achieved, creating a constitutive deficit. Ideals which also are often in tension, requiring endless negotiation.
+‘Museum constitution’ is also forged in creating norms. In ruling certain ideas, perspectives and practices as unsayable, beyond that which can be contained and constitutionally metabolised.
+In thi…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stellenangebot an der Zentralbibliothek Zürich: Applied Machine Learning Engineer (80%)]]></title>
         <id>node/922</id>
@@ -14,6 +75,27 @@
         <summary type="html"><![CDATA[Die Zentralbibliothek Zürich ist Kantons-, Stadt- und Universitätsbibliothek und eine der grössten Bibliotheken der Schweiz. Als öffentliche Stiftung wird sie von Stadt und Kanton…]]></summary>
         <author>
             <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agonism: Conflicting Interpretations of the Past, Participation Practices, and Transforming Cultural Venues]]></title>
+        <id>4648 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/agonism-conflicting-interpretations-past-participation-practices-and-transforming-cultural"/>
+        <updated>2023-10-30T07:41:06.000Z</updated>
+        <summary type="html"><![CDATA[For two days, presenters from public history, memory studies, museology, and participatory design will trace intersections of agonism, constituent power, and horizontal politics to activate their potential for transforming institutionalised practices. From digitisation practices and virtual exhibitions, to navigating contested history and memory discourses, to mobilising craft and counter-framing design practices, the case studies demonstrate the breadth of opportunities to inform a participatory agonistic practice impacting mid to long-term strategies in cultural venues.
+7-8 December 2023
+In-person presentations. Online attendance
+Registration for Day 1
+Registration for Day 2
+Please register to receive the Webex link.
+ 
+Programme
+Thursday, 7 December 2023
+09.00     
+ 
+Welcome and introduc…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>
@@ -7149,27 +7231,6 @@ In 2016, I started harvesting the index data from the NSW State Archives website
 W1-Professur für Digitale…]]></summary>
         <author>
             <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libraries call on academic colleagues to help shift to full open academic publishing]]></title>
-        <id>https://www.rluk.ac.uk/?p=13116</id>
-        <link href="https://www.rluk.ac.uk/libraries-call-on-academic-colleagues-to-help-shift-to-full-open-academic-publishing/"/>
-        <updated>2023-05-04T10:20:24.000Z</updated>
-        <summary type="html"><![CDATA[SCONUL and RLUK welcomed the recent announcement of an agreement with Springer Nature1 as the best outcome that could reasonably have been achieved but are calling on academic colleagues to work with the library community to deliver the cultural shift needed to make academic publishing sustainable and affordable. The deal is the result of detailed, [...]
-The post Libraries call on academic colleagues to help shift to full open academic publishing appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADHO’nun Kesişen Kapsayıcılık Görev Gücü Duyurusu]]></title>
-        <id>https://adho.org/?p=1958</id>
-        <link href="https://adho.org/2023/05/04/adhonun-kesisen-kapsayicilik-gorev-gucu-duyurusu/"/>
-        <updated>2023-05-04T07:33:21.000Z</updated>
-        <summary type="html"><![CDATA[ADHO’nun Kesişen Kapsayıcılık Görev Gücü (önceki adıyla Irkçılık Karşıtı Görev Gücü ), ADHO ve faaliyetleriyle bağlantılı daha geniş bir DH (Digital Humanities (DH) – Dijital Beşeri Bilimler) topluluğu içindeki sistematik eşitsizlikleri ele almak için acil bir ihtiyaç olarak ortaya çıkmıştır. Bu faaliyetler mevcut küresel bağlamlarda kontrolsüz bir tekno-pozitivizm ile gittikçe şiddetlenen ırk, sınıf, cinsiyet, yetenek,… Read More »ADHO’nun Kesişen Kapsayıcılık Görev Gücü Duyurusu]]></summary>
-        <author>
-            <name>Erdal Ayan</name>
         </author>
     </entry>
     <entry>
