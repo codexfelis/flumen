@@ -1422,15 +1422,6 @@
           "publishedOn": "2023-05-12T08:03:17.794Z",
           "wordCount": 1363,
           "title": "Musikwissenschaftler*in mit DH-Bezug für das Nikolaus Harnoncourt Zentrum (w/m/d)"
-        },
-        {
-          "id": "node/897",
-          "author": "434",
-          "description": "Die Philosophische Fakultät und Fachbereich Theologie besetzt im Department Digital Humanities and Social Studies zum frühestmöglichen Zeitpunkt eine\nW1-Professur für Digitale…",
-          "link": "https://dig-hum.de/aktuelles/w1-professur-f%C3%BCr-digitale-literatur-und-methoden-tenure-track-friedrich-alexander",
-          "publishedOn": "2023-05-05T08:03:05.011Z",
-          "wordCount": 1249,
-          "title": "W1-Professur für Digitale Literatur und Methoden (Tenure Track) Friedrich-Alexander-Universität Erlangen-Nürnberg"
         }
       ]
     },
@@ -1582,6 +1573,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=10983",
+          "author": "maddalena poli",
+          "description": "We emerging scholars have all been there. It was either when applying for a job, or after starting a new …",
+          "link": "https://digitalorientalist.com/2023/10/31/resource-for-teaching-asia/",
+          "publishedOn": "2023-10-31T13:00:00.000Z",
+          "wordCount": 1025,
+          "title": "Resource for Teaching Asia"
+        },
         {
           "id": "http://digitalorientalist.com/?p=11352",
           "author": "Jonathan Robker",
@@ -1824,15 +1824,6 @@
           "publishedOn": "2023-05-09T13:00:00.000Z",
           "wordCount": 1841,
           "title": "Can I automate the boring stuff with ChatGPT?"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=10556",
-          "author": "Lu Wang",
-          "description": "The technology of Natural Language Processing (NLP) identifies named entities, which are words or phrases referring to specific people, places, …",
-          "link": "https://digitalorientalist.com/2023/05/05/a-review-of-markus-more-than-marking-up-classical-chinese/",
-          "publishedOn": "2023-05-05T13:00:00.000Z",
-          "wordCount": 1499,
-          "title": "A Review of MARKUS: More than Marking Up Classical Chinese"
         }
       ]
     },

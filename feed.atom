@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-10-31T08:14:00.624Z</updated>
+    <updated>2023-11-01T08:14:00.829Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Resource for Teaching Asia]]></title>
+        <id>http://digitalorientalist.com/?p=10983</id>
+        <link href="https://digitalorientalist.com/2023/10/31/resource-for-teaching-asia/"/>
+        <updated>2023-10-31T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We emerging scholars have all been there. It was either when applying for a job, or after starting a new …]]></summary>
+        <author>
+            <name>maddalena poli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stellenangebot der pagina GmbH: Full Stack Software Entwickler (w/d/m)]]></title>
         <id>node/923</id>
@@ -7210,27 +7220,6 @@ In 2016, I started harvesting the index data from the NSW State Archives website
         <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks nominations of committed individuals who would like to actively help further DH in all its breadth and diversity for the following volunteer positions: All of these positions have a global reach, but involve working closely with small, supportive groups of volunteers, including the ADHO Constituent Organization Board… Read More »Join or Nominate Someone for the ADHO Executive Board and Committees]]></summary>
         <author>
             <name>hannah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Review of MARKUS: More than Marking Up Classical Chinese]]></title>
-        <id>http://digitalorientalist.com/?p=10556</id>
-        <link href="https://digitalorientalist.com/2023/05/05/a-review-of-markus-more-than-marking-up-classical-chinese/"/>
-        <updated>2023-05-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The technology of Natural Language Processing (NLP) identifies named entities, which are words or phrases referring to specific people, places, …]]></summary>
-        <author>
-            <name>Lu Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W1-Professur für Digitale Literatur und Methoden (Tenure Track) Friedrich-Alexander-Universität Erlangen-Nürnberg]]></title>
-        <id>node/897</id>
-        <link href="https://dig-hum.de/aktuelles/w1-professur-f%C3%BCr-digitale-literatur-und-methoden-tenure-track-friedrich-alexander"/>
-        <updated>2023-05-05T08:03:05.011Z</updated>
-        <summary type="html"><![CDATA[Die Philosophische Fakultät und Fachbereich Theologie besetzt im Department Digital Humanities and Social Studies zum frühestmöglichen Zeitpunkt eine
-W1-Professur für Digitale…]]></summary>
-        <author>
-            <name>434</name>
         </author>
     </entry>
     <entry>
