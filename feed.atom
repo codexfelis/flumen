@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-01T08:14:00.829Z</updated>
+    <updated>2023-11-02T08:13:40.003Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Participate in the direction of DH: apply for our open ACH Officer role!]]></title>
+        <id>https://ach.org/?p=2502</id>
+        <link href="https://ach.org/blog/2023/10/31/participate-in-the-direction-of-dh-apply-for-our-open-ach-officer-role/"/>
+        <updated>2023-10-31T15:51:14.000Z</updated>
+        <summary type="html"><![CDATA[The ACH seeks someone to participate in ACH’s leadership and the broader work of the ACH Executive Council, while serving as a key contributor to keeping the ACH running as ACH Deputy Secretary/Secretary. You are very likely eligible! Our key needs are willingness to contribute effort, and enthusiasm for involvement with DH and the ACH—whether…Continue reading.]]></summary>
+        <author>
+            <name>Amanda Visconti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resource for Teaching Asia]]></title>
         <id>http://digitalorientalist.com/?p=10983</id>
@@ -7210,16 +7220,6 @@ The post Digging into Datasets in <i>Gale Digital Scholar Lab</i> appeared first
 In 2016, I started harvesting the index data from the NSW State Archives website to make each dataset available as an easily downloadable CSV file. In 2019, changes to the website made it impossible to access the complete indexes, so I was unable to…]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join or Nominate Someone for the ADHO Executive Board and Committees]]></title>
-        <id>https://adho.org/?p=1962</id>
-        <link href="https://adho.org/2023/05/05/join-eb-committees/"/>
-        <updated>2023-05-05T14:28:05.000Z</updated>
-        <summary type="html"><![CDATA[The Alliance of Digital Humanities Organizations (ADHO) seeks nominations of committed individuals who would like to actively help further DH in all its breadth and diversity for the following volunteer positions: All of these positions have a global reach, but involve working closely with small, supportive groups of volunteers, including the ADHO Constituent Organization Board… Read More »Join or Nominate Someone for the ADHO Executive Board and Committees]]></summary>
-        <author>
-            <name>hannah</name>
         </author>
     </entry>
     <entry>
