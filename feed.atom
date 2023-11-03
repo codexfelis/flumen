@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-02T08:13:40.003Z</updated>
+    <updated>2023-11-03T08:13:56.041Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manually Annotated Corpora for Teaching and Learning Purposes of Brazilian Portuguese, Dutch, Estonian, and Slovene – the CrowLL project]]></title>
+        <id>5980 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/manually-annotated-corpora-teaching-and-learning-purposes-brazilian-portuguese-dutch-estonian"/>
+        <updated>2023-11-02T08:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Manually Annotated Corpora for Teaching and Learning Purposes of Brazilian Portuguese, Dutch, Estonian, and Slovene – the CrowLL project
+
+            
+By Tanara Zingano Kuhn, Rina Zviel Girshin, Špela Arhar Holdt, Kristina Koppel, Iztok Kosem, Carole Tiberius, and Ana R. Luís
+ 
+In February 2019, members of the enetCollect COST Action gathered in Brussels for the first edition of the Crowdfest, a hackathon for the development of projects for language learning using crowdsourcing techniques. At this event, the present project leader, together with a researcher who had already expressed interest in collaborating, pitched her idea to use crowdsourcing to remove offensive and/or sensitive content from corpora in order to find a more adequate process of making pedagogical corpora that could be u…]]></summary>
+        <author>
+            <name>Karina Berger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Participate in the direction of DH: apply for our open ACH Officer role!]]></title>
         <id>https://ach.org/?p=2502</id>
