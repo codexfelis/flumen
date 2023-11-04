@@ -292,15 +292,6 @@
           "publishedOn": "2023-05-09T14:34:53.000Z",
           "wordCount": 133,
           "title": "ADHO Podcast, Episode 4 is on air."
-        },
-        {
-          "id": "https://adho.org/?p=1972",
-          "author": "Alexandra Núñez",
-          "description": "English | Español | Italiano | Türkçe 数字人文组织联盟的 交叉性融合工作组（最初是反种族主义工作组）的出现，是为了解决​​数字人文组织联盟内部以及与其活动相关的更广泛的数字人文社区的系统性不平等问题。* 这些问题包括但不限于种族、阶级、性别、健全、种姓、部落、性取向、国籍、地理位置、宗教、健康、语言或其他社会类别。它们往往因当前全球背景下无限制的技术实证主义而变得更加严重。特别工作组延伸和扩大了由 “黑人的命也是命”、”结构性种族主义 “和 “建制暴力 “声明发起的对话，并试图承认、倾听和理解那些被边缘化的人、组织和社区的（声音。工作组的成员代表了来自不同地点和实践社区的数字人文学科。工作组成员的生活经历和立场截然不同但又相辅相成，这促使我们在数字媒介空间内外倡导一种自我反思和批判性的公平、多样性和包容原则、反歧视和社会正义事业。 交叉性融合工作组的目标包括： 了解更多关于交叉性融合工作组的信息。 我们正在征求全球数字人文社区的意见。问题、评论和想法可以发到 edi@adho.org。 __________  *数字人文组织联盟的主要活动是举办国际DH会议，赞助期刊，并提供奖励和助学金",
-          "link": "https://adho.org/2023/05/08/%e4%b8%ad%e6%96%87/",
-          "publishedOn": "2023-05-08T14:38:53.000Z",
-          "wordCount": 116,
-          "title": "数字人文组织联盟(ADHO)的交叉性融合工作组成立宣言"
         }
       ]
     },
@@ -534,6 +525,105 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=135325",
+          "author": "Rachel Starry",
+          "description": "A recently published paper in the Journal of Open Humanities Data titled “Datasheets for Digital Cultural Heritage Data” explores the complexities of datasets created from digital cultural heritage collections, with the purpose of providing recommended standards for documenting these datasets. Their interest in better describing these kinds of datasets relates primarily to the Collections as ...read more",
+          "link": "https://dhandlib.org/2023/11/03/recommended-datasheets-for-digital-cultural-heritage-data/?utm_source=rss&utm_medium=rss&utm_campaign=recommended-datasheets-for-digital-cultural-heritage-data",
+          "publishedOn": "2023-11-03T17:37:29.000Z",
+          "wordCount": null,
+          "title": "RECOMMENDED: Datasheets for Digital Cultural Heritage Data"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135328",
+          "author": "Rachel Starry",
+          "description": "An interdisciplinary team of undergraduate students, library workers, and faculty from Carleton College and Grinnell College are using 3D modeling and VR technology to explore the social and cultural roles of Viking longships, in collaboration with museum professionals from the Viking Museum Haithabu and the Historical and Cultural Society of Clay County. The Virtual Viking ...read more",
+          "link": "https://dhandlib.org/2023/11/03/project-virtual-viking-longship-project/?utm_source=rss&utm_medium=rss&utm_campaign=project-virtual-viking-longship-project",
+          "publishedOn": "2023-11-03T17:36:55.000Z",
+          "wordCount": null,
+          "title": "PROJECT: Virtual Viking Longship Project"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135348",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "Conveners of the Sixth Annual Conference on Digital Humanities and Digital History, have released their call for proposals. The Conference, to take place in March 2024, will be held at the Luxembourg Centre for Contemporary and Digital History (C2DH) with hybrid options, and is organized in collaboration with the German Historical Institute Washington (GHI), the ...read more",
+          "link": "https://dhandlib.org/2023/11/03/cfp-exploring-epistemic-virtues-and-vices-data-infrastructures-and-episteme-between-collaboration-and-exploitation/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-exploring-epistemic-virtues-and-vices-data-infrastructures-and-episteme-between-collaboration-and-exploitation",
+          "publishedOn": "2023-11-03T17:35:43.000Z",
+          "wordCount": null,
+          "title": "CFP: Exploring Epistemic Virtues and Vices: Data, Infrastructures, and Episteme between Collaboration and Exploitation"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135345",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The Journal of Electronic Publishing invites proposals for their special issue, “On Gathering: Exploring Collective and Embodied Modes of Scholarly Communication and Publishing.” From the call: When we think of scholarly communication, we’re usually thinking of something that can be shared independent of its creator(s). A book, a journal article, multimodal work, conference proceedings—the formal ...read more",
+          "link": "https://dhandlib.org/2023/11/03/cfp-on-gathering-exploring-collective-and-embodied-modes-of-scholarly-communication-and-publishing/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-on-gathering-exploring-collective-and-embodied-modes-of-scholarly-communication-and-publishing",
+          "publishedOn": "2023-11-03T17:35:22.000Z",
+          "wordCount": null,
+          "title": "CFP: On Gathering: Exploring Collective and Embodied Modes of Scholarly Communication and Publishing”"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135339",
+          "author": "Rachel Starry",
+          "description": "The Alliance of Digital Humanities Organizations (ADHO) has posted a call for proposals for Digital Humanities 2024: “Reinvention and Responsibility.” The DH2024 conference will be held August 6-9, 2024, at George Mason University in Arlington, Virginia, USA. From the call: Reinvention is a call to act with creativity, compassion, and intentionality to better meet the ...read more",
+          "link": "https://dhandlib.org/2023/11/03/cfp-digital-humanities-2024/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-digital-humanities-2024",
+          "publishedOn": "2023-11-03T17:34:58.000Z",
+          "wordCount": null,
+          "title": "CFP: Digital Humanities 2024"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135350",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The HASTAC (Humanities, Arts, Science and Technology Alliance and Collaboratory) Scholars are hosting informal virtual get-togethers to workshop projects, exchange ideas, and build community. “Digital Fridays is an exciting platform where HASTAC Scholars and expert speakers come together to explore cutting-edge topics at the intersection of technology and the arts, humanities, and sciences.” The next ...read more",
+          "link": "https://dhandlib.org/2023/11/03/event-hastac-scholars-digital-friday/?utm_source=rss&utm_medium=rss&utm_campaign=event-hastac-scholars-digital-friday",
+          "publishedOn": "2023-11-03T17:33:55.000Z",
+          "wordCount": null,
+          "title": "EVENT: HASTAC Scholars Digital Friday"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135354",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The Digital Humanities Research Hub at the University of London are hosting two upcoming seminars, in which scholars and researchers “scrutinize representations of ‘intelligent machines’, and discuss how memes, literature, gender stereotypes, and colonial histories shape AI and the role it plays in today’s society. Conceived as a series of conversations, the seminar brings together ...read more",
+          "link": "https://dhandlib.org/2023/11/03/events-representations-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=events-representations-of-ai",
+          "publishedOn": "2023-11-03T17:33:21.000Z",
+          "wordCount": null,
+          "title": "EVENTS: Representations of AI"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135357",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The CollectionBuilder 2023 Incentives Program is the latest grant-funded opportunity for using and contributing to CollectionBuilder, and open-source, Lib-Static tool and infrastructure. Currently, applications are being accepted to their Library & Information Science (LIS) Student Program. The program offers eight $400 stipends to current LIS students interested in learning more about and using CollectionBuilder for ...read more",
+          "link": "https://dhandlib.org/2023/11/03/opportunity-collectionbuilder-lis-student-program/?utm_source=rss&utm_medium=rss&utm_campaign=opportunity-collectionbuilder-lis-student-program",
+          "publishedOn": "2023-11-03T17:32:40.000Z",
+          "wordCount": null,
+          "title": "OPPORTUNITY: CollectionBuilder LIS Student Program"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135353",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "The National Endowment for the Humanities (NEH) has announced a new program, Humanities Perspectives on Artificial Intelligence, “to support research projects that seek to understand and address the ethical, legal, and societal implications of AI. NEH is particularly interested in projects that explore the impacts of AI-related technologies on truth, trust, and democracy; safety and ...read more",
+          "link": "https://dhandlib.org/2023/11/03/opportunity-neh-humanities-perspectives-on-artificial-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=opportunity-neh-humanities-perspectives-on-artificial-intelligence",
+          "publishedOn": "2023-11-03T17:32:14.000Z",
+          "wordCount": null,
+          "title": "OPPORTUNITY: NEH, Humanities Perspectives on Artificial Intelligence"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135337",
+          "author": "Sarah Potvin",
+          "description": "From the post: Employer Case Western Reserve University Location Cleveland, Ohio Salary This position is a Librarian 3 with a minimum of $77,780. Posted Date Oct 17, 2023 Case Western Reserve University seeks a forward thinking, inclusive, and collaborative individual for the Digital Scholarship Team Leader position. POSITION DESCRIPTION The Digital Scholarship Team Leader heads ...read more",
+          "link": "https://dhandlib.org/2023/11/03/job-digital-scholarship-team-leader-case-western-reserve-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-scholarship-team-leader-case-western-reserve-university",
+          "publishedOn": "2023-11-03T17:30:53.000Z",
+          "wordCount": null,
+          "title": "JOB: Digital Scholarship Team Leader, Case Western Reserve University"
+        },
+        {
+          "id": "https://dhandlib.org/?p=135331",
+          "author": "Sarah Potvin",
+          "description": "From the post: The Data Services Librarian leads the library’s efforts to support digital scholarship and data science research and teaching. They lead the management and use of the Federal Depository documents collection. They act as a library liaison, teach information literacy skills, provide outreach, and build relationships with students, faculty, and staff, contributing knowledge ...read more",
+          "link": "https://dhandlib.org/2023/11/03/job-data-services-librarian-middlebury-college/?utm_source=rss&utm_medium=rss&utm_campaign=job-data-services-librarian-middlebury-college",
+          "publishedOn": "2023-11-03T17:29:09.000Z",
+          "wordCount": null,
+          "title": "JOB: Data Services Librarian, Middlebury College"
+        },
         {
           "id": "https://dhandlib.org/?p=133487",
           "author": "Pamella Lach",
@@ -1513,6 +1603,15 @@
       "siteUrl": "https://digitalhumanities.exeter.ac.uk",
       "articles": [
         {
+          "id": "https://digitalhumanities.exeter.ac.uk/?p=1064",
+          "author": "Gemma Poulton",
+          "description": "It’s World Digital Preservation Day! Two years ago, we posted about the work the DH team were doing to ensure the long-term sustainability of archival collections and the digital content we create in the Lab. Since then, we’ve been collaborating with colleagues from across the university to work harder than ever on digital preservation, and […]",
+          "link": "https://digitalhumanities.exeter.ac.uk/2023/11/digital-preservation-day-2023/",
+          "publishedOn": "2023-11-02T08:00:00.000Z",
+          "wordCount": 1169,
+          "title": "Digital Preservation Day 2023"
+        },
+        {
           "id": "https://digitalhumanities.exeter.ac.uk/?p=1059",
           "author": "Gemma Poulton",
           "description": "Course 1: Text extraction from printed sources (11 & 12 September)  Course 2: Text extraction from handwritten sources (13 & 14 September)  Course 3: Digital ‘Distant reading’ with Voyant Tools and AntConc (11 & 12 September)  Course 4: Digital ‘Close reading’ with NVivo (13 & 14 September)  Optional: Bring Your Own Data Surgeries (15 September, […]",
@@ -1573,6 +1672,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=11400",
+          "author": "Rohan Chauhan",
+          "description": "Learn about Kraken’s segmentation model and the process of training our own custom segmentation models for layout analysis tasks.",
+          "link": "https://digitalorientalist.com/2023/11/03/11400/",
+          "publishedOn": "2023-11-03T13:30:00.000Z",
+          "wordCount": 2333,
+          "title": "Train Your Own OCR/HTR Models with Kraken, part 2"
+        },
         {
           "id": "http://digitalorientalist.com/?p=10983",
           "author": "maddalena poli",
@@ -2706,6 +2814,15 @@
       "siteUrl": "https://review.gale.com",
       "articles": [
         {
+          "id": "https://review.gale.com/?p=14829",
+          "author": "Gale Ambassadors",
+          "description": "│By Nicolas Turner, Gale Ambassador at Leiden University│ The release this year of Christopher Nolan’s Oppenheimer biopic has focused attention on the ‘Red Scare’ of the early 1950s in the United States, a period of history filled with all the ingredients of a thriller: double agents, secret recordings, and dramatic revelations. As Nolan’s film reminds ... Read more\nThe post Uncovering the Betrayal of J. Robert Oppenheimer with <i>Gale Primary Sources</i> appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2023/10/31/uncovering-the-betrayal-of-oppenheimer/",
+          "publishedOn": "2023-10-31T12:43:36.000Z",
+          "wordCount": 2009,
+          "title": "Uncovering the Betrayal of J. Robert Oppenheimer with Gale Primary Sources"
+        },
+        {
           "id": "https://review.gale.com/?p=14805",
           "author": "Gale Review Team",
           "description": "|By Becca Bowden, Gale Digital Scholar Lab Product Manager| Gale is pleased to announce its second ‘Gale Digital Humanities User Engagement Program’. Following on from the success of the program in 2022, we are excited to invite eight new Gale Primary Sources and Gale Digital Scholar Lab users to collaborate closely with the Digital Humanities ... Read more\nThe post The Second Gale Digital Humanities User Engagement Program appeared first on The Gale Review.",
@@ -3282,15 +3399,6 @@
           "publishedOn": "2023-05-15T12:00:00.000Z",
           "wordCount": 1153,
           "title": "Manuscript Monday: Ms. Codex 1677 – Ars artium … [etc.]. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17661",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 387, a dictionary of the Arabic language originally compiled between 1368 and 1392. You can read the complete record for this document (and find links to digitized copies) on Franklin. You can also download a copy ofContinue reading \"Manuscript Monday: LJS 387 – al-Qāmūs al-muḥīṭ. = القاموس المحيط. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/05/08/manuscript-monday-ljs-387-al-qamus-al-mu%e1%b8%a5i%e1%b9%ad-%d8%a7%d9%84%d9%82%d8%a7%d9%85%d9%88%d8%b3-%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7-video-orientation/",
-          "publishedOn": "2023-05-08T12:00:00.000Z",
-          "wordCount": 1173,
-          "title": "Manuscript Monday: LJS 387 – al-Qāmūs al-muḥīṭ. = القاموس المحيط. (Video Orientation)"
         }
       ]
     },
@@ -3299,6 +3407,15 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=1981",
+          "author": "Leah Budke",
+          "description": "Are you a Digital Humanities student or early career researcher in Belgium who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual Discussion…\n\nContinue reading “Webinar Series: DH Virtual Discussion Group for ECRs in Belgium – Fall 2023 Edition”…",
+          "link": "https://scholarlytales.hcommons.org/2023/10/31/webinar-series-dh-virtual-discussion-group-for-ecrs-in-belgium-fall-2023-edition/",
+          "publishedOn": "2023-10-31T09:14:17.000Z",
+          "wordCount": 2668,
+          "title": "Webinar Series: DH Virtual Discussion Group for ECRs in Belgium – Fall 2023 Edition"
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=1979",
           "author": "Leah Budke",
@@ -3472,15 +3589,6 @@
           "publishedOn": "2023-05-11T19:11:46.000Z",
           "wordCount": 1636,
           "title": "GIS Mapping Middle Minoan Tumblers on Crete"
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8393",
-          "author": "MD MOHAIMINUL ISLAM",
-          "description": "By Mohaiminul Islam Introduction In the last couple of decades, Machine Learning (ML) has revolutionized the field of data-driven learning. For my Scholars Studio digital research project, I used ML as a...",
-          "link": "https://sites.temple.edu/tudsc/2023/05/08/machine-learning-for-image-segmentation/?utm_source=rss&utm_medium=rss&utm_campaign=machine-learning-for-image-segmentation",
-          "publishedOn": "2023-05-08T04:33:22.000Z",
-          "wordCount": 1645,
-          "title": "Machine Learning for Image Segmentation"
         }
       ]
     },
@@ -3634,15 +3742,6 @@
           "publishedOn": "2023-07-03T00:17:57.000Z",
           "wordCount": 201,
           "title": "Getting to work on the Trove Data Guide"
-        },
-        {
-          "id": "http://wragge.micro.blog/2023/05/08/updated-harvest-of.html",
-          "author": null,
-          "description": "The NSW State Archives (now part of Museums of History NSW) publishes a series of useful indexes to its collections. The indexes include basic data transcribed from the records, such as names, dates, and places, providing fine-grained access to the collections. But when they’re explored as data, the indexes also suggest new ways of analysing, visualising, and linking sets of records. (For some of the possibilities and challenges of using this sort of data see Missing Links: Data Stories from the Archive of British Settler Colonial Citizenship).\nIn 2016, I started harvesting the index data from the NSW State Archives website to make each dataset available as an easily downloadable CSV file. In 2019, changes to the website made it impossible to access the complete indexes, so I was unable to…",
-          "link": "https://updates.timsherratt.org/2023/05/08/updated-harvest-of.html",
-          "publishedOn": "2023-05-08T02:25:09.000Z",
-          "wordCount": 1108,
-          "title": "Updated harvest of NSW State Archives indexes – more than 2 million rows of data!"
         }
       ]
     },
@@ -3657,6 +3756,15 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4654 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Colonial statues in Africa have often been analysed as isolated case studies. Moving beyond a one case study model, this presentation adopts a regional, thematic, and historical approach to elucidate the diverse ways in which African nations have grappled with colonial statues from the time of independences. The paper begins by examining the fate of colonial statues at the time of independences, exploring why certain monuments were removed, repurposed, or preserved. Subsequently, the paper delves into the reasons for the revival of (neo)colonial statues in the 1990s and early 2000s. Finally, the paper discusses recent and renewed contestations of colonial statues from the 2010s, in the light of global movements against symbols of oppression. This presentation aims to shed light on the comp…",
+          "link": "https://www.c2dh.uni.lu/events/colonial-statues-postcolonial-africa-multidimensional-approach",
+          "publishedOn": "2023-11-03T09:43:57.000Z",
+          "wordCount": 553,
+          "title": "Colonial statues in postcolonial Africa, a multidimensional approach"
+        },
         {
           "id": "4649 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
