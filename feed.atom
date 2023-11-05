@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-04T08:13:13.252Z</updated>
+    <updated>2023-11-05T08:13:25.196Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -127,6 +127,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Out of the Shadows: A Wikipedia edit-a-thon]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37322/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37322/"/>
+        <updated>2023-11-03T11:26:17.000Z</updated>
+        <summary type="html"><![CDATA[After the fantastic success of our last Wikipedia edit-a-thon in May, we are once again calling on the expertise of students and staff here at Cambridge to bring underrepresented histories ‘out of the shadows’ and into the light on Wikipedia. No prior Wiki experience is required! We will host an online training session at 11am]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cambridge Cultural Heritage Data School: April 2024 (Cambridge)]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/36878/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/36878/"/>
+        <updated>2023-11-03T10:07:03.000Z</updated>
+        <summary type="html"><![CDATA[The Cultural Heritage Data School (CHDS), taking place in Cambridge between 8-12 April, is open for applications from participants from across the cultural heritage sector and academia. This intensive in-person teaching programme will be structured around the digital collections and archives pipeline, covering the general principles and applied practices involved in the generation, exploration, visualisation, analysis]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Colonial statues in postcolonial Africa, a multidimensional approach]]></title>
         <id>4654 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/colonial-statues-postcolonial-africa-multidimensional-approach"/>
@@ -134,6 +154,16 @@
         <summary type="html"><![CDATA[Colonial statues in Africa have often been analysed as isolated case studies. Moving beyond a one case study model, this presentation adopts a regional, thematic, and historical approach to elucidate the diverse ways in which African nations have grappled with colonial statues from the time of independences. The paper begins by examining the fate of colonial statues at the time of independences, exploring why certain monuments were removed, repurposed, or preserved. Subsequently, the paper delves into the reasons for the revival of (neo)colonial statues in the 1990s and early 2000s. Finally, the paper discusses recent and renewed contestations of colonial statues from the 2010s, in the light of global movements against symbols of oppression. This presentation aims to shed light on the comp…]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ana María Zapata]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/ana-maria-zapata/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/ana-maria-zapata/"/>
+        <updated>2023-11-02T11:53:44.000Z</updated>
+        <summary type="html"><![CDATA[Ana María Zapata is editor-in-chief of the International Journal for Digital Art History. Her background in art history and literature, along with over 7 years of experience in the editorial field, has provided her with a unique perspective on the intersection of technology and the humanities. During her work in Digital Art History, she has]]></summary>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -159,6 +189,26 @@ In February 2019, members of the enetCollect COST Action gathered in Brussels fo
         <summary type="html"><![CDATA[It’s World Digital Preservation Day! Two years ago, we posted about the work the DH team were doing to ensure the long-term sustainability of archival collections and the digital content we create in the Lab. Since then, we’ve been collaborating with colleagues from across the university to work harder than ever on digital preservation, and […]]]></summary>
         <author>
             <name>Gemma Poulton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<i>The Eye of the Master: A Social History of Artificial Intelligence </i> (Verso, 2023) | A book presentation with Matteo Pasquinelli]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37312/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37312/"/>
+        <updated>2023-11-01T14:22:50.000Z</updated>
+        <summary type="html"><![CDATA[The Eye of the Master: A Social History of Artificial Intelligence (Verso, 2023) | A book presentation with Matteo Pasquinelli Description What is AI? A dominant view describes it as the quest "to solve intelligence" - a solution supposedly to be found in the secret logic of the mind or in the deep physiology of the]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Vacancy: Research Associate]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/new-vacancy-research-associate/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/new-vacancy-research-associate/"/>
+        <updated>2023-11-01T12:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Cambridge Digital Humanities is pleased to invite applications for a Postdoctoral Research Associate to work on the AI Forensics research project. The position is full time for 12 months and will be based at Cambridge Digital Humanities in central Cambridge. Flexible and remote working patterns (within the UK) will be considered.The role holder will undertake]]></summary>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -7163,62 +7213,6 @@ Programme and free registration are available on the official website.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angelica Lim – Machine Learning for HRI: Bridging the Gap between Action and Perception]]></title>
-        <id>https://digitaldemocracies.org/?p=4969</id>
-        <link href="https://digitaldemocracies.org/angelica-lim-machine-learning-for-hri-bridging-the-gap-between-action-and-perception/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=angelica-lim-machine-learning-for-hri-bridging-the-gap-between-action-and-perception"/>
-        <updated>2023-05-09T19:48:44.000Z</updated>
-        <summary type="html"><![CDATA[This post was written by Sage Hughes, an undergraduate researcher at the Digital Democracies Institute. On November 23, Dr. Angelica Lim presented to the Digital Democracies Institute for the final …
-  Angelica Lim – Machine Learning for HRI: Bridging the Gap between Action and Perception Read More »
-Angelica Lim – Machine Learning for HRI: Bridging the Gap between Action and Perception first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chelsea Rosenthal – Losing Privacy and Living the Sound Bite Life]]></title>
-        <id>https://digitaldemocracies.org/?p=4965</id>
-        <link href="https://digitaldemocracies.org/chelsea-rosenthal-losing-privacy-and-living-the-sound-bite-life/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chelsea-rosenthal-losing-privacy-and-living-the-sound-bite-life"/>
-        <updated>2023-05-09T19:34:59.000Z</updated>
-        <summary type="html"><![CDATA[This post was written by Amy Harris, PhD Candidate at the School of Communication at SFU, and Project Manager & Researcher at the Digital Democracies Institute. Dr. Rosenthal is an Assistant …
-  Chelsea Rosenthal – Losing Privacy and Living the Sound Bite Life Read More »
-Chelsea Rosenthal – Losing Privacy and Living the Sound Bite Life first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Kayla Hilstob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADHO Podcast, Episode 4 is on air.]]></title>
-        <id>https://adho.org/?p=1992</id>
-        <link href="https://adho.org/2023/05/09/adho-podcast-episode-4-is-on-air/"/>
-        <updated>2023-05-09T14:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Episode 4 of ADHO Podcast is on air. This time we hosted Jonathan Giron Palau from La Red de Humanidades Digitales (Red_HD).You can listen the episode on SoundCloud or on ADHO.]]></summary>
-        <author>
-            <name>Erdal Ayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview: Professor Fred Truyen in Conversation with Artes Research Intern Alisa Grishin]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=1869</id>
-        <link href="https://scholarlytales.hcommons.org/2023/05/09/interview-professor-fred-truyen-in-conversation-with-artes-research-intern-alisa-grishin/"/>
-        <updated>2023-05-09T13:55:36.000Z</updated>
-        <summary type="html"><![CDATA[In March of 2023, Artes Research Intern Alisa Grishin interviewed Professor Fred Truyen of the Faculty of Arts. As a professor in the Digital Humanities and Cultural Studies programs, Prof. Truyen has also been involved in numerous projects related to…
-
-Continue reading “Interview: Professor Fred Truyen in Conversation with Artes Research Intern Alisa Grishin”…]]></summary>
-        <author>
-            <name>Alisa Grishin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I automate the boring stuff with ChatGPT?]]></title>
-        <id>http://digitalorientalist.com/?p=10531</id>
-        <link href="https://digitalorientalist.com/2023/05/09/can-i-automate-the-boring-stuff-with-chatgpt/"/>
-        <updated>2023-05-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A quick API solution for a Chinese text classification task– and its limitations. This is a guest post by Tilman …]]></summary>
-        <author>
-            <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Member: Historic Environment Record of Northern Ireland (HERoNI)]]></title>
         <id>1647 at https://www.dri.ie</id>
         <link href="https://www.dri.ie/new-member-historic-environment-record-northern-ireland-heroni"/>
@@ -7226,137 +7220,6 @@ Continue reading “Interview: Professor Fred Truyen in Conversation with Artes 
         <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that the Historic Environment Record of Northern Ireland (HERoNI) has joined as our latest member.]]></summary>
         <author>
             <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programme Released for Research Software Engineering Summer School 2023]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/blog/programme-released-for-research-software-engineering-summer-school-2023/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/programme-released-for-research-software-engineering-summer-school-2023/"/>
-        <updated>2023-05-09T10:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Download or view the programme for the RSE Summer School here: Programme RSE Summer School Aimed at those who have an interest in becoming a Research Software Engineer in the humanities, or using research software engineering practices in their current or future role, the Digital Humanities Research Software Engineering Summer School is a summer school]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digging into Datasets in Gale Digital Scholar Lab]]></title>
-        <id>https://review.gale.com/?p=14312</id>
-        <link href="https://review.gale.com/2023/05/09/digging-into-datasets-in-gale-digital-scholar-lab/"/>
-        <updated>2023-05-09T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[│By Sarah L. Ketchley, Senior Digital Humanities Specialist, Gale│ This dataset post is a follow-up to Working with Datasets, a Primer which discussed text datasets of primary sources and explored how to access and work with them in Gale Digital Scholar Lab. Here, we’ll look at the topics of the first eight datasets in the Lab ... Read more
-The post Digging into Datasets in <i>Gale Digital Scholar Lab</i> appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Review Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RECOMMENDED: Reviews in Digital Humanities, Vol. 4.4]]></title>
-        <id>https://dhandlib.org/?p=126583</id>
-        <link href="https://dhandlib.org/2023/05/08/recommended-reviews-in-digital-humanities-vol-4-4/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recommended-reviews-in-digital-humanities-vol-4-4"/>
-        <updated>2023-05-08T23:46:44.000Z</updated>
-        <summary type="html"><![CDATA[The latest issue of Reviews in Digital Humanities (vol 4, no 4, April 2023) has been released. This issue features projects that were sourced from their open submission process. This issue’s Editors’ Note highlights the role the reviewers have in the journal and their philosophy towards review., from the piece:  We’ve been fortunate that all ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PROJECT: Religious Ecologies]]></title>
-        <id>https://dhandlib.org/?p=126585</id>
-        <link href="https://dhandlib.org/2023/05/08/project-religious-ecologies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=project-religious-ecologies"/>
-        <updated>2023-05-08T23:45:37.000Z</updated>
-        <summary type="html"><![CDATA[The Roy Rosenzweig Center for History and New Media’s American Religious Ecologies project has received another grant to continue the work, focusing on the 1926 Census of Religious Bodies. The materials are an important source of information about American religious institutions and the project is working on transcribing them into datasets that can be used ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POST: Touching Data: Conducting a Survey With Paper and Thread]]></title>
-        <id>https://dhandlib.org/?p=126588</id>
-        <link href="https://dhandlib.org/2023/05/08/post-touching-data-conducting-a-survey-with-paper-and-thread/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=post-touching-data-conducting-a-survey-with-paper-and-thread"/>
-        <updated>2023-05-08T23:44:41.000Z</updated>
-        <summary type="html"><![CDATA[A recent piece in Nightingale “Touching Data: Conducting a Survey With Paper and Thread” explores using physical data methods to collect survey results. This process also resulted instant visualization of the results. While this survey was not on a humanities specific topic, this method could provide interesting new ways to engage patrons with humanities data questions. ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESOURCE: Scholarly API Cookbook]]></title>
-        <id>https://dhandlib.org/?p=126590</id>
-        <link href="https://dhandlib.org/2023/05/08/resource-scholarly-api-cookbook/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resource-scholarly-api-cookbook"/>
-        <updated>2023-05-08T23:43:51.000Z</updated>
-        <summary type="html"><![CDATA[The Scholarly API Cookbook is an open online book containing short scholarly API code examples (i.e., “recipes”) that demonstrate how to work with various scholarly web service APIs. It is part of the University of Alabama Libraries efforts to support Research Data Services and covers a variety of APIs, like Wikidata, Chronicaling America, and U.S. ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESOURCE: Jupyter notebooks for digital humanities]]></title>
-        <id>https://dhandlib.org/?p=126630</id>
-        <link href="https://dhandlib.org/2023/05/08/resource-jupyter-notebooks-for-digital-humanities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resource-jupyter-notebooks-for-digital-humanities"/>
-        <updated>2023-05-08T23:43:14.000Z</updated>
-        <summary type="html"><![CDATA[Jupyter notebooks for digital humanities is a list compiled by Quinn Dombrowski of Jupyter notebooks covering research, course materials, learning python, as well as specific forms of analysis. There are notebooks available in English, German, Spanish and French. The list was started in 2019, but was most recently updated in April 2023, making this a ...read more]]></summary>
-        <author>
-            <name>Claudia Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESOURCE: LOC By The People Transcription Datasets]]></title>
-        <id>https://dhandlib.org/?p=126632</id>
-        <link href="https://dhandlib.org/2023/05/08/resource-loc-by-the-people-transcription-datasets/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resource-loc-by-the-people-transcription-datasets"/>
-        <updated>2023-05-08T23:43:12.000Z</updated>
-        <summary type="html"><![CDATA[The Library of Congress By The People project has released two new datasets from its crowdsourced transcription campaigns, the correspondence of Georgia O’Keeffe and Alfred Stieglitz and the notebooks of Frederick Hockley. The O’Keeffe/Stieglitz dataset includes over 500 letters they wrote between 1929-1947 to their friend Henwar Rodakiewicz, a documentary filmmaker. The digital collection of ...read more]]></summary>
-        <author>
-            <name>Claudia Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: Overcoming Legal Barriers to Text and Data Mining]]></title>
-        <id>https://dhandlib.org/?p=126628</id>
-        <link href="https://dhandlib.org/2023/05/08/event-overcoming-legal-barriers-to-text-and-data-mining/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-overcoming-legal-barriers-to-text-and-data-mining"/>
-        <updated>2023-05-08T23:42:51.000Z</updated>
-        <summary type="html"><![CDATA[“Overcoming Legal Barriers to Text and Data Mining” hosted by ACH on May 15 at 1pm EST is a free webinar open that is open to ACH-members and non-members. From the event description: This webinar is meant to help researchers understand how existing law can help them move forward on text and data mining projects ...read more]]></summary>
-        <author>
-            <name>Claudia Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: wikihistories2023 Wikipedia and its implications for memory (and forgetting)]]></title>
-        <id>https://dhandlib.org/?p=126626</id>
-        <link href="https://dhandlib.org/2023/05/08/event-wikihistories2023-wikipedia-and-its-implications-for-memory-and-forgetting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-wikihistories2023-wikipedia-and-its-implications-for-memory-and-forgetting"/>
-        <updated>2023-05-08T23:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Registration is now open for the first annual wikihistories symposium: Wikipedia and its implications for memory (and forgetting), a free virtual conference that will be re-run across a number of time zones between June 7th and June 9th to best accommodate registrants around the world. The symposium will feature keynotes by Dr. Shira Klein, author of ...read more]]></summary>
-        <author>
-            <name>Claudia Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: Adventures in handwriting recognition with Transkribus]]></title>
-        <id>https://dhandlib.org/?p=126622</id>
-        <link href="https://dhandlib.org/2023/05/08/event-adventures-in-handwriting-recognition-with-transkribus/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-adventures-in-handwriting-recognition-with-transkribus"/>
-        <updated>2023-05-08T23:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Adventures in handwriting recognition with Transkribus – experimentation with archives in Aotearoa New Zealand (May 9th 11 am AEST) is a free online event that explores a number of handwriting transcription projects and new features of Transkribus. The talk will feature Vivienne Cuff, an archivist based at the Dunedin Regional Office of Archives New Zealand, ...read more]]></summary>
-        <author>
-            <name>Claudia Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: ACH 2023]]></title>
-        <id>https://dhandlib.org/?p=126620</id>
-        <link href="https://dhandlib.org/2023/05/08/event-ach-2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-ach-2023"/>
-        <updated>2023-05-08T23:41:38.000Z</updated>
-        <summary type="html"><![CDATA[ACH 2023 focuses on equity and justice in digital humanities scholarship, choosing to highlight the sociopolitical aspects of the work in the place of a formal theme. The keynote will be a roundtable focusing on accessibility and digital scholarship. Registration is now open. The conference will be held virtually from June 29-July 1.]]></summary>
-        <author>
-            <name>Claudia Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: Directions in Digital Scholarship]]></title>
-        <id>https://dhandlib.org/?p=126624</id>
-        <link href="https://dhandlib.org/2023/05/08/event-directions-in-digital-scholarship/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-directions-in-digital-scholarship"/>
-        <updated>2023-05-08T23:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Coalition of Networked Information (CNI) is inviting people from its member institutions to a webinar on May 24 from 1-2:30 EST, “Directions in Digital Scholarship: Support for Digital, Data-Intensive, and Computational Research: What’s Next?” This talk will explore campus partnerships, communication, reorganization of library units, and policy development and strategies around current societal issues. From ...read more]]></summary>
-        <author>
-            <name>Claudia Berger</name>
         </author>
     </entry>
     <entry>
