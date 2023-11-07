@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-06T08:14:40.349Z</updated>
+    <updated>2023-11-07T08:13:51.670Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re-imagining Assignments in the DH Classroom II: Timelines, Digital Exhibits, and Maps]]></title>
+        <id>https://review.gale.com/?p=14848</id>
+        <link href="https://review.gale.com/2023/11/07/digital-humanities-timelines-exhibits-maps/"/>
+        <updated>2023-11-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ This is a follow-up blog post to last month’s overview of working with Storymaps in the DH classroom.  We will consider a few more ways to engage students in the creative and intellectually rigorous process of building Digital Humanities projects, conducting analyses, and demonstrating the outcomes of ... Read more
+The post Re-imagining Assignments in the DH Classroom II: Timelines, Digital Exhibits, and Maps appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Review Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1671 – [Collection of alchemical works on distillation] (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=17915</id>
+        <link href="https://schoenberginstitute.org/2023/11/06/manuscript-monday-ms-codex-1671-collection-of-alchemical-works-on-distillation-video-orientation/"/>
+        <updated>2023-11-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1671, a collection of works on distillation, fermentation, and other chemistry-related procedures divided into sections according to vegetable (p. 1), animal (p. 141), or mineral (p. 163). The first section includes general discussion of chemistry andContinue reading "Manuscript Monday: Ms. Codex 1671 – [Collection of alchemical works on distillation] (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RECOMMENDED: Datasheets for Digital Cultural Heritage Data]]></title>
         <id>https://dhandlib.org/?p=135325</id>
@@ -598,6 +619,15 @@ Read more ""]]></summary>
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 398, a medical treatise in 50 chapters, 35 concerning reproduction and the final 15 addressing the soul and intellect from a neoplatonic perspective. Copy completed in Mamluk Syria or Iraq by ʻAbd al-Raḥmān ibn ʻAbd al-Salām al-ṢafūrīContinue reading "Manuscript Monday: LJS 398 – Maqālah fī khalq al-insān. = مقالة في خلق الانسان. (Video Orientation)"]]></summary>
         <author>
             <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhD]]></title>
+        <id>https://www.cdh.cam.ac.uk/phd/</id>
+        <link href="https://www.cdh.cam.ac.uk/phd/"/>
+        <updated>2023-10-23T08:26:00.000Z</updated>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -7025,26 +7055,6 @@ Beschäftigungsausmaß: 40…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GIS Mapping Middle Minoan Tumblers on Crete]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8425</id>
-        <link href="https://sites.temple.edu/tudsc/2023/05/11/gis-mapping-middle-minoan-tumblers-on-crete/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gis-mapping-middle-minoan-tumblers-on-crete"/>
-        <updated>2023-05-11T19:11:46.000Z</updated>
-        <summary type="html"><![CDATA[By Lauren Wilson Introduction For my doctoral studies in the Tyler School of Art and Architecture at Temple University, I am  researching the art history and archaeology of Minoan pottery (BCE Crete...]]></summary>
-        <author>
-            <name>Lauren Wilson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apply to Join the Future Conferences Task Force by 15 May]]></title>
-        <id>https://sites.caa-international.org/main/?p=17244</id>
-        <link href="https://caa-international.org/2023/05/11/apply-to-join-the-future-conferences-task-force-by-15-may/"/>
-        <updated>2023-05-11T18:34:48.000Z</updated>
-        <summary type="html"><![CDATA[CAA invites 2022 and 2023 members to join a new task force that will engage in a dialogue over the next year about the model for the annual conference. To learn more about the process and timeline, please visit the Task Force Information page. All eligible current and former members should have received an email […]]]></summary>
-        <author>
-            <name>lisafischer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Member: Cork City and County Archive]]></title>
         <id>1648 at https://www.dri.ie</id>
         <link href="https://www.dri.ie/new-member-cork-city-and-county-archive"/>
@@ -7052,64 +7062,6 @@ Beschäftigungsausmaß: 40…]]></summary>
         <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that Cork City and County Archive (CCCA) have joined as our latest member.]]></summary>
         <author>
             <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Out of the Shadows: A Wikipedia edit-a-thon]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36610/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36610/"/>
-        <updated>2023-05-11T09:17:39.000Z</updated>
-        <summary type="html"><![CDATA[This month we are calling on the expertise of students and staff here at Cambridge to bring underrepresented histories ‘out of the shadows’ and into the light on Wikipedia. No prior Wiki experience is required! We will host an online training session at 11am on 17 May to get you started. This session will also]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EADH Executive members elections 2023: 4 positions open]]></title>
-        <id>1449 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2023/05/11/eadh-executive-members-elections-2023-4-positions-open"/>
-        <updated>2023-05-11T09:00:31.000Z</updated>
-        <summary type="html"><![CDATA[EADH Executive members elections 2023: 4 positions open
-
-
-
-Dear EADH community,
-Thank you for your support of EADH and its Associate Organisations. This is to remind you that elections for new members of the EADH Executive Committee will be held prior to DH 2023 in Graz.
-Those wishing to take part in the elections as voters or candidates must be Members in Good Standing (i.e. have paid their membership fees) by May 14th, whether as a direct or joint member of EADH, or through one of its Associate Organizations:
-AIUCD (Associazione Informatica Umanistica e Cultura Digitale)
-CzADH (Česká asociace pro digitální humanitní vědy)
-DHd (Digital Humanities im deutschsprachigen Raum)
-DHN (Digital humaniora i Norden)
-DHRussia (Российская ассоциация цифровых гуманитарных наук)
-For information on renewing membership fees, please see https://eadh.org/membership or consult the website of your Association. Each member must assure that the email address used  is not already in use for another registration in realm of EADH (AOs and DSH subscription).
-We will circulate more information about the election process later in the year. In the meantime, if you are interested in standing as an Executive Committee member please don't hesitate to contact us at <nominations@eadh.org>.
-Best regards,
-The EADH Elections committee
-Anna-Maria Sichani
-Silvie Cinková
-Fabio Ciotti]]></summary>
-        <author>
-            <name>Communication Coordinator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Associate Malik Al Nasir awarded Vice Chancellor’s Award for Global Social Impact]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/blog/cdh-associate-malik-al-nasir-awarded-vice-chancellors-award-for-global-social-impact/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/cdh-associate-malik-al-nasir-awarded-vice-chancellors-award-for-global-social-impact/"/>
-        <updated>2023-05-11T07:55:31.000Z</updated>
-        <summary type="html"><![CDATA[We are delighted to offer our congratulations to CDH Associate, Malik Al Nasir, who has been awarded the Vice Chancellor's Award for Global Social Impact based on his work on the Sandbach Tinne Project. Malik was among 16 students from the University of Cambridge recognised for exceptional achievement at the annual Vice-Chancellor’s Social Impact Awards]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Source! Digital Skills Training]]></title>
-        <id>https://digitalhumanities.exeter.ac.uk/?p=1004</id>
-        <link href="https://digitalhumanities.exeter.ac.uk/2023/05/hot-source-digital-skills-training/"/>
-        <updated>2023-05-11T07:40:23.000Z</updated>
-        <summary type="html"><![CDATA[As part of the AHRC’s iDAH program, the University of Exeter Digital Humanities Lab is organizing a Summer School during June 2023 in Digital Skills that comprises two free training courses for Arts & Humanities Researchers:  Course 1: AHRC iDAH/Exeter Digital Summer School: Introduction to Text Analysis Using Python As part of the AHRC iDAH […]]]></summary>
-        <author>
-            <name>Gemma Poulton</name>
         </author>
     </entry>
     <entry>
