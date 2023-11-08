@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-07T08:13:51.670Z</updated>
+    <updated>2023-11-08T08:13:50.600Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transkribus in the Classroom]]></title>
+        <id>http://digitalorientalist.com/?p=11561</id>
+        <link href="https://digitalorientalist.com/2023/11/07/transcribus-in-the-classroom/"/>
+        <updated>2023-11-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While others have discussed the possibilities in utilizing Transkribus and other HTR resources in research, I want to briefly discuss …]]></summary>
+        <author>
+            <name>tjkynn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Data Science Methods to Explore the History, and Future, of State Secrecy]]></title>
+        <id>4655 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/using-data-science-methods-explore-history-and-future-state-secrecy"/>
+        <updated>2023-11-07T08:52:06.000Z</updated>
+        <summary type="html"><![CDATA[For its first one hundred and fifty years, the U.S. government had relatively few secrets, and subsidized the free flow of information to ensure democratic accountability. But all that changed after Pearl Harbor, with the rise of the dark state. The last two decades have witnessed particularly dramatic growth in government secrecy, at the same time that declassification has all but collapsed. Now that so much is secret, it has become all but impossible to protect truly dangerous information. Connelly explores the policies and practices that gave rise to the current crisis, above all presidents’ determination to preserve sovereign power over “national security information.” The digital archiving methods that were supposed to stop unauthorized leaks instead gave rise to Wikileaks, and the wholesale destruction of the documentary record has made it all but impossible even for historians to hold public officials to account. But new data science methods now make it possible to systematically analyze patterns and anomalies in state secrecy, and show not only what the government did not want us to know, but why.
+ 
+
+
+ 
+Matthew Connelly is a professor of international and global history at Columbia University, and director of the Centre for the Study of Existential Risk at the University of Cambridge. Connelly is also the principal investigator of History Lab, a project that uses data science to analyze state secrecy. His publications include A Diplomatic Revolution: Algeria's Fight for Independence and the Origins of the Post-Cold War Era, Fatal Misconception: The Struggle to Control World Population, and The Declassification Engine: What History Reveals about America’s Top Secrets. Connelly received his B.A. from Columbia in 1990 and earned his Ph.D. from Yale in 1997. 
+ 
+Wednesday, 29 November 2023
+14.00 - 15.00
+Online
+29 November 2023
+  Archives  Data Science  Digital hermeneutics  Digital methods  Digital tools
+  Hands-on History
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re-imagining Assignments in the DH Classroom II: Timelines, Digital Exhibits, and Maps]]></title>
         <id>https://review.gale.com/?p=14848</id>
@@ -6998,60 +7032,6 @@ Gratis Aschreiwung iwwer Telefon +352 4796 4500 oder E-mail visites@2musees.vdl.
         <summary type="html"><![CDATA[Malik Al Nasir is a PhD student at the faculty of history at the University of Cambridge, St Catharine’s College. Malik is from a social sciences background and, having acquired a PgDip at the University of Liverpool in applied social research, developed a pilot think tank, “The Social Enterprise Research Initiative”, in conjunction with the “Globalisation and]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cocoon: A Platform for Documenting the World’s Languages]]></title>
-        <id>http://digitalorientalist.com/?p=10583</id>
-        <link href="https://digitalorientalist.com/2023/05/12/cocoon-a-platform-for-documenting-the-worlds-languages/"/>
-        <updated>2023-05-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since 2006, the French linguist community has had a tool for depositing the sound sources that document the world’s linguistic …]]></summary>
-        <author>
-            <name>Anaïs Wion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Network | CamTech Media: How to Do Things at Scale? (Re)Locating Platform Power in the Gig Economy with Dr Niels van Doorn (University of Amsterdam)]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36616/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36616/"/>
-        <updated>2023-05-12T13:10:17.000Z</updated>
-        <summary type="html"><![CDATA[How to Do Things at Scale? (Re)Locating Platform Power in the Gig Economy with Dr Niels van Doorn (University of Amsterdam) The last decade has seen an explosion of scholarship on “algorithmic control”, “management”, or “surveillance”. But what do we mean when we use “algorithmic” in this context? And what do we miss by focusing on]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessibility in the Cyberspace: Teaching 3-D Digitisation Methods for Cultural Preservation Workshop]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36536/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36536/"/>
-        <updated>2023-05-12T11:39:21.000Z</updated>
-        <summary type="html"><![CDATA[Convenors: Adil Mian and Jendayi Omowale Cambridge Digital Humanities is funding this digitisation workshop, held in collaboration with the Sandbach Tinne Archive, the Digital Library of the Caribbean and the Anti-Colonial Archives Working Group. It aims to democratise access to digital and archiving methods as well as knowledge. Workshop Overview: Global majority and indigenous people]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Buried Histories of Chimborazo Park / The Female Itinerant Preachers’ Body in the Nineteenth Century]]></title>
-        <id>4538 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/buried-histories-chimborazo-park-female-itinerant-preachers-body-nineteenth-century"/>
-        <updated>2023-05-12T08:25:43.000Z</updated>
-        <summary type="html"><![CDATA[This research seminar will be split into two parts.
-Laura Brennan will present her project Forgetting the Freed: The Buried Histories of Chimborazo Park in Richmond, Virginia, United States. Laura’s project is a place-based history of a public park in Richmond, Virginia, a major city in the Southern region of the United States. The site once hosted a Confederate hospital during the American Civil War and a postwar neighborhood for newly freed African Americans before it became a modern city park that today includes a Confederate history museum. The presentation will focus on the site’s historical transition from the postwar Black neighborhood to the all-White park, and examine how the radical Black history of the site was obscured and “forgotten” over time in different ways.
-Caroline Greer…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musikwissenschaftler*in mit DH-Bezug für das Nikolaus Harnoncourt Zentrum (w/m/d)]]></title>
-        <id>node/898</id>
-        <link href="https://dig-hum.de/aktuelles/musikwissenschaftlerin-dh-bezug-f%C3%BCr-das-nikolaus-harnoncourt-zentrum-wmd"/>
-        <updated>2023-05-12T08:03:17.794Z</updated>
-        <summary type="html"><![CDATA[An der Anton Bruckner Privatuniversität ist folgende Position zu besetzen:
-Musikwissenschaftler*in für das Nikolaus Harnoncourt Zentrum (w/m/d)
-Beschäftigungsausmaß: 40…]]></summary>
-        <author>
-            <name>434</name>
         </author>
     </entry>
     <entry>
