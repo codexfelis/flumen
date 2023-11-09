@@ -176,7 +176,7 @@
     {
       "title": "Alabama Digital Humanities Center",
       "feedUrl": "https://adhc.lib.ua.edu/feed",
-      "siteUrl": "https://adhc.lib.ua.edu",
+      "siteUrl": "https://adhc.lib.ua.edu/",
       "articles": [
         {
           "id": "https://adhc.lib.ua.edu/?p=1358",
@@ -5327,6 +5327,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5983 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "CLARIN Newsflash November 2023 Is Out\n\n            \n\n  \n  \n            \n  \nEvery month, CLARIN publishes a newsflash with an overview of what has been happening at CLARIN, the national consortia, etc. \nRead the most recent CLARIN Newsflash: November 2023\nSubscribing to it is the ideal way of staying informed.\nSubscribe here\nPast issues of the CLARIN newsflash\nYou are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.\n\n      Julia Misersky\n 7 November 2023",
+          "link": "https://www.clarin.eu/news/clarin-newsflash-november-2023-out",
+          "publishedOn": "2023-11-07T18:28:23.000Z",
+          "wordCount": 245,
+          "title": "CLARIN Newsflash November 2023 Is Out"
+        },
         {
           "id": "5980 at https://www.clarin.eu",
           "author": "Karina Berger",
