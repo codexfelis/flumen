@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-09T08:13:35.889Z</updated>
+    <updated>2023-11-10T08:13:55.311Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Responsible AI for Journalism]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37325/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37325/"/>
+        <updated>2023-11-09T16:46:32.000Z</updated>
+        <summary type="html"><![CDATA[An online public event at the Cambridge Social Data School The use of artificial intelligence (AI) in journalism has been ongoing for several years, but the advent of generative AI tools like ChatGPT, Bard, Midjourney, and others has ignited a thorny public debate. These technologies appear to surpass human capabilities in structuring information and producing]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centre news vol. 61 - November 2023]]></title>
+        <id>5986 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/centre-news-vol-61-november-2023"/>
+        <updated>2023-11-09T15:58:34.000Z</updated>
+        <summary type="html"><![CDATA[Centre news vol. 61 - November 2023
+
+            
+CLARIN technical open hour, Monday 13 November at 11:00 CET
+The third edition of the CLARIN technology open hour is planned for next Monday at 11:00 CET. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!
+There will be another open hour on 11 December.
+New on the CLARIN forum
+DataCite: discussion on multilingual resources
+Aligning Parlamint with Video data
+Corpus of Australian and New Zealand Spoken English now available via federated login
+New software releases
+The Switchboard version 2.4.3 has been released. This is a maintenance release, please check the changelog for details.
+
+      Dieter Van Uytvanck
+ 9 November 2023
+
+    
+centre news]]></summary>
+        <author>
+            <name>Dieter Van Uytvanck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to the Command Line]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37329/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37329/"/>
+        <updated>2023-11-09T10:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Jonathan Blaney, Digital Humanities Research Software Engineer at CDH. This session introduces the command line, sometimes also known as the shell or the terminal, to humanities researchers. No prior knowledge of the command line or programming of any kind is required or expected from attendees. A basic understanding of how to use the command]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLARIN Newsflash November 2023 Is Out]]></title>
         <id>5983 at https://www.clarin.eu</id>

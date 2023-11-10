@@ -3818,6 +3818,24 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/events/37325/",
+          "author": null,
+          "description": "An online public event at the Cambridge Social Data School The use of artificial intelligence (AI) in journalism has been ongoing for several years, but the advent of generative AI tools like ChatGPT, Bard, Midjourney, and others has ignited a thorny public debate. These technologies appear to surpass human capabilities in structuring information and producing",
+          "link": "https://www.cdh.cam.ac.uk/events/37325/",
+          "publishedOn": "2023-11-09T16:46:32.000Z",
+          "wordCount": 849,
+          "title": "Responsible AI for Journalism"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/37329/",
+          "author": null,
+          "description": "Convenor: Jonathan Blaney, Digital Humanities Research Software Engineer at CDH. This session introduces the command line, sometimes also known as the shell or the terminal, to humanities researchers. No prior knowledge of the command line or programming of any kind is required or expected from attendees. A basic understanding of how to use the command",
+          "link": "https://www.cdh.cam.ac.uk/events/37329/",
+          "publishedOn": "2023-11-09T10:25:55.000Z",
+          "wordCount": 738,
+          "title": "Introduction to the Command Line"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/events/37322/",
           "author": null,
           "description": "After the fantastic success of our last Wikipedia edit-a-thon in May, we are once again calling on the expertise of students and staff here at Cambridge to bring underrepresented histories ‘out of the shadows’ and into the light on Wikipedia. No prior Wiki experience is required! We will host an online training session at 11am",
@@ -5327,6 +5345,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5986 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 61 - November 2023\n\n            \nCLARIN technical open hour, Monday 13 November at 11:00 CET\nThe third edition of the CLARIN technology open hour is planned for next Monday at 11:00 CET. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nThere will be another open hour on 11 December.\nNew on the CLARIN forum\nDataCite: discussion on multilingual resources\nAligning Parlamint with Video data\nCorpus of Australian and New Zealand Spoken English now available via federated login\nNew software releases\nThe Switchboard version 2.4.3 has been released. This is a maintenance release, please check the changelog for details.\n\n      Dieter Van Uytvanck\n 9 November 2023\n\n    \ncentre news",
+          "link": "https://www.clarin.eu/blog/centre-news-vol-61-november-2023",
+          "publishedOn": "2023-11-09T15:58:34.000Z",
+          "wordCount": 287,
+          "title": "Centre news vol. 61 - November 2023"
+        },
         {
           "id": "5983 at https://www.clarin.eu",
           "author": "Julia Misersky",
