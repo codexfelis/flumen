@@ -1520,6 +1520,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=11347",
+          "author": "dena shamsizadeh",
+          "description": "Museums and collections of Islamic art around the world have dedicated a substantial part of their efforts and fundings to …",
+          "link": "https://digitalorientalist.com/2023/11/10/uncovering-hidden-histories-of-artifacts-with-arches-platform-a-case-study-of-persian-architectural-fragments/",
+          "publishedOn": "2023-11-10T14:00:00.000Z",
+          "wordCount": 1535,
+          "title": "Uncovering Hidden Histories of Artifacts with Arches Platform: A Case Study of Persian Architectural Fragments"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=11561",
           "author": "tjkynn",
           "description": "While others have discussed the possibilities in utilizing Transkribus and other HTR resources in research, I want to briefly discuss …",
@@ -3219,15 +3228,6 @@
           "publishedOn": "2023-05-22T12:00:00.000Z",
           "wordCount": 1159,
           "title": "Manuscript Monday: LJS 388 – [Mulakhkhaṣ fī al-hayʼah]. = [ملخص في الهيئه]. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17665",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1677, an occult compendium copied and compiled by Charles Rainsford and mainly comprising prayers, lists of divine names for invocations (p. 180-189), and instructions for conjurations taken from works attributed to well-known occultists such as JohnContinue reading \"Manuscript Monday: Ms. Codex 1677 – Ars artium … [etc.]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/05/15/manuscript-monday-ms-codex-1677-ars-artium-etc-video-orientation/",
-          "publishedOn": "2023-05-15T12:00:00.000Z",
-          "wordCount": 1153,
-          "title": "Manuscript Monday: Ms. Codex 1677 – Ars artium … [etc.]. (Video Orientation)"
         }
       ]
     },
@@ -3382,24 +3382,6 @@
             "length": "9942637",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8416",
-          "author": "Austin Martin",
-          "description": "By Austin Martin City Landscapes as Havens for Declining Bee Populations In my last blog post, I described my digital research project exploring causes of the global bee decline situation through the...",
-          "link": "https://sites.temple.edu/tudsc/2023/05/15/urban-gis-land-cover-and-bees-in-the-city-digital-methods-for-transdisciplinary-research/?utm_source=rss&utm_medium=rss&utm_campaign=urban-gis-land-cover-and-bees-in-the-city-digital-methods-for-transdisciplinary-research",
-          "publishedOn": "2023-05-15T19:58:12.000Z",
-          "wordCount": 1479,
-          "title": "Urban GIS, Land Cover, and Bees in the City: Digital Methods for Transdisciplinary Research"
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8421",
-          "author": "Trystram Spiro-Costello",
-          "description": "By T.A. Spiro-Costello Gaming as a Transitory State: Developing a Card Game about Gender Identity Games are powerful tools for experimentation.  Each choice made in a game creates a new state of...",
-          "link": "https://sites.temple.edu/tudsc/2023/05/15/gaming-as-a-transitory-state-developing-a-card-game-about-gender-identity/?utm_source=rss&utm_medium=rss&utm_campaign=gaming-as-a-transitory-state-developing-a-card-game-about-gender-identity",
-          "publishedOn": "2023-05-15T19:51:44.000Z",
-          "wordCount": 1207,
-          "title": "Gaming as a Transitory State: Developing a Card Game about Gender Identity"
         }
       ]
     },
