@@ -1172,6 +1172,15 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/925",
+          "author": "434",
+          "description": "Vor genau einem Jahr, am 14. November 2022, rief der Verband der Digital Humanities im deutschsprachigen Raum (DHd) fedihum.org ins Leben – eine Mastodon-Instanz für digitale…",
+          "link": "https://dig-hum.de/aktuelles/ein-jahr-fedihumorg-die-mastodon-instanz-des-dhd-verbands-hat-geburtstag",
+          "publishedOn": "2023-11-14T09:36:10.000Z",
+          "wordCount": 936,
+          "title": "Ein Jahr fedihum.org: Die Mastodon-Instanz des DHd-Verbands hat Geburtstag"
+        },
+        {
           "id": "node/923",
           "author": "434",
           "description": "Die pagina GmbH ist ein Dienstleistungsunternehmen mit spezieller Ausrichtung auf die digitalen Anforderungen in den Bereichen Bildung, Kultur und Wissenschaft. Zu unseren Kunden…",
@@ -1368,15 +1377,6 @@
           "publishedOn": "2023-05-23T08:03:13.299Z",
           "wordCount": 778,
           "title": "FORGE23: Call for Registration"
-        },
-        {
-          "id": "node/901",
-          "author": "434",
-          "description": "In den Digital Humanities (DH) stellen sich Karrierefragen, die in anderen Disziplinen nicht unbedingt relevant sind und die daher von klassischen Mentoringangeboten nicht…",
-          "link": "https://dig-hum.de/aktuelles/ausschreibung-zum-dhd-early-career-mentoring-programm-2023-24",
-          "publishedOn": "2023-05-19T08:03:04.935Z",
-          "wordCount": 1686,
-          "title": "Ausschreibung zum DHd Early Career Mentoring Programm 2023-24"
         }
       ]
     },
@@ -1510,6 +1510,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=11317",
+          "author": "Dr Elizabeth Bishop",
+          "description": "The 29th International Congress of Deutsche Arbeitsgemeinschaft Vorderer Orient (DAVO) took place in cooperation with the “Turkologentag 2023 — Fourth …",
+          "link": "https://digitalorientalist.com/2023/11/14/notes-from-the-field-digital-humanities-at-davo2023/",
+          "publishedOn": "2023-11-14T14:00:00.000Z",
+          "wordCount": 1861,
+          "title": "Notes from the Field: Digital Humanities at #DAVO2023"
+        },
         {
           "id": "http://digitalorientalist.com/?p=11347",
           "author": "dena shamsizadeh",
@@ -1752,15 +1761,6 @@
           "publishedOn": "2023-05-23T13:00:00.000Z",
           "wordCount": 2224,
           "title": "‘READ Workbench (part 2): Digital Repatriation, Pedagogy and Transnational Heritage’"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=10605",
-          "author": "The Digital Orientalist",
-          "description": "Our 2023 conference on Sustainability in the DH will take place on June 3rd, 2023. This year, we bring together …",
-          "link": "https://digitalorientalist.com/2023/05/19/digital-orientalists-2023-conference-sustainability-in-the-dh/",
-          "publishedOn": "2023-05-19T13:00:00.000Z",
-          "wordCount": 600,
-          "title": "Digital Orientalist’s 2023 Conference: Sustainability in the DH"
         }
       ]
     },
@@ -3228,6 +3228,15 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=1987",
+          "author": "Alisa Grishin",
+          "description": "The following is an interview between Alisa Grishin, Artes Research intern 2022-2023, and Tom Gheldof, BiblioTech Hackathon group leader. The hackathon took place in March 2023. It was a 10-day event and included a pre-hackathon orientation moment called “Meet the…\n\nContinue reading “Interview Series: In Conversation with BiblioTech Hackathon Participants”…",
+          "link": "https://scholarlytales.hcommons.org/2023/11/14/interview-series-in-conversation-with-bibliotech-hackathon-participants-5/",
+          "publishedOn": "2023-11-14T13:10:14.000Z",
+          "wordCount": 3186,
+          "title": "Interview Series: In Conversation with BiblioTech Hackathon Participants"
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=1981",
           "author": "Leah Budke",
           "description": "Are you a Digital Humanities student or early career researcher in Belgium who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual Discussion…\n\nContinue reading “Webinar Series: DH Virtual Discussion Group for ECRs in Belgium – Fall 2023 Edition”…",
@@ -3343,15 +3352,6 @@
           "publishedOn": "2023-05-30T15:11:30.000Z",
           "wordCount": 1900,
           "title": "Event: Digital Scholarship Drop-in Session with Artes Research"
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=1877",
-          "author": "Laura Mesotten",
-          "description": "During her time as postdoctoral researcher at the Faculty of Arts, Houda Lamqaddam prepared introductory materials for data visualization. You can find them on the DH@rts website. Have fun exploring these materials! A short description of the material by Houda…\n\nContinue reading “Getting started with data visualization by Houda Lamqaddam”…",
-          "link": "https://scholarlytales.hcommons.org/2023/05/19/getting-started-with-data-visualization-by-houda-lamqaddam/",
-          "publishedOn": "2023-05-19T08:13:25.000Z",
-          "wordCount": 1926,
-          "title": "Getting started with data visualization by Houda Lamqaddam"
         }
       ]
     },
@@ -3540,6 +3540,24 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4661 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "(F) “Visualisation des données de recensement de la rue du Brill en 1922” est né comme un projet interdisciplinaire expérimental qui favoriserait le dialogue public sur l’histoire. La matérialisation des données de recensement de plus de 100 ménages (près de 500 personnes) vivant dans la rue du Brill (Esch-sur-Alzette) en 1922 devait permettre aux habitants actuels de s’intéresser aux données historiques de leur quartier d’une manière nouvelle, créative et ludique.\n(GER) „Visualisierung des Historischen Archivs für die Bürger” wurde als experimentelles interdisziplinäres Projekt ins Leben gerufen, das den öffentlichen Dialog über Geschichte fördern sollte. Die Visualisierung der Volkszählungsdaten von mehr als 100 Haushalten (fast 500 Personen), die 1922 in der Brillstraße (Esch-sur-Alzette) lebten, sollte es den heutigen Bewohnern ermöglichen, sich auf neue, kreative und spielerische Weise mit den historischen Daten ihres Viertels auseinanderzusetzen.\n \nProgramme\n18.00 – Lecture\n18.45 – Q&A\n19.00 – Networking cocktail\nLangues/Sprachen: FR, DE, LUX\n \nVendredi/Freitag, 2 Février/Februar 2024\n18:00 - 19:00 \nBlack Box, Maison des Sciences Humaines, Belval Campus (11, Porte des Sciences, L-4366 Esch-sur-Alzette)\n\n\n\nInscription gratuite. Gratis Einschreibung.\n \nLegal notice.\n2 February 2024\n  Public history\n  Data Science  Public History  Visualisation\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/rue-du-brill-1922-2022-visualisation-des-archives-historiques-pour-les-citoyens",
+          "publishedOn": "2023-11-14T08:53:23.000Z",
+          "wordCount": 426,
+          "title": "Rue du Brill 1922-2022 : visualisation des archives historiques pour les citoyens / Visualisierung des Historischen Archivs für die Bürger"
+        },
+        {
+          "id": "4660 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Déi räich sozial, kulturell an industriell Vergaangenheet vun Esch-Uelzecht ass an der Erënnerung vun den Awunner ganz lieweg. D’Joëlla van Donkersgoed an d’Laura Steil, Fuerscher am C²DH, hunn zesumme mat de Leit vun Esch historesch Fuerschung gemaach fir eng “Volleksgeschicht” ze kreéieren. Bei dëser Presentatioun fokuseieren si seich op dräi Projeten – Escher Kaffi, HistorEsch an Dancing Esch – a beliichten wéi si hir Recherche gemaach hunn. Si konzentreieren sech virun allem op d’Wichtigkeet vun der Forschungsethik, weisen op wéi Bezéiungen mat den Individuen an den Gemeinschaften am Zentrum vun Projeten stinn an gin dorop an daat Relatiounen duerch Vertrauen opgebaut gin. Am Kontext vu Lëtzebuerg, wou d’Intimitéit an d’Verbindung an de lokale Communautéiten besonnesch héich sinn, spillen Rapport a Géigesäitegkeet eng wesentlech Roll an der Fuerschungszesummenaarbecht.\n \nProgramm\n18.00 – Virtrag\n18.45 – Froën an Äntwerten\n19.00 – Networking cocktail\nDe Virtrag as op Däitsch a Lëtzebuergesch.\n \nMëttwoch, den 10. Januar 2024\nvun 18.00 bis 19.00 Auer\nBlack Box, Maison des Sciences Humaines, Belval Campus (11, Porte des Sciences, L-4366 Esch-sur-Alzette)\n\n\n\nMellt Ierch w.e.g. gratis un.\n \nLegal notice\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/volleksgeschicht.png?itok=_tE2Gnfl\n  Dëse Virtrag gëtt gehalen am Kader vun der Serie \"20 years of ideas!\" vun der Uni Lëtzebuerg.\n  10 January 2024\n  Public history\n  Escher Kaffi: taking the pulse of the city  Public History as the New Citizen Science of the Past (PHACS)  Transnational popular culture – Europe in the long 1960s (2)\n  Public History  Regional history\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/volleksgeschicht-zu-letzebuerg-sennvoll-verbindunge-mat-leit-maachen",
+          "publishedOn": "2023-11-14T08:28:45.000Z",
+          "wordCount": 422,
+          "title": "“Volleksgeschicht” zu Lëtzebuerg: sënnvoll Verbindunge mat Leit maachen"
+        },
         {
           "id": "4659 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
