@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-18T08:13:40.070Z</updated>
+    <updated>2023-11-19T08:13:25.148Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -1693,6 +1693,15 @@ Read more ""]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FAQs]]></title>
+        <id>https://www.cdh.cam.ac.uk/mphil/faqs/</id>
+        <link href="https://www.cdh.cam.ac.uk/mphil/faqs/"/>
+        <updated>2023-10-23T09:03:48.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PhD]]></title>
         <id>https://www.cdh.cam.ac.uk/phd/</id>
         <link href="https://www.cdh.cam.ac.uk/phd/"/>
@@ -2311,6 +2320,15 @@ Continue reading “Training: How Do You Do (It)? A behind-the-scenes look at re
         <link href="https://www.cdh.cam.ac.uk/events/37238/"/>
         <updated>2023-10-11T10:22:43.000Z</updated>
         <summary type="html"><![CDATA[Convenor: Claire Carroll (CDH Methods Fellow) Interactive Fiction (IF) stories let readers decide which paths the story should follow, featuring non-linear narrative design. The discipline combines the excitement of post-structuralist narratives with the power of creative coding, making it a perfect introduction for participants more familiar with one field than the other. In this workshop,]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newsletter]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/newsletter/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/newsletter/"/>
+        <updated>2023-10-11T08:12:47.000Z</updated>
         <author>
             <name>CDH</name>
         </author>
@@ -7594,67 +7612,6 @@ here.
 The post Using Transkribus for OCR with printed books appeared first on READ-COOP.]]></summary>
         <author>
             <name>Florian Stauder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who’s who on the Zoo(niverse)?]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=3334</id>
-        <link href="https://livingwithmachines.ac.uk/whos-who-on-the-zooniverse/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whos-who-on-the-zooniverse"/>
-        <updated>2023-05-23T16:52:48.000Z</updated>
-        <summary type="html"><![CDATA[At the time of writing, our crowdsourcing projects on Zooniverse have reached well over 5000 volunteers. But who are they, and why have they taken part? (Or ‘who are you’, if you’re one of our volunteers – hi and thank you!) To find out, back in May-June 2022 we ran a survey of our Zooniverse […]]]></summary>
-        <author>
-            <name>Mia Ridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘READ Workbench (part 2): Digital Repatriation, Pedagogy and Transnational Heritage’]]></title>
-        <id>http://digitalorientalist.com/?p=10651</id>
-        <link href="https://digitalorientalist.com/2023/05/23/read-workbench-part-2-digital-repatriation-pedagogy-and-transnational-heritage/"/>
-        <updated>2023-05-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: The READ Workbench and its Potential The READ (‘Research Environment for Ancient Documents’) Workbench, originally designed for interpreting and …]]></summary>
-        <author>
-            <name>Christopher L. Diamond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FORGE23: Call for Registration]]></title>
-        <id>node/902</id>
-        <link href="https://dig-hum.de/aktuelles/forge23-call-for-registration"/>
-        <updated>2023-05-23T08:03:13.299Z</updated>
-        <summary type="html"><![CDATA[Die FORGE – Forschungsdaten in den Geisteswissenschaften, findet unter dem Motto „Anything Goes?!“ vom 4. bis 6. Oktober 2023 in Tübingen statt. 
-Die Anmeldung für die Konferenz…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New PhD in Digital Humanities]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/new-phd-in-digital-humanities/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/new-phd-in-digital-humanities/"/>
-        <updated>2023-05-23T07:40:03.000Z</updated>
-        <summary type="html"><![CDATA[CDH has launched a new PhD Programme in Digital Humanities starting in October 2024. The PhD in Digital Humanities is a research-intensive programme new for 2024 that will enable students to engage at doctoral level with projects demanding the use of digital methods, tools, or adopting critical/theoretical orientations. This programme expands the humanities offering at]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zurich Digital Visual Studies Workshop]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36643/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36643/"/>
-        <updated>2023-05-23T06:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Cambridge Digital Humanities is pleased to welcome a team of scholars from the Max Planck Institute’s Digital Visual Studies project at the University of Zürich. Digital Visual Studies looks at the science, history, culture, and politics of images in and through the digital. It expands Art History towards the Digital Humanities, developing new methodologies and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musings on Web Development at Rutgers]]></title>
-        <id>https://dh.rutgers.edu/?p=77978</id>
-        <link href="https://dh.rutgers.edu/ru-web-dev/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ru-web-dev"/>
-        <updated>2023-05-22T22:00:09.000Z</updated>
-        <summary type="html"><![CDATA[I am frequently asked about the Rutgers environment for creating scholarly websites. I am always happy to come to classes to guide people through this terrain, but in the interest of serving the broader Rutgers DH community, I am sharing these slightly opinionated thoughts about web publishing here. I mostly presume a Rutgers audience, although I do include some external recommendations that would be good for anybody looking to publish their scholarship to the web. This post borrows from Andrew Goldstone’s “Notes on Using Digital Media for First-Year Graduate Students,” which goes into further detail on DH and on being an academic on the web.]]></summary>
-        <author>
-            <name>Francesca Giannetti</name>
         </author>
     </entry>
     <entry>
