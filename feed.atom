@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-23T08:13:47.070Z</updated>
+    <updated>2023-11-24T08:14:07.891Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Annual General Meeting 2023]]></title>
+        <id>https://aa-dh.org/?p=512</id>
+        <link href="https://aa-dh.org/2023/11/24/annual-general-meeting-2024/"/>
+        <updated>2023-11-24T06:15:30.000Z</updated>
+        <summary type="html"><![CDATA[The Annual General Meeting of aaDH will be held as an electronic meeting which will open on Monday December 4, 2023 and close on Monday December 11, 2023. The meeting will be conducted via a shared (google) document and the link to the document will be circulated on December 4 to open the meeting.  As … Continue reading "Annual General Meeting 2023"]]></summary>
+        <author>
+            <name>Simon Musgrave</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the Metaverse with Professor Lily Díaz-Kommonen]]></title>
         <id>https://www.cdh.cam.ac.uk/events/37349/</id>
@@ -318,6 +328,23 @@ Abstract: In this paper, we present a novel approach that combines density-based
 Read full topic]]></summary>
         <author>
             <name>Manuel_Burghardt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Canonicity: Modeling Canon/Archive Literary Change in French Fiction]]></title>
+        <id>discourse.computational-humanities-research.org-topic-2095</id>
+        <link href="https://discourse.computational-humanities-research.org/t/beyond-canonicity-modeling-canon-archive-literary-change-in-french-fiction/2095"/>
+        <updated>2023-11-17T13:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Speaker: Jean Barré and Thierry Poibeau
+ Affiliation: 1, École normale supérieure - Université PSL, 45 rue d’Ulm, Paris, 75005, France; 2, Lattice (Langues, Textes, Traitements informatiques, Cognition), 1 rue Maurice Arnoux, Montrouge, 92049, France
+Title: Beyond Canonicity: Modeling Canon/Archive Literary Change in French Fiction
+Abstract: This study offers a fresh perspective on the Canon/Archive problem in literature through computational analysis. Following Tynianov’s understanding of literature, we adopt a dynamic approach to literature by proposing a model of literary variability using the Kullback-Leibler divergence. We retrieve key authors and works that shape the broad outlines of literary change. Our aim is to evaluate the importance of canonical authors on literary variability. We opt for a cohort-driven setup to analyze the variability contributed by a given text, focusing on specific formal and semantic aspects of texts such as topics, lexicon, characterization, and chronotope. The findings reveal that canonical authors tend to contribute slightly more to literary change than those from the archive.
+ Link to paper
+ Link to Github asap
+1 post - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>jbarre</name>
         </author>
     </entry>
     <entry>

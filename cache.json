@@ -120,6 +120,15 @@
       "siteUrl": "https://aa-dh.org",
       "articles": [
         {
+          "id": "https://aa-dh.org/?p=512",
+          "author": "Simon Musgrave",
+          "description": "The Annual General Meeting of aaDH will be held as an electronic meeting which will open on Monday December 4, 2023 and close on Monday December 11, 2023. The meeting will be conducted via a shared (google) document and the link to the document will be circulated on December 4 to open the meeting.  As … Continue reading \"Annual General Meeting 2023\"",
+          "link": "https://aa-dh.org/2023/11/24/annual-general-meeting-2024/",
+          "publishedOn": "2023-11-24T06:15:30.000Z",
+          "wordCount": 352,
+          "title": "Annual General Meeting 2023"
+        },
+        {
           "id": "https://aa-dh.org/?p=502",
           "author": "Simon Musgrave",
           "description": "This is a placeholder – information to come very soon.",
@@ -1894,6 +1903,15 @@
           "publishedOn": "2023-11-17T13:51:59.000Z",
           "wordCount": 189,
           "title": "From Clusters to Graphs – Toward a Scalable Viewing of News Videos"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-2095",
+          "author": "jbarre",
+          "description": "Speaker: Jean Barré and Thierry Poibeau\n Affiliation: 1, École normale supérieure - Université PSL, 45 rue d’Ulm, Paris, 75005, France; 2, Lattice (Langues, Textes, Traitements informatiques, Cognition), 1 rue Maurice Arnoux, Montrouge, 92049, France\nTitle: Beyond Canonicity: Modeling Canon/Archive Literary Change in French Fiction\nAbstract: This study offers a fresh perspective on the Canon/Archive problem in literature through computational analysis. Following Tynianov’s understanding of literature, we adopt a dynamic approach to literature by proposing a model of literary variability using the Kullback-Leibler divergence. We retrieve key authors and works that shape the broad outlines of literary change. Our aim is to evaluate the importance of canonical authors on literary variability. We opt for a cohort-driven setup to analyze the variability contributed by a given text, focusing on specific formal and semantic aspects of texts such as topics, lexicon, characterization, and chronotope. The findings reveal that canonical authors tend to contribute slightly more to literary change than those from the archive.\n Link to paper\n Link to Github asap\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/beyond-canonicity-modeling-canon-archive-literary-change-in-french-fiction/2095",
+          "publishedOn": "2023-11-17T13:41:56.000Z",
+          "wordCount": 223,
+          "title": "Beyond Canonicity: Modeling Canon/Archive Literary Change in French Fiction"
         },
         {
           "id": "discourse.computational-humanities-research.org-topic-2095",
