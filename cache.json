@@ -1878,15 +1878,6 @@
           "publishedOn": "2023-06-02T13:00:00.000Z",
           "wordCount": 665,
           "title": "Working in DH projects – a survey."
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=10362",
-          "author": "James Harry Morris",
-          "description": "At the Digital Orientalist we tend to review a lot of projects, tools and databases, but when we do so …",
-          "link": "https://digitalorientalist.com/2023/05/30/the-evolution-of-projects-and-the-importance-of-reassessment/",
-          "publishedOn": "2023-05-31T00:11:30.000Z",
-          "wordCount": 1642,
-          "title": "The Evolution of Projects and the Importance of Reassessment"
         }
       ]
     },
@@ -3117,6 +3108,66 @@
       "feedUrl": "https://reviewsindh.pubpub.org/rss.xml",
       "siteUrl": "https://reviewsindh.pubpub.org",
       "articles": [
+        {
+          "id": "e21acca8-778b-4f07-9956-a47d36993d65",
+          "author": "Gimena del Rio Riande",
+          "description": "A review of Alice in their garden, a multimodal curatorial Afro-Latinx ecocriticism project, directed by Mary Pena and Yomaira Figueroa-Vásquez",
+          "link": "https://reviewsindh.pubpub.org/pub/alive-in-their-garden",
+          "publishedOn": "2023-11-27T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Alive in their garden",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/xwp6zh5x/21DFA8DA-61C0-4240-B6C5-D4EB17682C98-31700868016975.jpeg"
+          }
+        },
+        {
+          "id": "d7fda279-9112-4582-a705-0aef59fb8009",
+          "author": "Taylor Hughes-Barrow",
+          "description": "A review of Affirmation 2.0, a video game promoting mental health for Black women and children, developed by Diamond E. Beverly-Porter",
+          "link": "https://reviewsindh.pubpub.org/pub/affirmations-2",
+          "publishedOn": "2023-11-27T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Affirmations 2.0",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/oqc940h7/645F0BD3-5F04-43BD-97B5-4CF26247FAE2-51700866500867.png"
+          }
+        },
+        {
+          "id": "55d2f79e-104b-4add-a5ae-7dfdc0af82dc",
+          "author": "Nabeel Siddiqui",
+          "description": "A review of the Bitter Aloe Project, a machine learning approach to studying South Africa’s Truth and Reconciliation Commission, led by Stephen Davis, William Mattingly, Robert Vaughan, and Jamari Turner",
+          "link": "https://reviewsindh.pubpub.org/pub/bitter-aloe-project",
+          "publishedOn": "2023-11-27T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Bitter Aloe Project",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/83ucgk65/C97263DE-2084-4FE5-9B25-5D34F496AF6E-01700869401816.jpeg"
+          }
+        },
+        {
+          "id": "fffd5fa3-f03e-4e97-ab68-779dec9ba48c",
+          "author": "Ysabel Munoz Martinez",
+          "description": "A review of Folklore, Place, and Song, a digital mapping project on corridos, created by Fiona Hartley-Kroeger, Matthew Kollmer, Loida Pan, and Isabella Viega",
+          "link": "https://reviewsindh.pubpub.org/pub/folklore-place-and-song",
+          "publishedOn": "2023-11-27T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Folklore, Place, and Song",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/7bud2n2g/8248E5F9-D338-49A7-B809-C56E3E07D364-61700917676187.jpeg"
+          }
+        },
+        {
+          "id": "04c447a9-4a61-44a1-895e-56a123125e1a",
+          "author": "Roopika Risam",
+          "description": "Editors' note on the November 2023 issue of Reviews in Digital Humanities, a special issue from the Global DH Symposium, guest edited by Heather F. Ball, Viola Lasmana, Kristen Mapes, Ysabel Muñoz Martinez, and Merve Tekgürler",
+          "link": "https://reviewsindh.pubpub.org/pub/editors-note-november-2023",
+          "publishedOn": "2023-11-27T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Editors’ Note: November 2023",
+          "enclosure": {
+            "url": "https://assets.pubpub.org/uijf3g41/5EBC1D88-20DA-4D7E-8BDB-99283F9B638D-21701003983939.png"
+          }
+        },
         {
           "id": "def1ef6b-3e26-4d10-ac4a-a722f29e3696",
           "author": "Jennifer Guiliano",
