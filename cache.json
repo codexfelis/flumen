@@ -1458,15 +1458,6 @@
           "publishedOn": "2023-06-05T19:26:40.000Z",
           "wordCount": 878,
           "title": "Einladung zum DHd Community Forum am 07.07.2023, 14 Uhr"
-        },
-        {
-          "id": "node/903",
-          "author": "434",
-          "description": "Die 10. DHd Jahreskonferenz wird vom 26.02.2024 bis zum 01.03.2024 in Passau unter dem Motto \"DH Quo Vadis\" stattfinden. \nCall for Papers\nMittlerweile ist es zehn Jahre her, dass…",
-          "link": "https://dig-hum.de/aktuelles/call-for-papers-dhd2024",
-          "publishedOn": "2023-06-01T13:40:14.000Z",
-          "wordCount": 2467,
-          "title": "Call for Papers: DHd2024"
         }
       ]
     },
@@ -3030,6 +3021,15 @@
       "siteUrl": "https://review.gale.com",
       "articles": [
         {
+          "id": "https://review.gale.com/?p=14885",
+          "author": "Gale Review Team",
+          "description": "│By Heather Colley, Doctoral Student at the University of Oxford│ The history of technological development is synonymous with a history of cultural criticism that questions the applications and ramifications of that very tech. The work of Walter Benjamin is perhaps some of the most significant and perennial in the realm of technology criticism; and, in ... Read more\nThe post The Literary Archive in the Artificial Intelligence Era appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2023/11/28/the-literary-archive-in-the-ai-era/",
+          "publishedOn": "2023-11-28T07:00:00.000Z",
+          "wordCount": 1637,
+          "title": "The Literary Archive in the Artificial Intelligence Era"
+        },
+        {
           "id": "https://review.gale.com/?p=14848",
           "author": "Gale Review Team",
           "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ This is a follow-up blog post to last month’s overview of working with Storymaps in the DH classroom.  We will consider a few more ways to engage students in the creative and intellectually rigorous process of building Digital Humanities projects, conducting analyses, and demonstrating the outcomes of ... Read more\nThe post Re-imagining Assignments in the DH Classroom II: Timelines, Digital Exhibits, and Maps appeared first on The Gale Review.",
@@ -3499,6 +3499,15 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=17924",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1674, a collection of cabalistic works with an emphasis on angels. The primary text is an Italian and Latin translation of excerpts from the Sefer Raziel HaMalach in which Solomon recounts how the angel Raziel deliveredContinue reading \"Manuscript Monday: Ms. Codex 1674 – [Sefer Raziel HaMalach… etc.]. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2023/11/27/manuscript-monday-ms-codex-1674-sefer-raziel-hamalach-etc-video-orientation/",
+          "publishedOn": "2023-11-27T14:00:00.000Z",
+          "wordCount": 1334,
+          "title": "Manuscript Monday: Ms. Codex 1674 – [Sefer Raziel HaMalach… etc.]. (Video Orientation)"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=17922",
           "author": "simsmss",
