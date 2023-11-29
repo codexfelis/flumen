@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-28T08:15:02.898Z</updated>
+    <updated>2023-11-29T08:15:12.472Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mellon Seminar: Jessica Mack]]></title>
+        <id>1271 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/events/mellon-seminar-jessica-mack"/>
+        <updated>2023-11-28T14:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Monday, January 22, 2024 - 12:00pm
+
+
+
+The University from Above: Mapping Mexico City with Archival Aerial Imagery  
+ 
+Aerial photography has historically been used as a technology of war, surveillance, and the promotion of large development projects. Despite these original purposes, however, archival aerial imagery and digital mapping methods can also allow us to document historical processes that have been omitted from traditional archival sources. This project applies georectification to aerial imagery of Mexico City to better understand the 1950s campus construction for the National Autonomous University of Mexico (UNAM) and the stories of communities that lived in this region before the campus was built. Visualizing the university from above helps us understand the social landscape of …]]></summary>
+        <author>
+            <name>svarner@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAWGraphs: The New Way to Visualize Data]]></title>
+        <id>http://digitalorientalist.com/?p=11667</id>
+        <link href="https://digitalorientalist.com/2023/11/28/rawgraphs-the-new-way-to-visualize-data/"/>
+        <updated>2023-11-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(This is a guest post by Özge Eda Kaya.) Data analysis and visualization are very important in the modern world, …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Literary Archive in the Artificial Intelligence Era]]></title>
         <id>https://review.gale.com/?p=14885</id>
@@ -7727,26 +7753,6 @@ The post Try out the Transkribus Next Gen Desk on our Beta appeared first on REA
         <summary type="html"><![CDATA[Imogen works at Cambridge Digital Library as a Digital Library Coordinator, with a focus on data. She has a background in software development and is interested in the digital representation, manipulation, and management of information.]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working in DH projects – a survey.]]></title>
-        <id>http://digitalorientalist.com/?p=10664</id>
-        <link href="https://digitalorientalist.com/2023/06/02/working-in-dh-projects-a-survey/"/>
-        <updated>2023-06-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is prepared together with Tilman Schalmey (Trier University). Digital approaches changed a lot in the way we deal …]]></summary>
-        <author>
-            <name>Mariana Zorkina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prof. Dino Buzzetti, In Memoriam]]></title>
-        <id>https://adho.org/?p=1999</id>
-        <link href="https://adho.org/2023/06/02/prof-dino-buzzetti-in-memoriam/"/>
-        <updated>2023-06-02T12:26:34.000Z</updated>
-        <summary type="html"><![CDATA[The following memorial announcements and condolences were published by EADH and AIUCD The passing of Prof. Dino Buzzetti Dear colleagues, dear EADH community, It is with immense sadness that I must inform you of the passing of Prof. Dino Buzzetti on Sunday, 23 April. Dino was one of the most profound and insightful minds in… Read More »Prof. Dino Buzzetti, In Memoriam]]></summary>
-        <author>
-            <name>Erdal Ayan</name>
         </author>
     </entry>
     <entry>
