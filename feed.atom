@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-11-29T08:15:12.472Z</updated>
+    <updated>2023-11-30T08:13:41.872Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ADHC Talks Post]]></title>
+        <id>https://adhc.lib.ua.edu/?p=1885</id>
+        <link href="https://adhc.lib.ua.edu/adhc-talks-post/"/>
+        <updated>2023-11-29T21:34:32.000Z</updated>
+        <summary type="html"><![CDATA[ADHC Talk Title https://www.youtube.com/watch?v=XHOmBV4js_E Description This is where you put the ADHC Talk description. Season: #Episode: #Date: MM/DD/YYYYPresenter: PresenterTopic: TopicTags: Tag, Tag, Tag
+The post ADHC Talks Post appeared first on Alabama Digital Humanities Center.]]></summary>
+        <author>
+            <name>adhcadmin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mellon Seminar: Jessica Mack]]></title>
         <id>1271 at https://pricelab.sas.upenn.edu</id>
