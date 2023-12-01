@@ -1878,6 +1878,24 @@
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
         {
+          "id": "discourse.computational-humanities-research.org-topic-2114",
+          "author": "melvin.wevers",
+          "description": "Computational analysis of artistic style prevalence in generative AI art (Thomas Efer and Andreas Niekler)\nThe Evolution of News Headlines (Pietro L. Nickl)\nEvaluating State-of-the-Art Handwritten Text Recognition (HTR) Engines with Large Language Models (LLMs) for Historical Document Digitisation (Christel Annemieke Romein, Achim Rabus, Gundram Leifert, Tobias Hodel and Phillip Ströbel)\nThe Flemish Operation: Language Choices in the Repertoire of the Antwerp Opera (1893 – 1934) (Mona Allaert and Mike Kestemont)\nMetronome: tracing variation in poetic meters via local sequence alignment (Benjamin Nagy, Artjoms Šeļa, Mirella De Sisto, Wouter Haverals and Petr Plecháč)\nAnalysing Image Similarity Recommendations Across Photographic Collections (Taylor Arnold and Lauren Tilton)\nUnderstanding th…",
+          "link": "https://discourse.computational-humanities-research.org/t/chr2023-posters/2114",
+          "publishedOn": "2023-11-30T15:48:34.000Z",
+          "wordCount": null,
+          "title": "CHR2023 Posters"
+        },
+        {
+          "id": "discourse.computational-humanities-research.org-topic-2098",
+          "author": "melvin.wevers",
+          "description": "Day 1 - Wednesday 06 Dec 2023\n2023-12-06T08:00:00Z UTC Registration opens\nWorkshops\n2023-12-06T08:00:00Z UTC → 2023-12-06T09:30:00Z UTC\n@florian.cafiero and Jean-Luc Falcone\nTransforming archives into data-driven analyses\n\nMarianne Reboul\nTextual analysis with Python and Large Language Models\n\nGiovanni Pietro Vitali\nMapping with R for humanities\n\n\n\n\nCoffee break \n\n2023-12-06T09:30:00Z UTC → 2023-12-06T10:15:00Z UTC\nCHR opening words \n\n2023-12-06T10:15:00Z UTC → 2023-12-06T10:30:00Z UTC\nSession 1: Historical Change \n\n2023-12-06T10:30:00Z UTC → 2023-12-06T12:00:00Z UTC ;  @ash\n Vojtech Kase, Adéla Sobotková and Petra Heřmánková\nModeling temporal uncertainty in historical datasets (Short Talk)\n\n\n Wenyi Shang, Song Chen, Yuqi Chen and Jana Diesner\nStructural Characteristics in Historical Netwo…",
+          "link": "https://discourse.computational-humanities-research.org/t/chr2023-schedule/2098",
+          "publishedOn": "2023-11-20T13:35:29.000Z",
+          "wordCount": 1412,
+          "title": "CHR2023 Schedule"
+        },
+        {
           "id": "discourse.computational-humanities-research.org-topic-2096",
           "author": "Manuel_Burghardt",
           "description": "Speaker: Nicolas Ruth, Manuel Burghardt and Bernhard Liebl\n Affiliation: Computational Humanities Group, Institute for Computer Science, Leipzig University, Germany\nTitle: From Clusters to Graphs – Toward a Scalable Viewing of News Videos\nAbstract: In this paper, we present a novel approach that combines density-based clustering and graph modeling to create a scalable viewing application for the exploration of similarity patterns in news videos. Unlike most existing video analysis tools that focus on individual videos, our approach allows for an overview of a larger collection of videos, which can be further examined based on their connections or communities. By utilizing scalable reading, specific subgraphs can be selected from the overview and their respective clusters can be explored in more detail on the video frame level.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
