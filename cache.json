@@ -161,15 +161,6 @@
           "publishedOn": "2023-08-15T22:13:50.000Z",
           "wordCount": 194,
           "title": "ACH seeks working group proposals"
-        },
-        {
-          "id": "https://ach.org/?p=2472",
-          "author": "Quinn Dombrowski",
-          "description": "The Association for Computers and the Humanities is sad to share the news of David L. Hoover’s passing on May 25, 2023. David served on the ACH Executive Board from 2005 to 2008, and as Vice-President in 2006-2007. For decades, he was among the most faithful presences at the annual DH conference (remarkably, he presented…Continue reading.",
-          "link": "https://ach.org/blog/2023/06/05/in-memoriam-david-l-hoover/",
-          "publishedOn": "2023-06-05T15:02:07.000Z",
-          "wordCount": 828,
-          "title": "In memoriam David L. Hoover"
         }
       ]
     },
@@ -292,15 +283,6 @@
           "publishedOn": "2023-06-15T11:26:13.000Z",
           "wordCount": 202,
           "title": "Welcome 2023 Communications Fellow, Damir Padieu"
-        },
-        {
-          "id": "https://adho.org/?p=2016",
-          "author": "EB Chair",
-          "description": "The following memorial announcement was published by ACH. The Association for Computers and the Humanities is sad to share the news of David L. Hoover’s passing on May 25, 2023. David served on the ACH Executive Board from 2005 to 2008, and as Vice-President in 2006-2007. For decades, he was among the most faithful presences… Read More »In memoriam Prof. David Hoover",
-          "link": "https://adho.org/2023/06/05/in-memoriam-prof-david-hoover/",
-          "publishedOn": "2023-06-05T10:57:49.000Z",
-          "wordCount": 853,
-          "title": "In memoriam Prof. David Hoover"
         }
       ]
     },
@@ -473,6 +455,15 @@
       "feedUrl": "https://dh.rutgers.edu/feed/",
       "siteUrl": "https://dh.rutgers.edu",
       "articles": [
+        {
+          "id": "https://dh.rutgers.edu/?p=78079",
+          "author": "Francesca Giannetti",
+          "description": "Deadline: January 16, 2024 Award: up to $1,000 Funding/Project Period: April 1, 2024–March 31, 2025 Download CFP Overview The Rutgers Digital Humanities Initiative (DHI) invites proposals from graduate students in any Rutgers–New Brunswick humanities department or program for seed grants of up to $1,000 to support digital humanities projects in research and/or public outreach. These projects may, but need not, be related to the applicant’s dissertation research. Grants will support projects conducted during the 12 months from the date of award (i.e. April 1, 2024–March 30, 2025). Digital humanities encompasses scholarship that applies computing technologies in humanistic inquiry or studies computing technology humanistically. Examples of digital",
+          "link": "https://dh.rutgers.edu/seed-grant-cfp2024/?utm_source=rss&utm_medium=rss&utm_campaign=seed-grant-cfp2024",
+          "publishedOn": "2023-12-01T21:44:44.000Z",
+          "wordCount": 778,
+          "title": "Call for Proposals: Graduate Seed Grants 2024-2025"
+        },
         {
           "id": "https://dh.rutgers.edu/?p=78057",
           "author": "Francesca Giannetti",
@@ -1449,15 +1440,6 @@
           "publishedOn": "2023-06-20T14:06:02.000Z",
           "wordCount": 1299,
           "title": "Call for Hosts DHd2026"
-        },
-        {
-          "id": "node/904",
-          "author": "434",
-          "description": "Liebe Mitglieder des DHd-Verbandes und Interessierte,\nfür unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…",
-          "link": "https://dig-hum.de/aktuelles/einladung-zum-dhd-community-forum-am-07072023-14-uhr",
-          "publishedOn": "2023-06-05T19:26:40.000Z",
-          "wordCount": 878,
-          "title": "Einladung zum DHd Community Forum am 07.07.2023, 14 Uhr"
         }
       ]
     },
@@ -1618,6 +1600,15 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=11364",
+          "author": "The Digital Orientalist",
+          "description": "(This is a guest post by Chandini Jaswal) Chao Tayiana Maina is a Kenyan historian and digital heritage specialist working …",
+          "link": "https://digitalorientalist.com/2023/12/01/situating-digital-heritag-in-africa-an-interview-with-the-dh-specialist-and-2023-dan-david-prize-winner-chao-tayiana-maina-part-1/",
+          "publishedOn": "2023-12-01T14:00:00.000Z",
+          "wordCount": 1900,
+          "title": "Situating Digital Heritage in Africa: An Interview with the DH Specialist and 2023 Dan David Prize Winner, Chao Tayiana Maina (Part 1)"
+        },
         {
           "id": "http://digitalorientalist.com/?p=11667",
           "author": "The Digital Orientalist",
