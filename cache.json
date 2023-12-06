@@ -1700,6 +1700,15 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=11377",
+          "author": "The Digital Orientalist",
+          "description": "In the previous instalment of this interview, DH Specialist and 2023 Dan David Prize Winner Chao Tayiana Maina discussed how …",
+          "link": "https://digitalorientalist.com/2023/12/05/situating-digital-heritage-in-africa-an-interview-with-the-dh-specialist-and-2023-dan-david-prize-winner-chao-tayiana-maina-part-2/",
+          "publishedOn": "2023-12-05T14:02:57.000Z",
+          "wordCount": 1929,
+          "title": "Situating Digital Heritage in Africa: An Interview with the DH Specialist and 2023 Dan David Prize Winner, Chao Tayiana Maina (Part 2)"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=11364",
           "author": "The Digital Orientalist",
           "description": "(This is a guest post by Chandini Jaswal) Chao Tayiana Maina is a Kenyan historian and digital heritage specialist working …",
@@ -1941,15 +1950,6 @@
           "publishedOn": "2023-09-05T14:23:24.000Z",
           "wordCount": 1259,
           "title": "The Digital Orientalist: 10 years in the making"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=10707",
-          "author": "The Digital Orientalist",
-          "description": "The Digital Orientalist is happy to announce its annual open call for editors, contributors, and team members. Apply and share …",
-          "link": "https://digitalorientalist.com/2023/06/09/call-for-applications/",
-          "publishedOn": "2023-06-09T12:21:00.000Z",
-          "wordCount": 728,
-          "title": "Call for Applications"
         }
       ]
     },
@@ -5673,6 +5673,15 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "5996 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "CLARIN Exchange Venice-Lisbon 2023\n\n            \nWritten by Jessica Puliero, PhD, Ca' Foscari University\n \nI applied for the CLARIN Mobility Grant to enhance some aspects related to my doctoral project, which focuses on the study of the Pellestrina dialect and the development of digital tools for linguistic analysis. Thanks to the financial support from CLARIN, from 6 to 12 November, 2023, I was able to visit the Faculty of Social Sciences and Humanities at the Universidade Nova de Lisboa (FCSH), and connect with some of the most qualified European scholars in the field of Digital Humanities and computational linguistics.\nThe aim of this stay was to expand my knowledge in the use of advanced digital tools for lexical analysis and the development of domain ontologies. Indeed, these are cruc…",
+          "link": "https://www.clarin.eu/blog/clarin-exchange-venice-lisbon-2023",
+          "publishedOn": "2023-12-05T08:23:39.000Z",
+          "wordCount": 1017,
+          "title": "CLARIN Exchange Venice-Lisbon 2023"
+        },
         {
           "id": "5990 at https://www.clarin.eu",
           "author": "Karina Berger",
