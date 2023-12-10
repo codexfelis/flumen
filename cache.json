@@ -392,6 +392,15 @@
       "siteUrl": "https://caa-international.org",
       "articles": [
         {
+          "id": "https://caa-international.org/?p=17778",
+          "author": "Lisa Fischer",
+          "description": "The bursary notifications have been delayed due to the large number of requests received. All applicants will be notified by email on 11 December (or 12 December for colleagues in Australasia) of the status of their requests. We apologise for the inconvenience!",
+          "link": "https://caa-international.org/2023/12/09/bursary-notifications-delayed-until-11-december/",
+          "publishedOn": "2023-12-09T17:23:47.000Z",
+          "wordCount": 127,
+          "title": "Bursary Notifications Delayed until 11 December"
+        },
+        {
           "id": "https://caa-international.org/?p=17771",
           "author": "Lisa Fischer",
           "description": "The proposal to hold the CAA2025 conference in Athens, Greece, from 5-9 May received overwhelming support from the membership. Additional details about the conference plans will be posted as they become available, so mark your calendars and stay tuned!",
@@ -408,15 +417,6 @@
           "publishedOn": "2023-08-22T19:32:10.000Z",
           "wordCount": 161,
           "title": "Become a CAA Peer Reviewer"
-        },
-        {
-          "id": "http://wp.caa-international.org/?p=1",
-          "author": "hembo",
-          "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
-          "link": "https://caa-international.org/2023/06/13/hello-world/",
-          "publishedOn": "2023-06-13T08:05:12.000Z",
-          "wordCount": 90,
-          "title": "Hello world!"
         }
       ]
     },
