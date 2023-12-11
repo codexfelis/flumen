@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-12-11T08:15:23.806Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2023-12-11T16:32:49.375Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Professor Caroline Bassett gives keynote at UNESCO World Futures Day 2023]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/professor-caroline-bassett-gives-keynote-at-unesco-world-futures-day-2023/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/professor-caroline-bassett-gives-keynote-at-unesco-world-futures-day-2023/"/>
+        <updated>2023-12-11T15:37:26.000Z</updated>
+        <summary type="html"><![CDATA[On 4 December 2023, thought-leaders, policymakers and practitioners from around the world gathered at the UNESCO headquarters in Paris to celebrate the second World Futures Day (WFD). Professor Caroline Bassett, Director of Cambridge Digital Humanities, delivered the keynote: But which future should we stay with? World Futures Day was created to emphasise the critical role]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1676 – [Alchemical and medical compendium]. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=17930</id>
+        <link href="https://schoenberginstitute.org/2023/12/11/manuscript-monday-ms-codex-1676-alchemical-and-medical-compendium-video-orientation/"/>
+        <updated>2023-12-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1676, a collection of instructional works bound together concerning alchemy, divination, medical remedies, and anatomy. Includes a partial alphabetical index (f. i recto-v verso). Instructions include details on alchemical procedures such as calcination, distillation and transmutationContinue reading "Manuscript Monday: Ms. Codex 1676 – [Alchemical and medical compendium]. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bursary Notifications Delayed until 11 December]]></title>
         <id>https://caa-international.org/?p=17778</id>
@@ -534,56 +554,6 @@ The post The Literary Archive in the Artificial Intelligence Era appeared first 
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1674, a collection of cabalistic works with an emphasis on angels. The primary text is an Italian and Latin translation of excerpts from the Sefer Raziel HaMalach in which Solomon recounts how the angel Raziel deliveredContinue reading "Manuscript Monday: Ms. Codex 1674 – [Sefer Raziel HaMalach… etc.]. (Video Orientation)"]]></summary>
         <author>
             <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alive in their garden]]></title>
-        <id>e21acca8-778b-4f07-9956-a47d36993d65</id>
-        <link href="https://reviewsindh.pubpub.org/pub/alive-in-their-garden"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Alice in their garden, a multimodal curatorial Afro-Latinx ecocriticism project, directed by Mary Pena and Yomaira Figueroa-Vásquez]]></summary>
-        <author>
-            <name>Gimena del Rio Riande</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affirmations 2.0]]></title>
-        <id>d7fda279-9112-4582-a705-0aef59fb8009</id>
-        <link href="https://reviewsindh.pubpub.org/pub/affirmations-2"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Affirmation 2.0, a video game promoting mental health for Black women and children, developed by Diamond E. Beverly-Porter]]></summary>
-        <author>
-            <name>Taylor Hughes-Barrow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitter Aloe Project]]></title>
-        <id>55d2f79e-104b-4add-a5ae-7dfdc0af82dc</id>
-        <link href="https://reviewsindh.pubpub.org/pub/bitter-aloe-project"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of the Bitter Aloe Project, a machine learning approach to studying South Africa’s Truth and Reconciliation Commission, led by Stephen Davis, William Mattingly, Robert Vaughan, and Jamari Turner]]></summary>
-        <author>
-            <name>Nabeel Siddiqui</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Folklore, Place, and Song]]></title>
-        <id>fffd5fa3-f03e-4e97-ab68-779dec9ba48c</id>
-        <link href="https://reviewsindh.pubpub.org/pub/folklore-place-and-song"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Folklore, Place, and Song, a digital mapping project on corridos, created by Fiona Hartley-Kroeger, Matthew Kollmer, Loida Pan, and Isabella Viega]]></summary>
-        <author>
-            <name>Ysabel Munoz Martinez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors’ Note: November 2023]]></title>
-        <id>04c447a9-4a61-44a1-895e-56a123125e1a</id>
-        <link href="https://reviewsindh.pubpub.org/pub/editors-note-november-2023"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the November 2023 issue of Reviews in Digital Humanities, a special issue from the Global DH Symposium, guest edited by Heather F. Ball, Viola Lasmana, Kristen Mapes, Ysabel Muñoz Martinez, and Merve Tekgürler]]></summary>
-        <author>
-            <name>Roopika Risam</name>
         </author>
     </entry>
     <entry>
@@ -2390,56 +2360,6 @@ Welcome and introduc…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Editors' Note: October 2023]]></title>
-        <id>def1ef6b-3e26-4d10-ac4a-a722f29e3696</id>
-        <link href="https://reviewsindh.pubpub.org/pub/editorial-note"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the October 2023 issue of Reviews in Digital Humanities, a special issue on digital Native and Indigenous studies, edited by Jennifer Guiliano]]></summary>
-        <author>
-            <name>Jennifer Guiliano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wikipetcia Atikamekw Nehiromowin]]></title>
-        <id>b8080e14-2d77-400c-b965-bb6c1563d97c</id>
-        <link href="https://reviewsindh.pubpub.org/pub/wikipetcia-atikamekw-nehiromowin"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Wikipetcia Atikamekw Nehiromowin, a Wikipedia instance in the Atikamekw language, directed by Nastasia Herold]]></summary>
-        <author>
-            <name>Melissa S. Stoner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide to Indigenous DC]]></title>
-        <id>98f05a29-09cb-43ea-892c-f942dd7eccd3</id>
-        <link href="https://reviewsindh.pubpub.org/pub/guide-to-indigenous-dc"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Guide to Indigenous DC, an app highlighting Indigenous histories, presents, and futures in the nation's capital, directed by Elizabeth Rule]]></summary>
-        <author>
-            <name>Joshua Catalano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genoa Indian School Digital Reconciliation Project]]></title>
-        <id>eceaf538-149f-4433-b9c4-4ce5d0944456</id>
-        <link href="https://reviewsindh.pubpub.org/pub/genoa-indian-school-digital-reconciliation-project"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of the Genoa Indian School Digital Reconciliation Project, a digital collection of materials related to the Genoa U.S. Indian Industrial School, directed by Susana D. Grajales Geliga, Margaret Jacobs, and Elizabeth Lorang]]></summary>
-        <author>
-            <name>Cristina Stanciu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terrastories]]></title>
-        <id>576d694b-6202-4478-9a5d-38066c0f10d9</id>
-        <link href="https://reviewsindh.pubpub.org/pub/terrastories"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Terrastories, a mapping app that promotes Indigenous storytelling, designed by Digital Democracy]]></summary>
-        <author>
-            <name>Niiyokamigaabaw Deondre Smiles</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Call for Participation: DHI Lightning Talks Fall 2023]]></title>
         <id>https://cunydhi.commons.gc.cuny.edu/?p=1984</id>
         <link href="https://cunydhi.commons.gc.cuny.edu/2023/10/27/call-for-participation-dhi-lightning-talks-fall-2023/"/>
@@ -4116,16 +4036,6 @@ The post RLUK Members Meeting 2023 appeared first on Research Libraries UK.]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Celebrating Simms]]></title>
-        <id>dd7c4291-3408-494d-8521-dafff0f2778a</id>
-        <link href="https://reviewsindh.pubpub.org/pub/celebrating-simms"/>
-        <updated>2023-09-28T12:08:08.000Z</updated>
-        <summary type="html"><![CDATA[A review of Celebrating Simms, a permanent physical and digital exhibit honoring the legacy of Black educator Lucy Simms, directed by Mollie Godfrey and Seán McCarthy]]></summary>
-        <author>
-            <name>Brian J. Daugherity</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dr Joseph Powell]]></title>
         <id>https://www.cdh.cam.ac.uk/about/people/joseph-powell/</id>
         <link href="https://www.cdh.cam.ac.uk/about/people/joseph-powell/"/>
@@ -4133,6 +4043,17 @@ The post RLUK Members Meeting 2023 appeared first on Research Libraries UK.]]></
         <summary type="html"><![CDATA[Dr Joseph Powell is a British Academy Postdoctoral Fellow within the Faculty of Divinity at the University of Cambridge, having previously served as a Lecturer at Birmingham Newman University and a Research Fellow at the University of Birmingham. Joseph's research primary research focus is Rastafari spirituality in the Caribbean and the UK. His recent PhD]]></summary>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practically Unspeakable: Women’s Information Network, Censorship, and the Omitted Histories of Women’s Rights in Ireland]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=14314</id>
+        <link href="https://dri.ie/news/practically-unspeakable-womens-information-network/"/>
+        <updated>2023-09-27T14:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Feature Image: Women’s Information Network (WIN). (2023) Postcard – Women Fight for Access, Freedom, Choice, Digital Repository of Ireland [Distributor], Digital Repository of Ireland [Depositing Institution], https://doi.org/10.7486/DRI.rf56c215x. Rights: Copyright Women’s Information Network. Licensed for reuse CC BY 4.0. Guest blog by Cara Brophy-Browne and Susan Birmingham Back rooms in old Dublin pubs, empty lecture halls, […]
+The post Practically Unspeakable: Women’s Information Network, Censorship, and the Omitted Histories of Women’s Rights in Ireland appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Aine Madden</name>
         </author>
     </entry>
     <entry>
@@ -4243,36 +4164,14 @@ Karina Berger
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spanish Paleography Digital Teaching and Learning Tool]]></title>
-        <id>http://openmethods.dariah.eu/?p=3379</id>
-        <link href="https://openmethods.dariah.eu/2023/09/26/spanish-paleography-digital-teaching-and-learning-tool/"/>
-        <updated>2023-09-26T06:53:20.000Z</updated>
-        <summary type="html"><![CDATA[The Spanish Paleography (http://spanishpaleographytool.org) tool helps to bridge this gap for those interested in learning paleography of the early modern Spanish period, covering the late 15th to the 18th centuries. The tool is intended to allow users to learn how to decipher and read handwriting from documents of this era. Full transcriptions of the documents can be viewed in a facing-page format, or users can highlight individual words. This tool could be used as a teaching tool to introduce students to paleography.
-[Click ‘Read more’ for the full post!]]]></summary>
+        <title type="html"><![CDATA[“Using FAIR with CARE” and other thoughts on sharing cultural heritage images as data in South Africa]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=14179</id>
+        <link href="https://dri.ie/news/using-fair-with-care/"/>
+        <updated>2023-09-26T12:44:28.000Z</updated>
+        <summary type="html"><![CDATA[This blog is part of a series of posts related to the Cultural Heritage Image Sharing Recommendations produced by the WorldFAIR Project’s Cultural Heritage Image Sharing Working Group. Learn more about DRI’s role in the WorldFAIR Project. A conversation with Josiline Chigwada, Postdoctoral Research Fellow, University of South Africa and Beth Knazook, DRI’s Research Data […]
+The post “Using FAIR with CARE” and other thoughts on sharing cultural heritage images as data in South Africa appeared first on Digital Repository Ireland.]]></summary>
         <author>
-            <name>Ulrike Wuttke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mediate: A Collaborative Time-Based Media Annotation Tool for the Web]]></title>
-        <id>http://openmethods.dariah.eu/?p=3382</id>
-        <link href="https://openmethods.dariah.eu/2023/09/26/mediate-a-collaborative-time-based-media-annotation-tool-for-the-web/"/>
-        <updated>2023-09-26T06:52:36.000Z</updated>
-        <summary type="html"><![CDATA[Mediate is a collaborative time-based media annotation tool for the web that can be used both individually and collaboratively for synchronous and asynchronous digital annotation. One of its highlighting features is accessibility and customization, i.e. the ability to customize the schema that forms the basis of the analysis or the purpose of the project.
-[Click ‘Read more’ for the full post!]]]></summary>
-        <author>
-            <name>Ulrike Wuttke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Engaging Environment for Ancient Chinese Texts: An Introduction to ctext.org]]></title>
-        <id>http://openmethods.dariah.eu/?p=3352</id>
-        <link href="https://openmethods.dariah.eu/2023/09/26/an-introduction-to-ctext-org/"/>
-        <updated>2023-09-26T06:49:43.000Z</updated>
-        <summary type="html"><![CDATA[The Chinese Text Project is a well-established resource in Sinology, providing open access to a large number of ancient Chinese texts. As a digital medium, it utilizes crowdsourcing, linked data, knowledge graph and other computational technologies to provide an interactive interface for users who are interested in ancient Chinese texts. Beyond its main aim of providing open access to Chinese literature and philosophy texts, the project features an integrated Chinese character dictionary tool, images of scanned source texts, a search function for parallel passages, and much more. In terms of structured data, the project’s data wiki contains a wealth of records on entities such as persons, locations, and works.
-[Click ‘Read more’ for the full post!]]]></summary>
-        <author>
-            <name>Ulrike Wuttke</name>
+            <name>Beth Knazook</name>
         </author>
     </entry>
     <entry>
@@ -4341,56 +4240,6 @@ Free entrance
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roswell Museum Federal Art Center]]></title>
-        <id>990a2921-8b4e-483e-bb84-1d7003424760</id>
-        <link href="https://reviewsindh.pubpub.org/pub/roswell-museum-federal-art-center"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of the Roswell Museum Federal Art Center, a digital exploration of the early history of the Roswell Museum and Art Center in New Mexico, directed by Sara Woodbury]]></summary>
-        <author>
-            <name>Meghan Ferriter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maine Digital Collaborative]]></title>
-        <id>cbd7ad26-f71c-4608-96ad-90f43f1a4b9d</id>
-        <link href="https://reviewsindh.pubpub.org/pub/maine-digital-collaborative"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of the Maine Digital Collaborative, a multimodal digital public humanities project, directed by John Muthyala and Lisa Hibl]]></summary>
-        <author>
-            <name>Henry T. Christopher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors' Note: September 2023]]></title>
-        <id>42a531e4-3ee1-4b85-aa50-fbaf5dde78d3</id>
-        <link href="https://reviewsindh.pubpub.org/pub/editors-note-september-2023"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the September 2023 issue of Reviews in Digital Humanities]]></summary>
-        <author>
-            <name>Roopika Risam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Resemblage Project]]></title>
-        <id>5cf9a288-1d5d-4dd2-bec9-a4f73362391c</id>
-        <link href="https://reviewsindh.pubpub.org/pub/the-resemblage-project"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of The Resemblage Project, a multimedia project exploring aging in Toronto, directed by Andrea Charise]]></summary>
-        <author>
-            <name>Judith Raiskin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[African American History and Culture]]></title>
-        <id>17bb8a99-eb93-461a-a378-0cb77d6ad092</id>
-        <link href="https://reviewsindh.pubpub.org/pub/african-american-history-and-culture-website"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of African American History and Culture, a pedagogical website, directed by Terry Carter]]></summary>
-        <author>
-            <name>Alanna Prince</name>
         </author>
     </entry>
     <entry>
@@ -4533,6 +4382,17 @@ Free entrance
 Continue reading “Training: Research Survival Game”…]]></summary>
         <author>
             <name>Laura Mesotten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get to Know Our Research Projects – EOSC Future]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=13919</id>
+        <link href="https://dri.ie/news/get-to-know-our-research-projects-eosc-future/"/>
+        <updated>2023-09-22T11:02:05.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is a trusted digital repository (TDR), which provides reliable long-term preservation and access to Ireland’s humanities, cultural heritage, and social sciences digital data. DRI is also a research performing organisation engaged in a rich range of digital preservation-related research projects. In this new blog series, we invite you to […]
+The post Get to Know Our Research Projects – EOSC Future appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Aine Madden</name>
         </author>
     </entry>
     <entry>
@@ -4784,6 +4644,17 @@ Welcome by Andreas Fickers (C²DH) and Martin Kohlrausch (Leuven); Introduction 
 Negotiating the Vertical Bias of Capitalism: Using Informa…]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrating 5 Years of DRI’s Community Archive Scheme]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=13423</id>
+        <link href="https://dri.ie/news/celebrating-5-years-of-dris-community-archive-scheme/"/>
+        <updated>2023-09-19T08:18:53.000Z</updated>
+        <summary type="html"><![CDATA[By Clare Lanigan The year 2023 marks five years since the Digital Repository of Ireland (DRI) launched our Community Archive Scheme. This blog post discusses the reasons for the Scheme, previous winners, and significant collections deposited by community archivists since 2018. The Community Archive Scheme was developed to enable digital archive-holding groups with limited access […]
+The post Celebrating 5 Years of DRI’s Community Archive Scheme appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Clare Lanigan</name>
         </author>
     </entry>
     <entry>
@@ -5629,6 +5500,17 @@ The post Introducing the new Transkribus web app appeared first on READ-COOP.]]>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Get to Know Our Research Projects – Archiving Reproductive Health]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=12309</id>
+        <link href="https://dri.ie/news/get-to-know-our-research-projects-archiving-reproductive-health/"/>
+        <updated>2023-08-29T15:08:11.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is a trusted digital repository (TDR), which provides reliable long-term preservation and access to Ireland’s humanities, cultural heritage, and social sciences digital data. DRI is also a research performing organisation engaged in a rich range of digital preservation-related research projects. In this new blog series, we invite you to […]
+The post Get to Know Our Research Projects – Archiving Reproductive Health appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Aine Madden</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1679 – Liber Piccatriciae. (Video Orientation)]]></title>
         <id>http://schoenberginstitute.org/?p=17884</id>
         <link href="https://schoenberginstitute.org/2023/08/28/manuscript-monday-ms-codex-1679-liber-piccatriciae-video-orientation/"/>
@@ -5682,56 +5564,6 @@ University of Nebraska–Lincoln student Hanna Varilek spent the summer as a Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Gloria Naylor Archive]]></title>
-        <id>a3f5cf6e-0051-47c3-864e-937bceffca2a</id>
-        <link href="https://reviewsindh.pubpub.org/pub/gloria-naylor-archive"/>
-        <updated>2023-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of the Gloria Naylor Archive, a physical and digital space making the works of Gloria Naylor available, directed by Suzanne M. Edwards and Mary Foltz]]></summary>
-        <author>
-            <name>Jina DuVernay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors' Note: August 2023]]></title>
-        <id>5f4a045e-49eb-4ed7-89de-b96ea14ee19f</id>
-        <link href="https://reviewsindh.pubpub.org/pub/editors-note-august-2023"/>
-        <updated>2023-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the August 2023 issue of Reviews in Digital Humanities, a partner issue with the Recovery Hub for American Women Writers, edited by Jessica DeSpain]]></summary>
-        <author>
-            <name>Roopika Risam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: "The Yellow Wall-Paper" Digital Edition]]></title>
-        <id>ce6d8e69-7940-41a9-8d64-73bebc2577f9</id>
-        <link href="https://reviewsindh.pubpub.org/pub/the-yellow-wall-paper-digital-edition"/>
-        <updated>2023-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of “The Yellow Wall-Paper” Digital Edition, an open-access digital version of the original short story by Charlotte Perkins Stetson, directed by Deanna Stover and Rebecca Norton]]></summary>
-        <author>
-            <name>Nicole Gray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Marjorie C. Luesebrink Collection at ELO's The NEXT]]></title>
-        <id>fb0bd342-fd23-4151-86cc-913774de0eb0</id>
-        <link href="https://reviewsindh.pubpub.org/pub/marjorie-c-luesebrink-collection"/>
-        <updated>2023-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Marjorie C. Luesebrink Collection at ELO’s The NEXT, a collection of digital literary art, directed by Dene Grigar]]></summary>
-        <author>
-            <name>Kristen Lillvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Winnifred Eaton Archive]]></title>
-        <id>29171417-02db-45bf-95c2-4f786a952f88</id>
-        <link href="https://reviewsindh.pubpub.org/pub/winnifred-eaton-archive"/>
-        <updated>2023-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of the Winnifred Eaton Archive, a digital edition of the works of Winnifred Eaton Babcock Reeve, directed by Mary Chapman]]></summary>
-        <author>
-            <name>Heather Ball</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trove Query Parser updated!]]></title>
         <id>http://wragge.micro.blog/2023/08/26/trove-query-parser.html</id>
         <link href="https://updates.timsherratt.org/2023/08/26/trove-query-parser.html"/>
@@ -5744,6 +5576,17 @@ You can then feed the parameters to the Trove API with your API key and you’ll
 This version adds a second parameter to the parse_query() function so you can specify the version of the Trove API you’re using. The default value is 2 for backwards compatibility. See the documentation for more information.]]></summary>
         <author>
             <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Blog from DCU Library: Seven steps to publishing your collection on the Digital Repository of Ireland]]></title>
+        <id>https://dri.ie/news/first-time-attendees-share-their-experiences-at-a-research-data-alliance-plenary-meeting-copy/</id>
+        <link href="https://dri.ie/news/seven-steps-to-publishing/"/>
+        <updated>2023-08-24T15:13:56.000Z</updated>
+        <summary type="html"><![CDATA[by Liam O’Dwyer and Killian Downing, Dublin City University Library. Introduction  An increasing number of Irish organisations, including libraries, galleries, archives and museums, are using the Digital Repository of Ireland (DRI) to publish their collections online. Liam O’Dwyer and Killian Downing, Dublin City University (DCU) Library, speak about publishing the Henry Morris and Seán Lester […]
+The post Guest Blog from DCU Library: Seven steps to publishing your collection on the Digital Repository of Ireland appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Maeve O'Brien</name>
         </author>
     </entry>
     <entry>
@@ -6056,6 +5899,17 @@ The lecture will be followed by a reception.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First-time attendees share their experiences at a Research Data Alliance Plenary meeting]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=11479</id>
+        <link href="https://dri.ie/news/first-time-attendees-share-their-experiences-at-a-research-data-alliance-plenary-meeting/"/>
+        <updated>2023-08-14T15:32:01.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) has been a longtime organisational member and supporter of the Research Data Alliance (RDA), having partnered with RDA on a number of European-funded projects to both develop best practices for research data and build the necessary cross-community connections to adopt, test and progress those practices. This year, the DRI […]
+The post First-time attendees share their experiences at a Research Data Alliance Plenary meeting appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Beth Knazook</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dr Irving Huerta]]></title>
         <id>https://www.cdh.cam.ac.uk/about/people/dr-irving-huerta/</id>
         <link href="https://www.cdh.cam.ac.uk/about/people/dr-irving-huerta/"/>
@@ -6309,16 +6163,6 @@ Fellowship Date: 
 September, 2023—August, 2024]]></summary>
         <author>
             <name>pamhorn@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closing the Gap in Non-Latin-Script Data: A tool for building and navigating collections of DH research projects]]></title>
-        <id>http://openmethods.dariah.eu/?p=3375</id>
-        <link href="https://openmethods.dariah.eu/2023/08/09/closing-the-gap-in-non-latin-script-data-a-tool-for-building-and-navigating-collections-of-dh-research-projects/"/>
-        <updated>2023-08-09T09:54:48.000Z</updated>
-        <summary type="html"><![CDATA[The Closing the Gap in non-Latin script data aims at mapping the field of digital humanities projects outside and beyond the anglosphere with a particular focus on non-Latin scripts such as Arabic or Chinese in both machine-actionable and human readable form. The urgency and value of such a survey has been highlighted in recent discussions around global, decolonial, and multilingual digital humanities.]]></summary>
-        <author>
-            <name>Ulrike Wuttke</name>
         </author>
     </entry>
     <entry>
@@ -6672,66 +6516,6 @@ Jean  Lee]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Imagined Homeland]]></title>
-        <id>9fa6e06f-35e3-45ee-b3e3-bcb10f9c27b3</id>
-        <link href="https://reviewsindh.pubpub.org/pub/imagined-homeland-security"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Imagined Homeland, a project exploring locations referenced in the literature of Dominica, directed by Schuyler Esprit]]></summary>
-        <author>
-            <name>Kimberly Takahata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Singing the Nation]]></title>
-        <id>578a2a61-865b-4a48-ac8c-2b197415d8ea</id>
-        <link href="https://reviewsindh.pubpub.org/pub/singing-the-nation"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Singing the Nation, a digital project on contemporary resonance of “Lift Every Voice and Sing,” directed by Sonya Donaldson]]></summary>
-        <author>
-            <name>Traci Parker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: In the Same Boats]]></title>
-        <id>d8be99f9-5c5a-4bf6-83ea-b036f76991a5</id>
-        <link href="https://reviewsindh.pubpub.org/pub/in-the-same-boats"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of In the Same Boats, a digital map exploring the travels of Afro-Atlantic intellectuals, directed by Kaiama L. Glover and Alex Gil]]></summary>
-        <author>
-            <name>Andrew Sluyter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Musical Passage]]></title>
-        <id>f840f6a2-4ee5-4e8b-802a-28578f4e47bd</id>
-        <link href="https://reviewsindh.pubpub.org/pub/musical-passage-project"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Musical Passage Project, an exploration of early African diasporic music, directed by Laurent Dubois, Mary Caton Lingold, and David K. Garner]]></summary>
-        <author>
-            <name>Anna E. Kijas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Digital Library of the Caribbean]]></title>
-        <id>acb7e62a-0523-47c9-917b-f52171498d8a</id>
-        <link href="https://reviewsindh.pubpub.org/pub/digital-library-of-the-caribbean"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Digital Library of the Caribbean, a digital library focused on preservation and access, housed at University of Florida Libraries]]></summary>
-        <author>
-            <name>DaNia Childress</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors’ Note: July 2023]]></title>
-        <id>8b03208a-00af-4d9c-b51c-fca4abba0d8e</id>
-        <link href="https://reviewsindh.pubpub.org/pub/editors-note-july-2023"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the July 2023 issue of Reviews in Digital Humanities, guest edited by Roopika Risam and Kelly Baker Josephs]]></summary>
-        <author>
-            <name>Jennifer Guiliano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MPhil in Digital Humanities: information session for applicants]]></title>
         <id>https://www.cdh.cam.ac.uk/events/36945/</id>
         <link href="https://www.cdh.cam.ac.uk/events/36945/"/>
@@ -6967,6 +6751,17 @@ The post Developments in the Fashion Industry Post-WWII appeared first on The Ga
 The post Frequently Asked Questions About The Transkribus Subscription Plans appeared first on READ-COOP.]]></summary>
         <author>
             <name>Florian Stauder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get to Know Our Research Projects – EnrichEuropeana+]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=9812</id>
+        <link href="https://dri.ie/news/get-to-know-our-research-projects-enricheuropeana/"/>
+        <updated>2023-07-20T14:17:07.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is a trusted digital repository (TDR), which provides reliable long-term preservation and access to Ireland’s humanities, cultural heritage, and social sciences digital data. DRI is also a research performing organisation engaged in a rich range of digital preservation-related research projects. In this new blog series, we invite you to […]
+The post Get to Know Our Research Projects – EnrichEuropeana+ appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Aine Madden</name>
         </author>
     </entry>
     <entry>
@@ -7306,16 +7101,6 @@ The post Introducing Transkribus Super Models – Get Access to ‘The Text Tita
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Multilingual Research Projects: Non-Latin Script Challenges for Making Use of Standards, Authority Files, and Character Recognition”.]]></title>
-        <id>http://openmethods.dariah.eu/?p=3345</id>
-        <link href="https://openmethods.dariah.eu/2023/07/08/multilingual-research-projects-non-latin-script-challenges-for-making-use-of-standards-authority-files-and-character-recognition/"/>
-        <updated>2023-07-08T13:41:15.000Z</updated>
-        <summary type="html"><![CDATA[Everyone of us is accustomed to reading academic contributions using the Latin alphabet, for which we have already standard characters and formats. But what about texts written in languages featuring different, ideographic-based alphabets (for example, Chinese and Japanese)? What kind of recognition techniques and metadata are necessary to adopt in order to represent them in a digital context?]]></summary>
-        <author>
-            <name>Marinella Testori</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New resources from FORCE11-COPE Research Data Publishing Ethics Working Group: Flowcharts!]]></title>
         <id>https://force11.org/?p=150541</id>
         <link href="https://force11.org/post/new-resources-from-the-force11-cope-research-data-publishing-ethics-working-group-flowcharts/"/>
@@ -7416,6 +7201,17 @@ You will join an internationally networked team, pursuing research at the inters
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Digital Repository of Ireland Now Supporting 3D Viewing Capabilities]]></title>
+        <id>https://dri.ie/news/call-for-nominations-to-the-dri-board-copy/</id>
+        <link href="https://dri.ie/news/3d-viewing-update/"/>
+        <updated>2023-07-06T08:53:07.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce significant advancements to the Repository, which now supports 3D viewing capabilities.  As a trusted digital repository (TDR) for Ireland’s cultural heritage digital data, DRI is committed to broadening access to culture and advancing collective efforts to preserve 3D models of cultural heritage sites and historic […]
+The post Digital Repository of Ireland Now Supporting 3D Viewing Capabilities  appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Maeve O'Brien</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Announcing our Digital Residents!]]></title>
         <id>https://livingwithmachines.ac.uk/?p=3446</id>
         <link href="https://livingwithmachines.ac.uk/announcing-our-digital-residents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=announcing-our-digital-residents"/>
@@ -7442,6 +7238,17 @@ You will join an internationally networked team, pursuing research at the inters
         <summary type="html"><![CDATA[Choosing community over commercialization with equitable article processing charges]]></summary>
         <author>
             <name>FORCE11 Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent Developments in Archiving Reproductive Health]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=8973</id>
+        <link href="https://dri.ie/news/recent-developments-in-archiving-reproductive-health/"/>
+        <updated>2023-07-05T13:12:52.000Z</updated>
+        <summary type="html"><![CDATA[The last few months have been busy for the Archiving Reproductive Health project, with the project holding a Public Collection Day and presenting findings from the project at international archiving and digital preservation conferences. Archiving Reproductive Health (ARH) is a Wellcome-funded project coordinated by the Digital Repository of Ireland, which is working to preserve digital […]
+The post Recent Developments in Archiving Reproductive Health appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Clare Lanigan</name>
         </author>
     </entry>
     <entry>
@@ -7698,56 +7505,6 @@ En raison du nombre de places limité, l'admission se fera par ordre d'inscripti
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: In Search of the Drowned]]></title>
-        <id>210a2e60-cadc-481a-b048-7a1ead7c729f</id>
-        <link href="https://reviewsindh.pubpub.org/pub/in-search-of-the-drowned"/>
-        <updated>2023-06-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of In Search of the Drowned, a corpus development and data mining project that explores how to give voice to voiceless Holocaust victims, directed by Gabor Mihaly Toth]]></summary>
-        <author>
-            <name>Jan Burzlaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The Berkeley Folk Music Festival]]></title>
-        <id>64fcd318-fe37-4676-9213-4acf6dd28d15</id>
-        <link href="https://reviewsindh.pubpub.org/pub/berkeley-folk-music-festival"/>
-        <updated>2023-06-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of The Berkeley Folk Music Festival, a digital exhibit featuring multimedia materials on the history of the festival and the West Coast folk revival, directed by Michael J. Kramer]]></summary>
-        <author>
-            <name>Allan Jepson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editors' Note: June 2023]]></title>
-        <id>e598e26a-5503-4ad3-8994-c4d7a6d68b33</id>
-        <link href="https://reviewsindh.pubpub.org/pub/editors-note-june-2023"/>
-        <updated>2023-06-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editors' note on the June 2023 issue of Reviews in Digital Humanities]]></summary>
-        <author>
-            <name>Roopika Risam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Hispanic Theater Collection / Colección de teatro hispánico]]></title>
-        <id>3fe19af4-a351-49ee-b9ba-16bd3c33a649</id>
-        <link href="https://reviewsindh.pubpub.org/pub/hispanic-theater-collection"/>
-        <updated>2023-06-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Hispanic Theater Collection / Colección de teatro hispánico, a digital exhibit showcasing the theatrical past and present of Hispanic artists, directed by Gabriela Baeza Ventura and Lorena Gauthereau]]></summary>
-        <author>
-            <name>María Ascensión Mazuela Anguita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Digital History of the Jews of Boston]]></title>
-        <id>ae886631-c025-4e94-a2b4-ade006d0f483</id>
-        <link href="https://reviewsindh.pubpub.org/pub/digital-history-jews-boston"/>
-        <updated>2023-06-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A review of Digital History of the Jews of Boston, a pedagogical exploration of Jewish history in Boston and beyond, directed by Simon Rabinovitch]]></summary>
-        <author>
-            <name>Alison L. Joseph</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Digital Humanities Interns 2022/23 part 2]]></title>
         <id>https://digitalhumanities.exeter.ac.uk/?p=1038</id>
         <link href="https://digitalhumanities.exeter.ac.uk/2023/06/digital-humanities-interns-2022-23-part-2/"/>
@@ -7976,786 +7733,6 @@ Zentral Atelier Metzeschmelz
         <summary type="html"><![CDATA[We are happy to introduce and welcome Damir Padieu as ADHO’s 2023 Communications Fellow: Damir is a master’s student in Digital Humanities with a bachelor’s degree in Chinese studies. He is currently completing his master’s degree at Trier University and working as a research assistant at Trier Center for Digital Humanities. His DH research interests… Read More »Welcome 2023 Communications Fellow, Damir Padieu]]></summary>
         <author>
             <name>Erdal Ayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collection in DRI from Clare County Archive – Clare Grand Jury]]></title>
-        <id>1655 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-dri-clare-county-archive-clare-grand-jury"/>
-        <updated>2023-05-25T15:33:14.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to share that Clare County Archives have published a new collection in the Repository, pertaining to the Clare Grand Jury.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collection in DRI – A Cognitive Occupation Based Programme for People with Multiple Sclerosis (IQDA)]]></title>
-        <id>1654 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-dri-cognitive-occupation-based-programme-people-multiple-sclerosis-iqda"/>
-        <updated>2023-05-25T15:21:58.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that a new collection – A Cognitive Occupation Based programme for People with Multiple Sclerosis – has been published in the Repository through The Irish Qualitative Data Archive (IQDA).]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collections Published by Archiving Reproductive Health for 5th Anniversary of the Repeal Referendum]]></title>
-        <id>1653 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collections-published-archiving-reproductive-health-5th-anniversary-repeal-referendum"/>
-        <updated>2023-05-24T09:09:37.000Z</updated>
-        <summary type="html"><![CDATA[On the fifth anniversary of the referendum to repeal the Eighth Amendment of the Irish constitution, the Archiving Reproductive Health project is delighted to announce the publication of three new collections, and additions to existing collections.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Welcomes First ECR Board Member]]></title>
-        <id>1649 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-welcomes-first-ecr-board-member"/>
-        <updated>2023-05-18T11:30:37.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to welcome Postdoctoral Researcher Dr Zenobie Susanne Garrett to the DRI Board.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Member: Cork City and County Archive]]></title>
-        <id>1648 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-member-cork-city-and-county-archive"/>
-        <updated>2023-05-11T14:54:37.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that Cork City and County Archive (CCCA) have joined as our latest member.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Member: Historic Environment Record of Northern Ireland (HERoNI)]]></title>
-        <id>1647 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-member-historic-environment-record-northern-ireland-heroni"/>
-        <updated>2023-05-09T11:36:09.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that the Historic Environment Record of Northern Ireland (HERoNI) has joined as our latest member.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Proposals Open for Ireland's First National Open Research Festival 2023]]></title>
-        <id>1646 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/call-proposals-open-norfest"/>
-        <updated>2023-05-03T11:30:11.000Z</updated>
-        <summary type="html"><![CDATA[The National Open Research Forum (NORF) is pleased to announce that the call for proposals for lightning talks and workshops for Ireland’s National Open Research Festival 2023 is open.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI May Virtual Coffee Morning]]></title>
-        <id>1645 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-may-virtual-coffee-morning"/>
-        <updated>2023-05-02T15:45:21.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-31 May 2023
-
-
-Location: 
-
-Zoom
-
-
-
-Duration: 10:00 am to 10:30 am]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Member: The Butter Museum]]></title>
-        <id>1644 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-member-butter-museum"/>
-        <updated>2023-04-26T13:30:20.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that The Butter Museum has joined as our latest member.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collection in DRI – Artistic Doctorate Resources]]></title>
-        <id>1643 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-dri-artistic-doctorate-resources"/>
-        <updated>2023-04-24T14:13:23.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that a new collection – Artistic Doctorate Resources – has been published in the Repository through University College Cork (UCC).]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collection in DRI - Gabriel Beranger Antiquarian Watercolours]]></title>
-        <id>1642 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-dri-gabriel-beranger-antiquarian-watercolours"/>
-        <updated>2023-04-19T12:07:12.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to share that the Royal Irish Academy Library has published a new collection in the Repository - the Gabriel Beranger Antiquarian Watercolours Collection.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opportunity for Data Manager with the Irish Historic Towns Atlas]]></title>
-        <id>1641 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/opportunity-data-manager-irish-historic-towns-atlas"/>
-        <updated>2023-04-13T13:57:33.000Z</updated>
-        <summary type="html"><![CDATA[The Royal Irish Academy is seeking applications for a Data Manager with the Irish Historic Towns Atlas (IHTA), working in collaboration with the Digital Repository of Ireland (DRI). This is a fixed-term contract for 10 weeks associated with the project entitled ‘Placing our heritage: creating a digital atlas of the city of Cork’, which is funded under the Heritage Council Stewardship Fund 2023.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Welcomes New Membership Manager]]></title>
-        <id>1640 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-welcomes-new-membership-manager"/>
-        <updated>2023-04-12T08:37:05.000Z</updated>
-        <summary type="html"><![CDATA[We are pleased to welcome Dr Maeve O’Brien to the Digital Repository of Ireland (DRI) team based at the Royal Irish Academy (RIA).]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Coffee Morning: April 2023]]></title>
-        <id>1639 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-coffee-morning-april-2023"/>
-        <updated>2023-04-12T07:29:58.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-26 Apr 2023
-
-
-Location: 
-
-Zoom
-
-
-
-April's coffee morning will be hosted by Kathryn Cassidy, Software Engineer at the Digital Repository of Ireland (DRI), and Padraic Stack, Senior Librarian at Dublin City Library and Archives (DCLA) who will discuss the EnrichEuropeana+ project.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Live Assistance Session]]></title>
-        <id>1637 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/online-live-assistance-session"/>
-        <updated>2023-03-30T15:46:02.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-18 May 2023
-
-
-Location: 
-
-Online
-
-
-
-Time: 11am to 12pm]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online DRI Member Training – Introductory Level]]></title>
-        <id>1636 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/online-dri-member-training-introductory-level"/>
-        <updated>2023-03-30T15:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-10 May 2023
-
-
-Location: 
-
-Online
-
-
-
-Time: 11am to 12:30 pm]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guest Blog from Women in Research Ireland: Honest Conversations that Bring Women Researchers Closer]]></title>
-        <id>1635 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/guest-blog-women-research-ireland-honest-conversations-bring-women-researchers-closer"/>
-        <updated>2023-03-28T15:26:18.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland seeks to support researchers from all backgrounds, gender and career stage. We were delighted to meet with representatives from Women in Research Ireland (WIRI) recently who told us all about the work they do to support women and diversity in academic research in Ireland.]]></summary>
-        <author>
-            <name>bethknazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Member: Roscommon County Council]]></title>
-        <id>1634 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-member-roscommon-county-council"/>
-        <updated>2023-03-22T15:25:37.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that Roscommon County Council has joined as our latest member. They are the eleventh local authority to join DRI.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrating 5 years of DRI's Membership programme]]></title>
-        <id>1633 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/5-years-dri-membership"/>
-        <updated>2023-03-20T19:12:08.000Z</updated>
-        <summary type="html"><![CDATA[2023 marked five years since the Digital Repository of Ireland launched our Membership programme. This blog post discusses the reasons for the programme, our early members, and significant collection deposited by members since 2018.]]></summary>
-        <author>
-            <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Savita Memorial Collection Published]]></title>
-        <id>1632 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/savita-memorial-collection-published"/>
-        <updated>2023-03-13T10:57:45.000Z</updated>
-        <summary type="html"><![CDATA[A collection of images of notes left at the mural of Savita Halappanavar during the 2018 referendum to repeal the Eighth Amendment will now be available long term as a digital archive.]]></summary>
-        <author>
-            <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Welcome's Marsh's Library as a Member]]></title>
-        <id>1631 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-welcomes-marshs-library-member"/>
-        <updated>2023-03-06T13:42:03.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that Marsh's Library has joined as our latest member. Marsh’s Library first opened its doors to the public in 1707.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Press Release  - NORF Welcomes €1.9 Million Investment in Open Research]]></title>
-        <id>1630 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/press-release-norf-welcomes-investment-open-research"/>
-        <updated>2023-03-02T10:09:41.000Z</updated>
-        <summary type="html"><![CDATA[Minister Harris announces funding to continue the support for the implementation of Ireland’s National Action Plan for Open Research 2022-2030.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Press Release  - NORF Welcomes €1.9 Million Investment in Open Research]]></title>
-        <id>1630 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/press-release-norf-welcomes-19-million-investment-open-research"/>
-        <updated>2023-03-02T10:09:41.000Z</updated>
-        <summary type="html"><![CDATA[Minister Harris announces funding to continue the support for the implementation of Ireland’s National Action Plan for Open Research 2022-2030.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Opportunity - Deputy Digital Archivist]]></title>
-        <id>1629 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/job-opportunity-deputy-digital-archivist"/>
-        <updated>2023-03-01T15:39:06.000Z</updated>
-        <summary type="html"><![CDATA[Applications are invited for the position of Deputy Digital Archivist at the Digital Repository of Ireland (DRI). The closing date for applications is 29 March 2023.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NORF’s Open Research Fund 2023 is Open]]></title>
-        <id>1628 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/norf-open-research-fund-2023-open"/>
-        <updated>2023-02-28T16:24:48.000Z</updated>
-        <summary type="html"><![CDATA[NORF’s Open Research Fund 2023 is now open to proposals. This year, the Fund includes a new strand designed to recognise and reward researchers who want to play a leading role in advancing open research in Ireland.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First WorldFAIR Project Report: DRI in the Cultural Heritage Image Sharing Landscape]]></title>
-        <id>1627 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/first-worldfair-project-report-dri-cultural-heritage-image-sharing-landscape"/>
-        <updated>2023-02-24T11:39:51.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland is pleased to announce that the first WorldFAIR Project Deliverable, 13.1 Cultural Heritage Mapping Report: Practices and Policies supporting Cultural Heritage image sharing platforms has been published!]]></summary>
-        <author>
-            <name>bethknazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collection in DRI – Ports, Past and Present]]></title>
-        <id>1626 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-dri-ports-past-and-present"/>
-        <updated>2023-02-23T09:44:26.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that a new collection – Ports, Past and Present – has been published in the Repository.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Early Career Researcher or Early Career Professional for DRI Board]]></title>
-        <id>1625 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/call-early-career-researcher-or-early-career-professional-dri-board"/>
-        <updated>2023-02-20T17:01:57.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is seeking expressions of interest for an Early Career Researcher (ECR) or Early Career Professional (ECP) to sit on the DRI Board.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deadline Extended for Archiving Reproductive Health Collection Day Applications]]></title>
-        <id>1624 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/deadline-archiving-reproductive-health-collection-day-applications-extended"/>
-        <updated>2023-02-20T16:50:58.000Z</updated>
-        <summary type="html"><![CDATA[The deadline for applications for the Archiving Reproductive Health Collection Day has been extended to Sunday 26 February 2023.]]></summary>
-        <author>
-            <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save the Date - Ireland's First Annual National Open Research Festival]]></title>
-        <id>1623 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/save-date-irelands-first-annual-national-open-research-festival"/>
-        <updated>2023-02-16T14:40:40.000Z</updated>
-        <summary type="html"><![CDATA[The National Open Research Forum (NORF) has announced that Ireland’s first annual National Open Research Festival will take place at the Royal Irish Academy, on 2-3 November 2023.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI is the New National Node for RDA in Ireland #LoveData]]></title>
-        <id>1621 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-new-national-node-rda-ireland-lovedata"/>
-        <updated>2023-02-13T11:49:45.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that it has become the national node for the Research Data Alliance (RDA) in Ireland. The RDA is an international volunteer member-based organisation fostering an inclusive approach to research data management. To celebrate the DRI's new role with the RDA during #LoveDataWeek, we've also put together a list of resources the DRI has created for researchers and members.]]></summary>
-        <author>
-            <name>bethknazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Welcomes University College Dublin as Member]]></title>
-        <id>1620 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-welcomes-university-college-dublin-new-member"/>
-        <updated>2023-02-13T08:36:22.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that University College Dublin (UCD) has joined as our latest member.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stakeholder Survey Open for the National Open Access Monitor Project]]></title>
-        <id>1619 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/stakeholder-survey-open-national-open-access-monitor-project"/>
-        <updated>2023-02-10T12:28:11.000Z</updated>
-        <summary type="html"><![CDATA[The first stakeholder survey for the National Open Access Monitor Project is now open.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI is Hiring a Systems Administrator]]></title>
-        <id>1618 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-hiring-systems-administrator-tcd"/>
-        <updated>2023-02-10T11:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Applications are invited for the position of Systems Administrator as part of the Digital Repository of Ireland tehnical team based at Trinity College Dublin.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Welcomes New Training and Engagement Manager]]></title>
-        <id>1616 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-welcomes-new-training-and-engagement-manager"/>
-        <updated>2023-02-01T10:29:53.000Z</updated>
-        <summary type="html"><![CDATA[We are pleased to welcome Lorraine Marrey to the Digital Repository of Ireland (DRI) team based at the Royal Irish Academy (RIA).]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WorldFAIR: Image Sharing Systems and Practices in Cultural Heritage]]></title>
-        <id>1615 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/worldfair-image-sharing-systems-and-practices-cultural-heritage"/>
-        <updated>2023-02-01T09:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-28 Feb 2023
-
-
-Location: 
-
-Online
-
-
-
-This event is part of the RDA 10th Anniversary ‘A Decade of Data’ celebrations in support of February’s spotlight on FAIR products and services.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collection in DRI - Irish Film Poetry Archive]]></title>
-        <id>1612 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-dri-irish-film-poetry-archive"/>
-        <updated>2023-01-30T15:49:03.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to announce that a new collection – the Irish Film Poetry Archive – has been published in the Repository by researcher James O’Sullivan through University College Cork (UCC).]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Resource: Guide to archiving digital records for volunteer and community groups]]></title>
-        <id>1610 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-resource-guide-archiving-digital-records-volunteer-and-community-groups"/>
-        <updated>2023-01-30T09:00:35.000Z</updated>
-        <summary type="html"><![CDATA[DRI are delighted to announce a new resource: 'Guide to Archiving Digital Records for Volunteer and Community Groups', published by the Archiving Reproductive Health project.]]></summary>
-        <author>
-            <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Coffee Morning: February 2023]]></title>
-        <id>1611 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-coffee-morning-february-2023"/>
-        <updated>2023-01-27T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-22 Feb 2023
-
-
-Location: 
-
-Zoom
-
-
-
-February’s coffee morning will take place Wednesday 22 of February at 10.00 AM and will be be hosted by James Smith from 'Ports, Past and Present', a research project who are preserving their research outputs with DRI.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archiving Reproductive Health Public Collection Day]]></title>
-        <id>1609 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/archiving-reproductive-health-public-collection-day"/>
-        <updated>2023-01-25T12:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-10 Mar 2023
-
-
-Location: 
-
-Dublin City Library and Archive, 139-144 Pearse St, Dublin 2, D02 HE37
-
-
-
-Archiving Reproductive Health (ARH) a project of the Digital Repository of Ireland (DRI), in partnership with Archives Ireland and Informa, are holding a Public Collection Day to digitise a selection of memorabilia related to the history of the Eighth Amendment and Irish reproductive activism more generally.]]></summary>
-        <author>
-            <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applications open for Archiving Reproductive Health Public Collection Day]]></title>
-        <id>1605 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/applications-open-archiving-reproductive-health-public-collection-day"/>
-        <updated>2023-01-23T17:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Archiving Reproductive Health, (ARH) a project of the Digital Repository of Ireland (DRI), in partnership with Archives Ireland and Informa, are inviting applications for our Public Collection Day in Dublin City Library and Archive, Pearse St, Dublin, on 10 March 2023.]]></summary>
-        <author>
-            <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOSC Future Funding Call: Optimising RDA Open Science Frameworks and Guidelines]]></title>
-        <id>1608 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/eosc-future-funding-call-optimising-rda-open-science-frameworks-and-guidelines"/>
-        <updated>2023-01-23T15:13:59.000Z</updated>
-        <summary type="html"><![CDATA[Grant available! Have you used Research Data Alliance outputs or recommendations in your work with research data? The EOSC Future project is pleased to announce a new call for proposals to demonstrate how RDA-developed data-sharing concepts and solutions can be reused, optimised, and implemented in the European Open Science Cloud. This call aims to support and encourage the adoption of existing RDA outputs and recommendations within the wider EOSC community.]]></summary>
-        <author>
-            <name>bethknazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We're Hiring! - Membership Manager at the DRI]]></title>
-        <id>1607 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/were-hiring-membership-manager-dri"/>
-        <updated>2023-01-11T16:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Applications are invited for the position of Membership Manager at the Digital Repository of Ireland (DRI) based at the Royal Irish Academy (RIA).]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RDA’s Thematic Community Cross-fertilisation Workshops]]></title>
-        <id>1606 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/rda-thematic-community-cross-fertilisation-workshops"/>
-        <updated>2023-01-11T10:43:48.000Z</updated>
-        <summary type="html"><![CDATA[The community cross-fertilisation workshop series is part of the RDA’s strategic plan to celebrate and commemorate its 10th Anniversary in 2023.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relive the 19th Century!]]></title>
-        <id>1604 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/relive-19th-century"/>
-        <updated>2022-12-19T16:16:58.000Z</updated>
-        <summary type="html"><![CDATA[The Transcribathon team are concluding the year and venturing into 2023 with a new multilingual transcription run called 'Relive the 19th Century'. Visit the event page to choose a document and enter the Run!]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collection: Erasmus Smith Schools Archive Secondary School Plans]]></title>
-        <id>1603 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-erasmus-smith-schools-archive-secondary-school-plans"/>
-        <updated>2022-12-19T14:30:53.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that we have a new collection the ‘Erasmus Smith Schools Archive secondary school plans’ which contains a hundred and ten architectural and site plans for schools.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sprinting to Digital Preservation: Getting to Grips with Digital Recordkeeping]]></title>
-        <id>1602 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/sprinting-digital-preservation-getting-grips-digital-recordkeeping"/>
-        <updated>2022-12-19T12:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Date: 
-
-1 Feb 2023
-
-
-Location: 
-
-Local Government Management Agency, Local Government House, 35-39 Ushers Quay, Dublin 8
-
-
-
-DRI are working with the Local Government Archivists and Records Managers Group and the Local Government Management Agency (LGMA) on new Electronic Recordkeeping Guidelines.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Director Natalie Harrower to Take Up New Role]]></title>
-        <id>1601 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-director-natalie-harrower-take-new-role"/>
-        <updated>2022-12-14T09:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Dr Natalie Harrower, Director of the Digital Repository of Ireland (DRI), is moving to an exciting new role as Executive Director of the Canadian Research Data Centre Network (CRDCN). Dr Harrower has led the DRI since it went live to the public in 2015.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Collection: 1920s Intelligence Files of the Irish Republican Army]]></title>
-        <id>1600 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/new-collection-1920s-intelligence-files-irish-republican-army"/>
-        <updated>2022-12-13T08:51:25.000Z</updated>
-        <summary type="html"><![CDATA[DRI is delighted to announce that we have a new collection from the Clare County Archives -The 1920s Intelligence File of Commandant Joseph Barrett, Officer in Command, First Western Division.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI welcomes the Property Registration Authority as a new Member]]></title>
-        <id>1599 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/dri-welcomes-property-registration-authority-new-member"/>
-        <updated>2022-12-09T12:30:22.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that the Property Registration Authority (PRA) has joined DRI as our forty-fourth member.]]></summary>
-        <author>
-            <name>l.griffith@ria.ie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interim DRI Director Appointed]]></title>
-        <id>1598 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/acting-dri-director-appointed"/>
-        <updated>2022-12-07T12:01:24.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce the appointment of an interim Director. Dr Lisa Griffith will take up the position of Director on 1 January 2023, taking over from Dr Natalie Harrower.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Papers – AI and Archives: Explorations, Possibilities and Challenges]]></title>
-        <id>1597 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/call-papers-ai-and-archives"/>
-        <updated>2022-12-06T16:08:48.000Z</updated>
-        <summary type="html"><![CDATA['AI and Archives: Explorations, Possibilities and Challenges' explores the possibilities and challenges afforded by AI in archives, and does so specifically from an intersectional, eco, feminist perspective. The symposium organisers have issued a call for papers.]]></summary>
-        <author>
-            <name>ainemadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethical Approval for Research Projects: A How-To Guide]]></title>
-        <id>1596 at https://www.dri.ie</id>
-        <link href="https://www.dri.ie/ethical-approval-how-to-guide"/>
-        <updated>2022-12-06T15:37:05.000Z</updated>
-        <summary type="html"><![CDATA[In a short blog, Dr Lorraine Grimes provides tips on putting together an application for ethical approval for research projects.]]></summary>
-        <author>
-            <name>clarelanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grassroots Data Wranglers]]></title>
-        <id>https://www.cdh.cam.ac.uk/?p=35774</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/grassroots-data-wranglers/"/>
-        <updated>2022-11-29T10:43:34.000Z</updated>
-        <summary type="html"><![CDATA[On 22 June 2022, the public event Grassroots Data Wranglers took place as part of Cambridge Digital Humanities’ (CDH) Social Data School 2022. The main speakers in this public event were grassroots researchers who have challenged conventions of data collection and have done it, sometimes in opposition to established data gatekeepers, to shed light on […]
-The post Grassroots Data Wranglers first appeared on CDH.]]></summary>
-        <author>
-            <name>Emma Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sandbach Tinne Programme]]></title>
-        <id>https://www.cdh.cam.ac.uk/?p=35727</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/the-sandbach-tinne-programme/"/>
-        <updated>2022-11-15T11:51:53.000Z</updated>
-        <summary type="html"><![CDATA[By Malik Al Nasir Malik Al Nasir is a third-year PhD candidate at the University of Cambridge’s faculty of history. His research entitled Kinship Networks and Mercantile Hegemony in the Latter Days of British Slavery – The Case of Sandbach Tinne, c. 1790-1840 is derived from his longstanding desire to trace his own mixed ancestry […]
-The post The Sandbach Tinne Programme first appeared on CDH.]]></summary>
-        <author>
-            <name>Emma Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cambridge Data Schools Expand]]></title>
-        <id>https://www.cdh.cam.ac.uk/?p=35713</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/the-cambridge-data-schools-expand/"/>
-        <updated>2022-11-09T18:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Data Schools at the University of Cambridge started in 2019, with the aim of putting research methods and tools in the hands of practitioners in the Galleries, Libraries, Archives, and Museums (GLAM) sector, journalists, and NGOs. A very important part was to ​​encourage dialogue between academia, civil society, the public sector and industry about the […]
-The post The Cambridge Data Schools Expand first appeared on CDH.]]></summary>
-        <author>
-            <name>Heather Stallard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Faust: Mortal Bodies, Immortal Desires]]></title>
-        <id>https://www.cdh.cam.ac.uk/?p=35636</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/understanding-faust/"/>
-        <updated>2022-11-07T16:39:00.000Z</updated>
-        <summary type="html"><![CDATA[By Linseigh Green First published on www.faust-shop.org on 10th October 2022 When I was first cast as Faust in Faust Shop, the 2022 adaptation of the Faust legend to the digital age co-directed by Annja Neumann and Alex Mentzel, I struggled more than I had ever done before to understand my character (and I’ve played […]
-The post Understanding Faust: Mortal Bodies, Immortal Desires first appeared on CDH.]]></summary>
-        <author>
-            <name>Emma Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracing Ideas Across Networks]]></title>
-        <id>https://www.cdh.cam.ac.uk/?p=35339</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/tracing-ideas-across-networks/"/>
-        <updated>2022-09-21T11:43:26.000Z</updated>
-        <summary type="html"><![CDATA[A Collaborative Approach to Topic Modelling and Social Network Analysis on the Letters of John Stevens Henslow Funded by Cambridge Digital Humanities as part of their Project Incubation Awards, Tracing Ideas Across Networks was conceived with the aim of using the transcribed letters of John Stevens Henslow as the basis for experimenting with different Python […]
-The post Tracing Ideas Across Networks first appeared on CDH.]]></summary>
-        <author>
-            <name>Heather Stallard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Our Shakespeare was Tupac Shakur”]]></title>
-        <id>https://www.cdh.cam.ac.uk/?p=35188</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/our-shakespeare-was-tupac-shakur/"/>
-        <updated>2022-08-23T08:48:30.000Z</updated>
-        <summary type="html"><![CDATA[Award-winning poet P. A. Bitez “bites back” at UK’s elitist education system Young people’s views of the creative-activist turn to digital circulation of spoken word – poetry performed live to an audience – and the future of educational justice in adverse times, are refreshingly presented in a new spoken word video “Oral to A4”, featuring […]
-The post “Our Shakespeare was Tupac Shakur” first appeared on CDH.]]></summary>
-        <author>
-            <name>Heather Stallard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cultural Heritage Data School 2022]]></title>
-        <id>https://www.cdh.cam.ac.uk/?p=34943</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/cultural-heritage-data-school-2022/"/>
-        <updated>2022-08-09T10:55:59.000Z</updated>
-        <summary type="html"><![CDATA[The 2022 Cultural Heritage Data School, organised by Cambridge Digital Humanities in March, drew participants from the GLAM (Galleries, Libraries, Archives, and Museums) sector and academia to an intensive application-only teaching programme that explored the techniques for creating, visualising, and analysing digital archives and collections. The programme was designed around the pipeline for digital collections […]
-The post Cultural Heritage Data School 2022 first appeared on CDH.]]></summary>
-        <author>
-            <name>Ayesha Ulhaq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digihumanitaaria ja infoühiskonna keskuse uus juhataja on Jane Klavan]]></title>
-        <id>36029 at http://digihum.ut.ee</id>
-        <link href="http://digihum.ut.ee/event/digihumanitaaria-ja-info%C3%BChiskonna-keskuse-uus-juhataja-jane-klavan"/>
-        <updated>2022-03-18T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Loe lähemalt Digihumanitaaria ja infoühiskonna keskuse uus juhataja on Jane Klavan kohta]]></summary>
-        <author>
-            <name>a71389</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soovijad saavad Transkribust tasuta kasutada]]></title>
-        <id>36030 at http://digihum.ut.ee</id>
-        <link href="http://digihum.ut.ee/event/soovijad-saavad-transkribust-tasuta-kasutada"/>
-        <updated>2022-03-16T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[readcoop.eu/transkribus) on platvorm ajalooliste dokumentide (nii trükitud kui ka käsikirjaliste) digiteerimiseks, tehisintellektipõhiseks tekstituvastuseks, transkriptsiooniks ja otsinguks. Transkribuse tugevuseks on kasutajate loodud tekstituvastuse mudelid, mis toetavad juba praegu üsna palju ajaloolisi trükišrifte (nt ladina, kreeka, saksa fraktuurid jms) ja ka teatavaid tüüpi käekirju. Transkribus pakub võimalust ise oma...
- Loe lähemalt Soovijad saavad Transkribust tasuta kasutada kohta]]></summary>
-        <author>
-            <name>a71389</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities in the Nordic and Baltic Countries 2022]]></title>
-        <id>34320 at http://digihum.ut.ee</id>
-        <link href="http://digihum.ut.ee/event/digital-humanities-nordic-and-baltic-countries-2022-teeside-t%C3%A4htaeg"/>
-        <updated>2022-03-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asukoht: 
-
-Uppsala University
-
-
-
-http://dhnb.eu[/embed]
-
-
-
-
-	DHNB conferences focus on research, education and communication in the interdisciplinary field of digital humanities in the Nordic and Baltic regions and beyond. DHNB 2022 highlights the two-way relationship between digital humanities theory and praxis and society. Digital humanities’ research brings together technical implementation with critical...
- Loe lähemalt Digital Humanities in the Nordic and Baltic Countries 2022 kohta]]></summary>
-        <author>
-            <name>a71389</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digihumanitaaria arendusseminar]]></title>
-        <id>35371 at http://digihum.ut.ee</id>
-        <link href="http://digihum.ut.ee/event/digihumanitaaria-arendusseminar-0"/>
-        <updated>2022-01-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asukoht: 
-
-https://us02web.zoom.us/j/89302723181?pwd=aFZnWC9sOThsTUFkYWYvN0FpU0NRZz09
-
-
-
-Kõik digihumanitaariast ja selle kõrvalerialast huvitunud on oodatud reedel, 21. jaanuaril kl 14.00-16.00 Zoomi digihumanitaaria arendusseminarile. Tutvustame ...
- Loe lähemalt Digihumanitaaria arendusseminar kohta]]></summary>
-        <author>
-            <name>a71389</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Data in the Service of Cultural Heritage - workshop and hackathon]]></title>
-        <id>34815 at http://digihum.ut.ee</id>
-        <link href="http://digihum.ut.ee/event/digital-data-service-cultural-heritage-workshop-and-hackathon"/>
-        <updated>2021-11-23T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asukoht: 
-
-Zoom
-
-
-
-Digiandmed kultuuripärandi teenistuses - töötuba ja häkaton, 24-25.11.2021
-
-
-
-	Eesti Meremuuseum ja Tallinna Ülikool kutsuvad pärandi, kultuuri, ajaloo ja digihumanitaaria valdkonna teadlasi ja praktikuid töötuppa „Digiandmed kultuuripärandi teenistuses”, mis toimub 24.–25. novembril 2021 Tallinnas Zoom´i vahendusel. Üritus hõlmab põnevaid ettekandeid tööstuse ja akadeemiliste ringkondade esindajatelt, valikut uurimuslikke esitlusi, praktiliste digioskuste töötuba ja ajalooandmete häkatoni.
-
-
-
-	Mõlemad päevad...
- Loe lähemalt Digital Data in the Service of Cultural Heritage - workshop and hackathon kohta]]></summary>
-        <author>
-            <name>a71389</name>
         </author>
     </entry>
 </feed>
