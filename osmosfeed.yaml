@@ -3,14 +3,12 @@ sources:
   - href: http://acrl.ala.org/dh/feed/
   - href: http://blogs.ucl.ac.uk/dh/feed/
   - href: http://dhnb.eu/feed
-  - href: http://digihum.ut.ee/feed
   - href: http://www.globaloutlookdh.org/news/feed
   - href: https://aa-dh.org/feed/
   - href: https://ach.org/feed/
   - href: https://adhc.lib.ua.edu/feed
   - href: https://adho.org/rss.xml # this one calls itself "News", but is  Alliance of Digital Humanities Organizations
   - href: https://archive.mith.umd.edu/mith-2020/feed/index.html
-  - href: https://blog.cdh.cam.ac.uk/feed
   - href: https://blogs.kcl.ac.uk/ddh/feed
   - href: https://caa-international.org/feed
   - href: https://cdrh.unl.edu/rss.xml
@@ -35,6 +33,7 @@ sources:
   - href: https://dslab.lib.rochester.edu/category/blog/feed
   - href: https://eadh.org/feed
   - href: https://escripta.hypotheses.org/feed
+  - href: https://force11.org/rss
   - href: https://judaicadh.github.io/feed.xml
   - href: https://lila-erc.eu/feed
   - href: https://lila-erc.eu/news/feed/
@@ -59,8 +58,7 @@ sources:
   - href: https://www.c2dh.uni.lu/rss.xml
   - href: https://www.cdh.cam.ac.uk/rss.xml
   - href: https://www.clarin.eu/rss.xml
-  - href: https://www.dri.ie/rss.xml
-  - href: https://force11.org/rss
+  - href: https://dri.ie/news-type/blog/feed/
   - href: https://www.jadh.org/rss.xml
   - href: https://www.neh.gov/rss.xml
   - href: https://www.rluk.ac.uk/feed
