@@ -41,12 +41,12 @@ sources:
   - href: https://medium.com/@metalabharvard/feed
   - href: https://medium.com/@PelagiosNetwork/feed
   - href: https://medium.com/feed/digital-linguistics
-  # - href: https://openmethods.dariah.eu/feed/
+  # - href: https://openmethods.dariah.eu/feed/ # sometimes broken
   - href: https://pricelab.sas.upenn.edu/rss.xml
   - href: https://radihum20.de/feed
   - href: https://readcoop.eu/feed
   - href: https://review.gale.com/category/digital-humanities/feed
-  - href: https://reviewsindh.pubpub.org/rss.xml
+  # - href: https://reviewsindh.pubpub.org/rss.xml # fails feed validation
   - href: https://schoenberginstitute.org/feed
   - href: https://scholarlytales.hcommons.org/feed
   - href: https://sites.temple.edu/tudsc/feed
@@ -62,6 +62,6 @@ sources:
   - href: https://www.jadh.org/rss.xml
   - href: https://www.neh.gov/rss.xml
   - href: https://www.rluk.ac.uk/feed
-  - href: https://www.vanderbilt.edu/digitalhumanities/category/blog/feed
+  # - href: https://www.vanderbilt.edu/digitalhumanities/category/blog/feed # fails feed validation
 cacheMaxDays: 180
 siteTitle: "Flumen: Digital Humanities News Aggregator"
