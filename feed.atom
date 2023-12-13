@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-12-12T08:23:46.765Z</updated>
+    <updated>2023-12-13T08:22:56.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Interview on DASH: Digital Analysis of Syriac Handwriting]]></title>
+        <id>http://digitalorientalist.com/?p=11682</id>
+        <link href="https://digitalorientalist.com/2023/12/12/an-interview-on-dash-digital-analysis-of-syriac-handwriting/"/>
+        <updated>2023-12-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In previous years I have posted some interviews with different projects to trace the history of the Syriac Digital Humanities. …]]></summary>
+        <author>
+            <name>Ephrem A. Ishac</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Temporalities of Mixed Economies of Veteran Welfare in the Greater Region after the First World War]]></title>
         <id>4776 at https://www.c2dh.uni.lu</id>
@@ -7723,26 +7733,6 @@ Zentral Atelier Metzeschmelz
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Living with Machines in the LibCrowds newsletter]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=3396</id>
-        <link href="https://livingwithmachines.ac.uk/living-with-machines-in-the-libcrowds-newsletter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=living-with-machines-in-the-libcrowds-newsletter"/>
-        <updated>2023-06-16T17:39:16.000Z</updated>
-        <summary type="html"><![CDATA[We’ve been running crowdsourcing projects at the British Library for over a decade, and began using MailChimp to send a newsletter to subscribers in 2015, when we first launched the LibCrowds platform. I’ve included updates on Living with Machines work with crowdsourcing in this newsletter since December 2019. As we start to write up our […]]]></summary>
-        <author>
-            <name>Mia Ridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities Interns 2022/23 part 1]]></title>
-        <id>https://digitalhumanities.exeter.ac.uk/?p=1033</id>
-        <link href="https://digitalhumanities.exeter.ac.uk/2023/06/digital-humanities-interns-2022-23/"/>
-        <updated>2023-06-16T11:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Each year we ask our interns to write a blog post at the end of their time working with us looking back on their time in the DH Lab. Here is the first of this year’s blogs from Jane-Marie: I am Jane Marie a final year Art History, Visual Culture and Classical studies student. I […]]]></summary>
-        <author>
-            <name>Gemma Poulton</name>
         </author>
     </entry>
 </feed>
