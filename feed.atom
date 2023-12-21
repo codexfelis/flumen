@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-12-20T08:19:06.825Z</updated>
+    <updated>2023-12-21T08:23:11.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Conference Certificates]]></title>
+        <id>discourse.computational-humanities-research.org-topic-2123</id>
+        <link href="https://discourse.computational-humanities-research.org/t/conference-certificates/2123"/>
+        <updated>2023-12-21T03:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+1 post - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>Maheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Steps in Coding: Reliable, Reusable, Understandable Code]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37591/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37591/"/>
+        <updated>2023-12-20T14:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Lidea Shahidi (CDH Methods Fellow) Code in research helps to automate the collection, analysis or visualisation of data. Although the code may fulfil your research objective, you might have wondered how to improve it, code more efficiently, or make it ready for collaboration and sharing. Perhaps you have experienced challenges with debugging or understanding]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Field Research: Open Data Kit (ODK) Workshop for Digital Field Surveys]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37596/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37596/"/>
+        <updated>2023-12-20T13:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Junaid Abdul-Jabbar (CDH Methods Fellow) Please note this workshop has limited spaces and an application process in place. Application forms should be completed by noon, Friday 2 February 2024. Successful applicants will be notified by the end-of-day Wednesday 7 February 2024. This Methods Workshop welcomes participants who are interested in acquiring skills related to Open]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cambridge Theatre Hackathon]]></title>
+        <id>https://www.cdh.cam.ac.uk/media/blog/the-cambridge-theatre-hackathon/</id>
+        <link href="https://www.cdh.cam.ac.uk/media/blog/the-cambridge-theatre-hackathon/"/>
+        <updated>2023-12-20T08:49:34.000Z</updated>
+        <summary type="html"><![CDATA[What happens when you bring together dozens of actors, writers, designers and developers to experiment with technical theatre? The Cambridge Theatre Hackathon set out to find out. The inaugural event, supported by funding from Cambridge Digital Humanities, took place 19-20 May, 2023. The hybrid teams, with participants from around the world, created, rehearsed and performed]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RaDiHum20 spricht mit Doreen Siegfried vom Podcast “The Future is Open Science”]]></title>
         <id>https://radihum20.de/?p=751</id>
