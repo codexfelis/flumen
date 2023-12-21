@@ -62,6 +62,7 @@ sources:
   - href: https://www.jadh.org/rss.xml
   - href: https://www.neh.gov/rss.xml
   - href: https://www.rluk.ac.uk/feed
+  - href: https://rise.unibas.ch/de/657/feed.rss
   # - href: https://www.vanderbilt.edu/digitalhumanities/category/blog/feed # fails feed validation
 cacheMaxDays: 180
 siteTitle: "Flumen: Digital Humanities News Aggregator"
