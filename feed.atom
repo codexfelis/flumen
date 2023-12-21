@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-12-21T08:23:11.980Z</updated>
+    <updated>2023-12-21T13:53:12.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Event Series: Digital Scholarship Drop-in Sessions with Artes Research (winter/spring 2024)]]></title>
+        <id>https://scholarlytales.hcommons.org/?p=2034</id>
+        <link href="https://scholarlytales.hcommons.org/2023/12/21/event-series-digital-scholarship-drop-in-sessions-with-artes-research-winter-spring-2024/"/>
+        <updated>2023-12-21T13:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Have you been meaning to set up an appointment with Artes Research to ask about research data management for your project, an aspect of your research workflow, or a specific DH tool? You can now come to one of our…
+
+Continue reading “Event Series: Digital Scholarship Drop-in Sessions with Artes Research (winter/spring 2024)”…]]></summary>
+        <author>
+            <name>Laura Mesotten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conference Certificates]]></title>
         <id>discourse.computational-humanities-research.org-topic-2123</id>
@@ -2558,6 +2570,20 @@ Online
 The post Re-imagining Assignments in the DH Classroom II: Timelines, Digital Exhibits, and Maps appeared first on The Gale Review.]]></summary>
         <author>
             <name>Gale Review Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISE auf der Transkribus Nutzerkonferenz 2024]]></title>
+        <id>news-155</id>
+        <link href="https://rise.unibas.ch/de/news/details/rise-auf-der-transkribus-nutzerkonferenz-2024/"/>
+        <updated>2023-11-06T14:27:51.000Z</updated>
+        <summary type="html"><![CDATA[News,
+                        Forschung,
+                        Events
+                        
+RISE präsentiert auf der nächsten Transkribus User Conference in einem Lightning Talk Ergebnisse aus einem Forschungsseminar, dass in Kooperation mit Prof Jürgen Mohn von der Theologischen Fakultät im F2023 an der Universität Basel stattgefunden hat.]]></summary>
+        <author>
+            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
         </author>
     </entry>
     <entry>
@@ -6792,6 +6818,19 @@ The post ECCO’ing through the Ages: Exploring Reception with Gale’s <i>Eight
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Neue Publikation zu den Auswirkungen von Koalitionsregierungen auf Wahlergebnisse]]></title>
+        <id>news-153</id>
+        <link href="https://rise.unibas.ch/de/news/details/neue-publikation-zu-den-auswirkungen-von-koalitionsregierungen-auf-wahlergebnisse/"/>
+        <updated>2023-08-07T12:48:04.000Z</updated>
+        <summary type="html"><![CDATA[News,
+                        Forschung
+                        
+In der Zeitschrift Research & Politics (R&P) ist der Beitrag "The electoral consequences of policy-making in coalition governments." unter Mitarbeit von Anthea Alberto erschienen.]]></summary>
+        <author>
+            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TEI-C Elections 2023]]></title>
         <id>https://tei-c.org/?p=31664</id>
         <link href="https://tei-c.org/2023/08/06/tei-c-elections-2023/"/>
@@ -7554,6 +7593,20 @@ We are looking for a person that matc…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RISE auf der DH 2023 in Graz]]></title>
+        <id>news-145</id>
+        <link href="https://rise.unibas.ch/de/news/details/rise-auf-der-adho-digital-humanities-conference-in-graz-oesterreich/"/>
+        <updated>2023-07-12T09:21:50.000Z</updated>
+        <summary type="html"><![CDATA[News,
+                        Forschung,
+                        Events
+                        
+Zwei Mitglieder des RISE-Teams präsentieren auf der größten Veranstaltung der internationalen DH-Gemeinschaft, der ADHO Digital Humanities Conference, die vom 10. bis 14. Juli 2023 in Graz, Österreich, stattfindet.]]></summary>
+        <author>
+            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dr. Roopa Vasudevan – High-Level Creativity: New Media Art and the Priorities of the Tech Industry]]></title>
         <id>https://digitaldemocracies.org/?p=5109</id>
         <link href="https://digitaldemocracies.org/dr-roopa-vasudevan-high-level-creativity-new-media-art/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dr-roopa-vasudevan-high-level-creativity-new-media-art"/>
@@ -7859,6 +7912,20 @@ I’ve started sketching out the contents and approach in a series of GitHub iss
 I’m working to get the Guide finished by December. I’ll be sharing my progress here and on Mastodon, so follow along!]]></summary>
         <author>
             <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kleine Helferlein: Web-Scraping]]></title>
+        <id>news-143</id>
+        <link href="https://rise.unibas.ch/de/news/details/kleine-helferlein-web-scraping/"/>
+        <updated>2023-06-30T13:22:47.000Z</updated>
+        <summary type="html"><![CDATA[News,
+                        Forschung,
+                        Weiterbildung
+                        
+Im ersten Teil unserer "Kleine Helferlein" Serie zeigen wir, wie man in grossem Umfang Daten automatisiert von Webseiten herunterladen kann.]]></summary>
+        <author>
+            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
         </author>
     </entry>
     <entry>

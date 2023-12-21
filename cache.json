@@ -3453,6 +3453,16 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=2034",
+          "author": "Laura Mesotten",
+          "description": "Have you been meaning to set up an appointment with Artes Research to ask about research data management for your project, an aspect of your research workflow, or a specific DH tool? You can now come to one of our…\n\nContinue reading “Event Series: Digital Scholarship Drop-in Sessions with Artes Research (winter/spring 2024)”…",
+          "link": "https://scholarlytales.hcommons.org/2023/12/21/event-series-digital-scholarship-drop-in-sessions-with-artes-research-winter-spring-2024/",
+          "publishedOn": "2023-12-21T13:21:50.000Z",
+          "wordCount": 2770,
+          "title": "Event Series: Digital Scholarship Drop-in Sessions with Artes Research (winter/spring 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=2003",
           "author": "Laura Mesotten",
           "description": "Each academic year, we, at Artes Research, kick-off the Digital Scholarship Module – a training for first-year PhD researchers at the Faculty of Arts – with a session dedicated to research data workflows. Three researchers from the Faculty of Arts…\n\nContinue reading “Recap: How do you do it? A behind-the-scenes look at research workflows (2023)”…",
@@ -6066,6 +6076,73 @@
           "publishedOn": "2023-07-06T13:53:45.000Z",
           "wordCount": 1235,
           "title": "RLUK response to the decision of Dubai as the venue for IFLA World Library and Information Congress 2024"
+        }
+      ]
+    },
+    {
+      "title": "Aktuelles | Home | RISE | Research & Infrastructure Support | Universität Basel",
+      "feedUrl": "https://rise.unibas.ch/de/657/feed.rss",
+      "siteUrl": "https://rise.unibas.ch/de/",
+      "articles": [
+        {
+          "id": "news-155",
+          "author": null,
+          "description": "News,\n                        Forschung,\n                        Events\n                        \nRISE präsentiert auf der nächsten Transkribus User Conference in einem Lightning Talk Ergebnisse aus einem Forschungsseminar, dass in Kooperation mit Prof Jürgen Mohn von der Theologischen Fakultät im F2023 an der Universität Basel stattgefunden hat.",
+          "link": "https://rise.unibas.ch/de/news/details/rise-auf-der-transkribus-nutzerkonferenz-2024/",
+          "publishedOn": "2023-11-06T14:27:51.000Z",
+          "wordCount": 297,
+          "title": "RISE auf der Transkribus Nutzerkonferenz 2024",
+          "enclosure": {
+            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/TUC-24-2-1.png",
+            "length": "573360",
+            "type": "image/png"
+          },
+          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/TUC-24-2-1.png"
+        },
+        {
+          "id": "news-153",
+          "author": null,
+          "description": "News,\n                        Forschung\n                        \nIn der Zeitschrift Research & Politics (R&P) ist der Beitrag \"The electoral consequences of policy-making in coalition governments.\" unter Mitarbeit von Anthea Alberto erschienen.",
+          "link": "https://rise.unibas.ch/de/news/details/neue-publikation-zu-den-auswirkungen-von-koalitionsregierungen-auf-wahlergebnisse/",
+          "publishedOn": "2023-08-07T12:48:04.000Z",
+          "wordCount": 298,
+          "title": "Neue Publikation zu den Auswirkungen von Koalitionsregierungen auf Wahlergebnisse",
+          "enclosure": {
+            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/christian-lue-MZWBMNP7Nro-unsplash.jpg",
+            "length": "67711",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/christian-lue-MZWBMNP7Nro-unsplash.jpg"
+        },
+        {
+          "id": "news-145",
+          "author": null,
+          "description": "News,\n                        Forschung,\n                        Events\n                        \nZwei Mitglieder des RISE-Teams präsentieren auf der größten Veranstaltung der internationalen DH-Gemeinschaft, der ADHO Digital Humanities Conference, die vom 10. bis 14. Juli 2023 in Graz, Österreich, stattfindet.",
+          "link": "https://rise.unibas.ch/de/news/details/rise-auf-der-adho-digital-humanities-conference-in-graz-oesterreich/",
+          "publishedOn": "2023-07-12T09:21:50.000Z",
+          "wordCount": 332,
+          "title": "RISE auf der DH 2023 in Graz",
+          "enclosure": {
+            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/cropped-DH2023-RGB-397x149_white.png",
+            "length": "31578",
+            "type": "image/png"
+          },
+          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/cropped-DH2023-RGB-397x149_white.png"
+        },
+        {
+          "id": "news-143",
+          "author": null,
+          "description": "News,\n                        Forschung,\n                        Weiterbildung\n                        \nIm ersten Teil unserer \"Kleine Helferlein\" Serie zeigen wir, wie man in grossem Umfang Daten automatisiert von Webseiten herunterladen kann.",
+          "link": "https://rise.unibas.ch/de/news/details/kleine-helferlein-web-scraping/",
+          "publishedOn": "2023-06-30T13:22:47.000Z",
+          "wordCount": 378,
+          "title": "Kleine Helferlein: Web-Scraping",
+          "enclosure": {
+            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/Firefly_several_friendly_little_helper_monster_scraping_webs_72670.jpg",
+            "length": "1750529",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/Firefly_several_friendly_little_helper_monster_scraping_webs_72670.jpg"
         }
       ]
     }
