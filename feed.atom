@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-12-25T08:23:20.189Z</updated>
+    <updated>2023-12-26T08:22:19.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 407 – [Collection of astronomical texts]. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=17936</id>
+        <link href="https://schoenberginstitute.org/2023/12/25/manuscript-monday-ljs-407-collection-of-astronomical-texts-video-orientation/"/>
+        <updated>2023-12-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 407, a collection of astronomical works by Naṣīr al-Dīn al-Ṭūsī, which include material on sunset and sunrise, the size of the earth, the moon, the distance to the moon, the distance between the sun and the planets,Continue reading "Manuscript Monday: LJS 407 – [Collection of astronomical texts]. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Humanities and Religions in Asia: An Introduction]]></title>
         <id>http://digitalorientalist.com/?p=11694</id>
@@ -2582,6 +2592,15 @@ Online
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cambridge Data Schools]]></title>
+        <id>https://www.cdh.cam.ac.uk/dataschools/</id>
+        <link href="https://www.cdh.cam.ac.uk/dataschools/"/>
+        <updated>2023-11-07T08:27:42.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re-imagining Assignments in the DH Classroom II: Timelines, Digital Exhibits, and Maps]]></title>
         <id>https://review.gale.com/?p=14848</id>
         <link href="https://review.gale.com/2023/11/07/digital-humanities-timelines-exhibits-maps/"/>
@@ -3022,6 +3041,15 @@ The post Introducing Table Models – Trainable Layout AI in Transkribus appeare
         <summary type="html"><![CDATA[Wir sind ein international ausgerichtetes Forschungsinstitut und betreiben Grundlagenforschung auf dem Gebiet der Rechtsgeschichte in globalhistorischer Perspektive und der…]]></summary>
         <author>
             <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Academic Visitors and Fellowships]]></title>
+        <id>https://www.cdh.cam.ac.uk/research/academic-visitor-programme/</id>
+        <link href="https://www.cdh.cam.ac.uk/research/academic-visitor-programme/"/>
+        <updated>2023-10-25T14:23:16.000Z</updated>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
@@ -7966,16 +7994,6 @@ Im ersten Teil unserer "Kleine Helferlein" Serie zeigen wir, wie man in grossem 
         <summary type="html"><![CDATA[Episode 5 of ADHO Podcast is on air. This time we hosted Dr. Nadezhda Povroznik from CenterNet. You can listen the episode on SoundCloud or on ADHO.]]></summary>
         <author>
             <name>Erdal Ayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walking the Landscape: New Film on the Constable Project]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/walking-the-landscape-new-film-on-the-constable-project/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/walking-the-landscape-new-film-on-the-constable-project/"/>
-        <updated>2023-06-29T14:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Inspired by French theorist of embodiment and phenomenology, Michel de Certeau, the Constable Project takes prints of the famous 19th century artist, John Constable, outside of the museum, in order to walk with them; utilising simple technologies to understand and experience these art works in the environment that inspired them, in new and deeply embodied]]></summary>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
 </feed>
