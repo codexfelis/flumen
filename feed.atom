@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-12-26T08:22:19.040Z</updated>
+    <updated>2023-12-27T08:22:17.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japan Knowledge: Tennō Kōzoku Jitsuroku, Records of the Emperor and the Imperial Family]]></title>
+        <id>http://digitalorientalist.com/?p=11735</id>
+        <link href="https://digitalorientalist.com/2023/12/26/japan-knowledge-tenno-kozoku-jitsuroku-records-of-the-emperor-and-the-imperial-family/"/>
+        <updated>2023-12-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Overview Part of the digital edition of the Tennō kōzoku jitsuroku 天皇皇族實錄 [Records of the Emperor and the Imperial Family] …]]></summary>
+        <author>
+            <name>Hirohito TSUJI 辻󠄀 博仁</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manuscript Monday: LJS 407 – [Collection of astronomical texts]. (Video Orientation)]]></title>
         <id>http://schoenberginstitute.org/?p=17936</id>
@@ -7960,40 +7970,6 @@ I’ve started sketching out the contents and approach in a series of GitHub iss
 I’m working to get the Guide finished by December. I’ll be sharing my progress here and on Mastodon, so follow along!]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kleine Helferlein: Web-Scraping]]></title>
-        <id>news-143</id>
-        <link href="https://rise.unibas.ch/de/news/details/kleine-helferlein-web-scraping/"/>
-        <updated>2023-06-30T13:22:47.000Z</updated>
-        <summary type="html"><![CDATA[News,
-                        Forschung,
-                        Weiterbildung
-                        
-Im ersten Teil unserer "Kleine Helferlein" Serie zeigen wir, wie man in grossem Umfang Daten automatisiert von Webseiten herunterladen kann.]]></summary>
-        <author>
-            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities Interns 2022/23 part 3]]></title>
-        <id>https://digitalhumanities.exeter.ac.uk/?p=1043</id>
-        <link href="https://digitalhumanities.exeter.ac.uk/2023/06/digital-humanities-interns-2022-23-part-3/"/>
-        <updated>2023-06-30T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Each year we ask our interns to write a blog post at the end of their time working with us looking back on their time in the DH Lab. Here is the third of this year’s blogs from Isabel: Hi, my name’s Isabel and I’m a third year History student and intern at the Digital […]]]></summary>
-        <author>
-            <name>Gemma Poulton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADHO Podcast, Episode 5 is on air.]]></title>
-        <id>https://adho.org/?p=2134</id>
-        <link href="https://adho.org/2023/06/30/adho-podcast-episode-5-is-on-air/"/>
-        <updated>2023-06-30T11:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Episode 5 of ADHO Podcast is on air. This time we hosted Dr. Nadezhda Povroznik from CenterNet. You can listen the episode on SoundCloud or on ADHO.]]></summary>
-        <author>
-            <name>Erdal Ayan</name>
         </author>
     </entry>
 </feed>

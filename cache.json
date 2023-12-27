@@ -271,15 +271,6 @@
           "publishedOn": "2023-07-06T17:47:55.000Z",
           "wordCount": 1584,
           "title": "The Only Constant is Change: Current and Upcoming Modifications to ADHO’s Digital Humanities Conference"
-        },
-        {
-          "id": "https://adho.org/?p=2134",
-          "author": "Erdal Ayan",
-          "description": "Episode 5 of ADHO Podcast is on air. This time we hosted Dr. Nadezhda Povroznik from CenterNet. You can listen the episode on SoundCloud or on ADHO.",
-          "link": "https://adho.org/2023/06/30/adho-podcast-episode-5-is-on-air/",
-          "publishedOn": "2023-06-30T11:01:41.000Z",
-          "wordCount": 131,
-          "title": "ADHO Podcast, Episode 5 is on air."
         }
       ]
     },
@@ -1742,15 +1733,6 @@
           "publishedOn": "2023-07-07T11:30:00.000Z",
           "wordCount": 1172,
           "title": "Digital Humanities Interns 2022/23 part 4"
-        },
-        {
-          "id": "https://digitalhumanities.exeter.ac.uk/?p=1043",
-          "author": "Gemma Poulton",
-          "description": "Each year we ask our interns to write a blog post at the end of their time working with us looking back on their time in the DH Lab. Here is the third of this year’s blogs from Isabel: Hi, my name’s Isabel and I’m a third year History student and intern at the Digital […]",
-          "link": "https://digitalhumanities.exeter.ac.uk/2023/06/digital-humanities-interns-2022-23-part-3/",
-          "publishedOn": "2023-06-30T11:30:00.000Z",
-          "wordCount": 818,
-          "title": "Digital Humanities Interns 2022/23 part 3"
         }
       ]
     },
@@ -1759,6 +1741,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=11735",
+          "author": "Hirohito TSUJI 辻󠄀 博仁",
+          "description": "Overview Part of the digital edition of the Tennō kōzoku jitsuroku 天皇皇族實錄 [Records of the Emperor and the Imperial Family] …",
+          "link": "https://digitalorientalist.com/2023/12/26/japan-knowledge-tenno-kozoku-jitsuroku-records-of-the-emperor-and-the-imperial-family/",
+          "publishedOn": "2023-12-26T14:00:00.000Z",
+          "wordCount": 5205,
+          "title": "Japan Knowledge: Tennō Kōzoku Jitsuroku, Records of the Emperor and the Imperial Family",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2023/12/tennokozoku2_info_en.jpg"
+        },
         {
           "id": "http://digitalorientalist.com/?p=11694",
           "author": "Cornelis van Lit",
@@ -6034,21 +6026,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/cropped-DH2023-RGB-397x149_white.png"
-        },
-        {
-          "id": "news-143",
-          "author": null,
-          "description": "News,\n                        Forschung,\n                        Weiterbildung\n                        \nIm ersten Teil unserer \"Kleine Helferlein\" Serie zeigen wir, wie man in grossem Umfang Daten automatisiert von Webseiten herunterladen kann.",
-          "link": "https://rise.unibas.ch/de/news/details/kleine-helferlein-web-scraping/",
-          "publishedOn": "2023-06-30T13:22:47.000Z",
-          "wordCount": 378,
-          "title": "Kleine Helferlein: Web-Scraping",
-          "enclosure": {
-            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/Firefly_several_friendly_little_helper_monster_scraping_webs_72670.jpg",
-            "length": "1750529",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/Firefly_several_friendly_little_helper_monster_scraping_webs_72670.jpg"
         }
       ]
     }
