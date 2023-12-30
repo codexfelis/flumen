@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2023-12-29T08:22:01.644Z</updated>
+    <updated>2023-12-30T08:21:27.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Editor’s Digest December 2023: Chinese Studies]]></title>
+        <id>http://digitalorientalist.com/?p=11874</id>
+        <link href="https://digitalorientalist.com/2023/12/29/editors-digest-december-2023-chinese-studies/"/>
+        <updated>2023-12-29T16:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Starting this academic year, the Digital Orientalist is introducing a new type of post: the editor’s digest, where editors summarize …]]></summary>
+        <author>
+            <name>Mariana Zorkina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japan Knowledge: Tennō Kōzoku Jitsuroku, Records of the Emperor and the Imperial Family]]></title>
         <id>http://digitalorientalist.com/?p=11735</id>
@@ -7926,50 +7936,6 @@ The post Digital Repository of Ireland Now Supporting 3D Viewing Capabilities  
 The post Recent Developments in Archiving Reproductive Health appeared first on Digital Repository Ireland.]]></summary>
         <author>
             <name>Clare Lanigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer School: Einführung in die digitale Editorik. Briefe mit TEI codieren und publizieren.]]></title>
-        <id>node/908</id>
-        <link href="https://dig-hum.de/aktuelles/summer-school-einf%C3%BChrung-die-digitale-editorik-briefe-tei-codieren-und-publizieren"/>
-        <updated>2023-07-03T19:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Am Mittwoch, den 30.08., und Donnerstag, den 31.08.2023, findet in der Zentralbibliothek Zürich die Summer School zum Thema "Einführung in die digitale Editorik. Briefe mit TEI…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Position: Postdoc ERC Synergy MiDRASH]]></title>
-        <id>https://escripta.hypotheses.org/?p=521</id>
-        <link href="https://escripta.hypotheses.org/521"/>
-        <updated>2023-07-03T13:06:25.000Z</updated>
-        <summary type="html"><![CDATA[Postdoc ERC Synergy MiDRASH in Paris The Ecole pratique des hautes études, PSL-University in Paris, France is hiring a postdoctoral research associate in Hebrew Literature to work on the ERC Synergy project MiDRASH (Migrations...]]></summary>
-        <author>
-            <name>Daniel Stoekl Ben Ezra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reminder: Call for Papers DHd2024]]></title>
-        <id>node/907</id>
-        <link href="https://dig-hum.de/aktuelles/reminder-call-for-papers-dhd2024"/>
-        <updated>2023-07-03T07:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Die 10. DHd Jahreskonferenz wird vom 26.02.2024 bis zum 01.03.2024 in Passau unter dem Motto "DH Quo Vadis" stattfinden. 
-Call for Papers
-Mittlerweile ist es zehn Jahre her, dass…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting to work on the Trove Data Guide]]></title>
-        <id>http://wragge.micro.blog/2023/07/03/getting-to-work.html</id>
-        <link href="https://updates.timsherratt.org/2023/07/03/getting-to-work.html"/>
-        <updated>2023-07-03T00:17:57.000Z</updated>
-        <summary type="html"><![CDATA[The ARDC has started work on the development of a HASS Community Data Lab to support digital research in the humanities. I’m part of the team of contractors, and my work package is focused on the development of a Trove Data Guide. My aim is to give researchers what they need to use and understand all the varieties of data that Trove makes available – from newspaper text to digitised, high-resolution maps.
-I’ve started sketching out the contents and approach in a series of GitHub issues. Comments and suggestions are welcome. The Guide will be built from a collection of Jupyter notebooks using Jupyter Book. You can get an idea of how this works from the development site (Warning! Will change often!).
-I’m working to get the Guide finished by December. I’ll be sharing my progress here and on Mastodon, so follow along!]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
 </feed>
