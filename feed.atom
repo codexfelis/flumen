@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-02T08:23:01.376Z</updated>
+    <updated>2024-01-03T08:23:16.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mapping MARC Geographic Area codes to Wikidata]]></title>
+        <id>http://wragge.micro.blog/2024/01/03/mapping-marc-geographic.html</id>
+        <link href="https://updates.timsherratt.org/2024/01/03/mapping-marc-geographic.html"/>
+        <updated>2024-01-03T07:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Trove uses codes from the MARC Geographic Areas list to identify locations in metadata records. I couldn’t find any mappings of these codes to other sources of geospatial information, so I fired up OpenRefine and reconciled the geographic area names against Wikidata. Once I’d linked as many as possible, I copied additional information from Wikidata, such as ISO country codes, GeoNames identifiers, and geographic coordinates.
+I’ve saved the resulting dataset in two formats – as a flattened CSV file (handy for loading as a dataframe), and as a JSON file that uses the geographic area codes as keys (handy for looking up values). You can download the datasets from this GitHub repository.
+I’ve also written the codes back into the Wikidata records, so you can now find them with a SPARQL query like this.
+The columns in the CSV file are:
+code – MARC geographic areas code (without any trailing dashes)
+place – name of geographic area from the MARC list
+wikidata_label – name of geographic area from Wikidata
+wikidata_id – Wikidata identifier
+coordinates – pair of decimal coordinates in the form latitude,longitude (multiple values are pipe | separated)
+iso_country_code – ISO two letter country code (multiple values are pipe | separated)
+iso_numeric_country_code – ISO numeric country code (multiple values are pipe | separated)
+geonames_id – GeoNames identifier (multiple values are pipe | separated)
+Note that some fields can contain multiple values. For example the area Mediterranean Region is linked to 22 countries, so there will be multiple values in the ISO code fields.
+
+For an example of this dataset in use, see Which countries do the oral histories relate to? in the Trove Data Guide.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[National Archives of Australia in 2023 – digitisation of files]]></title>
+        <id>http://wragge.micro.blog/2024/01/03/national-archives-of.html</id>
+        <link href="https://updates.timsherratt.org/2024/01/03/national-archives-of.html"/>
+        <updated>2024-01-03T00:18:21.000Z</updated>
+        <summary type="html"><![CDATA[In 2023 the National Archives of Australia digitised 416,602 files (down from 575,597 in 2022). This chart shows the number of files digitised per day in 2023.
+
+These files were drawn from 1,423 different series, but the vast bulk (81%) were from 4 series of World War Two service records. (This media release includes some details about the funding of the WW2 digitisation.)
+Here’s the top twenty series by number of items digitised in 2023.
+series
+series_title
+total
+
+
+
+
+B883
+Second Australian Imperial Force Personnel Dossiers, 1939-1947
+201,511
+
+
+A9301
+RAAF Personnel files of Non-Commissioned Officers (NCOs) and other ranks, 1921-1948
+111,673
+
+
+A9300
+RAAF Officers Personnel files, 1921-1948
+14,125
+
+
+B884
+Citizen Military Forces Personnel Dossiers, 1939-1947
+11,265
+
+
+A14435
+Stanley Fowler ph…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El Archivo de las Índias (the General Archive of the Indies) and the PARES Project: A Brief Introduction and Review]]></title>
+        <id>http://digitalorientalist.com/?p=11888</id>
+        <link href="https://digitalorientalist.com/2024/01/02/el-archivo-de-las-indias-general-archive-of-the-indies-and-the-pares-project-a-brief-introduction-and-review/"/>
+        <updated>2024-01-02T11:06:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest post by Raúl Cervera, with special thanks to David Perez Arcé. See information about the author …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trove newspapers in 2023]]></title>
         <id>http://wragge.micro.blog/2024/01/02/trove-newspapers-in.html</id>
@@ -7808,69 +7884,6 @@ The post Introducing Transkribus Super Models – Get Access to ‘The Text Tita
         <summary type="html"><![CDATA[Tom Kissock has fifteen years’ experience as a Director, Executive Producer, and Livestream expert for the BBC, YouTube, NBC, and Cisco; coupled with seven years’ experience researching video witnessing and human rights abuses. In 2020 he received his MSc in Globalization and Latin American Development from UCL where his research used Video Data Analysis as]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New resources from FORCE11-COPE Research Data Publishing Ethics Working Group: Flowcharts!]]></title>
-        <id>https://force11.org/?p=150541</id>
-        <link href="https://force11.org/post/new-resources-from-the-force11-cope-research-data-publishing-ethics-working-group-flowcharts/"/>
-        <updated>2023-07-07T17:14:01.000Z</updated>
-        <summary type="html"><![CDATA[We are pleased to share eight flowcharts to guide handling of ethical concerns related to data publication.]]></summary>
-        <author>
-            <name>Iratxe Puebla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities Interns 2022/23 part 4]]></title>
-        <id>https://digitalhumanities.exeter.ac.uk/?p=1054</id>
-        <link href="https://digitalhumanities.exeter.ac.uk/2023/07/digital-humanities-interns-2022-23-part-4/"/>
-        <updated>2023-07-07T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Leave a Reply Each year we ask our interns to write a blog post at the end of their time working with us looking back on their time in the DH Lab. Here is the fourth of this year’s blogs from Heide: Hello, I’m Heide, now a third year English Undergraduate (and set to graduate […]]]></summary>
-        <author>
-            <name>Gemma Poulton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Register Now for FSCI2023 Online]]></title>
-        <id>https://force11.org/?p=150472</id>
-        <link href="https://force11.org/post/register-now-for-fsci2023-online/"/>
-        <updated>2023-07-06T22:48:50.000Z</updated>
-        <summary type="html"><![CDATA[Only a few weeks remain to enroll in a course at FSCI2023 Online, happening the week of July 31st through August 4th.]]></summary>
-        <author>
-            <name>Danny Kingsley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Invitation to be Actively Involved in FORCE11]]></title>
-        <id>https://force11.org/?p=149387</id>
-        <link href="https://force11.org/post/an-invitation-to-be-actively-involved-in-force11/"/>
-        <updated>2023-07-06T22:47:46.000Z</updated>
-        <summary type="html"><![CDATA[A call to the members of the FORCE11 community to engage in our organizational work and advance the ideas that make our community strong]]></summary>
-        <author>
-            <name>Todd Carpenter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Chaire Opportunity in "Computational Analysis of Written Cultures in Western Space"]]></title>
-        <id>discourse.computational-humanities-research.org-topic-1989</id>
-        <link href="https://discourse.computational-humanities-research.org/t/junior-chaire-opportunity-in-computational-analysis-of-written-cultures-in-western-space/1989"/>
-        <updated>2023-07-06T21:20:37.000Z</updated>
-        <summary type="html"><![CDATA[Junior Chaire in “Computational Analysis of Written Cultures in Western Space” (Middle Ages – first XXth c.") - École Nationale des Chartes - PSL Université
-This is a tenure track position with a reduced teaching load leading to a full professor position in four years. The position will start on January 1st, 2024.
-https://euraxess.ec.europa.eu/jobs/87828
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>PSL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing our Digital Residents!]]></title>
-        <id>https://livingwithmachines.ac.uk/?p=3446</id>
-        <link href="https://livingwithmachines.ac.uk/announcing-our-digital-residents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=announcing-our-digital-residents"/>
-        <updated>2023-07-06T08:25:18.000Z</updated>
-        <author>
-            <name>Ruth Ahnert</name>
         </author>
     </entry>
 </feed>

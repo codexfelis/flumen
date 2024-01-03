@@ -1678,15 +1678,6 @@
           "publishedOn": "2023-07-26T09:09:23.000Z",
           "wordCount": 1003,
           "title": "AHRC iDAH Virtual Summer School in digitisation and analysis of textual sources"
-        },
-        {
-          "id": "https://digitalhumanities.exeter.ac.uk/?p=1054",
-          "author": "Gemma Poulton",
-          "description": "Leave a Reply Each year we ask our interns to write a blog post at the end of their time working with us looking back on their time in the DH Lab. Here is the fourth of this year’s blogs from Heide: Hello, I’m Heide, now a third year English Undergraduate (and set to graduate […]",
-          "link": "https://digitalhumanities.exeter.ac.uk/2023/07/digital-humanities-interns-2022-23-part-4/",
-          "publishedOn": "2023-07-07T11:30:00.000Z",
-          "wordCount": 1172,
-          "title": "Digital Humanities Interns 2022/23 part 4"
         }
       ]
     },
@@ -1695,6 +1686,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=11888",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Raúl Cervera, with special thanks to David Perez Arcé. See information about the author …",
+          "link": "https://digitalorientalist.com/2024/01/02/el-archivo-de-las-indias-general-archive-of-the-indies-and-the-pares-project-a-brief-introduction-and-review/",
+          "publishedOn": "2024-01-02T11:06:00.000Z",
+          "wordCount": 5247,
+          "title": "El Archivo de las Índias (the General Archive of the Indies) and the PARES Project: A Brief Introduction and Review",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2023/12/image5.png?w=1200"
+        },
         {
           "id": "http://digitalorientalist.com/?p=11874",
           "author": "Mariana Zorkina",
@@ -2401,15 +2402,6 @@
           "publishedOn": "2023-07-11T07:19:41.000Z",
           "wordCount": 500,
           "title": "SUMAC'23 @ACMM'23: the 5th ACM International workshop on analySis, Understanding and proMotion of heritAge Contents"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-1989",
-          "author": "PSL",
-          "description": "Junior Chaire in “Computational Analysis of Written Cultures in Western Space” (Middle Ages – first XXth c.\") - École Nationale des Chartes - PSL Université\nThis is a tenure track position with a reduced teaching load leading to a full professor position in four years. The position will start on January 1st, 2024.\nhttps://euraxess.ec.europa.eu/jobs/87828\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/junior-chaire-opportunity-in-computational-analysis-of-written-cultures-in-western-space/1989",
-          "publishedOn": "2023-07-06T21:20:37.000Z",
-          "wordCount": 127,
-          "title": "Junior Chaire Opportunity in \"Computational Analysis of Written Cultures in Western Space\""
         }
       ]
     },
@@ -2527,33 +2519,6 @@
           "publishedOn": "2023-07-15T14:22:06.000Z",
           "wordCount": 1440,
           "title": "Call for Proposals to Host FORCE11 Annual Conference"
-        },
-        {
-          "id": "https://force11.org/?p=150541",
-          "author": "Iratxe Puebla",
-          "description": "We are pleased to share eight flowcharts to guide handling of ethical concerns related to data publication.",
-          "link": "https://force11.org/post/new-resources-from-the-force11-cope-research-data-publishing-ethics-working-group-flowcharts/",
-          "publishedOn": "2023-07-07T17:14:01.000Z",
-          "wordCount": 1442,
-          "title": "New resources from FORCE11-COPE Research Data Publishing Ethics Working Group: Flowcharts!"
-        },
-        {
-          "id": "https://force11.org/?p=150472",
-          "author": "Danny Kingsley",
-          "description": "Only a few weeks remain to enroll in a course at FSCI2023 Online, happening the week of July 31st through August 4th.",
-          "link": "https://force11.org/post/register-now-for-fsci2023-online/",
-          "publishedOn": "2023-07-06T22:48:50.000Z",
-          "wordCount": 1679,
-          "title": "Register Now for FSCI2023 Online"
-        },
-        {
-          "id": "https://force11.org/?p=149387",
-          "author": "Todd Carpenter",
-          "description": "A call to the members of the FORCE11 community to engage in our organizational work and advance the ideas that make our community strong",
-          "link": "https://force11.org/post/an-invitation-to-be-actively-involved-in-force11/",
-          "publishedOn": "2023-07-06T22:47:46.000Z",
-          "wordCount": 1831,
-          "title": "An Invitation to be Actively Involved in FORCE11"
         }
       ]
     },
@@ -2688,15 +2653,6 @@
           "publishedOn": "2023-08-08T16:49:47.000Z",
           "wordCount": 506,
           "title": "Watch now! Roundtable discussion of Living with Machines new book on collaboration"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=3446",
-          "author": "Ruth Ahnert",
-          "description": "",
-          "link": "https://livingwithmachines.ac.uk/announcing-our-digital-residents/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-our-digital-residents",
-          "publishedOn": "2023-07-06T08:25:18.000Z",
-          "wordCount": 574,
-          "title": "Announcing our Digital Residents!"
         }
       ]
     },
@@ -3697,6 +3653,26 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2024/01/03/mapping-marc-geographic.html",
+          "author": null,
+          "description": "Trove uses codes from the MARC Geographic Areas list to identify locations in metadata records. I couldn’t find any mappings of these codes to other sources of geospatial information, so I fired up OpenRefine and reconciled the geographic area names against Wikidata. Once I’d linked as many as possible, I copied additional information from Wikidata, such as ISO country codes, GeoNames identifiers, and geographic coordinates.\nI’ve saved the resulting dataset in two formats – as a flattened CSV file (handy for loading as a dataframe), and as a JSON file that uses the geographic area codes as keys (handy for looking up values). You can download the datasets from this GitHub repository.\nI’ve also written the codes back into the Wikidata records, so you can now find them with a SPARQL query like this.\nThe columns in the CSV file are:\ncode – MARC geographic areas code (without any trailing dashes)\nplace – name of geographic area from the MARC list\nwikidata_label – name of geographic area from Wikidata\nwikidata_id – Wikidata identifier\ncoordinates – pair of decimal coordinates in the form latitude,longitude (multiple values are pipe | separated)\niso_country_code – ISO two letter country code (multiple values are pipe | separated)\niso_numeric_country_code – ISO numeric country code (multiple values are pipe | separated)\ngeonames_id – GeoNames identifier (multiple values are pipe | separated)\nNote that some fields can contain multiple values. For example the area Mediterranean Region is linked to 22 countries, so there will be multiple values in the ISO code fields.\n\r\nFor an example of this dataset in use, see Which countries do the oral histories relate to? in the Trove Data Guide.",
+          "link": "https://updates.timsherratt.org/2024/01/03/mapping-marc-geographic.html",
+          "publishedOn": "2024-01-03T07:03:48.000Z",
+          "wordCount": 332,
+          "title": "Mapping MARC Geographic Area codes to Wikidata",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-01-03-18-01-07.png"
+        },
+        {
+          "id": "http://wragge.micro.blog/2024/01/03/national-archives-of.html",
+          "author": null,
+          "description": "In 2023 the National Archives of Australia digitised 416,602 files (down from 575,597 in 2022). This chart shows the number of files digitised per day in 2023.\n\r\nThese files were drawn from 1,423 different series, but the vast bulk (81%) were from 4 series of World War Two service records. (This media release includes some details about the funding of the WW2 digitisation.)\nHere’s the top twenty series by number of items digitised in 2023.\nseries\nseries_title\ntotal\n\n\n\n\nB883\nSecond Australian Imperial Force Personnel Dossiers, 1939-1947\n201,511\n\n\nA9301\nRAAF Personnel files of Non-Commissioned Officers (NCOs) and other ranks, 1921-1948\n111,673\n\n\nA9300\nRAAF Officers Personnel files, 1921-1948\n14,125\n\n\nB884\nCitizen Military Forces Personnel Dossiers, 1939-1947\n11,265\n\n\nA14435\nStanley Fowler ph…",
+          "link": "https://updates.timsherratt.org/2024/01/03/national-archives-of.html",
+          "publishedOn": "2024-01-03T00:18:21.000Z",
+          "wordCount": 407,
+          "title": "National Archives of Australia in 2023 – digitisation of files",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-01-03-10-59-46.png"
+        },
         {
           "id": "http://wragge.micro.blog/2024/01/02/trove-newspapers-in.html",
           "author": null,
