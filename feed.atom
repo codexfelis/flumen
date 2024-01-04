@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-03T08:23:16.218Z</updated>
+    <updated>2024-01-04T08:22:42.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s going on?]]></title>
+        <id>http://wragge.micro.blog/2024/01/04/whats-going-on.html</id>
+        <link href="https://updates.timsherratt.org/2024/01/04/whats-going-on.html"/>
+        <updated>2024-01-04T07:21:41.000Z</updated>
+        <summary type="html"><![CDATA[The hardest part of developing tools and resources like the GLAM Workbench is getting information about them to the people who might benefit. The collapse of Twitter has only added to the difficulty, as has the reluctance of GLAM organisations to share new resources with their users. I’d rather spend my time making new tools, but what’s the point if no-one knows they exist?
+Anyway, I thought I’d do a bit of a communications refresh for the new year. If you’re interested in GLAM Workbench and Trove Data Guide updates you can:
+Keep an eye on the GLAM Workbench channel of my microblog (or add the feed to your RSS reader)
+Follow the GLAM Workbench Facebook page for cross-posted updates from the RSS feed
+Follow the GLAM Workbench LinkedIn page for cross-posted updates from the RSS feed
+I’m also working on an email newsletter thing that’ll compile the updates at regular intervals.
+For more social socials, as well as questions, requests and problems, you can always find me on Mastodon: @wragge@hcommons.social. My email address is not too hard to find, but, honestly, your chances of getting a reply are slim.
+If you’ve got a bug report, or a suggestion for a new notebook or data source, feel free to create an issue on GitHub.
+And, of course, everything I do is openly-licensed, so you are very welcome to modify and share! See the GLAM Workbench for other ways to get involved.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring oral histories in Trove]]></title>
+        <id>http://wragge.micro.blog/2024/01/04/exploring-oral-histories.html</id>
+        <link href="https://updates.timsherratt.org/2024/01/04/exploring-oral-histories.html"/>
+        <updated>2024-01-04T01:20:30.000Z</updated>
+        <summary type="html"><![CDATA[The National Library of Australia holds over 55,000 hours of oral history and folklore recordings dating back to the 1950s. This collection is being made available online, and many recordings can now be listened to using Trove’s audio player.
+However, the oral history collection is not easy to find in Trove. You need to go the ‘Music, Audio, & Video’ category and check the ‘Sound/Interview, lecture, talk’ format facet. To limit results to oral histories that have been digitised, you can add “nla.obj” to your query and set the ‘Access’ facet to ‘Online’. But what’s actually in the oral history collection and what can you do with it?
+To help researchers explore and analyse the NLA’s oral history collection, I’ve added some notebooks to the Music, sound, and oral histories section of the GLAM…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: zwei studentische Hilfskräfte (m/w/d) - Historische Normativitätsregime]]></title>
+        <id>node/936</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-zwei-studentische-hilfskr%C3%A4fte-mwd-historische-normativit%C3%A4tsregime"/>
+        <updated>2024-01-03T10:37:25.000Z</updated>
+        <summary type="html"><![CDATA[Stellenangebot am Max-Planck-Institut für Rechtsgeschichte und Rechtstheorie
+Wir sind ein international ausgerichtetes Forschungsinstitut und betreiben Grundlagenforschung auf dem…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZWEI WISSENSCHAFTLICHE/N MITARBEITER/IN FÜR DIGITAL HUMANITIES (einmal Vollzeit, einmal halbtags)]]></title>
+        <id>node/935</id>
+        <link href="https://dig-hum.de/aktuelles/zwei-wissenschaftlichen-mitarbeiterin-f%C3%BCr-digital-humanities-einmal-vollzeit-einmal"/>
+        <updated>2024-01-03T10:26:13.000Z</updated>
+        <summary type="html"><![CDATA[Das 1859 gegründete Freie Deutsche Hochstift zählt zu den ältesten literatur- und kunstwissenschaftlichen Forschungsinstituten Deutschlands und ist heute Forschungsinstitut,…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mapping MARC Geographic Area codes to Wikidata]]></title>
         <id>http://wragge.micro.blog/2024/01/03/mapping-marc-geographic.html</id>
