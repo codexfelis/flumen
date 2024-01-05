@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-04T08:22:42.760Z</updated>
+    <updated>2024-01-05T08:23:11.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What can histories of artificial intelligence teach us? On the development of large models and ‘data-driven’ research in AI]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37632/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37632/"/>
+        <updated>2024-01-04T16:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Amira Moeding (CDH Methods Fellow) Join our Methods Fellow, Amira Moeding in a workshop which introduces methods of historical enquiry into the development of digital technologies and digital data. What can the history of "Big Data" tells us about artificial intelligence today? What were seen as the pitfalls and problems with biases early on]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-collected Thoughts: ‘Commonplacing’ Practices from Analogue to Digital]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37594/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37594/"/>
+        <updated>2024-01-04T14:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Shellie Audsley (CDH Methods Fellow) Across two sessions, participants will be introduced to the ancient yet evolving practices of commonplace-book keeping and the ‘modernised’ digital tools and methods for extracting, indexing, sustaining and networking knowledge fragments from personal notes, anthologies and archives for idea generation. Commonplacing—manifest as the classical vade mecums (‘come with me’]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s going on?]]></title>
         <id>http://wragge.micro.blog/2024/01/04/whats-going-on.html</id>
