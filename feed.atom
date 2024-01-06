@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-05T08:23:11.284Z</updated>
+    <updated>2024-01-06T08:21:51.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Benin: bringing together scattered historic Benin objects]]></title>
+        <id>http://digitalorientalist.com/?p=11754</id>
+        <link href="https://digitalorientalist.com/2024/01/05/digital-benin-bringing-together-scattered-historic-benin-objects/"/>
+        <updated>2024-01-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The kingdom of Benin, in what is now central Nigeria, was a powerful African state from the Middle Ages until …]]></summary>
+        <author>
+            <name>Anaïs Wion</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What can histories of artificial intelligence teach us? On the development of large models and ‘data-driven’ research in AI]]></title>
         <id>https://www.cdh.cam.ac.uk/events/37632/</id>
@@ -7934,27 +7944,6 @@ Aims and scope
 The ambition of SUMAC is to bring together researchers and practitioners from different disciplines to share ideas and methods on current trends in the analysis, understanding and promotion of heritage contents. These challenges are reflected in the corresponding sub-fields of machine learning, signal processing, multi-modal techniques and human-machine interaction. We welcome research contributions for the…]]></summary>
         <author>
             <name>vgouet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Transkribus Super Models – Get Access to ‘The Text Titan I’]]></title>
-        <id>https://readcoop.eu/?p=32930</id>
-        <link href="https://readcoop.eu/introducing-transkribus-super-models-get-access-to-the-text-titan-i/"/>
-        <updated>2023-07-10T11:21:25.000Z</updated>
-        <summary type="html"><![CDATA[With the Transkribus Next Gen well on its way, we are excited to announce that access to our new Transkribus super model ‘The Text Titan  I’ is now available for early access. In this blog post we will talk about why we are introducing this new technology and about the benefits that come with it. […]
-The post Introducing Transkribus Super Models – Get Access to ‘The Text Titan I’ appeared first on READ-COOP.]]></summary>
-        <author>
-            <name>Helene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Kissock]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/tom-kissock/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/tom-kissock/"/>
-        <updated>2023-07-10T09:51:13.000Z</updated>
-        <summary type="html"><![CDATA[Tom Kissock has fifteen years’ experience as a Director, Executive Producer, and Livestream expert for the BBC, YouTube, NBC, and Cisco; coupled with seven years’ experience researching video witnessing and human rights abuses. In 2020 he received his MSc in Globalization and Latin American Development from UCL where his research used Video Data Analysis as]]></summary>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
 </feed>
