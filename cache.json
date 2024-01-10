@@ -235,15 +235,6 @@
           "publishedOn": "2023-08-15T16:00:00.000Z",
           "wordCount": 737,
           "title": "Join or Nominate Someone for a Position on the ADHO Executive Board"
-        },
-        {
-          "id": "https://adho.org/?p=2335",
-          "author": "hannah",
-          "description": "The ADHO Identity Project began following the July 2022 ADHO meetings. One of the major challenges ADHO faces is the lack of a clear articulation of its own identity, particularly after many years of ADHO executive effort have been directed towards addressing numerous bureaucratic, logistical, and structural challenges. With those issues largely sorted out, there… Read More »Survey on ADHO’s Identity",
-          "link": "https://adho.org/2023/07/14/survey-on-adhos-identity/",
-          "publishedOn": "2023-07-14T17:28:40.000Z",
-          "wordCount": 449,
-          "title": "Survey on ADHO’s Identity"
         }
       ]
     },
@@ -1688,6 +1679,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=11978",
+          "author": "Alice Casalini",
+          "description": "When AI image generator services were opened to the public on the vast web in 2021, they quickly became viral …",
+          "link": "https://digitalorientalist.com/2024/01/09/ai-machine-learning-neural-networks-friends-or-foes-in-the-historical-investigation/",
+          "publishedOn": "2024-01-09T14:00:00.000Z",
+          "wordCount": 5296,
+          "title": "AI, machine learning, neural networks: friends or foes in the historical investigation?",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/01/screenshot-2024-01-01-at-8.11.14e280afpm.png?w=1200"
+        },
         {
           "id": "http://digitalorientalist.com/?p=11754",
           "author": "Anaïs Wion",
@@ -4074,6 +4075,16 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/about/people/elenor-ling/",
+          "author": null,
+          "description": "Elenor Ling is Senior Curator of Prints and Drawings at the Fitzwilliam Museum, Cambridge. She is interested in cross-disciplinary frameworks, advanced imaging and analytical techniques, including IIIF, and the innovative use of these digital tools and techniques to explore and share museum collections in new ways and with wide and diverse audiences in public engagement.",
+          "link": "https://www.cdh.cam.ac.uk/about/people/elenor-ling/",
+          "publishedOn": "2024-01-09T13:25:25.000Z",
+          "wordCount": 1441,
+          "title": "Elenor Ling",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/01/Elenor-Ling-pic41-e1704806630441.jpg"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/about/people/yixun-zhou/",
           "author": null,
           "description": "Yixun Zhou is curious about how computation and programming can be applied to large-scale literary text analysis. After finishing his Bachelor of Science degree in Statistics at the University of Nottingham, he joined Mphil Digital Humanities to explore metaphor recognition through natural language processing. He is interested in any cultural values and features revealed by",
@@ -5587,6 +5598,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "6014 at https://www.clarin.eu",
+          "author": "Christine Dijkstra",
+          "description": "In Memoriam Rune Kyrkjebø 1968–2023\n\n            \n\n\n  \n  \n            \n    \nRune Kyrkjebø 1968–2023\n\nWe are saddened to announce the sudden passing of Rune Kyrkjebø on December 22, 2023. He was the assistant national coordinator of CLARINO and a member of the CLARIN Center Assessment Committee and a member of the User Involvement Committee. Rune leaves behind his wife Tone Merete Bruvik (who is on the \n    \nStanding Committee for CLARIN Technical Centres\nRune was a true humanistic scholar. He studied philology and got his PhD at the University of Bergen in 2001 with a text-critical analysis of Old Norse Kings’ sagas. He also studied theology and published a Norwegian psalm lexicon. In his work as researcher and later senior librarian, he was involved in very many Digital Humanities projects, such as the Wittgenstein Archives at Bergen, the Norwegian Language Collections, the lexicographical projects, and others. He published widely on mediaeval philology, transcription, OCR, \n    \nText Encoding Initiative\nSee: http://en.wikipedia.org/wiki/Text_Encoding_Initiative\nRune became very engaged in CLARIN activities. With others, he gave CLARINO courses on language data management, produced a series of instructional videos on how to use CLARINO data and services, and kept the CLARINO Bergen Centre running. He was co-author of a chapter in the 2022 CLARIN book.\nWe will miss Rune not only because he was always interested, helpful and dedicated, but also because he did so with a smile and a genuine modesty and friendliness.\nWritten by Koenraad de Smedt\n\n      Christine Dijkstra\n 9 January 2024",
+          "link": "https://www.clarin.eu/news/memoriam-rune-kyrkjebo-1968-2023",
+          "publishedOn": "2024-01-09T12:51:07.000Z",
+          "wordCount": 425,
+          "title": "In Memoriam Rune Kyrkjebø 1968–2023",
+          "imageUrl": null
+        },
         {
           "id": "6012 at https://www.clarin.eu",
           "author": "Karina Berger",

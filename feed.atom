@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-09T08:24:01.001Z</updated>
+    <updated>2024-01-10T08:23:55.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI, machine learning, neural networks: friends or foes in the historical investigation?]]></title>
+        <id>http://digitalorientalist.com/?p=11978</id>
+        <link href="https://digitalorientalist.com/2024/01/09/ai-machine-learning-neural-networks-friends-or-foes-in-the-historical-investigation/"/>
+        <updated>2024-01-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When AI image generator services were opened to the public on the vast web in 2021, they quickly became viral …]]></summary>
+        <author>
+            <name>Alice Casalini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elenor Ling]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/elenor-ling/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/elenor-ling/"/>
+        <updated>2024-01-09T13:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Elenor Ling is Senior Curator of Prints and Drawings at the Fitzwilliam Museum, Cambridge. She is interested in cross-disciplinary frameworks, advanced imaging and analytical techniques, including IIIF, and the innovative use of these digital tools and techniques to explore and share museum collections in new ways and with wide and diverse audiences in public engagement.]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Memoriam Rune Kyrkjebø 1968–2023]]></title>
+        <id>6014 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/memoriam-rune-kyrkjebo-1968-2023"/>
+        <updated>2024-01-09T12:51:07.000Z</updated>
+        <summary type="html"><![CDATA[In Memoriam Rune Kyrkjebø 1968–2023
+
+            
+
+
+  
+  
+            
+    
+Rune Kyrkjebø 1968–2023
+
+We are saddened to announce the sudden passing of Rune Kyrkjebø on December 22, 2023. He was the assistant national coordinator of CLARINO and a member of the CLARIN Center Assessment Committee and a member of the User Involvement Committee. Rune leaves behind his wife Tone Merete Bruvik (who is on the 
+    
+Standing Committee for CLARIN Technical Centres
+Rune was a true humanistic scholar. He studied philology and got his PhD at the University of Bergen in 2001 with a text-critical analysis of Old Norse Kings’ sagas. He also studied theology and published a Norwegian psalm lexicon. In his work as researcher and later senior librarian, he was involved in very many Digital Humanities projects, such as the Wittgenstein Archives at Bergen, the Norwegian Language Collections, the lexicographical projects, and others. He published widely on mediaeval philology, transcription, OCR, 
+    
+Text Encoding Initiative
+See: http://en.wikipedia.org/wiki/Text_Encoding_Initiative
+Rune became very engaged in CLARIN activities. With others, he gave CLARINO courses on language data management, produced a series of instructional videos on how to use CLARINO data and services, and kept the CLARINO Bergen Centre running. He was co-author of a chapter in the 2022 CLARIN book.
+We will miss Rune not only because he was always interested, helpful and dedicated, but also because he did so with a smile and a genuine modesty and friendliness.
+Written by Koenraad de Smedt
+
+      Christine Dijkstra
+ 9 January 2024]]></summary>
+        <author>
+            <name>Christine Dijkstra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring Named Entity Recognition in Gale Digital Scholar Lab]]></title>
         <id>https://review.gale.com/?p=14937</id>
@@ -8035,16 +8088,6 @@ Announcing the 2023-2024 Data Fluencies Faculty Fellows first appeared on Digita
         <summary type="html"><![CDATA[We are now accepting proposals to host the FORCE11 Annual Conferences in 2024 and 2025]]></summary>
         <author>
             <name>FORCE11 Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Survey on ADHO’s Identity]]></title>
-        <id>https://adho.org/?p=2335</id>
-        <link href="https://adho.org/2023/07/14/survey-on-adhos-identity/"/>
-        <updated>2023-07-14T17:28:40.000Z</updated>
-        <summary type="html"><![CDATA[The ADHO Identity Project began following the July 2022 ADHO meetings. One of the major challenges ADHO faces is the lack of a clear articulation of its own identity, particularly after many years of ADHO executive effort have been directed towards addressing numerous bureaucratic, logistical, and structural challenges. With those issues largely sorted out, there… Read More »Survey on ADHO’s Identity]]></summary>
-        <author>
-            <name>hannah</name>
         </author>
     </entry>
 </feed>
