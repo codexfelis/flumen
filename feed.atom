@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-11T08:23:37.271Z</updated>
+    <updated>2024-01-12T08:23:56.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Customising Datasette-Lite to explore datasets in the GLAM Workbench]]></title>
+        <id>http://wragge.micro.blog/2024/01/12/customising-datasettelite-to.html</id>
+        <link href="https://updates.timsherratt.org/2024/01/12/customising-datasettelite-to.html"/>
+        <updated>2024-01-12T05:09:41.000Z</updated>
+        <summary type="html"><![CDATA[As well as tools and code, the GLAM Workbench includes a number of pre-harvested datasets for researchers to play with. But just including a link to a CSV file in GitHub or Zenodo isn’t very useful – it doesn’t help researchers understand what’s in the dataset, and why it might be useful. That’s why I’ve also started including links that open the CSV files in Datasette-Lite, enabling the contents to be searched, filtered, and faceted. Just look for the Explore in Datasette buttons!
+Datasette is an excellent tool for sharing and exploring data. I’ve used it in a number of projects such as the GLAM Name Index Search and the Tasmanian Post Office Directories. Datasette-Lite is a version of Datasette that runs completely in the user’s web browser – no need for separate servers! All you do is p…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advertising & popularizing media artifacts in Germany, France, and Luxembourg in the «long» 1960s]]></title>
+        <id>4834 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/advertising-popularizing-media-artifacts-germany-france-and-luxembourg-long-1960s"/>
+        <updated>2024-01-11T14:57:48.000Z</updated>
+        <summary type="html"><![CDATA[The «long» 1960s in Western Europe saw a dynamic development of mass consumption, especially in the field of consumer electronics. Media artifacts, such as transistor radios, television sets, or cassette recorders all became significantly more common in Luxembourg, France, and Germany, influencing the composition of the media ensemble and opening up new ways for consumers to interact with media. In a concomitant development brought about by the new market conditions, companies producing such media artifacts – such as Braun or Telefunken – became increasingly interested in marketing, placing consumers and their desires at the center of their considerations in lieu of production.
+Using internal company documents, advertisements and statistics as sources, this research traces how and at what scale producing companies used advertising and other marketing measures to popularize media artifacts in the «long» 1960s and how these efforts interrelated with the media ensemble. This project is part of Popkult60.
+ 
+Wednesday, 21 February 2024
+14.00 - 15.00
+
+C²DH Open Space (4th floor, Maison des Sciences humaines)
+21 February 2024
+  Contemporary history of Europe
+  Transnational popular culture – Europe in the long 1960s (2)
+  History of popular culture  Media history
+  Research seminars
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neue Publikation zur Netzwerkanalyse von spanischen Romanen aus dem 17.Jahrhundert]]></title>
+        <id>news-181</id>
+        <link href="https://rise.unibas.ch/de/news/details/neue-publikation-zur-netzwerkanalyse-von-spanischen-romanen-aus-dem-17jahrhundert/"/>
+        <updated>2024-01-11T10:12:21.000Z</updated>
+        <summary type="html"><![CDATA[News,
+                        Forschung
+                        
+Die Zeitschrift International Journal of Humanities and Arts Computing veröffentlichte den Artikel "Female Protagonism and Multilingualism in Spanish Byzantine Novels Analysed Using Character Networks" von José Luis Losada Palenzuela.]]></summary>
+        <author>
+            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Up Digital Editions]]></title>
+        <id>news-179</id>
+        <link href="https://rise.unibas.ch/de/news/details/open-up-digital-editions/"/>
+        <updated>2024-01-11T09:47:41.000Z</updated>
+        <summary type="html"><![CDATA[News,
+                        Forschung,
+                        Events
+                        
+Das Center Digital Editions & Edition Analytics (Universität Zürich) organisiert in Zusammenarbeit mit RISE (Universität Basel) die Konferenz «Open Up Digital Editions» in Zürich, 24.-26.01.2024.]]></summary>
+        <author>
+            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI, machine learning, neural networks: friends or foes in the historical investigation?]]></title>
         <id>http://digitalorientalist.com/?p=11978</id>

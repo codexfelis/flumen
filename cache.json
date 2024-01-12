@@ -3651,6 +3651,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/01/12/customising-datasettelite-to.html",
+          "author": null,
+          "description": "As well as tools and code, the GLAM Workbench includes a number of pre-harvested datasets for researchers to play with. But just including a link to a CSV file in GitHub or Zenodo isn’t very useful – it doesn’t help researchers understand what’s in the dataset, and why it might be useful. That’s why I’ve also started including links that open the CSV files in Datasette-Lite, enabling the contents to be searched, filtered, and faceted. Just look for the Explore in Datasette buttons!\nDatasette is an excellent tool for sharing and exploring data. I’ve used it in a number of projects such as the GLAM Name Index Search and the Tasmanian Post Office Directories. Datasette-Lite is a version of Datasette that runs completely in the user’s web browser – no need for separate servers! All you do is p…",
+          "link": "https://updates.timsherratt.org/2024/01/12/customising-datasettelite-to.html",
+          "publishedOn": "2024-01-12T05:09:41.000Z",
+          "wordCount": 978,
+          "title": "Customising Datasette-Lite to explore datasets in the GLAM Workbench",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2023/6bfdff462d.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/01/04/whats-going-on.html",
           "author": null,
           "description": "The hardest part of developing tools and resources like the GLAM Workbench is getting information about them to the people who might benefit. The collapse of Twitter has only added to the difficulty, as has the reluctance of GLAM organisations to share new resources with their users. I’d rather spend my time making new tools, but what’s the point if no-one knows they exist?\nAnyway, I thought I’d do a bit of a communications refresh for the new year. If you’re interested in GLAM Workbench and Trove Data Guide updates you can:\nKeep an eye on the GLAM Workbench channel of my microblog (or add the feed to your RSS reader)\nFollow the GLAM Workbench Facebook page for cross-posted updates from the RSS feed\nFollow the GLAM Workbench LinkedIn page for cross-posted updates from the RSS feed\nI’m also working on an email newsletter thing that’ll compile the updates at regular intervals.\nFor more social socials, as well as questions, requests and problems, you can always find me on Mastodon: @wragge@hcommons.social. My email address is not too hard to find, but, honestly, your chances of getting a reply are slim.\nIf you’ve got a bug report, or a suggestion for a new notebook or data source, feel free to create an issue on GitHub.\nAnd, of course, everything I do is openly-licensed, so you are very welcome to modify and share! See the GLAM Workbench for other ways to get involved.",
@@ -3785,6 +3795,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4834 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The «long» 1960s in Western Europe saw a dynamic development of mass consumption, especially in the field of consumer electronics. Media artifacts, such as transistor radios, television sets, or cassette recorders all became significantly more common in Luxembourg, France, and Germany, influencing the composition of the media ensemble and opening up new ways for consumers to interact with media. In a concomitant development brought about by the new market conditions, companies producing such media artifacts – such as Braun or Telefunken – became increasingly interested in marketing, placing consumers and their desires at the center of their considerations in lieu of production.\nUsing internal company documents, advertisements and statistics as sources, this research traces how and at what scale producing companies used advertising and other marketing measures to popularize media artifacts in the «long» 1960s and how these efforts interrelated with the media ensemble. This project is part of Popkult60.\n \nWednesday, 21 February 2024\n14.00 - 15.00\n\nC²DH Open Space (4th floor, Maison des Sciences humaines)\n21 February 2024\n  Contemporary history of Europe\n  Transnational popular culture – Europe in the long 1960s (2)\n  History of popular culture  Media history\n  Research seminars\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/advertising-popularizing-media-artifacts-germany-france-and-luxembourg-long-1960s",
+          "publishedOn": "2024-01-11T14:57:48.000Z",
+          "wordCount": 467,
+          "title": "Advertising & popularizing media artifacts in Germany, France, and Luxembourg in the «long» 1960s",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_research_seminars_content_list.png?itok=Nwm2C3Di"
+        },
         {
           "id": "4793 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6078,6 +6098,36 @@
       "feedUrl": "https://rise.unibas.ch/de/657/feed.rss",
       "siteUrl": "https://rise.unibas.ch/de/",
       "articles": [
+        {
+          "id": "news-181",
+          "author": null,
+          "description": "News,\n                        Forschung\n                        \nDie Zeitschrift International Journal of Humanities and Arts Computing veröffentlichte den Artikel \"Female Protagonism and Multilingualism in Spanish Byzantine Novels Analysed Using Character Networks\" von José Luis Losada Palenzuela.",
+          "link": "https://rise.unibas.ch/de/news/details/neue-publikation-zur-netzwerkanalyse-von-spanischen-romanen-aus-dem-17jahrhundert/",
+          "publishedOn": "2024-01-11T10:12:21.000Z",
+          "wordCount": 345,
+          "title": "Neue Publikation zur Netzwerkanalyse von spanischen Romanen aus dem 17.Jahrhundert",
+          "enclosure": {
+            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/publication_jl.jpg",
+            "length": "11098",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/publication_jl.jpg"
+        },
+        {
+          "id": "news-179",
+          "author": null,
+          "description": "News,\n                        Forschung,\n                        Events\n                        \nDas Center Digital Editions & Edition Analytics (Universität Zürich) organisiert in Zusammenarbeit mit RISE (Universität Basel) die Konferenz «Open Up Digital Editions» in Zürich, 24.-26.01.2024.",
+          "link": "https://rise.unibas.ch/de/news/details/open-up-digital-editions/",
+          "publishedOn": "2024-01-11T09:47:41.000Z",
+          "wordCount": 353,
+          "title": "Open Up Digital Editions",
+          "enclosure": {
+            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/open_up_digital_editions.jpg",
+            "length": "36522",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/open_up_digital_editions.jpg"
+        },
         {
           "id": "news-155",
           "author": null,
