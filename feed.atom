@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-12T08:23:56.404Z</updated>
+    <updated>2024-01-13T08:22:02.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FAIR Signposting Helps Users to Navigate the Scholarly Web]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=20003</id>
+        <link href="https://dri.ie/news/fair-signposting-helps-users-to-navigate-the-scholarly-web/"/>
+        <updated>2024-01-12T14:41:31.000Z</updated>
+        <summary type="html"><![CDATA[Last year the Digital Repository of Ireland was awarded a grant to participate in the FAIR-IMPACT project (project lead: Senior Software Engineer Kathryn Cassidy), which gave us access to the expertise and support we needed to test out several current and emerging FAIR-enabling tools. In this blog, we asked our Junior Software Developer Murilo Dias […]
+The post FAIR Signposting Helps Users to Navigate the Scholarly Web appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Beth Knazook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Python to Analyze Greek New Testament Manuscripts]]></title>
+        <id>http://digitalorientalist.com/?p=11988</id>
+        <link href="https://digitalorientalist.com/2024/01/12/using-python-to-analyze-greek-new-testament-manuscripts/"/>
+        <updated>2024-01-12T12:28:53.000Z</updated>
+        <summary type="html"><![CDATA[This post will take a break from writing about using the New Testament Virtual Manuscript Room, the topic I covered …]]></summary>
+        <author>
+            <name>Zach Butler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Customising Datasette-Lite to explore datasets in the GLAM Workbench]]></title>
         <id>http://wragge.micro.blog/2024/01/12/customising-datasettelite-to.html</id>
@@ -65,6 +86,47 @@ Die Zeitschrift International Journal of Humanities and Arts Computing veröffen
 Das Center Digital Editions & Edition Analytics (Universität Zürich) organisiert in Zusammenarbeit mit RISE (Universität Basel) die Konferenz «Open Up Digital Editions» in Zürich, 24.-26.01.2024.]]></summary>
         <author>
             <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transkribus Sites – Publishing documents made easy]]></title>
+        <id>https://readcoop.eu/?p=34356</id>
+        <link href="https://readcoop.eu/transkribus-sites-publishing-documents-made-easy/"/>
+        <updated>2024-01-11T09:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Managing the process of managing and publishing historical documents has never been easier! Creating a website that presents your transcribed material in a structured and searchable way can be a labour-intensive task. But in the new Transkribus Sites workspace, you have the power to create your own website – no need for a developer. With […]
+The post Transkribus Sites – Publishing documents made easy appeared first on READ-COOP.]]></summary>
+        <author>
+            <name>Helene</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Women and Conspiracy: Experiments with Paranoid Knowledges | Professor Clare Birchall]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37641/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37641/"/>
+        <updated>2024-01-11T09:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Women and Conspiracy: Experiments with Paranoid Knowledges Professor Clare Birchall (King's College London) Clare Birchall is Professor of Contemporary Culture at King's College London. She is the co-author of Conspiracy Theories in the Time of Covid-19 and the author of Radical Secrecy: The Ends of Transparency in Datafied America and Knowledge Goes Pop: From Conspiracy Theory to Gossip. She leads]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next Billion Users: Internet Justice and the Global South | Professor Payal Arora]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37640/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37640/"/>
+        <updated>2024-01-11T09:09:51.000Z</updated>
+        <summary type="html"><![CDATA[The Next Billion Users: Internet Justice and the Global South Professor Payal Arora (Utrecht University) Our digital worlds have largely been dictated by the values, needs, concerns, and aspirations of users in the West. But what about the rest of the world? Cheap mobile phones and data plans are bringing the next billion users online]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Reproduction | Professor Sarah Franklin]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37642/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37642/"/>
+        <updated>2024-01-11T08:58:44.000Z</updated>
+        <summary type="html"><![CDATA[The Future of Reproduction Professor Sarah Franklin (University of Cambridge) Sarah Franklin is Chair of Sociology at the University of Cambridge where she directs the Reproductive Sociology Research Group (ReproSoc). Her research addresses the history and culture of UK IVF, the IVF-stem cell interface, cloning, embryo research, and changing understandings of kinship, biology, and technology. She]]></summary>
+        <author>
+            <name>CDH</name>
         </author>
     </entry>
     <entry>
