@@ -93,6 +93,16 @@
       "siteUrl": "https://ach.org",
       "articles": [
         {
+          "id": "https://ach.org/?p=2550",
+          "author": "jwoowinter",
+          "description": "ACH seeks three new Executive Council Representatives to serve a 4-year term (2024-2028) and a (co)Vice President(s)/President(s) Elect. Nominations are due February 1, 2024 via the brief nomination form. What does an ACH Executive Council Representative do? As an organization, ACH regularly runs a conference, a series of mentoring events, and distributes bursaries and other…Continue reading.",
+          "link": "https://ach.org/blog/2024/01/12/ach-nominations-2024/",
+          "publishedOn": "2024-01-12T14:09:05.000Z",
+          "wordCount": 1363,
+          "title": "ACH Nominations 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://ach.org/?p=2534",
           "author": "Amanda Visconti",
           "description": "The ACH is leaving Twitter: we’re locking our Twitter account, and will no longer post, read, nor reply there. ACH members and the broader digital humanities community can find us on Bluesky (bsky.app/profile/ach.bsky.social), Mastodon (hcommons.social/@ach), our website (ach.org); and for ACH members, our newsletter (members.ach.org/join). Why we’re leaving Twitter We leave Twitter because of its…Continue reading.",
@@ -1564,15 +1574,6 @@
           "publishedOn": "2023-08-02T07:21:56.000Z",
           "wordCount": 836,
           "title": "Finales Programm der FORGE23 veröffentlicht"
-        },
-        {
-          "id": "node/909",
-          "author": "434",
-          "description": "Der Landschaftsverband Rheinland sucht zum nächstmöglichen Zeitpunkt eine/n Referent / Referentin (m/w/d) für Digitales Kulturerbe und Denkmalinformationssysteme\nStandort:…",
-          "link": "https://dig-hum.de/aktuelles/referent-referentin-mwd-f%C3%BCr-digitales-kulturerbe-und-denkmalinformationssysteme",
-          "publishedOn": "2023-07-18T14:10:05.000Z",
-          "wordCount": 1081,
-          "title": "Referent / Referentin (m/w/d) für Digitales Kulturerbe und Denkmalinformationssysteme"
         }
       ]
     },
@@ -1631,15 +1632,6 @@
           "publishedOn": "2023-09-30T01:39:08.000Z",
           "wordCount": 967,
           "title": "Chris Gilliard – Luxury Surveillance"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=5125",
-          "author": "Kayla Hilstob",
-          "description": "Congratulations to Dr. Susan Erikson and Dr. Victoria Thomas, the 2023-2024 Data Fluencies Faculty fellows The Mellon Foundation, together with the Digital Democracies Institute’s (DDI) Data Fluencies Project, is sponsoring …\n  Announcing the 2023-2024 Data Fluencies Faculty Fellows Read More »\nAnnouncing the 2023-2024 Data Fluencies Faculty Fellows first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/data-fluencies-mellon-sfu-faculty-fellows/?utm_source=rss&utm_medium=rss&utm_campaign=data-fluencies-mellon-sfu-faculty-fellows",
-          "publishedOn": "2023-07-17T20:45:54.000Z",
-          "wordCount": 482,
-          "title": "Announcing the 2023-2024 Data Fluencies Faculty Fellows"
         }
       ]
     },
@@ -3792,15 +3784,6 @@
           "publishedOn": "2023-08-08T06:28:18.000Z",
           "wordCount": 677,
           "title": "Exploring the front pages of newspapers (10 years on)"
-        },
-        {
-          "id": "http://wragge.micro.blog/2023/07/18/trove-api-console.html",
-          "author": null,
-          "description": "The Trove API Console provides examples of the Trove API in action that you can run, edit, and share. It’s been online for 9 years now, and I’ve just updated it to use version 3 of the Trove API by default. I’ve also added a new ‘Share’ button that makes it easier to share and embed examples.\nIf you click on the ‘Share’ button, a box will pop up.\n\r\nIf you add a comment, this will appear above the example query when users follow the shared link. You can use this to provide them with some context or a description.\n\r\nThere are two buttons providing different share options:\nCopy share url – copies the full url to the shared example\nCopy Markdown button – copies a Markdown snippet that embeds a button like this  linked to your example. Just paste it into your Markdown-formatted documentation!\nOther improvements include:\nThe parameters used in any request are now displayed in a table for easy reference.\nThe Console includes a link to an API Status page. This page runs all the example queries in the Console and checks the results to make sure the API is working as expected. It’s updated every 6 hours.\nVersion 3 of the Trove API includes a standard Swagger UI that you can use to build queries, and provides limited anonymous access (without the need for an API key). But if, like me, you learn best by looking at examples, then you should find the API Console handy. In particular, the API Console makes it easy to share live examples which can be very useful in training, troubleshooting, and writing documentation. The Trove Data Guide, which I’m working on at the moment, includes lots of ‘Try it!’ buttons.",
-          "link": "https://updates.timsherratt.org/2023/07/18/trove-api-console.html",
-          "publishedOn": "2023-07-18T01:27:11.000Z",
-          "wordCount": 340,
-          "title": "Trove API Console updates"
         }
       ]
     },
@@ -5633,24 +5616,6 @@
           "publishedOn": "2023-07-25T10:25:31.000Z",
           "wordCount": 452,
           "title": "Q&A Information Session | CDH Methods Fellows"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/dataschools/past-data-schools/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/dataschools/past-data-schools/",
-          "publishedOn": "2023-07-18T13:36:34.000Z",
-          "wordCount": 443,
-          "title": "Past Data Schools"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/british-academy-postdoctoral-fellowships-2023/",
-          "author": null,
-          "description": "Cambridge Digital Humanities (CDH) at the University of Cambridge welcomes applications for the British Academy Postdoctoral Fellowships 2023. The deadline for the full application to be submitted to the Research Office is 27 September 2023 but your application to CDH must reach us by 12.00pm BST on Monday 21 August 2023. The British Academy Postdoctoral Fellowship is",
-          "link": "https://www.cdh.cam.ac.uk/about/news/british-academy-postdoctoral-fellowships-2023/",
-          "publishedOn": "2023-07-18T09:51:10.000Z",
-          "wordCount": 959,
-          "title": "British Academy Postdoctoral Fellowships 2023"
         }
       ]
     },

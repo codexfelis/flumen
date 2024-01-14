@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-13T08:22:02.742Z</updated>
+    <updated>2024-01-14T08:22:09.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -15,6 +15,16 @@
 The post FAIR Signposting Helps Users to Navigate the Scholarly Web appeared first on Digital Repository Ireland.]]></summary>
         <author>
             <name>Beth Knazook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACH Nominations 2024]]></title>
+        <id>https://ach.org/?p=2550</id>
+        <link href="https://ach.org/blog/2024/01/12/ach-nominations-2024/"/>
+        <updated>2024-01-12T14:09:05.000Z</updated>
+        <summary type="html"><![CDATA[ACH seeks three new Executive Council Representatives to serve a 4-year term (2024-2028) and a (co)Vice President(s)/President(s) Elect. Nominations are due February 1, 2024 via the brief nomination form. What does an ACH Executive Council Representative do? As an organization, ACH regularly runs a conference, a series of mentoring events, and distributes bursaries and other…Continue reading.]]></summary>
+        <author>
+            <name>jwoowinter</name>
         </author>
     </entry>
     <entry>
@@ -8138,69 +8148,6 @@ Mat enger Live-Visualiséierung vun der Diskussioun op enger grousser Leinwand,
 © Weyerdesign, 1969]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Referent / Referentin (m/w/d) für Digitales Kulturerbe und Denkmalinformationssysteme]]></title>
-        <id>node/909</id>
-        <link href="https://dig-hum.de/aktuelles/referent-referentin-mwd-f%C3%BCr-digitales-kulturerbe-und-denkmalinformationssysteme"/>
-        <updated>2023-07-18T14:10:05.000Z</updated>
-        <summary type="html"><![CDATA[Der Landschaftsverband Rheinland sucht zum nächstmöglichen Zeitpunkt eine/n Referent / Referentin (m/w/d) für Digitales Kulturerbe und Denkmalinformationssysteme
-Standort:…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Past Data Schools]]></title>
-        <id>https://www.cdh.cam.ac.uk/dataschools/past-data-schools/</id>
-        <link href="https://www.cdh.cam.ac.uk/dataschools/past-data-schools/"/>
-        <updated>2023-07-18T13:36:34.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British Academy Postdoctoral Fellowships 2023]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/british-academy-postdoctoral-fellowships-2023/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/british-academy-postdoctoral-fellowships-2023/"/>
-        <updated>2023-07-18T09:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Cambridge Digital Humanities (CDH) at the University of Cambridge welcomes applications for the British Academy Postdoctoral Fellowships 2023. The deadline for the full application to be submitted to the Research Office is 27 September 2023 but your application to CDH must reach us by 12.00pm BST on Monday 21 August 2023. The British Academy Postdoctoral Fellowship is]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trove API Console updates]]></title>
-        <id>http://wragge.micro.blog/2023/07/18/trove-api-console.html</id>
-        <link href="https://updates.timsherratt.org/2023/07/18/trove-api-console.html"/>
-        <updated>2023-07-18T01:27:11.000Z</updated>
-        <summary type="html"><![CDATA[The Trove API Console provides examples of the Trove API in action that you can run, edit, and share. It’s been online for 9 years now, and I’ve just updated it to use version 3 of the Trove API by default. I’ve also added a new ‘Share’ button that makes it easier to share and embed examples.
-If you click on the ‘Share’ button, a box will pop up.
-
-If you add a comment, this will appear above the example query when users follow the shared link. You can use this to provide them with some context or a description.
-
-There are two buttons providing different share options:
-Copy share url – copies the full url to the shared example
-Copy Markdown button – copies a Markdown snippet that embeds a button like this  linked to your example. Just paste it into your Markdown-formatted documentation!
-Other improvements include:
-The parameters used in any request are now displayed in a table for easy reference.
-The Console includes a link to an API Status page. This page runs all the example queries in the Console and checks the results to make sure the API is working as expected. It’s updated every 6 hours.
-Version 3 of the Trove API includes a standard Swagger UI that you can use to build queries, and provides limited anonymous access (without the need for an API key). But if, like me, you learn best by looking at examples, then you should find the API Console handy. In particular, the API Console makes it easy to share live examples which can be very useful in training, troubleshooting, and writing documentation. The Trove Data Guide, which I’m working on at the moment, includes lots of ‘Try it!’ buttons.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing the 2023-2024 Data Fluencies Faculty Fellows]]></title>
-        <id>https://digitaldemocracies.org/?p=5125</id>
-        <link href="https://digitaldemocracies.org/data-fluencies-mellon-sfu-faculty-fellows/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=data-fluencies-mellon-sfu-faculty-fellows"/>
-        <updated>2023-07-17T20:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to Dr. Susan Erikson and Dr. Victoria Thomas, the 2023-2024 Data Fluencies Faculty fellows The Mellon Foundation, together with the Digital Democracies Institute’s (DDI) Data Fluencies Project, is sponsoring …
-  Announcing the 2023-2024 Data Fluencies Faculty Fellows Read More »
-Announcing the 2023-2024 Data Fluencies Faculty Fellows first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Kayla Hilstob</name>
         </author>
     </entry>
 </feed>
