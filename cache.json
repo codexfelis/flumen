@@ -28,15 +28,6 @@
           "publishedOn": "2023-09-05T11:06:18.000Z",
           "wordCount": 669,
           "title": "Voluntary job role (Internal only): UCLDH Associate Director (ECR)"
-        },
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8300",
-          "author": "Lucy Stagg",
-          "description": "We are seeking to appoint Community Fellows (ten in total until summer 2024) to contribute to “The Sloane Lab: Looking back to build future shared collections”, led by University College London (UCL) in partnership with the Technische Universität Darmstadt, British Museum (BM) and Natural History Museum (NHM). The fellow will undertake creative, critical, practice and/or […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2023/07/19/the-sloane-lab-community-fellowship-round-two-extended/",
-          "publishedOn": "2023-07-19T11:46:45.000Z",
-          "wordCount": 485,
-          "title": "The Sloane Lab Community Fellowship Round Two (extended)"
         }
       ]
     },
@@ -3663,6 +3654,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/01/15/the-trove-newspaper.html",
+          "author": null,
+          "description": "Since July 2022 I’ve been generating weekly snapshots of the contents of the Trove newspaper corpus. Every Sunday a new version of the Trove Newspaper Data Dashboard is created, highlighting what’s changed over the previous week, and visualising trends since April 2022 (when I first started regular data harvests).\n\r\nAll of the past versions of the dashboard are preserved in GitHub, but there wasn’t an easy way to browse them, until now. If you want to find out what changed in any week since July 2022, you can now visit the Trove Data Dashboard Archive and select a date from the list!\nI created the archive by pulling all the versions from GitHub and saving them as individual files. I’ve also added some code to the weekly process that should automatically archive the past week from now on – we’ll see if it works next Sunday…",
+          "link": "https://updates.timsherratt.org/2024/01/15/the-trove-newspaper.html",
+          "publishedOn": "2024-01-14T23:51:58.000Z",
+          "wordCount": 206,
+          "title": "The Trove Newspaper Data Dashboard now has an archive!",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-01-15-10-42-09.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/01/12/customising-datasettelite-to.html",
           "author": null,
           "description": "As well as tools and code, the GLAM Workbench includes a number of pre-harvested datasets for researchers to play with. But just including a link to a CSV file in GitHub or Zenodo isn’t very useful – it doesn’t help researchers understand what’s in the dataset, and why it might be useful. That’s why I’ve also started including links that open the CSV files in Datasette-Lite, enabling the contents to be searched, filtered, and faceted. Just look for the Explore in Datasette buttons!\nDatasette is an excellent tool for sharing and exploring data. I’ve used it in a number of projects such as the GLAM Name Index Search and the Tasmanian Post Office Directories. Datasette-Lite is a version of Datasette that runs completely in the user’s web browser – no need for separate servers! All you do is p…",
@@ -4071,15 +4072,6 @@
           "publishedOn": "2023-08-11T06:41:24.000Z",
           "wordCount": 336,
           "title": "Confronting Decline. Deindustrialisation from a European Perspective"
-        },
-        {
-          "id": "4593 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Op dësem Forum Z diskutéieren mer iwwert wat et op der Schueberfouer an den 1960er ze gesinn an ze di gouf. Wat war deemools populär? Wat hunn d‘Leit giess? Wéi war et fir d‘Lampertsbierger Kanner esou no bei der Fouer ze wunnen? Wéi war et fir Forainskanner op der Fouer hir Vakanz ze verbréngen? Wat huet d’Stad Lëtzebuerg mat der Fouer ze dinn? An nach vill méi kënnt der an engem entspaante Kader lauschtere kommen a mat diskutéieren.\nDen Theema vun dësem Forum Z baséiert op enger Dokteraarbecht iwwer déi national, transregional an transnational Verflechtungen um Beispill vun der Schueberfouer vu 1945 bis 1975 a wéi sech dës Verflechtungen an dësem Zäitraum verännert hunn.\n \nSamsdes, 9. September 2023\n9.30 – 11.30\nAn der Flesch, Schueberfouer/Glacis\nSprooch: LU\nFir Kaffi a Schnittercher ass gesuergt.\n\n\n\nUmeldung ass erwënscht.\n \nProgramm\nIntroduktion vum Ass.-Prof. Dr. Denis Scuto (C²DH)\n \nDiskussioun:\nVéronique Faber (C²DH)\nAnicet Schmit (Lampertsbierger Geschichtsfrënn)\nLiette Majerus (eh. Centre d’Acceuil pour enfants des forains)\nCharles Hary (Fédération Nationale des Commerçants Forains)\nLaurent Schwaller (SERVICE ESPACE PUBLIC, FÊTES ET MARCHES vun der Stad Lëtzebuerg)\ntbc (Lëtzebuerg City Museum)\nModeration: Magali Paulus, CELL\nMat enger Live-Visualiséierung vun der Diskussioun op enger grousser Leinwand, mam Dr. Katy Fox, Mycelium\n \n\n\n9 September 2023\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/forum_z_fouer_web_2.png?itok=oteGBAzs\n  Contemporary history of Luxembourg\n  History of popular culture  Memory studies  Oral history  Public History\n  ForumZ\n  Transnational popular culture – Europe in the long 1960s (2)\n  Op dësem Forum Z diskutéieren mer iwwert wat et op der Schueberfouer an den 1960er ze gesinn an ze di gouf. \n  Véronique Faber  \n© Weyerdesign, 1969",
-          "link": "https://www.c2dh.uni.lu/forum-z/foer-de-sixties-vu-boxeren-fritten",
-          "publishedOn": "2023-07-19T09:52:07.000Z",
-          "wordCount": 412,
-          "title": "Fo'er an de Sixties: Vu Boxeren a Fritten"
         }
       ]
     },
@@ -5888,15 +5880,6 @@
           "publishedOn": "2023-07-25T11:20:46.000Z",
           "wordCount": 681,
           "title": "Workflows for Semantic Change Research with CLARIN Resource Families"
-        },
-        {
-          "id": "5936 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "New Impact Story: 'State-of-the-Art Speech Recognition for Understanding Oral Histories'\n\n            \n\n  \n  \n            \n    \n\n\n      \n\nMany audio and video interviews are long and unstructured, and not easily usable as research data. A team from CLARIN’s Czech node has developed a state-of-the-art system that uses speech recognition and other natural language processing technologies designed specifically for oral history archives.\nCalled ‘Semantic Search – Asking Questions’, this new machine learning technology enables users to easily access oral history archives and engage with them in an intuitive and interactive way. The technology makes it possible to navigate long sequences of oral recordings by providing pre-generated, time-stamped questions that guide users through the content. In addition, a specialised search function enables direct interaction with the content in the video.\n \nRead the full Impact Story here. \n\n      Karina Berger\n 19 July 2023",
-          "link": "https://www.clarin.eu/news/new-impact-story-state-art-speech-recognition-understanding-oral-histories",
-          "publishedOn": "2023-07-19T13:38:53.000Z",
-          "wordCount": 279,
-          "title": "New Impact Story: 'State-of-the-Art Speech Recognition for Understanding Oral Histories'"
         }
       ]
     },
@@ -6106,15 +6089,6 @@
           "publishedOn": "2023-09-13T11:07:06.000Z",
           "wordCount": 1172,
           "title": "RLUK-AHRC Research Engagement Programme second cohort announced"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=13656",
-          "author": "Melanie Cheung",
-          "description": "Download the report  Decolonisation as a practice has increasingly gained a prominent place in the strategic agenda of academic and research libraries as a way to re-contextualise collections, combat biases and uncover hidden voices. Many RLUK institutions have engaged in decolonisation activities as part of their goals to develop inclusive collections and [...]\nThe post Decolonisation practices and needs of research libraries: an RLUK report appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/rluk-report-on-decolonisation-practices/",
-          "publishedOn": "2023-07-19T11:23:40.000Z",
-          "wordCount": 1632,
-          "title": "Decolonisation practices and needs of research libraries: an RLUK report"
         }
       ]
     },
