@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-15T08:25:00.750Z</updated>
+    <updated>2024-01-16T08:24:12.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call for Hosts: Digital Humanities Conference 2026 (DH2026)]]></title>
+        <id>https://adho.org/?p=2991</id>
+        <link href="https://adho.org/2024/01/16/call-for-hosts-digital-humanities-conference-2026-dh2026/"/>
+        <updated>2024-01-16T08:10:38.000Z</updated>
+        <summary type="html"><![CDATA[The Conference Coordinating Committee of the Alliance of Digital Humanities Organizations (ADHO) invites proposals to host the Digital Humanities Conference in 2026 (DH2026). Digital Humanities (DH) is ADHO’s annual international conference. ADHO’s constituent organizations are the Australasian Association for Digital Humanities (aaDH), the Association for Computers and the Humanities (ACH), the Canadian Society for Digital… Read More »Call for Hosts: Digital Humanities Conference 2026 (DH2026)]]></summary>
+        <author>
+            <name>Nadezhda Povroznik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nominations pour le Prix de contribution exceptionnelle de la CSDH/SCHN]]></title>
+        <id>https://csdh-schn.org/?p=1217</id>
+        <link href="https://csdh-schn.org/nominations-pour-le-prix-de-contribution-exceptionnelle-de-la-csdh-schn/"/>
+        <updated>2024-01-15T16:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Description: Le Prix de contribution exceptionnelle de la CSDH/SCHN récompense un projet ou une publication exceptionnelle par un·e chercheur·se canadien·ne, ou un·e chercheur·se d’une institution canadienne, ou une équipe basée dans une institution canadienne. La SCHN/CSDH cherche à souligner ainsi une contribution majeure et récente au champ des humanités numériques sous la forme d’une publication […]]]></summary>
+        <author>
+            <name>Kyle Dase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Steps in Coding with R]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37650/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37650/"/>
+        <updated>2024-01-15T16:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Dr Estara Arrant (Cambridge University Library) This session is aimed at researchers with minimal coding experience or who have not done any coding but have data they want to explore and visualise. However, you do not need to have a full set of data to benefit from this class. You will learn the fundamentals]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nominations for 2024 CSDH/SCHN Outstanding Contribution Award]]></title>
+        <id>https://csdh-schn.org/?p=1215</id>
+        <link href="https://csdh-schn.org/nominations-for-2024-csdh-schn-outstanding-contribution-award/"/>
+        <updated>2024-01-15T16:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Description: This award is given for an exemplary project or publication by a Canadian researcher, or a researcher at a Canadian institution, or a team based at a Canadian institution. It recognizes a major contribution to the field of digital humanities, broadly conceived, in the form of a recent scholarly publication or published software or […]]]></summary>
+        <author>
+            <name>Kyle Dase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 410 – al-Mulakhkhaṣ fī al-hayʼah. = الملخص في الهيئة. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18014</id>
+        <link href="https://schoenberginstitute.org/2024/01/15/manuscript-monday-ljs-410-al-mulakhkha%e1%b9%a3-fi-al-hay%ca%bcah-%d8%a7%d9%84%d9%85%d9%84%d8%ae%d8%b5-%d9%81%d9%8a-%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-video-orientation/"/>
+        <updated>2024-01-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 410, a commentary on Maḥmūd ibn Muḥammad al-Jighmīnī’s Mulakhkhaṣ fī al-hayʼah – an astronomical treatise – with extensive marginal commentary. Digital copies and a full record are available through Franklin. Record on Internet Archive with link toContinue reading "Manuscript Monday: LJS 410 – al-Mulakhkhaṣ fī al-hayʼah. = الملخص في الهيئة. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Trove Newspaper Data Dashboard now has an archive!]]></title>
         <id>http://wragge.micro.blog/2024/01/15/the-trove-newspaper.html</id>
@@ -8055,17 +8105,6 @@ The post Developments in the Fashion Industry Post-WWII appeared first on The Ga
 The post Frequently Asked Questions About The Transkribus Subscription Plans appeared first on READ-COOP.]]></summary>
         <author>
             <name>Florian Stauder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get to Know Our Research Projects – EnrichEuropeana+]]></title>
-        <id>https://dri.ie/?post_type=news&amp;p=9812</id>
-        <link href="https://dri.ie/news/get-to-know-our-research-projects-enricheuropeana/"/>
-        <updated>2023-07-20T14:17:07.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is a trusted digital repository (TDR), which provides reliable long-term preservation and access to Ireland’s humanities, cultural heritage, and social sciences digital data. DRI is also a research performing organisation engaged in a rich range of digital preservation-related research projects. In this new blog series, we invite you to […]
-The post Get to Know Our Research Projects – EnrichEuropeana+ appeared first on Digital Repository Ireland.]]></summary>
-        <author>
-            <name>Aine Madden</name>
         </author>
     </entry>
 </feed>
