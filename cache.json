@@ -1389,6 +1389,16 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/938",
+          "author": "434",
+          "description": "Job reference: HUM-024313Salary: £40, 521-£56,021 per annum depending on experienceFaculty/Organisational Unit: HumanitiesLocation: Oxford RoadEmployment type: PermanentDivision/…",
+          "link": "https://dig-hum.de/aktuelles/lecturer-digital-humanities-teaching-research-the-university-of-manchester",
+          "publishedOn": "2024-01-19T07:57:39.000Z",
+          "wordCount": 1270,
+          "title": "Lecturer in Digital Humanities (Teaching &amp; Research) - The University of Manchester",
+          "imageUrl": null
+        },
+        {
           "id": "node/936",
           "author": "434",
           "description": "Stellenangebot am Max-Planck-Institut für Rechtsgeschichte und Rechtstheorie\nWir sind ein international ausgerichtetes Forschungsinstitut und betreiben Grundlagenforschung auf dem…",
@@ -4171,6 +4181,16 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/37662/",
+          "author": null,
+          "description": "Convenor: Giulia Grisot (CDH Teaching Associate) This workshop will delve into the intricacies of sentiment analysis using R, offering participants a comprehensive understanding of this text mining technique and a chance to gain hands-on experience with sentiment scoring methodologies and advanced sentiment visualisation. Designed for intermediate R users, this session aims to equip attendees with",
+          "link": "https://www.cdh.cam.ac.uk/events/37662/",
+          "publishedOn": "2024-01-18T11:49:31.000Z",
+          "wordCount": 1580,
+          "title": "Sentiment Analysis with R",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2022/10/R-Coding.png"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/events/37658/",
           "author": null,

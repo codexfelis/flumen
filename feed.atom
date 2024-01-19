@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-18T08:22:54.315Z</updated>
+    <updated>2024-01-19T08:23:31.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lecturer in Digital Humanities (Teaching &amp; Research) - The University of Manchester]]></title>
+        <id>node/938</id>
+        <link href="https://dig-hum.de/aktuelles/lecturer-digital-humanities-teaching-research-the-university-of-manchester"/>
+        <updated>2024-01-19T07:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Job reference: HUM-024313Salary: £40, 521-£56,021 per annum depending on experienceFaculty/Organisational Unit: HumanitiesLocation: Oxford RoadEmployment type: PermanentDivision/…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentiment Analysis with R]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/37662/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/37662/"/>
+        <updated>2024-01-18T11:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Giulia Grisot (CDH Teaching Associate) This workshop will delve into the intricacies of sentiment analysis using R, offering participants a comprehensive understanding of this text mining technique and a chance to gain hands-on experience with sentiment scoring methodologies and advanced sentiment visualisation. Designed for intermediate R users, this session aims to equip attendees with]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CAA Email List]]></title>
         <id>https://caa-international.org/?p=17801</id>
