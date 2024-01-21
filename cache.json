@@ -1270,6 +1270,16 @@
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
         {
+          "id": "https://dhn.utoronto.ca/?p=8745",
+          "author": "DHN Admin",
+          "description": "Applications for the 2024 CDHI UX Design for DH Accelerator Program are due by 27 March 2024. See program description for full details.",
+          "link": "https://dhn.utoronto.ca/ux-dh-accelerator-2024/?utm_source=rss&utm_medium=rss&utm_campaign=ux-dh-accelerator-2024",
+          "publishedOn": "2024-01-19T14:24:49.000Z",
+          "wordCount": 3628,
+          "title": "UX Design for DH Accelerator Program 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://dhn.utoronto.ca/?p=8539",
           "author": "Betsy Moss",
           "description": "Building on the success of last summer’s hybrid training series, the Digital Humanities Summer Institute (DHSI) in summer 2024 will be offered in-person with with institute lectures available online as well. Week […]",
@@ -3300,15 +3310,6 @@
           "publishedOn": "2023-08-08T05:00:00.000Z",
           "wordCount": 2237,
           "title": "ECCO’ing through the Ages: Exploring Reception with Gale’s Eighteenth Century Collections Online"
-        },
-        {
-          "id": "https://review.gale.com/?p=14477",
-          "author": "Gale Ambassadors",
-          "description": "│By Nonkoliso Tshiki, Gale Ambassador at the University of Johannesburg│ Do you find writing for academic purposes challenging? I did too. However, I have recently discovered and started implementing a new and exciting trick to improve my writing skills, which also ignites greater interest in my writing. I write short essays about topics which I ... Read more\nThe post Developments in the Fashion Industry Post-WWII appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2023/07/25/developments-in-the-fashion-industry-post-wwii/",
-          "publishedOn": "2023-07-25T05:00:00.000Z",
-          "wordCount": 1784,
-          "title": "Developments in the Fashion Industry Post-WWII"
         }
       ]
     },
@@ -5793,42 +5794,6 @@
           "publishedOn": "2023-07-28T12:17:07.000Z",
           "wordCount": 412,
           "title": "PhD in Digital Humanities: information session for applicants"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/cdh-call-for-methods-fellows-applications-2023-24/",
-          "author": null,
-          "description": "Cambridge Digital Humanities (CDH) welcomes applications for the CDH Methods Fellowships for the academic year 2023/24. The programme offers Fellows the opportunity to develop and deliver innovative teaching in digital methods, contributing to an interdisciplinary programme that attracts over 500 participants across the University each year. This will be of particular interest to early-career researchers",
-          "link": "https://www.cdh.cam.ac.uk/about/news/cdh-call-for-methods-fellows-applications-2023-24/",
-          "publishedOn": "2023-07-25T12:42:44.000Z",
-          "wordCount": 544,
-          "title": "CDH Call for Methods Fellows applications 2023/24"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/blog/",
-          "author": null,
-          "description": "Cambridge Digital Humanities",
-          "link": "https://www.cdh.cam.ac.uk/media/blog/",
-          "publishedOn": "2023-07-25T11:10:11.000Z",
-          "wordCount": 662,
-          "title": "Blog"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/research/projects/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/research/projects/",
-          "publishedOn": "2023-07-25T11:10:10.000Z",
-          "wordCount": 502,
-          "title": "Research Projects"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36910/",
-          "author": null,
-          "description": "Do you have an interest in sharing DH Methods? Are you looking for teaching opportunities and experience? The CDH Methods Fellowship maybe for you. Join us for an online Q&A information session, where you can hear from our Learning Director, Dr Anne Alexander and our DH RSE, Jonathan Blaney to hear more about the opportunities",
-          "link": "https://www.cdh.cam.ac.uk/events/36910/",
-          "publishedOn": "2023-07-25T10:25:31.000Z",
-          "wordCount": 452,
-          "title": "Q&A Information Session | CDH Methods Fellows"
         }
       ]
     },
@@ -6092,15 +6057,6 @@
           "publishedOn": "2023-07-26T09:33:55.000Z",
           "wordCount": 234,
           "title": "CLARIN Newsflash July 2023 Is Out"
-        },
-        {
-          "id": "5937 at https://www.clarin.eu",
-          "author": "Julia Misersky",
-          "description": "Workflows for Semantic Change Research with CLARIN Resource Families\n\n            \n \nWritten by Barbara McGillivray\nProject Overview\nThis project was supported by CLARIN via the CLARIN Resource Families funding scheme and ran from November 2022 to June 2023. The project team consisted of Barbara McGillivray (King’s College London) and Fahad Khan (CNR-ILC) as project leads, and Paola Marongiu (University of Neuchâtel) as researcher. The project aimed to define workflows for semantic change research with CLARIN Resource Families (CRF), bringing together existing resources and tools needed to support research in lexical semantic change (LSC), which is the linguistic phenomenon in which words change their meanings over time.\n  \nThe concept of the workflows was aligned with the CLARIN 2021-2023…",
-          "link": "https://www.clarin.eu/blog/workflows-semantic-change-research-clarin-resource-families",
-          "publishedOn": "2023-07-25T11:20:46.000Z",
-          "wordCount": 681,
-          "title": "Workflows for Semantic Change Research with CLARIN Resource Families"
         }
       ]
     },

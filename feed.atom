@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-01-20T08:22:04.001Z</updated>
+    <updated>2024-01-21T08:22:16.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -46,6 +46,16 @@ The post RLUK Digital Shift Forum: Digital GLAM and IIIF appeared first on Resea
         <summary type="html"><![CDATA[Submission deadline: February 16, 2024 DH Showcase: March 19, 2024, 2:00 pm – 4:00 pm ET (Register) The interdisciplinary field of digital humanities (DH) aims to bring together humanistic inquiry and digital technologies, organizing new modes of archival research, developing computer-aided methodologies for answering humanistic questions, curating digitized collections of all kinds, bringing digital platforms into the classroom in creative ways, and engaging critically with the culture of digital media. In order to encourage collaboration and community at Rutgers, and regionally in the state of New Jersey, the Rutgers Digital Humanities Initiative invites contributions to a Digital Humanities Showcase, to be held at Alexander Library]]></summary>
         <author>
             <name>Francesca Giannetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UX Design for DH Accelerator Program 2024]]></title>
+        <id>https://dhn.utoronto.ca/?p=8745</id>
+        <link href="https://dhn.utoronto.ca/ux-dh-accelerator-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ux-dh-accelerator-2024"/>
+        <updated>2024-01-19T14:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Applications for the 2024 CDHI UX Design for DH Accelerator Program are due by 27 March 2024. See program description for full details.]]></summary>
+        <author>
+            <name>DHN Admin</name>
         </author>
     </entry>
     <entry>
@@ -8278,74 +8288,6 @@ You are welcome to submit a news item with CLARIN-related news (or call for pape
 The post Introducing Field Models – Trainable Layout AI in Transkribus appeared first on READ-COOP.]]></summary>
         <author>
             <name>Helene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDH Call for Methods Fellows applications 2023/24]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/cdh-call-for-methods-fellows-applications-2023-24/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/cdh-call-for-methods-fellows-applications-2023-24/"/>
-        <updated>2023-07-25T12:42:44.000Z</updated>
-        <summary type="html"><![CDATA[Cambridge Digital Humanities (CDH) welcomes applications for the CDH Methods Fellowships for the academic year 2023/24. The programme offers Fellows the opportunity to develop and deliver innovative teaching in digital methods, contributing to an interdisciplinary programme that attracts over 500 participants across the University each year. This will be of particular interest to early-career researchers]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workflows for Semantic Change Research with CLARIN Resource Families]]></title>
-        <id>5937 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/workflows-semantic-change-research-clarin-resource-families"/>
-        <updated>2023-07-25T11:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Workflows for Semantic Change Research with CLARIN Resource Families
-
-            
- 
-Written by Barbara McGillivray
-Project Overview
-This project was supported by CLARIN via the CLARIN Resource Families funding scheme and ran from November 2022 to June 2023. The project team consisted of Barbara McGillivray (King’s College London) and Fahad Khan (CNR-ILC) as project leads, and Paola Marongiu (University of Neuchâtel) as researcher. The project aimed to define workflows for semantic change research with CLARIN Resource Families (CRF), bringing together existing resources and tools needed to support research in lexical semantic change (LSC), which is the linguistic phenomenon in which words change their meanings over time.
-  
-The concept of the workflows was aligned with the CLARIN 2021-2023…]]></summary>
-        <author>
-            <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog]]></title>
-        <id>https://www.cdh.cam.ac.uk/media/blog/</id>
-        <link href="https://www.cdh.cam.ac.uk/media/blog/"/>
-        <updated>2023-07-25T11:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Cambridge Digital Humanities]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research Projects]]></title>
-        <id>https://www.cdh.cam.ac.uk/research/projects/</id>
-        <link href="https://www.cdh.cam.ac.uk/research/projects/"/>
-        <updated>2023-07-25T11:10:10.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Q&A Information Session | CDH Methods Fellows]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36910/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36910/"/>
-        <updated>2023-07-25T10:25:31.000Z</updated>
-        <summary type="html"><![CDATA[Do you have an interest in sharing DH Methods? Are you looking for teaching opportunities and experience? The CDH Methods Fellowship maybe for you. Join us for an online Q&A information session, where you can hear from our Learning Director, Dr Anne Alexander and our DH RSE, Jonathan Blaney to hear more about the opportunities]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developments in the Fashion Industry Post-WWII]]></title>
-        <id>https://review.gale.com/?p=14477</id>
-        <link href="https://review.gale.com/2023/07/25/developments-in-the-fashion-industry-post-wwii/"/>
-        <updated>2023-07-25T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[│By Nonkoliso Tshiki, Gale Ambassador at the University of Johannesburg│ Do you find writing for academic purposes challenging? I did too. However, I have recently discovered and started implementing a new and exciting trick to improve my writing skills, which also ignites greater interest in my writing. I write short essays about topics which I ... Read more
-The post Developments in the Fashion Industry Post-WWII appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Ambassadors</name>
         </author>
     </entry>
 </feed>
