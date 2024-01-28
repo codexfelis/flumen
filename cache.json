@@ -1430,6 +1430,26 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/941",
+          "author": "434",
+          "description": "Die Akademie der Wissenschaften und der Literatur | Mainz ist eine deutschlandweit ausgerichtete Vereinigung von Wissenschaftler:innen und zugleich eine Fördereinrichtung für…",
+          "link": "https://dig-hum.de/aktuelles/wissenschaftlichen-mitarbeiterin-mwd-10-eg-13-tv-l-schwerpunkt-research-software",
+          "publishedOn": "2024-01-27T08:33:40.000Z",
+          "wordCount": 1420,
+          "title": "Wissenschaftliche/n Mitarbeiter/in (m/w/d) 1,0 EG 13 TV-L  mit Schwerpunkt Research Software Engineering an der Akademie der Wissenschaften und der Literatur Mainz",
+          "imageUrl": null
+        },
+        {
+          "id": "node/942",
+          "author": "434",
+          "description": "Die Akademie der Wissenschaften und der Literatur | Mainz ist eine deutschlandweit ausgerichtete Vereinigung von Wissenschaftler:innen und zugleich eine Fördereinrichtung für…",
+          "link": "https://dig-hum.de/aktuelles/wissenschaftlichen-mitarbeiterin-mwd-10-eg-13-tv-l-schwerpunkt-research-software-0",
+          "publishedOn": "2024-01-27T08:33:09.000Z",
+          "wordCount": 1425,
+          "title": "Wissenschaftliche/n Mitarbeiter/in (m/w/d) 1,0 EG 13 TV-L  mit Schwerpunkt Research Software Engineering an der Akademie der Wissenschaften und der Literatur Mainz",
+          "imageUrl": null
+        },
+        {
           "id": "node/940",
           "author": "434",
           "description": "Liebe Mitglieder des DHd-Verbandes und Interessierte,\nfür unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…",
@@ -3030,24 +3050,6 @@
           "publishedOn": "2023-08-09T13:57:41.000Z",
           "wordCount": 308,
           "title": "Gavriel  Cutipa-Zorn"
-        },
-        {
-          "id": "1248 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "WWII Paris and the Shoah\n\n\nProject Start Date: \n\nAugust, 2023\n\n\n\nThe project of this website was created for an undergraduate advanced French history and culture course entitled Paris under the German Occupation and its [Non-] Places of Memory. The French title is a play on the words « lieu de mémoire » (place of memory) and « un non-lieu » (a dismissed case). The first questions I was faced with when putting the syllabus together were: How could students of French, from an American university, understand a past neither of us lived? And how to expect students – some of whom have never been to Paris - to envision the city under the German Occupation without even knowing its space?\nhttps://occupiedparis.pennds.org/en/\nStudent Workers:\nMap and Research:\n• Kyra Schulman (’19)\nTrancriptions:\n• Beverlye Gedeon (’21)\n• Leanore Petermeijer (’20)\n• Chloë Reum (’19)\nWebsite:\n• Anyelina Wu (’22)\n• The students of FRENCH 225 from 2016 to today\nContributors\n• Laurie Allen (Library of Congress)\n• Peter Decherney (Penn Online Learning Initiative and Cinema and Media Studies)\n• Scott Enderle (Penn Libraries)\n • Cassidy Holohan (Ph.D. Candidate in the English Department)\n• Cassandra Hradil (Price Lab for Digital Humanities)\n• Vickie Karasic (Bryn Mawr College)\n• Samantha Kirk (Drexel University)\n• Wes Martin (Vitale Lab, Penn Libraries)\n• Meaghan Moody (U. of Rochester)\n• Ian Petrie (Penn Center for Teaching and Learning)\n• Sasha Renninger (S.A.S. Computing)\n• Coral Salomón\n• Chava Spivak-Birndorf (Drexel University)\n• David Toccafondi (Vitale Lab, Penn Libraries)\n• Chris Vandergrift (Vitale Lab, Penn Libraries)\n• Kenneth Whitebloom (Swarthmore U.)\n• Last but not least, all the survivors who kindly entrusted us with their stories and were always willing to talk with us.\nSupport\n• The Price Lab for Digital Humanities\n• The Penn Language Center\n• The Penn Center for Teaching and Learning\n\n\nProject Principal Investigator: \n\nMélanie  Péron\n\n\nProject Team Heading: \n\nProject Team Members",
-          "link": "https://pricelab.sas.upenn.edu/projects/stitching-fragmented",
-          "publishedOn": "2023-08-01T16:37:00.000Z",
-          "wordCount": 493,
-          "title": "Stitching the Fragmented"
-        },
-        {
-          "id": "1247 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Project Start Date: \n\nAugust, 2023\n\n\n\nThe Heart of Puerto Rico is a 13-episode virtual reality documentary series focusing on artists in Puerto Rico after Hurricane Maria. To make the film, directors Peter Decherney (University of Pennsylvania) and Jean Lee (writer/director) collaborated with a wide range of artists in Puerto Rico, from internationally-known sculptors and painters to street clowns and drag performers.\n \n \n \n\n\nInsert an Image: \n\n\n\n\nCo-Investigators: \n\nCassandra Hradil, Digital Humanities Specialist\nOlivia Lee, Web Design\nCecilia Gonzalez Godino, Translation\n\n\nProject Principal Investigator: \n\nPeter  Decherney\nJean  Lee",
-          "link": "https://pricelab.sas.upenn.edu/projects/heart-puerto-rico",
-          "publishedOn": "2023-08-01T16:12:43.000Z",
-          "wordCount": 289,
-          "title": "Heart of Puerto Rico"
         }
       ]
     },
@@ -5842,6 +5844,16 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "6025 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 63 - January 2024\n\n            \nCLARIN technical open hour, Monday 5 February at 11:00 CET\nThe next edition of the CLARIN technology open hour is planned for Monday 5 February at 11:00 CET. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nThere will be another open hour on 4 March.\nINT: renewed B-centre certificate\nThe Instituut voor de Nederlandse Taal (or Dutch Language Institute) has successfully renewed its CoreTrustSeal and CLARIN B-centre certificate. Congratulations!\nSave the date: Centre Meeting 2024\nThe Centre Meeting is the yearly gathering for everyone who is involved in setting up or hosting a CLARIN centre, with a special focus on technical infrastructure. The 2024 edition will take place in hybrid form, participants can join in person in Utrecht virtually via Zoom.\nDetails will follow, but the date has been settled: 12 and 13 June.\nNew on the CLARIN forum\nSuggest a theme for the CLARIN Technical Open Hour!\nClarification on SURFconext’s email to Service Provider operators about “Metadata Signing Key Update for SURFconext Service Providers”\nCall for Abstracts: CLARIN2024\nCMDI landing page revamped\nRDA Europe vacancies - deadline 31 January\nNew software releases\nMaintenance releases of the metadata curation dashboard (6.2.0, changelog) and the link checker (3.2.0, changelog).\n\n      Dieter Van Uytvanck\n 27 January 2024\n\n\n    \ncentre news",
+          "link": "https://www.clarin.eu/blog/centre-news-vol-63-january-2024",
+          "publishedOn": "2024-01-27T10:44:55.000Z",
+          "wordCount": 438,
+          "title": "Centre news vol. 63 - January 2024",
+          "imageUrl": null
+        },
+        {
           "id": "6022 at https://www.clarin.eu",
           "author": "Karina Berger",
           "description": "Call for Abstracts: CLARIN2024\n\n            \n\n  \n  \n            \n    \nThe call for the submission of extended abstracts for the CLARIN Annual Conference 2024 (CLARIN2024) is now open.\nThe CLARIN Annual Conference is organised for the wider humanities and social sciences community in order to exchange experiences in working with the CLARIN infrastructure, share best practices, and discuss plans for future developments. CLARIN2024 will be a face-to-face event, which will also be fully accessible virtually. The conference will take place in Barcelona, Spain.\nYou are invited to submit your abstract until 12 April 2024.\nRead the full call.\n\n      Karina Berger\n 23 January 2024",
@@ -6202,6 +6214,16 @@
       "feedUrl": "https://www.jadh.org/rss.xml",
       "siteUrl": "https://www.jadh.org",
       "articles": [
+        {
+          "id": "78 at https://www.jadh.org",
+          "author": "adminweb",
+          "description": "JADH2024: Call for Papers \n“Leveraging AI and Digital Humanities for Sustainable Infrastructure”\nThe Japanese Association for Digital Humanities (JADH) is pleased to announce its 13th annual conference, to be held at the University of Tokyo on September 18-20, 2024.\nWe invite proposals on all aspects of Digital Humanities, and especially encourage papers treating topics that deal with practices that cross borders, for example, between academic fields, media, languages, cultures, organizations, and so on, as related to the field of Digital Humanities.\nThe recent advent of Artificial Intelligence has had a significant impact on Digital Humanities, and many presentations have been made at recent DH-related conferences. Furthermore, there's a global push towards establishing digital infrastruc…",
+          "link": "https://www.jadh.org/jadh2024cfp",
+          "publishedOn": "2024-01-26T09:53:50.000Z",
+          "wordCount": 1054,
+          "title": "JADH2024: Call for Papers",
+          "imageUrl": null
+        },
         {
           "id": "77 at https://www.jadh.org",
           "author": "adminweb",
