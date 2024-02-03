@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-02-02T08:21:27.474Z</updated>
+    <updated>2024-02-03T08:20:37.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities Approaches to Navigating the Early Colonial Hong Kong History]]></title>
+        <id>http://digitalorientalist.com/?p=12069</id>
+        <link href="https://digitalorientalist.com/2024/02/02/digital-humanities-approaches-to-navigating-the-early-colonial-hong-kong-history/"/>
+        <updated>2024-02-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest post by Eric H. C. Chow and Ryan Iu. For more information, see at the end …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call for Actors, Ensemble, and Production Team for Faust Shop 2.0 Performance at the Cambridge Festival]]></title>
         <id>https://www.cdh.cam.ac.uk/about/news/call-for-actors-ensemble-and-production-team-for-faust-shop-2-0-performance-at-cambridge-festival/</id>
@@ -8271,29 +8281,6 @@ Read full topic]]></summary>
 The post ECCO’ing through the Ages: Exploring Reception with Gale’s <i>Eighteenth Century Collections Online</i> appeared first on The Gale Review.]]></summary>
         <author>
             <name>Gale Review Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neue Publikation zu den Auswirkungen von Koalitionsregierungen auf Wahlergebnisse]]></title>
-        <id>news-153</id>
-        <link href="https://rise.unibas.ch/de/news/details/neue-publikation-zu-den-auswirkungen-von-koalitionsregierungen-auf-wahlergebnisse/"/>
-        <updated>2023-08-07T12:48:04.000Z</updated>
-        <summary type="html"><![CDATA[News,
-                        Forschung
-                        
-In der Zeitschrift Research & Politics (R&P) ist der Beitrag "The electoral consequences of policy-making in coalition governments." unter Mitarbeit von Anthea Alberto erschienen.]]></summary>
-        <author>
-            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEI-C Elections 2023]]></title>
-        <id>https://tei-c.org/?p=31664</id>
-        <link href="https://tei-c.org/2023/08/06/tei-c-elections-2023/"/>
-        <updated>2023-08-06T20:37:29.000Z</updated>
-        <summary type="html"><![CDATA[Introduction A Note on Voting Candidate Statements: TEI Technical Council Syd Bauman Gustavo Fernández Riva Torsten Roeder Nicholas Cole Raffaele Viglianti Matthew Evan Davis Joey Takeda Candidate Statements: TEI Board Julius Beneoluchi Odili Gimena del Rio Riande David Maus Kevin McMullen Emmanuel NGUE UM Karen Bourrier Introduction In 2023, TEI Members will hold an election […]]]></summary>
-        <author>
-            <name>Hugh Cayless</name>
         </author>
     </entry>
 </feed>

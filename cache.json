@@ -1742,6 +1742,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12069",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Eric H. C. Chow and Ryan Iu. For more information, see at the end …",
+          "link": "https://digitalorientalist.com/2024/02/02/digital-humanities-approaches-to-navigating-the-early-colonial-hong-kong-history/",
+          "publishedOn": "2024-02-02T14:00:00.000Z",
+          "wordCount": 6335,
+          "title": "Digital Humanities Approaches to Navigating the Early Colonial Hong Kong History",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/01/1600px-panorama_of_hong_kong-_met_dp165598.jpg?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=11966",
           "author": "The Digital Orientalist",
           "description": "This is a guest post by Anna Batzeli. This post introduces the Archives Portal Europe, an online archival repository which …",
@@ -3761,15 +3771,6 @@
           "publishedOn": "2023-09-24T15:27:25.000Z",
           "wordCount": 1946,
           "title": "TEI Annual Members Meeting – Report"
-        },
-        {
-          "id": "https://tei-c.org/?p=31664",
-          "author": "Hugh Cayless",
-          "description": "Introduction A Note on Voting Candidate Statements: TEI Technical Council Syd Bauman Gustavo Fernández Riva Torsten Roeder Nicholas Cole Raffaele Viglianti Matthew Evan Davis Joey Takeda Candidate Statements: TEI Board Julius Beneoluchi Odili Gimena del Rio Riande David Maus Kevin McMullen Emmanuel NGUE UM Karen Bourrier Introduction In 2023, TEI Members will hold an election […]",
-          "link": "https://tei-c.org/2023/08/06/tei-c-elections-2023/",
-          "publishedOn": "2023-08-06T20:37:29.000Z",
-          "wordCount": 3863,
-          "title": "TEI-C Elections 2023"
         }
       ]
     },
@@ -6436,21 +6437,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/TUC-24-2-1.png"
-        },
-        {
-          "id": "news-153",
-          "author": null,
-          "description": "News,\n                        Forschung\n                        \nIn der Zeitschrift Research & Politics (R&P) ist der Beitrag \"The electoral consequences of policy-making in coalition governments.\" unter Mitarbeit von Anthea Alberto erschienen.",
-          "link": "https://rise.unibas.ch/de/news/details/neue-publikation-zu-den-auswirkungen-von-koalitionsregierungen-auf-wahlergebnisse/",
-          "publishedOn": "2023-08-07T12:48:04.000Z",
-          "wordCount": 298,
-          "title": "Neue Publikation zu den Auswirkungen von Koalitionsregierungen auf Wahlergebnisse",
-          "enclosure": {
-            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/christian-lue-MZWBMNP7Nro-unsplash.jpg",
-            "length": "67711",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/christian-lue-MZWBMNP7Nro-unsplash.jpg"
         }
       ]
     }
