@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-02-13T08:22:01.499Z</updated>
+    <updated>2024-02-14T08:22:10.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vietnam War Oral History Project]]></title>
+        <id>https://adhc.lib.ua.edu/?p=2242</id>
+        <link href="https://adhc.lib.ua.edu/vietnamwaroralhistoryprojec/"/>
+        <updated>2024-02-13T20:25:56.000Z</updated>
+        <summary type="html"><![CDATA[This oral history archive has been created by students in Dr. Sarah Steinbock-Pratt’s class on the Vietnam War. The course explores the long history of the Vietnam War, beginning with early Vietnamese history and colonization.
+The post Vietnam War Oral History Project appeared first on Alabama Digital Humanities Center.]]></summary>
+        <author>
+            <name>adhcadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mill Marginalia Progress Blog]]></title>
+        <id>https://adhc.lib.ua.edu/?p=2235</id>
+        <link href="https://adhc.lib.ua.edu/millmarginaliaprogressblog/"/>
+        <updated>2024-02-13T20:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Mill Marginalia Progress Blog Description Project Summary Project Owner(s): Topic: Tool: Methodology: WordPressProject Status: Active   View Project →
+The post Mill Marginalia Progress Blog appeared first on Alabama Digital Humanities Center.]]></summary>
+        <author>
+            <name>adhcadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Romanization and Transliteration of Korean Language: Social and Technological Dimensions]]></title>
+        <id>http://digitalorientalist.com/?p=12184</id>
+        <link href="https://digitalorientalist.com/2024/02/13/romanization-and-transliteration-of-korean-language-social-and-technological-dimensions/"/>
+        <updated>2024-02-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This week’s post was written by Tomasz Sleziak. Sleziak is a scholar in Korean studies (particularly Korean but also global …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Engagement: Working With Schools on Research Projects]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=22440</id>
+        <link href="https://dri.ie/news/dri-engagement-working-with-schools-on-research-projects/"/>
+        <updated>2024-02-13T10:29:54.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we asked our Training and Engagement Manager Lorraine Marrey to talk about a workshop she ran for a secondary school’s history class. The Digital Repository of Ireland (DRI) has a wealth of open access humanities, cultural heritage, and social sciences collections available for research purposes, or for general browsing. It’s part of […]
+The post DRI Engagement: Working With Schools on Research Projects appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Lorraine Marrey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some recent presentations on the GLAM Workbench and Trove Data Guide]]></title>
         <id>http://wragge.micro.blog/2024/02/13/some-recent-presentations.html</id>
@@ -8364,127 +8407,6 @@ The post Understanding Recent Enhancements to Sentiment Analysis in <i>Gale Digi
 The post Transkribus User Conference 24 – Call For Contributions appeared first on READ-COOP.]]></summary>
         <author>
             <name>Florian Stauder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sustaining your data]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36978/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36978/"/>
-        <updated>2023-08-18T14:35:58.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring long-term access to digital data is often a difficult task: both hardware and code decay much more rapidly than many other means of information storage. Digital data created in the 1980s is frequently unreadable, whereas books and manuscripts written in the 980s are still legible. This session explores good practice in data preservation and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysing and presenting your data]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36977/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36977/"/>
-        <updated>2023-08-18T14:35:41.000Z</updated>
-        <summary type="html"><![CDATA[The impact of well-crafted data visualisations has been well-documented historically. Florence Nightingale famously used charts to make her case for hospital hygiene in the Crimean War, while Dr John Snow’s bar charts of cholera deaths in London helped convince the authorities of the water-borne nature of the disease. However, as information designer Alberto Cairo notes,]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming your data]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36976/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36976/"/>
-        <updated>2023-08-18T14:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Data which you have captured rather than created yourself is likely to need cleaning up before you can use it effectively. This short session will introduce you to the basic principles of creating structured datasets and walk you through some case studies in data cleaning with OpenRefine, a powerful open source tool for working with]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acquiring data for your project]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36975/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36975/"/>
-        <updated>2023-08-18T14:35:09.000Z</updated>
-        <summary type="html"><![CDATA[This session provides a brief introduction to different methods for capturing bulk data from online sources or via agreement with data collection holders, including Application Programme Interfaces (APIs). We will address issues of data provenance, exceptions to copyright for text and data-mining, and discuss good practice in managing and working with data that others have]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a digital research project]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/36974/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/36974/"/>
-        <updated>2023-08-18T14:34:51.000Z</updated>
-        <summary type="html"><![CDATA[This CDH Basics session explores the lifecycle of a digital research project across the stages of design, data capture, transformation, analysis, presentation and preservation. It introduces tactics for embedding ethical research principles and practices at each stage of the research process. Introduction to the digital project life cycle Ethics by design and EDI-informed data processing]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenausschreibung: Wissenschaftliche/r Mitarbeiter/in im Rahmen des Impulsprojektes &quot;Neuedition der Werke und Briefe Ephraim Lessings&quot;]]></title>
-        <id>node/914</id>
-        <link href="https://dig-hum.de/aktuelles/stellenausschreibung-wissenschaftlicher-mitarbeiterin-im-rahmen-des-impulsprojektes"/>
-        <updated>2023-08-18T13:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Die Herzog August Bibliothek Wolfenbüttel ist eine zentrale Institution zur Erforschung der Kulturgeschichte des Mittelalters und der frühen Neuzeit. Sie besitzt bedeutende…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenausschreibung: Wissenschaftliche/r Mitarbeiter/in (m/w/d) in Digital Humanities]]></title>
-        <id>node/913</id>
-        <link href="https://dig-hum.de/aktuelles/stellenausschreibung-wissenschaftlicher-mitarbeiterin-mwd-digital-humanities"/>
-        <updated>2023-08-18T13:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Wissenschaftliche/r Mitarbeiter/in (m/w/d) in Digital Humanities
-An der Philosophischen Fakultät der RWTH Aachen University ist zum nächstmöglichen Zeitpunkt die Stelle (100%…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paths to survival. Escape trajectories and supportive aid networks regarding persecuted Jews from Luxembourg, 1940-1943]]></title>
-        <id>4615 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/paths-survival-escape-trajectories-and-supportive-aid-networks-regarding-persecuted-jews"/>
-        <updated>2023-08-18T12:49:33.000Z</updated>
-        <summary type="html"><![CDATA[The period between the occupation of Luxembourg by Nazi Germany on 10 May 1940 and the beginning of the first deportation train to the East on 16 October 1941, marked by the constantly tightening net of Nazi persecution, was characterized by waves of escape movements of Jewish people leaving the Grand-Duchy. While many initially sought refuge in France, a minority was able to emigrate via neutral countries such as Spain or Portugal to safe havens like the USA.
-In parallel with the examination of the fleeing population itself, the strategies it employs, as well as the geographic framework of the escape routes, the thesis investigates the influence of potential aid networks that impacted the flight marked by multiple motivations.
-In addition to displaying the initial findings of the research, the presentation will also address the particular challenges regarding the transnational perspective and the micro historical character of the work as individual fates will particularly be woven into the discussion, as well as the connections to the project of the Mémorial de la Shoah au Luxembourg.
- 
-Wednesday, 20 Septemner 2023
-14.00 - 15.00
-
-C²DH Open Space 
-20 September 2023
-  Contemporary history of Luxembourg
-  Digital Shoah Memorial Luxembourg
-  Holocaust  Jewish history  Migration history  WW2
-  Research seminars
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Das DHd Community Forum macht Sommerpause]]></title>
-        <id>node/912</id>
-        <link href="https://dig-hum.de/aktuelles/das-dhd-community-forum-macht-sommerpause"/>
-        <updated>2023-08-18T11:54:51.000Z</updated>
-        <summary type="html"><![CDATA[Am 3. November findet das nächste DHd Community Forum statt.
-Weitere Infos und spannende Themen folgen. Bis bald!]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family history resources in the GLAM Workbench]]></title>
-        <id>http://wragge.micro.blog/2023/08/18/family-history-resources.html</id>
-        <link href="https://updates.timsherratt.org/2023/08/18/family-history-resources.html"/>
-        <updated>2023-08-18T04:06:21.000Z</updated>
-        <summary type="html"><![CDATA[It’s Family History Month, so I thought a brief post was in order describing some of the family history related resources in the GLAM Workbench.
-GLAM Name Index Search
-This is the biggie (in more ways than one). I’ve brought 263 datasets from 10 Australian GLAM organisations together into a single search interface. All these datasets index collections by people’s names, so with one search you can find information about individuals across a broad range of records, locations, and periods. There’s more than 10 million rows of data to explore!
-Try it now!
-NSW Post Office and Sydney Telephone Directories
-Many volumes of the NSW Post Office and Sydney Telephone Directories have been digitised and made available through Trove. However, they’re not easy to search. I’ve taken the text from these vo…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
 </feed>

@@ -148,6 +148,26 @@
       "siteUrl": "https://adhc.lib.ua.edu/",
       "articles": [
         {
+          "id": "https://adhc.lib.ua.edu/?p=2242",
+          "author": "adhcadmin",
+          "description": "This oral history archive has been created by students in Dr. Sarah Steinbock-Pratt’s class on the Vietnam War. The course explores the long history of the Vietnam War, beginning with early Vietnamese history and colonization.\nThe post Vietnam War Oral History Project appeared first on Alabama Digital Humanities Center.",
+          "link": "https://adhc.lib.ua.edu/vietnamwaroralhistoryprojec/",
+          "publishedOn": "2024-02-13T20:25:56.000Z",
+          "wordCount": 1683,
+          "title": "Vietnam War Oral History Project",
+          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
+        },
+        {
+          "id": "https://adhc.lib.ua.edu/?p=2235",
+          "author": "adhcadmin",
+          "description": "Mill Marginalia Progress Blog Description Project Summary Project Owner(s): Topic: Tool: Methodology: WordPressProject Status: Active   View Project →\nThe post Mill Marginalia Progress Blog appeared first on Alabama Digital Humanities Center.",
+          "link": "https://adhc.lib.ua.edu/millmarginaliaprogressblog/",
+          "publishedOn": "2024-02-13T20:23:00.000Z",
+          "wordCount": 1570,
+          "title": "Mill Marginalia Progress Blog",
+          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
+        },
+        {
           "id": "https://adhc.lib.ua.edu/?p=2208",
           "author": "adhcadmin",
           "description": "This site features a series of online exhibitions about various historical southern art topics. Each project was researched, written, and curated by a student in Dr. Rachel Stephens’ Art History 374 class at The University of Alabama during the spring semester of 2014.\nThe post Art of the American South appeared first on Alabama Digital Humanities Center.",
@@ -1710,33 +1730,6 @@
           "publishedOn": "2023-09-08T12:30:53.000Z",
           "wordCount": 825,
           "title": "Der DHd macht Sommerpause (09.09.-24.09.23)"
-        },
-        {
-          "id": "node/914",
-          "author": "434",
-          "description": "Die Herzog August Bibliothek Wolfenbüttel ist eine zentrale Institution zur Erforschung der Kulturgeschichte des Mittelalters und der frühen Neuzeit. Sie besitzt bedeutende…",
-          "link": "https://dig-hum.de/aktuelles/stellenausschreibung-wissenschaftlicher-mitarbeiterin-im-rahmen-des-impulsprojektes",
-          "publishedOn": "2023-08-18T13:22:45.000Z",
-          "wordCount": 1457,
-          "title": "Stellenausschreibung: Wissenschaftliche/r Mitarbeiter/in im Rahmen des Impulsprojektes &quot;Neuedition der Werke und Briefe Ephraim Lessings&quot;"
-        },
-        {
-          "id": "node/913",
-          "author": "434",
-          "description": "Wissenschaftliche/r Mitarbeiter/in (m/w/d) in Digital Humanities\nAn der Philosophischen Fakultät der RWTH Aachen University ist zum nächstmöglichen Zeitpunkt die Stelle (100%…",
-          "link": "https://dig-hum.de/aktuelles/stellenausschreibung-wissenschaftlicher-mitarbeiterin-mwd-digital-humanities",
-          "publishedOn": "2023-08-18T13:05:26.000Z",
-          "wordCount": 1041,
-          "title": "Stellenausschreibung: Wissenschaftliche/r Mitarbeiter/in (m/w/d) in Digital Humanities"
-        },
-        {
-          "id": "node/912",
-          "author": "434",
-          "description": "Am 3. November findet das nächste DHd Community Forum statt.\nWeitere Infos und spannende Themen folgen. Bis bald!",
-          "link": "https://dig-hum.de/aktuelles/das-dhd-community-forum-macht-sommerpause",
-          "publishedOn": "2023-08-18T11:54:51.000Z",
-          "wordCount": 774,
-          "title": "Das DHd Community Forum macht Sommerpause"
         }
       ]
     },
@@ -1825,6 +1818,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=12184",
+          "author": "The Digital Orientalist",
+          "description": "This week’s post was written by Tomasz Sleziak. Sleziak is a scholar in Korean studies (particularly Korean but also global …",
+          "link": "https://digitalorientalist.com/2024/02/13/romanization-and-transliteration-of-korean-language-social-and-technological-dimensions/",
+          "publishedOn": "2024-02-13T14:00:00.000Z",
+          "wordCount": 5605,
+          "title": "Romanization and Transliteration of Korean Language: Social and Technological Dimensions",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/02/806px-hangul_jamo_characters_in_unicode.svg_.png"
+        },
         {
           "id": "http://digitalorientalist.com/?p=12109",
           "author": "James Harry Morris",
@@ -4024,15 +4027,6 @@
           "publishedOn": "2023-08-26T07:21:23.000Z",
           "wordCount": 189,
           "title": "Trove Query Parser updated!"
-        },
-        {
-          "id": "http://wragge.micro.blog/2023/08/18/family-history-resources.html",
-          "author": null,
-          "description": "It’s Family History Month, so I thought a brief post was in order describing some of the family history related resources in the GLAM Workbench.\nGLAM Name Index Search\nThis is the biggie (in more ways than one). I’ve brought 263 datasets from 10 Australian GLAM organisations together into a single search interface. All these datasets index collections by people’s names, so with one search you can find information about individuals across a broad range of records, locations, and periods. There’s more than 10 million rows of data to explore!\nTry it now!\nNSW Post Office and Sydney Telephone Directories\nMany volumes of the NSW Post Office and Sydney Telephone Directories have been digitised and made available through Trove. However, they’re not easy to search. I’ve taken the text from these vo…",
-          "link": "https://updates.timsherratt.org/2023/08/18/family-history-resources.html",
-          "publishedOn": "2023-08-18T04:06:21.000Z",
-          "wordCount": 513,
-          "title": "Family history resources in the GLAM Workbench"
         }
       ]
     },
@@ -4333,15 +4327,6 @@
           "publishedOn": "2023-09-05T09:14:57.000Z",
           "wordCount": 415,
           "title": "So wie heute und doch ganz anders: Die Schueberfouer von 1945 bis 1975"
-        },
-        {
-          "id": "4615 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The period between the occupation of Luxembourg by Nazi Germany on 10 May 1940 and the beginning of the first deportation train to the East on 16 October 1941, marked by the constantly tightening net of Nazi persecution, was characterized by waves of escape movements of Jewish people leaving the Grand-Duchy. While many initially sought refuge in France, a minority was able to emigrate via neutral countries such as Spain or Portugal to safe havens like the USA.\nIn parallel with the examination of the fleeing population itself, the strategies it employs, as well as the geographic framework of the escape routes, the thesis investigates the influence of potential aid networks that impacted the flight marked by multiple motivations.\nIn addition to displaying the initial findings of the research, the presentation will also address the particular challenges regarding the transnational perspective and the micro historical character of the work as individual fates will particularly be woven into the discussion, as well as the connections to the project of the Mémorial de la Shoah au Luxembourg.\n \nWednesday, 20 Septemner 2023\n14.00 - 15.00\n\nC²DH Open Space \n20 September 2023\n  Contemporary history of Luxembourg\n  Digital Shoah Memorial Luxembourg\n  Holocaust  Jewish history  Migration history  WW2\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/paths-survival-escape-trajectories-and-supportive-aid-networks-regarding-persecuted-jews",
-          "publishedOn": "2023-08-18T12:49:33.000Z",
-          "wordCount": 425,
-          "title": "Paths to survival. Escape trajectories and supportive aid networks regarding persecuted Jews from Luxembourg, 1940-1943"
         }
       ]
     },
@@ -5968,51 +5953,6 @@
           "publishedOn": "2023-09-04T10:49:52.000Z",
           "wordCount": 632,
           "title": "Persistent Identifiers as Infrastructure in Cambridge Symposium"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36978/",
-          "author": null,
-          "description": "Ensuring long-term access to digital data is often a difficult task: both hardware and code decay much more rapidly than many other means of information storage. Digital data created in the 1980s is frequently unreadable, whereas books and manuscripts written in the 980s are still legible. This session explores good practice in data preservation and",
-          "link": "https://www.cdh.cam.ac.uk/events/36978/",
-          "publishedOn": "2023-08-18T14:35:58.000Z",
-          "wordCount": 511,
-          "title": "Sustaining your data"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36977/",
-          "author": null,
-          "description": "The impact of well-crafted data visualisations has been well-documented historically. Florence Nightingale famously used charts to make her case for hospital hygiene in the Crimean War, while Dr John Snow’s bar charts of cholera deaths in London helped convince the authorities of the water-borne nature of the disease. However, as information designer Alberto Cairo notes,",
-          "link": "https://www.cdh.cam.ac.uk/events/36977/",
-          "publishedOn": "2023-08-18T14:35:41.000Z",
-          "wordCount": 522,
-          "title": "Analysing and presenting your data"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36976/",
-          "author": null,
-          "description": "Data which you have captured rather than created yourself is likely to need cleaning up before you can use it effectively. This short session will introduce you to the basic principles of creating structured datasets and walk you through some case studies in data cleaning with OpenRefine, a powerful open source tool for working with",
-          "link": "https://www.cdh.cam.ac.uk/events/36976/",
-          "publishedOn": "2023-08-18T14:35:26.000Z",
-          "wordCount": 494,
-          "title": "Transforming your data"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36975/",
-          "author": null,
-          "description": "This session provides a brief introduction to different methods for capturing bulk data from online sources or via agreement with data collection holders, including Application Programme Interfaces (APIs). We will address issues of data provenance, exceptions to copyright for text and data-mining, and discuss good practice in managing and working with data that others have",
-          "link": "https://www.cdh.cam.ac.uk/events/36975/",
-          "publishedOn": "2023-08-18T14:35:09.000Z",
-          "wordCount": 509,
-          "title": "Acquiring data for your project"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36974/",
-          "author": null,
-          "description": "This CDH Basics session explores the lifecycle of a digital research project across the stages of design, data capture, transformation, analysis, presentation and preservation. It introduces tactics for embedding ethical research principles and practices at each stage of the research process. Introduction to the digital project life cycle Ethics by design and EDI-informed data processing",
-          "link": "https://www.cdh.cam.ac.uk/events/36974/",
-          "publishedOn": "2023-08-18T14:34:51.000Z",
-          "wordCount": 501,
-          "title": "Designing a digital research project"
         }
       ]
     },
@@ -6316,6 +6256,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/?post_type=news&p=22440",
+          "author": "Lorraine Marrey",
+          "description": "In this blog, we asked our Training and Engagement Manager Lorraine Marrey to talk about a workshop she ran for a secondary school’s history class. The Digital Repository of Ireland (DRI) has a wealth of open access humanities, cultural heritage, and social sciences collections available for research purposes, or for general browsing. It’s part of […]\nThe post DRI Engagement: Working With Schools on Research Projects appeared first on Digital Repository Ireland.",
+          "link": "https://dri.ie/news/dri-engagement-working-with-schools-on-research-projects/",
+          "publishedOn": "2024-02-13T10:29:54.000Z",
+          "wordCount": 1846,
+          "title": "DRI Engagement: Working With Schools on Research Projects",
+          "imageUrl": "https://dri.ie/app/uploads/2024/02/Untitled-design-9.png"
+        },
         {
           "id": "https://dri.ie/?post_type=news&p=19385",
           "author": "Maeve O'Brien",
