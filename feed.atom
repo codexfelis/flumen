@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-02-18T08:21:21.608Z</updated>
+    <updated>2024-02-19T08:22:37.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DHd2016: Reflexionen mit RaDiHum20]]></title>
+        <id>https://radihum20.de/?p=791</id>
+        <link href="https://radihum20.de/dhd2016/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dhd2016"/>
+        <updated>2024-02-19T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Willkommen zur neuesten Folge unserer 6. Staffel, bei der wir die DHd2016 beleuchten. Das Motto der Leipziger Konferenz war Modellierung – Vernetzung – Visualisierung. Die Digital Humanities als fächerübergreifendes Forschungsparadigma. Die gute Zusammenarbeit zwischen unseren heutigen Gästen, der Romanistin Elisabeth Burr und dem Informatiker Gerhard Heyer, ist dabei regelrecht emblematisch: verschiedene Fachbereiche finden unter einem […]
+Der Beitrag DHd2016: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Mareike Schumacher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHd2015: Reflexionen mit RaDiHum20]]></title>
         <id>https://radihum20.de/?p=784</id>
@@ -8547,20 +8558,6 @@ This version adds a second parameter to the parse_query() function so you can sp
 The post Guest Blog from DCU Library: Seven steps to publishing your collection on the Digital Repository of Ireland appeared first on Digital Repository Ireland.]]></summary>
         <author>
             <name>Maeve O'Brien</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assistant Professor - Dartmouth College]]></title>
-        <id>1458 at https://eadh.org</id>
-        <link href="https://eadh.org/news/2023/08/23/assistant-professor-dartmouth-college"/>
-        <updated>2023-08-23T16:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Assistant Professor - Dartmouth College
-
-
-
-The Program in Quantitative Social Science (QSS) at Dartmouth College seeks a teacher-scholar for a tenure-track appointment as Assistant Professor, to be appointed as early as July 1, 2024. QSS is an interdisciplinary program that integrates modern statistical, computational, and mathematical tools with social science. With an emphasis on tackling social science questions, relevant fields include applied mathematics, statistics, demography, economics, geography, political science, sociology, and related disciplines. Applicants should have a strong methodological background and be able to (1) conduct research using either machine learning techniques or advanced statistical methods with a focus on social science applications and (2) teach these methods primarily at the undergraduate level and also competently at the postgraduate level as needed. Keen interest in mentoring of undergraduates is a must, along with a demonstrated interest in encouraging students of all backgrounds and disciplinary interests. The person in this position will be expected to foster cross-disciplinary connections at Dartmouth around modern research methods. Qualified candidates should have a Ph.D. (or be ABD with degree expected by appointment date) in a relevant discipline, such as Applied Mathematics, Statistics, Demography, Economics, Education, Geography, Political Science, or Sociology, among others. For a complete position description, visit https://apply.interfolio.com/130125. Review of applications will begin on October 14, 2023, and continue until the position is filled.]]></summary>
-        <author>
-            <name>Communication Fellow</name>
         </author>
     </entry>
 </feed>
