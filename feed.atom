@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-02-19T08:22:37.162Z</updated>
+    <updated>2024-02-20T08:21:40.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minett Stories: Remembering the industrial past online]]></title>
+        <id>4940 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/minett-stories-remembering-industrial-past-online"/>
+        <updated>2024-02-20T07:44:42.000Z</updated>
+        <summary type="html"><![CDATA[The exhibition Minett Stories tells the history of the industrial region in the south of Luxembourg. Instead of focusing on the mining and smelting technologies, large iron works and steel barons, the project team decided to present the everyday history of an industrial region, concentrating on the time span from the industrialization of the region in around 1870 to the steel crisis of the 1970s. The online exhibition embraced the concept of transmedia storytelling for the production of narratives and media: the team worked in collaboration with several artists, stage actors and designers to produce graphic novels, interactive videos and maps, radio plays and video essays. The presentation will cover several examples to highlight this approach, before reflecting on the project as part of t…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHd2018: Reflexionen mit RaDiHum20]]></title>
+        <id>https://radihum20.de/?p=796</id>
+        <link href="https://radihum20.de/dhd2018/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dhd2018"/>
+        <updated>2024-02-20T07:14:00.000Z</updated>
+        <summary type="html"><![CDATA[In der heutigen Folge unserer Serie zu den vergangenen DHd-Konferenzen widmen wir uns der DHd2018, die unter dem Thema „Kritik der digitalen Vernunft“ stand. Mit unseren Gästen Georg Vogeler, Patrick Sahle und Kilian Hensen, tauchen wir in die Vergangenheit ein. Es war nach einem Vortrag von Frank Fischer als die Kollegen des sog. Kölner DH-Kontinuums […]
+Der Beitrag DHd2018: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Mareike Schumacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digging into Parts-of-Speech Tagging in Gale Digital Scholar Lab]]></title>
+        <id>https://review.gale.com/?p=15014</id>
+        <link href="https://review.gale.com/2024/02/20/parts-of-speech-tagging-in-the-lab/"/>
+        <updated>2024-02-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ Introduction Continuing our exploration of the digital tools accessible through Gale Digital Scholar Lab’s intuitive interface, the Parts-of-Speech (PoS) tool enables the researcher to gain granular insights into the different parts of speech used in each document in a content set. This post will highlight the main ... Read more
+The post Digging into Parts-of-Speech Tagging in Gale Digital Scholar Lab appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Review Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 420 – [Perpetual calendar with Metonic cycle]. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18029</id>
+        <link href="https://schoenberginstitute.org/2024/02/19/manuscript-monday-ljs-420-shar%e1%b8%a5-i-zij-i-ulugh-beg-%d8%b4%d8%b1%d8%ad-%d8%b2%d9%8a%d8%ac-%d8%a7%d9%84%d8%ba-%d8%a8%d9%8a%da%af-video-orientation/"/>
+        <updated>2024-02-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 420, a Liturgical calendar with some astronomical notes, such as indications of when the sun enters signs of the zodiac, and a circular diagram with 19 divisions around the circumference, corresponding to the 19 Julian years ofContinue reading "Manuscript Monday: LJS 420 – [Perpetual calendar with Metonic cycle]. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHd2016: Reflexionen mit RaDiHum20]]></title>
         <id>https://radihum20.de/?p=791</id>
@@ -8547,17 +8589,6 @@ You can then feed the parameters to the Trove API with your API key and you’ll
 This version adds a second parameter to the parse_query() function so you can specify the version of the Trove API you’re using. The default value is 2 for backwards compatibility. See the documentation for more information.]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guest Blog from DCU Library: Seven steps to publishing your collection on the Digital Repository of Ireland]]></title>
-        <id>https://dri.ie/news/first-time-attendees-share-their-experiences-at-a-research-data-alliance-plenary-meeting-copy/</id>
-        <link href="https://dri.ie/news/seven-steps-to-publishing/"/>
-        <updated>2023-08-24T15:13:56.000Z</updated>
-        <summary type="html"><![CDATA[by Liam O’Dwyer and Killian Downing, Dublin City University Library. Introduction  An increasing number of Irish organisations, including libraries, galleries, archives and museums, are using the Digital Repository of Ireland (DRI) to publish their collections online. Liam O’Dwyer and Killian Downing, Dublin City University (DCU) Library, speak about publishing the Henry Morris and Seán Lester […]
-The post Guest Blog from DCU Library: Seven steps to publishing your collection on the Digital Repository of Ireland appeared first on Digital Repository Ireland.]]></summary>
-        <author>
-            <name>Maeve O'Brien</name>
         </author>
     </entry>
 </feed>
