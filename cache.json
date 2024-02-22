@@ -431,6 +431,16 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=3046",
+          "author": "Nadezhda Povroznik",
+          "description": "Susan Brown, Professor in the School of English and Theatre Studies and Canada Research Chair in Collaborative Digital Scholarship at the University of Guelph, has been awarded ADHO’s Roberto Busa Prize. The Roberto Busa Prize is named in honour of Roberto Busa and is given to recognize outstanding lifetime/career achievement in the application of information… Read More »Susan Brown Awarded Roberto Busa Prize",
+          "link": "https://adho.org/2024/02/21/susan-brown-awarded-roberto-busa-prize/",
+          "publishedOn": "2024-02-21T19:05:31.000Z",
+          "wordCount": null,
+          "title": "Susan Brown Awarded Roberto Busa Prize",
+          "imageUrl": null
+        },
+        {
           "id": "https://adho.org/?p=3030",
           "author": "Nadezhda Povroznik",
           "description": "Digital Scholarship in the Humanities will publish a supplementary issue of top papers from Digital Humanities 2023, the annual conference of the Alliance of Digital Humanities Organizations, held in Graz, Austria. We invite submissions from anyone who presented at the meeting, including those who gave long and short papers, or who participated in panels and… Read More »DSH DH2023 Conference Proceedings Call for Papers",
@@ -1560,6 +1570,26 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=8890",
+          "author": "Betsy Moss",
+          "description": "7 March 2024 is the deadline for all conference poster submissions. All students are strongly encouraged to attend our Amazing Poster Design workshop on March 15!",
+          "link": "https://dhn.utoronto.ca/dh-fest-2024-call-for-student-research-posters/?utm_source=rss&utm_medium=rss&utm_campaign=dh-fest-2024-call-for-student-research-posters",
+          "publishedOn": "2024-02-21T19:07:04.000Z",
+          "wordCount": 2683,
+          "title": "DH Fest 2024: Call for Student Research Posters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhn.utoronto.ca/?p=8878",
+          "author": "Betsy Moss",
+          "description": "15 March 2024 is the deadline for submissions for DH Fest 2024!",
+          "link": "https://dhn.utoronto.ca/dh-fest-2024-call-for-proposals/?utm_source=rss&utm_medium=rss&utm_campaign=dh-fest-2024-call-for-proposals",
+          "publishedOn": "2024-02-21T19:02:22.000Z",
+          "wordCount": 2781,
+          "title": "DH Fest 2024: Call for Proposals",
+          "imageUrl": null
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=8745",
           "author": "DHN Admin",
@@ -3279,6 +3309,21 @@
       "siteUrl": "https://radihum20.de/",
       "articles": [
         {
+          "id": "https://radihum20.de/?p=810",
+          "author": "Mareike Schumacher",
+          "description": "Unsere heutige Folge der 6. Staffel widmet sich der DHd-Konferenz 2020, einer Konferenz, die unter außergewöhnlichen Umständen in Paderborn stattfand, nur wenige Tage bevor die Welt in den Corona-Lockdown ging. Das Motto „Spielräume: Digital Humanities zwischen Modellierung und Interpretation“ lud zur Diskussion über methodische und theoretische Freiheiten sowie die Rolle der Digital Humanities in der […]\nDer Beitrag DHd2020: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/dhd2020/?utm_source=rss&utm_medium=rss&utm_campaign=dhd2020",
+          "publishedOn": "2024-02-22T07:57:00.000Z",
+          "wordCount": 2341,
+          "title": "DHd2020: Reflexionen mit RaDiHum20",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/DHD2020_Paderborn_Rohschnitt_3.mp3?origin=embed",
+            "length": "83387711",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://radihum20.de/wp-content/uploads/2024/02/Design-ohne-Titel-22.png"
+        },
+        {
           "id": "https://radihum20.de/?p=805",
           "author": "Mareike Schumacher",
           "description": "In der heutigen Folge unseres Podcasts blicken wir zurück auf die DHd2019, eine Konferenz, die sich unter anderem durch die Zusammenarbeit von Peter Niedermüller, Berenike Rensinghoff und Katharina Kiefer sowie durch die besondere Struktur an zwei Orten – Workshops in Mainz und Vorträge in Frankfurt – auszeichnete. Das Thema “Digital Humanities: multimedial & multimodal” spiegelt […]\nDer Beitrag DHd2019: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.",
@@ -4248,15 +4293,6 @@
           "publishedOn": "2023-08-31T02:52:11.000Z",
           "wordCount": 412,
           "title": "Run GLAM Workbench notebooks on the ARDC’s new Binder service"
-        },
-        {
-          "id": "http://wragge.micro.blog/2023/08/26/trove-query-parser.html",
-          "author": null,
-          "description": "I’ve just updated the Trove Query Parser to work with version 3 of the Trove API. You just give it the url of a search in Trove’s newspapers, and it translates the search into a set of parameters that the API will understand. So this:\nparse_query(\"https://trove.nla.gov.au/search/category/newspapers?keyword=wragge&l-artType=newspapers&l-state=Queensland&l-category=Article&l-illustrationType=Cartoon\", 3)\nProduces this:\n{'q': 'wragge',\r 'l-artType': 'newspapers',\r 'l-state': ['Queensland'],\r 'l-category': ['Article'],\r 'l-illustrated': 'true',\r 'l-illtype': ['Cartoon'],\r 'category': 'newspaper'}\nYou can then feed the parameters to the Trove API with your API key and you’ll get data back. Easy! It’s simple but handy – I use the Query Parser in other tools like the Trove Newspaper Harvester and QueryPic.\nThis version adds a second parameter to the parse_query() function so you can specify the version of the Trove API you’re using. The default value is 2 for backwards compatibility. See the documentation for more information.",
-          "link": "https://updates.timsherratt.org/2023/08/26/trove-query-parser.html",
-          "publishedOn": "2023-08-26T07:21:23.000Z",
-          "wordCount": 189,
-          "title": "Trove Query Parser updated!"
         }
       ]
     },
@@ -4271,6 +4307,26 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4943 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Українська версія нижче\n\"Ukrainian Studies Across the Borders\" is a joint conference of the newly started U-CORE project at the C²DH and UNDIPUS project of the University Greifswald, an international event dedicated to Ukrainian studies beyond traditional Ukrainistics. This two-day interdisciplinary conference, taking place on 26 and 27 March 2024, will explore a wide range of topics from psychology and digital humanities to postindustrialism and language studies, shedding light on the rich and complex history and culture, as well as the current war and research approaches to contemporary Ukraine. Highlights include sessions on trauma, heroism, and war; digital practices of freedom during conflict and digital archiving of oral history; and the intersection of minority languages and educati…",
+          "link": "https://www.c2dh.uni.lu/events/ukrainian-studies-across-borders",
+          "publishedOn": "2024-02-21T10:43:15.000Z",
+          "wordCount": 816,
+          "title": "Ukrainian Studies Across the Borders",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/ukrainian_studies_across_the_borders_full_width.jpg?itok=40KCK2Iu"
+        },
+        {
+          "id": "4941 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "FR\nLe projet ProviLux1 a le plaisir d’organiser sa première conférence destinée au grand public sur la thématique de la recherche de provenance. Son objectif est de vulgariser ces enquêtes menées dans les coulisses des archives et des musées. Dans ce cadre, Nathalie Neumann et Dr Regina Stein sont invitées à présenter un Dialogue pour la recherche de provenance transnationale qu’elles mènent entre l’Allemagne et la France.\n \nDE\n“Das ProviLux Projekt2 freut sich, seine erste öffentliche Konferenz zur Provenienzforschung auszurichten. Ziel ist es, diese Untersuchungen, die hinter den Kulissen von Archiven und Museen durchgeführt werden, einem breiten Publikum zugänglich zu machen. Im Rahmen dieser Veranstaltung sind Nathalie Neumann und Dr. Regina Stein eingeladen, einen Dialog zur transnati…",
+          "link": "https://www.c2dh.uni.lu/events/dialogue-pour-la-recherche-de-provenance-methodes-sources-et-structures-en-allemagne-dialog",
+          "publishedOn": "2024-02-20T13:24:20.000Z",
+          "wordCount": 942,
+          "title": "Dialogue pour la recherche de provenance: méthodes, sources et structures en Allemagne / Dialog zur Provenienzforschung: Methoden, Quellen und Strukturen in Deutschland",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/provilux_conference_full_width.jpg?itok=cYD7WkWU"
+        },
         {
           "id": "4940 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
