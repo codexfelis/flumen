@@ -563,17 +563,7 @@
       "title": "Center for Digital Research in the Humanities",
       "feedUrl": "https://cdrh.unl.edu/rss.xml",
       "siteUrl": "https://cdrh.unl.edu",
-      "articles": [
-        {
-          "id": "2681 at https://cdrh.unl.edu",
-          "author": "Anonymous",
-          "description": "Image: \n\n\n\n\nLink: \n\nDigital Humanities project focuses on digital literacy with BookTok Collective\n\n\n\nUniversity of Nebraska–Lincoln student Hanna Varilek spent the summer as a Digital Humanities Summer Fellow building her project The BookTok Collective — an interactive website that highlights BookTok content creators’ valuable contributions for inspiring a new generation of readers and writers worldwide.\n[media:2:left]Entering the second year of her master’s degree in English, Varilek explained that her research focuses on digital literacy as well as literacy sponsorship that entails BookTok creators thinking creatively to promote literacy to their audiences. Varilek broadly described literacy sponsorship as people or entities — like a library — that promote and support reading and writin…",
-          "link": "https://cdrh.unl.edu/digital-humanities-project-focuses-digital-literacy-booktok-collective",
-          "publishedOn": "2023-08-28T05:22:00.000Z",
-          "wordCount": 855,
-          "title": "Digital Humanities project focuses on digital literacy with BookTok Collective"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CSDH / SCHN",
@@ -716,6 +706,116 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=150284",
+          "author": "Rachel Starry",
+          "description": "Shannon Mattern (University of Pennsylvania) has published an open-access piece in the Journal of Visual Culture titled “Modeling doubt: a speculative syllabus.” Adapted from Mattern’s May 2023 King’s Public Lecture in Digital Humanities at King’s College London, the piece explores “where humanistic conceptions of doubt do, or could or should, reside within our digital systems: ...read more",
+          "link": "https://dhandlib.org/2024/02/22/recommended-modeling-doubt-a-speculative-syllabus/?utm_source=rss&utm_medium=rss&utm_campaign=recommended-modeling-doubt-a-speculative-syllabus",
+          "publishedOn": "2024-02-22T16:30:11.000Z",
+          "wordCount": 3050,
+          "title": "RECOMMENDED: Modeling Doubt: A Speculative Syllabus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150288",
+          "author": "Hillary Richardson",
+          "description": "A Collections as Data pilot project at the University of Delaware, the network dataset for Alice Dunbar-Nelson’s correspondence is now available for download via the UDel institutional repository. Alice Dunbar-Nelson was an African-American civil rights activist, author, educator, wife of notable poet Paul Laurence Dunbar; the correspondence collection contains her literary, professional, and personal papers, ...read more",
+          "link": "https://dhandlib.org/2024/02/22/project-alice-dunbar-nelson-correspondence-network-dataset/?utm_source=rss&utm_medium=rss&utm_campaign=project-alice-dunbar-nelson-correspondence-network-dataset",
+          "publishedOn": "2024-02-22T16:28:45.000Z",
+          "wordCount": 3029,
+          "title": "PROJECT: Alice Dunbar-Nelson Correspondence Network Dataset",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150287",
+          "author": "Rachel Starry",
+          "description": "The collaborative, NEH-funded AI for Humanists project (formerly the BERT for Humanists project) creates learning resources aimed at empowering humanities scholars to use machine learning and artificial intelligence tools, specifically large language models (LLMs) in creative new ways. Adding to its repository of tutorials, primarily for python coding, two new tutorials have recently been published ...read more",
+          "link": "https://dhandlib.org/2024/02/22/resource-ai-for-humanists-tutorials/?utm_source=rss&utm_medium=rss&utm_campaign=resource-ai-for-humanists-tutorials",
+          "publishedOn": "2024-02-22T16:27:26.000Z",
+          "wordCount": 3034,
+          "title": "RESOURCE: AI for Humanists Tutorials",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150182",
+          "author": "Hillary Richardson",
+          "description": "DH2024 is seeking submissions and reviewers for the mini-conference at DH2024, “DH Inside Out,” which will be held August 6-9 at George Mason University. Rather than focusing on research and theoretical applications, this conference will focus on the technical details within the context of a project – from design and implementation to tools and code. ...read more",
+          "link": "https://dhandlib.org/2024/02/22/cfp-dh-inside-out-dh2024-mini-conference/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-dh-inside-out-dh2024-mini-conference",
+          "publishedOn": "2024-02-22T16:26:09.000Z",
+          "wordCount": 3019,
+          "title": "CFP: DH Inside Out (DH2024 Mini-Conference)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150184",
+          "author": "Hillary Richardson",
+          "description": "DH@Guelph is seeking course proposals for its 2024 Summer Workshops, May 14th-May 17th. From the call, the committee seeks: 4-day workshops on any aspect of digital humanities. Proposals will be selected by the local organizing committee with a view to maintaining the workshops’ emphasis on diversity in the digital humanities, meeting demand for particular topics, ...read more",
+          "link": "https://dhandlib.org/2024/02/22/cfp-dhguelph-summer-workshops/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-dhguelph-summer-workshops",
+          "publishedOn": "2024-02-22T16:24:49.000Z",
+          "wordCount": 3007,
+          "title": "CFP: DH@Guelph Summer Workshops",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150186",
+          "author": "Hillary Richardson",
+          "description": "The Texas Digital Humanities Symposium will be held September 5-6, 2024, at Baylor University’s Moody Memorial Library. The keynote will be Dr. Tanya Clement of University of Texas at Austin. “Digital Humanities Unveiled: A Practical Exploration” is the theme of this year’s symposium, and proposals will address topics in the following areas: DH Content: Diverse ...read more",
+          "link": "https://dhandlib.org/2024/02/22/cfp-texas-digital-humanities-symposium/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-texas-digital-humanities-symposium",
+          "publishedOn": "2024-02-22T16:23:46.000Z",
+          "wordCount": 3115,
+          "title": "CFP: Texas Digital Humanities Symposium",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150282",
+          "author": "Hillary Richardson",
+          "description": "The Modern Language Association’s 2025 Annual Convention will be offering several panels with overlaps in digital humanities and librarianship. The 2025 Convention theme is “Visibility,” and will be in New Orleans in January of 2025, with proposals due for submission in various dates in March 2024. Here are two panels with particular connections: Invisible Labor: ...read more",
+          "link": "https://dhandlib.org/2024/02/22/cfp-mla-2025-panels/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-mla-2025-panels",
+          "publishedOn": "2024-02-22T16:22:33.000Z",
+          "wordCount": 3037,
+          "title": "CFP: MLA 2025 Panels",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150178",
+          "author": "Hillary Richardson",
+          "description": "Baylor University will host “Discovering DH: Honoring Women’s Stories” on February 28, 2024 at 3:00 pm CST. Speakers are women faculty at Baylor who have contributed to DH scholarship. The event will take place in Baylor’s Moody Memorial Library, but will also be offered as a virtual session for registrants. Speakers will include: Heidi Hornik, ...read more",
+          "link": "https://dhandlib.org/2024/02/22/event-discovering-dh-honoring-womens-stories/?utm_source=rss&utm_medium=rss&utm_campaign=event-discovering-dh-honoring-womens-stories",
+          "publishedOn": "2024-02-22T16:18:27.000Z",
+          "wordCount": 2994,
+          "title": "EVENT: Discovering DH: Honoring Women’s Stories",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150174",
+          "author": "Hillary Richardson",
+          "description": "This intensive 4-day workshop, “Understanding and Deploying the Basics of Generative A.I.” will be held April 29-May 2 on the campus of St. Francis Xavier University in Antigonish, Nova Scotia. Instructors will be Aaron Tucker (University of Toronto), Meghan Landry, and Adnane Ait-Nasser (ACENET), with a keynote from Teresa Heffernan (St. Mary’s University) on “Mecha ...read more",
+          "link": "https://dhandlib.org/2024/02/22/event-dhsi-east-2024/?utm_source=rss&utm_medium=rss&utm_campaign=event-dhsi-east-2024",
+          "publishedOn": "2024-02-22T16:17:20.000Z",
+          "wordCount": 3124,
+          "title": "EVENT: DHSI-East 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150176",
+          "author": "Hillary Richardson",
+          "description": "Sponsored by Michigan State University and H-net, the 9th annual GlobalDH Symposium will have virtual proceedings March 18-20 and in-person events March 22-23. Keynote speakers are Rachel Adams, Sara Morais do Santos Bruss, Alex Gil, and Bill Hart-Davidson, and talks will highlight intersections of AI, DH, and inequalities.  The full program for both the online ...read more",
+          "link": "https://dhandlib.org/2024/02/22/event-msu-global-digital-humanities-symposium/?utm_source=rss&utm_medium=rss&utm_campaign=event-msu-global-digital-humanities-symposium",
+          "publishedOn": "2024-02-22T16:17:15.000Z",
+          "wordCount": null,
+          "title": "EVENT: MSU Global Digital Humanities Symposium",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=150180",
+          "author": "Hillary Richardson",
+          "description": "The TORCHLITE project is hosting a hackathon May 21-23, 2024 in Champaign, Illinois for researchers and programmers interested in text analysis and data mining/visualization using HathiTrust Research Center tools. The hackathon deliverables include data visualizations, Jupyter notebooks, applications, and creative uses for its new tools. Participants who are selected to attend will receive up to ...read more",
+          "link": "https://dhandlib.org/2024/02/22/funding-opportunity-htrc-torchlite-hackathon/?utm_source=rss&utm_medium=rss&utm_campaign=funding-opportunity-htrc-torchlite-hackathon",
+          "publishedOn": "2024-02-22T16:16:15.000Z",
+          "wordCount": null,
+          "title": "FUNDING/OPPORTUNITY: HTRC TORCHLITE Hackathon",
+          "imageUrl": null
+        },
         {
           "id": "https://dhandlib.org/?p=148389",
           "author": "Rachel Starry",
@@ -2025,6 +2125,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12254",
+          "author": "Agnes Sung",
+          "description": "Digital technologies have become increasingly prominent in the field of archaeology and humanities, playing an important role in facilitating research …",
+          "link": "https://digitalorientalist.com/2024/02/23/the-age-of-digital-technology-silk-road-archaeological-sites-and-artefacts-part-1/",
+          "publishedOn": "2024-02-23T14:00:00.000Z",
+          "wordCount": 5147,
+          "title": "The age of digital technology: Silk Road archaeological sites and artefacts (Part 1)",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/02/screenshot-2024-02-21-at-9.37.21e280afpm.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12213",
           "author": "Ephrem A. Ishac",
           "description": "Since the release of the ChatGPT, many Syriac users have been hoping that this chatbot would enable Syriac as a …",
@@ -3319,6 +3429,21 @@
       "siteUrl": "https://radihum20.de/",
       "articles": [
         {
+          "id": "https://radihum20.de/?p=775",
+          "author": "Mareike Schumacher",
+          "description": "Die DHd2022 war aus vielerlei Gründen ein erinnerungswürdiges Ereignis. Ursprünglich für 2021 geplant, dann verschoben und als Hybridkonferenz konzipiert und letztendlich als reines Online-Event umgesetzt, war sie mit über 1.000 angemeldeten Teilnehmer*innen die bisher größte DHd-Konferenz aller Zeiten. In der vorletzten Folge unserer Konferenzrückblick-Reihe sprechen wir mit Anna Busch und Ulrike Wuttke über die Herausforderungen […]\nDer Beitrag DHd2022: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/dhd2022/?utm_source=rss&utm_medium=rss&utm_campaign=dhd2022",
+          "publishedOn": "2024-02-24T08:03:00.000Z",
+          "wordCount": 2265,
+          "title": "DHd2022: Reflexionen mit RaDiHum20",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/Staffel6_2022_final.mp3?origin=embed",
+            "length": "21285908",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://radihum20.de/wp-content/uploads/2024/02/2.png"
+        },
+        {
           "id": "https://radihum20.de/?p=766",
           "author": "Mareike Schumacher",
           "description": "In unserer neuesten Folge der Recap-Reihe zur DHd-Konferenz unterhalten wir uns mit einem Trio aus dem Organisationsteam der vDHd 2021: Melanie Seltmann, Waltraud von Pippich und Jürgen Hermes. Diese Konferenz war außergewöhnlich und die Umsetzung für alle neu, denn sie fand virtuell statt und war das Resultat einer spontanen Graswurzel-Initiative (vDHd 2021, Thema: Experimente); ein […]\nDer Beitrag vDHd2021: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.",
@@ -3896,15 +4021,6 @@
           "publishedOn": "2023-09-04T13:00:00.000Z",
           "wordCount": 1235,
           "title": "Manuscript Monday: Ms. Codex 1663 – Liber Piccatriciae. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17884",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1679, a magical handbook with instructions for conjuring angels for the seven days of the week. Sections include information on magical circles, prayers to recite for conjurations, and lists of divine names with their corresponding hours.Continue reading \"Manuscript Monday: Ms. Codex 1679 – Liber Piccatriciae. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/08/28/manuscript-monday-ms-codex-1679-liber-piccatriciae-video-orientation/",
-          "publishedOn": "2023-08-28T15:06:35.000Z",
-          "wordCount": 1229,
-          "title": "Manuscript Monday: Ms. Codex 1679 – Liber Piccatriciae. (Video Orientation)"
         }
       ]
     },
@@ -4075,6 +4191,16 @@
       "feedUrl": "https://sites.temple.edu/tudsc/feed",
       "siteUrl": "https://sites.temple.edu/tudsc",
       "articles": [
+        {
+          "id": "https://sites.temple.edu/tudsc/?p=8679",
+          "author": "Matt Shoemaker",
+          "description": "It has been a while since there has been update on some of the work we do around gaming at the LCDSS, so with inaugural meeting of the campus wide Games Interest Community Group next week Tuesday this is an opportune time to let you know about some of our game related projects.",
+          "link": "https://sites.temple.edu/tudsc/2024/02/23/the-lcdss-and-games-have-a-lot-going-on/?utm_source=rss&utm_medium=rss&utm_campaign=the-lcdss-and-games-have-a-lot-going-on",
+          "publishedOn": "2024-02-23T14:45:36.000Z",
+          "wordCount": 2893,
+          "title": "The LCDSS and Games Have a Lot Going On",
+          "imageUrl": null
+        },
         {
           "id": "https://sites.temple.edu/tudsc/?p=8651",
           "author": "Hannah Tardie",
@@ -4342,6 +4468,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4948 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Since the 1970s, deindustrialisation has fundamentally changed Luxembourg’s economy, shifting its focus from industry to services. Beyond these major structural changes, the restructuring of the steel industry has had important consequences at the local level, both for workers and for industrial towns. This research focuses on the impact of deindustrialisation in three industrial towns in Luxembourg, Esch, Dudelange and Pétange, and aims to explore local challenges and initiatives in response to the restructuring of the steel industry.\nThe closure of blast furnaces and rolling mills triggered intense debates in the town councils of Luxembourg's steel towns, focusing on issues such as the town budget and overall viability. Industrial decline was seen as a potential 'death blow' for the existence of the towns, leading various stakeholders, including workers, shop owners, trade unionists and politicians, to rally against the closure of the local blast furnace. A key area of interest in the research are the local strategies implemented to address the challenges of deindustrialisation and the decisions taken by the steel companies ARBED and MMR-A and the Tripartite Conference. Although the focus of the research is on the cities, the national and European levels are also taken into account, as local actions extended beyond city boundaries.\n \nWednesday, 20 March 2024\n14.00 - 15.00\nC²DH Open Space (4th floor, Maison des Sciences humaines)\n20 March 2024\n  Public history\n  Industrial history\n  Research seminars\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/deindustrialisation-and-its-impact-luxembourgs-industrial-cities-1970-1990",
+          "publishedOn": "2024-02-23T08:34:26.000Z",
+          "wordCount": 488,
+          "title": "Deindustrialisation and its Impact on Luxembourg's Industrial Cities, 1970-1990",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_research_seminars_content_list.png?itok=Nwm2C3Di"
+        },
         {
           "id": "4943 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6590,15 +6726,6 @@
           "publishedOn": "2023-08-30T09:31:51.000Z",
           "wordCount": 234,
           "title": "CLARIN Newsflash August 2023 Is Out"
-        },
-        {
-          "id": "5943 at https://www.clarin.eu",
-          "author": "Julia Misersky",
-          "description": "Spain Joins CLARIN As Member\n\n            \nWe are pleased to announce that Spain will join CLARIN \n    \nEuropean Research Infrastructure Consortium\nSee: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\nread more\n\n   as full member starting 1 September 2023. Welcome!\nAbout\nFollowing the example of similar successful initiatives in other European countries, the INTELE strategic network (2020-2022) articulated and agreed on a common proposal for the CLARIAH-ES national consortium: to ask for the official integration of Spain into both CLARIN and DARIAH research infrastructures. The CLARIAH-ES proposal has the support of more than 750 researchers from 150 research groups from 35 universities and 65 institution…",
-          "link": "https://www.clarin.eu/news/spain-joins-clarin-member",
-          "publishedOn": "2023-08-28T07:27:16.000Z",
-          "wordCount": 735,
-          "title": "Spain Joins CLARIN As Member"
         }
       ]
     },
@@ -6827,6 +6954,21 @@
       "feedUrl": "https://rise.unibas.ch/de/657/feed.rss",
       "siteUrl": "https://rise.unibas.ch/de/",
       "articles": [
+        {
+          "id": "news-190",
+          "author": null,
+          "description": "News,\n                        Weiterbildung,\n                        Events\n                        \nAufgrund der hohen Nachfrage bietet RISE am 28.03.2024 einen zusätzlichen Kurstermin an.",
+          "link": "https://rise.unibas.ch/de/news/details/zusaetzlicher-schulungstermin-fuer-datenvisualisierung-mit-rstudio/",
+          "publishedOn": "2024-02-23T09:14:17.000Z",
+          "wordCount": 246,
+          "title": "Zusätzlicher Schulungstermin für Datenvisualisierung mit RStudio",
+          "enclosure": {
+            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/r-studio-banner-swiss.png",
+            "length": "72881",
+            "type": "image/png"
+          },
+          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/r-studio-banner-swiss.png"
+        },
         {
           "id": "news-188",
           "author": null,
