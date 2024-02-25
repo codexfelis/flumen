@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-02-24T08:20:02.957Z</updated>
+    <updated>2024-02-25T08:19:40.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DHd2023: Reflexionen mit RaDiHum20]]></title>
+        <id>https://radihum20.de/?p=825</id>
+        <link href="https://radihum20.de/dhd2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dhd2023"/>
+        <updated>2024-02-25T08:02:00.000Z</updated>
+        <summary type="html"><![CDATA[In der letzten Folge unserer Rekapitulation vergangener DHd-Konferenzen nehmen wir Euch mit auf eine Rückschau der DHd2023, einer Konferenz, die an zwei Standorten stattfand – Belval für Workshops und Trier für Vorträge . Unsere Gäste sind Estelle Bunout und Joëlle Weis, zwei zentrale Mitglieder des Organisationsteams dieser Veranstaltung. Gemeinsam diskutieren wir den Grundgedanken des Konferenzthemas: […]
+Der Beitrag DHd2023: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Mareike Schumacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audiosnippets zu den DHd2024 Postereinreichungen]]></title>
+        <id>https://radihum20.de/?p=818</id>
+        <link href="https://radihum20.de/audiosnippets-dhd2024-poster/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=audiosnippets-dhd2024-poster"/>
+        <updated>2024-02-24T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Hier findet ihr Audiosnippets zu den Postereinreichungen der Jahreskonferenz der Digital Humanities im deutschsprachigen Raum 2024 in Passau. Danke an alle, die uns ihre Beiträge geschickt haben! Melanie Seltmann, Claudia Frick: „Open-Public-Peer-Review auf dem Prüfstand“ Sarah Lang / AG Empowerment: „DHd AG Empowerment“
+Der Beitrag Audiosnippets zu den DHd2024 Postereinreichungen erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Jascha Schmitz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHd2022: Reflexionen mit RaDiHum20]]></title>
         <id>https://radihum20.de/?p=775</id>
@@ -8967,17 +8989,6 @@ You are welcome to submit a news item with CLARIN-related news (or call for pape
 The post Introducing the new Transkribus web app appeared first on READ-COOP.]]></summary>
         <author>
             <name>Helene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get to Know Our Research Projects – Archiving Reproductive Health]]></title>
-        <id>https://dri.ie/?post_type=news&amp;p=12309</id>
-        <link href="https://dri.ie/news/get-to-know-our-research-projects-archiving-reproductive-health/"/>
-        <updated>2023-08-29T15:08:11.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is a trusted digital repository (TDR), which provides reliable long-term preservation and access to Ireland’s humanities, cultural heritage, and social sciences digital data. DRI is also a research performing organisation engaged in a rich range of digital preservation-related research projects. In this new blog series, we invite you to […]
-The post Get to Know Our Research Projects – Archiving Reproductive Health appeared first on Digital Repository Ireland.]]></summary>
-        <author>
-            <name>Aine Madden</name>
         </author>
     </entry>
 </feed>
