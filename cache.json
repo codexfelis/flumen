@@ -3803,6 +3803,16 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=18031",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 421, a short collection of medical advice in prose, framed as sent by Hippocrates to Caesar, comprised of recipes followed by a guide to astronomical movements. Digital copies and a full record are available through Franklin. RecordContinue reading \"Manuscript Monday: LJS 421 – [Letter from Hippocrates to Caesar]. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/02/26/manuscript-monday-ljs-421-shar%e1%b8%a5-i-zij-i-ulugh-beg-%d8%b4%d8%b1%d8%ad-%d8%b2%d9%8a%d8%ac-%d8%a7%d9%84%d8%ba-%d8%a8%d9%8a%da%af-video-orientation/",
+          "publishedOn": "2024-02-26T14:00:00.000Z",
+          "wordCount": 5337,
+          "title": "Manuscript Monday: LJS 421 – [Letter from Hippocrates to Caesar]. (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=18029",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 420, a Liturgical calendar with some astronomical notes, such as indications of when the sun enters signs of the zodiac, and a circular diagram with 19 divisions around the circumference, corresponding to the 19 Julian years ofContinue reading \"Manuscript Monday: LJS 420 – [Perpetual calendar with Metonic cycle]. (Video Orientation)\"",
@@ -4345,6 +4355,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/02/27/new-glam-workbench.html",
+          "author": null,
+          "description": "The GLAM Workbench has a brand new section aimed at helping you find and use government publications in Trove. Most of the GLAM Workbench’s existing sections focus on a particular resource format, or are related to one of Trove’s top-level categories. This didn’t quite work for government publications, as things like Parliamentary Papers are spread across multiple categories, and can encompass a variety of formats. So I thought a new section was the best way of bringing it all together.\nAt the moment the Trove Government section includes two notebooks and three pre-harvested datasets.\nHarvest parliament press releases from Trove\nHarvest details of Commonwealth Parliamentary Papers digitised in Trove\nDigitised Parliamentary Papers in Trove\nPress releases relating to refugees\nPress releases …",
+          "link": "https://updates.timsherratt.org/2024/02/27/new-glam-workbench.html",
+          "publishedOn": "2024-02-27T03:34:18.000Z",
+          "wordCount": 688,
+          "title": "New GLAM Workbench section for working with government publications in Trove",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-02-27-14-19-39.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/02/16/digital-history-stream.html",
           "author": null,
           "description": "This year the annual conference of the Australian Historical Association will include a digital history stream, sponsored by the Australian Research Data Commons (ARDC), and convened by me!\nThe call for papers is available here or through the Conference website. The list of possible topics is deliberately broad and inclusive – if you’re using digital tools or methods in the organisation, analysis, and visualisation of historical data we’d love to hear from you. Proposals are due on 23 February and can be submitted through the Conference website.\n\nWe’re particularly keen for HDR and ECR scholars to be involved. To help meet registration and travel costs, the ARDC is funding up to four $1000 bursaries. More details are available here. Bursary applications close on 31 March.\nThere’s also likely to be a digital history workshop, as well as updates on the work of the HASS & Indigenous Research Data Commons and ARDC Community Data Lab, including the Trove Data Guide.\nTime is short! Get your proposals in now! Contact me at tim@timsherratt.au if you have any questions.",
@@ -4452,24 +4472,6 @@
           "publishedOn": "2023-09-15T04:53:20.000Z",
           "wordCount": 288,
           "title": "Trove Data Guide update – accessing data from newspapers and gazettes"
-        },
-        {
-          "id": "http://wragge.micro.blog/2023/08/31/some-important-updates.html",
-          "author": null,
-          "description": "Version 3 of the Trove API is out, and version 2 is scheduled to be decommissioned in early 2023 – that means I have a lot of code to update! First cab of the rank is the Trove Newspaper & Gazette Harvester with version 0.7.1 now available.\n\r\nThe Harvester is a Python package that can be used as either a library or a command-line tool. It’s been around in some form for more than 10 years. The latest updates include:\nsupport for version 3 of the Trove API\nautomatic creation of a metadata file describing each harvest according to the RO-Crate format\nautomatic creation of a harvester config file, capturing the query parameters sent to Trove as well as the Harvester options\nthe ability to initiate a harvest from an existing config file\nmore memory-friendly generation of CSV result files (no lo…",
-          "link": "https://updates.timsherratt.org/2023/08/31/some-important-updates.html",
-          "publishedOn": "2023-08-31T07:00:54.000Z",
-          "wordCount": 511,
-          "title": "Some important updates for the Trove Newspaper & Gazette Harvester"
-        },
-        {
-          "id": "http://wragge.micro.blog/2023/08/31/run-glam-workbench.html",
-          "author": null,
-          "description": "There are a number of different ways to run the Jupyter notebooks in the GLAM Workbench depending on your needs and technical skills. But the easiest and quickest has always been the public, international Binder service, based in Europe. One click in the GLAM Workbench and Binder prepares a customised computing environment and loads up the Jupyter notebooks ready for you to explore. Unfortunately, the public Binder service has been having some capacity issues in the last few months, and sometimes repositories fail to run. The good news is that Australian university researchers now have another option with the launch of the Australian Research Data Commons Binder service!\nThe big difference between the ARDC’s Binder service and the international version is that you need to log in using your…",
-          "link": "https://updates.timsherratt.org/2023/08/31/run-glam-workbench.html",
-          "publishedOn": "2023-08-31T02:52:11.000Z",
-          "wordCount": 412,
-          "title": "Run GLAM Workbench notebooks on the ARDC’s new Binder service"
         }
       ]
     },
@@ -4484,6 +4486,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4951 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Artificial intelligence, particularly in the form of large language models, has been at the forefront of news for several years. The majority of historians, when they express an opinion on the matter, seem mainly concerned about whether their students will be able to have essays composed by an electronic servant, and if so, to whom the obtained grade should be attributed. It is true that sometimes one looks at the finger pointing towards the star and not at the moon itself. Indeed, it seems that the impact is not so much of the invention, but of the accessibility of these devices that could be significant. The acquisition of historical data, its manipulation, as well as its interpretation are expected to take place within a workshop, with deeply renewed tools. The collapse of the cost of data acquisition and manipulation opens up multiple possibilities, among which are the potential for data-driven research, the manipulation of corpora of unprecedented size, and, paradoxically, a distancing from the text, the basic element of the historian's diet since the origins of the discipline. We will explore these potentialities through a few examples.\nPhilippe Rygiel is a Senior professor at Ecole Normale Supérieure de Lyon.\n \n\n\nWednesday, 27 March 2024\n14.00 - 15.00\nC²DH Open Space (4th floor, Maison des Sciences humaines) and online.\n27 March 2024\n  Digital history & historiography\n  Artificial  intelligence  Digital hermeneutics\n  Hands-on History\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/are-ai-and-llm-important-historians",
+          "publishedOn": "2024-02-26T10:32:59.000Z",
+          "wordCount": 492,
+          "title": "Are AI and LLM important for historians?",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_handson_history-content-list-grey.png?itok=0EHc2jFn"
+        },
         {
           "id": "4948 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
