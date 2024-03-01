@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-02-29T08:20:49.602Z</updated>
+    <updated>2024-03-01T08:21:39.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Research Storytelling Workshop, May 6-June 3, 2024]]></title>
+        <id>https://dhn.utoronto.ca/?p=8971</id>
+        <link href="https://dhn.utoronto.ca/digital-storytelling-summer2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=digital-storytelling-summer2024"/>
+        <updated>2024-02-29T21:40:15.000Z</updated>
+        <summary type="html"><![CDATA[The Critical Digital Humanities Initiative (CDHI), a tri-campus research initiative funded by the University of Toronto’s Institutional Strategic Initiatives (ISI) program, is pleased to announce a one month in-person digital […]]]></summary>
+        <author>
+            <name>DHN Admin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webinar Series: DH Virtual Discussion Group for ECRs in Belgium – Spring 2024 Edition]]></title>
         <id>https://scholarlytales.hcommons.org/?p=2063</id>
