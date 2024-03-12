@@ -1874,6 +1874,26 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/948",
+          "author": "434",
+          "description": "Im Deutschen Bergbau-Museum Bochum (DBM), Leibniz-Forschungsmuseum für Georessourcen der DMT-Gesellschaft für Lehre und Bildung mbH, ist im Montanhistorischen…",
+          "link": "https://dig-hum.de/aktuelles/wissenschaftlicher-projektmitarbeiter-mwd-im-montanhistorischen-dokumentationszentrum",
+          "publishedOn": "2024-03-12T08:20:47.147Z",
+          "wordCount": 1269,
+          "title": "Wissenschaftlicher Projektmitarbeiter (m/w/d) im Montanhistorischen Dokumentationszentrum (montan.dok) des Deutschen Bergbau-Museums Bochum",
+          "imageUrl": null
+        },
+        {
+          "id": "node/949",
+          "author": "434",
+          "description": "For the expansion of our fast growing team we are seeking to recruit one or more\nData Engineer(s) (80-100%)\nto commence immediately or by agreement. The incumbent will be…",
+          "link": "https://dig-hum.de/aktuelles/data-engineers-80-100-swiss-art-research-infrastructure-sari-der-universit%C3%A4t-z%C3%BCrich",
+          "publishedOn": "2024-03-12T08:20:47.130Z",
+          "wordCount": 1091,
+          "title": "Data Engineer(s) (80-100%) Swiss Art Research Infrastructure (SARI) an der Universität Zürich",
+          "imageUrl": null
+        },
+        {
           "id": "node/947",
           "author": "434",
           "description": "Liebe DHd-Mitglieder,\nim DHd-Verband sind mittlerweile 17 Arbeitsgruppen aktiv, die sich ganz unterschiedlichen Themen und Fragestellungen widmen. Um die Vielfalt unserer AGs zu…",
@@ -2723,15 +2743,6 @@
           "publishedOn": "2023-09-19T12:30:00.000Z",
           "wordCount": 1201,
           "title": "Generating Kuzushiji Images with Soan"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=10891",
-          "author": "Mariana Zorkina",
-          "description": "This post is prepared together with Tilman Schalmey (Trier University). Right before going on summer hiatus, we launched a survey …",
-          "link": "https://digitalorientalist.com/2023/09/14/what-can-you-share-about-your-dh-project-survey-results/",
-          "publishedOn": "2023-09-14T13:00:00.000Z",
-          "wordCount": 1891,
-          "title": "What can you share about your DH project? – Survey Results."
         }
       ]
     },
@@ -3892,6 +3903,16 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=18041",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 424, an extensive collection of medical texts compiled in 1500-1501 during medical studies in Bologna. Contents include copies of texts in the medical curriculum, the most substantial being al-Rāzī’s Nonus Almansoris and Avicenna’s Canon, and at leastContinue reading \"Manuscript Monday: LJS 424 – Non[us] Alma[n]sor[is] cu[m] an[n]otatio[n]ib[us] … (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/03/11/manuscript-monday-ljs-424-nonus-almansoris-cum-annotationibus-video-orientation/",
+          "publishedOn": "2024-03-11T13:00:00.000Z",
+          "wordCount": 5346,
+          "title": "Manuscript Monday: LJS 424 – Non[us] Alma[n]sor[is] cu[m] an[n]otatio[n]ib[us] … (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=18034",
           "author": "simsmss",
           "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 422, a lacunose 16th-century copy of a 12th-century romance about the life of Bahrām Gūr, a 5th-century king of Iran; its title (in English, Seven beauties or Seven images) refers to the seven princesses that Bahrām marries,Continue reading \"Manuscript Monday: LJS 422 – [Haft paykar]. = [هفت پيکر]. (Video Orientation)\"",
@@ -4881,15 +4902,6 @@
           "publishedOn": "2023-09-18T09:36:44.000Z",
           "wordCount": 463,
           "title": "A sociology of the covid memory boom. The French case study"
-        },
-        {
-          "id": "4626 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "In this research seminar, we will discuss the ongoing extraction of data from the administrative archives of Dudelange, relying on an automated transcription, with layout detection and the automated extraction of temporal and spatial information from these sources to create historical maps.\nThe city of Dudelange has entered a partnership with the C²DH, for which they shared their residential cards. These administrative forms contain information on the population movements in and out of the city. These are being scanned and transcribed.\nFor the transcription, the project uses Transkribus to restitute not only the textual content of these administrative forms but also their structure, e.g., for each field, a tag is attached. Secondly, for the blocs of texts, a script to detect place and time information is being developed internally. All these steps should lead up to the structuration before import of the data to be visualised on a map and open these rich collections for further analysis, on the history of migration, housing, public health etc.\nWe invite all interested persons to join the discussion on how to improve this pipeline and share other potential uses for the extracted material.\n \nWednesday, 18 October 2023\n14.00 - 15.00\nC²DH Open Space\n18 October 2023\n  Digital history & historiography\n  Archives  Data Science  Digital methods  Digital tools  Digitisation  Visualisation\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/analogue-forms-digital-maps-digitisation-pipeline-dudelange-archives-0",
-          "publishedOn": "2023-09-14T11:34:00.000Z",
-          "wordCount": 430,
-          "title": "From analogue forms to digital maps: digitisation pipeline of the Dudelange archives"
         }
       ]
     },
@@ -6430,24 +6442,6 @@
           "publishedOn": "2023-09-15T13:29:28.000Z",
           "wordCount": 548,
           "title": "Claire Carroll"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37073/",
-          "author": null,
-          "description": "Is that all there is? Digital Art as Spectacle Critical Reflection on Technology Speakers: Operator (Ania Catherine and Dejha Ti) Technology shapes contemporary life, changing what it means to be human and participate in society, while affecting desires, our relationships, and our bodies. The question is: whose needs, interests, and worldview is it representing? It",
-          "link": "https://www.cdh.cam.ac.uk/events/37073/",
-          "publishedOn": "2023-09-14T13:51:13.000Z",
-          "wordCount": 1037,
-          "title": "Is that all there is? Digital Art as <del>Spectacle</del> Critical Reflection on Technology | Operator (Ania Catherine and Dejha Ti)"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/yasmin-faghihi/",
-          "author": null,
-          "description": "Yasmin Faghihi is Head of the Near and Middle Eastern Department at Cambridge University Library. She is the editor of FIHRIST, the online union catalogue for manuscripts from the Islamicate world and chairs the Board of Directors. She has been leading on using and promoting standardized practices in text encoding for manuscript description and teaching",
-          "link": "https://www.cdh.cam.ac.uk/about/people/yasmin-faghihi/",
-          "publishedOn": "2023-09-14T08:12:38.000Z",
-          "wordCount": 504,
-          "title": "Yasmin Faghihi"
         }
       ]
     },

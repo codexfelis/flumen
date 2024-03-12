@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-03-11T08:22:20.335Z</updated>
+    <updated>2024-03-12T08:21:14.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wissenschaftlicher Projektmitarbeiter (m/w/d) im Montanhistorischen Dokumentationszentrum (montan.dok) des Deutschen Bergbau-Museums Bochum]]></title>
+        <id>node/948</id>
+        <link href="https://dig-hum.de/aktuelles/wissenschaftlicher-projektmitarbeiter-mwd-im-montanhistorischen-dokumentationszentrum"/>
+        <updated>2024-03-12T08:20:47.147Z</updated>
+        <summary type="html"><![CDATA[Im Deutschen Bergbau-Museum Bochum (DBM), Leibniz-Forschungsmuseum für Georessourcen der DMT-Gesellschaft für Lehre und Bildung mbH, ist im Montanhistorischen…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Engineer(s) (80-100%) Swiss Art Research Infrastructure (SARI) an der Universität Zürich]]></title>
+        <id>node/949</id>
+        <link href="https://dig-hum.de/aktuelles/data-engineers-80-100-swiss-art-research-infrastructure-sari-der-universit%C3%A4t-z%C3%BCrich"/>
+        <updated>2024-03-12T08:20:47.130Z</updated>
+        <summary type="html"><![CDATA[For the expansion of our fast growing team we are seeking to recruit one or more
+Data Engineer(s) (80-100%)
+to commence immediately or by agreement. The incumbent will be…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 424 – Non[us] Alma[n]sor[is] cu[m] an[n]otatio[n]ib[us] … (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18041</id>
+        <link href="https://schoenberginstitute.org/2024/03/11/manuscript-monday-ljs-424-nonus-almansoris-cum-annotationibus-video-orientation/"/>
+        <updated>2024-03-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 424, an extensive collection of medical texts compiled in 1500-1501 during medical studies in Bologna. Contents include copies of texts in the medical curriculum, the most substantial being al-Rāzī’s Nonus Almansoris and Avicenna’s Canon, and at leastContinue reading "Manuscript Monday: LJS 424 – Non[us] Alma[n]sor[is] cu[m] an[n]otatio[n]ib[us] … (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New ACH Deputy Secretary]]></title>
         <id>https://ach.org/?p=2556</id>
@@ -8978,59 +9010,6 @@ The ‘Accessing data’ section is going to be the most code heavy, as it’s f
 Comments and suggestions are welcome! You can add issues on GitHub, or use Hypothes.is to annotate the text.]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is that all there is? Digital Art as <del>Spectacle</del> Critical Reflection on Technology | Operator (Ania Catherine and Dejha Ti)]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37073/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37073/"/>
-        <updated>2023-09-14T13:51:13.000Z</updated>
-        <summary type="html"><![CDATA[Is that all there is? Digital Art as Spectacle Critical Reflection on Technology Speakers: Operator (Ania Catherine and Dejha Ti) Technology shapes contemporary life, changing what it means to be human and participate in society, while affecting desires, our relationships, and our bodies. The question is: whose needs, interests, and worldview is it representing? It]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What can you share about your DH project? – Survey Results.]]></title>
-        <id>http://digitalorientalist.com/?p=10891</id>
-        <link href="https://digitalorientalist.com/2023/09/14/what-can-you-share-about-your-dh-project-survey-results/"/>
-        <updated>2023-09-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is prepared together with Tilman Schalmey (Trier University). Right before going on summer hiatus, we launched a survey …]]></summary>
-        <author>
-            <name>Mariana Zorkina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From analogue forms to digital maps: digitisation pipeline of the Dudelange archives]]></title>
-        <id>4626 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/analogue-forms-digital-maps-digitisation-pipeline-dudelange-archives-0"/>
-        <updated>2023-09-14T11:34:00.000Z</updated>
-        <summary type="html"><![CDATA[In this research seminar, we will discuss the ongoing extraction of data from the administrative archives of Dudelange, relying on an automated transcription, with layout detection and the automated extraction of temporal and spatial information from these sources to create historical maps.
-The city of Dudelange has entered a partnership with the C²DH, for which they shared their residential cards. These administrative forms contain information on the population movements in and out of the city. These are being scanned and transcribed.
-For the transcription, the project uses Transkribus to restitute not only the textual content of these administrative forms but also their structure, e.g., for each field, a tag is attached. Secondly, for the blocs of texts, a script to detect place and time information is being developed internally. All these steps should lead up to the structuration before import of the data to be visualised on a map and open these rich collections for further analysis, on the history of migration, housing, public health etc.
-We invite all interested persons to join the discussion on how to improve this pipeline and share other potential uses for the extracted material.
- 
-Wednesday, 18 October 2023
-14.00 - 15.00
-C²DH Open Space
-18 October 2023
-  Digital history & historiography
-  Archives  Data Science  Digital methods  Digital tools  Digitisation  Visualisation
-  Research seminars
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yasmin Faghihi]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/yasmin-faghihi/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/yasmin-faghihi/"/>
-        <updated>2023-09-14T08:12:38.000Z</updated>
-        <summary type="html"><![CDATA[Yasmin Faghihi is Head of the Near and Middle Eastern Department at Cambridge University Library. She is the editor of FIHRIST, the online union catalogue for manuscripts from the Islamicate world and chairs the Board of Directors. She has been leading on using and promoting standardized practices in text encoding for manuscript description and teaching]]></summary>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>
