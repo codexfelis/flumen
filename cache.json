@@ -2260,6 +2260,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12105",
+          "author": "maddalena poli",
+          "description": "This is an account based on the articles linked throughout and at the end of the article. I thank Kevin …",
+          "link": "https://digitalorientalist.com/2024/03/12/the-shang-dynasty-has-an-unexpected-ally-ai/",
+          "publishedOn": "2024-03-12T13:00:00.000Z",
+          "wordCount": 4450,
+          "title": "The Shang Dynasty Has An Unexpected Ally: AI",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/02/screenshot-2024-02-03-at-5.03.28e280afpm.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12478",
           "author": "Agnes Sung",
           "description": "In Part One, we explored how digital technology has transformed Silk Road archaeology through the digitization of archaeological sites and …",
@@ -4548,15 +4558,6 @@
           "wordCount": 813,
           "title": "Trove newspapers in 2023",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2023-12-31-17-57-21.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2023/09/15/trove-data-guide.html",
-          "author": null,
-          "description": "I’m continuing to slog away at the Trove Data Guide (part of the ARDC’s HASS Community Data Lab) – dumping everything I know about Trove into a format that I hope will be useful for researchers.\nI’ve just finished a first pass through the section on accessing data from newspapers and gazettes, and it’s online if you want to have a look. There’s still lots of things to add, update, and reorganise, but getting the basic content of the section defined is a bit of a milestone, so I’ll allow myself a little moment of celebration. Yay!\n\r\nOf course it took longer than I expected, but that’s largely due to the fact that I was sketching out related sections as I went along. You’ll see lots of pages in the navigation that only contain a list of dot points, but they’ll get filled out over the next couple of months.\nThe ‘Accessing data’ section is going to be the most code heavy, as it’s focused on using the API to develop reusable methods for harvesting machine-readable data. Other sections, such as ‘Understanding search’ and ‘Collections and contexts’ will be more discursive, aimed at helping all Trove users better understand what Trove is and how it works.\nComments and suggestions are welcome! You can add issues on GitHub, or use Hypothes.is to annotate the text.",
-          "link": "https://updates.timsherratt.org/2023/09/15/trove-data-guide.html",
-          "publishedOn": "2023-09-15T04:53:20.000Z",
-          "wordCount": 288,
-          "title": "Trove Data Guide update – accessing data from newspapers and gazettes"
         }
       ]
     },
@@ -4571,6 +4572,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4963 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "What was the geography of newspaper texts' circulation in the nineteenth-century United States? Scholars understand that many of the texts—including news, fiction, poetry, information, and more—which circulated through the newspaper exchange system originated in urban publication centers on the east coast, such as New York, Boston, and Philadelphia, and that circulation often followed postal routes, train lines, or (eventually) telegraph wires. But the more granular dynamics of circulation have proven much harder to trace within massive newspaper archives, particularly the movement of texts among smaller urban and rural areas. Even less clear have been the ways that regional texts circulated from their places of origin back toward the metropole. Drawing on aggregated reprinting data from t…",
+          "link": "https://www.c2dh.uni.lu/events/dynamic-networks-19th-century-newspaper-reprinting",
+          "publishedOn": "2024-03-12T08:54:34.000Z",
+          "wordCount": 610,
+          "title": "The Dynamic Networks of 19th Century Newspaper Reprinting",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_handson_history-content-list-grey.png?itok=0EHc2jFn"
+        },
         {
           "id": "4958 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6433,15 +6444,6 @@
           "publishedOn": "2023-09-18T11:36:13.000Z",
           "wordCount": 438,
           "title": "Sophie Fordham"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/claire-carroll/",
-          "author": null,
-          "description": "Claire is interested in the aesthetics of interactive fiction (IF) and how they might connect to broader digital behaviours. More specifically, she’s exploring how the normalised usages of the second person voice and the present tense in IF create slippage for players’ immersion as they are simultaneously readers and characters, thus balancing and bouncing between",
-          "link": "https://www.cdh.cam.ac.uk/about/people/claire-carroll/",
-          "publishedOn": "2023-09-15T13:29:28.000Z",
-          "wordCount": 548,
-          "title": "Claire Carroll"
         }
       ]
     },

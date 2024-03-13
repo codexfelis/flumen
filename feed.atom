@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-03-12T08:21:14.465Z</updated>
+    <updated>2024-03-13T08:21:34.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Shang Dynasty Has An Unexpected Ally: AI]]></title>
+        <id>http://digitalorientalist.com/?p=12105</id>
+        <link href="https://digitalorientalist.com/2024/03/12/the-shang-dynasty-has-an-unexpected-ally-ai/"/>
+        <updated>2024-03-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is an account based on the articles linked throughout and at the end of the article. I thank Kevin …]]></summary>
+        <author>
+            <name>maddalena poli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dynamic Networks of 19th Century Newspaper Reprinting]]></title>
+        <id>4963 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/dynamic-networks-19th-century-newspaper-reprinting"/>
+        <updated>2024-03-12T08:54:34.000Z</updated>
+        <summary type="html"><![CDATA[What was the geography of newspaper texts' circulation in the nineteenth-century United States? Scholars understand that many of the texts—including news, fiction, poetry, information, and more—which circulated through the newspaper exchange system originated in urban publication centers on the east coast, such as New York, Boston, and Philadelphia, and that circulation often followed postal routes, train lines, or (eventually) telegraph wires. But the more granular dynamics of circulation have proven much harder to trace within massive newspaper archives, particularly the movement of texts among smaller urban and rural areas. Even less clear have been the ways that regional texts circulated from their places of origin back toward the metropole. Drawing on aggregated reprinting data from t…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wissenschaftlicher Projektmitarbeiter (m/w/d) im Montanhistorischen Dokumentationszentrum (montan.dok) des Deutschen Bergbau-Museums Bochum]]></title>
         <id>node/948</id>
@@ -8985,31 +9005,6 @@ C²DH Open Space (4th floor, Maison des Sciences humaines and online
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claire Carroll]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/claire-carroll/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/claire-carroll/"/>
-        <updated>2023-09-15T13:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Claire is interested in the aesthetics of interactive fiction (IF) and how they might connect to broader digital behaviours. More specifically, she’s exploring how the normalised usages of the second person voice and the present tense in IF create slippage for players’ immersion as they are simultaneously readers and characters, thus balancing and bouncing between]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trove Data Guide update – accessing data from newspapers and gazettes]]></title>
-        <id>http://wragge.micro.blog/2023/09/15/trove-data-guide.html</id>
-        <link href="https://updates.timsherratt.org/2023/09/15/trove-data-guide.html"/>
-        <updated>2023-09-15T04:53:20.000Z</updated>
-        <summary type="html"><![CDATA[I’m continuing to slog away at the Trove Data Guide (part of the ARDC’s HASS Community Data Lab) – dumping everything I know about Trove into a format that I hope will be useful for researchers.
-I’ve just finished a first pass through the section on accessing data from newspapers and gazettes, and it’s online if you want to have a look. There’s still lots of things to add, update, and reorganise, but getting the basic content of the section defined is a bit of a milestone, so I’ll allow myself a little moment of celebration. Yay!
-
-Of course it took longer than I expected, but that’s largely due to the fact that I was sketching out related sections as I went along. You’ll see lots of pages in the navigation that only contain a list of dot points, but they’ll get filled out over the next couple of months.
-The ‘Accessing data’ section is going to be the most code heavy, as it’s focused on using the API to develop reusable methods for harvesting machine-readable data. Other sections, such as ‘Understanding search’ and ‘Collections and contexts’ will be more discursive, aimed at helping all Trove users better understand what Trove is and how it works.
-Comments and suggestions are welcome! You can add issues on GitHub, or use Hypothes.is to annotate the text.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
