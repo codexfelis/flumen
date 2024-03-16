@@ -2290,6 +2290,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12432",
+          "author": "Zach Butler",
+          "description": "Introduction In my last few posts, I explored how Python could be used to do some codicological analysis of manuscripts …",
+          "link": "https://digitalorientalist.com/2024/03/15/criticus-a-tool-to-move-from-transcription-to-collation/",
+          "publishedOn": "2024-03-15T13:00:00.000Z",
+          "wordCount": 5309,
+          "title": "Criticus: A tool to move from transcription to collation",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/03/criticus.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12105",
           "author": "maddalena poli",
           "description": "This is an account based on the articles linked throughout and at the end of the article. I thank Kevin …",
@@ -3376,42 +3386,6 @@
           "publishedOn": "2023-09-19T12:07:57.000Z",
           "wordCount": 1162,
           "title": "LWM Digital Residency: An Etiquette For Minor Time Travel"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=3534",
-          "author": "Léllé Demertzi",
-          "description": "",
-          "link": "https://livingwithmachines.ac.uk/lwm-digital-residency-visualising-the-press-directories-dataset/?utm_source=rss&utm_medium=rss&utm_campaign=lwm-digital-residency-visualising-the-press-directories-dataset",
-          "publishedOn": "2023-09-18T12:22:30.000Z",
-          "wordCount": 245,
-          "title": "LWM Digital Residency: Visualising the Press Directories dataset"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=3531",
-          "author": "Léllé Demertzi",
-          "description": "My Living with Machines Digital Residency, which I carried out between May and July 2023, allowed me to update and publish an online guide to accessing and analysing newspaper data. The goal of the book is to make available an end-to-end set of instructions and tutorials which would allow researchers, with a variety of skill […]",
-          "link": "https://livingwithmachines.ac.uk/lwm-digital-residency-accessing-and-using-historical-newspaper-data/?utm_source=rss&utm_medium=rss&utm_campaign=lwm-digital-residency-accessing-and-using-historical-newspaper-data",
-          "publishedOn": "2023-09-18T12:02:30.000Z",
-          "wordCount": 1140,
-          "title": "LWM Digital Residency: Accessing and Using Historical Newspaper Data"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=3524",
-          "author": "Léllé Demertzi",
-          "description": "Living with Machines is an AHRC-funded project at The Alan Turing Institute (aka the Turing), bringing together academics from different disciplines, to answer research questions such as how did historical newspapers tell the political landscape, how were accidents in factories reported, how did road and settlement names change, how did people change occupations during the industrial revolution… Millions […]",
-          "link": "https://livingwithmachines.ac.uk/a-large-scale-ancestry-study/?utm_source=rss&utm_medium=rss&utm_campaign=a-large-scale-ancestry-study",
-          "publishedOn": "2023-09-18T11:01:44.000Z",
-          "wordCount": 1974,
-          "title": "A Large Scale Ancestry Study"
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=3516",
-          "author": "David Beavan",
-          "description": "Living with Machine’s AI Beyond STEM: digital skills to unleash the power of data science and AI for all online panel hit the small screens on 6 June 2023. This virtual gathering, hosted by the Turing and supported by Arts & Humanities Research Council, was a triumph, showcasing the interdisciplinary promise of technology and non- […]",
-          "link": "https://livingwithmachines.ac.uk/ai-beyond-stem-beyond-expectations/?utm_source=rss&utm_medium=rss&utm_campaign=ai-beyond-stem-beyond-expectations",
-          "publishedOn": "2023-09-18T10:50:28.000Z",
-          "wordCount": 517,
-          "title": "AI Beyond STEM beyond expectations"
         }
       ]
     },
@@ -3438,6 +3412,36 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1281 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, June 10, 2024 - 9:00am—Thursday, June 13, 2024 - 5:00pm\n\n\n\nUniversity of Pennsylvania\n\n\n\nDream Lab is a week-long digital humanities training opportunity hosted by the University of Pennsylvania and designed to help humanists become more confident and thoughtful users, creators, and critics of digital technology. There are several courses to choose from, each of which combines technology instruction with practical application. Dream Lab is open to everyone but has been designed especially to serve early-stage scholars aspiring to be teaching faculty, research librarians, and archivists.\nVisit the Dream Lab Website to learn more about the courses we’ll be offering in summer 2024. Click on the Eventbrite link on top of the course page to register.\nFeel free to reach out to the Price Lab with any questions: price-lab@sas.upenn.edu\nDream Lab is organized by the Price Lab for Digital Humanities and the Penn Libraries.\n \n\n\nSubtitle: \n\nA week long digital humanities training institute\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/dream-lab",
+          "publishedOn": "2024-03-15T14:18:01.000Z",
+          "wordCount": 417,
+          "title": "Dream Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "1280 at https://pricelab.sas.upenn.edu",
+          "author": "jenglish@upenn.edu",
+          "description": "Friday, April 5, 2024 (All day)—Sunday, April 7, 2024 (All day)\n\n\n\n \n\n\n\nAn International Symposium at the Price Lab for Digital Humanities, co-organized with the Section for Sociology of Literature, Uppsala University.\nThis symposium marks the rise in recent years of empirical reader studies: data-driven research into what, why, and how people read. The full emergence of this field has been a long time coming.  Literary scholars have never shown much interest in conducting empirical study of contemporary reading practices among ordinary, non-professional, non-academic people.  Janice Radway’s Reading the Romance (1984) is the glaring exception that proves the rule.  By far the most widely-cited study of amateur literary readers, Radway’s book has been more influential for its findings abou…",
+          "link": "https://pricelab.sas.upenn.edu/reader-studies-digital-age",
+          "publishedOn": "2024-03-15T12:23:37.000Z",
+          "wordCount": 808,
+          "title": "Reader Studies in the Digital Age",
+          "imageUrl": null
+        },
+        {
+          "id": "1279 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Simone   Murray\n\n\nFriday, April 5, 2024 - 5:00pm\n\n\n\nFisher Bennet Hall Faculty Lounge\n\n\n\nKeynote Lecture\nReader Studies in the Digital Age: Communtity, Diversity, and the Data of Literary Consumption\nAn international symposium sponsored by the Price Lab for Digital Humanities and the Section for Sociology of Literature, Uppsala University\n\n\nSubtitle: \n\nAffective Cross-Currents on Booktok\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/actively-seeking-emotional-devastation",
+          "publishedOn": "2024-03-13T20:45:56.000Z",
+          "wordCount": 334,
+          "title": "Actively Seeking Emotional Devastation",
+          "imageUrl": null
+        },
         {
           "id": "1279 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
@@ -4200,15 +4204,6 @@
           "publishedOn": "2023-09-25T13:00:00.000Z",
           "wordCount": 1179,
           "title": "Manuscript Monday: Ms. Codex 1670 – Flambeau des vrais rosecroix ou des sages. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17896",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1668, instructions on the magical use of the psalms divided into one section for each psalm. The text begins with an introduction explaining that the magic of the psalms may only be used by those withContinue reading \"Manuscript Monday: Ms. Codex 1668 – Cabale misterieuse de 150 pseaumes du Roy David (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/09/18/manuscript-monday-ms-codex-1668-cabale-misterieuse-de-150-pseaumes-du-roy-david-video-orientation/",
-          "publishedOn": "2023-09-18T13:00:00.000Z",
-          "wordCount": 1394,
-          "title": "Manuscript Monday: Ms. Codex 1668 – Cabale misterieuse de 150 pseaumes du Roy David (Video Orientation)"
         }
       ]
     },
@@ -4945,24 +4940,6 @@
           "publishedOn": "2023-09-19T11:20:04.000Z",
           "wordCount": 921,
           "title": "Perspectives on Uses and Users in the History of Office Buildings"
-        },
-        {
-          "id": "4630 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "In this talk, Cinderella Petz will evaluate chances and challenges when combining computational methods in historical research and address the limitations and implications of its epistemological and ontological changes. She will exemplify this on two case studies based on her doctoral research: the analysis of court records assessing the extent of political judiciary during the Dollfuß-/Schuschnigg-Regime, and the structural analysis of the influence relations of a Linked Open Data network of intellectuals. \nShe will propose to take the framework of modeling seriously for digital historical research in order to successfully tackle the research design, the structuring of data, and the evaluation of analysis. Furthermore, she stresses the importance of a multimodal literacy, as well as digital and computational competences as key for a successfull implementation of an embedded digital humanities framework.\n \nWednesday, 25 october 2023\n14.00 - 15.00\n\n\nC²DH\n Open Space (4th floor, Maison des Sciences humaines and online.\n25 October 2023\n  Digital hermeneutics  Digital methods\n  Hands-on History\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/embedded-digital-humanities-framework-historical-research",
-          "publishedOn": "2023-09-18T12:52:23.000Z",
-          "wordCount": 356,
-          "title": "An Embedded Digital Humanities Framework for Historical Research"
-        },
-        {
-          "id": "4629 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "In France, as elsewhere, the Covid 19 pandemic led to a large number of grassroots archiving projets. The aim of these initiatives was to collect the 'ordinary' memory of the event and thus help to build a collective memory that reflected a diversity of experiences. Using qualitative and quantitative data, this article examines the genesis of these initiatives in France and draws up the socio-economic profile of the participants, asking the question: to what extent did these operations reach the entire target population in an egalitarian manner? What kind of memory will be preserved over the long term by the archive centres, and who are the people whose words will go down in history?\nSarah Gensburger is a Full Professor of Sociology at the French National Center for Scientific Research - Sciences Po Paris. In her most recent work, she has been investigating the relationship between memory, public policies and neoliberalism. She is the author of a dozen of books among which, in the perspective of this talk, Memory on my doorstep. Chronicles of the Bataclan Neighborhood (Paris, 2015-2016), (Leuven University Press, 2019), with Gérôme Truc (eds.), Les Mémoriaux du 13 novembre (Ed. EHESS, 2020) and with Orli Fridman (eds.), The Covid-19 Pandemic and Memory. Remembrance, commemoration, and archiving in crisis (Palgrave, 2023). In 2021, she was elected President of the Memory Studies Association.\n \nWednesday, 27 September 2023\n14.00 - 15.00\nC²DH Open Space (4th floor, Maison des Sciences humaines and online\n27 September 2023\n  Archives  Data Science  Memory studies  Public History\n  Hands-on History\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/sociology-covid-memory-boom-french-case-study",
-          "publishedOn": "2023-09-18T09:36:44.000Z",
-          "wordCount": 463,
-          "title": "A sociology of the covid memory boom. The French case study"
         }
       ]
     },
@@ -6565,15 +6542,6 @@
           "publishedOn": "2023-09-20T12:33:08.000Z",
           "wordCount": 566,
           "title": "The Cultural Politics of Code reading group: an introduction to Critical Code Studies"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/sophie-fordham-2/",
-          "author": null,
-          "description": "Sophie joined CDH as Communications and Events Coordinator in September 2023. Prior to this role, she completed her PhD at Queen Mary University of London, where she specialised in Milton studies and taught medieval and early modern English Literature. She also has an MA in Shakespeare Studies from King’s College London. Outside of academia, she",
-          "link": "https://www.cdh.cam.ac.uk/about/people/sophie-fordham-2/",
-          "publishedOn": "2023-09-18T11:36:13.000Z",
-          "wordCount": 438,
-          "title": "Sophie Fordham"
         }
       ]
     },
