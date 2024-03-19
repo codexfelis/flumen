@@ -3136,15 +3136,6 @@
           "publishedOn": "2023-11-17T07:52:09.000Z",
           "wordCount": 130,
           "title": "About the chr23-paper category"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2017",
-          "author": "tatjana.scheffler",
-          "description": "CALL FOR ABSTRACTS\n“SUSTAINABLE ARCHIVING, EXPLOITATION, AND DISTRIBUTION OF DYNAMIC DATA FROM SOCIAL MEDIA - TWITTER AND BEYOND”\nConference from 19 - 20 March 2024 at the German National Library (Frankfurt am Main)\nDNB - Web archiving - Call for Papers: \"Sustainable archiving of social media data - Twitter and beyond\"\nSocial media is both a source of data for and the focus of a range of research approaches in the humanities, social sciences, IT, sciences and life sciences. The development of social media over time makes it a part of our digital cultural heritage, but the process for institutions to archive and document these in ways which fully reflect its detail and complexity is still only rudimentary. One key reason for this is the unique characteristics of the data in terms of media t…",
-          "link": "https://discourse.computational-humanities-research.org/t/call-for-abstracts-sustainable-archiving-exploitation-distribution-of-social-media-data/2017",
-          "publishedOn": "2023-09-21T07:33:46.000Z",
-          "wordCount": 697,
-          "title": "Call for Abstracts: Sustainable archiving, exploitation, distribution of social media data"
         }
       ]
     },
@@ -3789,6 +3780,16 @@
       "siteUrl": "https://review.gale.com",
       "articles": [
         {
+          "id": "https://review.gale.com/?p=15093",
+          "author": "Gale Ambassadors",
+          "description": "│By Olivia McDermott, Gale Ambassador at the University of Liverpool│ For a subject such as drama, primary sources are continuously overlooked. Much academic study preceding degree level tends to focus on the practical realm of theatre. Though it is an important aspect, this sometimes leads to contextual ideas being ignored. The Role of Primary Sources ... Read more\nThe post Going off Script: How <i>Gale Primary Sources</i> Can Be Used in Theatre Studies appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2024/03/19/how-gale-can-be-used-in-theatre-studies/",
+          "publishedOn": "2024-03-19T07:00:00.000Z",
+          "wordCount": 3051,
+          "title": "Going off Script: How Gale Primary Sources Can Be Used in Theatre Studies",
+          "imageUrl": "https://review.gale.com/wp-content/uploads/2024/03/pic-1.jpg"
+        },
+        {
           "id": "https://review.gale.com/?p=15014",
           "author": "Gale Review Team",
           "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ Introduction Continuing our exploration of the digital tools accessible through Gale Digital Scholar Lab’s intuitive interface, the Parts-of-Speech (PoS) tool enables the researcher to gain granular insights into the different parts of speech used in each document in a content set. This post will highlight the main ... Read more\nThe post Digging into Parts-of-Speech Tagging in Gale Digital Scholar Lab appeared first on The Gale Review.",
@@ -3871,6 +3872,16 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=18044",
+          "author": "simsmss",
+          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 425, a treatise on music or melody, adapted by the Persian scribe Ruhbānī from a treatise written for the Sultan Maḥmūd of the Bahamanids, a Deccani dynasty. The final pages in Hindi use Sanskrit terms and includeContinue reading \"Manuscript Monday: LJS 425 – Risālah-i Tawḍīḥ al-alḥān. = رساله توضيح الالحان. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/03/18/manuscript-monday-ljs-425-risalah-i-taw%e1%b8%8di%e1%b8%a5-al-al%e1%b8%a5an-%d8%b1%d8%b3%d8%a7%d9%84%d9%87-%d8%aa%d9%88%d8%b6%d9%8a%d8%ad-%d8%a7%d9%84%d8%a7%d9%84%d8%ad%d8%a7%d9%86-video-orien/",
+          "publishedOn": "2024-03-18T13:00:00.000Z",
+          "wordCount": 5298,
+          "title": "Manuscript Monday: LJS 425 – Risālah-i Tawḍīḥ al-alḥān. = رساله توضيح الالحان. (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=18041",
           "author": "simsmss",
@@ -4386,6 +4397,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/03/19/a-new-way.html",
+          "author": null,
+          "description": "About five years ago I created a collection of full-page editorial cartoons from The Bulletin, harvested from Trove. Through a process that might be politely described as ‘iterative’, I fiddled with an assortment of queries and methods until I had at least one cartoon from every issue published between 4 September 1886 and 17 September 1952 – 3,471 cartoons in total. The details of the collection and how I created it are available in the Trove periodicals section of the GLAM Workbench.\nLast night, as I was tidying up a new release of the Trove periodicals repository, I had a thought – why not put all of the details of the cartoons in a little database and make it available using Datasette-Lite for easy exploration? So I did.\nTry it now!\n\r\nOne of the coolest new features is that I’ve harvested the OCRd text from each page containing a cartoon and created a full-text index. This means you can find cartoons by searching for words in their captions! Other features include embedded thumbnail images and links to download high-resolution versions of each page image.\nIn creating the database, I realised there were a few problems with the original metadata (dodgy page numbers), so I’ve fixed that up as well. I’ve also moved the mega zip download of every image (over 60gb) from the unfortunately deceased CloudStor service to AWS.",
+          "link": "https://updates.timsherratt.org/2024/03/19/a-new-way.html",
+          "publishedOn": "2024-03-19T04:46:22.000Z",
+          "wordCount": 291,
+          "title": "A new way to explore editorial cartoons from *The Bulletin*",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-03-19-15-43-41.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/02/27/new-glam-workbench.html",
           "author": null,
           "description": "The GLAM Workbench has a brand new section aimed at helping you find and use government publications in Trove. Most of the GLAM Workbench’s existing sections focus on a particular resource format, or are related to one of Trove’s top-level categories. This didn’t quite work for government publications, as things like Parliamentary Papers are spread across multiple categories, and can encompass a variety of formats. So I thought a new section was the best way of bringing it all together.\nAt the moment the Trove Government section includes two notebooks and three pre-harvested datasets.\nHarvest parliament press releases from Trove\nHarvest details of Commonwealth Parliamentary Papers digitised in Trove\nDigitised Parliamentary Papers in Trove\nPress releases relating to refugees\nPress releases …",
@@ -4508,6 +4529,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "4969 at https://www.c2dh.uni.lu",
+          "author": "Gerben Zaagsma",
+          "description": "The conference aims to critically (re)assess the value(s) of the Digital for the field of Jewish Studies as it has been developed and discussed over the past ten years.\nIncluding all phases of research and dissemination from collecting and exploring to constructing and communicating, we will discuss the benefits and pitfalls of the Digital in general and for the field of Jewish Studies in particular. This can be done both from a retrospective—what has worked well and which promises have and have not yet been fulfilled—and from a forward-looking perspective—highlighting directions that might be worth pursuing. In doing so, we take up the recent critical turn in DH and apply it to the field of Jewish Studies. The event includes a hands-on-hackathon.\nThe full program can be consulted here. \nThe conference and Hackathon is generously supported by the European Association for Jewish Studies (EAJS) Conference Grant Programme in European Jewish Studies.\nPlease register by 31 March 2024 at: https://forms.gle/7RE5yNmdESQddofx7\nPlease note that registration for the conference and the hackathon will take place separately. Please indicate in the form for which event/days you would like to register for (you can also register for both). Please also note that we only have a limited number of places. Places will be allocated in the order in which registrations are received.\nFor questions, please contact: tagungen-mmz@uni-potsdam.de\n10 April 2024 to 12 April 2024\n  Contemporary history of Europe  Digital history & historiography\n  Building a Jewish studies and digital humanities online portal\n  Digital editions  Digital hermeneutics  Digital methods  Digital tools  Jewish history\n  Conferences\n  Published  \nDHJewish conference Potsdam 2024",
+          "link": "https://www.c2dh.uni.lu/events/value-digital-dhjewish-conference-and-hackathon",
+          "publishedOn": "2024-03-18T13:13:33.000Z",
+          "wordCount": 566,
+          "title": "The Value of the Digital. #DHJewish Conference and Hackathon",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/dhjewish-potsdam2024.jpg?itok=8OGcA7ov"
+        },
         {
           "id": "4963 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6370,51 +6401,6 @@
           "publishedOn": "2023-09-25T08:20:38.000Z",
           "wordCount": 460,
           "title": "Maciej Pawlikowski"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37114/",
-          "author": null,
-          "description": "Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, and short invited talks and presentations on topics the group decides.",
-          "link": "https://www.cdh.cam.ac.uk/events/37114/",
-          "publishedOn": "2023-09-21T12:57:19.000Z",
-          "wordCount": 425,
-          "title": "DH Teaching Forum"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37116/",
-          "author": null,
-          "description": "Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, and short invited talks and presentations on topics the group decides.",
-          "link": "https://www.cdh.cam.ac.uk/events/37116/",
-          "publishedOn": "2023-09-21T12:47:49.000Z",
-          "wordCount": 425,
-          "title": "DH Teaching Forum"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/online-cultural-heritage-data-school-applications-close-sunday-1-october/",
-          "author": null,
-          "description": "Applications for this year's online Cultural Heritage Data School (6-14 November 2023) close this Sunday 1 October. The Cultural Heritage Data School (CHDS), led by Cambridge Digital Humanities, is an online intensive teaching programme which aims to bring together participants from the wider Galleries, Libraries, Archives and Museums (GLAM) sector and academia to explore the",
-          "link": "https://www.cdh.cam.ac.uk/about/news/online-cultural-heritage-data-school-applications-close-sunday-1-october/",
-          "publishedOn": "2023-09-21T12:41:03.000Z",
-          "wordCount": 489,
-          "title": "Online Cultural Heritage Data School: applications close Sunday 1 October"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37108/",
-          "author": null,
-          "description": "Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, and short invited talks and presentations on topics the group decides.",
-          "link": "https://www.cdh.cam.ac.uk/events/37108/",
-          "publishedOn": "2023-09-21T12:39:16.000Z",
-          "wordCount": 425,
-          "title": "DH Teaching Forum"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/33340/",
-          "author": null,
-          "description": "This online public event accompanies the application-only Cultural Heritage Data School at the University of Cambridge. It will provide a space for reflection and discussion on how collection-holding institutions and researchers deal with the challenges of presenting archival materials from collections formed by or about colonial institutions. This discussion of the colonial past and present",
-          "link": "https://www.cdh.cam.ac.uk/events/33340/",
-          "publishedOn": "2023-09-21T09:41:54.000Z",
-          "wordCount": 626,
-          "title": "(Anti)Colonial Archives in the Digital Age"
         }
       ]
     },

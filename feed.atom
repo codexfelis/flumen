@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-03-18T08:21:42.176Z</updated>
+    <updated>2024-03-19T08:21:20.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Going off Script: How Gale Primary Sources Can Be Used in Theatre Studies]]></title>
+        <id>https://review.gale.com/?p=15093</id>
+        <link href="https://review.gale.com/2024/03/19/how-gale-can-be-used-in-theatre-studies/"/>
+        <updated>2024-03-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[│By Olivia McDermott, Gale Ambassador at the University of Liverpool│ For a subject such as drama, primary sources are continuously overlooked. Much academic study preceding degree level tends to focus on the practical realm of theatre. Though it is an important aspect, this sometimes leads to contextual ideas being ignored. The Role of Primary Sources ... Read more
+The post Going off Script: How <i>Gale Primary Sources</i> Can Be Used in Theatre Studies appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Ambassadors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new way to explore editorial cartoons from *The Bulletin*]]></title>
+        <id>http://wragge.micro.blog/2024/03/19/a-new-way.html</id>
+        <link href="https://updates.timsherratt.org/2024/03/19/a-new-way.html"/>
+        <updated>2024-03-19T04:46:22.000Z</updated>
+        <summary type="html"><![CDATA[About five years ago I created a collection of full-page editorial cartoons from The Bulletin, harvested from Trove. Through a process that might be politely described as ‘iterative’, I fiddled with an assortment of queries and methods until I had at least one cartoon from every issue published between 4 September 1886 and 17 September 1952 – 3,471 cartoons in total. The details of the collection and how I created it are available in the Trove periodicals section of the GLAM Workbench.
+Last night, as I was tidying up a new release of the Trove periodicals repository, I had a thought – why not put all of the details of the cartoons in a little database and make it available using Datasette-Lite for easy exploration? So I did.
+Try it now!
+
+One of the coolest new features is that I’ve harvested the OCRd text from each page containing a cartoon and created a full-text index. This means you can find cartoons by searching for words in their captions! Other features include embedded thumbnail images and links to download high-resolution versions of each page image.
+In creating the database, I realised there were a few problems with the original metadata (dodgy page numbers), so I’ve fixed that up as well. I’ve also moved the mega zip download of every image (over 60gb) from the unfortunately deceased CloudStor service to AWS.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value of the Digital. #DHJewish Conference and Hackathon]]></title>
+        <id>4969 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/value-digital-dhjewish-conference-and-hackathon"/>
+        <updated>2024-03-18T13:13:33.000Z</updated>
+        <summary type="html"><![CDATA[The conference aims to critically (re)assess the value(s) of the Digital for the field of Jewish Studies as it has been developed and discussed over the past ten years.
+Including all phases of research and dissemination from collecting and exploring to constructing and communicating, we will discuss the benefits and pitfalls of the Digital in general and for the field of Jewish Studies in particular. This can be done both from a retrospective—what has worked well and which promises have and have not yet been fulfilled—and from a forward-looking perspective—highlighting directions that might be worth pursuing. In doing so, we take up the recent critical turn in DH and apply it to the field of Jewish Studies. The event includes a hands-on-hackathon.
+The full program can be consulted here. 
+The conference and Hackathon is generously supported by the European Association for Jewish Studies (EAJS) Conference Grant Programme in European Jewish Studies.
+Please register by 31 March 2024 at: https://forms.gle/7RE5yNmdESQddofx7
+Please note that registration for the conference and the hackathon will take place separately. Please indicate in the form for which event/days you would like to register for (you can also register for both). Please also note that we only have a limited number of places. Places will be allocated in the order in which registrations are received.
+For questions, please contact: tagungen-mmz@uni-potsdam.de
+10 April 2024 to 12 April 2024
+  Contemporary history of Europe  Digital history & historiography
+  Building a Jewish studies and digital humanities online portal
+  Digital editions  Digital hermeneutics  Digital methods  Digital tools  Jewish history
+  Conferences
+  Published  
+DHJewish conference Potsdam 2024]]></summary>
+        <author>
+            <name>Gerben Zaagsma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 425 – Risālah-i Tawḍīḥ al-alḥān. = رساله توضيح الالحان. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18044</id>
+        <link href="https://schoenberginstitute.org/2024/03/18/manuscript-monday-ljs-425-risalah-i-taw%e1%b8%8di%e1%b8%a5-al-al%e1%b8%a5an-%d8%b1%d8%b3%d8%a7%d9%84%d9%87-%d8%aa%d9%88%d8%b6%d9%8a%d8%ad-%d8%a7%d9%84%d8%a7%d9%84%d8%ad%d8%a7%d9%86-video-orien/"/>
+        <updated>2024-03-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 425, a treatise on music or melody, adapted by the Persian scribe Ruhbānī from a treatise written for the Sultan Maḥmūd of the Bahamanids, a Deccani dynasty. The final pages in Hindi use Sanskrit terms and includeContinue reading "Manuscript Monday: LJS 425 – Risālah-i Tawḍīḥ al-alḥān. = رساله توضيح الالحان. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dream Lab]]></title>
         <id>1281 at https://pricelab.sas.upenn.edu</id>
@@ -8845,46 +8904,6 @@ The post Get to Know Our Research Projects – EOSC Future appeared first on Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DH Teaching Forum]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37114/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37114/"/>
-        <updated>2023-09-21T12:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, and short invited talks and presentations on topics the group decides.]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DH Teaching Forum]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37116/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37116/"/>
-        <updated>2023-09-21T12:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, and short invited talks and presentations on topics the group decides.]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Cultural Heritage Data School: applications close Sunday 1 October]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/online-cultural-heritage-data-school-applications-close-sunday-1-october/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/online-cultural-heritage-data-school-applications-close-sunday-1-october/"/>
-        <updated>2023-09-21T12:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Applications for this year's online Cultural Heritage Data School (6-14 November 2023) close this Sunday 1 October. The Cultural Heritage Data School (CHDS), led by Cambridge Digital Humanities, is an online intensive teaching programme which aims to bring together participants from the wider Galleries, Libraries, Archives and Museums (GLAM) sector and academia to explore the]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DH Teaching Forum]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37108/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37108/"/>
-        <updated>2023-09-21T12:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, and short invited talks and presentations on topics the group decides.]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Training: Open Science Discovery for PhD Researchers]]></title>
         <id>https://scholarlytales.hcommons.org/?p=1946</id>
         <link href="https://scholarlytales.hcommons.org/2023/09/21/training-open-science-discovery-for-phd-researchers/"/>
@@ -8894,30 +8913,6 @@ The post Get to Know Our Research Projects – EOSC Future appeared first on Dig
 Continue reading “Training: Open Science Discovery for PhD Researchers”…]]></summary>
         <author>
             <name>Rebecca Burke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Anti)Colonial Archives in the Digital Age]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/33340/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/33340/"/>
-        <updated>2023-09-21T09:41:54.000Z</updated>
-        <summary type="html"><![CDATA[This online public event accompanies the application-only Cultural Heritage Data School at the University of Cambridge. It will provide a space for reflection and discussion on how collection-holding institutions and researchers deal with the challenges of presenting archival materials from collections formed by or about colonial institutions. This discussion of the colonial past and present]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Abstracts: Sustainable archiving, exploitation, distribution of social media data]]></title>
-        <id>discourse.computational-humanities-research.org-topic-2017</id>
-        <link href="https://discourse.computational-humanities-research.org/t/call-for-abstracts-sustainable-archiving-exploitation-distribution-of-social-media-data/2017"/>
-        <updated>2023-09-21T07:33:46.000Z</updated>
-        <summary type="html"><![CDATA[CALL FOR ABSTRACTS
-“SUSTAINABLE ARCHIVING, EXPLOITATION, AND DISTRIBUTION OF DYNAMIC DATA FROM SOCIAL MEDIA - TWITTER AND BEYOND”
-Conference from 19 - 20 March 2024 at the German National Library (Frankfurt am Main)
-DNB - Web archiving - Call for Papers: "Sustainable archiving of social media data - Twitter and beyond"
-Social media is both a source of data for and the focus of a range of research approaches in the humanities, social sciences, IT, sciences and life sciences. The development of social media over time makes it a part of our digital cultural heritage, but the process for institutions to archive and document these in ways which fully reflect its detail and complexity is still only rudimentary. One key reason for this is the unique characteristics of the data in terms of media t…]]></summary>
-        <author>
-            <name>tatjana.scheffler</name>
         </author>
     </entry>
     <entry>
