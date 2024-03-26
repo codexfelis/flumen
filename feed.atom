@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-03-25T08:23:28.797Z</updated>
+    <updated>2024-03-26T08:21:37.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More tools and data for working with Trove's digitised periodicals]]></title>
+        <id>http://wragge.micro.blog/2024/03/26/more-tools-and.html</id>
+        <link href="https://updates.timsherratt.org/2024/03/26/more-tools-and.html"/>
+        <updated>2024-03-26T04:35:02.000Z</updated>
+        <summary type="html"><![CDATA[The Trove Periodicals section of the GLAM Workbench has been updated! Some changes were necessary to make use of version 3 of the Trove API, but I’ve also taken the chance to reorganise things a bit – starting with the name. This section used to be called ‘Trove journals’, reflecting the naming of Trove’s ‘Journals’ zone. But zones have gone, and periodicals are now spread across multiple categories, so I thought a name change was necessary to better reflect the type of content being examined.
+What periodicals have been digitised?
+It’s surprising difficult to find out what periodicals have actually been digitised in Trove. There’s no straightforward list of titles as there is in the newspapers category. Over the years I’ve created a variety of lists and tools to try and overcome this. I’m …]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New DRI Member Case Study – Royal Irish Academy Publications]]></title>
+        <id>https://dri.ie/news/case-studies-launch-copy/</id>
+        <link href="https://dri.ie/news/case-studies-ria-launch/"/>
+        <updated>2024-03-25T15:33:06.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to publish another information brochure in our Case Studies series. These studies offer an in-depth, detailed examination of some of the challenges facing our members and community. The case studies also illustrate the benefits afforded by membership of DRI, as well as additional support and training opportunities. In […]
+The post New DRI Member Case Study – Royal Irish Academy Publications appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Maeve O'Brien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 419 – Herbal (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18046</id>
+        <link href="https://schoenberginstitute.org/2024/03/25/manuscript-monday-ljs-419-herbal-video-orientation/"/>
+        <updated>2024-03-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 419, an illustrated herbal with three styles of illustration: one group of illustrations following medieval conventions, sometimes with fantastic elements such as human faces, on recto pages through most of the manuscript; another, rougher but more generallyContinue reading "Manuscript Monday: LJS 419 – Herbal (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Projektstelle für die Bereiche Open Educational Ressources und Kompetenztransfer Hochschulen-GLAM-Einrichtungen]]></title>
         <id>node/951</id>
@@ -246,6 +279,38 @@ Bien qu’aucun journal anarchiste en italien n’y ait vu le jour, le cas du Lu
         <summary type="html"><![CDATA[Are you using AI methods in your research, or considering doing so? Would you like to meet other researchers exploring the challenges and possibilities of deploying AI to answer humanities or social science research questions? Do you need practical advice and guidance on proposal writing, software, hardware, data collection methods, data security, privacy and compliance,]]></summary>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two CLARIN B-centres recertified: PORTULAN CLARIN and LINDAT-CLARIAH/CZ]]></title>
+        <id>6048 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/two-clarin-b-centres-recertified-portulan-clarin-and-lindat-clariahcz"/>
+        <updated>2024-03-21T09:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Two CLARIN B-centres recertified: PORTULAN CLARIN and LINDAT-CLARIAH/CZ
+
+            
+We are pleased to announce that two B-centres have been successfully re-certified: PORTULAN CLARIN and LINDAT-CLARIAH/CZ. Congratulations to our colleagues in Portugal and Czechia!
+ 
+  
+
+
+      
+
+PORTULAN CLARIN is a research infrastructure for the science and technology of Language, belonging to the Portuguese National Roadmap of Research Infrastructures of Strategic Relevance. PORTULAN CLARIN has been a B-centre since 2018 and was successfully re-certified in March 2024. The mission of PORTULAN CLARIN is to support researchers, innovators, citizen scientists, students, language professionals and users in general whose activities rely on research results from the science and technology of language by means of the distribution of scientific resources, the supplying of technological support, the provision of consultancy, and the fostering of scientific dissemination. Read more about PORTULAN CLARIN.
+ 
+  
+
+
+
+      
+
+The LINDAT/CLARIAH-CZ Centre for Language Research Infrastructure in Czech has been a B-centre since 2014, and was successfully re-certified in March 2024. The centre provides technical background and assistance to institutions or researchers who want to share, create and modernise their tools and data used for research in linguistics and related research fields. The project also provides an open digital repository and archive open to all academics who want their work to be preserved, promoted and made widely available. Read more about LINDAT-CLARIAH/CZ.
+ 
+
+      Christine Dijkstra
+ 21 March 2024]]></summary>
+        <author>
+            <name>Christine Dijkstra</name>
         </author>
     </entry>
     <entry>
