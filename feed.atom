@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-04-01T08:23:57.300Z</updated>
+    <updated>2024-04-02T08:21:48.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Navigating the Western Movement of Artifacts: Mapping the Looted Benin Bronzes]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=8810</id>
+        <link href="https://sites.temple.edu/tudsc/2024/04/01/navigating-the-western-movement-of-artifacts-mapping-the-looted-benin-bronzes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=navigating-the-western-movement-of-artifacts-mapping-the-looted-benin-bronzes"/>
+        <updated>2024-04-01T16:17:44.000Z</updated>
+        <summary type="html"><![CDATA[By Mikayla Brown My journey into the Benin Bronzes began with a deep-seated curiosity about their tumultuous colonial history. I became captivated by the story of the Benin Bronzes – a collection...]]></summary>
+        <author>
+            <name>Mikayla Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 426 – [al-Kullīyāt]. = [الكليات]. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18086</id>
+        <link href="https://schoenberginstitute.org/2024/04/01/manuscript-monday-ljs-426-al-kulliyat-%d8%a7%d9%84%d9%83%d9%84%d9%8a%d8%a7%d8%aa-video-orientation/"/>
+        <updated>2024-04-01T12:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, SIMS Curator for Digital Humanities at the University of Pennsylvania Library, presents a video orientation to the University of Pennsylvania Library’s LJS 426, the first book of Avicenna’s medical encyclopedia, comprising an introduction to general knowledge of medicine, anatomy, temperament, and the effect of environment on health and disease. Frequent marginal annotations, someContinue reading "Manuscript Monday: LJS 426 – [al-Kullīyāt]. = [الكليات]. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Video Games and the Humanities: A Call for Scholarly Games]]></title>
         <id>http://digitalorientalist.com/?p=12552</id>
@@ -987,6 +1007,16 @@ This symposium marks the rise in recent years of empirical reader studies: data-
         <link href="https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/"/>
         <updated>2024-03-14T14:23:13.000Z</updated>
         <summary type="html"><![CDATA[Anne Alexander has been Director of Learning at CDH since its foundation. She was previously Co-ordinator of the Cambridge Digital Humanities Network. Her research interests include ethics of big data, activist media in the Middle East and the political economy of the Internet. She is a member of the Data Ethics Group and the Humanities and]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Eleanor Dare]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/eleanor-dare/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/eleanor-dare/"/>
+        <updated>2024-03-14T11:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Dr Eleanor Dare is a CDH Methods Fellow and Associate Researcher for the Forensic AI project lead by Dr Leonardo Impett. The aim of the project is to identify, analyse, and mitigate cultural biases within AI-powered computer vision systems by employing methodologies from the digital humanities, digital art history, and digital visual studies. Eleanor was]]></summary>
         <author>
             <name>CDH</name>
         </author>
@@ -8944,253 +8974,6 @@ October, 2023—October, 2024]]></summary>
         <summary type="html"><![CDATA[This is a guest post by Ruth Mostern, University of Pittsburgh@ruthmostern Like all terms for disciplines and methodologies, the digital …]]></summary>
         <author>
             <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RECOMMENDED: On Making in the Digital Humanities]]></title>
-        <id>https://dhandlib.org/?p=131676</id>
-        <link href="https://dhandlib.org/2023/10/05/recommended-on-making-in-the-digital-humanities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recommended-on-making-in-the-digital-humanities"/>
-        <updated>2023-10-05T16:34:25.000Z</updated>
-        <summary type="html"><![CDATA[UCL Press has published an open-access volume focusing on DH’s processes as “making.” On Making in the Digital Humanities: The scholarship of digital humanities development in honour of John Bradley is an homage to John Bradley’s work in DH and “assembles a group of well-known, experienced and emerging scholars in the digital humanities to reflect ...read more]]></summary>
-        <author>
-            <name>Hillary Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RECOMMENDED: Finding the Right Platform]]></title>
-        <id>https://dhandlib.org/?p=131678</id>
-        <link href="https://dhandlib.org/2023/10/05/recommended-finding-the-right-platform/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recommended-finding-the-right-platform"/>
-        <updated>2023-10-05T16:32:26.000Z</updated>
-        <summary type="html"><![CDATA[“Finding the Right Platform,” by Cheryl E. Ball, Corinne Guimont, and Matt Vaughn compares purposes and features of 10 different academy-owned, open-source publishing platforms, including Fulcrum, Humanities Commons, Janeway, Manifold, Mukrtu, Omeka, Open Journal Systems (OJS), Pressbooks, PubPub, and Scalar. The piece is meant to help researchers, publishers, and librarians answer questions about their projects ...read more]]></summary>
-        <author>
-            <name>Hillary Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESOURCE: Clustering and Visualising Documents using Word Embeddings]]></title>
-        <id>https://dhandlib.org/?p=131725</id>
-        <link href="https://dhandlib.org/2023/10/05/resource-clustering-and-visualising-documents-using-word-embeddings/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resource-clustering-and-visualising-documents-using-word-embeddings"/>
-        <updated>2023-10-05T16:30:53.000Z</updated>
-        <summary type="html"><![CDATA[The Programming Historian recently published a new lesson, Clustering and Visualising Documents using Word Embeddings. Developed by Jonathan Reades and Jennie Williams, this lesson “uses word embeddings and clustering algorithms in Python to identify groups of similar documents in a corpus of approximately 9,000 academic abstracts. It will teach you the basics of dimensionality reduction ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESOURCE: Digital Humanities Community Bluesky Invite Codes]]></title>
-        <id>https://dhandlib.org/?p=131723</id>
-        <link href="https://dhandlib.org/2023/10/05/resource-digital-humanities-community-bluesky-invite-codes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resource-digital-humanities-community-bluesky-invite-codes"/>
-        <updated>2023-10-05T16:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Given the ongoing deterioration of Twitter as a viable space for the sharing of digital humanities work, the Association for Computers and the Humanities has begun exploring alternatives. Bluesky social has the makings of a viable alternative, but it requires an invitation to join. This form was created to facilitate the sharing of these invitation ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Digital Commonwealth 18th Annual Conference]]></title>
-        <id>https://dhandlib.org/?p=131829</id>
-        <link href="https://dhandlib.org/2023/10/05/cfp-digital-commonwealth-18th-annual-conference/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-digital-commonwealth-18th-annual-conference"/>
-        <updated>2023-10-05T16:27:16.000Z</updated>
-        <summary type="html"><![CDATA[From the call: The Digital Commonwealth’s 18th Annual Conference will be held online via Zoom on Tuesday April 30, 2024 from 9:00 AM to 4:00 PM US East Coast Time. Digital Commonwealth’s Conference Committee invites interested speakers to submit abstracts of 1 page or less in length for presentations centered around the theme: Building Connections: ...read more]]></summary>
-        <author>
-            <name>Hillary Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Comics as Computation]]></title>
-        <id>https://dhandlib.org/?p=131727</id>
-        <link href="https://dhandlib.org/2023/10/05/cfp-comics-as-computation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-comics-as-computation"/>
-        <updated>2023-10-05T16:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Ilan Manouach (FNRS, ULiège) & Benoît Crucifix (KU Leuven, KBR) announce a call for submissions to Comics as Computation: An uninterrupted thread of operational intensity. From the call for proposals: This collective volume aims to provide a historical understanding of the intensification of automation in the comics industry, leading to today’s integration of algorithmic tools ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUNDING/OPPORTUNITY: 2023-2024 VRA Project Grant Call for Applications]]></title>
-        <id>https://dhandlib.org/?p=131729</id>
-        <link href="https://dhandlib.org/2023/10/05/funding-opportunity-2023-2024-vra-project-grant-call-for-applications/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=funding-opportunity-2023-2024-vra-project-grant-call-for-applications"/>
-        <updated>2023-10-05T16:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Visual Resources Association (VRA) announced the call for project grant applications for 2023-2024. From the VRA Project Grant description: The Visual Resources Association Project Grant awards up to $3,000 to support projects in the field of visual resources and image management. The project must be completed within one year from the time the grant is ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall 2023 Events]]></title>
-        <id>https://dh.rutgers.edu/?p=78057</id>
-        <link href="https://dh.rutgers.edu/f23-events/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=f23-events"/>
-        <updated>2023-10-05T16:14:09.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to our Fall 2023 roster of digital humanities workshops and events. Details and registration links are posted below. Alternatively, please go to dh.rutgers.edu/calendar or to libcal.rutgers.edu/calendar/nblworkshops to explore a wider range of offerings from the Libraries, including data science and qualitative data streams. Reserve your spot to receive Zoom links and do-ahead software downloads and workshop materials. Workshops #BlkDH: Into to Timeline JS Tuesday, October 17, 12:00-1:30 p.m., online (Instructor: Tajah Ebram) Register Repeat workshop TBA TimelineJS is an open-source tool for building visually rich, interactive timelines. This workshop will offer an overview of how to generate a timeline using Timeline JS and how]]></summary>
-        <author>
-            <name>Francesca Giannetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUNDING/OPPORTUNITY: Digitizing Hidden Collections]]></title>
-        <id>https://dhandlib.org/?p=131733</id>
-        <link href="https://dhandlib.org/2023/10/05/funding-opportunity-digitizing-hidden-collections/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=funding-opportunity-digitizing-hidden-collections"/>
-        <updated>2023-10-05T16:13:26.000Z</updated>
-        <summary type="html"><![CDATA[The Council on Library and Information Resources (CLIR) announced its call for proposals for the 2023-2024 cycle of Digitizing Hidden Collections: Amplifying Unheard Voices. From the call: Launched in 2021, the program is designed to support efforts to digitize materials that deepen public understanding of the histories of people of color and other communities and ...read more]]></summary>
-        <author>
-            <name>Pamella Lach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Digital Scholarship Coordinator, Illinois State University]]></title>
-        <id>https://dhandlib.org/?p=131680</id>
-        <link href="https://dhandlib.org/2023/10/05/job-digital-scholarship-coordinator-illinois-state-university/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-coordinator-illinois-state-university"/>
-        <updated>2023-10-05T16:10:23.000Z</updated>
-        <summary type="html"><![CDATA[From the posting: The Digital Scholarship Coordinator is responsible for facilitating and supporting faculty and student digital research projects, ranging from short and long-term consultations (e.g., helping to identify appropriate methods, tools, and training resources) to more intensive, hands-on assistance with technology, project design, and project management. For faculty, they offer a range of teaching ...read more]]></summary>
-        <author>
-            <name>Hillary Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Natural Language Processing Specialist, University of Florida]]></title>
-        <id>https://dhandlib.org/?p=131682</id>
-        <link href="https://dhandlib.org/2023/10/05/job-natural-language-processing-specialist-university-of-florida-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-natural-language-processing-specialist-university-of-florida-2"/>
-        <updated>2023-10-05T16:08:10.000Z</updated>
-        <summary type="html"><![CDATA[From the posting: The University of Florida, in Gainesville, Florida is seeking a Natural Language Processing Specialist / Assistant University Librarian for the Department of Academic Research Consulting and Services (ARCS). Duties and responsibilities include: Providing instruction (teaching), consultation, and project work in Natural Language Processing (NLP), text mining, predictive text, and related areas; Collaborating ...read more]]></summary>
-        <author>
-            <name>Hillary Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Librarian/Archivist for Digital Programs, Harvard Radcliffe Institute]]></title>
-        <id>https://dhandlib.org/?p=131684</id>
-        <link href="https://dhandlib.org/2023/10/05/job-librarian-archivist-for-digital-programs-harvard-radcliffe-institute/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-librarian-archivist-for-digital-programs-harvard-radcliffe-institute"/>
-        <updated>2023-10-05T16:07:10.000Z</updated>
-        <summary type="html"><![CDATA[From the posting:  Reporting to the Head of Digital Collection and Services, the Librarian/Archivist for Digital Programs has shared responsibility for technical program management, digitization and the enabling of data integration across local and external data sources in the Digital Collections and Services unit. The Schlesinger Library contributes to one of the largest shares of ...read more]]></summary>
-        <author>
-            <name>Hillary Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orla Delaney]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/orla-delaney/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/orla-delaney/"/>
-        <updated>2023-10-05T14:36:02.000Z</updated>
-        <summary type="html"><![CDATA[Orla Delaney is a second year PhD student in the Faculty of English at Cambridge; she holds an undergraduate degree in English Literature and German from Trinity College Dublin and an MSc in Digital Humanities from UCL. Orla's MSc research focused on the Galton Collection of materials from UCL’s historic eugenics lab, using creative technological]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leah Brainerd]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/leah-brainerd/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/leah-brainerd/"/>
-        <updated>2023-10-05T14:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Leah Brainerd is a PhD student in the Department of Archaeology with the ERC Encounter Project and is supervised by Enrico Crema, University of Cambridge, and Akihiro Yoshida, University of Kagoshima. She holds an MSc in Computational Archaeology from University College London and a BA from McGill University. Leah has experience in GIS, statistics, and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estara Arrant]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/estara-arrant/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/estara-arrant/"/>
-        <updated>2023-10-05T14:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Dr Estara Arrant is a Postdoctoral Research Associate based at the Cambridge University Library in the Taylor-Schechter Genizah Research Unit. She works on the ERC-funded project TEXTEVOLVE: A New Approach to the Evolution of Texts Based on the Manuscripts of the Targums, where she analyses the history of Aramaic translations of the Bible using bioinformatic]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dr Andrea Kocsis]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/andrea-kocsis/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/andrea-kocsis/"/>
-        <updated>2023-10-05T14:22:26.000Z</updated>
-        <summary type="html"><![CDATA[Andrea comes from an interdisciplinary and international background. Before finding her path in digital humanities, she graduated in Communications, Archaeology, History and Geography and collected these degrees in Budapest, Prague, and Paris. She received her Mphil and PhD in Heritage Studies from the University of Cambridge. Her doctoral research focused on the impact the national]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dita N. Love]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/dita-n-love/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/dita-n-love/"/>
-        <updated>2023-10-05T14:21:18.000Z</updated>
-        <summary type="html"><![CDATA[Dita N. Love is an interdisciplinary social scientist and education researcher researching intersections across youth education, creative arts and digital humanities, and abolitionist social justice. As an ESRC Postdoctoral Research Fellow, she is working on a spoken word poetry project at the Faculty of Education, University of Cambridge where she completed her doctorate (Gates Cambridge]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Henk van den Heuvel Joins the CLARIN ERIC Board of Directors]]></title>
-        <id>5962 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/henk-van-den-heuvel-joins-clarin-eric-board-directors"/>
-        <updated>2023-10-05T14:13:48.000Z</updated>
-        <summary type="html"><![CDATA[Henk van den Heuvel Joins the CLARIN ERIC Board of Directors
-
-            
-
-    
-
-
-      
-
-Henk van den Heuvel
-We are pleased to announce that Henk van den Heuvel has joined the CLARIN ERIC Board of Directors (
-    
-Board of Directors
-
-read more
-
-  ) on 1 October 2023. He will take over from Antal van den Bosch, who was a member of the CLARIN BoD from March 2022. Van den Heuvel will be working with the other BoD members and the executive director Darja Fišer on the development and implementation of the CLARIN 
-    
-European Research Infrastructure Consortium
-
-
-See: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
-
-read more
-
-   strategy and policy. 
-Currently, Henk van den Heuvel is the director of the…]]></summary>
-        <author>
-            <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chen Qu]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/susan-qu/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/susan-qu/"/>
-        <updated>2023-10-05T14:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Teaching Digital, Geographical, Medical and Natural Sciences at Cambridge, Chen is a Higher Education Academy Fellow. Chen designed and convened a transdisciplinary network on emerging digital development and health/wellbeing: Browsed . Bridged . Beyond, funded by a CDH Award in 2021-22. This connected 100+ students, scholars and professionals from research institutions in the UK, Belgium, Romania,]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carleigh Morgan]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/carleigh-morgan/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/carleigh-morgan/"/>
-        <updated>2023-10-05T14:10:32.000Z</updated>
-        <summary type="html"><![CDATA[Carleigh Morgan is a Trinity College Research Scholar, Fulbright Scholar (2013-2014) and first-generation PhD candidate in Film and Screen Studies at the University of Cambridge. Her doctoral thesis explores the relationship between cinematic labour and cinematic materiality through the lens of animated filmmaking, owing to its propensity for self-reflexive mediation—across a range of genres, mediums,]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amira Moeding]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/amira-moeding/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/amira-moeding/"/>
-        <updated>2023-10-05T13:26:03.000Z</updated>
-        <summary type="html"><![CDATA[Amira Moeding is a PhD student at Cambridge University in the Faculty of History, Amira’s PhD project focuses on the Intellectual History of ‘Big Data,’ how ‘Big Data’ as an approach to building artificial intelligence became thinkable, how data became foremost an economic resource, and how political imaginaries emerged from the possibilities associated with ‘data-driven’]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preserving Cultural Heritage: Transkribus Integration with Wikimedia Projects]]></title>
-        <id>https://readcoop.eu/?p=33543</id>
-        <link href="https://readcoop.eu/preserving-cultural-heritage-transkribus-integration-with-wikimedia-projects/"/>
-        <updated>2023-10-05T07:47:41.000Z</updated>
-        <summary type="html"><![CDATA[As of July 2023, Transkribus is proud to be a text recognition engine on Wikisource, which is an online digital library of public domain and freely licensed source texts and historical documents, and a sister project of Wikipedia.  Preserving and sharing historical knowledge is more important than ever, but the task of transcribing and making […]
-The post Preserving Cultural Heritage: Transkribus Integration with Wikimedia Projects appeared first on READ-COOP.]]></summary>
-        <author>
-            <name>Helene</name>
         </author>
     </entry>
     <entry>
