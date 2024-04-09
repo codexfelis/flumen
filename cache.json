@@ -30,15 +30,6 @@
           "wordCount": 1340,
           "title": "The Sloane Lab Community Fellowship Round Three (2 positions)",
           "imageUrl": null
-        },
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8306",
-          "author": "Lucy Stagg",
-          "description": "UCL’s Department of Information Studies is seeking a Lecturer in Archives and Records Management for a full time academic post. Deadline for applications is 12 November 2023. “We are seeking an innovative researcher and educator to appoint to a full-time post beginning in April 2024 with a teaching focus in archives, records management and information […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2023/10/12/job-alert-lecturer-in-archives-and-records-management/",
-          "publishedOn": "2023-10-12T11:51:18.000Z",
-          "wordCount": 350,
-          "title": "Job Alert – Lecturer in Archives and Records Management"
         }
       ]
     },
@@ -482,6 +473,36 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=3073",
+          "author": "Diane Jakacki",
+          "description": "The ADHO Executive Board invites nominations for the positions of Executive Board Secretary and Treasurer (either for one’s self- or on behalf of another person). These officer-level volunteer positions are vital to the day-to-day operations of ADHO, and the ideal candidates will possess technical experience with academic disciplinary organizations – financial and/or administrative, as related… Read More »Call for ADHO Officers",
+          "link": "https://adho.org/2024/04/06/call-for-adho-officers/",
+          "publishedOn": "2024-04-06T13:39:51.000Z",
+          "wordCount": null,
+          "title": "Call for ADHO Officers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://adho.org/?p=3070",
+          "author": "Diane Jakacki",
+          "description": "Purpose: The Treasurer is the financial manager for both ADHO and the ADHO Foundation (ADHO’s legal entity, based in the Netherlands), and is a member of the Executive Board. The Treasurer keeps track of and reports on the budget and advises the Executive and Constituent Organization Boards about financial decisions. The Deputy Treasurer advises and… Read More »Call for ADHO Treasurer (Incoming as Deputy)",
+          "link": "https://adho.org/2024/04/03/call-for-adho-treasurer/",
+          "publishedOn": "2024-04-03T13:09:30.000Z",
+          "wordCount": null,
+          "title": "Call for ADHO Treasurer (Incoming as Deputy)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://adho.org/?p=3067",
+          "author": "Diane Jakacki",
+          "description": "Purpose: The role of the Secretary is to organize, record, and communicate EB meetings and joint meetings of the EB and COB, documents, decisions, and action items. They also serve as record keepers, holders of institutional memory, and reference sources for ADHO policy, decisions, and custom. Term: This is a three-year position. In the first… Read More »Call for ADHO Executive Board Secretary",
+          "link": "https://adho.org/2024/04/03/call-for-adho-executive-board-secretary/",
+          "publishedOn": "2024-04-03T13:01:41.000Z",
+          "wordCount": null,
+          "title": "Call for ADHO Executive Board Secretary",
+          "imageUrl": null
+        },
+        {
           "id": "https://adho.org/?p=3046",
           "author": "Nadezhda Povroznik",
           "description": "Susan Brown, Professor in the School of English and Theatre Studies and Canada Research Chair in Collaborative Digital Scholarship at the University of Guelph, has been awarded ADHO’s Roberto Busa Prize. The Roberto Busa Prize is named in honour of Roberto Busa and is given to recognize outstanding lifetime/career achievement in the application of information… Read More »Susan Brown Awarded Roberto Busa Prize",
@@ -745,6 +766,16 @@
       "feedUrl": "https://dh.rutgers.edu/feed/",
       "siteUrl": "https://dh.rutgers.edu",
       "articles": [
+        {
+          "id": "https://dh.rutgers.edu/?p=78108",
+          "author": "Francesca Giannetti",
+          "description": "by Francesca Giannetti and Joseph Goeller Last October, we assembled a panel of six outstanding speakers representing a range of perspectives to talk about open access and humanities scholarship. Open access in the sciences, a.k.a. Open Science, has become well established, especially so after the 2013 and 2022 Memoranda from the White House Office of Science and Technology Policy (OSTP) reinforcing the idea that everyone, not just scholars at wealthy institutions, should have access to important and useful research, especially so when that research is paid for with public money. What is less well appreciated is that the 2022 memo—also known as the Nelson memo—provides",
+          "link": "https://dh.rutgers.edu/open-humanities/?utm_source=rss&utm_medium=rss&utm_campaign=open-humanities",
+          "publishedOn": "2024-04-08T16:44:35.000Z",
+          "wordCount": 2887,
+          "title": "Open Humanities Panel",
+          "imageUrl": null
+        },
         {
           "id": "https://dh.rutgers.edu/?p=78091",
           "author": "Francesca Giannetti",
@@ -1685,17 +1716,7 @@
       "title": "DHLab",
       "feedUrl": "https://dhlab.nl/feed",
       "siteUrl": "https://dhlab.nl",
-      "articles": [
-        {
-          "id": "https://dhlab.nl/?p=1",
-          "author": "mvanerp",
-          "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
-          "link": "https://dhlab.nl/hello-world/",
-          "publishedOn": "2023-10-11T11:14:56.000Z",
-          "wordCount": 120,
-          "title": "Hello world!"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Digital Humanities & Literary Cognition Lab",
@@ -1708,6 +1729,16 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=9048",
+          "author": "DHN Admin",
+          "description": "Deadline: Monday, April 22 at 5:00 pm EST Are you looking for more training in digital humanities tools and methods? CDHI is offering tuition support for graduate students, post-doctoral fellows, […]",
+          "link": "https://dhn.utoronto.ca/dhguelph-2024/?utm_source=rss&utm_medium=rss&utm_campaign=dhguelph-2024",
+          "publishedOn": "2024-04-03T16:20:29.000Z",
+          "wordCount": 3002,
+          "title": "DH@Guelph Summer Workshops – tuition support",
+          "imageUrl": null
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=8971",
           "author": "DHN Admin",
@@ -1747,15 +1778,6 @@
           "wordCount": 3628,
           "title": "UX Design for DH Accelerator Program 2024",
           "imageUrl": null
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=8539",
-          "author": "Betsy Moss",
-          "description": "Building on the success of last summer’s hybrid training series, the Digital Humanities Summer Institute (DHSI) in summer 2024 will be offered in-person with with institute lectures available online as well. Week […]",
-          "link": "https://dhn.utoronto.ca/dhsi-2024/?utm_source=rss&utm_medium=rss&utm_campaign=dhsi-2024",
-          "publishedOn": "2023-10-11T20:40:30.000Z",
-          "wordCount": 638,
-          "title": "Digital Humanities Summer Institute (DHSI) Tuition + Travel Support"
         }
       ]
     },
@@ -1770,6 +1792,26 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/954",
+          "author": "434",
+          "description": "Der Verband »Digital Humanities im deutschsprachigen Raum e.V.« (http://www.dig-hum.de) schreibt dieses Jahr zum ersten Mal fünf Reisestipendien zu je 500 € aus, die nicht an die…",
+          "link": "https://dig-hum.de/aktuelles/reisekostenstipendien-des-dhd-verbands-f%C3%BCr-dh-nahe-tagungen-sommer-2024",
+          "publishedOn": "2024-04-05T08:50:55.000Z",
+          "wordCount": 1521,
+          "title": "Reisekostenstipendien des DHd-Verbands für DH-nahe Tagungen (Sommer 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "node/953",
+          "author": "434",
+          "description": "In den Digital Humanities (DH) stellen sich Karrierefragen, die in anderen Disziplinen nicht unbedingt relevant sind und die daher von klassischen Mentoringangeboten nicht…",
+          "link": "https://dig-hum.de/aktuelles/ausschreibung-zum-dhd-early-career-mentoring-programm-2024-25",
+          "publishedOn": "2024-04-02T12:34:12.000Z",
+          "wordCount": 1779,
+          "title": "Ausschreibung zum DHd Early Career Mentoring Programm 2024-25",
+          "imageUrl": null
+        },
         {
           "id": "node/952",
           "author": "434",
@@ -2056,15 +2098,6 @@
           "publishedOn": "2023-10-18T08:13:28.232Z",
           "wordCount": 1108,
           "title": "Wissenschaftliche_r Mitarbeiter_in (w/m/d) im Projekt &#039;Digitalisierung, Visualisierung und Analyse von Sammlungsgut (DiViAS)&#039;"
-        },
-        {
-          "id": "node/918",
-          "author": "434",
-          "description": "Liebe Mitglieder des DHd-Verbandes und Interessierte,\nfür unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…",
-          "link": "https://dig-hum.de/aktuelles/einladung-zum-dhd-community-forum-am-03112023-14-uhr",
-          "publishedOn": "2023-10-10T08:13:28.951Z",
-          "wordCount": 936,
-          "title": "Einladung zum DHd Community Forum am 03.11.2023, 14 Uhr"
         }
       ]
     },
@@ -2199,6 +2232,26 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=12560",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Eric H. C. Chow. For more information, see at the end of this post. …",
+          "link": "https://digitalorientalist.com/2024/04/05/an-experiment-with-gemini-pro-llm-for-chinese-ocr-and-metadata-extraction/",
+          "publishedOn": "2024-04-05T13:00:00.000Z",
+          "wordCount": 5193,
+          "title": "An Experiment with Gemini Pro LLM for Chinese OCR and Metadata Extraction",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/03/essay-cover-image-gemini-ocr-01.png?w=1200"
+        },
+        {
+          "id": "http://digitalorientalist.com/?p=12524",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by William Chong. For more information, see at the end of this post. Introduction Our …",
+          "link": "https://digitalorientalist.com/2024/04/02/exploring-ai-driven-tools-for-research-in-humanistic-buddhism-a-comparative-evaluation/",
+          "publishedOn": "2024-04-02T13:00:00.000Z",
+          "wordCount": 5470,
+          "title": "Exploring AI-Driven Tools for Research in Humanistic Buddhism: A Comparative Evaluation",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/03/dallc2b7e-2024-03-19-09.37.42-a-conceptual-book-cover-for-an-academic-article-titled-exploring-ai-driven-tools-for-research-in-humanistic-buddhism_-a-comparative-evaluation-by-wi.webp"
+        },
         {
           "id": "http://digitalorientalist.com/?p=12552",
           "author": "tjkynn",
@@ -2671,33 +2724,6 @@
           "publishedOn": "2023-10-13T13:00:00.000Z",
           "wordCount": 1694,
           "title": "A Guide for Using the New Testament Virtual Manuscript Room (Part 3)"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=11168",
-          "author": "Orestis Georgalas",
-          "description": "Introduction Up until a few years ago, the history of the Cold War was dominated by interpretations that focused solely …",
-          "link": "https://digitalorientalist.com/2023/10/10/the-digital-cold-war-and-decolonization-archives-methods-and-tools/",
-          "publishedOn": "2023-10-10T13:00:00.000Z",
-          "wordCount": 2132,
-          "title": "The Digital Cold War and Decolonization: Archives, Methods, and Tools"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=11250",
-          "author": "The Digital Orientalist",
-          "description": "We are seeking candidates for the position of Social Media Manager, who would be running our current social media accounts …",
-          "link": "https://digitalorientalist.com/2023/10/09/join-our-social-media-team/",
-          "publishedOn": "2023-10-09T14:12:42.000Z",
-          "wordCount": 555,
-          "title": "Join our social media team!"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=11027",
-          "author": "The Digital Orientalist",
-          "description": "This is a guest post by Ruth Mostern, University of Pittsburgh@ruthmostern Like all terms for disciplines and methodologies, the digital …",
-          "link": "https://digitalorientalist.com/2023/10/06/quantitative-scholarship-as-low-tech-digital-humanities/",
-          "publishedOn": "2023-10-06T13:00:00.000Z",
-          "wordCount": 1664,
-          "title": "Quantitative Scholarship as “Low Tech” Digital Humanities"
         }
       ]
     },
@@ -3194,6 +3220,16 @@
       "siteUrl": "https://lila-erc.eu",
       "articles": [
         {
+          "id": "https://lila-erc.eu/?p=3145",
+          "author": "Eleonora Litta",
+          "description": "The full text of the “De Trinitate” by Augustine of Hippo has been published and linked to the LiLa Knowledge Base. Start browsing the text here: https://lila-erc.eu/lodview/data/corpora/CIRCSELatinLibrary/id/corpus/De%20Trinitate or download the data from the github repository, here. And don’t forget to perform your advanced searches on the De Trinitate on the LiLa Search Interactive Platform.\nThe post Augustine’s De Trinitate in LiLa appeared first on LiLa: Linking Latin.",
+          "link": "https://lila-erc.eu/augustines-de-trinitate-in-lila/",
+          "publishedOn": "2024-04-08T13:57:06.000Z",
+          "wordCount": 737,
+          "title": "Augustine’s De Trinitate in LiLa",
+          "imageUrl": null
+        },
+        {
           "id": "https://lila-erc.eu/?p=3132",
           "author": "Eleonora Litta",
           "description": "Two contributions, a paper and a poster, have been accepted for presentation at the prestigious LREC–COLING 2024 – The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation. (https://lrec-coling-2024.org/) Paper: “Representing Compounding with OntoLex. An Evaluation of Vocabularies for Word Formation Resources” by Elena Benzoni, Matteo Pellegrini, Francesco Dedè and Marco Passarotti Poster: …\nThe post LiLa contributions at LREC-COLING appeared first on LiLa: Linking Latin.",
@@ -3210,6 +3246,16 @@
       "feedUrl": "https://lila-erc.eu/news/feed/",
       "siteUrl": "https://lila-erc.eu",
       "articles": [
+        {
+          "id": "https://lila-erc.eu/?p=3145",
+          "author": "Eleonora Litta",
+          "description": "The full text of the “De Trinitate” by Augustine of Hippo has been published and linked to the LiLa Knowledge Base. Start browsing the text here: https://lila-erc.eu/lodview/data/corpora/CIRCSELatinLibrary/id/corpus/De%20Trinitate or download the data from the github repository, here. And don’t forget to perform your advanced searches on the De Trinitate on the LiLa Search Interactive Platform.\nThe post Augustine’s De Trinitate in LiLa appeared first on LiLa: Linking Latin.",
+          "link": "https://lila-erc.eu/augustines-de-trinitate-in-lila/",
+          "publishedOn": "2024-04-08T13:57:06.000Z",
+          "wordCount": 737,
+          "title": "Augustine’s De Trinitate in LiLa",
+          "imageUrl": null
+        },
         {
           "id": "https://lila-erc.eu/?p=3132",
           "author": "Eleonora Litta",
@@ -3235,16 +3281,6 @@
           "publishedOn": "2023-12-13T12:25:31.000Z",
           "wordCount": 1627,
           "title": "Digital posts at the British Library",
-          "imageUrl": null
-        },
-        {
-          "id": "https://livingwithmachines.ac.uk/?p=3634",
-          "author": "Léllé Demertzi",
-          "description": "Welcome to Archiving The Railway UK For those with an interest in Britain’s railway heritage, Archiving The Railway UK (AR-UK) offers a comprehensive digital platform, capturing the essence of our rail network’s history. AR-UK was created as part of the Alan Turing Institute’s Living with Machines Digital Residencies to expand on the research, historical preservation […]",
-          "link": "https://livingwithmachines.ac.uk/lwm-digital-residency-archiving-the-railway-uk-ar-uk/?utm_source=rss&utm_medium=rss&utm_campaign=lwm-digital-residency-archiving-the-railway-uk-ar-uk",
-          "publishedOn": "2023-10-10T16:21:00.000Z",
-          "wordCount": 1583,
-          "title": "LwM Digital Residency: Archiving The Railway UK (AR-UK)",
           "imageUrl": null
         }
       ]
@@ -3272,6 +3308,36 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1288 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Academic Title: \n\nDoctoral Student, Africana Studies\n\n\n\nMarc Ridgell is a first-year PhD student in Africana Studies and William Fontaine Fellow at the University of Pennsylvania. Their prospective dissertation uses critical ethnography and GIS mapping to examine how Black queer and trans people experience community amid active gentrification, policing, and larger neoliberal affects in Philadelphia. Their summer Price Lab project envisions a public-facing website that exhibits archives, oral histories, and maps of Black LGBTQ+ life and organizing in Philadelphia. \n \nThey graduated magna cum laude with their B.A. from Washington University in St. Louis in May 2023. While at WashU, they completed a senior thesis through the Mellon Mays Undergraduate Fellowship, Schomburg-Mellon Humanities Summer Institute, and Leadership Alliance at the University of Chicago. \n \n\n\nFellowship Date: \n\nApril, 2024—August, 2024",
+          "link": "https://pricelab.sas.upenn.edu/fellows/ridgell-marc",
+          "publishedOn": "2024-04-05T18:42:47.000Z",
+          "wordCount": 393,
+          "title": "Marc   Ridgell",
+          "imageUrl": null
+        },
+        {
+          "id": "1286 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Academic Title: \n\nDoctoral Student, Department of Spanish and Portuguese\n\n\n\nAlexis Hernando is a first-year Ph.D. student in the Department of Spanish and Portuguese at the University of Pennsylvania. Alexis’ research focuses on memory studies from a transhistorical and global perspective, incorporating the literary and cultural heritage from Spanish Africa, Latin America, and the Iberian Peninsula. His work considers diverse theoretical frameworks including posthumanism, material culture, transatlantic studies, coloniality, race, and intellectual history. Before joining UPenn, Alexis earned a B.A. and Licenciatura in Hispanic Literature from the Pontificia Universidad Católica del Perú and an M.A. in Romance Languages from Johns Hopkins University. He has worked in the Department of Humanities and the Office of the President at PUCP and as a Graduate Teaching Fellow at Johns Hopkins. In addition, he was part of the photographic project ‘Veins of Influence’ about colonial Ceylon at the Museum of Oxford with the sponsorship of Oxford University. His publications have appeared in the peer-reviewed journals Revista Chilena de Literatura, Bulletin of Spanish Studies, and Atlantic Studies.\n\n\nFellowship Date: \n\nApril, 2024—August, 2024",
+          "link": "https://pricelab.sas.upenn.edu/fellows/hernando-alexis",
+          "publishedOn": "2024-04-03T11:26:54.000Z",
+          "wordCount": 443,
+          "title": "Alexis   Hernando",
+          "imageUrl": null
+        },
+        {
+          "id": "1285 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Academic Title: \n\nDoctoral Student, Department of Spanish and Portuguese\n\n\n\nA Cuban Ph.D. student in Hispanic Studies in the Department of Spanish and Portuguese at the University of Pennsylvania. During my undergraduate and master's studies, I have focused on film studies, specifically on community audiovisual as a counter-hegemonic discourse. I have experience in filmmaking, particularly in assistant directing for two documentary series.My interests lie in Caribbean literature and cinema. I intend to address the relationships between discourse, space, and representation in a large textual corpus from and about the Caribbean throughout the 20th and 21st centuries I am a 2024 Goizueta Graduate Pre-Prospectus Fellowship at the  Cuban Heritage Collection of the University of Miami.\nEducation:\n \n2017-B.A. Art History. University of Havana.\n \n2022-M.A. Art History in the field of Film Studies. National Autonomous University of Mexico\n \n\n\nFellowship Date: \n\nApril, 2024—August, 2024",
+          "link": "https://pricelab.sas.upenn.edu/fellows/rojas-armando",
+          "publishedOn": "2024-04-03T11:24:03.000Z",
+          "wordCount": 407,
+          "title": "Armando  Navarro  Rojas",
+          "imageUrl": null
+        },
         {
           "id": "1282 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
@@ -3407,15 +3473,6 @@
           "publishedOn": "2023-10-24T14:46:25.000Z",
           "wordCount": 888,
           "title": "A Day of Digital Publishing"
-        },
-        {
-          "id": "1266 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Academic Title: \n\nPh.D. candidate, History\n\n\n\nAna Paula Nadalini Mendes is a PhD candidate in the History Department at the University of Pennsylvania. Her studies focus on gender and slavery in the nineteenth-century Lusophone world. Her current research centers the shifts in gender dynamics during the anti-slave trade-campaing in Brazil and Mozambique. She is a Mellon Fellow at the Price Lab for Digital Humanities where is she is mapping the anti-slave trade-voyages by analysing travelers' narratives. Prior to her studies in the United States, Ana Mendes worked as a professor at the Catholic University of Parana, In Brazil. \n\n\nFellowship Date: \n\nOctober, 2023—October, 2024",
-          "link": "https://pricelab.sas.upenn.edu/fellows/nadalini-mendes-ana",
-          "publishedOn": "2023-10-06T14:27:24.000Z",
-          "wordCount": 278,
-          "title": "Ana Paula Nadalini Mendes"
         }
       ]
     },
@@ -3625,6 +3682,26 @@
       "siteUrl": "https://readcoop.eu/",
       "articles": [
         {
+          "id": "https://readcoop.eu/?p=34779",
+          "author": "Helene",
+          "description": "Spring has sprung and so has the April 2024 release of Transkribus. Here is a quick overview of all the improvements that have been implemented this year already, as well as some important news regarding credit usage for layout analysis. Let’s take a look! Updates to the Editor User settings saved permanently Previously, user settings […]\nThe post Transkribus Update – April 2024 appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/transkribus-update-april-2024/",
+          "publishedOn": "2024-04-04T12:08:14.000Z",
+          "wordCount": 6767,
+          "title": "Transkribus Update – April 2024",
+          "imageUrl": "https://readcoop.eu/wp-content/uploads/2024/04/Transkribus-Update.jpg"
+        },
+        {
+          "id": "https://readcoop.eu/?p=34763",
+          "author": "Helene",
+          "description": "You can learn plenty about French history from reading books and watching documentaries. These kinds of sources are great for getting an overview of a topic. But it is primary sources such as birth registers, medieval manuscripts or personal letters that really get to the heart of a topic, giving us an unfiltered perspective on […]\nThe post How to read French handwriting with AI appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/how-to-read-french-handwriting-with-ai/",
+          "publishedOn": "2024-04-03T08:05:11.000Z",
+          "wordCount": 7789,
+          "title": "How to read French handwriting with AI",
+          "imageUrl": "https://readcoop.eu/wp-content/uploads/2024/04/middle-aged-woman-with-glasses-wearing-beige-sweater-reading-old-letters-in-archive-image-set-in-mo.jpeg"
+        },
+        {
           "id": "https://readcoop.eu/?p=34601",
           "author": "Helene",
           "description": "With over 80 speakers from around 40 countries, engaging presentations and thoughtful discussions, the Transkribus 2024 User Conference made us proud of what Transkribus and its community have become. Technology enthusiasts, researchers and professionals from around the world came together in person or virtually for a unique and informative experience. The event provided a platform […]\nThe post Highlights from TUC 2024  appeared first on READ-COOP.",
@@ -3718,6 +3795,26 @@
       "feedUrl": "https://review.gale.com/category/digital-humanities/feed",
       "siteUrl": "https://review.gale.com",
       "articles": [
+        {
+          "id": "https://review.gale.com/?p=15138",
+          "author": "Gale Review Team",
+          "description": "│By Becca Gillott and Chris Houghton, Gale Digital Scholar Lab team│ From newspaper columns to academic reports, “The Humanities in Crisis” is a common refrain. It is a widely held fear that, in societies increasingly focused on the risks and benefits of technology in the fourth industrial revolution, studying what it means to be human ... Read more\nThe post Delivering Impact – Launching Gale Research Showcase and Gale Digital Scholar Lab: Projects appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2024/04/09/gale-research-showcase-and-projects/",
+          "publishedOn": "2024-04-09T06:00:00.000Z",
+          "wordCount": 2642,
+          "title": "Delivering Impact – Launching Gale Research Showcase and Gale Digital Scholar Lab: Projects",
+          "imageUrl": "https://review.gale.com/wp-content/uploads/2024/04/Asteroid.png"
+        },
+        {
+          "id": "https://review.gale.com/?p=15121",
+          "author": "Gale Review Team",
+          "description": "│By Phil Virta, Senior Acquisitions Editor│ Queer history is full of groups and individuals that took a stand against injustices, fought to change discriminatory laws, advocated for acceptance, and spoke out for those who might otherwise remain marginalized.  Studying this history can inspire and educate us as we face ongoing challenges in society such as ... Read more\nThe post Exploring Community and Identity in Sexuality and Gender History – <i>Archives of Sexuality and Gender: Community and Identity in North America</i> appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2024/04/02/identity-in-sexuality-history/",
+          "publishedOn": "2024-04-02T18:00:00.000Z",
+          "wordCount": 2922,
+          "title": "Exploring Community and Identity in Sexuality and Gender History – Archives of Sexuality and Gender: Community and Identity in North America",
+          "imageUrl": "https://review.gale.com/wp-content/uploads/2024/03/pic-1-1.jpg"
+        },
         {
           "id": "https://review.gale.com/?p=15111",
           "author": "Gale Review Team",
@@ -3821,6 +3918,16 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=18090",
+          "author": "simsmss",
+          "description": "Dot Porter, SIMS Curator for Digital Humanities at the University of Pennsylvania Library, presents a video orientation to the University of Pennsylvania Library’s LJS 427, Books II (materia medica), III (diseases arranged by part of the body), IV (diseases not specific to particular organs), and V (compound drugs, ointments, and electuaries) of Avicenna’s medical encyclopedia.Continue reading \"Manuscript Monday: LJS 427 – [Books II-V of al-Qānūn fī al-ṭibb]. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/04/08/manuscript-monday-ljs-427-al-kulliyat-%d8%a7%d9%84%d9%83%d9%84%d9%8a%d8%a7%d8%aa-video-orientation-2/",
+          "publishedOn": "2024-04-08T12:53:54.000Z",
+          "wordCount": 5337,
+          "title": "Manuscript Monday: LJS 427 – [Books II-V of al-Qānūn fī al-ṭibb]. (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=18086",
           "author": "simsmss",
@@ -4062,15 +4169,6 @@
           "publishedOn": "2023-10-16T13:00:00.000Z",
           "wordCount": 1188,
           "title": "Manuscript Monday: LJS 397 – [Astronomy lecture notes]. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17906",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 395, two fragments from 2 leaves of a 13th-century copy of the early encyclopedia De proprietatibus rerum used as pastedowns in a 16th-century binding. Location unknown, copied in the 1200s. You can read the complete record forContinue reading \"Manuscript Monday: LJS 395 – Manuscript pastedowns from De proprietatibus rerum (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/10/09/manuscript-monday-ljs-395-manuscript-pastedowns-from-de-proprietatibus-rerum-video-orientation/",
-          "publishedOn": "2023-10-09T13:00:00.000Z",
-          "wordCount": 1082,
-          "title": "Manuscript Monday: LJS 395 – Manuscript pastedowns from De proprietatibus rerum (Video Orientation)"
         }
       ]
     },
@@ -4876,6 +4974,56 @@
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
         {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-arild-stenberg/",
+          "author": null,
+          "description": "Arild's background combines experience as a composer and conductor with a more recent focus on research in music psychology and music cognition. As a composer, he was always interested in the effect of notational choices on performance and had already started to explore how the design of a musical text affected practice and rehearsal. After",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-arild-stenberg/",
+          "publishedOn": "2024-04-05T12:29:04.000Z",
+          "wordCount": 1467,
+          "title": "Dr Arild Stenberg",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2022/03/photo_on_23-05-2019_at_17.45_arild.jpg"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/registration-now-open-for-code-as-conversation-transmedia-dialogues-around-critical-code-studies-saturday-1-june-2024-university-of-cambridge/",
+          "author": null,
+          "description": "Registration is now open for Code as Conversation: Transmedia Dialogues Around Critical Code Studies, a one-day conference on the dynamic field of critical code studies, organised by CDH researchers Claire Carroll and Orla Delaney. Register here When and where? The conference will be held in person at the University of Cambridge on Saturday 1 June",
+          "link": "https://www.cdh.cam.ac.uk/about/news/registration-now-open-for-code-as-conversation-transmedia-dialogues-around-critical-code-studies-saturday-1-june-2024-university-of-cambridge/",
+          "publishedOn": "2024-04-04T09:27:54.000Z",
+          "wordCount": 1733,
+          "title": "Registration now open for <i>Code as Conversation: Transmedia Dialogues Around Critical Code Studies</i> | Saturday 1 June 2024, University of Cambridge",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/01/CCS-SPEECH-BUBBLES.png"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/now-hiring-assistant-professor-in-digital-humanities-and-postgraduate-administrator/",
+          "author": null,
+          "description": "Postgraduate Administrator Department: Faculty of English, Cambridge Salary: £29,605-£33,966 Closing date: 5 May 2024 Apply now The Faculty of English is seeking to appoint a motivated, enthusiastic and adaptable individual to the post of Postgraduate Administrator. You will be responsible to and work alongside the Faculty's Postgraduate Coordinator to contribute to the effective administration",
+          "link": "https://www.cdh.cam.ac.uk/about/news/now-hiring-assistant-professor-in-digital-humanities-and-postgraduate-administrator/",
+          "publishedOn": "2024-04-03T14:29:19.000Z",
+          "wordCount": 2303,
+          "title": "Now Hiring: Assistant Professor in Digital Humanities and Postgraduate Administrator",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/04/2.png"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/apply-for-a-visiting-fellowship-at-cambridge-digital-humanities/",
+          "author": null,
+          "description": "Applications for the next round of CDH Visiting Fellowships, to be held between October 2024 and March 2025, are now open. Scholars and students interested in applying for a fellowship must submit their application no later than 21 April 2024 for the current round. Cambridge Digital Humanities offers several types of visiting fellowships, lasting between",
+          "link": "https://www.cdh.cam.ac.uk/about/news/apply-for-a-visiting-fellowship-at-cambridge-digital-humanities/",
+          "publishedOn": "2024-04-03T13:39:48.000Z",
+          "wordCount": 1873,
+          "title": "Apply for a Visiting Fellowship at Cambridge Digital Humanities",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2023/12/mathematical-bridge-scaled-e1702550822832.jpg"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/38149-2/",
+          "author": null,
+          "description": "Silvia Garzarella is a PhD Student in Visual, Performing, and Media Arts at the University of Bologna, currently working on the project: Improving the Fruition of Ballet’s Intangible Assets through Digital Archives and Advanced Digital Technology Products. A Case Study of Rudolf Nureyev (1938-1993). At the same University, she achieved a Master’s Degree in Italian",
+          "link": "https://www.cdh.cam.ac.uk/about/people/38149-2/",
+          "publishedOn": "2024-04-03T13:17:53.000Z",
+          "wordCount": 1479,
+          "title": "Untitled",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/04/Screenshot-2024-04-03-at-13.45.16.png"
+        },
+        {
           "id": "https://www.cdh.cam.ac.uk/research/",
           "author": null,
           "description": "",
@@ -4934,6 +5082,16 @@
           "wordCount": 3291,
           "title": "Re-staging public spaces",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/estara-arrant/",
+          "author": null,
+          "description": "Dr Estara Arrant is a Postdoctoral Research Associate based at the Cambridge University Library in the Taylor-Schechter Genizah Research Unit. She works on the ERC-funded project TEXTEVOLVE: A New Approach to the Evolution of Texts Based on the Manuscripts of the Targums, where she analyses the history of Aramaic translations of the Bible using bioinformatic",
+          "link": "https://www.cdh.cam.ac.uk/about/people/estara-arrant/",
+          "publishedOn": "2024-03-22T13:01:11.000Z",
+          "wordCount": 1443,
+          "title": "Dr Estara Arrant",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2022/11/estara.jpg"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/media/blog/respect-is-a-recurring-choice-award-winning-poet-saf-s2e-reflects-on-the-burdened-integrity-of-artistry/",
@@ -6035,357 +6193,6 @@
           "publishedOn": "2023-10-13T07:05:22.000Z",
           "wordCount": 541,
           "title": "Dr Hugo Leal"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37247/",
-          "author": null,
-          "description": "Editing Anti-Slavery Archives and Modelling Sustainable Publications: The Case of Mary Anne Rawson’s The Bow in the Cloud (1834) Speaker: Dr Christopher Ohge How can digital scholarly editing recover under-examined anti-slavery literary archives and introduce new paths for critical interpretation and historical scholarship? And how can such a project ensure sustainable publications? A digital scholarly",
-          "link": "https://www.cdh.cam.ac.uk/events/37247/",
-          "publishedOn": "2023-10-12T13:17:00.000Z",
-          "wordCount": 782,
-          "title": "Editing Anti-Slavery Archives and Modelling Sustainable Publications: The Case of Mary Anne Rawson’s <i>The Bow in the Cloud</i> (1834)"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37270/",
-          "author": null,
-          "description": "Workshop Tutor: Maciej Pawlikowski, Head of Digital Content Unit, Cambridge University Library Following the introductory Methods Workshops, held on 21st November 2023, this session will focus on how to adopt the principles to the projects chosen by the participants. This will cover learning a practical approach to taking images fit for purpose in any conditions",
-          "link": "https://www.cdh.cam.ac.uk/events/37270/",
-          "publishedOn": "2023-10-12T13:15:09.000Z",
-          "wordCount": 570,
-          "title": "Digital Archival Photography in-depth"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37269/",
-          "author": null,
-          "description": "Workshop Tutor: Maciej Pawlikowski, Head of Digital Content Unit, Cambridge University Library This Methods Workshop will introduce advanced techniques used for the digitisation and preservation of archival material. The first workshop will introduce the following topics: Copyrights and sensitive data considerations Understanding Photography basics Digitisation Imaging Standards Scene and capture calibration Image post-processing Taking usable",
-          "link": "https://www.cdh.cam.ac.uk/events/37269/",
-          "publishedOn": "2023-10-12T13:03:52.000Z",
-          "wordCount": 635,
-          "title": "Digital Archival Photography | an introduction"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-oliver-dunn/",
-          "author": null,
-          "description": "Dr Oliver Dunn, Research Associate with the Cambridge Group for the History of Population and Social Structure, has recently contributed to top-tier journals, such as the Economic History Review, writing about transport in early modern (1600-1800) Britain. He also co-directs a digital humanities project (www.osiris-ai.com) to better harness machine learning algorithms for the collection of",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-oliver-dunn/",
-          "publishedOn": "2023-10-12T12:29:23.000Z",
-          "wordCount": 462,
-          "title": "Dr Oliver Dunn"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dan-pete/",
-          "author": null,
-          "description": "Daniel Pett is Head of Digital and IT at the Fitzwilliam Museum where he leads a multi-disciplinary team in documentation, IT, digital and research and works with the Egyptian Museum in Cairo. He has recently had grants from the AHRC for creative industry partnerships with a team of four postdocs, a linked open data UK/USA network,",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dan-pete/",
-          "publishedOn": "2023-10-12T12:28:49.000Z",
-          "wordCount": 515,
-          "title": "Dan Pett"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/announcing-2023-24-methods-fellows/",
-          "author": null,
-          "description": "Cambridge Digital Humanities is pleased to announce the appointment of our Methods Fellows for the academic year 2023/24. Each Fellow will share their expertise in methods or practices relevant to DH research, design and deliver workshop sessions, work on DH projects, and be active in the growing CDH community. Methods Fellows 2023/24 Shellie Audsley is",
-          "link": "https://www.cdh.cam.ac.uk/about/news/announcing-2023-24-methods-fellows/",
-          "publishedOn": "2023-10-12T11:11:57.000Z",
-          "wordCount": 1840,
-          "title": "Announcing: 2023/24 Methods Fellows"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37243/",
-          "author": null,
-          "description": "The Ethico-Politics of Design Toolkits: The Case of Responsible AI Speaker: Dr Tomasz Hollanek Description Design toolkits have recently begun to proliferate as a means for translating high-level principles (such as transparency or fairness) into design practice – in general, and in the development of artificial intelligence (AI) in particular. Numerous tech companies, research teams,",
-          "link": "https://www.cdh.cam.ac.uk/events/37243/",
-          "publishedOn": "2023-10-12T09:07:26.000Z",
-          "wordCount": 798,
-          "title": "The Ethico-Politics of Design Toolkits: The Case of Responsible AI"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37240/",
-          "author": null,
-          "description": "Convenors: Dr Anne Alexander (CDH Director of Learning), Dr Emily Sandford (Research Fellow, Gonville & Caius) and Jarrah O'Neill (Reproductive Sociology Research Group) This in-person workshop will provide an accessible, non-technical introduction to Machine Learning systems, aimed primarily at graduate students and researchers in the humanities, arts and social sciences. No prior knowledge of programming",
-          "link": "https://www.cdh.cam.ac.uk/events/37240/",
-          "publishedOn": "2023-10-11T14:57:50.000Z",
-          "wordCount": 856,
-          "title": "AI at work: a critical introduction to Machine Learning systems"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dr-kanta-dihal/",
-          "author": null,
-          "description": "Dr Kanta Dihal is a Senior Research Fellow at the Leverhulme Centre for the Future of Intelligence, University of Cambridge. Her research focuses on science narratives, particularly those that emerge from conflict. She currently manages the project ‘Desirable Digitalisation’, an international research collaboration that investigates intercultural perspectives on AI and fundamental rights and values. She",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dr-kanta-dihal/",
-          "publishedOn": "2023-10-11T13:22:40.000Z",
-          "wordCount": 474,
-          "title": "Dr Kanta Dihal"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37238/",
-          "author": null,
-          "description": "Convenor: Claire Carroll (CDH Methods Fellow) Interactive Fiction (IF) stories let readers decide which paths the story should follow, featuring non-linear narrative design. The discipline combines the excitement of post-structuralist narratives with the power of creative coding, making it a perfect introduction for participants more familiar with one field than the other. In this workshop,",
-          "link": "https://www.cdh.cam.ac.uk/events/37238/",
-          "publishedOn": "2023-10-11T10:22:43.000Z",
-          "wordCount": 734,
-          "title": "Writing Digital Interactive Fiction"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/media/newsletter/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/media/newsletter/",
-          "publishedOn": "2023-10-11T08:12:47.000Z",
-          "wordCount": 558,
-          "title": "Newsletter"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/announcing-2023-24-mphil-cohort/",
-          "author": null,
-          "description": "CDH is delighted to welcome its new cohort of MPhil students for 2023/24. The MPhil programme, now in its second year, brings together students from a diverse range of disciplines, backgrounds, and research specialisms, and challenges them to acquire a critical and well-informed understanding of the stakes of digital transformation in contemporary society. We look",
-          "link": "https://www.cdh.cam.ac.uk/about/news/announcing-2023-24-mphil-cohort/",
-          "publishedOn": "2023-10-11T07:24:16.000Z",
-          "wordCount": 513,
-          "title": "Announcing: 2023/24 MPhil Cohort"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37218/",
-          "author": null,
-          "description": "Convenor: Emily Quin (CDH Methods Fellow) This Methods Workshop explores primary data collection using digital and online qualitative methods. Teaching methods for detailed assessment of the suitability of online platforms for the collection of research data. Considering not only general ethical issues, privacy, encryption, terms and conditions but also inclusivity for neurodivergent and vulnerable participants. Target",
-          "link": "https://www.cdh.cam.ac.uk/events/37218/",
-          "publishedOn": "2023-10-10T15:33:54.000Z",
-          "wordCount": 611,
-          "title": "Primary data collection from online platforms: inclusive approaches"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/sophia-mohr/",
-          "author": null,
-          "description": "Raised in Frankfurt Germany, Sophia is half America and half German. Sophia is interested in the effects of media on people's habits and behaviours, and enjoys testing out new forms of media - whether films, music or socials. They have an undergraduate degree in Media and Information from the University of Amsterdam.",
-          "link": "https://www.cdh.cam.ac.uk/about/people/sophia-mohr/",
-          "publishedOn": "2023-10-10T15:00:39.000Z",
-          "wordCount": 423,
-          "title": "Sophia Mohr"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/qiaochu-clarissa-wang/",
-          "author": null,
-          "description": "Clarissa holds an MSc in Mental Health Studies from King’s College London. She graduated from University of Toronto with a BSc in Psychology and Criminology. Growing up, and in her work as a marketer, she has observed how social media increasingly skew users’ perceptions and cause polarisation of opinions. At CDH, she is interested in",
-          "link": "https://www.cdh.cam.ac.uk/about/people/qiaochu-clarissa-wang/",
-          "publishedOn": "2023-10-10T15:00:18.000Z",
-          "wordCount": 467,
-          "title": "Qiaochu Wang (Clarissa)"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/dylan-chng/",
-          "author": null,
-          "description": "Dylan holds a BA (Hons) in English Literature, with a minor in Art History, from the National University of Singapore (NUS). His undergraduate thesis examined social media horror storytelling and new readerly/textual ontologies in the electronic literary sphere. Presently, Dylan is interested in media archaeology and literary interfaces (and interfacings) more broadly: he seeks to",
-          "link": "https://www.cdh.cam.ac.uk/about/people/dylan-chng/",
-          "publishedOn": "2023-10-10T15:00:07.000Z",
-          "wordCount": 476,
-          "title": "Dylan Chng"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/zoe-deborah-tauro/",
-          "author": null,
-          "description": "Zoe Tauro (she/her) is an MPhil student at the CDH interested in the creative capacity of AI-generated texts. She graduated from Nanyang Technological University (Singapore) with a BA in English Literature focused on posthumanism, science fiction and postmodernism. Her MPhil research at Cambridge will analyse figurative and metaphorical language in AI-generated as well as co-written",
-          "link": "https://www.cdh.cam.ac.uk/about/people/zoe-deborah-tauro/",
-          "publishedOn": "2023-10-10T14:59:46.000Z",
-          "wordCount": 453,
-          "title": "Zoe Deborah Tauro"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/laura-isabel-sastoque-pabon/",
-          "author": null,
-          "description": "Growing up in Bogotá, Colombia, I grappled with the idea of conveying a nuanced portrayal of our people’s history to the world. In 2019, I moved to the United States to pursue a degree in History and Creative Writing, with a minor in Data Science, at Northwestern University. During my studies, I became intrigued by",
-          "link": "https://www.cdh.cam.ac.uk/about/people/laura-isabel-sastoque-pabon/",
-          "publishedOn": "2023-10-09T15:24:28.000Z",
-          "wordCount": 478,
-          "title": "Laura Isabel (Laurisa) Sastoque Pabón"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/emily-quin/",
-          "author": null,
-          "description": "Emily is a Ph.D. Candidate in the Jerry Lee Centre for Experimental Criminology supervised by Dr Matthew Bland and Professor Barak Ariel. She specialises in policing: organisational behaviour, decision-making, and ethics. Emily is a former employee of the College of Policing where she worked in research and 'Authorised Professional Practice' within Forensics, Organised Crime, and",
-          "link": "https://www.cdh.cam.ac.uk/about/people/emily-quin/",
-          "publishedOn": "2023-10-09T15:16:42.000Z",
-          "wordCount": 507,
-          "title": "Emily Quin"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/amy-bottomley/",
-          "author": null,
-          "description": "Having studied English for my undergraduate degree at University of Cambridge, I developed a particular interest in the material contexts of literature: the physicality of the thing requires attention as well as the ideas or content it conveys. The process of digitising can make material more accessible, but it also risks losing some of that 'stuff'-ness of the",
-          "link": "https://www.cdh.cam.ac.uk/about/people/amy-bottomley/",
-          "publishedOn": "2023-10-09T15:00:47.000Z",
-          "wordCount": 505,
-          "title": "Amy Bottomley"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/amaia-robertson-nogues/",
-          "author": null,
-          "description": "Amaia is an MPhil student at the CDH, interested in the construction and re-embodiment of personhood and gender in the digital age. After completing a joint honours undergraduate degree in American Studies and English, she hopes to consider the reinventions of human and inhuman figures within canonical works of science fiction and how these shape",
-          "link": "https://www.cdh.cam.ac.uk/about/people/amaia-robertson-nogues/",
-          "publishedOn": "2023-10-09T14:49:03.000Z",
-          "wordCount": 472,
-          "title": "Amaia Robertson Nogues"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/saul-wickremasinghe/",
-          "author": null,
-          "description": "Saul Wickremasinghe is a postgraduate student at the University of Cambridge reading for an MPhil in the field of Digital Humanities. Focusing on natural language processing systems, Saul's research will investigate questions of public trust in online content moderation. Primarily, his focus will be on instances of misclassification specifically those stemming from the challenges of",
-          "link": "https://www.cdh.cam.ac.uk/about/people/saul-wickremasinghe/",
-          "publishedOn": "2023-10-09T14:41:13.000Z",
-          "wordCount": 470,
-          "title": "Saul Wickremasinghe"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/minco-van-der-weide/",
-          "author": null,
-          "description": "Born in the Netherlands with past residency in Sweden, Minco is a cinematic scholar-practitioner who delves into the nexus of film, philosophy, and digital technologies at Corpus Christi College, Cambridge. His background, from founding production companies to multifaceted roles in the film industry, melds hands-on knowledge with academic exploration. An alumnus of the National Film",
-          "link": "https://www.cdh.cam.ac.uk/about/people/minco-van-der-weide/",
-          "publishedOn": "2023-10-09T13:57:29.000Z",
-          "wordCount": 479,
-          "title": "Minco van der Weide"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/tianqi-luo/",
-          "author": null,
-          "description": "Born and Raised in Beijing, China, I have a deep interest in Chinese literature and culture. I went to Kenyon College for my undergraduate study in political science and comparative literature, and then Columbia University for my master's in East Asian Languages and Literature. I am deeply interested in storytelling, especially digital storytelling, and I",
-          "link": "https://www.cdh.cam.ac.uk/about/people/tianqi-luo/",
-          "publishedOn": "2023-10-09T13:43:19.000Z",
-          "wordCount": 434,
-          "title": "Tianqi Luo"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/udbela-escanero/",
-          "author": null,
-          "description": "Udbela Escanero is pursuing her MPhil at the CDH, after having completed a BSc in Politics and Philosophy at the London School of Economics and Political Science. She was born in New York City and grew up in China, Mexico, the USA, France, Germany, South Africa, Austria, and Belgium. She is particularly interested in the",
-          "link": "https://www.cdh.cam.ac.uk/about/people/udbela-escanero/",
-          "publishedOn": "2023-10-09T13:37:50.000Z",
-          "wordCount": 447,
-          "title": "Udbela Escanero"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/eric-m-dillon/",
-          "author": null,
-          "description": "From Williamson, West Virginia, Eric M. Dillon graduated from Marshall University in 2023 with a BA in English and a BS in computer science. Growing up in deep Appalachia, Dillon learned early on that contemporary representation and presence are critical to individual and group agency. Dillon’s primary interests while pursuing the MPhil in Digital Humanities",
-          "link": "https://www.cdh.cam.ac.uk/about/people/eric-m-dillon/",
-          "publishedOn": "2023-10-09T13:33:53.000Z",
-          "wordCount": 477,
-          "title": "Eric M. Dillon"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/angus-james-mclean/",
-          "author": null,
-          "description": "My academic focus centres around computational approaches to the humanities, as well as technology and its effect on culture. I'm particularly intrigued by the potential of transformer based Natural Language Processing to dissect large bodies of text, and unveil hidden topics, trends, and patterns. Additionally, I am eager to harness the power of other machine",
-          "link": "https://www.cdh.cam.ac.uk/about/people/angus-james-mclean/",
-          "publishedOn": "2023-10-09T13:28:03.000Z",
-          "wordCount": 474,
-          "title": "Angus James McLean"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/katherine-michelle-enright/",
-          "author": null,
-          "description": "Katherine grew up in Singapore, where she developed twin fascinations with history and the natural world. Her undergraduate research focused on exploring the construction of natural history as “national heritage” in Singapore by analyzing the history and politics of displaying colonial-era science artefacts in local museums. For her MPhil in Digital Humanities, her research will",
-          "link": "https://www.cdh.cam.ac.uk/about/people/katherine-michelle-enright/",
-          "publishedOn": "2023-10-09T13:19:34.000Z",
-          "wordCount": 475,
-          "title": "Katherine Michelle Enright"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/ting-cheung/",
-          "author": null,
-          "description": "Ting Cheung is an MPhil student at CDH and a graduate of the Chinese University of Hong Kong with a BA in Translation. Her passion lies in exploring the power of translation and its ability to bring maturity and add value to source texts. To investigate how translations of a single work contribute to its",
-          "link": "https://www.cdh.cam.ac.uk/about/people/ting-cheung/",
-          "publishedOn": "2023-10-09T13:14:56.000Z",
-          "wordCount": 464,
-          "title": "Ting Cheung"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/zheng-liu/",
-          "author": null,
-          "description": "Zheng Liu is interested in exploring the relationship between censorship, creative language encoding, and misinformation on social media and the ways in which ethnographies and ethnographic representations can be digitally reshaped. Undergraduate training in anthropology provides Zheng Liu with a critical lens for understanding how digital technologies are situated within gendered, racialised, and politicised milieus. Through his",
-          "link": "https://www.cdh.cam.ac.uk/about/people/zheng-liu/",
-          "publishedOn": "2023-10-09T13:07:16.000Z",
-          "wordCount": 459,
-          "title": "Zheng Liu"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37163/",
-          "author": null,
-          "description": "Convenor: Dr Eleanor Dare (CDH Methods Fellow) This Methods Workshop will invite participants to originate innovative research methods using virtual and augmented reality technologies underpinned by theoretical and pedagogic understandings. The session is conceived in recognition of an increasing interest in using virtual and extended reality (VR and XR) to create collaborative research spaces that",
-          "link": "https://www.cdh.cam.ac.uk/events/37163/",
-          "publishedOn": "2023-10-09T12:56:24.000Z",
-          "wordCount": 713,
-          "title": "Virtual and augmented reality as new material for teaching, learning and research"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/amelia-ohalloran/",
-          "author": null,
-          "description": "Amelia attended Brown University, where she graduated with a dual-major in Computer Science and in East Asian Studies. Her undergraduate thesis focused on cybersecurity and privacy, specifically regarding gendered exploitation and abuse online. After graduating in 2021, Amelia joined McKinsey’s Cybersecurity practice in New York, where she worked to support companies in the US and",
-          "link": "https://www.cdh.cam.ac.uk/about/people/amelia-ohalloran/",
-          "publishedOn": "2023-10-09T12:55:48.000Z",
-          "wordCount": 458,
-          "title": "Amelia O’Halloran"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/le-chang/",
-          "author": null,
-          "description": "Le Chang is an MPhil student in Digital Humanities at the University of Cambridge, specialising in digital literary studies. Having completed her undergraduate studies in English Language & Literature at Sun Yat-sen University, she is currently working on stylometry, text mining, distant reading, and Anglophone modernist literature. She aims to develop different computational methods to",
-          "link": "https://www.cdh.cam.ac.uk/about/people/le-chang/",
-          "publishedOn": "2023-10-09T12:49:14.000Z",
-          "wordCount": 458,
-          "title": "Le Chang"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/xintong-gong/",
-          "author": null,
-          "description": "Xintong Gong’s research is focused on the critical analysis of data collection ethics and implications through data-related policies and tools. Inspired by posthumanism, she is keen to investigate how data and digital infrastructures alter the notion of being human and their sociocultural experiences. Xintong also considers how data collection informs the imagination of new relationships",
-          "link": "https://www.cdh.cam.ac.uk/about/people/xintong-gong/",
-          "publishedOn": "2023-10-09T12:45:31.000Z",
-          "wordCount": 471,
-          "title": "Xintong Gong"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/laura-maher/",
-          "author": null,
-          "description": "Laura Maher is an MPhil student at Cambridge Digital Humanities. She holds an undergraduate degree from the University of Queensland, Australia, where she majored in Ancient History and Philosophy. During her Honours year, Laura examined the socio-cultural influence of classical reception in Physique Pictorial magazine from 1955-1960. She is interested in studying the circulation of",
-          "link": "https://www.cdh.cam.ac.uk/about/people/laura-maher/",
-          "publishedOn": "2023-10-09T12:39:21.000Z",
-          "wordCount": 441,
-          "title": "Laura Maher"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/jiashu-zou/",
-          "author": null,
-          "description": "Jiashu Zou is currently an MPhil student in Digital Humanities. Her previous research mainly focused on the analysis of artworks within a post-modernist framework, including topics such as the site-specificity of artwork and the spectrality in archival objects. At Cambridge, she aims to explore the application of digital tools in reexamining pre-modern East Asian visual",
-          "link": "https://www.cdh.cam.ac.uk/about/people/jiashu-zou/",
-          "publishedOn": "2023-10-09T10:20:58.000Z",
-          "wordCount": 499,
-          "title": "Jiashu Zou"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/qinyi-chen/",
-          "author": null,
-          "description": "I grew up in Chengdu, China, and attained a bachelor's degree in Media and Communication studies. During my undergraduate studies, I developed a keen interest in the dynamic interplay between various forms of media and their impact on individuals and society. Specifically, I focused on digital labour and cultural representation. In addition, the reconstruction of",
-          "link": "https://www.cdh.cam.ac.uk/about/people/qinyi-chen/",
-          "publishedOn": "2023-10-09T09:58:29.000Z",
-          "wordCount": 473,
-          "title": "Qinyi Chen"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/aimee-hallsworth/",
-          "author": null,
-          "description": "Aimee is a CDH MPhil student studying at Jesus College, specialising in the representation of early modern letters in digital heritage collections. Previously, Aimee studied her undergraduate in English at Corpus Christi College, Cambridge. It was during this time that she developed an interest in epistolary texts and their particularly resistive qualities in representation. This",
-          "link": "https://www.cdh.cam.ac.uk/about/people/aimee-hallsworth/",
-          "publishedOn": "2023-10-09T08:55:14.000Z",
-          "wordCount": 471,
-          "title": "Aimee Hallsworth"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/haoyan-liu/",
-          "author": null,
-          "description": "An MPhil student at CDH, Haoyan Liu is passionate about the sparkles between \"digital\" and \"humanities\". During her undergraduate degree at the School of Information Management, Wuhan University, she focused on the image of libraries in mainstream media, and the application of knowledge graphs. Interested in literature and narrative studies, she intends to inspire literature",
-          "link": "https://www.cdh.cam.ac.uk/about/people/haoyan-liu/",
-          "publishedOn": "2023-10-09T08:47:55.000Z",
-          "wordCount": 440,
-          "title": "Haoyan Liu"
         }
       ]
     },
@@ -6394,6 +6201,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "6063 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 65 - April 2024\n\n            \nOSCARS cascading grants: deadline 15 May\nAs you might have seen at OSCARS 1st Open Call for Open Science Projects and Services or at EU Funding & Tenders Portal there is an interesting opportunity to submit proposals via the OSCARS project. There is a significant budget (13 mio EUR) and with a funding rate between 100k and 250k EUR this means that around 50 to 100 proposals can be funded.\nWe recently published some ideas about how to relate proposals to the CLARIN and SSHOC research infrastructures.\nCLARIN technical open hour, Monday 8 April at 11:00 CEST\nThe next edition of the CLARIN technology open hour is planned for Monday 8 April at 11:00 CEST. You can join virtually and ask our developers and infrastructure specialists anything. The special topic of this open hour is CLARIN-DSpace version 7. Anyone is welcome to join!\nDeadline Centre Assessment Round approaching\nThe deadline for the upcoming B-centre assessment round is 30 April 2024.\nIf you would like to participate in this 23rd round, please make sure to use:\nThe updated CoreTrustSeal 2023-2025 and AMT platform.\nThe latest version of the B-centre checklist (7.4). The difference with the previous version is the addition of two (optional) recommendations at the end of the document, on the use of the attribute checker and attribute aggregator.\nNew on the CLARIN forum\nOSCARS open call: some ideas and hints\nRepositories listed on CLARIN website\nCLARIN Trainers’ Network\nCLARIN Resources nominated for DH Awards\nPlanned Maintenance\nComponent Registry maintenance: 9 April 2024 between 09:00 and 09:30 CEST\nACDH-CH maintenance: 12 April 16:00 to 15 April 8:00 CEST\nMore information at https://status.clarin.eu/ \n\n      Dieter Van Uytvanck\n 3 April 2024\n\n\n    \ncentre news",
+          "link": "https://www.clarin.eu/blog/centre-news-vol-65-april-2024",
+          "publishedOn": "2024-04-03T13:46:28.000Z",
+          "wordCount": 505,
+          "title": "Centre news vol. 65 - April 2024",
+          "imageUrl": null
+        },
         {
           "id": "6057 at https://www.clarin.eu",
           "author": "Karina Berger",
@@ -6711,15 +6528,6 @@
           "publishedOn": "2023-10-16T15:17:11.000Z",
           "wordCount": 953,
           "title": "Steven Krauwer Awards 2023"
-        },
-        {
-          "id": "5972 at https://www.clarin.eu",
-          "author": "Dieter Van Uytvanck",
-          "description": "Centre news vol. 60 - October 2023\n\n            \nCLARIN technical open hour, Monday 9 October at 11:00 CEST\nHere it is: the second edition of the CLARIN technology open hour. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nThere will be more open hours on 13 November and 11 December.\nDeadline Centre Assessment Round approaching\nThe deadline for the upcoming B-centre assessment round is 31 October 2023.\nIf you would like to participate in this 22nd round, please make sure to use:\nThe updated CoreTrustSeal 2023-2025 and AMT platform. \nThe latest version of the B-centre checklist (7.4). The difference with the previous version is the addition of two (optional) recommendations at the end of the document, on the use of the attrib…",
-          "link": "https://www.clarin.eu/blog/centre-news-vol-60-october-2023",
-          "publishedOn": "2023-10-08T09:44:44.000Z",
-          "wordCount": 625,
-          "title": "Centre news vol. 60 - October 2023"
         }
       ]
     },
@@ -6894,15 +6702,6 @@
           "publishedOn": "2023-10-23T15:17:48.000Z",
           "wordCount": 2238,
           "title": "RLUK Space Event – Developing sustainable libraries: from design to user engagement"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=14206",
-          "author": "Melanie Cheung",
-          "description": "#RLUK24 Virtual Conference :: 20-22 March 2024 New Frontiers: The expanding scope of the modern research library  The RLUK24 Conference call for papers is now open. The deadline for submissions is Friday 1 December 2023. Full details can be found on the RLUK Conference website. The role of the research library continues to  [...]\nThe post RLUK24 Conference Call for Papers appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/rluk24-conference-call-for-papers/",
-          "publishedOn": "2023-10-10T11:24:23.000Z",
-          "wordCount": 1249,
-          "title": "RLUK24 Conference Call for Papers"
         }
       ]
     },
@@ -6998,6 +6797,116 @@
       "feedUrl": "https://dhandlib.org/feed/",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=155597",
+          "author": "John Russell",
+          "description": "UW Libraries seeks a collaborative and creative librarian to join our Digital Collections team.  The Digital Collections Librarian will oversee the digitization of materials in a variety of formats, both 2D and 3D, planning and execution of new digital collections and exhibits, and the maintenance of existing digital collections. The Digital Collections Librarian will coordinate ...read more",
+          "link": "https://dhandlib.org/2024/04/04/job-digital-collections-librarian-university-of-wyoming-2/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-collections-librarian-university-of-wyoming-2",
+          "publishedOn": "2024-04-05T01:08:27.000Z",
+          "wordCount": 565,
+          "title": "JOB: Digital Collections Librarian (University of Wyoming)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=155599",
+          "author": "John Russell",
+          "description": "Salary Range: Targeted salary $72,000 annually, based on experience Benefits Provided: Yes Required Attachments: Resume, Cover Letter, Other Document (See Job Requirements for details) Job Description — The University Libraries seeks to recruit a technical professional who has a passion for the higher education environment to support data-intensive research and digital scholarship projects. The Research Informatics Specialist is ...read more",
+          "link": "https://dhandlib.org/2024/04/04/job-research-informatics-specialist-university-of-oklahoma/?utm_source=rss&utm_medium=rss&utm_campaign=job-research-informatics-specialist-university-of-oklahoma",
+          "publishedOn": "2024-04-05T01:08:27.000Z",
+          "wordCount": 2916,
+          "title": "JOB: Research Informatics Specialist (University of Oklahoma)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=155603",
+          "author": "John Russell",
+          "description": "Come join the team at the Smithsonian American Women’s History Museum! We’re working to expand the story of America through the often-untold accounts and accomplishments of women individually and collectively—to better understand our past and inspire our future. We’re looking for dedicated individuals to help us create space for women’s history on the National Mall ...read more",
+          "link": "https://dhandlib.org/2024/04/04/job-digital-community-partnerships-specialist-smithsonian-institution/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-community-partnerships-specialist-smithsonian-institution",
+          "publishedOn": "2024-04-05T01:08:27.000Z",
+          "wordCount": 4310,
+          "title": "JOB: Digital Community Partnerships Specialist (Smithsonian Institution)",
+          "imageUrl": "https://www.usajobs.gov/media/content/usajobs-branded-search.png"
+        },
+        {
+          "id": "https://dhandlib.org/?p=155607",
+          "author": "John Russell",
+          "description": "Amherst has taken a leadership role among highly selective liberal arts colleges and universities in successfully diversifying the racial, socio-economic, and geographic profile of its student body. The College is similarly committed to enriching its educational experience and its culture through the diversity of its faculty, administration and staff.   Job Description:   Amherst College ...read more",
+          "link": "https://dhandlib.org/2024/04/04/job-digital-stewardship-librarian-amherst-college/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-stewardship-librarian-amherst-college",
+          "publishedOn": "2024-04-05T01:08:27.000Z",
+          "wordCount": null,
+          "title": "JOB: Digital Stewardship Librarian (Amherst College)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=155614",
+          "author": "Linsey Ford",
+          "description": "The Humanities Center at the University of Tennessee-Knoxville will host “A Counterhistory of Data Visualization” on April 15 as part of their 2023-2024 Distinguished Lecture Series. The talk will be given by visiting scholar Lauren Klein of Emory University and will focus the “return to the origins of modern data visualization in order excavate this ...read more",
+          "link": "https://dhandlib.org/2024/04/04/event-ut-humanities-centers-distinguished-lecture-series/?utm_source=rss&utm_medium=rss&utm_campaign=event-ut-humanities-centers-distinguished-lecture-series",
+          "publishedOn": "2024-04-05T01:08:26.000Z",
+          "wordCount": 2939,
+          "title": "EVENT: UT Humanities Center’s Distinguished Lecture Series",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=155616",
+          "author": "Linsey Ford",
+          "description": "Proposals are now being accepted for Cultures of Scale: Discipline, Data, and Labor, part of the Debates in Digital Humanities book series from The University of Minnesota Press. From the call: This volume is designed for a wide array of perspectives. We have much to gain from the complex and critical debates on scale within ...read more",
+          "link": "https://dhandlib.org/2024/04/04/cfp-cultures-of-scale-disciplines-data-and-labor/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-cultures-of-scale-disciplines-data-and-labor",
+          "publishedOn": "2024-04-05T01:08:26.000Z",
+          "wordCount": 3012,
+          "title": "CFP: Cultures of Scale: Disciplines, Data, and Labor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=155618",
+          "author": "Linsey Ford",
+          "description": "Digitorium, the annual Digital Humanities conference hosted by the Alabama Digital Humanities Center at University of Alabama Libraries, is now accepting proposals. They specifically “encourage submissions that ask big questions, present puzzles for problem-solving, and share outside of the box ideas.” Presentation formats include: Papers: 15 minute presentations (max 2000 words). Papers are an opportunity for ...read more",
+          "link": "https://dhandlib.org/2024/04/04/cfp-digitorium-2024/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-digitorium-2024",
+          "publishedOn": "2024-04-05T01:08:26.000Z",
+          "wordCount": 3118,
+          "title": "CFP: Digitorium 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=155594",
+          "author": "Linsey Ford",
+          "description": "The DH@Guelph team, partnered with Canadian Certificate in Digital Humanities (CC:DH), has announced their 2024 Summer Workshops which are set for May 14th- 17th. The workshops will focus on topics related to digital humanities research and teaching from a variety of disciplines. Workshop topics include: Making Connections: The Semantic Web for Humanities Scholars Introduction to ...read more",
+          "link": "https://dhandlib.org/2024/04/04/event-dhguelph-summer-workshops/?utm_source=rss&utm_medium=rss&utm_campaign=event-dhguelph-summer-workshops",
+          "publishedOn": "2024-04-05T01:08:26.000Z",
+          "wordCount": 2978,
+          "title": "EVENT: DH@Guelph Summer Workshops",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=155609",
+          "author": "John Russell",
+          "description": "Florida International University Libraries (FIU Libraries) serves as the intellectual heart of our students’ academic journeys, offering pathways to knowledge and discovery, ultimately paving the way for student success. Our libraries provide essential resources crucial for research and innovation, fostering collaborative research endeavors and supporting scholars throughout the entirety of their research lifecycle. FIU Libraries ...read more",
+          "link": "https://dhandlib.org/2024/04/04/job-digital-humanities-librarian-florida-international-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-humanities-librarian-florida-international-university",
+          "publishedOn": "2024-04-05T01:08:26.000Z",
+          "wordCount": null,
+          "title": "JOB: Digital Humanities Librarian (Florida International University)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=155611",
+          "author": "John Russell",
+          "description": "The latest lesson from Programming Historian is “Working with Named Places: How and Why to Build a Gazetteer” by Susan Grunewald and Ruth Mostern. The lesson takes the learner through the process of creating a gazetteer from historical texts and then shows how one might leverage the gazetteer’s data using linked open data and GIS. ...read more",
+          "link": "https://dhandlib.org/2024/04/04/resource-working-with-named-places-how-and-why-to-build-a-gazetteer-programming-historian/?utm_source=rss&utm_medium=rss&utm_campaign=resource-working-with-named-places-how-and-why-to-build-a-gazetteer-programming-historian",
+          "publishedOn": "2024-04-05T01:08:26.000Z",
+          "wordCount": 2983,
+          "title": "RESOURCE: Working with Named Places: How and Why to Build a Gazetteer (Programming Historian)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=155592",
+          "author": "Linsey Ford",
+          "description": "The Black Digital Humanities Lab will host a Black Digital Humanities Symposium on April 12. The symposium “brings together graduate students, practitioners, community activists, and artists to discuss the future of this field, exploring what it means to come together to weave Black futures.” Sessions include panels on representation & resistance in digital media and ...read more",
+          "link": "https://dhandlib.org/2024/04/04/event-black-digital-humanities-symposium/?utm_source=rss&utm_medium=rss&utm_campaign=event-black-digital-humanities-symposium",
+          "publishedOn": "2024-04-05T01:08:25.000Z",
+          "wordCount": 2972,
+          "title": "EVENT: Black Digital Humanities Symposium",
+          "imageUrl": null
+        },
         {
           "id": "https://dhandlib.org/?p=153905",
           "author": "Pamella Lach",
