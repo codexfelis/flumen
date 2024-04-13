@@ -2343,6 +2343,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12626",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Özge Eda Kaya (@ozgedakaya on Twitter/X). Nodegoat is a web-based research application framework developed …",
+          "link": "https://digitalorientalist.com/2024/04/12/exploring-the-depths-of-data-an-introduction-to-nodegoat/",
+          "publishedOn": "2024-04-12T13:00:00.000Z",
+          "wordCount": 4814,
+          "title": "Exploring the Depths of Data: An Introduction to Nodegoat",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/04/image.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12291",
           "author": "The Digital Orientalist",
           "description": "Tracking Drug Names Across Language, Time, Space and Knowledge Domains to Produce New Visions of Traditional Medicine This is a …",
@@ -3899,15 +3909,6 @@
           "publishedOn": "2023-10-18T08:05:03.000Z",
           "wordCount": 3398,
           "title": "What is cultural heritage?"
-        },
-        {
-          "id": "https://readcoop.eu/?p=33600",
-          "author": "Helene",
-          "description": "We are excited to announce the October 2023 release of the Transkribus web app. Since the last release, we have added some improvements to the way you can organise your documents, plus there is news regarding Table and Field Models. Let’s explore the latest additions! Document Overview Organise your documents Relocate Documents: Users can now […]\nThe post Transkribus Update – October 2023 appeared first on READ-COOP.",
-          "link": "https://readcoop.eu/transkribus-update-october-2023/",
-          "publishedOn": "2023-10-16T14:03:48.000Z",
-          "wordCount": 1749,
-          "title": "Transkribus Update – October 2023"
         }
       ]
     },
@@ -4281,15 +4282,6 @@
           "publishedOn": "2023-10-23T13:00:00.000Z",
           "wordCount": 1193,
           "title": "Manuscript Monday: LJS 398 – Maqālah fī khalq al-insān. = مقالة في خلق الانسان. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17908",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 397, student lecture notes for the second level of instruction in astronomy at the university at Wittenberg during Philipp Melanchthon’s tenure on the theology faculty there, including discussion of spherical astronomy, atmospheric refraction, conversion of degrees intoContinue reading \"Manuscript Monday: LJS 397 – [Astronomy lecture notes]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/10/16/manuscript-monday-ljs-397-astronomy-lecture-notes-video-orientation/",
-          "publishedOn": "2023-10-16T13:00:00.000Z",
-          "wordCount": 1188,
-          "title": "Manuscript Monday: LJS 397 – [Astronomy lecture notes]. (Video Orientation)"
         }
       ]
     },
@@ -5088,24 +5080,6 @@
           "publishedOn": "2023-10-20T06:20:40.000Z",
           "wordCount": 356,
           "title": "Letterbox - Making shell companies visible. Digital history as a tool to unveil global networks and local infrastructures"
-        },
-        {
-          "id": "4643 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "How can scholarly critiques of games about WWII and Holocaust histories inform game making? And how can making a game about these topics enrich public history research? Such questions are guiding development of Beyond Nuremberg, a VR quest-game to collect, analyze, and contextualize primary sources related to the Nuremberg Trials and Holocaust. The talk will address how the team is using process analysis, formative assessments, and other critical making approaches to engage the practical, theoretical, and ethical questions that arise when using VR to engage with historical complexity, traumatic events, and still-vital human rights issues.\nClarissa J. Ceglio, PhD, is Associate Director of Research at Greenhouse Studios and Associate Professor of Digital Humanities at the University of Connecticut. Working at the intersections of public history, museum studies, and digital media, she collaborates with museums, libraries, and communities on interdisciplinary public-facing projects that engage diverse audiences in topics of contemporary concern. Ceglio is author of A Cultural Arsenal for Democracy: The World War II Work of US Museums and contributor to Radical Roots: Public History and a Tradition of Social Justice Activism and U.S. Museum Histories and the Politics of Interpretation. \n \nWednesday, 22 November 2023\n17:00 – 18:30\nBlack Box, Maison des Sciences Humaines\nBelval Campus\nand online.\nThe lecture will be followed by a reception.\n \n\n\n\n22 November 2023\n  Public history\n  Holocaust  Media history  Public History  WW2\n  Conferences\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/beyond-nuremberg-critical-game-making-public-history-research",
-          "publishedOn": "2023-10-16T12:31:53.000Z",
-          "wordCount": 432,
-          "title": "Beyond Nuremberg: Critical Game Making as Public History Research"
-        },
-        {
-          "id": "4642 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Encounters with new technologies often bring with them opportunities to create new narratives, but they also bear the potential to entrench existing ones that have prioritized certain perspectives in place of others. This presentation looks at the ways in which digital tools and platforms are currently being used within the museum sector across different African countries. What challenges do these platforms present and how do they allow practitioners to subvert entrenched ideologies? Most importantly, it looks at the implementation of these technologies and questions what is needed to successfully scale, implement and support a growing ecosystem of digital cultural practitioners in the region?\nChao Tayiana Maina is a Kenyan historian and digital heritage specialist that works at the intersection of digital humanities and public education. She uses digital technologies to unearth previously hidden or suppressed historical narratives, make these accessible to a wider audience and enable communities to engage with their cultural heritage. She has a background in computer sciences with a specialization in digital heritage studies.\nShe is the founder of African Digital Heritage, a co-founder of the Museum of British Colonialism and a co-founder of the Open Restitution Africa project.\n \nThursday, 2 November 2023\n14.00 - 15.00\nC²DH Open Space (4th floor, Maison des Sciences humaines) and online.\n2 November 2023\n  Public history\n  Digital methods  Digital tools  Museology  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/plurality-and-purpose-strengthening-digital-heritage-eco-systems-africas-museum-sector",
-          "publishedOn": "2023-10-16T11:26:19.000Z",
-          "wordCount": 435,
-          "title": "Plurality and Purpose: Strengthening digital heritage eco-systems in Africa’s museum sector"
         }
       ]
     },
@@ -6652,15 +6626,6 @@
           "publishedOn": "2023-11-02T08:27:58.000Z",
           "wordCount": 1433,
           "title": "Manually Annotated Corpora for Teaching and Learning Purposes of Brazilian Portuguese, Dutch, Estonian, and Slovene – the CrowLL project"
-        },
-        {
-          "id": "5976 at https://www.clarin.eu",
-          "author": "Julia Misersky",
-          "description": "Steven Krauwer Awards 2023\n\n            \n  \n    \n\n\n      \n\nEiríkur Rögnvaldsson Wins 2023 Steven Krauwer Award for CLARIN Achievements\nEiríkur Rögnvaldsson is a professor emeritus at the University of Iceland.\nReasons for Nomination\nOver the past two decades, Rögnvaldsson has played a vital role in language technology in Iceland, actively working towards Icelandic being included in digital language developments.\nExpertise and Contribution\nSince 1998, Rögnvaldsson has taken part in many Nordic and European initiatives in the field of language technology. Rögnvaldsson was a key figure during the  first Icelandic language technology programme (2000-2004), participating as either project leader or steering group member for many of the language technology projects during that period, such as th…",
-          "link": "https://www.clarin.eu/news/steven-krauwer-awards-2023",
-          "publishedOn": "2023-10-16T15:17:11.000Z",
-          "wordCount": 953,
-          "title": "Steven Krauwer Awards 2023"
         }
       ]
     },
