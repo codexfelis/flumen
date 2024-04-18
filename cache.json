@@ -2226,6 +2226,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12422",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Amy E. Harth, PhD. Bio at the end of the post. Cover photo by …",
+          "link": "https://digitalorientalist.com/2024/04/17/principles-for-creating-lasting-digital-archives-a-researchers-perspective/",
+          "publishedOn": "2024-04-17T13:00:00.000Z",
+          "wordCount": 5239,
+          "title": "Principles for Creating Lasting Digital Archives: A Researcher’s Perspective",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/04/image-for-do.jpg"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12663",
           "author": "The Digital Orientalist",
           "description": "This is a guest post by Jiajun Zou. See bio at the end of this post. Part I Tianyige Ming …",
@@ -3470,6 +3480,21 @@
       "siteUrl": "https://radihum20.de/",
       "articles": [
         {
+          "id": "https://radihum20.de/?p=936",
+          "author": "Clara Helmig",
+          "description": "Heute geht es weiter mit unserer Mini-Serie mit Gastfolgen zur DHd2024. In diesem Special haben wir das Vergnügen, drei exklusive Episoden zu präsentieren, in denen Theresa Beckert, eine DH-Studentin (MA, 3. FS) der Universität Dresden und zugleich Doktorandin der ÄdL, ihre ersten Erfahrungen auf einer Konferenz der Digital Humanities teilt. Diese Folgen, die jeweils einen […]\nDer Beitrag DHd2024: Quo Vadebas II. Ein studentischer Erfahrungsbericht von Theresa Beckert erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/dhd2024-quo-vadebas-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhd2024-quo-vadebas-2",
+          "publishedOn": "2024-04-18T06:48:00.000Z",
+          "wordCount": 2619,
+          "title": "DHd2024: Quo Vadebas II. Ein studentischer Erfahrungsbericht von Theresa Beckert",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/QuoVadebasTeil2_Schnitt_final.mp3",
+            "length": "30772667",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://radihum20.de/wp-content/uploads/2024/04/Quo-Vadebas-3.png"
+        },
+        {
           "id": "https://radihum20.de/?p=924",
           "author": "Clara Helmig",
           "description": "Nach unserem historischen Special zur DHd24 in Passau haben wir gleich noch eine zweite Sonderausgabe für euch. In dieser Mini-Serie haben wir das Vergnügen, drei exklusive Episoden zu präsentieren, in denen Theresa Beckert, eine DH-Studentin (MA, 3. FS) der Universität Dresden und zugleich Doktorandin der ÄdL, ihre ersten Erfahrungen auf einer Konferenz der digitalen Geisteswissenschaften […]\nDer Beitrag DHd2024: Quo Vadebas I. Ein studentischer Erfahrungsbericht von Theresa Beckert erschien zuerst auf RaDiHum 20.",
@@ -4455,6 +4480,26 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/04/18/what-do-you.html",
+          "author": null,
+          "description": "In my work on the Trove Data Guide I’ve started sketching out a series of research pathways. These are intended as ways of connecting Trove data to tools and questions – providing examples of the steps involved in gathering, preparing, and using data to explore particular research topics.\nI’ve currently defined six pathways, roughly based on different types of data that you can get from Trove:\nText\nImages\nStructured data\nMaps and places\nNetworks and relationships\nCreating collections\n‘Creating collections’ is a bit different I suppose, as it’s meant to relate to the work of assembling research collections from data in Trove – for example, creating a collection of annotated newspaper articles in Omeka.\nI have some ideas, of course, about the types of tutorials and examples to include in each pathway, but I’m wondering what you would like to see. What would you like to be able to do with Trove data?\nYou might get some inspiration by browsing through what’s already in the Trove Data Guide and the GLAM Workbench, or perhaps you have a research question that’s foundered because you couldn’t get the data you needed out of Trove. If you have any ideas please share them via the TDG’s ideas board. This is a chance to get some of your gnarly Trove data problems solved!\nNote that the TDG links in this post go to the development version, which changes frequently. There is also a published version that doesn’t include the latest content.",
+          "link": "https://updates.timsherratt.org/2024/04/18/what-do-you.html",
+          "publishedOn": "2024-04-18T06:22:39.000Z",
+          "wordCount": 307,
+          "title": "What do you want to do with Trove data?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://wragge.micro.blog/2024/04/18/update-saving-trove.html",
+          "author": null,
+          "description": "You probably know that when you select the Download as Image option for a digitised newspaper article in Trove what you get back is not actually an image ­– it’s an HTML document, in which the original image has been sliced up to try and fit on an A4 page when printed. So this article:\n\r\nEnds up looking like this!!\n\r\nSo what do you do when you just want an image of an article as it appeared in the newspaper? Some years ago I figured out a workaround that involves scraping the OCR positional data that’s embedded in Trove’s newspaper viewer and cropping the article from a high-resolution image of the page. The method is documented in the GLAM Workbench and the Trove Data Guide, and I’ve packaged up the code in trove-newspapers-images so you can embed it in your own projects.\nI also created a…",
+          "link": "https://updates.timsherratt.org/2024/04/18/update-saving-trove.html",
+          "publishedOn": "2024-04-18T02:32:50.000Z",
+          "wordCount": 566,
+          "title": "Update! Saving Trove newspaper articles and pages as images",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/nla.news-article203234114-22060404.jpg"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/04/10/getting-to-know.html",
           "author": null,
           "description": "I spend a lot of my time trying to highlight the wealth of resources available through Trove – whether that’s 25,000 digitised Parliamentary Papers, 6,000 oral histories you can listen to online, or 3,471 full-page editorial cartoons from The Bulletin. Most recently I’ve been working on digitised periodicals, developing a new section for the Trove Data Guide. But as I was harvesting data about the 900 periodicals and 37,000 issues that had so far been digitised, I wondered about periodicals that were born digital – in particular, those that had been submitted to the National Library by publishers and authors through the National eDeposit Scheme (NED). It turns out, there’s a lot more than I realised.\nI’ve added a new notebook to the Trove Periodicals section of the GLAM Workbench that harv…",
@@ -4954,6 +4999,36 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/announcing-cdh-gates-cambridge-scholars-2024/",
+          "author": null,
+          "description": "Two outstanding scholars from the inaugural cohort of Cambridge Digital Humanities' new PhD in Digital Humanities have been selected as Gates Cambridge Scholars. Emmanuel Iduma and Sonia Fereidooni, who begin their doctoral studies at CDH in October, join the Gates Cambridge Class of 2024, a cohort of 75 new scholars who represent 69 different nationalities",
+          "link": "https://www.cdh.cam.ac.uk/about/news/announcing-cdh-gates-cambridge-scholars-2024/",
+          "publishedOn": "2024-04-17T16:18:29.000Z",
+          "wordCount": 1841,
+          "title": "Announcing: CDH Gates Cambridge Scholars 2024",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/04/CDH-Gates-Scholars-2024.png"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/38167/",
+          "author": null,
+          "description": "Since 2021 a partnership of UK institutions has been involved in the creation and delivery of a summer school aimed at researchers in the digital humanities who intend to professionalise their software engineering skills. The Digital Humanities & Research Software Engineering Summer School 2024, hosted at the Edinburgh Futures Institute, combines talks and practical activities",
+          "link": "https://www.cdh.cam.ac.uk/events/38167/",
+          "publishedOn": "2024-04-17T13:59:12.000Z",
+          "wordCount": 1639,
+          "title": "Digital Humanities & Research Software Engineering Summer School 2024",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/04/rse-summer-school-24-e1713359039902.png"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-lise-jaillant/",
+          "author": null,
+          "description": "Dr Lise Jaillant is a Reader (Associate Professor) in Digital Cultural Heritage at Loughborough University. Lise has a background in publishing history and digital humanities. She is an expert on born-digital archives and the issues of preservation and access to these archives. Since 2020, she has been UK PI for four AHRC-funded projects on Archives",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-lise-jaillant/",
+          "publishedOn": "2024-04-17T12:36:45.000Z",
+          "wordCount": 1540,
+          "title": "Dr Lise Jaillant",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/04/lise-jaillant-e1713355230298.jpg"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/dr-annja-neumann/",
           "author": null,

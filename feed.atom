@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-04-17T08:21:57.727Z</updated>
+    <updated>2024-04-18T08:22:52.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DHd2024: Quo Vadebas II. Ein studentischer Erfahrungsbericht von Theresa Beckert]]></title>
+        <id>https://radihum20.de/?p=936</id>
+        <link href="https://radihum20.de/dhd2024-quo-vadebas-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dhd2024-quo-vadebas-2"/>
+        <updated>2024-04-18T06:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Heute geht es weiter mit unserer Mini-Serie mit Gastfolgen zur DHd2024. In diesem Special haben wir das Vergnügen, drei exklusive Episoden zu präsentieren, in denen Theresa Beckert, eine DH-Studentin (MA, 3. FS) der Universität Dresden und zugleich Doktorandin der ÄdL, ihre ersten Erfahrungen auf einer Konferenz der Digital Humanities teilt. Diese Folgen, die jeweils einen […]
+Der Beitrag DHd2024: Quo Vadebas II. Ein studentischer Erfahrungsbericht von Theresa Beckert erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Clara Helmig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do you want to do with Trove data?]]></title>
+        <id>http://wragge.micro.blog/2024/04/18/what-do-you.html</id>
+        <link href="https://updates.timsherratt.org/2024/04/18/what-do-you.html"/>
+        <updated>2024-04-18T06:22:39.000Z</updated>
+        <summary type="html"><![CDATA[In my work on the Trove Data Guide I’ve started sketching out a series of research pathways. These are intended as ways of connecting Trove data to tools and questions – providing examples of the steps involved in gathering, preparing, and using data to explore particular research topics.
+I’ve currently defined six pathways, roughly based on different types of data that you can get from Trove:
+Text
+Images
+Structured data
+Maps and places
+Networks and relationships
+Creating collections
+‘Creating collections’ is a bit different I suppose, as it’s meant to relate to the work of assembling research collections from data in Trove – for example, creating a collection of annotated newspaper articles in Omeka.
+I have some ideas, of course, about the types of tutorials and examples to include in each pathway, but I’m wondering what you would like to see. What would you like to be able to do with Trove data?
+You might get some inspiration by browsing through what’s already in the Trove Data Guide and the GLAM Workbench, or perhaps you have a research question that’s foundered because you couldn’t get the data you needed out of Trove. If you have any ideas please share them via the TDG’s ideas board. This is a chance to get some of your gnarly Trove data problems solved!
+Note that the TDG links in this post go to the development version, which changes frequently. There is also a published version that doesn’t include the latest content.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update! Saving Trove newspaper articles and pages as images]]></title>
+        <id>http://wragge.micro.blog/2024/04/18/update-saving-trove.html</id>
+        <link href="https://updates.timsherratt.org/2024/04/18/update-saving-trove.html"/>
+        <updated>2024-04-18T02:32:50.000Z</updated>
+        <summary type="html"><![CDATA[You probably know that when you select the Download as Image option for a digitised newspaper article in Trove what you get back is not actually an image ­– it’s an HTML document, in which the original image has been sliced up to try and fit on an A4 page when printed. So this article:
+
+Ends up looking like this!!
+
+So what do you do when you just want an image of an article as it appeared in the newspaper? Some years ago I figured out a workaround that involves scraping the OCR positional data that’s embedded in Trove’s newspaper viewer and cropping the article from a high-resolution image of the page. The method is documented in the GLAM Workbench and the Trove Data Guide, and I’ve packaged up the code in trove-newspapers-images so you can embed it in your own projects.
+I also created a…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing: CDH Gates Cambridge Scholars 2024]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/announcing-cdh-gates-cambridge-scholars-2024/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/announcing-cdh-gates-cambridge-scholars-2024/"/>
+        <updated>2024-04-17T16:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Two outstanding scholars from the inaugural cohort of Cambridge Digital Humanities' new PhD in Digital Humanities have been selected as Gates Cambridge Scholars. Emmanuel Iduma and Sonia Fereidooni, who begin their doctoral studies at CDH in October, join the Gates Cambridge Class of 2024, a cohort of 75 new scholars who represent 69 different nationalities]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities & Research Software Engineering Summer School 2024]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/38167/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/38167/"/>
+        <updated>2024-04-17T13:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Since 2021 a partnership of UK institutions has been involved in the creation and delivery of a summer school aimed at researchers in the digital humanities who intend to professionalise their software engineering skills. The Digital Humanities & Research Software Engineering Summer School 2024, hosted at the Edinburgh Futures Institute, combines talks and practical activities]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principles for Creating Lasting Digital Archives: A Researcher’s Perspective]]></title>
+        <id>http://digitalorientalist.com/?p=12422</id>
+        <link href="https://digitalorientalist.com/2024/04/17/principles-for-creating-lasting-digital-archives-a-researchers-perspective/"/>
+        <updated>2024-04-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest post by Amy E. Harth, PhD. Bio at the end of the post. Cover photo by …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Lise Jaillant]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-lise-jaillant/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-lise-jaillant/"/>
+        <updated>2024-04-17T12:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Dr Lise Jaillant is a Reader (Associate Professor) in Digital Cultural Heritage at Loughborough University. Lise has a background in publishing history and digital humanities. She is an expert on born-digital archives and the issues of preservation and access to these archives. Since 2020, she has been UK PI for four AHRC-funded projects on Archives]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to improve the CER of your model]]></title>
         <id>https://readcoop.eu/?p=34819</id>
