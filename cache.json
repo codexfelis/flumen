@@ -37,7 +37,18 @@
       "title": "DHNB",
       "feedUrl": "http://dhnb.eu/feed",
       "siteUrl": "https://dhnb.eu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://dhnb.eu/?p=2956",
+          "author": "Eiríkur",
+          "description": "We present with pleasure the programme for the DHNB conference in Reykjavík this May. See information about keynote speakers and the full programme here: https://dhnb.eu/conferences/dhnb2024/programme/ Early bird registration is open until 6 May. Registration is through ConfTool: https://www.conftool.org/dhnb2024/index.php?page=participate/",
+          "link": "https://dhnb.eu/dhnb2024-programme-published/",
+          "publishedOn": "2024-04-30T16:08:03.000Z",
+          "wordCount": 525,
+          "title": "DHNB2024 – Programme published",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "News – Global Outlook::Digital Humanities",
@@ -895,6 +906,106 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=158258",
+          "author": "Claudia Berger",
+          "description": "",
+          "link": "https://dhandlib.org/2024/04/29/making-research-tactile-critical-making-and-data-physicalization-in-digital-humanities/?utm_source=rss&utm_medium=rss&utm_campaign=making-research-tactile-critical-making-and-data-physicalization-in-digital-humanities",
+          "publishedOn": "2024-04-29T16:04:02.000Z",
+          "wordCount": 2565,
+          "title": "Making Research Tactile: Critical Making and Data Physicalization in Digital Humanities Special Issue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=158284",
+          "author": "Claudia Berger",
+          "description": "Play With Your Data on Humanities Commons",
+          "link": "https://dhandlib.org/2024/04/29/play-with-your-data-printable-zine/?utm_source=rss&utm_medium=rss&utm_campaign=play-with-your-data-printable-zine",
+          "publishedOn": "2024-04-29T16:03:38.000Z",
+          "wordCount": null,
+          "title": "Play With Your Data (printable zine)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=153797",
+          "author": "Claudia Berger",
+          "description": "This special issue of dh+lib introduces our readers to how digital humanities can integrate data physicalization into the research process and how data physicalization is a form of critical making. Seven case studies are presented here, ranging from how we can use data physicalization to teach digital methods to how data physicalization can aid in ...read more",
+          "link": "https://dhandlib.org/2024/04/29/making-research-tactile/?utm_source=rss&utm_medium=rss&utm_campaign=making-research-tactile",
+          "publishedOn": "2024-04-29T16:03:12.000Z",
+          "wordCount": 4111,
+          "title": "Making Research Tactile: Critical Making and Data Physicalization in Digital Humanities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=156138",
+          "author": "Nancy Smith",
+          "description": "Color has long had a deep connection to our emotions, which cuts through different cultures, time periods, and contexts, from textiles and architecture to design and art. Goethe was the first Western color theorist to suggest that colors have a direct effect on our physical and psychological wellbeing. Writing in his book, Theory of Colours, ...read more",
+          "link": "https://dhandlib.org/2024/04/29/emotional-bookmarks-data-physicalization-and-the-language-of-literature/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-bookmarks-data-physicalization-and-the-language-of-literature",
+          "publishedOn": "2024-04-29T16:02:14.000Z",
+          "wordCount": 5928,
+          "title": "Emotional Bookmarks: Data Physicalization and the Language of Literature",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=156459",
+          "author": "kim.knight",
+          "description": "The following recipe focuses on using data visceralization to engage very difficult data, with an emphasis on what feeling the data can do (as opposed to seeing it), and strategies for contextualizing the data and its effects. There is a particular subset of visualization-based data science known as Quantified Self. The Quantified Self (QS) movement ...read more",
+          "link": "https://dhandlib.org/2024/04/29/black-ribbon-for-mourning-affective-solidarity-and-feeling-very-difficult-data/?utm_source=rss&utm_medium=rss&utm_campaign=black-ribbon-for-mourning-affective-solidarity-and-feeling-very-difficult-data",
+          "publishedOn": "2024-04-29T16:01:42.000Z",
+          "wordCount": 6732,
+          "title": "Black Ribbon for Mourning: Affective Solidarity and Feeling Very Difficult Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=154321",
+          "author": "Amanda Wyatt Visconti",
+          "description": "My digital humanities center recently returned to a renovated library building with a dedicated public area. Our pre-renovation space included semi-public shelves full of DH-relevant books, but by 2019 thirteen years of book accrual meant our specialized reference collection needed significant curation. Some of the most appreciated books weren’t making it back to us, and ...read more",
+          "link": "https://dhandlib.org/2024/04/29/book-adjacent-database-makerspace-prototypes-repairing-book-centric-citation-bias-in-dh-working-libraries/?utm_source=rss&utm_medium=rss&utm_campaign=book-adjacent-database-makerspace-prototypes-repairing-book-centric-citation-bias-in-dh-working-libraries",
+          "publishedOn": "2024-04-29T16:01:15.000Z",
+          "wordCount": 7943,
+          "title": "Book Adjacent: Database & Makerspace Prototypes Repairing Book-Centric Citation Bias in DH Working Libraries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=153988",
+          "author": "hmabuchi",
+          "description": "For readers unfamiliar with the process of weaving, terms that first appear below in bold typeface are explained in the Weaving primer/glossary section between the Footnotes and Recipe. I first faced a loom in summer 2017 at the Haystack Mountain School of Craft, during their Open Studio Residency, just before leaving.  I went to Haystack ...read more",
+          "link": "https://dhandlib.org/2024/04/29/weaving-as-coding-complexity-and-nostalgia/?utm_source=rss&utm_medium=rss&utm_campaign=weaving-as-coding-complexity-and-nostalgia",
+          "publishedOn": "2024-04-29T16:00:30.000Z",
+          "wordCount": 6580,
+          "title": "Weaving as Coding: Complexity and Nostalgia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=156914",
+          "author": "qad",
+          "description": "“That is such a cool idea, but I’m not crafty at all.” I hear this a lot when I mention that I run a Textile Makerspace, and teach Data Visualization with Textiles. It’s easy to see where people are coming from: temperature blankets, covid scarves, quilted topographic maps, embroidered Greek epic poetry — the data ...read more",
+          "link": "https://dhandlib.org/2024/04/29/knot-hard-accessible-textile-data-visualization-with-a-circular-knitting-machine/?utm_source=rss&utm_medium=rss&utm_campaign=knot-hard-accessible-textile-data-visualization-with-a-circular-knitting-machine",
+          "publishedOn": "2024-04-29T15:59:42.000Z",
+          "wordCount": 5932,
+          "title": "Knot Hard: Accessible Textile Data Visualization with a Circular Knitting Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=156876",
+          "author": "nestrada",
+          "description": "An aspect of making and crafting I considered when invited to contribute to this special issue on physical data visualization is the possibility of confronting failure, especially the failure in the make, and the outcome possibly going very wrong. To be able to learn and grow as a crafter and data viz creator is to ...read more",
+          "link": "https://dhandlib.org/2024/04/29/off-the-wheel-and-off-the-rails-when-making-and-teaching-go-wrong/?utm_source=rss&utm_medium=rss&utm_campaign=off-the-wheel-and-off-the-rails-when-making-and-teaching-go-wrong",
+          "publishedOn": "2024-04-29T15:59:06.000Z",
+          "wordCount": 5167,
+          "title": "Off the Wheel and Off the Rails: When Making and Teaching Go Wrong",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=156775",
+          "author": "ccmartinez",
+          "description": "Introduction Over the past year I have been researching and crafting a data physicalization piece titled Me & You, 2024 (porcelain and thread, Figure 1). The resulting piece maps the physical locations of three significant people in my life in relation to where I lived at the time. Thread was weaved in between the shapes ...read more",
+          "link": "https://dhandlib.org/2024/04/29/developing-a-creative-practice-with-ceramic-data-physicalizations/?utm_source=rss&utm_medium=rss&utm_campaign=developing-a-creative-practice-with-ceramic-data-physicalizations",
+          "publishedOn": "2024-04-29T15:58:31.000Z",
+          "wordCount": 6461,
+          "title": "Developing a Creative Practice with Ceramic Data Physicalizations",
+          "imageUrl": null
+        },
         {
           "id": "https://dhandlib.org/?p=157136",
           "author": "Nickoal Eichmann-Kalwara",
@@ -1775,105 +1886,6 @@
           "publishedOn": "2023-11-16T17:49:25.000Z",
           "wordCount": null,
           "title": "JOB: Digital Scholarship Librarian (Ramapo College of New Jersey)"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135325",
-          "author": "Rachel Starry",
-          "description": "A recently published paper in the Journal of Open Humanities Data titled “Datasheets for Digital Cultural Heritage Data” explores the complexities of datasets created from digital cultural heritage collections, with the purpose of providing recommended standards for documenting these datasets. Their interest in better describing these kinds of datasets relates primarily to the Collections as ...read more",
-          "link": "https://dhandlib.org/2023/11/03/recommended-datasheets-for-digital-cultural-heritage-data/?utm_source=rss&utm_medium=rss&utm_campaign=recommended-datasheets-for-digital-cultural-heritage-data",
-          "publishedOn": "2023-11-03T17:37:29.000Z",
-          "wordCount": null,
-          "title": "RECOMMENDED: Datasheets for Digital Cultural Heritage Data"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135328",
-          "author": "Rachel Starry",
-          "description": "An interdisciplinary team of undergraduate students, library workers, and faculty from Carleton College and Grinnell College are using 3D modeling and VR technology to explore the social and cultural roles of Viking longships, in collaboration with museum professionals from the Viking Museum Haithabu and the Historical and Cultural Society of Clay County. The Virtual Viking ...read more",
-          "link": "https://dhandlib.org/2023/11/03/project-virtual-viking-longship-project/?utm_source=rss&utm_medium=rss&utm_campaign=project-virtual-viking-longship-project",
-          "publishedOn": "2023-11-03T17:36:55.000Z",
-          "wordCount": null,
-          "title": "PROJECT: Virtual Viking Longship Project"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135348",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "Conveners of the Sixth Annual Conference on Digital Humanities and Digital History, have released their call for proposals. The Conference, to take place in March 2024, will be held at the Luxembourg Centre for Contemporary and Digital History (C2DH) with hybrid options, and is organized in collaboration with the German Historical Institute Washington (GHI), the ...read more",
-          "link": "https://dhandlib.org/2023/11/03/cfp-exploring-epistemic-virtues-and-vices-data-infrastructures-and-episteme-between-collaboration-and-exploitation/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-exploring-epistemic-virtues-and-vices-data-infrastructures-and-episteme-between-collaboration-and-exploitation",
-          "publishedOn": "2023-11-03T17:35:43.000Z",
-          "wordCount": null,
-          "title": "CFP: Exploring Epistemic Virtues and Vices: Data, Infrastructures, and Episteme between Collaboration and Exploitation"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135345",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "The Journal of Electronic Publishing invites proposals for their special issue, “On Gathering: Exploring Collective and Embodied Modes of Scholarly Communication and Publishing.” From the call: When we think of scholarly communication, we’re usually thinking of something that can be shared independent of its creator(s). A book, a journal article, multimodal work, conference proceedings—the formal ...read more",
-          "link": "https://dhandlib.org/2023/11/03/cfp-on-gathering-exploring-collective-and-embodied-modes-of-scholarly-communication-and-publishing/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-on-gathering-exploring-collective-and-embodied-modes-of-scholarly-communication-and-publishing",
-          "publishedOn": "2023-11-03T17:35:22.000Z",
-          "wordCount": null,
-          "title": "CFP: On Gathering: Exploring Collective and Embodied Modes of Scholarly Communication and Publishing”"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135339",
-          "author": "Rachel Starry",
-          "description": "The Alliance of Digital Humanities Organizations (ADHO) has posted a call for proposals for Digital Humanities 2024: “Reinvention and Responsibility.” The DH2024 conference will be held August 6-9, 2024, at George Mason University in Arlington, Virginia, USA. From the call: Reinvention is a call to act with creativity, compassion, and intentionality to better meet the ...read more",
-          "link": "https://dhandlib.org/2023/11/03/cfp-digital-humanities-2024/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-digital-humanities-2024",
-          "publishedOn": "2023-11-03T17:34:58.000Z",
-          "wordCount": null,
-          "title": "CFP: Digital Humanities 2024"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135350",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "The HASTAC (Humanities, Arts, Science and Technology Alliance and Collaboratory) Scholars are hosting informal virtual get-togethers to workshop projects, exchange ideas, and build community. “Digital Fridays is an exciting platform where HASTAC Scholars and expert speakers come together to explore cutting-edge topics at the intersection of technology and the arts, humanities, and sciences.” The next ...read more",
-          "link": "https://dhandlib.org/2023/11/03/event-hastac-scholars-digital-friday/?utm_source=rss&utm_medium=rss&utm_campaign=event-hastac-scholars-digital-friday",
-          "publishedOn": "2023-11-03T17:33:55.000Z",
-          "wordCount": null,
-          "title": "EVENT: HASTAC Scholars Digital Friday"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135354",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "The Digital Humanities Research Hub at the University of London are hosting two upcoming seminars, in which scholars and researchers “scrutinize representations of ‘intelligent machines’, and discuss how memes, literature, gender stereotypes, and colonial histories shape AI and the role it plays in today’s society. Conceived as a series of conversations, the seminar brings together ...read more",
-          "link": "https://dhandlib.org/2023/11/03/events-representations-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=events-representations-of-ai",
-          "publishedOn": "2023-11-03T17:33:21.000Z",
-          "wordCount": null,
-          "title": "EVENTS: Representations of AI"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135357",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "The CollectionBuilder 2023 Incentives Program is the latest grant-funded opportunity for using and contributing to CollectionBuilder, and open-source, Lib-Static tool and infrastructure. Currently, applications are being accepted to their Library & Information Science (LIS) Student Program. The program offers eight $400 stipends to current LIS students interested in learning more about and using CollectionBuilder for ...read more",
-          "link": "https://dhandlib.org/2023/11/03/opportunity-collectionbuilder-lis-student-program/?utm_source=rss&utm_medium=rss&utm_campaign=opportunity-collectionbuilder-lis-student-program",
-          "publishedOn": "2023-11-03T17:32:40.000Z",
-          "wordCount": null,
-          "title": "OPPORTUNITY: CollectionBuilder LIS Student Program"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135353",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "The National Endowment for the Humanities (NEH) has announced a new program, Humanities Perspectives on Artificial Intelligence, “to support research projects that seek to understand and address the ethical, legal, and societal implications of AI. NEH is particularly interested in projects that explore the impacts of AI-related technologies on truth, trust, and democracy; safety and ...read more",
-          "link": "https://dhandlib.org/2023/11/03/opportunity-neh-humanities-perspectives-on-artificial-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=opportunity-neh-humanities-perspectives-on-artificial-intelligence",
-          "publishedOn": "2023-11-03T17:32:14.000Z",
-          "wordCount": null,
-          "title": "OPPORTUNITY: NEH, Humanities Perspectives on Artificial Intelligence"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135337",
-          "author": "Sarah Potvin",
-          "description": "From the post: Employer Case Western Reserve University Location Cleveland, Ohio Salary This position is a Librarian 3 with a minimum of $77,780. Posted Date Oct 17, 2023 Case Western Reserve University seeks a forward thinking, inclusive, and collaborative individual for the Digital Scholarship Team Leader position. POSITION DESCRIPTION The Digital Scholarship Team Leader heads ...read more",
-          "link": "https://dhandlib.org/2023/11/03/job-digital-scholarship-team-leader-case-western-reserve-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-scholarship-team-leader-case-western-reserve-university",
-          "publishedOn": "2023-11-03T17:30:53.000Z",
-          "wordCount": null,
-          "title": "JOB: Digital Scholarship Team Leader, Case Western Reserve University"
-        },
-        {
-          "id": "https://dhandlib.org/?p=135331",
-          "author": "Sarah Potvin",
-          "description": "From the post: The Data Services Librarian leads the library’s efforts to support digital scholarship and data science research and teaching. They lead the management and use of the Federal Depository documents collection. They act as a library liaison, teach information literacy skills, provide outreach, and build relationships with students, faculty, and staff, contributing knowledge ...read more",
-          "link": "https://dhandlib.org/2023/11/03/job-data-services-librarian-middlebury-college/?utm_source=rss&utm_medium=rss&utm_campaign=job-data-services-librarian-middlebury-college",
-          "publishedOn": "2023-11-03T17:29:09.000Z",
-          "wordCount": null,
-          "title": "JOB: Data Services Librarian, Middlebury College"
         }
       ]
     },
@@ -2383,6 +2395,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=12568",
+          "author": "Henry Jacobs",
+          "description": "The China Biographical Database The China Biographical Database (CBDB) is ‘a relational database of biographical information for China before the …",
+          "link": "https://digitalorientalist.com/2024/04/30/the-china-biographical-database-cbdb-an-introduction-and-conversation-with-professor-peter-bol/",
+          "publishedOn": "2024-04-30T13:00:00.000Z",
+          "wordCount": 4952,
+          "title": "The China Biographical Database (CBDB): An Introduction and Conversation with Professor Peter Bol",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/04/screenshot-2024-04-03-at-18.21.27.png?w=1200"
+        },
         {
           "id": "http://digitalorientalist.com/?p=12698",
           "author": "Rachael Griffiths",
@@ -2902,15 +2924,6 @@
           "publishedOn": "2023-11-07T13:00:00.000Z",
           "wordCount": 1312,
           "title": "Transkribus in the Classroom"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=11400",
-          "author": "Rohan Chauhan",
-          "description": "Learn about Kraken’s segmentation model and the process of training our own custom segmentation models for layout analysis tasks.",
-          "link": "https://digitalorientalist.com/2023/11/03/11400/",
-          "publishedOn": "2023-11-03T13:30:00.000Z",
-          "wordCount": 2333,
-          "title": "Train Your Own OCR/HTR Models with Kraken, part 2"
         }
       ]
     },
@@ -5241,15 +5254,6 @@
           "publishedOn": "2023-11-07T08:52:06.000Z",
           "wordCount": 513,
           "title": "Using Data Science Methods to Explore the History, and Future, of State Secrecy"
-        },
-        {
-          "id": "4654 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Colonial statues in Africa have often been analysed as isolated case studies. Moving beyond a one case study model, this presentation adopts a regional, thematic, and historical approach to elucidate the diverse ways in which African nations have grappled with colonial statues from the time of independences. The paper begins by examining the fate of colonial statues at the time of independences, exploring why certain monuments were removed, repurposed, or preserved. Subsequently, the paper delves into the reasons for the revival of (neo)colonial statues in the 1990s and early 2000s. Finally, the paper discusses recent and renewed contestations of colonial statues from the 2010s, in the light of global movements against symbols of oppression. This presentation aims to shed light on the comp…",
-          "link": "https://www.c2dh.uni.lu/events/colonial-statues-postcolonial-africa-multidimensional-approach",
-          "publishedOn": "2023-11-03T09:43:57.000Z",
-          "wordCount": 553,
-          "title": "Colonial statues in postcolonial Africa, a multidimensional approach"
         }
       ]
     },
@@ -5258,6 +5262,16 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/learning/methods-fellows-2023-24/",
+          "publishedOn": "2024-05-01T07:10:43.000Z",
+          "wordCount": 3812,
+          "title": "Methods Fellowships 2023/24",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2022/07/Untitled-design-2.png"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/dr-onur-engin/",
           "author": null,
@@ -6436,24 +6450,6 @@
           "wordCount": 1850,
           "title": "Cambridge Data Schools",
           "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2023/07/2111-cambridge-social-data-school-2023-107.jpg"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37322/",
-          "author": null,
-          "description": "After the fantastic success of our last Wikipedia edit-a-thon in May, we are once again calling on the expertise of students and staff here at Cambridge to bring underrepresented histories ‘out of the shadows’ and into the light on Wikipedia. No prior Wiki experience is required! We will host an online training session at 11am",
-          "link": "https://www.cdh.cam.ac.uk/events/37322/",
-          "publishedOn": "2023-11-03T11:26:17.000Z",
-          "wordCount": 623,
-          "title": "Out of the Shadows: A Wikipedia edit-a-thon"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/36878/",
-          "author": null,
-          "description": "The Cultural Heritage Data School (CHDS), taking place in Cambridge between 8-12 April, is open for applications from participants from across the cultural heritage sector and academia. This intensive in-person teaching programme will be structured around the digital collections and archives pipeline, covering the general principles and applied practices involved in the generation, exploration, visualisation, analysis",
-          "link": "https://www.cdh.cam.ac.uk/events/36878/",
-          "publishedOn": "2023-11-03T10:07:03.000Z",
-          "wordCount": 1581,
-          "title": "Cambridge Cultural Heritage Data School: April 2024 (Cambridge)"
         }
       ]
     },
