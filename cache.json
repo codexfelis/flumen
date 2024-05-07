@@ -4174,6 +4174,16 @@
       "siteUrl": "https://review.gale.com",
       "articles": [
         {
+          "id": "https://review.gale.com/?p=15189",
+          "author": "Gale Review Team",
+          "description": "│By Lindsay Whitaker-Guest, Associate Editor, Gale Primary Sources│ This year, the global population of forcibly displaced and stateless people has grown to 130.8 million according to figures released by UNHCR. Existing global conflicts such as the war in Ukraine and the Israel-Gaza conflict, as well as environmental and climate disasters, are all contributing to the ... Read more",
+          "link": "https://review.gale.com/2024/05/07/refugees-relief-and-resettlement-the-early-cold-war-and-decolonization-the-building-blocks-of-a-digital-archive/",
+          "publishedOn": "2024-05-07T06:00:00.000Z",
+          "wordCount": 2708,
+          "title": "Refugees, Relief and Resettlement: The Early Cold War and Decolonization – The Building Blocks of a Digital Archive",
+          "imageUrl": null
+        },
+        {
           "id": "https://review.gale.com/?p=15179",
           "author": "Gale Review Team",
           "description": "│By Sirkku Ruokkeinen, University of Turku, Finland│ In 1786, the Scottish economist William Playfair (1759–1823) published the Commercial and Political Atlas, reporting on the trade balance between England and continental Europe, West Indies, and North America. The work included something never before seen in print: line and bar charts. These statistical tools, although familiar to ... Read more\nThe post Plans, Charts, Images and Drawings: Eighteenth Century Collections Online as a Source of Visual Information Transmission appeared first on The Gale Review.",
@@ -4299,6 +4309,16 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=18119",
+          "author": "simsmss",
+          "description": "Dot Porter, SIMS Curator of Digital Humanities at the University of Pennsylvania Libraries, presents a Video Orientation to the University of Pennsylvania Library’s LJS 434, which contains tables used in an astrological technique for determining auspicious times for carrying out various activities. Also includes geographical illustrations and diagrams and half of a horoscope diagram forContinue reading \"Manuscript Monday: LJS 434 – [Jadāvil-i ikhtiyārāt]. = [جداول اختيارات]. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/05/06/manuscript-monday-ljs-434-jadavil-i-ikhtiyarat-%d8%ac%d8%af%d8%a7%d9%88%d9%84-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-video-orientation/",
+          "publishedOn": "2024-05-06T12:43:53.000Z",
+          "wordCount": 5420,
+          "title": "Manuscript Monday: LJS 434 – [Jadāvil-i ikhtiyārāt]. = [جداول اختيارات]. (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=18100",
           "author": "simsmss",
@@ -4872,6 +4892,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/05/07/using-pandoras-collection.html",
+          "author": null,
+          "description": "There’s a brand new section of the GLAM Workbench to help you use data from Pandora’s collection of archived websites.\nWhat’s Pandora?\nPandora is an initiative of the National Library of Australia which has been selecting web sites and online resources for preservation since 1996. It’s assembled a collection of more than 80,000 archived website titles, organised into subjects and collections. The archived websites are now part of the  Australian Web Archive (AWA), which combines the selected titles with  broader domain harvests, and is searchable through Trove.\nWhy is this needed?\nThe GLAM Workbench already has a Web Archives section that provides documentation, tools, and examples to help you work with data  from a range of web archives, including the Australian Web Archive. But Pandora i…",
+          "link": "https://updates.timsherratt.org/2024/05/07/using-pandoras-collection.html",
+          "publishedOn": "2024-05-07T06:23:39.000Z",
+          "wordCount": 700,
+          "title": "Using Pandora's collection of archived websites",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-05-07-15-06-38.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/04/24/how-to-download.html",
           "author": null,
           "description": "Digitised resources in Trove are sometimes grouped into collections – an album of photographs, a set of posters, a bundle of letters. I’ve just added a notebook to the GLAM Workbench that downloads all the images in a collection at the highest available resolution.\n\r\nA sample of the 3,048 posters download from nla.obj-2590804313\nWhy is it necessary?\nTrove’s digitised collection viewer includes a download option. But in most cases that seems to be limited to downloading 20 images at a time. Part of the reason for that is probably because the images are zipped up into a single file, which could get very large if 100, or 200 images were added.\nAnother limitation of the built-in download option is that the images are often fairly low resolution copies (many have a maximum width of 1000px). The…",
@@ -5435,6 +5465,16 @@
           "wordCount": 3812,
           "title": "Methods Fellowships 2023/24",
           "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2022/07/Untitled-design-2.png"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/dataschools/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/dataschools/",
+          "publishedOn": "2024-04-24T14:51:41.000Z",
+          "wordCount": 1848,
+          "title": "Cambridge Data Schools",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2023/07/2111-cambridge-social-data-school-2023-107.jpg"
         },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/dr-onur-engin/",
@@ -6596,24 +6636,6 @@
           "publishedOn": "2023-11-20T15:17:14.000Z",
           "wordCount": 423,
           "title": "Cultural Heritage Data School (April 2024) Q&A session"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37325/",
-          "author": null,
-          "description": "An online public event at the Cambridge Social Data School The use of artificial intelligence (AI) in journalism has been ongoing for several years, but the advent of generative AI tools like ChatGPT, Bard, Midjourney, and others has ignited a thorny public debate. These technologies appear to surpass human capabilities in structuring information and producing",
-          "link": "https://www.cdh.cam.ac.uk/events/37325/",
-          "publishedOn": "2023-11-09T16:46:32.000Z",
-          "wordCount": 849,
-          "title": "Responsible AI for Journalism"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37329/",
-          "author": null,
-          "description": "Convenor: Jonathan Blaney, Digital Humanities Research Software Engineer at CDH. This session introduces the command line, sometimes also known as the shell or the terminal, to humanities researchers. No prior knowledge of the command line or programming of any kind is required or expected from attendees. A basic understanding of how to use the command",
-          "link": "https://www.cdh.cam.ac.uk/events/37329/",
-          "publishedOn": "2023-11-09T10:25:55.000Z",
-          "wordCount": 738,
-          "title": "Introduction to the Command Line"
         }
       ]
     },
@@ -7044,15 +7066,6 @@
           "publishedOn": "2023-11-13T14:49:12.000Z",
           "wordCount": 1047,
           "title": "The 13th European Summer University in Digital Humanities ‘Culture & Technology’ - A Confluence of Minds in Cluj-Napoca"
-        },
-        {
-          "id": "5986 at https://www.clarin.eu",
-          "author": "Dieter Van Uytvanck",
-          "description": "Centre news vol. 61 - November 2023\n\n            \nCLARIN technical open hour, Monday 13 November at 11:00 CET\nThe third edition of the CLARIN technology open hour is planned for next Monday at 11:00 CET. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nThere will be another open hour on 11 December.\nNew on the CLARIN forum\nDataCite: discussion on multilingual resources\nAligning Parlamint with Video data\nCorpus of Australian and New Zealand Spoken English now available via federated login\nNew software releases\nThe Switchboard version 2.4.3 has been released. This is a maintenance release, please check the changelog for details.\n\n      Dieter Van Uytvanck\n 9 November 2023\n\n    \ncentre news",
-          "link": "https://www.clarin.eu/blog/centre-news-vol-61-november-2023",
-          "publishedOn": "2023-11-09T15:58:34.000Z",
-          "wordCount": 287,
-          "title": "Centre news vol. 61 - November 2023"
         }
       ]
     },
