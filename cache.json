@@ -2450,6 +2450,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12660",
+          "author": "Dr Elizabeth Bishop",
+          "description": "How does Algeria fit into the world of digital humanities? First, we have to determine what we mean, when we …",
+          "link": "https://digitalorientalist.com/2024/05/14/a-postcard-from-the-world-of-print-algerias-place-in-the-digital-humanities/",
+          "publishedOn": "2024-05-14T13:00:00.000Z",
+          "wordCount": 5129,
+          "title": "A Postcard from the World of Print: Algeria’s Place in the Digital Humanities",
+          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/05/alger_-_grande_poste.jpg?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12639",
           "author": "Gian Rominger",
           "description": "This entry introduces a platform that utilizes Machine Learning (ML) algorithms from the field of Natural Language Processing (NLP) to …",
@@ -2992,15 +3002,6 @@
           "publishedOn": "2023-11-21T14:00:00.000Z",
           "wordCount": 2646,
           "title": "The Digitization of a Large Latin-Chinese Dictionary"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=11287",
-          "author": "The Digital Orientalist",
-          "description": "This is a guest post by Erica Biaggetti WordNets are valuable resources in linguistics, offering structured and comprehensive databases that …",
-          "link": "https://digitalorientalist.com/2023/11/17/the-sanskrit-wordnet-a-new-database-for-the-study-of-the-sanskrit-lexicon/",
-          "publishedOn": "2023-11-17T14:00:00.000Z",
-          "wordCount": 1939,
-          "title": "The Sanskrit WordNet: a new database for the study of the Sanskrit lexicon"
         }
       ]
     },
@@ -3065,321 +3066,6 @@
           "publishedOn": "2023-11-20T13:35:29.000Z",
           "wordCount": 1412,
           "title": "CHR2023 Schedule"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2096",
-          "author": "Manuel_Burghardt",
-          "description": "Speaker: Nicolas Ruth, Manuel Burghardt and Bernhard Liebl\n Affiliation: Computational Humanities Group, Institute for Computer Science, Leipzig University, Germany\nTitle: From Clusters to Graphs – Toward a Scalable Viewing of News Videos\nAbstract: In this paper, we present a novel approach that combines density-based clustering and graph modeling to create a scalable viewing application for the exploration of similarity patterns in news videos. Unlike most existing video analysis tools that focus on individual videos, our approach allows for an overview of a larger collection of videos, which can be further examined based on their connections or communities. By utilizing scalable reading, specific subgraphs can be selected from the overview and their respective clusters can be explored in more detail on the video frame level.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/from-clusters-to-graphs-toward-a-scalable-viewing-of-news-videos/2096",
-          "publishedOn": "2023-11-17T13:51:59.000Z",
-          "wordCount": 189,
-          "title": "From Clusters to Graphs – Toward a Scalable Viewing of News Videos"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2095",
-          "author": "jbarre",
-          "description": "Speaker: Jean Barré and Thierry Poibeau\n Affiliation: 1, École normale supérieure - Université PSL, 45 rue d’Ulm, Paris, 75005, France; 2, Lattice (Langues, Textes, Traitements informatiques, Cognition), 1 rue Maurice Arnoux, Montrouge, 92049, France\nTitle: Beyond Canonicity: Modeling Canon/Archive Literary Change in French Fiction\nAbstract: This study offers a fresh perspective on the Canon/Archive problem in literature through computational analysis. Following Tynianov’s understanding of literature, we adopt a dynamic approach to literature by proposing a model of literary variability using the Kullback-Leibler divergence. We retrieve key authors and works that shape the broad outlines of literary change. Our aim is to evaluate the importance of canonical authors on literary variability. We opt for a cohort-driven setup to analyze the variability contributed by a given text, focusing on specific formal and semantic aspects of texts such as topics, lexicon, characterization, and chronotope. The findings reveal that canonical authors tend to contribute slightly more to literary change than those from the archive.\n Link to paper\n Link to Github asap\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/beyond-canonicity-modeling-canon-archive-literary-change-in-french-fiction/2095",
-          "publishedOn": "2023-11-17T13:41:56.000Z",
-          "wordCount": 223,
-          "title": "Beyond Canonicity: Modeling Canon/Archive Literary Change in French Fiction"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2095",
-          "author": "jbarre",
-          "description": "Speaker: Jean Barré and Thierry Poibeau\n Affiliation: 1, École normale supérieure - Université PSL, 45 rue d’Ulm, Paris, 75005, France; 2, Lattice (Langues, Textes, Traitements informatiques, Cognition), 1 rue Maurice Arnoux, Montrouge, 92049, France\nTitle: Beyond canonicity. Modeling Literary Change in French Novelist Production: Canon vs. Archive\nAbstract: This study offers a fresh perspective on the Canon/Archive problem in literature through computational analysis. Following Tynianov’s understanding of literature, we adopt a dynamic approach to literature by proposing a model of literary variability using the Kullback-Leibler divergence. We retrieve key authors and works that shape the broad outlines of literary change. Our aim is to evaluate the importance of canonical authors on literary variability. We opt for a cohort-driven setup to analyze the variability contributed by a given text, focusing on specific formal and semantic aspects of texts such as topics, lexicon, characterization, and chronotope. The findings reveal that canonical authors tend to contribute slightly more to literary change than those from the archive.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/beyond-canonicity-modeling-literary-change-in-french-novelist-production-canon-vs-archive/2095",
-          "publishedOn": "2023-11-17T13:41:56.000Z",
-          "wordCount": 228,
-          "title": "Beyond canonicity. Modeling Literary Change in French Novelist Production: Canon vs. Archive"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2094",
-          "author": "chr-user",
-          "description": "Speaker: Sophie Robert-Hayek, Jacques Istas and Frédérique Rey\n Affiliation: 1, Laboratoire Ecritures, Université de Lorraine, France; 2, Laboratoire Jean Kuntzmann, Université Grenoble Alpes, France\nTitle: Unraveling the Synoptic puzzle: stylometric insights into Luke’s potential use of Matthew\nAbstract: The literary sources behind the three canonical Synoptic Gospels, namely Luke, Matthew and Mark, have long intrigued scholars because of the Gospels striking similarities and notable differences in their accounts of Jesus’s life. Various theories have been proposed to explain these textual relationships, including common oral witnesses, lost sources or communities possessing each other’s works. However, a universally accepted solution remains elusive. Leveraging advancements in statistics…",
-          "link": "https://discourse.computational-humanities-research.org/t/unraveling-the-synoptic-puzzle-stylometric-insights-into-lukes-potential-use-of-matthew/2094",
-          "publishedOn": "2023-11-17T13:39:41.000Z",
-          "wordCount": 385,
-          "title": "Unraveling the Synoptic puzzle: stylometric insights into Luke's potential use of Matthew"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2093",
-          "author": "marijn.koolen",
-          "description": "Speaker: Marijn Koolen, Rik Hoekstra, Ronald Sluijter and Joris Oddens\n Affiliation: 1, Huygens Institute, Netherlands; 2, DHLab, KNAW Humanities Cluster, Netherlands\nTitle: Formulas and decision-making: the case of the States General of the Dutch Republic\nAbstract: Formulaic expressions are commonly used in administrative texts, and may reflect standardisation of the decision-making process or its recording process.    In this paper we investigate whether the use of formulas in the Resolutions of the Dutch States General (1576-1796) reveal an increase in standardisation.     %    We use stylometric analysis and measures of textual repetition to identify shifts in the use of formulas, and study how the fraction of paragraphs that is covered by formulas changes over time to identify templates consisting of frequent combinations of formulas.   Our findings are that there are stylistically clearly distinguishable periods, and that the use of formulas and templates increases between subsequent periods.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/formulas-and-decision-making-the-case-of-the-states-general-of-the-dutch-republic/2093",
-          "publishedOn": "2023-11-17T13:38:23.000Z",
-          "wordCount": 211,
-          "title": "Formulas and decision-making: the case of the States General of the Dutch Republic"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2092",
-          "author": "WouterHaverals",
-          "description": "Speaker: Wouter Haverals and Mike Kestemont\n Affiliation: 1, Center for Digital Humanities (CDH), Princeton University, USA; 2, Antwerp Center for Digital Humanities and Literary Critcism (ACDC),\nTitle: The Middle Dutch Manuscripts Surviving from the Carthusian Monastery of Herne (14th century): Constructing an Open Dataset of Digital Transcriptions\nAbstract: A substantial collection of Middle Dutch manuscripts survives from the Carthusian monastery of Herne ( Hérinnes-lez-Enghien ) in nowadays Belgium. During the latter half of the fourteenth century, Herne served as a significant literary hotspot in the region around Brussels, with a devoted community of monks deeply involved in the production of (vernacular) texts and manuscripts, often as collaborative efforts. The corpus offers abundant material for the (computational) exploration of authorship, translation, and scribal cultures in the premodern Low Countries. Yet, much of this material has remained digitally inaccessible.  Here we describe the creation of an almost exhaustive, open-access dataset comprising diplomatic transcriptions of all known Middle Dutch Herne manuscripts, acquired through handwritten text recognition. Apart from rich codicological and textual metadata, we include a normalized text layer (with expanded abbreviations), as well as a linguistic annotation layer (with lemmas and part of speech tags). We conclude by discussing our work against current trends in medievalist scholarship. The dataset is released together with this paper and we encourage its re-use in future research.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/the-middle-dutch-manuscripts-surviving-from-the-carthusian-monastery-of-herne-14th-century-constructing-an-open-dataset-of-digital-transcriptions/2092",
-          "publishedOn": "2023-11-17T13:36:38.000Z",
-          "wordCount": 322,
-          "title": "The Middle Dutch Manuscripts Surviving from the Carthusian Monastery of Herne (14th century): Constructing an Open Dataset of Digital Transcriptions"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2091",
-          "author": "chr-user",
-          "description": "Speaker: Bayrem Kaabachi and Simon Dumas Primbault\n Affiliation: 1, Laboratory for the history of science and technology (LHST), Swiss Federal Institute of Technology (EPFL), CH-1015 Lausanne, Switzerland; 2, Biomedical Data Science Center (BDSC), Centre Hospitalier Universitaire Vaudois (CHUV), CH-1002 Lausanne, Switzerland; 3, OpenEdition (UAR 2504, CNRS/EHESS/AMU/AU), 22 rue John Maynard Keynes, 13013 Marseille, France; 4, Bibliothèque nationale de France (BnF), Quai François Mauriac, 75706 Paris, France\nTitle: A Topological Data Analysis of Navigation Paths within Digital Libraries\nAbstract: The digitization of library resources and services have opened up physical informational spaces to new dimensions by allowing users to access a wealth of documents in ways that differ from browsing bookshelves traditionally organized according to the “tree of knowledge”. How do readers of digital library orient themselves within big corpora? What landmarks do they use to navigate masses of digital documents? Taking Gallica as a case study–the digital heritage platform of the French national library–, this paper presents an experimental research on the navigation practices of its users. Using methods from topological data analysis, we inferred from Gallica’s server logs an informational space as it is roamed by readers. Coupled with user interviews, this mixed-methods study allowed us to identify a set of “regimes of navigation” characterizing how readers deploy various strategies to browse the digital library’s corpus. From directed search to wandering to crawling, these regimes answer different needs and show that a single corpus can, in turns, be apprehended as a heritage collection, a database, a set of documents, and a mass of information.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/a-topological-data-analysis-of-navigation-paths-within-digital-libraries/2091",
-          "publishedOn": "2023-11-17T13:34:54.000Z",
-          "wordCount": 316,
-          "title": "A Topological Data Analysis of Navigation Paths within Digital Libraries"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2090",
-          "author": "joris.van.zundert",
-          "description": "Speaker: Joris van Zundert, Andreas van Cranenburgh and Roel Smeets\n Affiliation: 1, Department of Computational Literary Studies, Huygens Institute, The Netherlands; 2, Department of Language Technology, University of Groningen, The Netherlands; 3, Department of Modern Languages and Cultures, Radboud University, The Netherlands\nTitle: Putting Dutchcoref to the Test: Character Detection and Gender Dynamics in Contemporary Dutch Novels\nAbstract: Although coreference resolution is a necessary step for a wide range of automated narratological analyses, most of the systems performing this task leave much to be desired in terms of either accuracy or their practical application in literary studies.   While there are coreference resolution systems that demonstrate good performance on annotated fr…",
-          "link": "https://discourse.computational-humanities-research.org/t/putting-dutchcoref-to-the-test-character-detection-and-gender-dynamics-in-contemporary-dutch-novels/2090",
-          "publishedOn": "2023-11-17T13:33:50.000Z",
-          "wordCount": 359,
-          "title": "Putting Dutchcoref to the Test: Character Detection and Gender Dynamics in Contemporary Dutch Novels"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2089",
-          "author": "jbcamps",
-          "description": "Speaker: Jean-Baptiste Camps, Nicolas Baumard, Pierre-Carl Langlais, Olivier Morin, Thibault Clérice and Jade Norindr\n Affiliation: 1, École nationale des chartes - Université PSL,\nTitle: Make Love or War? Monitoring the Thematic Evolution of Medieval French Narratives\nAbstract: In this paper, we test a famous conjecture in literary history  put forward by Seignobos and de Rougemont according to which the French central medieval period (12-13th centuries) is characterized by an important increase in the cultural importance of love. To do that, we focus on the large and culturally important body of manuscripts containing medieval French long narrative fictions, in particular epics ( chansons de geste , of the Matter of France) and romances (chiefly  romans  on the Matters of Britain and of Rome), both in verse and in prose, from the 12th to the 15th century. We introduce the largest available corpus of these texts, the  Corpus of Medieval French Epics and Romances , composed of digitised manuscripts drawn from  Gallica , and processed through layout analysis and handwritten text recognition.   %  We then use  semantic representations based on embeddings  to monitor the place given to love and violence in this corpus, through time.  We observe that themes (such as the relation between love and death) and emblematic works well identified by literary history do indeed play a central part in the representation of love in the corpus, but our modelling also points to the characteristic nature of more overlooked works. Variation in time seems to show that there is indeed an phase of expansion of love in these fictions, in the 13th and early 14th century, followed by a period of contraction, that seem to correlate with the Crisis of the Late Middle Ages.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/make-love-or-war-monitoring-the-thematic-evolution-of-medieval-french-narratives/2089",
-          "publishedOn": "2023-11-17T13:32:27.000Z",
-          "wordCount": 388,
-          "title": "Make Love or War? Monitoring the Thematic Evolution of Medieval French Narratives"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2088",
-          "author": "knielbo",
-          "description": "Speaker: Kristoffer Nielbo, Jan Kostkan, Katrine F. Baunvig, Ekaterina Borisova and Armin W. Geertz\n Affiliation: 1, Center for Humanities Computing, Aarhus University, Denmark; 2, The Grundtvig Study Centre, Aarhus University, Denmark; 3, German Research Center for Artificial Intelligence, Germany; 4, Department of the Study of Religion, Aarhus University, Denmark\nTitle: Oscillation between Contemplation and Revelation - Recurrence and Change in the Life History of Teresa of Ávila\nAbstract: Advancements in language technology and applied mathematics offer a plethora of tools that can enrich textual cultural heritage research. Using an information-theoretical approach to author profiling, this paper tries to leverage some of these tools to reconstruct mental states in the Early Modern Spanish author Teresa of  ' A vila. We shift away from traditional static textual feature analysis and instead approach author profiling as a dynamic problem, requiring a representation of the author’s life history. Teresa of  ' A vila was an Early Modern Spanish mystic and Carmelite nun whose authorship offers a unique dataset due to her prolific output and well-preserved, digitized writings. We model Teresa’s letter corpus as a complex system with multiple states and try to track her mental and socio-cultural dynamics through lexical co-occurrence structures and affective valences in her letters. We find that Teresa’s letters reflect a life history of state switching between contemplation and revelation. This relatively new approach offers a more robust and dynamic perspective on author profiling in cultural heritage research.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/oscillation-between-contemplation-and-revelation-recurrence-and-change-in-the-life-history-of-teresa-of-avila/2088",
-          "publishedOn": "2023-11-17T13:29:49.000Z",
-          "wordCount": 313,
-          "title": "Oscillation between Contemplation and Revelation - Recurrence and Change in the Life History of Teresa of Ávila"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2087",
-          "author": "chr-user",
-          "description": "Speaker: John A. Walsh, Glen Layne-Worthey, Jacob Jett, Boris Capitanu, Peter Organisciak, Ryan Dubnicek and J. Stephen Downie\n Affiliation: 1, HathiTrust Research Center, Indiana University Bloomington and University of Illinois Urbana-Champaign, USA; 2, Luddy School of Informatics, Computing, and Engineering, Indiana University, 700 N Woodlawn Ave., Rm. 2132, Bloomington IN 47408, USA; 3, School of Information Sciences, University of Illinois, Urbana-Champaign, 614 E. Daniel St., Champaign, IL 61820, USA; 4, Department of Research Methods , &,  Information Science, University of Denver, USA\nTitle: “The library is open!”: Open data and an open API for the HathiTrust Digital Library\nAbstract: This paper describes the history, policy, semantics, and uses of the    HathiTrust Research Center Extracted Features dataset, an open-access   representation of the 17+ million volume HathiTrust Digital Library,    including a major current effort to extend computational access in   a variety of more flexible and easily implemented ways, including   a modern API supporting customizable visualizations and analyses.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/the-library-is-open-open-data-and-an-open-api-for-the-hathitrust-digital-library/2087",
-          "publishedOn": "2023-11-17T13:28:22.000Z",
-          "wordCount": 226,
-          "title": "“The library is open!”: Open data and an open API for the HathiTrust Digital Library"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2086",
-          "author": "chr-user",
-          "description": "Speaker: Christof Weiß and Meinard Müller\n Affiliation: 1, Center for Artificial Intelligence and Data Science (CAIDAS), Universität Würzburg, Germany; 2, International Audio Laboratories Erlangen, Friedrich-Alexander Universität Erlangen-Nürnberg, Germany\nTitle: Studying Tonal Evolution of Western Choral Music: A Corpus-Based Strategy\nAbstract: The availability of large digital music archives combined with significant advances in computational analysis methods have enabled novel strategies for musicological corpus studies. This includes approaches based on audio recordings, which are available in large quantities for different musical works and styles. In this paper, we take up such an audio-based approach for studying the tonal complexity of music and its evolution over centuries. In par…",
-          "link": "https://discourse.computational-humanities-research.org/t/studying-tonal-evolution-of-western-choral-music-a-corpus-based-strategy/2086",
-          "publishedOn": "2023-11-17T13:05:05.000Z",
-          "wordCount": 579,
-          "title": "Studying Tonal Evolution of Western Choral Music: A Corpus-Based Strategy"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2085",
-          "author": "Edgar",
-          "description": "Speaker: Dubourg Edgar, Mogoutov Andrei and Baumard Nicolas\n Affiliation: Institut Jean Nicod, Département d’études cognitives, Ecole normale supérieure, Université PSL, EHESS, CNRS, 75005 Paris, France\nTitle: Is Cinema Becoming Less and Less Innovative With Time? Using neural network text embedding model to measure cultural innovation\nAbstract: Current discourse reflects a growing skepticism towards contemporary popular culture, specifically the realm of cinema, with an emerging consensus that its creative capacity is on a waning trajectory. This study introduces a novel approach which employs natural language processing techniques and embedding methods to measure semantic novelty of cultural items’ descriptions. We apply this methodology to cinema, analyzing plot summaries of over 19,000 movies from the United-States spanning more than a century. Our measure’s robustness is validated through a series of tests, including a fit with a genre-based novelty score, a manual inspection of films identified as highly innovative, and correlations with award recognitions. The application of our Innovation Score reveals a compelling pattern: an increase in the rate of cinematic innovation throughout the 20th century, followed by a stabilization in the rate of innovation in the 21st, despite an ever-growing production of films. Contrary to the often-voiced lament that cinema is losing its innovative edge, our study suggests that the level of innovativeness in cinema is not in decline.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/is-cinema-becoming-less-and-less-innovative-with-time-using-neural-network-text-embedding-model-to-measure-cultural-innovation/2085",
-          "publishedOn": "2023-11-17T13:01:28.000Z",
-          "wordCount": 295,
-          "title": "Is Cinema Becoming Less and Less Innovative With Time? Using neural network text embedding model to measure cultural innovation"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2084",
-          "author": "mapto",
-          "description": "Speaker: Martin Ruskov and Sara Sullam\n Affiliation: Department of Languages, Literatures, Cultures and Mediations, University of Milan, Italy\nTitle: Towards a Phenomenographic Framework for Exploratory Visual Analysis of Bibliographic Data\nAbstract: A recurring challenge when studying history of translation is interpreting catalogue metadata. On one hand such interpretation is limited by the fact that data present in catalogue records is tabular and nominative, and not quantitative. On the other hand, such research is guided by tacit knowledge of scholars in the humanities, and thus it could be challenging to reproduce its results. We take inspiration from phenomenography, a discipline within educational research that examines how students perceive the phenomena being learned. We adopt the view that scientific inquiry is a collective form of learning. By doing this, we turn to the phenomenographic theory that variation is necessary to understand the phenomena being studied, and is achieved through three distinct patterns of variance: contrast, generalisation and fusion. We propose an approach to visualise the combination of nominal data and tacit knowledge by subjecting it to these three patterns. We illustrate our approach with two case studies from literary translations between Italy and the UK in the post-war 20th century. Our claim is that on one hand this guides scholars on how to analytically approach their research questions, on the other it drives them to externalise and validate hidden assumptions. Our approach offers a way of doing reproducible science not only when conducting literature research with bibliographic data. It is also applicable in the wider cases within the humanities when tabular data are available.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/towards-a-phenomenographic-framework-for-exploratory-visual-analysis-of-bibliographic-data/2084",
-          "publishedOn": "2023-11-17T12:59:05.000Z",
-          "wordCount": 325,
-          "title": "Towards a Phenomenographic Framework for Exploratory Visual Analysis of Bibliographic Data"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2083",
-          "author": "chr-user",
-          "description": "Speaker: Vincent Sarbach-Pulicani\n Affiliation: Université Côte d’Azur, Centre de la Méditerranée Moderne et Contemporaine, Campus Carlone, 06100 Nice, France\nTitle: Profiling Anonymous Authors in the Corsican Autonomist Press of the Interwar Period\nAbstract: With the emergence of nationalism in the 19 th ~century came regionalist movements to assert and claim cultural particularities. Corsica fitted very well within this dynamic and even presented itself as a favourable location for the development of such ideas. The centralization of the state around a strong capital and the policies of assimilation of the indigenous populations on the border with France led certain players to defend these particularisms. It was in this context that the Corsican autonomist newspaper  A Muvra  was born in May 1920 in Paris, under the impetus of Petru and Matteu Rocca. For almost 19 years, hundreds of authors participated in the writing of this massive dialectal work. This paper presents the results of a research that aimed to carry out author profiling, i.e., to determine the style and subjects covered by an author. The goals of this study were to determine the identity behind certain authors and also to highlight the role pseudonyms played in the newspaper’s propaganda. We conducted authorship attribution to achieve the first objective before completing these analyses with topic modelling in order to meet the second one.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/profiling-anonymous-authors-in-the-corsican-autonomist-press-of-the-interwar-period/2083",
-          "publishedOn": "2023-11-17T12:54:40.000Z",
-          "wordCount": 285,
-          "title": "Profiling Anonymous Authors in the Corsican Autonomist Press of the Interwar Period"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2082",
-          "author": "gabays",
-          "description": "Speaker: Juan Barrios, Simon Gabay, Florian Cafiero and Martin Debbané\n Affiliation: 1, Unité de psychologie clinique développementale, Université de Genève, Switzerland; 2, Unité d’humanités numériques, Université de Genève, Switzerland; 3, École nationale des chartes - PSL, Centre Jean Mabillon, France\nTitle: Detecting Psychological Disorders with Stylometry: the Case of ADHD in Adolescent Autobiographical Narratives\nAbstract: Attention-deficit/hyperactivity disorder (ADHD) is one of the most common psychological neurodevelopmental disorder among children and adolescents, with a prevalence of 5.6 %  in teenagers aged 12 to 18 years  salari_global_2023 . Its diagnosis is reliable and valid when evaluated with standard criteria for psychiatric disorders  faraone_attention_2015 , but it is …",
-          "link": "https://discourse.computational-humanities-research.org/t/detecting-psychological-disorders-with-stylometry-the-case-of-adhd-in-adolescent-autobiographical-narratives/2082",
-          "publishedOn": "2023-11-17T12:51:50.000Z",
-          "wordCount": 366,
-          "title": "Detecting Psychological Disorders with Stylometry: the Case of ADHD in Adolescent Autobiographical Narratives"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2081",
-          "author": "chr-user",
-          "description": "Speaker: Sara Luxmoore, Pedro Ramaciotti Morales and Jonathan Cardoso-Silva\n Affiliation: 1, LSE Data Science Institute, London School of Economics and Political Science, United Kingdom; 2, University of California, Berkeley, United States; 3, Complex Systems Institute of Paris Île-de-France, CNRS, France; 4, médialab Sciences Po, Paris, France; 5, LPI University of Paris Cité, France\nTitle:  : Emoji, language games and political polarisation\nAbstract: Are emoji political? In an increasing body of research, emoji have variably been viewed as emotional data or personality identifiers. However, little attention has been paid to the social and political import of emoji. Using a dataset of politically active Twitter users in Poland, including 334 members of parliament and their 1,288,950 followers, we ask whether emoji are used for political self-representation, and discuss the implications for political identity formation and mobilisation online. Adapting a new method of ideal point estimation, we identify patterns in the employment of emoji in user Twitter bios across a latent political space computed from a Twitter following network. We find that emoji are used as stand-ins for offline political symbols such as  flag-european-union ,  rainbow-flag  and  latin-cross . Additionally, we find that the use of emoji without recognisable political meaning, such as  victory-hand ,  flexed-biceps ,  hundred-points  and  seedling  is contingent on a users estimated political ideal point. Users on the left are likelier to employ  victory-hand  and  seedling , while those on the right are likelier to employ  flexed-biceps  and  hundred-points . Using Ludwig Wittgenstein’s theory of language games, we argue that this points to the use of emoji for communication of both political values and affect, and to the development of a new political language game of emoji.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/emoji-language-games-and-political-polarisation/2081",
-          "publishedOn": "2023-11-17T12:48:48.000Z",
-          "wordCount": 331,
-          "title": "Emoji, language games and political polarisation"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2080",
-          "author": "chr-user",
-          "description": "Speaker: Giselle Gonzalez Garcia and Christian Weilbach\n Affiliation: 1, Department of History and School of Irish Studies, Concordia University, Montreal, Canada; 2, Department of Computer Science, University of British Columbia, Vancouver, Canada\nTitle: If the Sources Could Talk: Evaluating Large Language Models for Research Assistance in History\nAbstract: The recent advent of powerful Large-Language Models (LLM) provides a new conversational form of inquiry into historical memory (or, training data, in this case). We show that by augmenting such LLMs with vector embeddings from highly specialized academic sources, a conversational methodology can be made accessible to historians and other researchers in the Humanities. Concretely, we evaluate and demonstrate how LLMs have the ability of assisting researchers while they examine a customized corpora of different types of documents, including, but not exclusive to: (1). primary sources, (2). secondary sources written by experts, and (3). the combination of these two. Compared to established search interfaces for digital catalogues, such as metadata and full-text search, we evaluate the richer conversational style of LLMs on the performance of two main types of tasks: (1). question-answering, and (2). extraction and organization of data. We demonstrate that LLMs semantic retrieval and reasoning abilities on problem-specific tasks can be applied to large textual archives that have not been part of the its training data. Therefore, LLMs can be augmented with sources relevant to specific research projects, and can be queried privately by researchers.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/if-the-sources-could-talk-evaluating-large-language-models-for-research-assistance-in-history/2080",
-          "publishedOn": "2023-11-17T12:43:41.000Z",
-          "wordCount": 304,
-          "title": "If the Sources Could Talk: Evaluating Large Language Models for Research Assistance in History"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2079",
-          "author": "LeonardKonle",
-          "description": "Speaker: Leonard Konle, Agnes Hilger and Fotis Jannidis\n Affiliation: Institut für Deutsche Philologie, Julius-Maximilians-Universität Würzburg, Germany\nTitle: On Character Perception and Plot Structure of German Romance Novel\nAbstract: In this paper, we describe a plot model for German dime novel romances. Starting with the identification of essential structural parts of their plot based on scholarly analysis of romances, we then formalize this conceptual model.   After a description of the corpus with its 950 novels, mostly from the last 20 years, and the annotation guidelines for the selected plot elements, we automatically detect these elements using a fine-tuned German Bert (with LoRA adapters). While it is clear how to evaluate the performance of the automatic extraction of the plot elements, it is less clear how to evaluate the quality of the model in total. We apply it to two texts and compare the result to summaries of these novels based on reading them, to discuss the strengths and weaknesses of the plot model in making aspects of the plot structure visible.  For the quantitative evaluation each novel is represented as a multidimensional time series data. Classifications of this data distinguish between publishers, genres and series respectively; we see the performance in this task as an indication of the quality of the model. Finally, applying the model to a larger corpus of romance novels, we detect patterns of the genre. The more modern form of the romance novel, published by the publishing house  Cora , is characterized by the importance of the physical perception and the reduction of the plot with the high and exclusive focus on the relationship of the lovers.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/on-character-perception-and-plot-structure-of-german-romance-novel/2079",
-          "publishedOn": "2023-11-17T12:41:13.000Z",
-          "wordCount": 331,
-          "title": "On Character Perception and Plot Structure of German Romance Novel"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2078",
-          "author": "tla",
-          "description": "Speaker: Tara L. Andrews\n Affiliation: Institut für Geschichte, Universität Wien, Austria\nTitle: Algorithms for the manipulation and transformation of text variant graphs\nAbstract: While text variant graphs are increasingly frequently used for the visualization of a text transmitted in multiple versions, the graph is also a very appropriate model for the querying and transformation of such a text in the course of producing a critical edition. This article describes the algorithms used in the StemmaREST repository for variant text traditions.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/algorithms-for-the-manipulation-and-transformation-of-text-variant-graphs/2078",
-          "publishedOn": "2023-11-17T12:39:29.000Z",
-          "wordCount": 141,
-          "title": "Algorithms for the manipulation and transformation of text variant graphs"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2077",
-          "author": "LuigiBambaci",
-          "description": "Speaker: Luigi Bambaci and Daniel Stökl Ben Ezra\n Affiliation: 1, Archéologie , &,  Philologie\nTitle: Enhancing HTR of Historical Texts through Scholarly Editions: A Case Study from an Ancient Collation of the Hebrew Bible\nAbstract: Printed critical editions of literary texts are a largely neglected source of knowledge in computational humanities. However, under certain conditions, they hold significant potential for multifaceted exploration: First, through Optical Character Recognition (OCR) of the text and its apparatus, coupled with intelligent parsing of the variant readings, it becomes possible to reconstruct comprehensive manuscript collations, which can prove invaluable for a variety of investigations, including phylogenetic analyses, redaction history studies, linguistic inquiries, and more. Second, by aligning the printed edition with manuscript images, a substantial amount of Handwritten Text Recognition (HTR) ground truth can be generated. This serves as valuable material for paleography, layout analysis, as well as for assessing the quality of the collation criteria adopted by the editor. The present paper focuses on the challenges mastered in the processes of the OCR, the apparatus parsing, the text reconstruction, and the alignment with the manuscript images, taking as a case study the edition of the Hebrew Bible published by Kennicott in the late eighteenth century.     %After a brief introduction (§ \\ref{introduction}) and a description of this edition (§ \\ref{kennicott}), we will provide an overview of the adopted method (§ \\ref{pipeline}), from image acquisition (§ \\ref{image_acquisition}) to the final textual reconstruction (§ \\ref{text_reconstruction}). Finally, we will conclude with an assessment of the work carried out and an outlook on potential future developments (§ \\ref{conclusion}).\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/enhancing-htr-of-historical-texts-through-scholarly-editions-a-case-study-from-an-ancient-collation-of-the-hebrew-bible/2077",
-          "publishedOn": "2023-11-17T12:36:12.000Z",
-          "wordCount": 377,
-          "title": "Enhancing HTR of Historical Texts through Scholarly Editions: A Case Study from an Ancient Collation of the Hebrew Bible"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2076",
-          "author": "carolinec",
-          "description": "Speaker: Caroline Craig, Kartik Goyal, Gregory Crane, Farnoosh Shamsian and David A. Smith\n Affiliation: 1, Khoury College of Computer Sciences, Northeastern University, 360 Huntington Ave, Boston, MA 02115, United States; 2, School of Interactive Computing, Georgia Institute of Technology, North Ave NW, Atlanta, GA 30332, United States; 3, School of Arts and Sciences , &,  School of Engineering, Tufts University, 419 Boston Ave, Medford, MA 02155, United States; 4, Leipzig University, Augustuspl. 10, 04109 Leipzig, Germany\nTitle: Testing the Limits of Neural Sentence Alignment Models on Classical Greek and Latin Texts and Translations\nAbstract: The Greek and Latin classics, like many other ancient texts, have been widely translated into a variety of languages over the past two millennia. …",
-          "link": "https://discourse.computational-humanities-research.org/t/testing-the-limits-of-neural-sentence-alignment-models-on-classical-greek-and-latin-texts-and-translations/2076",
-          "publishedOn": "2023-11-17T12:34:04.000Z",
-          "wordCount": 485,
-          "title": "Testing the Limits of Neural Sentence Alignment Models on Classical Greek and Latin Texts and Translations"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2075",
-          "author": "WouterHaverals",
-          "description": "Speaker: Thomas Smits, Wouter Haverals, Loren Verreyen, Mona Allaert and Mike Kestemont\n Affiliation: 1, Antwerp Center for Digital Humanities and Literary Criticism (ACDC), University of Antwerp, Belgium; 2, Institute for the Study of Literature in the Low Countries (ISLN), University of Antwerp, Belgium; 3, Center for Digital Humanities (CDH), Princeton University, USA; 4, Amsterdam School of Historical Studies (ASH), University of Amsterdam, the Netherlands\nTitle: Greetings from! Extracting address information from 100,000 historical picture postcards\nAbstract: This paper details the development and validation of computational methods aimed at creating a comprehensive dataset from a vast collection of historical picture postcards. The dataset associated with this research can be accesse…",
-          "link": "https://discourse.computational-humanities-research.org/t/greetings-from-extracting-address-information-from-100-000-historical-picture-postcards/2075",
-          "publishedOn": "2023-11-17T11:37:28.000Z",
-          "wordCount": 405,
-          "title": "Greetings from! Extracting address information from 100,000 historical picture postcards"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2073",
-          "author": "andrew.piper",
-          "description": "Speaker: Andrew Piper, Hao Xu and Eric D. Kolaczyk\n Affiliation: McGill University, Montreal, QC H3A 2M7, CANADA\nTitle: Modeling Narrative Revelation\nAbstract: A core aspect of human storytelling is the element of narrative time. In this paper, we propose a model of narrative revelation using the information-theoretic concept of relative entropy, which has been used in a variety of settings to understand textual similarity, along with methods in time-series analysis to model the properties of revelation over narrative time. Given a beginning state of no knowledge about a story (beyond paratextual clues) and an end state of full knowledge about a story’s contents, what are the rhythms of dissemination through which we arrive at this final state? Using a dataset of over 2,700 books of contemporary English prose, we test for various time-dependent characteristics of narrative revelation against four stylistic categories of interest: audience age level, prestige, point-of-view, and fictionality.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/modeling-narrative-revelation/2073",
-          "publishedOn": "2023-11-17T11:24:03.000Z",
-          "wordCount": 197,
-          "title": "Modeling Narrative Revelation"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2072",
-          "author": "melvin.wevers",
-          "description": "Speaker: Alexandra Barancova, Melvin Wevers and Nanne van Noord\n Affiliation: 1, Faculty of Humanities, Media Studies, University of Amsterdam, the Netherlands; 2, Faculty of Humanities, Amsterdam School of Historical Studies, University of Amsterdam, the Netherlands; 3, Faculty of Science, Informatics Institute, University of Amsterdam, the Netherlands\nTitle: Blind Dates: Examining the Expression of Temporality in Historical Photographs\nAbstract: This paper explores the capacity of computer vision models to discern temporal information in visual content, focusing specifically on historical photographs. We investigate the dating of images using OpenCLIP, an open-source implementation of CLIP, a multi-modal language and vision model. Our experiment consists of three steps: zero-shot classification, fine-tuning, and analysis of visual content. We use the  De Boer Scene Detection  dataset, containing 39,866 gray-scale historical press photographs from 1950 to 1999. The results show that zero-shot classification is relatively ineffective for image dating, with a bias towards predicting dates in the past. Fine-tuning OpenCLIP with a logistic classifier improves performance and eliminates the bias. Additionally, our analysis reveals that images featuring buses, cars, cats, dogs, and people are more accurately dated, suggesting the presence of temporal markers. The study highlights the potential of machine learning models like OpenCLIP in dating images and emphasizes the importance of fine-tuning for accurate temporal analysis. Future research should explore the application of these findings to color photographs and diverse datasets.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/blind-dates-examining-the-expression-of-temporality-in-historical-photographs/2072",
-          "publishedOn": "2023-11-17T09:48:53.000Z",
-          "wordCount": 286,
-          "title": "Blind Dates: Examining the Expression of Temporality in Historical Photographs"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2071",
-          "author": "chr-user",
-          "description": "Speaker: Lyra D’Souza and David Mimno\n Affiliation: 1, Department of Computer Science, Cornell University, USA; 2, Department of Information Science, Cornell University, USA\nTitle: The Chatbot and the Canon: Poetry Memorization in LLMs\nAbstract: Large language models are able to memorize and generate long passages of text from their pretraining data. Poetry is commonly available on the web and often fits within language model context sizes. As LLMs continue to grow as a tool in literary analysis, the accessibility of poems will determine the effective canon. We assess whether we can prompt current language models to retrieve existing poems, and what methods lead to the most successful retrieval. For the highest performing model, ChatGPT, we then evaluate which features of poets best predict memorization, as well as document changes over time in ChatGPT’s ability and willingness to retrieve poetry.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/the-chatbot-and-the-canon-poetry-memorization-in-llms/2071",
-          "publishedOn": "2023-11-17T09:45:40.000Z",
-          "wordCount": 198,
-          "title": "The Chatbot and the Canon: Poetry Memorization in LLMs"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2070",
-          "author": "thora.hagen",
-          "description": "Speaker: Thora Hagen and Erik Ketzan\n Affiliation: 1, Chair of Computational Philology, University of Würzburg, Germany; 2, Department of Digital Humanities, King’s College London, UK\nTitle: Introducing Traveling Word Pairs in Historical Semantic Change: A Case Study of Privacy Words in 18th and 19th Century English\nAbstract: In recent years, Lexical semantic change detection (LSCD) has become a central task of NLP.   Because most studies in LSCD only consider the semantic change of words in isolation, in this paper, we propose a new direction for the analysis of semantic shifts:  traveling word pairs . First, we introduce shift correlation to find pairs of words that semantically shift together in a similar fashion. Second, we propose word relation shift to analyze how the relationship between two words has changed over time. As a test case, we investigate the word  privacy (and related words identified by a pre-existing dictionary), as an example of a word that has shifted semantics historically and remains vibrantly explored as a concept in contemporary humanistic discourse. We report that the term  privacy  in comparison shows relatively little change initially – with correlation analysis revealing more about how key terms surrounding  privacy  have shifted in tandem, and explore nuanced changes through word pair analysis, suggesting a shift toward concreteness in particular.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/introducing-traveling-word-pairs-in-historical-semantic-change-a-case-study-of-privacy-words-in-18th-and-19th-century-english/2070",
-          "publishedOn": "2023-11-17T09:44:03.000Z",
-          "wordCount": 294,
-          "title": "Introducing Traveling Word Pairs in Historical Semantic Change: A Case Study of Privacy Words in 18th and 19th Century English"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2069",
-          "author": "alie",
-          "description": "Speaker: Alie Lassche, Ruben Ros and Joris Veerbeek\n Affiliation: 1, Leiden University, Institute of History, Doelensteeg 16, 2311 VL Leiden, The Netherlands; 2, Utrecht University, Department of Media and Culture Studies, Drift 13, 3512 BR Utrecht, The Netherlands\nTitle: (De)constructing Binarism in Journalism: Automatic Antonym Detection in Dutch Newspaper Articles\nAbstract: Binary oppositions, since their introduction by Claude Levi-Strauss and other structuralists in the seventies, are under pressure, especially because they legitimatize societal power structures. Deconstruction of binary oppositions such as man/woman, black/white, left/right, and rich/poor is therefore increasingly encouraged. The question arises of what kind of effect the debate about binary oppositions has had on its linguistic use. We have therefore detected antonyms in a corpus of Dutch newspaper articles from the period 1990-2020, to study the development of binarism in journalism. Our method consists of two parts: the use of a good-old lexicon, and the finetuning of a BERT model for antonym detection. In this paper, we not only present our results regarding the (de)construction of binary oppositions in Dutch journalism, but we also reflect on the two methodological stages and discuss their gain.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/de-constructing-binarism-in-journalism-automatic-antonym-detection-in-dutch-newspaper-articles/2069",
-          "publishedOn": "2023-11-17T09:42:40.000Z",
-          "wordCount": 249,
-          "title": "(De)constructing Binarism in Journalism: Automatic Antonym Detection in Dutch Newspaper Articles"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2068",
-          "author": "chr-user",
-          "description": "Speaker: Yulia Clausen\n Affiliation: Germanistisches Institut, Ruhr-Universität Bochum, Germany\nTitle: German Question Tags: A Computational Analysis\nAbstract: The German language exhibits a range of question tags that can typically, but not always, be substituted for one another. Moreover, the same words can have other meanings while occurring in the sentence-final position. The tags’ felicity conditions were addressed in previous corpus-based and experimental work and attributed to semantic and pragmatic properties of tag questions. This paper addresses the question of whether and to what extent the differences among German tags can be determined automatically. We assess the performance of three pretrained German BERT models on a tag question dataset and fine-tune one of these models on the tag word prediction task. A close examination of this model’s output indicates that BERT can identify properties relevant for the tags’ felicity conditions and interchangeability consistent with previous studies.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/german-question-tags-a-computational-analysis/2068",
-          "publishedOn": "2023-11-17T09:40:57.000Z",
-          "wordCount": 198,
-          "title": "German Question Tags: A Computational Analysis"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2067",
-          "author": "evelyn.gius",
-          "description": "Speaker: Julian Häußler and Evelyn Gius\n Affiliation: fortext lab, Technical University of Darmstadt,\nTitle: Operationalizing and Measuring Conflict in German Novels\nAbstract: In this contribution we explore ways of detecting conflict representation in literary texts. First, we operationalize Glasl’s concept of social conflict for manual annotation and second, we adapt a word embedding-based sentiment analysis ( SentiArt ) for the attribution of conflict values based on two scalar conflict operationalizations. By translating the values of the latter approaches into binary labels, we compare the embedding approaches with the manual annotation. Though correlation between the approaches is low, the paper demonstrates possible approaches to conflict analysis in literary texts and outlines directions for future research.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/operationalizing-and-measuring-conflict-in-german-novels/2067",
-          "publishedOn": "2023-11-17T09:39:47.000Z",
-          "wordCount": 174,
-          "title": "Operationalizing and Measuring Conflict in German Novels"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2066",
-          "author": "kasev",
-          "description": "Speaker: Vojtěch Kaše, Adéla Sobotková and Petra Heřmánková\n Affiliation: 1, Department of Philosophy, University of West Bohemia, Czech Republic; 2, Department of History and Classical Studies, Aarhus University, Denmark\nTitle:  Modeling temporal uncertainty in historical datasets\nAbstract: This paper explores several approaches to assess temporal trends within archaeological and historical datasets containing records marked with significant extent of uncertainty accompanying their dating. We evaluate the strengths and pitfalls of these methodologies by employing two datasets: one comprising ancient shipwrecks and the other ancient Greek inscriptions. While these objects can, in principle, be precisely dated to specific years, they are often assigned broader date ranges, spanning centuries or longer historical periods. We propose that the most promising approaches involve using these date ranges as defining probabilities. By randomly assigning specific dates based on these probabilities, we enable hypothesis testing for temporal trends. As we want to encourage other scholars to employ the methods we propose, we offer a detailed description of the implementation of these methods using functions from the Python  tempun  package.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/modeling-temporal-uncertainty-in-historical-datasets/2066",
-          "publishedOn": "2023-11-17T09:38:22.000Z",
-          "wordCount": 225,
-          "title": "Modeling temporal uncertainty in historical datasets"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2048",
-          "author": "maslinych",
-          "description": "Speaker: Kirill Maslinsky\n Affiliation: 1, INALCO, Paris; 2, Institute of Russian Literature (Pushkin House), Saint Petersburg\nTitle: How Exactly does Literary Content Depend on Genre? A Case Study of Animals in Children’s Literature\nAbstract: The content of literary fiction at least partly depends on literary   tradition. The dependence is attested quantitatively in the   association of genre with lexical statistical patterns.  This short   paper is a step to formal modeling of the content-moderating   processes associated with literary genres.  The idea is to explain   prevalence of the particular lemmas in a literary text by the   genre-dependent accessibility of the semantic category during the   creative process. Data on animals mentioned in various sub-genres in   a corpus of Russian children’s literature is used as an empirical   case. Vocabulary growth models are applied to infer genre-related   differences in overall diversity of animal vocabularies. A   constrained topic model is employed to infer preferences for   particular animal lemmas displayed by various genres. Results   demonstrate the models’ potential to infer genre-related content   preferences in the context of high variance and data imbalance.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/how-exactly-does-literary-content-depend-on-genre-a-case-study-of-animals-in-children-s-literature/2048",
-          "publishedOn": "2023-11-17T08:07:40.000Z",
-          "wordCount": 247,
-          "title": "How Exactly does Literary Content Depend on Genre? A Case Study of Animals in Children’s Literature"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2047",
-          "author": "chr-user",
-          "description": "Speaker: Charles de Dampierre, Valentin Thouzeau and Nicolas Baumard\n Affiliation: Institut Jean Nicod, Département d’études cognitives, ENS, EHESS, PSL University, CNRS\nTitle: Using Online Catalogs to Estimate Economic Development in Classical Antiquity\nAbstract: Despite significant progress, economic development in Classical Antiquity remains difficult to study: proper economic data (e.g. agricultural production, wages) are scarce, estimates of urbanization, GDP or population remain highly uncertain, and the use of indirect markers of development such as shipwrecks or coin hoards is limited. Here, we propose a different approach based on the production of immaterial works (e.g. poems, philosophical treatises, musical pieces, scientific work). Immaterial works require time, energy, resources, and human capital to be produced, disseminated and appreciated, and thus indirectly reflect a wide range of economic processes. Moreover, their survival rate tends to be higher because they can be abstracted from their initial material incarnation (e.g. scrolls, manuscripts) and preserved throughout the centuries. We build a large database of cultural producers (painters, scientists, etc.) that exist in online catalogs (Library of Congress ID, GND ID, VIAF ID, Iranica ID etc) and create an estimate of immaterial production that is robust and consistent across cultures and sources. We show that immaterial production in Ancient Greece and Ancient Rome is closely related to economic development, and reveals important phases of economic development. Overall, immaterial production provides new insights into the roots and the evolution of economic development in the very long run in Classical Antiquity.\n Link to paper\n\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/using-online-catalogs-to-estimate-economic-development-in-classical-antiquity/2047",
-          "publishedOn": "2023-11-17T08:04:13.000Z",
-          "wordCount": 301,
-          "title": "Using Online Catalogs to Estimate Economic Development in Classical Antiquity"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2045",
-          "author": "melvin.wevers",
-          "description": "(Replace this first paragraph with a brief description of your new category. This guidance will appear in the category selection area, so try to keep it below 200 characters.)\nUse the following paragraphs for a longer description, or to establish category guidelines or rules:\nWhy should people use this category? What is it for?\nHow exactly is this different than the other categories we already have?\nWhat should topics in this category generally contain?\nDo we need this category? Can we merge with another category, or subcategory?\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/about-the-chr23-poster-category/2045",
-          "publishedOn": "2023-11-17T07:53:24.000Z",
-          "wordCount": 130,
-          "title": "About the chr23-poster category"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2044",
-          "author": "melvin.wevers",
-          "description": "(Replace this first paragraph with a brief description of your new category. This guidance will appear in the category selection area, so try to keep it below 200 characters.)\nUse the following paragraphs for a longer description, or to establish category guidelines or rules:\nWhy should people use this category? What is it for?\nHow exactly is this different than the other categories we already have?\nWhat should topics in this category generally contain?\nDo we need this category? Can we merge with another category, or subcategory?\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/about-the-chr23-paper-category/2044",
-          "publishedOn": "2023-11-17T07:52:09.000Z",
-          "wordCount": 130,
-          "title": "About the chr23-paper category"
         }
       ]
     },
@@ -3735,15 +3421,6 @@
           "publishedOn": "2023-11-28T14:18:06.000Z",
           "wordCount": 539,
           "title": "Mellon Seminar: Jessica Mack"
-        },
-        {
-          "id": "1270 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Friday, November 17, 2023 - 2:45pm\n\n\n\nWilliams 623\n\n\n\nWhile digital methods are increasingly common in the humanities, the status of \"Digital Humanities\" has evolved over the years. Once a cutting edge buzzword, DH has grown into a vast umbrella covering a myriad of scholarly activities that can nevertheless be a polarizing concept.\nThe purpose of this meeting of the Graduate Student Working Group in Digital Humanities is to have a candid discusion about strategies for talking about and represernting digital work in professional contexts including but not limited to job interviews. It should be useful for students who have solid DH expereince but also students who are wondering if their work even counts as digital.\nPanelists will be:\nBrent Cebul, History\nEmily Hammer, Near Eastern Languages and Cultures\nJim English, English\nWhitney Trettien, English\n \n \n \n\n\nSubtitle: \n\nGraduate Student Working Group\n\n\nImage for Left Column:",
-          "link": "https://pricelab.sas.upenn.edu/events/how-talk-about-dh-particularly-job-market",
-          "publishedOn": "2023-11-17T20:23:07.000Z",
-          "wordCount": 321,
-          "title": "How To Talk About DH (*particularly on the job market)"
         }
       ]
     },
@@ -4003,6 +3680,16 @@
       "feedUrl": "https://readcoop.eu/feed",
       "siteUrl": "https://readcoop.eu/",
       "articles": [
+        {
+          "id": "https://readcoop.eu/?p=34922",
+          "author": "Helene",
+          "description": "Understanding historical documents is key to understanding history. But understanding historical documents in Polish can be a challenge. Not only is the language often difficult to understand but the handwriting can, at times, be almost impossible to read. The fact that the Polish alphabet has changed much over the last few centuries makes this particularly […]\nThe post AI models for reading Polish cursive and printed texts appeared first on READ-COOP.",
+          "link": "https://readcoop.eu/ai-models-for-reading-polish-cursive-and-printed-texts/",
+          "publishedOn": "2024-05-14T15:13:54.000Z",
+          "wordCount": 7148,
+          "title": "AI models for reading Polish cursive and printed texts",
+          "imageUrl": "https://readcoop.eu/wp-content/uploads/2024/05/Featured-image.jpg"
+        },
         {
           "id": "https://readcoop.eu/?p=34878",
           "author": "Helene",
@@ -5397,6 +5084,16 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/38439/",
+          "author": null,
+          "description": "Theme: Visualising UK farming’s environmental impact Applications open: https://forms.gle/xKxwqiAHz93iWW286 (this form will only be viewable if you are logged in to Google Drive with your Raven account). This year’s theme for the CDH Reactor programme is designed in collaboration with Watershed Investigations and explores remote sensing and AI methods for mapping the impact of farming",
+          "link": "https://www.cdh.cam.ac.uk/events/38439/",
+          "publishedOn": "2024-05-14T15:24:23.000Z",
+          "wordCount": 2579,
+          "title": "CDH Reactor: Watershed Investigations Data Lab | Call for participation",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/05/Learning-event-images-2.png"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/research/reactor/",
           "author": null,
