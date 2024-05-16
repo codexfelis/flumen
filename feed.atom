@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-05-15T08:23:46.439Z</updated>
+    <updated>2024-05-16T08:19:16.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using IIIF to explore Trove's digitised images]]></title>
+        <id>http://wragge.micro.blog/2024/05/15/using-iiif-to.html</id>
+        <link href="https://updates.timsherratt.org/2024/05/15/using-iiif-to.html"/>
+        <updated>2024-05-15T13:24:24.000Z</updated>
+        <summary type="html"><![CDATA[I’ve just added a new notebook to the Trove images section of the GLAM Workbench. It helps you save a collection of digitised images as an IIIF manifest. But what does that mean? It means the notebook packages up all the metadata describing the images in a standard form that can be used with a variety of IIIF-compliant tools. These tools let you do things with the collections that you can’t do in Trove’s own interface.
+Perhaps you’d like to browse the complete digitised contents of Sir Edmund Barton’s manuscript collection, without all the back and forth and up and down navigation imposed by the Trove web interface. Here you go, thanks to IIIF!
+
+What’s IIIF?
+The International Image Interoperability Framework, more conveniently known as IIIF, develops open standards for sharing digital obj…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JADH2024 Conference Website is available]]></title>
+        <id>79 at https://www.jadh.org</id>
+        <link href="https://www.jadh.org/jadh2024"/>
+        <updated>2024-05-15T10:04:41.000Z</updated>
+        <summary type="html"><![CDATA[JADH2024 Conference Website が公開されています。以下のURLにアクセスしてみてください。
+https://jadh2024.l.u-tokyo.ac.jp/]]></summary>
+        <author>
+            <name>adminweb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now Hiring: Assistant Professor in Digital Humanities [5 years fixed term]]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/now-hiring-assistant-professor-in-digital-humanities-5-years-fixed-term/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/now-hiring-assistant-professor-in-digital-humanities-5-years-fixed-term/"/>
+        <updated>2024-05-15T08:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Assistant Professor in Digital Humanities [5 years fixed term] Department: Cambridge Digital Humanities / Faculty of English Salary: £45,585-£57,696 Closing date: 2 June 2024 Apply now Cambridge Digital Humanities seeks to recruit a fixed term Assistant Professor in Digital Humanities, to be appointed to the Faculty of English. The appointee will take up the post]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CDH Reactor: Watershed Investigations Data Lab | Call for participation]]></title>
         <id>https://www.cdh.cam.ac.uk/events/38439/</id>
