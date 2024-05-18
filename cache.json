@@ -2306,24 +2306,6 @@
           "publishedOn": "2023-12-05T08:14:09.638Z",
           "wordCount": 1222,
           "title": "CfA: Reputation ohne Paywall? Wissenschaftliches Publizieren im digitalen Wandel"
-        },
-        {
-          "id": "node/926",
-          "author": "434",
-          "description": "DHd 2024 Early-Career-Reisestipendien\n[A machine-translated English version of this text can be found below]\nDer Verband »Digital Humanities im deutschsprachigen Raum e.V.« (http…",
-          "link": "https://dig-hum.de/aktuelles/dhd-2024-early-career-reisestipendien",
-          "publishedOn": "2023-11-20T09:54:04.000Z",
-          "wordCount": 2359,
-          "title": "DHd 2024 Early-Career-Reisestipendien"
-        },
-        {
-          "id": "node/927",
-          "author": "434",
-          "description": "Reisekostenstipendien des DHd-Verbands für DH-nahe Tagungen\n[A machine-translated English version of this text can be found below]\nDer Verband »Digital Humanities im…",
-          "link": "https://dig-hum.de/aktuelles/reisekostenstipendien-des-dhd-verbands-f%C3%BCr-dh-nahe-tagungen",
-          "publishedOn": "2023-11-20T09:37:02.000Z",
-          "wordCount": 2066,
-          "title": "Reisekostenstipendien des DHd-Verbands für DH-nahe Tagungen"
         }
       ]
     },
@@ -2386,33 +2368,6 @@
           "publishedOn": "2023-12-04T20:31:28.000Z",
           "wordCount": 860,
           "title": "UBC Generative AI Symposium: Can Democracy Survive AI"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=5320",
-          "author": "Pranjali Mann",
-          "description": "Dr. Jurnell Cockhren joined us virtually to present as part of the Data Fluencies Speaker Series on October 4. Dr. Jurnell Cockhren has over a decade of experience in creating and …\n  Data Fluencies Speaker Series – Dr. Jurnell Cockhren Read More »\nData Fluencies Speaker Series – Dr. Jurnell Cockhren first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/data-fluencies-speaker-series-dr-jurnell-cockhren/?utm_source=rss&utm_medium=rss&utm_campaign=data-fluencies-speaker-series-dr-jurnell-cockhren",
-          "publishedOn": "2023-11-20T18:30:23.000Z",
-          "wordCount": 378,
-          "title": "Data Fluencies Speaker Series – Dr. Jurnell Cockhren"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=5317",
-          "author": "Pranjali Mann",
-          "description": "On September 25, Dr. Sean Cubitt gave a talk as part of the Digital Democracies Institute 2023, Fall Speaker Series. His research links film and media studies with ecocriticism, technological, aesthetic, …\n  Dr. Sean Cubitt- From General Intellect to General Imagination Read More »\nDr. Sean Cubitt- From General Intellect to General Imagination first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/dr-sean-cubitt-from-general-intellect-to-general-imagination/?utm_source=rss&utm_medium=rss&utm_campaign=dr-sean-cubitt-from-general-intellect-to-general-imagination",
-          "publishedOn": "2023-11-20T18:22:35.000Z",
-          "wordCount": 385,
-          "title": "Dr. Sean Cubitt- From General Intellect to General Imagination"
-        },
-        {
-          "id": "https://digitaldemocracies.org/?p=5314",
-          "author": "Pranjali Mann",
-          "description": "This post was written by Anthony Burton, Data Fluencies Fellows and PhD Candidate at SFU. Dr. Ibrus is professor of media innovation at the Baltic Film, Media and Arts School …\n  Indrek Ibru – The Public Value of Media Data: Conceptualizations and Ways of Measuring Read More »\nIndrek Ibru – The Public Value of Media Data: Conceptualizations and Ways of Measuring first appeared on Digital Democracies Institute.",
-          "link": "https://digitaldemocracies.org/indrek-ibru-the-public-value-of-media-data-conceptualizations-and-ways-of-measuring/?utm_source=rss&utm_medium=rss&utm_campaign=indrek-ibru-the-public-value-of-media-data-conceptualizations-and-ways-of-measuring",
-          "publishedOn": "2023-11-20T08:14:41.000Z",
-          "wordCount": 714,
-          "title": "Indrek Ibru – The Public Value of Media Data: Conceptualizations and Ways of Measuring"
         }
       ]
     },
@@ -2449,6 +2404,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=12485",
+          "author": "Hirohito TSUJI 辻󠄀 博仁",
+          "description": "Overview In June 2023, TOPPAN Corporation released an application for iOS, the Komonjo Camera 古文書カメラ. This was followed by an …",
+          "link": "https://digitalorientalist.com/2024/05/17/komonjo-camera-the-ai-app-for-reading-cursive-japanese-characters/",
+          "publishedOn": "2024-05-17T12:45:00.000Z",
+          "wordCount": 5678,
+          "title": "Komonjo Camera, the AI App for Reading Cursive Japanese Characters",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/03/mv-pc.png?w=1200"
+        },
         {
           "id": "http://digitalorientalist.com/?p=12660",
           "author": "Dr Elizabeth Bishop",
@@ -3057,15 +3022,6 @@
           "publishedOn": "2023-11-30T15:48:34.000Z",
           "wordCount": null,
           "title": "CHR2023 Posters"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2098",
-          "author": "melvin.wevers",
-          "description": "Day 1 - Wednesday 06 Dec 2023\n2023-12-06T08:00:00Z UTC Registration opens\nWorkshops\n2023-12-06T08:00:00Z UTC → 2023-12-06T09:30:00Z UTC\n@florian.cafiero and Jean-Luc Falcone\nTransforming archives into data-driven analyses\n\nMarianne Reboul\nTextual analysis with Python and Large Language Models\n\nGiovanni Pietro Vitali\nMapping with R for humanities\n\n\n\n\nCoffee break \n\n2023-12-06T09:30:00Z UTC → 2023-12-06T10:15:00Z UTC\nCHR opening words \n\n2023-12-06T10:15:00Z UTC → 2023-12-06T10:30:00Z UTC\nSession 1: Historical Change \n\n2023-12-06T10:30:00Z UTC → 2023-12-06T12:00:00Z UTC ;  @ash\n Vojtech Kase, Adéla Sobotková and Petra Heřmánková\nModeling temporal uncertainty in historical datasets (Short Talk)\n\n\n Wenyi Shang, Song Chen, Yuqi Chen and Jana Diesner\nStructural Characteristics in Historical Netwo…",
-          "link": "https://discourse.computational-humanities-research.org/t/chr2023-schedule/2098",
-          "publishedOn": "2023-11-20T13:35:29.000Z",
-          "wordCount": 1412,
-          "title": "CHR2023 Schedule"
         }
       ]
     },
@@ -3119,15 +3075,6 @@
           "wordCount": 383,
           "title": "#JobOpening Assistant Professor in Digital Humanities at IE University",
           "imageUrl": null
-        },
-        {
-          "id": "1463 at https://eadh.org",
-          "author": "Communication Fellow",
-          "description": "#JobOpening Assistant Professor for Digital Humanities in the Study of Religion – Ruhr University Bochum\n\n\n\nThe Center for Religious Studies at Ruhr University Bochum, Germany, seeks a scholar for an appointment as Assistant Professor (W1, tenure track W2). The future position holder is expected to represent the field of Digital Humanities in the study of religion in research and teaching. In particular, the aim is to further develop research questions of the Digital Humanities in relation to religion and to introduce the methods of the Digital Humanities into religious studies education.\nA background in religious studies is not a prerequisite. Given a general interest in getting involved in religion-related collaborative research, applications from people with a background in digital humanities or other humanities, cultural studies or social science subjects are welcome. Due to the interdisciplinary context in Bochum, the professorship offers a particular opportunity to strengthen the area of non-European and/or historical languages in the Digital Humanities and to stimulate the field of #MultilingualDH.\nMore details about the position and application procedure can be found at https://jobs.ruhr-uni-bochum.de/jobposting/8c4b276c0e75e597169c5082e2051ca7e51870120.",
-          "link": "https://eadh.org/news/2023/11/20/jobopening-assistant-professor-digital-humanities-study-religion-ruhr-university",
-          "publishedOn": "2023-11-20T19:32:05.000Z",
-          "wordCount": 484,
-          "title": "#JobOpening Assistant Professor for Digital Humanities in the Study of Religion – Ruhr University Bochum"
         }
       ]
     },
@@ -3663,15 +3610,6 @@
           "wordCount": 2425,
           "title": "RaDiHum20 spricht mit Doreen Siegfried vom Podcast “The Future is Open Science”",
           "imageUrl": null
-        },
-        {
-          "id": "https://radihum20.de/?p=742",
-          "author": "Clara Helmig",
-          "description": "Ankündigung: Wir werden uns in Zukunft von Twitter (X) verabschieden, aber keine Sorge, ihr findet uns nach wie vor auf Mastodon und Bluesky. Auch hier unter dem Namen @RaDiHum20. In der jüngsten Folge unseres Podcasts heißen wir Matthias Fromm und Konrad Förstner vom Open Science Radio‑Podcast willkommen. Unsere Gäste bringen eine reiche Palette an (Podcast-)Erfahrung […]\nDer Beitrag RaDiHum20 spricht mit Matthias Fromm und Konrad Förstner vom Podcast „Open Science Radio“ erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/open-science-radio/?utm_source=rss&utm_medium=rss&utm_campaign=open-science-radio",
-          "publishedOn": "2023-11-20T07:55:00.000Z",
-          "wordCount": 937,
-          "title": "RaDiHum20 spricht mit Matthias Fromm und Konrad Förstner vom Podcast „Open Science Radio“"
         }
       ]
     },
@@ -4190,15 +4128,6 @@
           "publishedOn": "2023-11-27T14:00:00.000Z",
           "wordCount": 1334,
           "title": "Manuscript Monday: Ms. Codex 1674 – [Sefer Raziel HaMalach… etc.]. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17922",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1673, an 18th-century Latin copy of the Key of Solomon, a 16th-century magical handbook which includes instructions on subjects such as the conjuration of spirits (f. 11r), enchanting a piece of fruit with a love charmContinue reading \"Manuscript Monday: Ms. Codex 1673 – Key of Solomon (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/11/20/manuscript-monday-ms-codex-1673-key-of-solomon-video-orientation/",
-          "publishedOn": "2023-11-20T14:00:00.000Z",
-          "wordCount": 1337,
-          "title": "Manuscript Monday: Ms. Codex 1673 – Key of Solomon (Video Orientation)"
         }
       ]
     },
@@ -4526,7 +4455,18 @@
       "title": "DH at Tufts",
       "feedUrl": "https://sites.tufts.edu/digitalhumanities/feed/",
       "siteUrl": "https://sites.tufts.edu/digitalhumanities",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sites.tufts.edu/digitalhumanities/?p=1132",
+          "author": "Peter Nadel",
+          "description": "A Four Course Sequence Tufts DH continues to innovate with its brand new digital humanities minor! See below for details: Minor requirements The four required digital humanities courses (or equivalent): DH 101: Introduction to Digital Humanities – introduces students to the history and motivation underlying the Digital Humanities and walks them through the basic Python […]",
+          "link": "https://sites.tufts.edu/digitalhumanities/2024/05/17/new-digital-humanities-minor-at-tufts/?utm_source=rss&utm_medium=rss&utm_campaign=new-digital-humanities-minor-at-tufts",
+          "publishedOn": "2024-05-17T20:19:32.000Z",
+          "wordCount": 2562,
+          "title": "New Digital Humanities Minor at Tufts",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "TEI: Text Encoding Initiative",
@@ -6325,15 +6265,6 @@
           "publishedOn": "2023-11-21T11:47:31.000Z",
           "wordCount": 953,
           "title": "Now Hiring: Temporary Research Associate x3 for the <i>Kente and Kinship</i> project"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37352/",
-          "author": null,
-          "description": "Join us to find out more about the CDH Cultural Heritage Data School (April 2024) at the University of Cambridge. For more information about CDH Data Schools, visit www.cdh.cam.ac.uk/dataschools",
-          "link": "https://www.cdh.cam.ac.uk/events/37352/",
-          "publishedOn": "2023-11-20T15:17:14.000Z",
-          "wordCount": 423,
-          "title": "Cultural Heritage Data School (April 2024) Q&A session"
         }
       ]
     },
@@ -6728,15 +6659,6 @@
           "publishedOn": "2023-12-05T08:23:39.000Z",
           "wordCount": 1017,
           "title": "CLARIN Exchange Venice-Lisbon 2023"
-        },
-        {
-          "id": "5990 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Helsinki Di­gital Hu­man­it­ies Hack­a­thon #DH­H23\n\n            \n  \nThe Helsinki Digital Humanities Hackathon #DH­H23 gathered students and researchers of humanities, social sciences, and computer science in May and June (24.05.–02.06.2023) at the University of Helsinki. During a week and a half of intensive multi-disciplinary work, the groups applied digital methods to a variety of datasets, with the goal of addressing research questions in the following areas:\nEpistolary exchanges\nInteractional dynamics of online discussion\nEarly modern images\nPolitical polarisation in the parliament.\n\n \n    \n\n\n      \n\n\n \nThe event was organised as an international summer school by the University of Helsinki and Aalto University, with financial support from CLARIN \n    \nEuropean Research Infrastructure …",
-          "link": "https://www.clarin.eu/blog/helsinki-di-gital-hu-man-it-ies-hack-thon-dh-h23",
-          "publishedOn": "2023-11-20T12:49:50.000Z",
-          "wordCount": 1064,
-          "title": "Helsinki Di­gital Hu­man­it­ies Hack­a­thon #DH­H23"
         }
       ]
     },
@@ -6894,15 +6816,6 @@
           "wordCount": 3643,
           "title": "RLUK and The National Archives Professional Fellows for 2024-25 announced",
           "imageUrl": "https://www.rluk.ac.uk/wp-content/uploads/2020/06/ds-covid-header.jpg"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=14312",
-          "author": "Melanie Cheung",
-          "description": "RLUK has signed a multi-organisation letter urging the UK Government to ensure the UK is a favourable place to develop and use safe AI, by clarifying that public and legally accessed data is available for AI training and analysis in its Code of Practice. The availability of public and legally accessed data is key  [...]\nThe post RLUK signs text and data mining (TDM) in the UK letter appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/rluk-signs-text-and-data-mining-tdm-in-the-uk-letter/",
-          "publishedOn": "2023-11-20T13:03:18.000Z",
-          "wordCount": 953,
-          "title": "RLUK signs text and data mining (TDM) in the UK letter"
         }
       ]
     },
