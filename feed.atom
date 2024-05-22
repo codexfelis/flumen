@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-05-21T08:23:36.025Z</updated>
+    <updated>2024-05-22T08:24:27.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Contextualising Collections with ‘Datasheets for Digital Cultural Heritage Datasets’]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=28928</id>
+        <link href="https://dri.ie/news/contextualising-collections-with-datasheets-for-digital-cultural-heritage-datasets/"/>
+        <updated>2024-05-21T14:43:53.000Z</updated>
+        <summary type="html"><![CDATA[This blog is part of a series of posts related to the Cultural Heritage Image Sharing Recommendations produced by the WorldFAIR Project’s Cultural Heritage Image Sharing Working Group. Learn more about DRI’s role in the WorldFAIR Project. A conversation with Steven Claeyssens, Curator of Digital Collections, KB National Library of the Netherlands and Beth Knazook, DRI’s Research Data […]
+The post Contextualising Collections with ‘Datasheets for Digital Cultural Heritage Datasets’ appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Beth Knazook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trove to Tropy via IIIF – documenting data pathways in the Trove Data Guide]]></title>
+        <id>http://wragge.micro.blog/2024/05/21/trove-to-tropy.html</id>
+        <link href="https://updates.timsherratt.org/2024/05/21/trove-to-tropy.html"/>
+        <updated>2024-05-21T12:16:16.000Z</updated>
+        <summary type="html"><![CDATA[Last week I added a notebook to the GLAM Workbench that saves a collection of images from Trove as an IIIF manifest. This week I’ve written a tutorial that shows how you can use the notebook to load the collection data in Tropy – a desktop tool for managing and annotating images for research.
+
+This is the first tutorial in the Trove Data Guide’s Research Pathways section. While most of the TDG documents the types of data available in Trove and how you can access it, the pathways aim to connect Trove data with other tools and platforms – to point at possibilities for analysis, enrichment, and sharing. For example, I’m planning tutorials on packaging OCRd text from Trove for use with text analysis tools, as well as ways of sharing selected data through tools like CollectionBuilder, and Datasette.
+If you have any ideas for additional tutorials, feel free to add them to the ideas board in GitHub.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linked Data: An Intensive Introduction by Terhi Nurmikko-Fuller]]></title>
+        <id>http://digitalorientalist.com/?p=12823</id>
+        <link href="https://digitalorientalist.com/2024/05/21/linked-data-an-intensive-introduction-by-terhi-nurmikko-fuller/"/>
+        <updated>2024-05-21T12:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Three seems to be a magical number. Something about it is so convenient, encapsulated in Netflix’s method of describing a …]]></summary>
+        <author>
+            <name>soniwadhwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[But Not Antarctica: 'The Family of Man' in India, Japan and elsewhere]]></title>
+        <id>5027 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/not-antarctica-family-man-india-japan-and-elsewhere"/>
+        <updated>2024-05-21T09:23:23.000Z</updated>
+        <summary type="html"><![CDATA[The Family of Man was an exhibition of some five hundred photographs from around the world, curated by Edward Steichen for the Museum of Modern Art (MoMA) in New York in 1955. After its installation at MoMA, and under the auspices of the United States Information Agency, copies of the exhibition then toured close to fifty countries. By the end of its international tour the exhibition had been seen by almost ten million people, making it the most successful event of the early decades of the cultural Cold War. This paper will consider the international reception of The Family of Man. Taking India and Japan as case studies, it will suggest the ways in which intersection of Steichen’s work and conception with local social and political circumstances inflected and reshaped the meanings of the exhibition.
+ 
+
+
+ 
+Shamoon Zamir is Professor of Literature and Art history at New York University Abu Dhabi. His previous publications on photography include The Gift of the Face: Portraiture and Time in Edward S. Curtis’s The North American Indian (2014), Helen Levitt: New York (2021) and Yasser Alwan: Egypt Every Day (2022). He co-edited The Family of Man Revisited: Photography in the Global Age (2018) and has recently completed a book on The Family of Man.
+ 
+Tuesday, 18 June 2024
+14.00 - 15.00
+
+C²DH Open Space (4th floor, Maison des Sciences humaines) and online.
+ 
+
+  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/family_of_man_web.jpg?itok=j2xxtf9j
+  Lecture by Shamoon Zamir, Professor of Literature and Art History, New York University Abu Dhabi.
+  18 June 2024
+  Public history
+  Art history  History of citizenship  History of popular culture  Photography
+  Conferences
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lovó Esch: Quand nos grand-mères racontent l’histoire d’Esch]]></title>
+        <id>5026 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/lovo-esch-quand-nos-grand-meres-racontent-lhistoire-desch"/>
+        <updated>2024-05-21T09:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Raconter l’histoire d’Esch sur Alzette grâce aux grands-mères lusophones. Nous recherchons toujours des participantes pour partager leurs histoires. Venez donc prendre un café et découvrir le projet Lovó en partenariat avec l’université du Luxembourg, la Ville d’Esch-sur-Alzette, et de nombreuses associations.
+ 
+Samedi, 24 mai 2024
+16h00 - 18h00
+Salon de thé Girassol (129, rue de l'Alzette, L-4011, Esch-sur-Alzette)
+24 May 2024
+  Public history
+  Migration history  Oral history  Public History  Regional history
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finding Meaning in K-Means: Clustering Analysis in Gale Digital Scholar Lab]]></title>
         <id>https://review.gale.com/?p=15227</id>
@@ -9039,16 +9122,6 @@ The post The Literary Archive in the Artificial Intelligence Era appeared first 
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1674, a collection of cabalistic works with an emphasis on angels. The primary text is an Italian and Latin translation of excerpts from the Sefer Raziel HaMalach in which Solomon recounts how the angel Raziel deliveredContinue reading "Manuscript Monday: Ms. Codex 1674 – [Sefer Raziel HaMalach… etc.]. (Video Orientation)"]]></summary>
         <author>
             <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MARKUS for Korean studies]]></title>
-        <id>http://digitalorientalist.com/?p=11642</id>
-        <link href="https://digitalorientalist.com/2023/11/24/markus-for-korean-studies/"/>
-        <updated>2023-11-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scholars working in the field of Korean studies have seen remarkable transformations in the way historical research is conducted. The …]]></summary>
-        <author>
-            <name>Elizabeth Lee</name>
         </author>
     </entry>
     <entry>

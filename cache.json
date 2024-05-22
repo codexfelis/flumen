@@ -2405,6 +2405,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12823",
+          "author": "soniwadhwa",
+          "description": "Three seems to be a magical number. Something about it is so convenient, encapsulated in Netflix’s method of describing a …",
+          "link": "https://digitalorientalist.com/2024/05/21/linked-data-an-intensive-introduction-by-terhi-nurmikko-fuller/",
+          "publishedOn": "2024-05-21T12:09:48.000Z",
+          "wordCount": 5027,
+          "title": "Linked Data: An Intensive Introduction by Terhi Nurmikko-Fuller",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/05/wikidata_in_the_linked_open_data_cloud_2020-08-20.svg_.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12485",
           "author": "Hirohito TSUJI 辻󠄀 博仁",
           "description": "Overview In June 2023, TOPPAN Corporation released an application for iOS, the Komonjo Camera 古文書カメラ. This was followed by an …",
@@ -2949,15 +2959,6 @@
           "publishedOn": "2023-11-28T14:00:00.000Z",
           "wordCount": 890,
           "title": "RAWGraphs: The New Way to Visualize Data"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=11642",
-          "author": "Elizabeth Lee",
-          "description": "Scholars working in the field of Korean studies have seen remarkable transformations in the way historical research is conducted. The …",
-          "link": "https://digitalorientalist.com/2023/11/24/markus-for-korean-studies/",
-          "publishedOn": "2023-11-24T14:00:00.000Z",
-          "wordCount": 1252,
-          "title": "MARKUS for Korean studies"
         }
       ]
     },
@@ -4518,6 +4519,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/05/21/trove-to-tropy.html",
+          "author": null,
+          "description": "Last week I added a notebook to the GLAM Workbench that saves a collection of images from Trove as an IIIF manifest. This week I’ve written a tutorial that shows how you can use the notebook to load the collection data in Tropy – a desktop tool for managing and annotating images for research.\n\r\nThis is the first tutorial in the Trove Data Guide’s Research Pathways section. While most of the TDG documents the types of data available in Trove and how you can access it, the pathways aim to connect Trove data with other tools and platforms – to point at possibilities for analysis, enrichment, and sharing. For example, I’m planning tutorials on packaging OCRd text from Trove for use with text analysis tools, as well as ways of sharing selected data through tools like CollectionBuilder, and Datasette.\nIf you have any ideas for additional tutorials, feel free to add them to the ideas board in GitHub.",
+          "link": "https://updates.timsherratt.org/2024/05/21/trove-to-tropy.html",
+          "publishedOn": "2024-05-21T12:16:16.000Z",
+          "wordCount": 228,
+          "title": "Trove to Tropy via IIIF – documenting data pathways in the Trove Data Guide",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/tropy-interface.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/05/15/using-iiif-to.html",
           "author": null,
           "description": "I’ve just added a new notebook to the Trove images section of the GLAM Workbench. It helps you save a collection of digitised images as an IIIF manifest. But what does that mean? It means the notebook packages up all the metadata describing the images in a standard form that can be used with a variety of IIIF-compliant tools. These tools let you do things with the collections that you can’t do in Trove’s own interface.\nPerhaps you’d like to browse the complete digitised contents of Sir Edmund Barton’s manuscript collection, without all the back and forth and up and down navigation imposed by the Trove web interface. Here you go, thanks to IIIF!\n\r\nWhat’s IIIF?\nThe International Image Interoperability Framework, more conveniently known as IIIF, develops open standards for sharing digital obj…",
@@ -4720,6 +4731,26 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5027 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The Family of Man was an exhibition of some five hundred photographs from around the world, curated by Edward Steichen for the Museum of Modern Art (MoMA) in New York in 1955. After its installation at MoMA, and under the auspices of the United States Information Agency, copies of the exhibition then toured close to fifty countries. By the end of its international tour the exhibition had been seen by almost ten million people, making it the most successful event of the early decades of the cultural Cold War. This paper will consider the international reception of The Family of Man. Taking India and Japan as case studies, it will suggest the ways in which intersection of Steichen’s work and conception with local social and political circumstances inflected and reshaped the meanings of the exhibition.\n \n\n\n \nShamoon Zamir is Professor of Literature and Art history at New York University Abu Dhabi. His previous publications on photography include The Gift of the Face: Portraiture and Time in Edward S. Curtis’s The North American Indian (2014), Helen Levitt: New York (2021) and Yasser Alwan: Egypt Every Day (2022). He co-edited The Family of Man Revisited: Photography in the Global Age (2018) and has recently completed a book on The Family of Man.\n \nTuesday, 18 June 2024\n14.00 - 15.00\n\nC²DH Open Space (4th floor, Maison des Sciences humaines) and online.\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/family_of_man_web.jpg?itok=j2xxtf9j\n  Lecture by Shamoon Zamir, Professor of Literature and Art History, New York University Abu Dhabi.\n  18 June 2024\n  Public history\n  Art history  History of citizenship  History of popular culture  Photography\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/not-antarctica-family-man-india-japan-and-elsewhere",
+          "publishedOn": "2024-05-21T09:23:23.000Z",
+          "wordCount": 521,
+          "title": "But Not Antarctica: 'The Family of Man' in India, Japan and elsewhere",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/family_of_man_web.jpg?itok=YPUIPD0T"
+        },
+        {
+          "id": "5026 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Raconter l’histoire d’Esch sur Alzette grâce aux grands-mères lusophones. Nous recherchons toujours des participantes pour partager leurs histoires. Venez donc prendre un café et découvrir le projet Lovó en partenariat avec l’université du Luxembourg, la Ville d’Esch-sur-Alzette, et de nombreuses associations.\n \nSamedi, 24 mai 2024\n16h00 - 18h00\nSalon de thé Girassol (129, rue de l'Alzette, L-4011, Esch-sur-Alzette)\n24 May 2024\n  Public history\n  Migration history  Oral history  Public History  Regional history\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/lovo-esch-quand-nos-grand-meres-racontent-lhistoire-desch",
+          "publishedOn": "2024-05-21T09:10:34.000Z",
+          "wordCount": 333,
+          "title": "Lovó Esch: Quand nos grand-mères racontent l’histoire d’Esch",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/lovo_esch_full_width.jpg?itok=gzIQr51l"
+        },
         {
           "id": "5015 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6661,6 +6692,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/?post_type=news&p=28928",
+          "author": "Beth Knazook",
+          "description": "This blog is part of a series of posts related to the Cultural Heritage Image Sharing Recommendations produced by the WorldFAIR Project’s Cultural Heritage Image Sharing Working Group. Learn more about DRI’s role in the WorldFAIR Project. A conversation with Steven Claeyssens, Curator of Digital Collections, KB National Library of the Netherlands and Beth Knazook, DRI’s Research Data […]\nThe post Contextualising Collections with ‘Datasheets for Digital Cultural Heritage Datasets’ appeared first on Digital Repository Ireland.",
+          "link": "https://dri.ie/news/contextualising-collections-with-datasheets-for-digital-cultural-heritage-datasets/",
+          "publishedOn": "2024-05-21T14:43:53.000Z",
+          "wordCount": 2808,
+          "title": "Contextualising Collections with ‘Datasheets for Digital Cultural Heritage Datasets’",
+          "imageUrl": "https://dri.ie/app/uploads/2024/03/WorldFAIR-logo-small.jpg"
+        },
         {
           "id": "https://dri.ie/news/case-studies-launch-copy/",
           "author": "Maeve O'Brien",
