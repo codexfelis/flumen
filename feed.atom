@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-05-22T08:24:27.832Z</updated>
+    <updated>2024-05-23T08:22:55.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Code of Conduct]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/code-of-conduct/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/code-of-conduct/"/>
+        <updated>2024-05-22T14:55:03.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faire l’histoire des inégalités au Luxembourg. État des lieux des sources et perspectives]]></title>
+        <id>5028 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/faire-lhistoire-des-inegalites-au-luxembourg-etat-des-lieux-des-sources-et-perspectives"/>
+        <updated>2024-05-22T09:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Entreprendre une histoire des inégalités pour un petit pays transnational, caractérisé par le secret fiscal et la consultation après un délai de 100 ans des données fiscales, invite à analyser sur le temps long, les sources et archives en présence : recensements, listes électorales, archives notariales, cadastres, journaux, enquêtes, statistiques, rapports d’observatoires, d’associations, d’institutions comme les archives de Chambres professionnelles.
+Toutes ces sources fournissent des informations sur divers espaces, acteurs et groupes sociaux, et contribuent à évaluer la répartition des richesses, les conditions de vie, les écarts de revenus, les privilèges et discriminations.
+Comparer les inégalités – principalement de revenu et de patrimoine – qui en découlent, permet de comprendre leu…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contextualising Collections with ‘Datasheets for Digital Cultural Heritage Datasets’]]></title>
         <id>https://dri.ie/?post_type=news&amp;p=28928</id>
