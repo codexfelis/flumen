@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-05-23T08:22:55.333Z</updated>
+    <updated>2024-05-24T08:23:25.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing: new funding opportunity for Visiting Fellowships at Cambridge Digital Humanities]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/news/fellowships/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/news/fellowships/"/>
+        <updated>2024-05-24T08:07:28.000Z</updated>
+        <summary type="html"><![CDATA[Visiting Fellowships 2024/25 A small number of scholarships are available from Cambridge Digital Humanities to cover up to £2500 of travel and accommodation expenses for scholars accepted as CDH Visiting Fellows in the academic year 2024/25. Scholars without access to other funding are eligible to apply. Applicants who wish to be considered for this funding]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More tools for harvesting Trove newspaper articles]]></title>
+        <id>http://wragge.micro.blog/2024/05/24/more-tools-for.html</id>
+        <link href="https://updates.timsherratt.org/2024/05/24/more-tools-for.html"/>
+        <updated>2024-05-24T05:10:21.000Z</updated>
+        <summary type="html"><![CDATA[I’ve just added a couple of new notebooks to the Trove Newspaper & Gazette Harvester section of the GLAM Workbench.
+Using the Trove Harvester as a Python package provides a basic example of using the trove-newspaper-harvester Python package. While there’s already a simple web app version of the harvester, I wanted a notebook version running in the JupyterLab interface that I could integrate with other tools and notebooks. All you need to do to harvest all the articles in a Trove newspaper search is paste in your Trove API key and the search query url from the Trove web interface.
+
+Reshaping your newspaper harvest provides a slice and dice wonder tool for Trove newspaper harvests, enabling you to repackage OCRd text by decade, year, and  newspaper title. It saves the results as zip files, concatenated text files, or CSV files with embedded text. These repackaged slices should  suit a variety of text analysis tools and questions. I’ve be thinking about doing something like this for a while, and think it should be quite useful.
+In my usual way, I started off writing a tutorial for the Trove Data Guide on ways of loading digitised newspaper data into text analysis tools and then realised I needed these notebooks to fill in some gaps in the data processing pipeline. So after a day or two of yak shaving I now have to get back to the tutorial.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply to Join the Scientific Committee by 31 May]]></title>
+        <id>https://caa-international.org/?p=17957</id>
+        <link href="https://caa-international.org/2024/05/23/apply-to-join-the-scientific-committee-by-31-may/"/>
+        <updated>2024-05-23T16:49:53.000Z</updated>
+        <summary type="html"><![CDATA[CAA is currently looking for two new at-large members of the Scientific Committee. The Scientific Committee plays a vital role overseeing the peer review process for the annual conference. At-large members serve are appointed for three years and are eligible to serve up to two terms. To apply, please submit a current CV along with […]]]></summary>
+        <author>
+            <name>Lisa Fischer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playing at a Distance]]></title>
+        <id>5029 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/playing-distance"/>
+        <updated>2024-05-23T12:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Do we play video games or do video games play us? Is nonhuman play a mere paradox or the future of gaming? And what do video games have to do with quantum theory? In the talk based on her book Playing at a Distance (MIT Press 2022), Sonia Fizek will engage with these questions, proposing new ways to think about games and play that decenter the human player and explore a variety of play formats and practices that require surprisingly little human action. Idling in clicker games, wandering in walking simulators, automating gameplay with bots, or simply watching games rather than playing them—Fizek will argue that these seemingly marginal cases are central to understanding how we play in the digital age.
+13 June 2024
+
+  
+  
+
+    
+
+
+  
+
+
+    
+Sonia Fizek is a media and games scholar. She holds a professorship in Media and Game Studies at the Cologne Game Lab at TH Köln – University of Applied Sciences. Fizek is also a visiting professor at the University of Lower Silesia in Wroclaw (Poland)  and a co-editor-in-chief of the international Journal of Gaming and Virtual Worlds. In her latest book Playing at a Distance (MIT Press 2022), she explores the borderlands of video game aesthetic with focus on automation, AI and posthuman forms of play. Fizek’s current research concentrates on the environmental aspects of video games. She participates in two international projects: “STRATEGIES – Sustainable Transition for Europe’s Game Industries” (2024-2027), and “Greening Games. Building Higher Education Resources for Sustainable Video Game Production, Design & Critical Game Studies” (2021-2024).
+ 
+Thursday, 13 June 2024
+13:00 – 16:30
+Auditorium 3.330
+Maison du Savoir, Belval Campus
+and online
+ 
+
+
+Public history
+  Public History
+  Conferences
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code of Conduct]]></title>
         <id>https://www.cdh.cam.ac.uk/about/code-of-conduct/</id>
