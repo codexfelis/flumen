@@ -2415,6 +2415,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12896",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Joanne Bernardi. Overview This post introduces a series on digital pedagogy, specifically, designing and …",
+          "link": "https://digitalorientalist.com/2024/05/24/exploring-digital-humanities-in-the-classroom-part-1/",
+          "publishedOn": "2024-05-24T13:00:00.000Z",
+          "wordCount": 5375,
+          "title": "Exploring Digital Humanities in the Classroom (Part 1)",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/05/1.-mediate-dashboard-1.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12823",
           "author": "soniwadhwa",
           "description": "Three seems to be a magical number. Something about it is so convenient, encapsulated in Netflix’s method of describing a …",
@@ -4151,15 +4161,6 @@
           "publishedOn": "2023-12-04T14:00:00.000Z",
           "wordCount": 1191,
           "title": "Manuscript Monday: Ms. Codex 1675 – [Alchemical compendium]. (Video Orientation)"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=17924",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to Ms. Codex 1674, a collection of cabalistic works with an emphasis on angels. The primary text is an Italian and Latin translation of excerpts from the Sefer Raziel HaMalach in which Solomon recounts how the angel Raziel deliveredContinue reading \"Manuscript Monday: Ms. Codex 1674 – [Sefer Raziel HaMalach… etc.]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2023/11/27/manuscript-monday-ms-codex-1674-sefer-raziel-hamalach-etc-video-orientation/",
-          "publishedOn": "2023-11-27T14:00:00.000Z",
-          "wordCount": 1334,
-          "title": "Manuscript Monday: Ms. Codex 1674 – [Sefer Raziel HaMalach… etc.]. (Video Orientation)"
         }
       ]
     },
@@ -4505,6 +4506,16 @@
       "feedUrl": "https://tei-c.org/feed",
       "siteUrl": "https://tei-c.org",
       "articles": [
+        {
+          "id": "https://tei-c.org/?p=31823",
+          "author": "Hugh Cayless",
+          "description": "Rahtz Prize for Ingenuity 2024 — Call for nominations and self-submissions The TEI Consortium created the Rahtz Prize for TEI Ingenuity in memory of Sebastian Rahtz, who contributed significantly to the TEI infrastructure. The award is intended to honour Sebastian’s noteworthy technical and philosophical contributions to the TEI, and to encourage innovation in the TEI […]",
+          "link": "https://tei-c.org/2024/05/24/rahtz-prize-2024-call-for-nominations/",
+          "publishedOn": "2024-05-24T15:46:27.000Z",
+          "wordCount": 590,
+          "title": "Rahtz Prize 2024: Call for Nominations",
+          "imageUrl": null
+        },
         {
           "id": "https://tei-c.org/?p=31772",
           "author": "Diane Jakacki",
@@ -6752,6 +6763,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/news/new-collection-clare-memories-copy/",
+          "author": "Maeve O'Brien",
+          "description": "The Digital Repository of Ireland (DRI) is pleased to announce that a new collection – A Bird in the House, God Bless Her – has been published in the Repository through Folklore.ie. Folklore.ie is a living online archive that centres on the practice of artist and folklorist Michael Fortune. Collecting oral history and place-based recordings, […]\nThe post New Collection in DRI – Community Archive Scheme Winner Folkore.ie – A Bird in the House, God Bless Her appeared first on Digital Repository Ireland.",
+          "link": "https://dri.ie/news/new-collection-folklore-ie/",
+          "publishedOn": "2024-05-24T09:36:23.000Z",
+          "wordCount": 2252,
+          "title": "New Collection in DRI – Community Archive Scheme Winner Folkore.ie – A Bird in the House, God Bless Her",
+          "imageUrl": "https://dri.ie/app/uploads/2023/08/new-collection-2-2.png"
+        },
         {
           "id": "https://dri.ie/?post_type=news&p=28928",
           "author": "Beth Knazook",
