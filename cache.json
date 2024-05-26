@@ -2970,15 +2970,6 @@
           "publishedOn": "2023-12-01T14:00:00.000Z",
           "wordCount": 1900,
           "title": "Situating Digital Heritage in Africa: An Interview with the DH Specialist and 2023 Dan David Prize Winner, Chao Tayiana Maina (Part 1)"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=11667",
-          "author": "The Digital Orientalist",
-          "description": "(This is a guest post by Özge Eda Kaya.) Data analysis and visualization are very important in the modern world, …",
-          "link": "https://digitalorientalist.com/2023/11/28/rawgraphs-the-new-way-to-visualize-data/",
-          "publishedOn": "2023-11-28T14:00:00.000Z",
-          "wordCount": 890,
-          "title": "RAWGraphs: The New Way to Visualize Data"
         }
       ]
     },
@@ -3371,15 +3362,6 @@
           "wordCount": 335,
           "title": "Episode 15: Joel Lee",
           "imageUrl": null
-        },
-        {
-          "id": "1271 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Monday, January 22, 2024 - 12:00pm\n\n\n\nThe University from Above: Mapping Mexico City with Archival Aerial Imagery  \n \nAerial photography has historically been used as a technology of war, surveillance, and the promotion of large development projects. Despite these original purposes, however, archival aerial imagery and digital mapping methods can also allow us to document historical processes that have been omitted from traditional archival sources. This project applies georectification to aerial imagery of Mexico City to better understand the 1950s campus construction for the National Autonomous University of Mexico (UNAM) and the stories of communities that lived in this region before the campus was built. Visualizing the university from above helps us understand the social landscape of …",
-          "link": "https://pricelab.sas.upenn.edu/events/mellon-seminar-jessica-mack",
-          "publishedOn": "2023-11-28T14:18:06.000Z",
-          "wordCount": 539,
-          "title": "Mellon Seminar: Jessica Mack"
         }
       ]
     },
@@ -3896,15 +3878,6 @@
           "wordCount": 2491,
           "title": "Using Gale Historical Newspapers to Highlight Marginalised Voices in Journalism",
           "imageUrl": "https://review.gale.com/wp-content/uploads/2023/12/Picture1.jpg"
-        },
-        {
-          "id": "https://review.gale.com/?p=14885",
-          "author": "Gale Review Team",
-          "description": "│By Heather Colley, Doctoral Student at the University of Oxford│ The history of technological development is synonymous with a history of cultural criticism that questions the applications and ramifications of that very tech. The work of Walter Benjamin is perhaps some of the most significant and perennial in the realm of technology criticism; and, in ... Read more\nThe post The Literary Archive in the Artificial Intelligence Era appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2023/11/28/the-literary-archive-in-the-ai-era/",
-          "publishedOn": "2023-11-28T07:00:00.000Z",
-          "wordCount": 1637,
-          "title": "The Literary Archive in the Artificial Intelligence Era"
         }
       ]
     },
@@ -4539,6 +4512,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2024/05/26/commonwealth-hansard-xml.html",
+          "author": null,
+          "description": "Hey Australian Hansard fans, I’ve done a complete reharvest of all of the Commonwealth Hansard XML files from 1901 to 1980 from ParlInfo. There’s been lots of improvements/corrections, and most of the file names have changed (they now have a version flag). The improvements seem to be ongoing, so I’ll try to harvest more regularly from now on. You can download the lot from the GitHub repository.\nI still need to load the updated XML into the Historic Hansard site, but that’s going to have to wait  for a month or two…",
+          "link": "https://updates.timsherratt.org/2024/05/26/commonwealth-hansard-xml.html",
+          "publishedOn": "2024-05-26T03:45:51.000Z",
+          "wordCount": 144,
+          "title": "Commonwealth Hansard XML repository updates",
+          "imageUrl": null
+        },
         {
           "id": "http://wragge.micro.blog/2024/05/24/more-tools-for.html",
           "author": null,
