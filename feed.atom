@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-05-27T08:24:11.538Z</updated>
+    <updated>2024-05-28T08:25:26.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“Fish or Cut Bait” Researchers tell the Federation of Social Sciences and Humanities as Major Conference is Threatened by Ongoing Labour Dispute at McGill University]]></title>
+        <id>https://csdh-schn.org/?p=1238</id>
+        <link href="https://csdh-schn.org/fish-or-cut-bait-researchers-tell-the-federation-of-social-sciences-and-humanities-as-major-conference-is-threatened-by-ongoing-labour-dispute-at-mcgill-university/"/>
+        <updated>2024-05-28T00:02:23.000Z</updated>
+        <summary type="html"><![CDATA[The executive and programme committees of the Canadian Society for Digital Humanities/Société canadienne des humanités numérique (CSDH/SCHN) announced today that, as long as there are picket lines on campus, researchers in the digital humanities will not attend the annual Congress for the Social Sciences and Humanities at McGill University this June. “It’s time for McGill […]]]></summary>
+        <author>
+            <name>Kyle Dase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDI Summer Speaker Series – Adel Iskandar]]></title>
+        <id>https://digitaldemocracies.org/?p=5770</id>
+        <link href="https://digitaldemocracies.org/ddi-summer-speaker-series-adel-iskandar/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ddi-summer-speaker-series-adel-iskandar"/>
+        <updated>2024-05-27T20:49:49.000Z</updated>
+        <summary type="html"><![CDATA[On May 1, the speaker series hosted presentation by Dr. Adel Iskandar, Associate Professor at the School of Communication at SFU. The talk was titled, “Revolution By Any Memes: Innovation […]
+DDI Summer Speaker Series – Adel Iskandar first appeared on Digital Democracies Institute.]]></summary>
+        <author>
+            <name>Pranjali Mann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 437 – De re medicina. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18126</id>
+        <link href="https://schoenberginstitute.org/2024/05/27/manuscript-monday-ljs-437-de-re-medicina-video-orientation/"/>
+        <updated>2024-05-27T12:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 437, a medical compendium of or treatise on simples (medicines made from one component, mostly botanical), with notes on their preparation and properties, grouped by first letter, but not arranged alphabetically within each letter group. A listContinue reading "Manuscript Monday: LJS 437 – De re medicina. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creativity and AI]]></title>
+        <id>5031 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/creativity-and-ai"/>
+        <updated>2024-05-27T07:39:20.000Z</updated>
+        <summary type="html"><![CDATA[In his proposal for the Dartmouth summer research project (1955-1956), Nathaniel Rochester wondered whether injecting some randomness into a machine could make it creative. But how to control this randomness to prevent machines crashing and ensure the generated content’s relevance ? Seventy years later, the so-called « generative AI » seems to have solved the problem, or at least circumvented some obstacles. Despite the difficulty of estimating what goes on inside deep neural networks, we will briefly describe what « creativity » is about in generative AIs (interpolation in a latent space) and the current controversy over how to evaluate it using dedicated benchmarks. Then, drawing from literature and philosophy (Borges, Caillois, Bachelard), we will challenge the claim that it can be compared to human creativity. Finally, we will examine how these machines don’t have to be creative like humans to trigger an epochal change that we need to characterize.
+Alban Leveau-Vallier is a postdoctoral researcher at University Paris 8 and lecturer at Sciences Po Paris, he recently published IA, l’intuition et la création à l’épreuve des algorithmes (Champ Vallon).
+ 
+Wednesday, 12 June 2024
+15.00  16.30
+Black Box, Maison des Sciences humaines
+Belval Campus
+11, Porte des Sciences
+L-4366 Esch-sur-Alzette
+and online
+ 
+
+
+12 June 2024
+  Contemporary history of Europe
+  Artificial  intelligence
+  Conferences
+  Published  
+Photo by Andrea De Santis from Unsplash, modified by AI.]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Commonwealth Hansard XML repository updates]]></title>
         <id>http://wragge.micro.blog/2024/05/26/commonwealth-hansard-xml.html</id>
@@ -9153,22 +9212,6 @@ Read full topic]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CHR2023 Posters]]></title>
-        <id>discourse.computational-humanities-research.org-topic-2114</id>
-        <link href="https://discourse.computational-humanities-research.org/t/chr2023-posters/2114"/>
-        <updated>2023-11-30T15:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Computational analysis of artistic style prevalence in generative AI art (Thomas Efer and Andreas Niekler)
-The Evolution of News Headlines (Pietro L. Nickl)
-Evaluating State-of-the-Art Handwritten Text Recognition (HTR) Engines with Large Language Models (LLMs) for Historical Document Digitisation (Christel Annemieke Romein, Achim Rabus, Gundram Leifert, Tobias Hodel and Phillip Ströbel)
-The Flemish Operation: Language Choices in the Repertoire of the Antwerp Opera (1893 – 1934) (Mona Allaert and Mike Kestemont)
-Metronome: tracing variation in poetic meters via local sequence alignment (Benjamin Nagy, Artjoms Šeļa, Mirella De Sisto, Wouter Haverals and Petr Plecháč)
-Analysing Image Similarity Recommendations Across Photographic Collections (Taylor Arnold and Lauren Tilton)
-Understanding th…]]></summary>
-        <author>
-            <name>melvin.wevers</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Call for contributions: 2024 DH Benelux Conference]]></title>
         <id>https://scholarlytales.hcommons.org/?p=1992</id>
         <link href="https://scholarlytales.hcommons.org/2023/11/30/call-for-contributions-2024-dh-benelux-conference/"/>
@@ -9178,37 +9221,6 @@ Understanding th…]]></summary>
 Continue reading “Call for contributions: 2024 DH Benelux Conference”…]]></summary>
         <author>
             <name>Rebecca Burke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Myesha Jemison]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/myesha-jemison/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/myesha-jemison/"/>
-        <updated>2023-11-30T09:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Myesha Jemison is a PhD student at the Department of History and Philosophy of Science, a Graduate Student Fellow at the Leverhulme Centre for the Future of Intelligence at the Institute for Technology and Humanity and a member of Trinity College, Cambridge. Her PhD research looks at how Cambridge Analytica, including its parent company Strategic]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thierry Poibeau]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/people/thierry-poibeau/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/people/thierry-poibeau/"/>
-        <updated>2023-11-30T08:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Thierry Poibeau is a CNRS Research Director (Directeur de recherche), working at Lattice, a research unit at the Ecole normale supérieure, Paris. He is also a member of Prairie (the Paris Research Artificial Intelligence Institute). Thierry Poibeau’s work focuses on Natural Language Processing. He is especially interested in developing techniques for low resource languages that]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADHC Talks Post]]></title>
-        <id>https://adhc.lib.ua.edu/?p=1885</id>
-        <link href="https://adhc.lib.ua.edu/adhc-talks-post/"/>
-        <updated>2023-11-29T21:34:32.000Z</updated>
-        <summary type="html"><![CDATA[ADHC Talk Title https://www.youtube.com/watch?v=XHOmBV4js_E Description This is where you put the ADHC Talk description. Season: #Episode: #Date: MM/DD/YYYYPresenter: PresenterTopic: TopicTags: Tag, Tag, Tag
-The post ADHC Talks Post appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
         </author>
     </entry>
     <entry>

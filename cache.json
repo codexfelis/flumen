@@ -530,15 +530,6 @@
           "wordCount": 1606,
           "title": "ARTmap",
           "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=1885",
-          "author": "adhcadmin",
-          "description": "ADHC Talk Title https://www.youtube.com/watch?v=XHOmBV4js_E Description This is where you put the ADHC Talk description. Season: #Episode: #Date: MM/DD/YYYYPresenter: PresenterTopic: TopicTags: Tag, Tag, Tag\nThe post ADHC Talks Post appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/adhc-talks-post/",
-          "publishedOn": "2023-11-29T21:34:32.000Z",
-          "wordCount": 124,
-          "title": "ADHC Talks Post"
         }
       ]
     },
@@ -798,6 +789,16 @@
       "feedUrl": "https://csdh-schn.org/feed",
       "siteUrl": "https://csdh-schn.org",
       "articles": [
+        {
+          "id": "https://csdh-schn.org/?p=1238",
+          "author": "Kyle Dase",
+          "description": "The executive and programme committees of the Canadian Society for Digital Humanities/Société canadienne des humanités numérique (CSDH/SCHN) announced today that, as long as there are picket lines on campus, researchers in the digital humanities will not attend the annual Congress for the Social Sciences and Humanities at McGill University this June. “It’s time for McGill […]",
+          "link": "https://csdh-schn.org/fish-or-cut-bait-researchers-tell-the-federation-of-social-sciences-and-humanities-as-major-conference-is-threatened-by-ongoing-labour-dispute-at-mcgill-university/",
+          "publishedOn": "2024-05-28T00:02:23.000Z",
+          "wordCount": 1168,
+          "title": "“Fish or Cut Bait” Researchers tell the Federation of Social Sciences and Humanities as Major Conference is Threatened by Ongoing Labour Dispute at McGill University",
+          "imageUrl": null
+        },
         {
           "id": "https://csdh-schn.org/?p=1229",
           "author": "Kyle Dase",
@@ -2331,6 +2332,16 @@
       "siteUrl": "https://digitaldemocracies.org",
       "articles": [
         {
+          "id": "https://digitaldemocracies.org/?p=5770",
+          "author": "Pranjali Mann",
+          "description": "On May 1, the speaker series hosted presentation by Dr. Adel Iskandar, Associate Professor at the School of Communication at SFU. The talk was titled, “Revolution By Any Memes: Innovation […]\nDDI Summer Speaker Series – Adel Iskandar first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/ddi-summer-speaker-series-adel-iskandar/?utm_source=rss&utm_medium=rss&utm_campaign=ddi-summer-speaker-series-adel-iskandar",
+          "publishedOn": "2024-05-27T20:49:49.000Z",
+          "wordCount": 3815,
+          "title": "DDI Summer Speaker Series – Adel Iskandar",
+          "imageUrl": "https://i0.wp.com/digitaldemocracies.org/wp-content/uploads/2021/02/DDI-SFU.png?fit=3600%2C600&ssl=1"
+        },
+        {
           "id": "https://digitaldemocracies.org/?p=5705",
           "author": "Pranjali Mann",
           "description": "On March 13, the speaker series hosted presentation by Jon Corbett, instructor at the School of Interactive Arts and Technology at SFU. The talk was titled, “Unveiling Indigenous Wisdom in […]\nDDI Spring Speaker Series – Jon Corbett first appeared on Digital Democracies Institute.",
@@ -3016,15 +3027,6 @@
           "publishedOn": "2023-12-04T18:16:05.000Z",
           "wordCount": 44,
           "title": "Alternative CHR2023 dinner"
-        },
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2114",
-          "author": "melvin.wevers",
-          "description": "Computational analysis of artistic style prevalence in generative AI art (Thomas Efer and Andreas Niekler)\nThe Evolution of News Headlines (Pietro L. Nickl)\nEvaluating State-of-the-Art Handwritten Text Recognition (HTR) Engines with Large Language Models (LLMs) for Historical Document Digitisation (Christel Annemieke Romein, Achim Rabus, Gundram Leifert, Tobias Hodel and Phillip Ströbel)\nThe Flemish Operation: Language Choices in the Repertoire of the Antwerp Opera (1893 – 1934) (Mona Allaert and Mike Kestemont)\nMetronome: tracing variation in poetic meters via local sequence alignment (Benjamin Nagy, Artjoms Šeļa, Mirella De Sisto, Wouter Haverals and Petr Plecháč)\nAnalysing Image Similarity Recommendations Across Photographic Collections (Taylor Arnold and Lauren Tilton)\nUnderstanding th…",
-          "link": "https://discourse.computational-humanities-research.org/t/chr2023-posters/2114",
-          "publishedOn": "2023-11-30T15:48:34.000Z",
-          "wordCount": null,
-          "title": "CHR2023 Posters"
         }
       ]
     },
@@ -3887,6 +3889,16 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=18126",
+          "author": "simsmss",
+          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 437, a medical compendium of or treatise on simples (medicines made from one component, mostly botanical), with notes on their preparation and properties, grouped by first letter, but not arranged alphabetically within each letter group. A listContinue reading \"Manuscript Monday: LJS 437 – De re medicina. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/05/27/manuscript-monday-ljs-437-de-re-medicina-video-orientation/",
+          "publishedOn": "2024-05-27T12:54:05.000Z",
+          "wordCount": 5278,
+          "title": "Manuscript Monday: LJS 437 – De re medicina. (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/05/screenshot-2024-05-10-at-12.57.14e280afpm.png?w=1200"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=18123",
           "author": "simsmss",
           "description": "Dot Porter, SIMS Curator of Digital Humanities at the University of Pennsylvania Libraries, presents a Video Orientation to the University of Pennsylvania Library’s LJS 436, which is a 14th-century copy of a late 13th-century manual on the mathematics of the Islamic law of inheritance, in the form of a paragraph by paragraph commentary on theContinue reading \"Manuscript Monday: LJS 436 – Ḍawʼ al-sirāj. = ضوء السراج.(Video Orientation)\"",
@@ -4745,6 +4757,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5031 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "In his proposal for the Dartmouth summer research project (1955-1956), Nathaniel Rochester wondered whether injecting some randomness into a machine could make it creative. But how to control this randomness to prevent machines crashing and ensure the generated content’s relevance ? Seventy years later, the so-called « generative AI » seems to have solved the problem, or at least circumvented some obstacles. Despite the difficulty of estimating what goes on inside deep neural networks, we will briefly describe what « creativity » is about in generative AIs (interpolation in a latent space) and the current controversy over how to evaluate it using dedicated benchmarks. Then, drawing from literature and philosophy (Borges, Caillois, Bachelard), we will challenge the claim that it can be compared to human creativity. Finally, we will examine how these machines don’t have to be creative like humans to trigger an epochal change that we need to characterize.\nAlban Leveau-Vallier is a postdoctoral researcher at University Paris 8 and lecturer at Sciences Po Paris, he recently published IA, l’intuition et la création à l’épreuve des algorithmes (Champ Vallon).\n \nWednesday, 12 June 2024\n15.00  16.30\nBlack Box, Maison des Sciences humaines\nBelval Campus\n11, Porte des Sciences\nL-4366 Esch-sur-Alzette\nand online\n \n\n\n12 June 2024\n  Contemporary history of Europe\n  Artificial  intelligence\n  Conferences\n  Published  \nPhoto by Andrea De Santis from Unsplash, modified by AI.",
+          "link": "https://www.c2dh.uni.lu/events/creativity-and-ai",
+          "publishedOn": "2024-05-27T07:39:20.000Z",
+          "wordCount": 470,
+          "title": "Creativity and AI",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/andrea-de-santis-zwd435-ewb4-unsplash_full_width.jpg?itok=Rfr_38Nc"
+        },
         {
           "id": "5029 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -6326,24 +6348,6 @@
           "publishedOn": "2023-12-04T14:50:40.000Z",
           "wordCount": 635,
           "title": "Cambridge Merlin Fragment"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/myesha-jemison/",
-          "author": null,
-          "description": "Myesha Jemison is a PhD student at the Department of History and Philosophy of Science, a Graduate Student Fellow at the Leverhulme Centre for the Future of Intelligence at the Institute for Technology and Humanity and a member of Trinity College, Cambridge. Her PhD research looks at how Cambridge Analytica, including its parent company Strategic",
-          "link": "https://www.cdh.cam.ac.uk/about/people/myesha-jemison/",
-          "publishedOn": "2023-11-30T09:09:22.000Z",
-          "wordCount": 648,
-          "title": "Myesha Jemison"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/people/thierry-poibeau/",
-          "author": null,
-          "description": "Thierry Poibeau is a CNRS Research Director (Directeur de recherche), working at Lattice, a research unit at the Ecole normale supérieure, Paris. He is also a member of Prairie (the Paris Research Artificial Intelligence Institute). Thierry Poibeau’s work focuses on Natural Language Processing. He is especially interested in developing techniques for low resource languages that",
-          "link": "https://www.cdh.cam.ac.uk/about/people/thierry-poibeau/",
-          "publishedOn": "2023-11-30T08:55:58.000Z",
-          "wordCount": 455,
-          "title": "Thierry Poibeau"
         }
       ]
     },
