@@ -4412,6 +4412,26 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/06/03/keyword-analysis-of.html",
+          "author": null,
+          "description": "There’s a new draft tutorial in the development version of the Trove Data Guide. It walks through the process of harvesting a collection of digitised newspaper articles from Trove, reshaping the harvest to create sub-collections, and then loading the data into the Keyword Analysis Tool provided by the Australian Text Analytics Platform (ATAP).\n\r\nAlong the way it goes into a fair bit of detail about constructing searches, using the Trove Newspaper Harvester, and thinking about your data. Much of the information on creating and reshaping datasets would apply to using the digitised newspapers with other analysis tools as well.",
+          "link": "https://updates.timsherratt.org/2024/06/03/keyword-analysis-of.html",
+          "publishedOn": "2024-06-03T05:06:44.000Z",
+          "wordCount": 164,
+          "title": "Keyword analysis of Trove newspapers with the GLAM Workbench & ATAP",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-06-03-14-56-53.png"
+        },
+        {
+          "id": "http://wragge.micro.blog/2024/06/02/running-mirador-on.html",
+          "author": null,
+          "description": "I’ve just created a GitHub repository template that you can use to get your own Mirador version 3 installation running in minutes. You can also configure it to display local or remote IIIF manifests. I was thinking that it could be useful for researchers who want to create their own customised Mirador workspaces to examine a particular set of documents, but don’t want to install any software or fiddle about on the command-line.\n\r\nI’ve been doing a lot with IIIF lately. First a GLAM Workbench notebook to save a collection of images from Trove as an IIIF manifest. Then a tutorial for the Trove Data Guide that walks through the whole process of generating an IIIF manifest from Trove, then loading the manifest into Tropy for analysis and annotation. I’ve also just about finished another tutori…",
+          "link": "https://updates.timsherratt.org/2024/06/02/running-mirador-on.html",
+          "publishedOn": "2024-06-02T11:27:40.000Z",
+          "wordCount": 483,
+          "title": "Running Mirador on GitHub Pages",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-06-01-14-33-34.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/05/26/commonwealth-hansard-xml.html",
           "author": null,
           "description": "Hey Australian Hansard fans, I’ve done a complete reharvest of all of the Commonwealth Hansard XML files from 1901 to 1980 from ParlInfo. There’s been lots of improvements/corrections, and most of the file names have changed (they now have a version flag). The improvements seem to be ongoing, so I’ll try to harvest more regularly from now on. You can download the lot from the GitHub repository.\nI still need to load the updated XML into the Historic Hansard site, but that’s going to have to wait  for a month or two…",
@@ -6238,24 +6258,6 @@
           "publishedOn": "2023-12-08T13:30:59.000Z",
           "wordCount": 568,
           "title": "Digital Archival Photography in-depth"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/about/news/read-archive-of-tomorrow-final-report-now-available/",
-          "author": null,
-          "description": "Cambridge Digital Humanities is delighted to announce that the final report for the Archive of Tomorrow project is now available to download from the British Library's research repository. Archive of Tomorrow: Capturing public health discourse in the UK Web Archive Funded by the Wellcome Trust, the Archive of Tomorrow is a project to explore and",
-          "link": "https://www.cdh.cam.ac.uk/about/news/read-archive-of-tomorrow-final-report-now-available/",
-          "publishedOn": "2023-12-06T12:54:13.000Z",
-          "wordCount": 552,
-          "title": "Read: Archive of Tomorrow Final Report Now Available"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/research/projects/archive-of-tomorrow/",
-          "author": null,
-          "description": "",
-          "link": "https://www.cdh.cam.ac.uk/research/projects/archive-of-tomorrow/",
-          "publishedOn": "2023-12-06T12:39:39.000Z",
-          "wordCount": 730,
-          "title": "Archive of Tomorrow"
         }
       ]
     },
@@ -6642,15 +6644,6 @@
           "publishedOn": "2023-12-07T14:10:15.000Z",
           "wordCount": 440,
           "title": "Centre news vol. 62 - December 2023"
-        },
-        {
-          "id": "5998 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Looking into Parliament\n\n            \n  \nWritten by Johanna Berg  \n\n  \n  \n            \n    \n\n\n      \n\nCLARIN Ambassador Johanna Berg.\nThis autumn, CLARIN Ambassador Johanna Berg arranged a CLARIN \n    \nEuropean Research Infrastructure Consortium\nSee: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\n workshop at the Swedish parliament, focusing on the opportunities for new research on parliamentary data opened up by several ongoing infrastructure projects. The Swedish initiatives are also linked to broader European collaboration structures in the CLARIN ParlaMint project. It is important that people in charge of safeguarding the huge amounts of text data in museums and archives understand the fast and dynam…",
-          "link": "https://www.clarin.eu/blog/looking-parliament",
-          "publishedOn": "2023-12-06T10:27:04.000Z",
-          "wordCount": 815,
-          "title": "Looking into Parliament"
         }
       ]
     },

@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-06-02T08:21:55.440Z</updated>
+    <updated>2024-06-03T08:24:58.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keyword analysis of Trove newspapers with the GLAM Workbench & ATAP]]></title>
+        <id>http://wragge.micro.blog/2024/06/03/keyword-analysis-of.html</id>
+        <link href="https://updates.timsherratt.org/2024/06/03/keyword-analysis-of.html"/>
+        <updated>2024-06-03T05:06:44.000Z</updated>
+        <summary type="html"><![CDATA[There’s a new draft tutorial in the development version of the Trove Data Guide. It walks through the process of harvesting a collection of digitised newspaper articles from Trove, reshaping the harvest to create sub-collections, and then loading the data into the Keyword Analysis Tool provided by the Australian Text Analytics Platform (ATAP).
+
+Along the way it goes into a fair bit of detail about constructing searches, using the Trove Newspaper Harvester, and thinking about your data. Much of the information on creating and reshaping datasets would apply to using the digitised newspapers with other analysis tools as well.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Mirador on GitHub Pages]]></title>
+        <id>http://wragge.micro.blog/2024/06/02/running-mirador-on.html</id>
+        <link href="https://updates.timsherratt.org/2024/06/02/running-mirador-on.html"/>
+        <updated>2024-06-02T11:27:40.000Z</updated>
+        <summary type="html"><![CDATA[I’ve just created a GitHub repository template that you can use to get your own Mirador version 3 installation running in minutes. You can also configure it to display local or remote IIIF manifests. I was thinking that it could be useful for researchers who want to create their own customised Mirador workspaces to examine a particular set of documents, but don’t want to install any software or fiddle about on the command-line.
+
+I’ve been doing a lot with IIIF lately. First a GLAM Workbench notebook to save a collection of images from Trove as an IIIF manifest. Then a tutorial for the Trove Data Guide that walks through the whole process of generating an IIIF manifest from Trove, then loading the manifest into Tropy for analysis and annotation. I’ve also just about finished another tutori…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call for Applications]]></title>
         <id>http://digitalorientalist.com/?p=12634</id>
@@ -9049,54 +9073,6 @@ centre news]]></summary>
         <summary type="html"><![CDATA[Get ready for FSCI 2024: Increasing Transparency, Integrity, and Trust in Research.  Featuring virtual online courses and an in-person meeting at UCLA in Los Angeles, our first since 2019]]></summary>
         <author>
             <name>FORCE11 Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read: Archive of Tomorrow Final Report Now Available]]></title>
-        <id>https://www.cdh.cam.ac.uk/about/news/read-archive-of-tomorrow-final-report-now-available/</id>
-        <link href="https://www.cdh.cam.ac.uk/about/news/read-archive-of-tomorrow-final-report-now-available/"/>
-        <updated>2023-12-06T12:54:13.000Z</updated>
-        <summary type="html"><![CDATA[Cambridge Digital Humanities is delighted to announce that the final report for the Archive of Tomorrow project is now available to download from the British Library's research repository. Archive of Tomorrow: Capturing public health discourse in the UK Web Archive Funded by the Wellcome Trust, the Archive of Tomorrow is a project to explore and]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archive of Tomorrow]]></title>
-        <id>https://www.cdh.cam.ac.uk/research/projects/archive-of-tomorrow/</id>
-        <link href="https://www.cdh.cam.ac.uk/research/projects/archive-of-tomorrow/"/>
-        <updated>2023-12-06T12:39:39.000Z</updated>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking into Parliament]]></title>
-        <id>5998 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/looking-parliament"/>
-        <updated>2023-12-06T10:27:04.000Z</updated>
-        <summary type="html"><![CDATA[Looking into Parliament
-
-            
-  
-Written by Johanna Berg  
-
-  
-  
-            
-    
-
-
-      
-
-CLARIN Ambassador Johanna Berg.
-This autumn, CLARIN Ambassador Johanna Berg arranged a CLARIN 
-    
-European Research Infrastructure Consortium
-See: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
- workshop at the Swedish parliament, focusing on the opportunities for new research on parliamentary data opened up by several ongoing infrastructure projects. The Swedish initiatives are also linked to broader European collaboration structures in the CLARIN ParlaMint project. It is important that people in charge of safeguarding the huge amounts of text data in museums and archives understand the fast and dynam…]]></summary>
-        <author>
-            <name>Karina Berger</name>
         </author>
     </entry>
     <entry>
