@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-06-17T08:25:12.402Z</updated>
+    <updated>2024-06-18T08:25:40.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Loading locations of Trove's digitised maps into the Gazetteer of Historical Australian Placenames]]></title>
+        <id>http://wragge.micro.blog/2024/06/18/loading-locations-of.html</id>
+        <link href="https://updates.timsherratt.org/2024/06/18/loading-locations-of.html"/>
+        <updated>2024-06-18T06:57:16.000Z</updated>
+        <summary type="html"><![CDATA[For this part of the ARDC’s Community Data Lab project, I’ve been focusing in particular on adding a series of researcher pathways to the Trove Data Guide. These pathways link data from Trove to a variety of tools and approaches and include five detailed tutorials. The first four were:
+Analysing keywords in Trove’s digitised newspapers
+Working with a Trove collection in Tropy
+Comparing manuscript collections in Mirador
+Sharing a Trove List as a CollectionBuilder exhibition
+I’ve now added the fifth and final (for now) tutorial:
+Create a layer in the Gazetteer of Historical Australian Placenames using metadata from Trove’s digitised maps
+As has been the way in a lot of TDG development, this tutorial builds on and extends resources available through the GLAM Workbench. The Trove maps section of the GLAM Workbench already included a dataset of digitised maps and their coordinates, but for this tutorial I added a notebook that lets you create a subset of maps relating to a particular region. It does this by putting all the available map locations on world map. You then draw a rectangle on the map to select a region and display details of all the maps whose centre points fall within that region. It also displays links to download your new dataset as either a CSV or GeoJSON file.
+
+The tutorial walks you through this process, then demonstrates how you can upload data from the CSV file to create a new layer in the Gazetteer of Historical Australian Placenames (GHAP).
+
+This part of the Trove Data Guide project is now finished, but I’ll be continuing to add and refine content. If you have any suggestions for additional tutorials, feel free to add them to the ideas board (no promises though!).]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tunnel of Love: The First Makerspace Residency]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=9080</id>
+        <link href="https://sites.temple.edu/tudsc/2024/06/17/tunnel-of-love-the-first-makerspace-residency/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tunnel-of-love-the-first-makerspace-residency"/>
+        <updated>2024-06-17T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Overview:  Tunnel of Love originally started as a project looking at queerness, secrecy and the process of seeing and being seen in the form of an amusement-park dark ride. As time led...]]></summary>
+        <author>
+            <name>Alexandra Goss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 441 – Kitāb al-Miṣbāḥ wa-nuzʹhat al-arwāḥ fī ʻilm… (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18136</id>
+        <link href="https://schoenberginstitute.org/2024/06/17/manuscript-monday-ljs-441-kitab-al-mi%e1%b9%a3ba%e1%b8%a5-wa-nuz%ca%b9hat-al-arwa%e1%b8%a5-fi-%ca%bbilm-video-orientation/"/>
+        <updated>2024-06-17T13:07:27.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 441, two works on alchemy copied together in different hands. The first, a 14th-century treatise based on the work of the 8th-century alchemist and chemist Jābir ibn Ḥayyān, copied in A.H. 970 (1562); the second, a pseudo-PlatonicContinue reading "Manuscript Monday: LJS 441 – Kitāb al-Miṣbāḥ wa-nuzʹhat al-arwāḥ fī ʻilm… (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLUK25 Conference call for papers]]></title>
+        <id>https://www.rluk.ac.uk/?p=14676</id>
+        <link href="https://www.rluk.ac.uk/rluk25-cfp/"/>
+        <updated>2024-06-17T12:52:07.000Z</updated>
+        <summary type="html"><![CDATA[#RLUK25 Conference |  Liverpool | 19-21 March 2025 Champions of knowledge: Libraries as beacons of trust and integrity The call for papers for the RLUK25 Conference is now open. Submissions must be received by Friday 25 October 2024. The conference will be an in-person event held in Liverpool in March 2025. 🔗 Full details  [...]
+The post RLUK25 Conference call for papers appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DPC Unconference 2024 Hosted by the DRI]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=30587</id>
+        <link href="https://dri.ie/news/dpc-unconference-2024-hosted-by-the-dri/"/>
+        <updated>2024-06-17T10:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Every year, the Digital Preservation Coalition (DPC) invites member organisations from around the world to gather together for the DPC Unconference, where professionals working in the digital preservation sector get to set the agenda and lead sessions on topics related to their area of work. This event is for DPC Members only, and is designed […]
+The post DPC Unconference 2024 Hosted by the DRI appeared first on Digital Repository Ireland.]]></summary>
+        <author>
+            <name>Aine Madden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Probing the Limits of Visualization: From Holocaust Comics to Holocaust Memes and Beyond]]></title>
         <id>5089 at https://www.c2dh.uni.lu</id>
@@ -8709,40 +8772,6 @@ Most  of the new articles were published in either Victoria or …]]></summary>
         <summary type="html"><![CDATA[James Harry Morris and I have put together an introduction to Digital Humanities for people working on one or the …]]></summary>
         <author>
             <name>Cornelis van Lit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEI 2024 website live!]]></title>
-        <id>https://tei-c.org/?p=31772</id>
-        <link href="https://tei-c.org/2023/12/21/tei-2024-website-live/"/>
-        <updated>2023-12-21T20:21:02.000Z</updated>
-        <summary type="html"><![CDATA[TEI 2024, the twenty-fourth conference of the Text Encoding Initiative, will be held in Buenos Aires, Argentina – the first TEI conference to take place in a Spanish-speaking country. Texts, Languages, and Communities will take place in Buenos Aires, Argentina at Universidad del Salvador, 7-11 October 2024. The conference website is now live and can be accessed […]]]></summary>
-        <author>
-            <name>Diane Jakacki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Series: Digital Scholarship Drop-in Sessions with Artes Research (winter/spring 2024)]]></title>
-        <id>https://scholarlytales.hcommons.org/?p=2034</id>
-        <link href="https://scholarlytales.hcommons.org/2023/12/21/event-series-digital-scholarship-drop-in-sessions-with-artes-research-winter-spring-2024/"/>
-        <updated>2023-12-21T13:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Have you been meaning to set up an appointment with Artes Research to ask about research data management for your project, an aspect of your research workflow, or a specific DH tool? You can now come to one of our…
-
-Continue reading “Event Series: Digital Scholarship Drop-in Sessions with Artes Research (winter/spring 2024)”…]]></summary>
-        <author>
-            <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conference Certificates]]></title>
-        <id>discourse.computational-humanities-research.org-topic-2123</id>
-        <link href="https://discourse.computational-humanities-research.org/t/conference-certificates/2123"/>
-        <updated>2023-12-21T03:32:29.000Z</updated>
-        <summary type="html"><![CDATA[Hello,
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>Maheen</name>
         </author>
     </entry>
     <entry>
