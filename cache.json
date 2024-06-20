@@ -511,6 +511,16 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=3178",
+          "author": "Alexandra Núñez",
+          "description": "Episode 6 of the ADHO Podcast is on air. This time we hosted the former Chair of the ADHO Executive Board Glen Layne-Worthey. You can listen to the episode on SoundCloud or on ADHO. Enjoy!",
+          "link": "https://adho.org/2024/06/19/adho-podcast-episode-6-is-on-air/",
+          "publishedOn": "2024-06-19T09:14:17.000Z",
+          "wordCount": null,
+          "title": "ADHO Podcast, Episode 6 is on air.",
+          "imageUrl": null
+        },
+        {
           "id": "https://adho.org/?p=3138",
           "author": "Nadezhda Povroznik",
           "description": "The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for two 2024 Communications Fellowships, each of which comes with a stipend of €500 (Euros). Each year, Communications Fellows work with ADHO’s Communications Officer to manage ADHO’s public communications activities. The fellowship is well suited for graduate students, emerging scholars, and academic professionals who wish to… Read More »Call for Applications: 2024 ADHO Communications Fellowships",
@@ -1855,6 +1865,16 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/959",
+          "author": "434",
+          "description": "Liebe Mitglieder des DHd-Verbandes und Interessierte,\nfür unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…",
+          "link": "https://dig-hum.de/aktuelles/einladung-zum-dhd-community-forum-am-05072024",
+          "publishedOn": "2024-06-19T17:20:29.000Z",
+          "wordCount": 999,
+          "title": "Einladung zum DHd Community Forum am 05.07.2024",
+          "imageUrl": null
+        },
+        {
           "id": "node/958",
           "author": "434",
           "description": "DHd 2025: Call for papers\nDHd 2025, „Under Construction. Geisteswissenschaften und Data Humanities“, Jahrestagung des Verbandes Digital Humanities im deutschsprachigen Raum,…",
@@ -3054,6 +3074,21 @@
       "feedUrl": "https://radihum20.de/feed",
       "siteUrl": "https://radihum20.de/",
       "articles": [
+        {
+          "id": "https://radihum20.de/?p=991",
+          "author": "Mareike Schumacher",
+          "description": "German version, English version below Vor unserer Sommerpause haben wir nochmal eine ganz besondere Folge für euch an den Start gebracht, mit der wir auch unsere 5. Staffel (vorerst) abschließen werden. Für die Folge haben wir mit drei Kolleg*innen vom Podcast Doctor it! zum Podcasten generell, zu Wissenschaftskommunikation und der Unterstützung von Doktorandinnen und Doktoranden […]\nDer Beitrag RaDiHum20 spricht mit Martin, Emily und Christian vom Podcast Doctor it! erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/doctor-it/?utm_source=rss&utm_medium=rss&utm_campaign=doctor-it",
+          "publishedOn": "2024-06-20T06:31:00.000Z",
+          "wordCount": 3027,
+          "title": "RaDiHum20 spricht mit Martin, Emily und Christian vom Podcast Doctor it!",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/Staffel_5_Ep_6_final.mp3",
+            "length": "71987220",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://radihum20.de/?p=985",
           "author": "Mareike Schumacher",
@@ -4761,6 +4796,16 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/events/37116/",
+          "author": null,
+          "description": "Please note this session is currently being rescheduled Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, and short invited talks and",
+          "link": "https://www.cdh.cam.ac.uk/events/37116/",
+          "publishedOn": "2024-06-20T07:49:48.000Z",
+          "wordCount": 1358,
+          "title": "DH Teaching Forum",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2023/09/DH-Teaching-Forum-Instagram-Post-Square-1.png"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/news/applications-now-open-for-cambridge-cultural-heritage-data-school-online-edition-25-november-3-december-2024/",
           "author": null,
