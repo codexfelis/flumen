@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-06-20T08:24:54.129Z</updated>
+    <updated>2024-06-21T08:24:17.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Who is the Trove Data Guide for?]]></title>
+        <id>http://wragge.micro.blog/2024/06/21/who-is-the.html</id>
+        <link href="https://updates.timsherratt.org/2024/06/21/who-is-the.html"/>
+        <updated>2024-06-21T05:32:29.000Z</updated>
+        <summary type="html"><![CDATA[The Trove Data Guide aims to help researchers understand, access, and use data from Trove. But just because it’s about ‘data’ doesn’t mean  you need to be able to code. To understand Trove data and its  possibilities for research, you first need to understand Trove itself –  its history, its structure, its assumptions, and its limits. This  knowledge is useful to any Trove user.
+For example, all Trove users would benefit from knowing more about works and versions, or how to use the ‘simple’ search box for complex queries. There’s also an introduction to what’s in (and not in) the digitised newspapers, and similar overviews for other digitised content such as books, parliamentary papers, and oral histories.
+
+Number of newspapers articles in Trove by publication year, showing the change from 2011 to 2022
+Several sections document the way the web interface works (or doesn’t work). There’s a field guide to the various interfaces and identifiers you might come across, and details of options for downloading data. The Trove Data Guide fills many gaps in the official Trove  documentation, so check here if you run into problems, or can’t figure  out how to achieve a particular task. Perhaps you were wondering how to download digitised images at their highest available resolution?
+For people who are more comfortable with code there are plenty of  useful snippets and complete working examples. For example there are  sections that document how to get metadata, text, and images from newspapers, and other digitised resources. There are also a series of ‘HOW TO’ pages that describe more complex data access methods.
+But what can you do with Trove data? The Trove Data Guide’s Pathways provide detailed tutorials that lead you step by step through examples  of packaging Trove data for use with other digital tools. Use these  examples as a starting point in planning your own projects.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DH Teaching Forum]]></title>
         <id>https://www.cdh.cam.ac.uk/events/37116/</id>
