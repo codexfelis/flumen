@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-06-27T08:24:28.646Z</updated>
+    <updated>2024-06-28T08:24:06.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Outreach and marketing for crowdsourcing tasks]]></title>
+        <id>https://livingwithmachines.ac.uk/?p=3686</id>
+        <link href="https://livingwithmachines.ac.uk/outreach-and-marketing-for-crowdsourcing-tasks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=outreach-and-marketing-for-crowdsourcing-tasks"/>
+        <updated>2024-06-27T16:06:50.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you’ve set up a shiny new crowdsourcing project. How do you let people who might potentially want to volunteer online know about it? Here’s how we did it for one of our final crowdsourcing projects on Living with Machines. We called it the ‘language of mechanisation‘ internally, but you might have seen them as […]]]></summary>
+        <author>
+            <name>Mia Ridge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing Display]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=1148</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2024/06/3d-printing-display/"/>
+        <updated>2024-06-27T14:58:12.000Z</updated>
+        <summary type="html"><![CDATA[The objects you can see here on display here have been made by our Digital Humanities staff members and interns. They illustrate the range of projects the lab has worked on since it opened in 2017 and demonstrates how we have harnessed the potential of 3D printing to bring objects from the past to life. […]]]></summary>
+        <author>
+            <name>Gudrun Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities Interns 2023/24 part 2]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=1156</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2024/06/digital-humanities-interns-2023-24-part-2/"/>
+        <updated>2024-06-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Each year we ask our interns to write a blog post at the end of their time working with us looking back on their time in the DH Lab. Here is the second of this year’s blogs from Daisy: Working as part of the Digital Humanities Team alongside my third-year studies has been an incredible […]]]></summary>
+        <author>
+            <name>Gemma Poulton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launch of New Digital Archive of Ireland’s Ordnance Survey]]></title>
         <id>https://dri.ie/?post_type=news&amp;p=31128</id>
