@@ -2073,26 +2073,6 @@
           "wordCount": 1270,
           "title": "Lecturer in Digital Humanities (Teaching &amp; Research) - The University of Manchester",
           "imageUrl": null
-        },
-        {
-          "id": "node/936",
-          "author": "434",
-          "description": "Stellenangebot am Max-Planck-Institut für Rechtsgeschichte und Rechtstheorie\nWir sind ein international ausgerichtetes Forschungsinstitut und betreiben Grundlagenforschung auf dem…",
-          "link": "https://dig-hum.de/aktuelles/stellenangebot-zwei-studentische-hilfskr%C3%A4fte-mwd-historische-normativit%C3%A4tsregime",
-          "publishedOn": "2024-01-03T10:37:25.000Z",
-          "wordCount": 1159,
-          "title": "Stellenangebot: zwei studentische Hilfskräfte (m/w/d) - Historische Normativitätsregime",
-          "imageUrl": null
-        },
-        {
-          "id": "node/935",
-          "author": "434",
-          "description": "Das 1859 gegründete Freie Deutsche Hochstift zählt zu den ältesten literatur- und kunstwissenschaftlichen Forschungsinstituten Deutschlands und ist heute Forschungsinstitut,…",
-          "link": "https://dig-hum.de/aktuelles/zwei-wissenschaftlichen-mitarbeiterin-f%C3%BCr-digital-humanities-einmal-vollzeit-einmal",
-          "publishedOn": "2024-01-03T10:26:13.000Z",
-          "wordCount": 1127,
-          "title": "ZWEI WISSENSCHAFTLICHE/N MITARBEITER/IN FÜR DIGITAL HUMANITIES (einmal Vollzeit, einmal halbtags)",
-          "imageUrl": null
         }
       ]
     },
@@ -4375,26 +4355,6 @@
           "wordCount": 395,
           "title": "Exploring oral histories in Trove",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/visualization42.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/01/03/mapping-marc-geographic.html",
-          "author": null,
-          "description": "Trove uses codes from the MARC Geographic Areas list to identify locations in metadata records. I couldn’t find any mappings of these codes to other sources of geospatial information, so I fired up OpenRefine and reconciled the geographic area names against Wikidata. Once I’d linked as many as possible, I copied additional information from Wikidata, such as ISO country codes, GeoNames identifiers, and geographic coordinates.\nI’ve saved the resulting dataset in two formats – as a flattened CSV file (handy for loading as a dataframe), and as a JSON file that uses the geographic area codes as keys (handy for looking up values). You can download the datasets from this GitHub repository.\nI’ve also written the codes back into the Wikidata records, so you can now find them with a SPARQL query like this.\nThe columns in the CSV file are:\ncode – MARC geographic areas code (without any trailing dashes)\nplace – name of geographic area from the MARC list\nwikidata_label – name of geographic area from Wikidata\nwikidata_id – Wikidata identifier\ncoordinates – pair of decimal coordinates in the form latitude,longitude (multiple values are pipe | separated)\niso_country_code – ISO two letter country code (multiple values are pipe | separated)\niso_numeric_country_code – ISO numeric country code (multiple values are pipe | separated)\ngeonames_id – GeoNames identifier (multiple values are pipe | separated)\nNote that some fields can contain multiple values. For example the area Mediterranean Region is linked to 22 countries, so there will be multiple values in the ISO code fields.\n\r\nFor an example of this dataset in use, see Which countries do the oral histories relate to? in the Trove Data Guide.",
-          "link": "https://updates.timsherratt.org/2024/01/03/mapping-marc-geographic.html",
-          "publishedOn": "2024-01-03T07:03:48.000Z",
-          "wordCount": 332,
-          "title": "Mapping MARC Geographic Area codes to Wikidata",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-01-03-18-01-07.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/01/03/national-archives-of.html",
-          "author": null,
-          "description": "In 2023 the National Archives of Australia digitised 416,602 files (down from 575,597 in 2022). This chart shows the number of files digitised per day in 2023.\n\r\nThese files were drawn from 1,423 different series, but the vast bulk (81%) were from 4 series of World War Two service records. (This media release includes some details about the funding of the WW2 digitisation.)\nHere’s the top twenty series by number of items digitised in 2023.\nseries\nseries_title\ntotal\n\n\n\n\nB883\nSecond Australian Imperial Force Personnel Dossiers, 1939-1947\n201,511\n\n\nA9301\nRAAF Personnel files of Non-Commissioned Officers (NCOs) and other ranks, 1921-1948\n111,673\n\n\nA9300\nRAAF Officers Personnel files, 1921-1948\n14,125\n\n\nB884\nCitizen Military Forces Personnel Dossiers, 1939-1947\n11,265\n\n\nA14435\nStanley Fowler ph…",
-          "link": "https://updates.timsherratt.org/2024/01/03/national-archives-of.html",
-          "publishedOn": "2024-01-03T00:18:21.000Z",
-          "wordCount": 407,
-          "title": "National Archives of Australia in 2023 – digitisation of files",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-01-03-10-59-46.png"
         }
       ]
     },

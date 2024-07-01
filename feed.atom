@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-06-30T08:22:54.899Z</updated>
+    <updated>2024-07-01T08:26:07.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -9072,93 +9072,6 @@ And, of course, everything I do is openly-licensed, so you are very welcome to m
         <summary type="html"><![CDATA[The National Library of Australia holds over 55,000 hours of oral history and folklore recordings dating back to the 1950s. This collection is being made available online, and many recordings can now be listened to using Trove’s audio player.
 However, the oral history collection is not easy to find in Trove. You need to go the ‘Music, Audio, & Video’ category and check the ‘Sound/Interview, lecture, talk’ format facet. To limit results to oral histories that have been digitised, you can add “nla.obj” to your query and set the ‘Access’ facet to ‘Online’. But what’s actually in the oral history collection and what can you do with it?
 To help researchers explore and analyse the NLA’s oral history collection, I’ve added some notebooks to the Music, sound, and oral histories section of the GLAM…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenangebot: zwei studentische Hilfskräfte (m/w/d) - Historische Normativitätsregime]]></title>
-        <id>node/936</id>
-        <link href="https://dig-hum.de/aktuelles/stellenangebot-zwei-studentische-hilfskr%C3%A4fte-mwd-historische-normativit%C3%A4tsregime"/>
-        <updated>2024-01-03T10:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Stellenangebot am Max-Planck-Institut für Rechtsgeschichte und Rechtstheorie
-Wir sind ein international ausgerichtetes Forschungsinstitut und betreiben Grundlagenforschung auf dem…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZWEI WISSENSCHAFTLICHE/N MITARBEITER/IN FÜR DIGITAL HUMANITIES (einmal Vollzeit, einmal halbtags)]]></title>
-        <id>node/935</id>
-        <link href="https://dig-hum.de/aktuelles/zwei-wissenschaftlichen-mitarbeiterin-f%C3%BCr-digital-humanities-einmal-vollzeit-einmal"/>
-        <updated>2024-01-03T10:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Das 1859 gegründete Freie Deutsche Hochstift zählt zu den ältesten literatur- und kunstwissenschaftlichen Forschungsinstituten Deutschlands und ist heute Forschungsinstitut,…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping MARC Geographic Area codes to Wikidata]]></title>
-        <id>http://wragge.micro.blog/2024/01/03/mapping-marc-geographic.html</id>
-        <link href="https://updates.timsherratt.org/2024/01/03/mapping-marc-geographic.html"/>
-        <updated>2024-01-03T07:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Trove uses codes from the MARC Geographic Areas list to identify locations in metadata records. I couldn’t find any mappings of these codes to other sources of geospatial information, so I fired up OpenRefine and reconciled the geographic area names against Wikidata. Once I’d linked as many as possible, I copied additional information from Wikidata, such as ISO country codes, GeoNames identifiers, and geographic coordinates.
-I’ve saved the resulting dataset in two formats – as a flattened CSV file (handy for loading as a dataframe), and as a JSON file that uses the geographic area codes as keys (handy for looking up values). You can download the datasets from this GitHub repository.
-I’ve also written the codes back into the Wikidata records, so you can now find them with a SPARQL query like this.
-The columns in the CSV file are:
-code – MARC geographic areas code (without any trailing dashes)
-place – name of geographic area from the MARC list
-wikidata_label – name of geographic area from Wikidata
-wikidata_id – Wikidata identifier
-coordinates – pair of decimal coordinates in the form latitude,longitude (multiple values are pipe | separated)
-iso_country_code – ISO two letter country code (multiple values are pipe | separated)
-iso_numeric_country_code – ISO numeric country code (multiple values are pipe | separated)
-geonames_id – GeoNames identifier (multiple values are pipe | separated)
-Note that some fields can contain multiple values. For example the area Mediterranean Region is linked to 22 countries, so there will be multiple values in the ISO code fields.
-
-For an example of this dataset in use, see Which countries do the oral histories relate to? in the Trove Data Guide.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National Archives of Australia in 2023 – digitisation of files]]></title>
-        <id>http://wragge.micro.blog/2024/01/03/national-archives-of.html</id>
-        <link href="https://updates.timsherratt.org/2024/01/03/national-archives-of.html"/>
-        <updated>2024-01-03T00:18:21.000Z</updated>
-        <summary type="html"><![CDATA[In 2023 the National Archives of Australia digitised 416,602 files (down from 575,597 in 2022). This chart shows the number of files digitised per day in 2023.
-
-These files were drawn from 1,423 different series, but the vast bulk (81%) were from 4 series of World War Two service records. (This media release includes some details about the funding of the WW2 digitisation.)
-Here’s the top twenty series by number of items digitised in 2023.
-series
-series_title
-total
-
-
-
-
-B883
-Second Australian Imperial Force Personnel Dossiers, 1939-1947
-201,511
-
-
-A9301
-RAAF Personnel files of Non-Commissioned Officers (NCOs) and other ranks, 1921-1948
-111,673
-
-
-A9300
-RAAF Officers Personnel files, 1921-1948
-14,125
-
-
-B884
-Citizen Military Forces Personnel Dossiers, 1939-1947
-11,265
-
-
-A14435
-Stanley Fowler ph…]]></summary>
         <author>
             <name>Tim Sherratt</name>
         </author>
