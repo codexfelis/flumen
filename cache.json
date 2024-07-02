@@ -3616,6 +3616,16 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=18234",
+          "author": "simsmss",
+          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 443, a collection of commentaries, treatises, tables and diagrams concerning the calendar, by authors from the 7th to the 15th centuries, the most recent being Hakob Ghrimetsʻi, who compiled his commentary in 1416, probably within a decadeContinue reading \"Manuscript Monday: LJS 443 – [Collection of texts on the calendar]. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/07/01/manuscript-monday-ljs-443-collection-of-texts-on-the-calendar-video-orientation/",
+          "publishedOn": "2024-07-01T13:00:00.000Z",
+          "wordCount": 5320,
+          "title": "Manuscript Monday: LJS 443 – [Collection of texts on the calendar]. (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/07/screenshot-2024-06-24-at-3.44.16e280afpm.png?w=1200"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=18139",
           "author": "simsmss",
           "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 442, a manual concerning the manufacture and use of gunpowder, ammunition, mines, grenades, flares, smokescreens, and traps, as well as the loading and firing of cannons. Concludes with a copy of the privileges of the guild ofContinue reading \"Manuscript Monday: LJS 442 – [Buch von den probierten Künsten]. (Video Orientation)\"",
@@ -4117,6 +4127,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/07/01/understanding-trove-at.html",
+          "author": null,
+          "description": "A fairly intensive period of work came to an end today as I delivered a workshop on ‘Understanding Trove’ at the Australian Historical Association’s annual conference in Adelaide. In effect, the workshop was also the launch of the Trove Data Guide, which I’ve been developing as part of the ARDC’s Community Data Lab. The ARDC sponsored today’s workshop and has provided bursaries to help five ECRs and HDRs participate in the conference’s digital history stream.\nThanks to everyone who came to the workshop. It was great to have so much interest in developing a critical understanding of Trove and thinking about new research uses for Trove data. If you couldn’t make it, the slides are available below. Like the Trove Data Guide, the GLAM Workbench and pretty much everything else I do, the slides are openly licensed so feel free to share and reuse if any of it is useful to you.\n\nNow I think I need a day off before I start thinking about the topics I’d still like to add to the Trove Data Guide…",
+          "link": "https://updates.timsherratt.org/2024/07/01/understanding-trove-at.html",
+          "publishedOn": "2024-07-01T10:36:41.000Z",
+          "wordCount": 234,
+          "title": "Understanding Trove at the AHA annual conference",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/b2bab75987ea4fef.jpeg"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/06/21/who-is-the.html",
           "author": null,
           "description": "The Trove Data Guide aims to help researchers understand, access, and use data from Trove. But just because it’s about ‘data’ doesn’t mean  you need to be able to code. To understand Trove data and its  possibilities for research, you first need to understand Trove itself –  its history, its structure, its assumptions, and its limits. This  knowledge is useful to any Trove user.\nFor example, all Trove users would benefit from knowing more about works and versions, or how to use the ‘simple’ search box for complex queries. There’s also an introduction to what’s in (and not in) the digitised newspapers, and similar overviews for other digitised content such as books, parliamentary papers, and oral histories.\n\r\nNumber of newspapers articles in Trove by publication year, showing the change from 2011 to 2022\nSeveral sections document the way the web interface works (or doesn’t work). There’s a field guide to the various interfaces and identifiers you might come across, and details of options for downloading data. The Trove Data Guide fills many gaps in the official Trove  documentation, so check here if you run into problems, or can’t figure  out how to achieve a particular task. Perhaps you were wondering how to download digitised images at their highest available resolution?\nFor people who are more comfortable with code there are plenty of  useful snippets and complete working examples. For example there are  sections that document how to get metadata, text, and images from newspapers, and other digitised resources. There are also a series of ‘HOW TO’ pages that describe more complex data access methods.\nBut what can you do with Trove data? The Trove Data Guide’s Pathways provide detailed tutorials that lead you step by step through examples  of packaging Trove data for use with other digital tools. Use these  examples as a starting point in planning your own projects.",
@@ -4335,26 +4355,6 @@
           "wordCount": 978,
           "title": "Customising Datasette-Lite to explore datasets in the GLAM Workbench",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2023/6bfdff462d.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/01/04/whats-going-on.html",
-          "author": null,
-          "description": "The hardest part of developing tools and resources like the GLAM Workbench is getting information about them to the people who might benefit. The collapse of Twitter has only added to the difficulty, as has the reluctance of GLAM organisations to share new resources with their users. I’d rather spend my time making new tools, but what’s the point if no-one knows they exist?\nAnyway, I thought I’d do a bit of a communications refresh for the new year. If you’re interested in GLAM Workbench and Trove Data Guide updates you can:\nKeep an eye on the GLAM Workbench channel of my microblog (or add the feed to your RSS reader)\nFollow the GLAM Workbench Facebook page for cross-posted updates from the RSS feed\nFollow the GLAM Workbench LinkedIn page for cross-posted updates from the RSS feed\nI’m also working on an email newsletter thing that’ll compile the updates at regular intervals.\nFor more social socials, as well as questions, requests and problems, you can always find me on Mastodon: @wragge@hcommons.social. My email address is not too hard to find, but, honestly, your chances of getting a reply are slim.\nIf you’ve got a bug report, or a suggestion for a new notebook or data source, feel free to create an issue on GitHub.\nAnd, of course, everything I do is openly-licensed, so you are very welcome to modify and share! See the GLAM Workbench for other ways to get involved.",
-          "link": "https://updates.timsherratt.org/2024/01/04/whats-going-on.html",
-          "publishedOn": "2024-01-04T07:21:41.000Z",
-          "wordCount": 289,
-          "title": "What’s going on?",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/gw-hex.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/01/04/exploring-oral-histories.html",
-          "author": null,
-          "description": "The National Library of Australia holds over 55,000 hours of oral history and folklore recordings dating back to the 1950s. This collection is being made available online, and many recordings can now be listened to using Trove’s audio player.\nHowever, the oral history collection is not easy to find in Trove. You need to go the ‘Music, Audio, & Video’ category and check the ‘Sound/Interview, lecture, talk’ format facet. To limit results to oral histories that have been digitised, you can add “nla.obj” to your query and set the ‘Access’ facet to ‘Online’. But what’s actually in the oral history collection and what can you do with it?\nTo help researchers explore and analyse the NLA’s oral history collection, I’ve added some notebooks to the Music, sound, and oral histories section of the GLAM…",
-          "link": "https://updates.timsherratt.org/2024/01/04/exploring-oral-histories.html",
-          "publishedOn": "2024-01-04T01:20:30.000Z",
-          "wordCount": 395,
-          "title": "Exploring oral histories in Trove",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/visualization42.png"
         }
       ]
     },
@@ -5925,26 +5925,6 @@
           "wordCount": 1413,
           "title": "Nelya Koteyko",
           "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/01/nelya-koteyko-e1704719374248.jpg"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37632/",
-          "author": null,
-          "description": "Convenor: Amira Moeding (CDH Methods Fellow) Join our Methods Fellow, Amira Moeding in a workshop which introduces methods of historical enquiry into the development of digital technologies and digital data. What can the history of \"Big Data\" tells us about artificial intelligence today? What were seen as the pitfalls and problems with biases early on",
-          "link": "https://www.cdh.cam.ac.uk/events/37632/",
-          "publishedOn": "2024-01-04T16:15:16.000Z",
-          "wordCount": 1776,
-          "title": "What can histories of artificial intelligence teach us? On the development of large models and ‘data-driven’ research in AI",
-          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/01/Untitled-design-2.png"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37594/",
-          "author": null,
-          "description": "Convenor: Shellie Audsley (CDH Methods Fellow) Across two sessions, participants will be introduced to the ancient yet evolving practices of commonplace-book keeping and the ‘modernised’ digital tools and methods for extracting, indexing, sustaining and networking knowledge fragments from personal notes, anthologies and archives for idea generation. Commonplacing—manifest as the classical vade mecums (‘come with me’",
-          "link": "https://www.cdh.cam.ac.uk/events/37594/",
-          "publishedOn": "2024-01-04T14:15:16.000Z",
-          "wordCount": 1912,
-          "title": "Re-collected Thoughts: ‘Commonplacing’ Practices from Analogue to Digital",
-          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/01/VERSION-CONTROL-1.png"
         }
       ]
     },
@@ -6530,6 +6510,16 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=14718",
+          "author": "Melanie Cheung",
+          "description": "RLUK is delighted to have signed a collaboration agreement with The National Archives for the period 2024-2027. The agreement continues our joint work under our previous Memorandum of Understanding, and underlines our shared commitment to cross-sector collaboration, driving innovation and workforce development in our sectors, and exploring new ways to engage audiences with our collections  [...]\nThe post RLUK and The National Archives sign collaboration agreement appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk-and-the-national-archives-sign-collaboration-agreement/",
+          "publishedOn": "2024-07-01T11:21:04.000Z",
+          "wordCount": 2910,
+          "title": "RLUK and The National Archives sign collaboration agreement",
+          "imageUrl": "https://www.rluk.ac.uk/wp-content/uploads/2020/08/grey-header.jpg"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=14676",
           "author": "Melanie Cheung",

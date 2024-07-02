@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-07-01T08:26:07.231Z</updated>
+    <updated>2024-07-02T08:24:45.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 443 – [Collection of texts on the calendar]. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18234</id>
+        <link href="https://schoenberginstitute.org/2024/07/01/manuscript-monday-ljs-443-collection-of-texts-on-the-calendar-video-orientation/"/>
+        <updated>2024-07-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 443, a collection of commentaries, treatises, tables and diagrams concerning the calendar, by authors from the 7th to the 15th centuries, the most recent being Hakob Ghrimetsʻi, who compiled his commentary in 1416, probably within a decadeContinue reading "Manuscript Monday: LJS 443 – [Collection of texts on the calendar]. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RLUK and The National Archives sign collaboration agreement]]></title>
+        <id>https://www.rluk.ac.uk/?p=14718</id>
+        <link href="https://www.rluk.ac.uk/rluk-and-the-national-archives-sign-collaboration-agreement/"/>
+        <updated>2024-07-01T11:21:04.000Z</updated>
+        <summary type="html"><![CDATA[RLUK is delighted to have signed a collaboration agreement with The National Archives for the period 2024-2027. The agreement continues our joint work under our previous Memorandum of Understanding, and underlines our shared commitment to cross-sector collaboration, driving innovation and workforce development in our sectors, and exploring new ways to engage audiences with our collections  [...]
+The post RLUK and The National Archives sign collaboration agreement appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Trove at the AHA annual conference]]></title>
+        <id>http://wragge.micro.blog/2024/07/01/understanding-trove-at.html</id>
+        <link href="https://updates.timsherratt.org/2024/07/01/understanding-trove-at.html"/>
+        <updated>2024-07-01T10:36:41.000Z</updated>
+        <summary type="html"><![CDATA[A fairly intensive period of work came to an end today as I delivered a workshop on ‘Understanding Trove’ at the Australian Historical Association’s annual conference in Adelaide. In effect, the workshop was also the launch of the Trove Data Guide, which I’ve been developing as part of the ARDC’s Community Data Lab. The ARDC sponsored today’s workshop and has provided bursaries to help five ECRs and HDRs participate in the conference’s digital history stream.
+Thanks to everyone who came to the workshop. It was great to have so much interest in developing a critical understanding of Trove and thinking about new research uses for Trove data. If you couldn’t make it, the slides are available below. Like the Trove Data Guide, the GLAM Workbench and pretty much everything else I do, the slides are openly licensed so feel free to share and reuse if any of it is useful to you.
+
+Now I think I need a day off before I start thinking about the topics I’d still like to add to the Trove Data Guide…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Humanities Interns 2023/24 part 4]]></title>
         <id>https://digitalhumanities.exeter.ac.uk/?p=1181</id>
@@ -9024,56 +9058,6 @@ Den Entrée as fräi.
         <summary type="html"><![CDATA[The kingdom of Benin, in what is now central Nigeria, was a powerful African state from the Middle Ages until …]]></summary>
         <author>
             <name>Anaïs Wion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What can histories of artificial intelligence teach us? On the development of large models and ‘data-driven’ research in AI]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37632/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37632/"/>
-        <updated>2024-01-04T16:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Amira Moeding (CDH Methods Fellow) Join our Methods Fellow, Amira Moeding in a workshop which introduces methods of historical enquiry into the development of digital technologies and digital data. What can the history of "Big Data" tells us about artificial intelligence today? What were seen as the pitfalls and problems with biases early on]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-collected Thoughts: ‘Commonplacing’ Practices from Analogue to Digital]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37594/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37594/"/>
-        <updated>2024-01-04T14:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Shellie Audsley (CDH Methods Fellow) Across two sessions, participants will be introduced to the ancient yet evolving practices of commonplace-book keeping and the ‘modernised’ digital tools and methods for extracting, indexing, sustaining and networking knowledge fragments from personal notes, anthologies and archives for idea generation. Commonplacing—manifest as the classical vade mecums (‘come with me’]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s going on?]]></title>
-        <id>http://wragge.micro.blog/2024/01/04/whats-going-on.html</id>
-        <link href="https://updates.timsherratt.org/2024/01/04/whats-going-on.html"/>
-        <updated>2024-01-04T07:21:41.000Z</updated>
-        <summary type="html"><![CDATA[The hardest part of developing tools and resources like the GLAM Workbench is getting information about them to the people who might benefit. The collapse of Twitter has only added to the difficulty, as has the reluctance of GLAM organisations to share new resources with their users. I’d rather spend my time making new tools, but what’s the point if no-one knows they exist?
-Anyway, I thought I’d do a bit of a communications refresh for the new year. If you’re interested in GLAM Workbench and Trove Data Guide updates you can:
-Keep an eye on the GLAM Workbench channel of my microblog (or add the feed to your RSS reader)
-Follow the GLAM Workbench Facebook page for cross-posted updates from the RSS feed
-Follow the GLAM Workbench LinkedIn page for cross-posted updates from the RSS feed
-I’m also working on an email newsletter thing that’ll compile the updates at regular intervals.
-For more social socials, as well as questions, requests and problems, you can always find me on Mastodon: @wragge@hcommons.social. My email address is not too hard to find, but, honestly, your chances of getting a reply are slim.
-If you’ve got a bug report, or a suggestion for a new notebook or data source, feel free to create an issue on GitHub.
-And, of course, everything I do is openly-licensed, so you are very welcome to modify and share! See the GLAM Workbench for other ways to get involved.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring oral histories in Trove]]></title>
-        <id>http://wragge.micro.blog/2024/01/04/exploring-oral-histories.html</id>
-        <link href="https://updates.timsherratt.org/2024/01/04/exploring-oral-histories.html"/>
-        <updated>2024-01-04T01:20:30.000Z</updated>
-        <summary type="html"><![CDATA[The National Library of Australia holds over 55,000 hours of oral history and folklore recordings dating back to the 1950s. This collection is being made available online, and many recordings can now be listened to using Trove’s audio player.
-However, the oral history collection is not easy to find in Trove. You need to go the ‘Music, Audio, & Video’ category and check the ‘Sound/Interview, lecture, talk’ format facet. To limit results to oral histories that have been digitised, you can add “nla.obj” to your query and set the ‘Access’ facet to ‘Online’. But what’s actually in the oral history collection and what can you do with it?
-To help researchers explore and analyse the NLA’s oral history collection, I’ve added some notebooks to the Music, sound, and oral histories section of the GLAM…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
