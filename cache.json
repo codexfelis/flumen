@@ -511,6 +511,16 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=3229",
+          "author": "Nadezhda Povroznik",
+          "description": "The Local Organizing Team of the ADHO Digital Humanities 2023 conference (DH2023) is the proud recipient of the City of Graz Congress Award 2024 in the category “Extraordinary Event”! The DH2023 conference in Graz “Cooperation as Opportunity”, from 10-14 July 2023, was the first on-site digital humanities conference of the Alliance of Digital Humanities Organizations… Read More »The Local Organizing Team of the DH2023 is the proud recipient of the City of Graz Congress Award 2024",
+          "link": "https://adho.org/2024/07/02/the-local-organizing-team-of-the-dh2023-is-the-proud-recipient-of-the-city-of-graz-congress-award-2024/",
+          "publishedOn": "2024-07-02T12:26:36.000Z",
+          "wordCount": null,
+          "title": "The Local Organizing Team of the DH2023 is the proud recipient of the City of Graz Congress Award 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://adho.org/?p=3178",
           "author": "Alexandra Núñez",
           "description": "Episode 6 of the ADHO Podcast is on air. This time we hosted the former Chair of the ADHO Executive Board Glen Layne-Worthey. You can listen to the episode on SoundCloud or on ADHO. Enjoy!",
@@ -2701,16 +2711,6 @@
           "wordCount": 5296,
           "title": "AI, machine learning, neural networks: friends or foes in the historical investigation?",
           "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/01/screenshot-2024-01-01-at-8.11.14e280afpm.png?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=11754",
-          "author": "Anaïs Wion",
-          "description": "The kingdom of Benin, in what is now central Nigeria, was a powerful African state from the Middle Ages until …",
-          "link": "https://digitalorientalist.com/2024/01/05/digital-benin-bringing-together-scattered-historic-benin-objects/",
-          "publishedOn": "2024-01-05T14:00:00.000Z",
-          "wordCount": 4868,
-          "title": "Digital Benin: bringing together scattered historic Benin objects",
-          "imageUrl": "https://digitalorientalist.files.wordpress.com/2023/12/capture-decran-2023-11-30-a-10.29.21.png?w=1200"
         }
       ]
     },
@@ -4816,6 +4816,26 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/news/cdh-invites-proposals-for-british-academy-postdoctoral-fellowships/",
+          "author": null,
+          "description": "Call details: www.thebritishacademy.ac.uk/funding/postdoctoral-fellowships Cambridge Digital Humanities (CDH) at the University of Cambridge invites proposals for the next round of British Academy Postdoctoral Fellowships. CDH welcomes proposals in the following areas: Archival Justice as Practice and Theory Environmental Digital Humanities Cultural Analytics Digital Humanities-based participatory research in GLAM (Galleries, Libraries, Archives, Museums) Global Digital Humanities",
+          "link": "https://www.cdh.cam.ac.uk/about/news/cdh-invites-proposals-for-british-academy-postdoctoral-fellowships/",
+          "publishedOn": "2024-07-02T13:50:59.000Z",
+          "wordCount": 1490,
+          "title": "CDH invites proposals for British Academy Postdoctoral Fellowships",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2023/02/British-Academy-Logo-e1676541168871.png"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/research/fellowships/british-academy-postdoctoral-fellowships/",
+          "author": null,
+          "description": "",
+          "link": "https://www.cdh.cam.ac.uk/research/fellowships/british-academy-postdoctoral-fellowships/",
+          "publishedOn": "2024-07-02T10:52:36.000Z",
+          "wordCount": 1415,
+          "title": "British Academy Postdoctoral Fellowships",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/sermin-kalafat/",
           "author": null,
