@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-07-09T08:24:54.932Z</updated>
+    <updated>2024-07-10T09:36:59.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -8744,48 +8744,6 @@ The post New Collection in DRI – Kilkenny Traditional Shopfront Signage Projec
 
 All of the past versions of the dashboard are preserved in GitHub, but there wasn’t an easy way to browse them, until now. If you want to find out what changed in any week since July 2022, you can now visit the Trove Data Dashboard Archive and select a date from the list!
 I created the archive by pulling all the versions from GitHub and saving them as individual files. I’ve also added some code to the weekly process that should automatically archive the past week from now on – we’ll see if it works next Sunday…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAIR Signposting Helps Users to Navigate the Scholarly Web]]></title>
-        <id>https://dri.ie/?post_type=news&amp;p=20003</id>
-        <link href="https://dri.ie/news/fair-signposting-helps-users-to-navigate-the-scholarly-web/"/>
-        <updated>2024-01-12T14:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Last year the Digital Repository of Ireland was awarded a grant to participate in the FAIR-IMPACT project (project lead: Senior Software Engineer Kathryn Cassidy), which gave us access to the expertise and support we needed to test out several current and emerging FAIR-enabling tools. In this blog, we asked our Junior Software Developer Murilo Dias […]
-The post FAIR Signposting Helps Users to Navigate the Scholarly Web appeared first on Digital Repository Ireland.]]></summary>
-        <author>
-            <name>Beth Knazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACH Nominations 2024]]></title>
-        <id>https://ach.org/?p=2550</id>
-        <link href="https://ach.org/blog/2024/01/12/ach-nominations-2024/"/>
-        <updated>2024-01-12T14:09:05.000Z</updated>
-        <summary type="html"><![CDATA[ACH seeks three new Executive Council Representatives to serve a 4-year term (2024-2028) and a (co)Vice President(s)/President(s) Elect. Nominations are due February 1, 2024 via the brief nomination form. What does an ACH Executive Council Representative do? As an organization, ACH regularly runs a conference, a series of mentoring events, and distributes bursaries and other…Continue reading.]]></summary>
-        <author>
-            <name>jwoowinter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Python to Analyze Greek New Testament Manuscripts]]></title>
-        <id>http://digitalorientalist.com/?p=11988</id>
-        <link href="https://digitalorientalist.com/2024/01/12/using-python-to-analyze-greek-new-testament-manuscripts/"/>
-        <updated>2024-01-12T12:28:53.000Z</updated>
-        <summary type="html"><![CDATA[This post will take a break from writing about using the New Testament Virtual Manuscript Room, the topic I covered …]]></summary>
-        <author>
-            <name>Zach Butler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customising Datasette-Lite to explore datasets in the GLAM Workbench]]></title>
-        <id>http://wragge.micro.blog/2024/01/12/customising-datasettelite-to.html</id>
-        <link href="https://updates.timsherratt.org/2024/01/12/customising-datasettelite-to.html"/>
-        <updated>2024-01-12T05:09:41.000Z</updated>
-        <summary type="html"><![CDATA[As well as tools and code, the GLAM Workbench includes a number of pre-harvested datasets for researchers to play with. But just including a link to a CSV file in GitHub or Zenodo isn’t very useful – it doesn’t help researchers understand what’s in the dataset, and why it might be useful. That’s why I’ve also started including links that open the CSV files in Datasette-Lite, enabling the contents to be searched, filtered, and faceted. Just look for the Explore in Datasette buttons!
-Datasette is an excellent tool for sharing and exploring data. I’ve used it in a number of projects such as the GLAM Name Index Search and the Tasmanian Post Office Directories. Datasette-Lite is a version of Datasette that runs completely in the user’s web browser – no need for separate servers! All you do is p…]]></summary>
         <author>
             <name>Tim Sherratt</name>
         </author>
