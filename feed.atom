@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-07-10T09:36:59.672Z</updated>
+    <updated>2024-07-11T08:24:47.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Virtual Postgraduate Open Day: Digital Humanities]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/38586/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/38586/"/>
+        <updated>2024-07-10T16:29:50.000Z</updated>
+        <summary type="html"><![CDATA[The next Postgraduate Open Days will take place 4 - 15 November 2024 Sign up to our postgraduate newsletter to be notified when more information becomes available about the Digital Humanities subject session. In the meantime, explore the links below. Useful links Explore the MPhil in Digital Humanities Explore the PhD in Digital Humanities Visit]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPhil in Digital Humanities: information session for applicants]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/38538/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/38538/"/>
+        <updated>2024-07-10T16:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Join us for an information webinar about the MPhil in Digital Humanities at the University of Cambridge. Subscribe to the postgraduate mailing list to be informed about open days, news and other postgraduate events. Visit our MPhil application page here.]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhD in Digital Humanities: information session for applicants]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/38540/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/38540/"/>
+        <updated>2024-07-10T16:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Join us to find out more about the new PhD in Digital Humanities at the University of Cambridge. Subscribe to the postgraduate mailing list to be informed about open days, news and other postgraduate events. Visit our PhD application page here.]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPhil]]></title>
+        <id>https://www.cdh.cam.ac.uk/mphil/</id>
+        <link href="https://www.cdh.cam.ac.uk/mphil/"/>
+        <updated>2024-07-10T15:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Come study with us, for an MPhil in Digital Humanities. Apply now!]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhD]]></title>
+        <id>https://www.cdh.cam.ac.uk/phd/</id>
+        <link href="https://www.cdh.cam.ac.uk/phd/"/>
+        <updated>2024-07-10T11:03:16.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stellenausschreibung studentische*r Mitarbeitende*r  am Institut für die Geschichte der deutschen Juden in Hamburg]]></title>
         <id>node/960</id>
