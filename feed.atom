@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-07-11T08:24:47.724Z</updated>
+    <updated>2024-07-12T08:25:20.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Silvia Garzarella]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/silvia-garzarella/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/silvia-garzarella/"/>
+        <updated>2024-07-11T15:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Silvia Garzarella is a PhD Student in Visual, Performing, and Media Arts at the University of Bologna, currently working on the project: Improving the Fruition of Ballet’s Intangible Assets through Digital Archives and Advanced Digital Technology Products–a Case Study of Rudolf Nureyev (1938-1993). At the same University, she achieved a master’s degree in Italian Language]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtual Postgraduate Open Day: Digital Humanities]]></title>
         <id>https://www.cdh.cam.ac.uk/events/38586/</id>
