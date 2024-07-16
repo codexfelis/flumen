@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-07-15T08:25:53.357Z</updated>
+    <updated>2024-07-16T08:26:15.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: LJS 451 – [Commentary on the Doctrinale puerorum]. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18240</id>
+        <link href="https://schoenberginstitute.org/2024/07/15/manuscript-monday-ljs-451-commentary-on-the-doctrinale-puerorum-video-orientation/"/>
+        <updated>2024-07-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 451, an anonymous commentary on a 12th-century didactic poem composed by the French Franciscan Alexander de Villa Dei addressing parts of speech, syntax, and rhetorical figures. Opening of a letter by Albert II, Duke of Austria, Styria,Continue reading "Manuscript Monday: LJS 451 – [Commentary on the Doctrinale puerorum]. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARIN Joins ECHOES Consortium]]></title>
+        <id>6417 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/clarin-joins-echoes-consortium"/>
+        <updated>2024-07-15T08:42:39.000Z</updated>
+        <summary type="html"><![CDATA[CLARIN Joins ECHOES Consortium 
+
+            
+CLARIN 
+    
+European Research Infrastructure Consortium
+See: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
+ECHOES aims to create the ECCCH (European Collaborative Cloud for Cultural Heritage) as a shared platform for heritage professionals and researchers to access data, innovative scientific and training resources and advanced digital tools co-developed by the heritage community according to their specific needs. As such, ECHOES promotes a holistic approach to digital transformation, encouraging the co-construction of knowledge in collaboration with museums, libraries, archives, as well as artificial intelligence (AI).
+The consortium is led by the CNRS, an…]]></summary>
+        <author>
+            <name>Karina Berger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Silvia Garzarella]]></title>
         <id>https://www.cdh.cam.ac.uk/about/people/silvia-garzarella/</id>
@@ -8618,16 +8646,6 @@ DIAS is growing, and this call is in fact the first of five calls: DIAS will hir
         <summary type="html"><![CDATA[Job reference: HUM-024313Salary: £40, 521-£56,021 per annum depending on experienceFaculty/Organisational Unit: HumanitiesLocation: Oxford RoadEmployment type: PermanentDivision/…]]></summary>
         <author>
             <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sentiment Analysis with R]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37662/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37662/"/>
-        <updated>2024-01-18T11:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Giulia Grisot (CDH Teaching Associate) This workshop will delve into the intricacies of sentiment analysis using R, offering participants a comprehensive understanding of this text mining technique and a chance to gain hands-on experience with sentiment scoring methodologies and advanced sentiment visualisation. Designed for intermediate R users, this session aims to equip attendees with]]></summary>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>

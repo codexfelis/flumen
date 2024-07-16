@@ -3516,6 +3516,16 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=18240",
+          "author": "simsmss",
+          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 451, an anonymous commentary on a 12th-century didactic poem composed by the French Franciscan Alexander de Villa Dei addressing parts of speech, syntax, and rhetorical figures. Opening of a letter by Albert II, Duke of Austria, Styria,Continue reading \"Manuscript Monday: LJS 451 – [Commentary on the Doctrinale puerorum]. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/07/15/manuscript-monday-ljs-451-commentary-on-the-doctrinale-puerorum-video-orientation/",
+          "publishedOn": "2024-07-15T13:00:00.000Z",
+          "wordCount": 5262,
+          "title": "Manuscript Monday: LJS 451 – [Commentary on the Doctrinale puerorum]. (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/06/screenshot-2024-06-24-at-3.49.11e280afpm.png?w=1200"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=18236",
           "author": "simsmss",
           "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 447, descriptions and illustrations of domestic and wild animals, birds, insects, marine animals, plants, stemless plants, and herbs. Sources include Dioscorides, Galen, and Ibn al-Bayṭār. The larger, encyclopedic work of which the text of this manuscript isContinue reading \"Manuscript Monday: LJS 447 – [Masālik al-abṣār fī mamālik al-amṣār]. (Video Orientation)\"",
@@ -5655,16 +5665,6 @@
           "wordCount": 1591,
           "title": "Greek Dialogues | Critical Editing with AI: Herculaneum Papyri",
           "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/01/ccgs.jpeg"
-        },
-        {
-          "id": "https://www.cdh.cam.ac.uk/events/37662/",
-          "author": null,
-          "description": "Convenor: Giulia Grisot (CDH Teaching Associate) This workshop will delve into the intricacies of sentiment analysis using R, offering participants a comprehensive understanding of this text mining technique and a chance to gain hands-on experience with sentiment scoring methodologies and advanced sentiment visualisation. Designed for intermediate R users, this session aims to equip attendees with",
-          "link": "https://www.cdh.cam.ac.uk/events/37662/",
-          "publishedOn": "2024-01-18T11:49:31.000Z",
-          "wordCount": 1580,
-          "title": "Sentiment Analysis with R",
-          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2022/10/R-Coding.png"
         }
       ]
     },
@@ -5673,6 +5673,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "6417 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "CLARIN Joins ECHOES Consortium \n\n            \nCLARIN \n    \nEuropean Research Infrastructure Consortium\nSee: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\nECHOES aims to create the ECCCH (European Collaborative Cloud for Cultural Heritage) as a shared platform for heritage professionals and researchers to access data, innovative scientific and training resources and advanced digital tools co-developed by the heritage community according to their specific needs. As such, ECHOES promotes a holistic approach to digital transformation, encouraging the co-construction of knowledge in collaboration with museums, libraries, archives, as well as artificial intelligence (AI).\nThe consortium is led by the CNRS, an…",
+          "link": "https://www.clarin.eu/news/clarin-joins-echoes-consortium",
+          "publishedOn": "2024-07-15T08:42:39.000Z",
+          "wordCount": 621,
+          "title": "CLARIN Joins ECHOES Consortium",
+          "imageUrl": null
+        },
         {
           "id": "6410 at https://www.clarin.eu",
           "author": "Julia Misersky",
