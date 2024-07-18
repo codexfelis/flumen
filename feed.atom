@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-07-18T09:53:05.937Z</updated>
+    <updated>2024-07-18T14:03:42.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learning]]></title>
+        <id>https://www.cdh.cam.ac.uk/learning/</id>
+        <link href="https://www.cdh.cam.ac.uk/learning/"/>
+        <updated>2024-07-18T13:23:36.000Z</updated>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHR2024 Information]]></title>
         <id>discourse.computational-humanities-research.org-topic-2206</id>
