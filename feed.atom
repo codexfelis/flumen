@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-07-18T14:03:42.202Z</updated>
+    <updated>2024-07-19T08:24:41.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Share your spreadsheet as a searchable online database using Datasette-Lite]]></title>
+        <id>http://wragge.micro.blog/2024/07/19/share-your-spreadsheet.html</id>
+        <link href="https://updates.timsherratt.org/2024/07/19/share-your-spreadsheet.html"/>
+        <updated>2024-07-19T01:13:36.000Z</updated>
+        <summary type="html"><![CDATA[HASS researchers often compile data in spreadsheets. Sometimes they want to ‘publish’ this data online in a form that encourages others to use and explore – but how? I’ve just added a simple tool to the GLAM Workbench that helps you construct a url that will open a CSV file as a searchable database using Datasette-Lite.
+What’s Datasette?
+Datasette is a fantastic tool that helps you publish your data as an interactive website. There’s a few different varieties of Datasette, but Datasette-Lite is probably the easiest, as you don’t need to install any software. Datasette-Lite runs completely within your web browser, converting your data into into a searchable database on demand.
+I’m using Datasette-Lite throughout the GLAM Workbench. For example, try clicking the Explore in Datasette buttons …]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning]]></title>
         <id>https://www.cdh.cam.ac.uk/learning/</id>

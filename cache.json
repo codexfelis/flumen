@@ -3967,6 +3967,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/07/19/share-your-spreadsheet.html",
+          "author": null,
+          "description": "HASS researchers often compile data in spreadsheets. Sometimes they want to ‘publish’ this data online in a form that encourages others to use and explore – but how? I’ve just added a simple tool to the GLAM Workbench that helps you construct a url that will open a CSV file as a searchable database using Datasette-Lite.\nWhat’s Datasette?\nDatasette is a fantastic tool that helps you publish your data as an interactive website. There’s a few different varieties of Datasette, but Datasette-Lite is probably the easiest, as you don’t need to install any software. Datasette-Lite runs completely within your web browser, converting your data into into a searchable database on demand.\nI’m using Datasette-Lite throughout the GLAM Workbench. For example, try clicking the Explore in Datasette buttons …",
+          "link": "https://updates.timsherratt.org/2024/07/19/share-your-spreadsheet.html",
+          "publishedOn": "2024-07-19T01:13:36.000Z",
+          "wordCount": 598,
+          "title": "Share your spreadsheet as a searchable online database using Datasette-Lite",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-07-19-11-04-14.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/07/17/home-renovations-at.html",
           "author": null,
           "description": "I had to update my sadly-neglected CV, so of course I ended up renovating the whole of my personal website at timsherratt.au.  To start with, I migrated my CV from Pages to Markdown. This made it easy to integrate the CV’s content into the site’s about me page. As i was updating the CV, I tried to get as many as possible of my publications and presentations into Zenodo for easy access and safekeeping. This means that the about me page now has a long list of publications and presentations, dating back more than 20 years, that are (almost) all available online.\n\r\nWhile I was fiddling about with the content, I thought I should probably update the theme as well. The site now uses Minimal Mistakes and will display in either dark or light mode depending on your system and browser settings. Hopefully I can ignore it for a few more years now!",
