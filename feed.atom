@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-08-05T08:26:05.280Z</updated>
+    <updated>2024-08-06T08:24:34.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Welcome 2024 Communications Fellows, Lavanya Dahiya and Giulia Taurino]]></title>
+        <id>https://adho.org/?p=3543</id>
+        <link href="https://adho.org/2024/08/05/welcome-2024-communications-fellows-lavanya-dahiya-and-giulia-taurino/"/>
+        <updated>2024-08-05T18:06:36.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to introduce and welcome Lavanya Dahiya and Giulia Taurino as ADHO’s 2024 Communications Fellows! Lavanya and Giulia will be working from July, 2024-July 2025 to manage ADHO’s website content, social media accounts, podcasts, newsletter and will share their expertise in digital humanities with us. It is great to have you!]]></summary>
+        <author>
+            <name>Alexandra Núñez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encountering digital collections: Practical approaches in research and pedagogy]]></title>
+        <id>https://www.cdh.cam.ac.uk/events/38679/</id>
+        <link href="https://www.cdh.cam.ac.uk/events/38679/"/>
+        <updated>2024-08-05T15:12:27.000Z</updated>
+        <summary type="html"><![CDATA[Convenor: Andy Corrigan (Cambridge University Libraries) Speakers: TBC Summary: Over recent decades, the collections, operations, and audiences of galleries, libraries, archives and museums (GLAM) have moved from an analogue to a mixed analogue/digital environment. This digital shift (RLUK, 2020) is transforming our experiences, democratising access and enabling new modes of distant reading, creating a dynamic]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuscript Monday: Penn Library’s LJS 450 – [Compendium of legal texts]. (Video Orientation)]]></title>
+        <id>http://schoenberginstitute.org/?p=18252</id>
+        <link href="https://schoenberginstitute.org/2024/08/05/manuscript-monday-penn-librarys-ljs-450-compendium-of-legal-texts-video-orientation/"/>
+        <updated>2024-08-05T13:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 450, a collection of treatises on civil law, including both Roman law and canon law, compiled in Italy. Angelo degli Ubaldi, Baldo degli Ubaldi, Giovanni d’Andrea, Jacobus de Arena, and Martino da Fano are all represented byContinue reading "Manuscript Monday: Penn Library’s LJS 450 – [Compendium of legal texts]. (Video Orientation)"]]></summary>
+        <author>
+            <name>simsmss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Fluencies Speaker Series – Marisa Parham]]></title>
         <id>https://digitaldemocracies.org/?p=5794</id>
@@ -8092,116 +8122,6 @@ Die beliebte Virtuelle Forschungsumgebung Nodegoat ist jetzt vollumfänglich fü
         <summary type="html"><![CDATA[The Mathematical Humanists project, from the Roy Rosenzweig Center for History at New Media at George Mason University and the University of California-Los Angeles, is offering a series of workshops “on the mathematics that underpins common Digital Humanities (DH) methods.” Workshops will cover topics such as applied statistics, graphs and networks, linear algebra, and discrete ...read more]]></summary>
         <author>
             <name>Linsey Ford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walking with Constable: The Cambridge Edition | CDH x Cambridge Festival]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37457/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37457/"/>
-        <updated>2024-02-08T16:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Walking with Constable is a university-wide research project led by Cambridge Digital Humanities, the Fitzwilliam Museum and the Cambridge University Library, which has been exploring how we can use digital technologies to take archive material out of museums and libraries and interact with it in the landscape. On this ‘Cambridge Edition’ we’ll experience how we’ve]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Meaning out of Data: Machine Learning for Humanities Research]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35864/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35864/"/>
-        <updated>2024-02-08T15:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Estara Arrant (CDH Methods Fellow) This methods workshop will teach students three powerful machine learning algorithms appropriate for Humanities research projects. These algorithms are designed to help you identify and explore meaningful patterns and correlations in your research material and are appropriate for descriptive, qualitative data sets of almost any size. These algorithms are]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theorising Transparency in Digital Culture]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35975/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35975/"/>
-        <updated>2024-02-08T15:18:13.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Carleigh Morgan (CDH Methods Fellow) This project begins from the premise that ‘transparency’ is not clear at all. Transparency is historically mediated, culturally constructed, and ideologically complex. Understood expansively, transparency is enmeshed with a variety of functions and associations, having been mobilised as a political call to action; a design methodology; a radical practice]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seeing the Database Differently: Qualitative Data Analysis in Cultural Heritage]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35858/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35858/"/>
-        <updated>2024-02-08T15:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Orla Delaney (CDH Methods Fellow) What does it mean to prioritise small data over big data? Cultural heritage datasets, such as museum databases and digital archives, seem to resist the quantitative methods we usually associate with data science work, asking to be read and explored rather than aggregated and analysed. This workshop provides participants]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creative-Critical Methods: Bearing Witness to Personal and Collective Trauma]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35822/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35822/"/>
-        <updated>2024-02-08T15:14:35.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Dita N. Love (CDH Methods Fellow) Sarah Ahmed and Jackie Stacey wrote that “speaking out about injustice, trauma, pain and grief have become crucial aspects of contemporary life which have transformed notions of what it means to be a subject, what it means to speak, and how we can understand the formation of communities]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvesting Data and Visualising Cultural Transmission]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35797/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35797/"/>
-        <updated>2024-02-08T15:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Convenors: Leah Brainerd & Alex Gushurst-Moore (CDH Methods Fellow) Centuries of ceramics. Millenia of maquettes. How do we grapple with large datasets? Join archaeologist Leah Brainerd and art historian Alex Gushurst-Moore to increase your computational literacy, learn how to scrape data from collections databases, and interpret that data through visual means. Over two, two-hour sessions,]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video Data Analysis for social science and humanities]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35587/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35587/"/>
-        <updated>2024-02-08T15:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Tom Kissock (CDH Methods Fellow) This Methods Workshop will offer Video Data Analysis for Social Science and Humanities students. It’s a relatively new, broad, and innovative multi-disciplinary methodology that helps students understand how video fits into modern research, both inside and outside academia. For example, Cisco has estimated that video will make up 80% of]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to R Studio and R Markdown]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/35579/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/35579/"/>
-        <updated>2024-02-08T15:12:38.000Z</updated>
-        <summary type="html"><![CDATA[Convenor: Giulia Grisot (CDH RSE Methods Fellow and a Visiting Academic) This Methods Workshop will deliver an introduction to R Studio and R Markdown; the workshop will run through the functionalities and advantages of using R Studio and related tools for organising and analysing data, as well as for writing and referencing. Workshop requirements: It]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faust Shop: Discover your artificial double | CDH x Cambridge Festival]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37459/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37459/"/>
-        <updated>2024-02-08T13:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Technology offers us the world – but what does it take away? What is the bargain here? The Faust Shop, an augmented theatrical experience embedded in a lab environment, asks these and related questions. Faust Shop 2.0 adapts Johann Wolfgang Goethe’s version of the Faust legend to the digital age. It focuses on the Homunculus]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Am I Normal? | CDH x Cambridge Festival]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37451/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37451/"/>
-        <updated>2024-02-08T11:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Please note, tickets are available but not required for this exhibition. ‘Am I Normal?’ and ‘Dreamy Cops’ are two art installations by Tristan Dot which investigate notions of AI, including Computer Vision, surveillance, the human body and normativity. The first, ‘Am I normal?’, is an interactive installation reflecting on body control in public spaces through]]></summary>
-        <author>
-            <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Share Your Expertise: A Wikipedia Edit-A-Thon | CDH x Cambridge Festival]]></title>
-        <id>https://www.cdh.cam.ac.uk/events/37453/</id>
-        <link href="https://www.cdh.cam.ac.uk/events/37453/"/>
-        <updated>2024-02-08T11:08:36.000Z</updated>
-        <summary type="html"><![CDATA[How do we learn about the world around us and what sources do we trust for information? We may turn to teachers and books, but we also turn to collective knowledge online. Each month, Wikipedia and Wikimedia entries are viewed over 20 billion times. And those pages are fed into AI tools like ChatGPT to share answers]]></summary>
-        <author>
-            <name>CDH</name>
         </author>
     </entry>
     <entry>
