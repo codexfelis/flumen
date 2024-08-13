@@ -332,16 +332,6 @@
           "wordCount": 1731,
           "title": "A Conversation With the Alabama Memory Project",
           "imageUrl": null
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2272",
-          "author": "adhcadmin",
-          "description": "A Conversation with Amanda Koh https://www.youtube.com/watch?v=GfsOs5Bc5bI Description During this ADHC Talk, Sara Whitver will talk with our guest, Dr. Amanda Koh. Amanda runs the Koh Laboratory which “focuses on engineering soft materials and material interfaces to enable new stretchable electronics, soft robotics, smart devices, and porous materials.” One of Amanda’s current projects is to design … \nRead more \"A Conversation with Amanda Koh\"\nThe post A Conversation with Amanda Koh appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/adhctalks-01-24-2023/",
-          "publishedOn": "2024-02-15T20:07:26.000Z",
-          "wordCount": 1820,
-          "title": "A Conversation with Amanda Koh",
-          "imageUrl": null
         }
       ]
     },
@@ -438,16 +428,6 @@
           "publishedOn": "2024-02-21T19:05:31.000Z",
           "wordCount": null,
           "title": "Susan Brown Awarded Roberto Busa Prize",
-          "imageUrl": null
-        },
-        {
-          "id": "https://adho.org/?p=3030",
-          "author": "Nadezhda Povroznik",
-          "description": "Digital Scholarship in the Humanities will publish a supplementary issue of top papers from Digital Humanities 2023, the annual conference of the Alliance of Digital Humanities Organizations, held in Graz, Austria. We invite submissions from anyone who presented at the meeting, including those who gave long and short papers, or who participated in panels and… Read More »DSH DH2023 Conference Proceedings Call for Papers",
-          "link": "https://adho.org/2024/02/15/dsh-dh2023-conference-proceedings-call-for-papers/",
-          "publishedOn": "2024-02-15T10:32:16.000Z",
-          "wordCount": null,
-          "title": "DSH DH2023 Conference Proceedings Call for Papers",
           "imageUrl": null
         }
       ]
@@ -3035,6 +3015,16 @@
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
         {
+          "id": "http://schoenberginstitute.org/?p=18256",
+          "author": "simsmss",
+          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 452, an alphabetical dictionary of Latin words and names with parts of speech and definitions given by Latin synonym, Latin explanation, German equivalent, German explanation, or a combination of these methods. Introductory paragraph in Latin refers toContinue reading \"Manuscript Monday: Penn Library’s LJS 452 – Ex quo vocabularii varii [et] aute[n]tici. (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/08/12/manuscript-monday-penn-librarys-ljs-452-ex-quo-vocabularii-varii-et-autentici-video-orientation/",
+          "publishedOn": "2024-08-12T13:00:00.000Z",
+          "wordCount": 5379,
+          "title": "Manuscript Monday: Penn Library’s LJS 452 – Ex quo vocabularii varii [et] aute[n]tici. (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/07/screenshot-2024-07-29-at-9.23.05e280afam-1.png"
+        },
+        {
           "id": "http://schoenberginstitute.org/?p=18252",
           "author": "simsmss",
           "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 450, a collection of treatises on civil law, including both Roman law and canon law, compiled in Italy. Angelo degli Ubaldi, Baldo degli Ubaldi, Giovanni d’Andrea, Jacobus de Arena, and Martino da Fano are all represented byContinue reading \"Manuscript Monday: Penn Library’s LJS 450 – [Compendium of legal texts]. (Video Orientation)\"",
@@ -4165,6 +4155,26 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/junaid-abdul-jabbar/",
+          "author": null,
+          "description": "Junaid is a Geoinformatics Engineer with a Bachelor’s degree (2015) from the National University of Sciences & Technology, Pakistan and Master’s degree (2019) from the Institute of Space Technology, Pakistan. Since his graduation he has been a part of both Industry and Academia. Starting a professional career in 2015, Junaid has worked on spatial datasets",
+          "link": "https://www.cdh.cam.ac.uk/about/people/junaid-abdul-jabbar/",
+          "publishedOn": "2024-08-12T14:27:06.000Z",
+          "wordCount": 1485,
+          "title": "Junaid Abdul-Jabbar",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-16.05.52.png"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/lidea-shahidi/",
+          "author": null,
+          "description": "Lidea Shahidi is a postdoctoral research associate based at the MRC Cognition and Brain Sciences Unit. She studied for her PhD in the Applied Machine Learning Lab in the Electrical and Computer Engineering department at Duke University, where she developed speech enhancement strategies to mitigate the impact of reverberation on speech intelligibility outcomes for cochlear",
+          "link": "https://www.cdh.cam.ac.uk/about/people/lidea-shahidi/",
+          "publishedOn": "2024-08-12T14:24:53.000Z",
+          "wordCount": 1492,
+          "title": "Lidea Shahidi",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-17.06.18.png"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/people/adrien-jeanrenaud/",
           "author": null,
