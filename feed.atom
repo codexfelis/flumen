@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-08-15T08:25:37.516Z</updated>
+    <updated>2024-08-16T08:26:07.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Explore Trove's digitised maps]]></title>
+        <id>http://wragge.micro.blog/2024/08/16/explore-troves-digitised.html</id>
+        <link href="https://updates.timsherratt.org/2024/08/16/explore-troves-digitised.html"/>
+        <updated>2024-08-16T03:27:20.000Z</updated>
+        <summary type="html"><![CDATA[Trove contains thousands of digitised maps from the collections of the National Library of Australia, but they’re not always easy to find because of the way they’re arranged and described. To help you explore these maps I’ve created a new database and published it using Datasette.
+Try it now!
+
+To get started, head to the map sheets table and search for some keywords. The results are displayed both as a cluster map using Leaflet, and as a table. To view the details of an individual map sheet, click on the id value.
+
+The individual record displays a zoomable version of the map image. If the record includes geospatial coordinates, these are also displayed on a modern basemap. There are also options to download the map image as a JPEG or a high-resolution TIFF (if available). Where possible …]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Hugo Leal]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-hugo-leal/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-hugo-leal/"/>
+        <updated>2024-08-15T09:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Dr Hugo Leal is a Teaching Associate at CDH for the MPhil in Digital Humanities. He is also the Research Associate at the Minderoo Centre for Technology and Democracy (MCTD) based in CRASSH. He previously worked as a postdoctoral fellow in the internet branch of the project “Conspiracy and Democracy” and as a methods fellow]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alessia Guidi]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/alessia-guidi/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/alessia-guidi/"/>
+        <updated>2024-08-15T09:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Alessia Guidi is a second-year PhD student in in Anglo-American Literature at the University of Pisa, Italy. She graduated in Euro-American Languages, Literature and Philology in 2022 at the University of Pisa, where she also received her BA degree in Foreign Languages and Literatures in 2019. She is particularly interested in the exploration of ontological]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call for Applications: Critical DH Co-Working Space]]></title>
         <id>https://dhn.utoronto.ca/?p=9542</id>
@@ -7660,17 +7695,6 @@ The post Digging into Parts-of-Speech Tagging in Gale Digital Scholar Lab appear
         <updated>2024-02-19T08:07:00.000Z</updated>
         <summary type="html"><![CDATA[Willkommen zur neuesten Folge unserer 6. Staffel, bei der wir die DHd2016 beleuchten. Das Motto der Leipziger Konferenz war Modellierung – Vernetzung – Visualisierung. Die Digital Humanities als fächerübergreifendes Forschungsparadigma. Die gute Zusammenarbeit zwischen unseren heutigen Gästen, der Romanistin Elisabeth Burr und dem Informatiker Gerhard Heyer, ist dabei regelrecht emblematisch: verschiedene Fachbereiche finden unter einem […]
 Der Beitrag DHd2016: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.]]></summary>
-        <author>
-            <name>Mareike Schumacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHd2015: Reflexionen mit RaDiHum20]]></title>
-        <id>https://radihum20.de/?p=784</id>
-        <link href="https://radihum20.de/dhd2015/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dhd2015"/>
-        <updated>2024-02-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Heute präsentieren wir euch die erste Folge unserer 6. Staffel. Zum zweiten Mal begleiten wir in diesem Jahr die DHd-Konferenz, die Konferenz der digitalen Geisteswissenschaften im deutschsprachigen Raum als Medienpartner. In der ersten Phase dieser Staffel bekommt ihr von uns ab heute bis zur DHd-Konferenz jeden Tag eine Podcast-Folge auf die Ohren, in der wir […]
-Der Beitrag DHd2015: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.]]></summary>
         <author>
             <name>Mareike Schumacher</name>
         </author>

@@ -2637,21 +2637,6 @@
           "wordCount": 2284,
           "title": "DHd2016: Reflexionen mit RaDiHum20",
           "imageUrl": "https://radihum20.de/wp-content/uploads/2024/02/Design-ohne-Titel-18.png"
-        },
-        {
-          "id": "https://radihum20.de/?p=784",
-          "author": "Mareike Schumacher",
-          "description": "Heute präsentieren wir euch die erste Folge unserer 6. Staffel. Zum zweiten Mal begleiten wir in diesem Jahr die DHd-Konferenz, die Konferenz der digitalen Geisteswissenschaften im deutschsprachigen Raum als Medienpartner. In der ersten Phase dieser Staffel bekommt ihr von uns ab heute bis zur DHd-Konferenz jeden Tag eine Podcast-Folge auf die Ohren, in der wir […]\nDer Beitrag DHd2015: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/dhd2015/?utm_source=rss&utm_medium=rss&utm_campaign=dhd2015",
-          "publishedOn": "2024-02-18T08:00:00.000Z",
-          "wordCount": 2447,
-          "title": "DHd2015: Reflexionen mit RaDiHum20",
-          "enclosure": {
-            "url": "https://hnp9zs.podcaster.de/download/Staffel_6_Folge_Graz_Auphonicisiert.mp3?origin=embed",
-            "length": "80815061",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://radihum20.de/wp-content/uploads/2024/02/Design-ohne-Titel-16.png"
         }
       ]
     },
@@ -3446,6 +3431,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/08/16/explore-troves-digitised.html",
+          "author": null,
+          "description": "Trove contains thousands of digitised maps from the collections of the National Library of Australia, but they’re not always easy to find because of the way they’re arranged and described. To help you explore these maps I’ve created a new database and published it using Datasette.\nTry it now!\n\r\nTo get started, head to the map sheets table and search for some keywords. The results are displayed both as a cluster map using Leaflet, and as a table. To view the details of an individual map sheet, click on the id value.\n\r\nThe individual record displays a zoomable version of the map image. If the record includes geospatial coordinates, these are also displayed on a modern basemap. There are also options to download the map image as a JPEG or a high-resolution TIFF (if available). Where possible …",
+          "link": "https://updates.timsherratt.org/2024/08/16/explore-troves-digitised.html",
+          "publishedOn": "2024-08-16T03:27:20.000Z",
+          "wordCount": 650,
+          "title": "Explore Trove's digitised maps",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-08-16-12-39-50.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/07/19/share-your-spreadsheet.html",
           "author": null,
           "description": "HASS researchers often compile data in spreadsheets. Sometimes they want to ‘publish’ this data online in a form that encourages others to use and explore – but how? I’ve just added a simple tool to the GLAM Workbench that helps you construct a url that will open a CSV file as a searchable database using Datasette-Lite.\nWhat’s Datasette?\nDatasette is a fantastic tool that helps you publish your data as an interactive website. There’s a few different varieties of Datasette, but Datasette-Lite is probably the easiest, as you don’t need to install any software. Datasette-Lite runs completely within your web browser, converting your data into into a searchable database on demand.\nI’m using Datasette-Lite throughout the GLAM Workbench. For example, try clicking the Explore in Datasette buttons …",
@@ -4055,6 +4050,26 @@
       "feedUrl": "https://www.cdh.cam.ac.uk/rss.xml",
       "siteUrl": "https://www.cdh.cam.ac.uk",
       "articles": [
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/dr-hugo-leal/",
+          "author": null,
+          "description": "Dr Hugo Leal is a Teaching Associate at CDH for the MPhil in Digital Humanities. He is also the Research Associate at the Minderoo Centre for Technology and Democracy (MCTD) based in CRASSH. He previously worked as a postdoctoral fellow in the internet branch of the project “Conspiracy and Democracy” and as a methods fellow",
+          "link": "https://www.cdh.cam.ac.uk/about/people/dr-hugo-leal/",
+          "publishedOn": "2024-08-15T09:53:41.000Z",
+          "wordCount": 1471,
+          "title": "Dr Hugo Leal",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2022/03/Hugo-Leal-headshot-e1723715602923.jpg"
+        },
+        {
+          "id": "https://www.cdh.cam.ac.uk/about/people/alessia-guidi/",
+          "author": null,
+          "description": "Alessia Guidi is a second-year PhD student in in Anglo-American Literature at the University of Pisa, Italy. She graduated in Euro-American Languages, Literature and Philology in 2022 at the University of Pisa, where she also received her BA degree in Foreign Languages and Literatures in 2019. She is particularly interested in the exploration of ontological",
+          "link": "https://www.cdh.cam.ac.uk/about/people/alessia-guidi/",
+          "publishedOn": "2024-08-15T09:51:50.000Z",
+          "wordCount": 1425,
+          "title": "Alessia Guidi",
+          "imageUrl": "https://www.cdh.cam.ac.uk/wp-content/uploads/2024/08/Alessia-Guidi-Headshot-Square.png"
+        },
         {
           "id": "https://www.cdh.cam.ac.uk/about/news/announcing-2023-24-mphil-cohort/",
           "author": null,
