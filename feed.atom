@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-08-20T08:26:09.122Z</updated>
+    <updated>2024-08-21T08:26:10.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dr Samuel A. Moore]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-samuel-a-moore/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-samuel-a-moore/"/>
+        <updated>2024-08-20T13:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Dr Samuel A. Moore is the Scholarly Communication Specialist at Cambridge University Library, where he is responsible for the university’s strategy on academic publishing and research communication. He has a PhD in Digital Humanities from King’s College London and is currently working on his first monograph for the University of Michigan Press entitled Publishing Beyond]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Siddharth Soni]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-siddharth-soni/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-siddharth-soni/"/>
+        <updated>2024-08-20T12:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Siddharth Soni is Lecturer in Literature & Digital Culture at Southampton University and was the Isaac Newton Trust Research Fellow at CDH until 2024. His work is largely within comparative literature and comparative cultural studies. He is currently writing a monograph on the anti-colonial Indian short story alongside working on the DH project World Short]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr Giulia Grisot]]></title>
+        <id>https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/</id>
+        <link href="https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/"/>
+        <updated>2024-08-20T11:49:14.000Z</updated>
+        <summary type="html"><![CDATA[Giulia Grisot is Lecturer in Digital Humanities, Art History and Cultural Practices at the University of Manchester and was a Teaching Associate at CDH for the MPhil in Digital Humanities in 2023-2024. Her current research focuses on the investigation of culture and identity in literary texts, using NLP and machine learning to examine represented space]]></summary>
+        <author>
+            <name>CDH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manuscript Monday: Penn Library’s LJS 453 – [Commentaries on Aristotle]. (Video Orientation)]]></title>
         <id>http://schoenberginstitute.org/?p=18261</id>
@@ -34,6 +64,17 @@
         <summary type="html"><![CDATA[What happens when you bring together dozens of actors, writers, designers and developers to experiment with technical theatre? The Cambridge Theatre Hackathon set out to find out. The inaugural event, supported by funding from Cambridge Digital Humanities, took place 19-20 May, 2023. The hybrid teams, with participants from around the world, created, rehearsed and performed]]></summary>
         <author>
             <name>CDH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Sustainable Shared Authority. Ensuring the Future of Rondo’s Past]]></title>
+        <id>5138 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/sustainable-shared-authority-ensuring-future-rondos-past"/>
+        <updated>2024-08-19T11:38:12.000Z</updated>
+        <summary type="html"><![CDATA[Rondo is a predominantly African American neighborhood in St. Paul, Minnesota, with a familiar story. Across the United States in the 1950s and 1960s, an estimated 1,600 communities of color were destroyed by highway construction. Rondo was one of these neighborhoods, sacrificed to the asphalt as cities across the country weaponized their arteries by building “white roads through Black bedrooms.”
+Marvin Anderson remembers what the City of St. Paul did to his neighborhood, and he has made it his life’s mission to Remember Rondo. In 2015, Mr. Anderson and Rebecca Wingo joined forces to create RememberingRondo.org, a vibrant history hub with a community-based digital archive, a map of Rondo’s historic businesses, and much more. While Wingo’s academic institution initially hosted the project, …]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>
@@ -7296,72 +7337,6 @@ Der Beitrag Audiosnippets zu den DHd2024 Postereinreichungen erschien zuerst auf
         <updated>2024-02-24T08:03:00.000Z</updated>
         <summary type="html"><![CDATA[Die DHd2022 war aus vielerlei Gründen ein erinnerungswürdiges Ereignis. Ursprünglich für 2021 geplant, dann verschoben und als Hybridkonferenz konzipiert und letztendlich als reines Online-Event umgesetzt, war sie mit über 1.000 angemeldeten Teilnehmer*innen die bisher größte DHd-Konferenz aller Zeiten. In der vorletzten Folge unserer Konferenzrückblick-Reihe sprechen wir mit Anna Busch und Ulrike Wuttke über die Herausforderungen […]
 Der Beitrag DHd2022: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.]]></summary>
-        <author>
-            <name>Mareike Schumacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The LCDSS and Games Have a Lot Going On]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8679</id>
-        <link href="https://sites.temple.edu/tudsc/2024/02/23/the-lcdss-and-games-have-a-lot-going-on/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-lcdss-and-games-have-a-lot-going-on"/>
-        <updated>2024-02-23T14:45:36.000Z</updated>
-        <summary type="html"><![CDATA[It has been a while since there has been update on some of the work we do around gaming at the LCDSS, so with inaugural meeting of the campus wide Games Interest Community Group next week Tuesday this is an opportune time to let you know about some of our game related projects.]]></summary>
-        <author>
-            <name>Matt Shoemaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The age of digital technology: Silk Road archaeological sites and artefacts (Part 1)]]></title>
-        <id>http://digitalorientalist.com/?p=12254</id>
-        <link href="https://digitalorientalist.com/2024/02/23/the-age-of-digital-technology-silk-road-archaeological-sites-and-artefacts-part-1/"/>
-        <updated>2024-02-23T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Digital technologies have become increasingly prominent in the field of archaeology and humanities, playing an important role in facilitating research …]]></summary>
-        <author>
-            <name>Agnes Sung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zusätzlicher Schulungstermin für Datenvisualisierung mit RStudio]]></title>
-        <id>news-190</id>
-        <link href="https://rise.unibas.ch/de/news/details/zusaetzlicher-schulungstermin-fuer-datenvisualisierung-mit-rstudio/"/>
-        <updated>2024-02-23T09:14:17.000Z</updated>
-        <summary type="html"><![CDATA[News,
-                        Weiterbildung,
-                        Events
-                        
-Aufgrund der hohen Nachfrage bietet RISE am 28.03.2024 einen zusätzlichen Kurstermin an.]]></summary>
-        <author>
-            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deindustrialisation and its Impact on Luxembourg's Industrial Cities, 1970-1990]]></title>
-        <id>4948 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/deindustrialisation-and-its-impact-luxembourgs-industrial-cities-1970-1990"/>
-        <updated>2024-02-23T08:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Since the 1970s, deindustrialisation has fundamentally changed Luxembourg’s economy, shifting its focus from industry to services. Beyond these major structural changes, the restructuring of the steel industry has had important consequences at the local level, both for workers and for industrial towns. This research focuses on the impact of deindustrialisation in three industrial towns in Luxembourg, Esch, Dudelange and Pétange, and aims to explore local challenges and initiatives in response to the restructuring of the steel industry.
-The closure of blast furnaces and rolling mills triggered intense debates in the town councils of Luxembourg's steel towns, focusing on issues such as the town budget and overall viability. Industrial decline was seen as a potential 'death blow' for the existence of the towns, leading various stakeholders, including workers, shop owners, trade unionists and politicians, to rally against the closure of the local blast furnace. A key area of interest in the research are the local strategies implemented to address the challenges of deindustrialisation and the decisions taken by the steel companies ARBED and MMR-A and the Tripartite Conference. Although the focus of the research is on the cities, the national and European levels are also taken into account, as local actions extended beyond city boundaries.
- 
-Wednesday, 20 March 2024
-14.00 - 15.00
-C²DH Open Space (4th floor, Maison des Sciences humaines)
-20 March 2024
-  Public history
-  Industrial history
-  Research seminars
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vDHd2021: Reflexionen mit RaDiHum20]]></title>
-        <id>https://radihum20.de/?p=766</id>
-        <link href="https://radihum20.de/vdhd2021/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vdhd2021"/>
-        <updated>2024-02-23T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In unserer neuesten Folge der Recap-Reihe zur DHd-Konferenz unterhalten wir uns mit einem Trio aus dem Organisationsteam der vDHd 2021: Melanie Seltmann, Waltraud von Pippich und Jürgen Hermes. Diese Konferenz war außergewöhnlich und die Umsetzung für alle neu, denn sie fand virtuell statt und war das Resultat einer spontanen Graswurzel-Initiative (vDHd 2021, Thema: Experimente); ein […]
-Der Beitrag vDHd2021: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.]]></summary>
         <author>
             <name>Mareike Schumacher</name>
         </author>
