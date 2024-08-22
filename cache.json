@@ -2346,36 +2346,6 @@
           "wordCount": 2206,
           "title": "DHd2023: Reflexionen mit RaDiHum20",
           "imageUrl": "https://radihum20.de/wp-content/uploads/2024/02/Design-ohne-Titel-24.png"
-        },
-        {
-          "id": "https://radihum20.de/?p=818",
-          "author": "Jascha Schmitz",
-          "description": "Hier findet ihr Audiosnippets zu den Postereinreichungen der Jahreskonferenz der Digital Humanities im deutschsprachigen Raum 2024 in Passau. Danke an alle, die uns ihre Beiträge geschickt haben! Melanie Seltmann, Claudia Frick: „Open-Public-Peer-Review auf dem Prüfstand“ Sarah Lang / AG Empowerment: „DHd AG Empowerment“\nDer Beitrag Audiosnippets zu den DHd2024 Postereinreichungen erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/audiosnippets-dhd2024-poster/?utm_source=rss&utm_medium=rss&utm_campaign=audiosnippets-dhd2024-poster",
-          "publishedOn": "2024-02-24T17:00:03.000Z",
-          "wordCount": 2094,
-          "title": "Audiosnippets zu den DHd2024 Postereinreichungen",
-          "enclosure": {
-            "url": "https://radihum20.de/wp-content/uploads/2024/02/AG-Empow-Postersnippet.mp3",
-            "length": "14969280",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://radihum20.de/?p=775",
-          "author": "Mareike Schumacher",
-          "description": "Die DHd2022 war aus vielerlei Gründen ein erinnerungswürdiges Ereignis. Ursprünglich für 2021 geplant, dann verschoben und als Hybridkonferenz konzipiert und letztendlich als reines Online-Event umgesetzt, war sie mit über 1.000 angemeldeten Teilnehmer*innen die bisher größte DHd-Konferenz aller Zeiten. In der vorletzten Folge unserer Konferenzrückblick-Reihe sprechen wir mit Anna Busch und Ulrike Wuttke über die Herausforderungen […]\nDer Beitrag DHd2022: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/dhd2022/?utm_source=rss&utm_medium=rss&utm_campaign=dhd2022",
-          "publishedOn": "2024-02-24T08:03:00.000Z",
-          "wordCount": 2265,
-          "title": "DHd2022: Reflexionen mit RaDiHum20",
-          "enclosure": {
-            "url": "https://hnp9zs.podcaster.de/download/Staffel6_2022_final.mp3?origin=embed",
-            "length": "21285908",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://radihum20.de/wp-content/uploads/2024/02/2.png"
         }
       ]
     },
@@ -2973,6 +2943,16 @@
       "siteUrl": "https://sites.temple.edu/tudsc",
       "articles": [
         {
+          "id": "https://sites.temple.edu/tudsc/?p=9105",
+          "author": "Hannah Tardie",
+          "description": "In late July and early August, the Makerspace piloted a Pre-College course called Green Design Lab: 3D Printing and Sustainable Making. Over the course of the two week course, high school students...",
+          "link": "https://sites.temple.edu/tudsc/2024/08/21/green-design-lab-pre-college-in-the-makerspace/?utm_source=rss&utm_medium=rss&utm_campaign=green-design-lab-pre-college-in-the-makerspace",
+          "publishedOn": "2024-08-21T19:21:44.000Z",
+          "wordCount": 3332,
+          "title": "Green Design Lab: Pre-College in the Makerspace",
+          "imageUrl": null
+        },
+        {
           "id": "https://sites.temple.edu/tudsc/?p=9080",
           "author": "Alexandra Goss",
           "description": "Overview:  Tunnel of Love originally started as a project looking at queerness, secrecy and the process of seeing and being seen in the form of an amusement-park dark ride. As time led...",
@@ -3149,6 +3129,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2024/08/22/new-zotero-translators.html",
+          "author": null,
+          "description": "Good news for Australian archives users – you can now use Zotero to capture item details and digitised files from the collections of the Public Record Office Victoria and the Queensland State Archives!\nWhat is Zotero?\nAccording to the Zotero website:\nZotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.\nWhile you can use it instead of commercial reference managers like EndNote, Zotero is much, much more. I use Zotero as my personal research database, capturing publications, websites, PDFs, as well as records from a growing number of GLAM collections. You can add tags and notes to items, organise them into collections, and annotate PDFs and website captures. You can also share your collections, create groups to collaborate with others, and acc…",
+          "link": "https://updates.timsherratt.org/2024/08/22/new-zotero-translators.html",
+          "publishedOn": "2024-08-22T03:35:55.000Z",
+          "wordCount": 970,
+          "title": "New Zotero translators for PROV and Queensland State Archives",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-08-22-11-53-45.png"
+        },
         {
           "id": "http://wragge.micro.blog/2024/08/16/explore-troves-digitised.html",
           "author": null,
