@@ -1172,12 +1172,6 @@
       "articles": []
     },
     {
-      "title": "dhCenter",
-      "feedUrl": "https://dhcenter-unil-epfl.com/feed/",
-      "siteUrl": "https://dhcenter-unil-epfl.ch/en/",
-      "articles": []
-    },
-    {
       "title": "centerNet",
       "feedUrl": "https://dhcenternet.org/rss.xml",
       "siteUrl": "https://dhcenternet.org",
@@ -1268,16 +1262,6 @@
           "publishedOn": "2024-04-03T16:20:29.000Z",
           "wordCount": 3002,
           "title": "DH@Guelph Summer Workshops – tuition support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=8971",
-          "author": "DHN Admin",
-          "description": "The Critical Digital Humanities Initiative (CDHI), a tri-campus research initiative funded by the University of Toronto’s Institutional Strategic Initiatives (ISI) program, is pleased to announce a one month in-person digital […]",
-          "link": "https://dhn.utoronto.ca/digital-storytelling-summer2024/?utm_source=rss&utm_medium=rss&utm_campaign=digital-storytelling-summer2024",
-          "publishedOn": "2024-02-29T21:40:15.000Z",
-          "wordCount": 3568,
-          "title": "Digital Research Storytelling Workshop, May 6-June 3, 2024",
           "imageUrl": null
         }
       ]
@@ -1865,16 +1849,6 @@
           "wordCount": 5886,
           "title": "Ainu Fish Skin Robes and 3D Digital Animation for Sustainable Fashion Production: An Interview with Ana Cordoba Crespo",
           "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/02/final-render-3-copy.png?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12379",
-          "author": "danwojahn",
-          "description": "I want to start with some general questions that many Digital Orientalist contributors will have asked themselves privately or in …",
-          "link": "https://digitalorientalist.com/2024/03/01/low-tech-high-reward-a-report-on-the-workshop-making-the-most-of-digital-humanities-for-tibetan-studies/",
-          "publishedOn": "2024-03-01T13:00:00.000Z",
-          "wordCount": 5515,
-          "title": "Low Tech, High Reward? A Report on the Workshop “Making the Most of Digital Humanities for Tibetan Studies”",
-          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/03/tibetan-typewriter.jpeg?w=1200"
         }
       ]
     },
@@ -2070,6 +2044,16 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1299 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "The annotated diary of Helene Berr\n\n\nProject Start Date: \n\nAugust, 2024\n\n\n\nHelene Berr (1921 – 1945) was a young Jewish woman living in Paris during the Nazi occupation. She recorded her experiences and particularly her community relationships in a diary. This project provides transcriptions and context for some of those diary entries.\nhttps://enmargedujournaldhb.com/\n\n\nWebsite: \n\nEn Marge Du Journal d'Helene Berr\n\n\nPrincipal Investigator(s): \n\nMélanie  Péron\n\n\nInsert an Image: \n\n\n\n\nCo-Investigators: \n\nIris Péron, technical lead\n\n\nProject Principal Investigator: \n\nMélanie  Péron\n\n\nProject Team Heading: \n\nProject Team Members",
+          "link": "https://pricelab.sas.upenn.edu/projects/en-marge-du-journal-dhelene-berr",
+          "publishedOn": "2024-08-27T20:29:59.000Z",
+          "wordCount": 353,
+          "title": "En Marge Du Journal d'Helene Berr",
+          "imageUrl": null
+        },
         {
           "id": "1298 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
@@ -2326,16 +2310,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://radihum20.de/?p=853",
-          "author": "Mareike Schumacher",
-          "description": "In unserer heutigen Folge sprechen wir mit Malte Rehbein, der sowohl die allererste DHd im Jahr 2014 als auch die aktuelle DHd 2024 in Passau initiiert und mit organisiert hat. Dafür haben wir Malte live vor Ort getroffen, uns das Original 2014-Lebkuchenherz-Giveaway der allerersten DHd-Jahreskonferenz zeigen lassen und dabei über die Unterschiede und Gemeinsamkeiten der […]\nDer Beitrag DHd 2014 und 2024: Reflexionen mit RaDiHum20 erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/dhd2014_2024/?utm_source=rss&utm_medium=rss&utm_campaign=dhd2014_2024",
-          "publishedOn": "2024-03-01T12:06:57.000Z",
-          "wordCount": 2692,
-          "title": "DHd 2014 und 2024: Reflexionen mit RaDiHum20",
-          "imageUrl": null
         }
       ]
     },
@@ -2568,6 +2542,16 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=18265",
+          "author": "simsmss",
+          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 454, a scroll of diagrams and text concerning the construction and compartmentalization of European ships, referred to as battleships, all on the recto side. At the top of the scroll is a thin piece of wood andContinue reading \"Manuscript Monday: Penn Library’s LJS 454 – Seiyō senpaku zukai / 西洋舩舶圖解 (Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/08/26/manuscript-monday-penn-librarys-ljs-454-seiyo-senpaku-zukai-%e8%a5%bf%e6%b4%8b%e8%88%a9%e8%88%b6%e5%9c%96%e8%a7%a3-video-orientation/",
+          "publishedOn": "2024-08-26T13:30:30.000Z",
+          "wordCount": 5487,
+          "title": "Manuscript Monday: Penn Library’s LJS 454 – Seiyō senpaku zukai / 西洋舩舶圖解 (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/07/screenshot-2024-07-29-at-9.32.49e280afam.png"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=18261",
           "author": "simsmss",
@@ -2894,16 +2878,6 @@
           "wordCount": 2867,
           "title": "Training: RDM for Humanities and Social Sciences",
           "imageUrl": null
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=2063",
-          "author": "Leah Budke",
-          "description": "Are you a Digital Humanities student or early career researcher in Belgium who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual Discussion…\n\nContinue reading “Webinar Series: DH Virtual Discussion Group for ECRs in Belgium – Spring 2024 Edition”…",
-          "link": "https://scholarlytales.hcommons.org/2024/02/29/webinar-series-dh-virtual-discussion-group-for-ecrs-in-belgium-spring-2024-edition/",
-          "publishedOn": "2024-02-29T08:14:48.000Z",
-          "wordCount": 3340,
-          "title": "Webinar Series: DH Virtual Discussion Group for ECRs in Belgium – Spring 2024 Edition",
-          "imageUrl": null
         }
       ]
     },
@@ -3110,6 +3084,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2024/08/27/join-the-research.html",
+          "author": null,
+          "description": "If you’re interested in opening up GLAM collections for use in research, you might like to join the new Collections as Data Interest Group, part of the Research Data Alliance.\n\r\nAccording to the group description:\nThis group is aimed at collections  professionals such as archivists, librarians, records managers and  museum curators, as well as related professions such as IT  professionals, knowledge scientists, and those involved in standards  development, who serve in a range of critical roles: as experts in  ensuring access, preservation, and reuse of digital records, objects,  data, and collections; as provocateurs for good collections curation  practices; and as advocates for the construction of responsible and  sustainable infrastructures for information sharing.\nThe group has been ru…",
+          "link": "https://updates.timsherratt.org/2024/08/27/join-the-research.html",
+          "publishedOn": "2024-08-27T03:24:10.000Z",
+          "wordCount": 428,
+          "title": "Join the Research Data Alliance's new Collections as Data Interest Group!",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-08-27-13-19-16.png"
+        },
         {
           "id": "http://wragge.micro.blog/2024/08/26/more-datasets-added.html",
           "author": null,
@@ -3682,16 +3666,6 @@
           "wordCount": 445,
           "title": "Heritages of the Polish-Lithuanian Commonwealth in Video Games",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/hap_mochocki_banner.png?itok=fqI85CO3"
-        },
-        {
-          "id": "4955 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The C²DH is hosting the international conference \"Historical arguments and the Digital\" from 25 to 27 June on the university campus in Belval.\nIn 2016, Franco Morretti argued that “somehow digital humanities has managed to secure for itself this endless infancy, in which it is always a future promise.”1 In the years since, little has changed. Whilst there has been exponential growth in the number of resources, tools, and methodological discussions in the digital humanities, there remains limited contribution towards traditional historical narratives implementing these, increasing the apparent gap between DH and traditional history. Terminology in the digital humanities – networks, mapping, modelling – has long been used metaphorically to explore historical phenomenon; yet in digitalizing t…",
-          "link": "https://www.c2dh.uni.lu/events/historical-arguments-and-digital",
-          "publishedOn": "2024-02-29T14:21:27.000Z",
-          "wordCount": 746,
-          "title": "Historical Arguments and the Digital",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/the_bookworm_-_grohmann_museum_web.png?itok=TPcnj6MI"
         }
       ]
     },
