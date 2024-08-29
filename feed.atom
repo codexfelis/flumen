@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-08-28T09:35:14.244Z</updated>
+    <updated>2024-08-29T08:26:49.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The future (and past) of Historic Hansard]]></title>
+        <id>http://wragge.micro.blog/2024/08/29/the-future-and.html</id>
+        <link href="https://updates.timsherratt.org/2024/08/29/the-future-and.html"/>
+        <updated>2024-08-29T03:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Don’t panic! Historic Hansard is not closing down – on the contrary, I’m planning a major update in the next few months. But as I look to the future, I thought it was a good time to pull together a few threads documenting my adventures with Commonwealth Hansard.
+The past
+Commonwealth Hansard is made available online through ParlInfo (there’s an alternative search interface here). The Parliamentary Library has invested a lot of time and effort in  converting the printed volumes into nicely-structured XML files which break up the sitting day into debates and speeches, and identify individual speakers. For the most part, there’s one XML file for each sitting day in each house. However, there’s currently a gap between 1981 and 1997 where no XML files are available.
+I started pulling data out o…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VCEditor 2.0 has received an NEH Digital Humanities Advancement Grant]]></title>
+        <id>http://schoenberginstitute.org/?p=18290</id>
+        <link href="https://schoenberginstitute.org/2024/08/28/vceditor-2-0-has-received-an-neh-digital-humanities-advancement-grant/"/>
+        <updated>2024-08-28T15:00:25.000Z</updated>
+        <summary type="html"><![CDATA[SIMS is thrilled to announce that the VisColl team has received a three-year grant from the National Endowment for the Humanities Digital Humanities Advancement Grants program to fund the VCEditor 2.0 Project. The grant will support work undertaken by staff in the Schoenberg Institute for Manuscript Studies and the Penn Libraries Digital Library Development team.Continue reading "VCEditor 2.0 has received an NEH Digital Humanities Advancement Grant"]]></summary>
+        <author>
+            <name>dotporter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAN: Movimiento Audiovisual en Nuevitas]]></title>
+        <id>1301 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/projects/man-movimiento-audiovisual-en-nuevitas"/>
+        <updated>2024-08-28T14:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Project Start Date: 
+
+August, 2024
+
+
+
+El Movimiento Audiovisual en Nuevitas (MAN) hace referencia a la gestión comunitaria (producción, alfabetización audiovisual, exhibición y distribución) que un grupo de jóvenes viene desarrollando en esta localidad desde el año 2007. Esta iniciativa en principio se encuentra deslindada de la institución política-cultural oficial cubana. Responde al concurso de los esfuerzos de sus integrantes y de los pobladores del municipio. En materia de formación profesional artística el núcleo central proviene de las Escuelas de Instructores de Arte en las especialidades de Teatro, Plástica, Música y Danza. La curva de aprendizaje en materia de realización audiovisual se sustenta en la práctica y participación en talleres, conferencias, cursos, festivales y otras experiencias educativa-formativas. Hasta la fecha se han producido alrededor de 100 materiales entre ficciones, documentales, videos musicales, video arte y carteles. Desde el año 2012 organizan la muestra de audiovisuales Hieroscopia con carácter anual. En ella se exhiben tanto las obras producidas por el MAN como de otros espacios de producción comunitaria en Cuba. El encuentro sirve también para el intercambio teórico sobre la práctica audiovisual aprovechando la presencia de realizadores, críticos, periodistas y en general, personal disímil que se dedica a lo cinematográfico en la isla. Por la constancia en el trabajo, la gestión de espacios para la creación y el debate y la vocación por la superación técnica y estética, el MAN se ha convertido en un foco del audiovisual cubano contemporáneo.
+
+
+Insert an Image: 
+
+
+
+
+Project Principal Investigator: 
+
+Armando   Navarro-Rojas]]></summary>
+        <author>
+            <name>svarner@upenn.edu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Marge Du Journal d'Helene Berr]]></title>
         <id>1299 at https://pricelab.sas.upenn.edu</id>
@@ -54,6 +103,17 @@ Project Team Heading: 
 Project Team Members]]></summary>
         <author>
             <name>svarner@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridging the Gap: Gale Primary Sources and Gale Digital Scholar Lab]]></title>
+        <id>https://review.gale.com/?p=15471</id>
+        <link href="https://review.gale.com/2024/08/27/gale-primary-sources-and-gale-digital-scholar-lab/"/>
+        <updated>2024-08-27T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ This month’s blog post will discuss how to start the work of sourcing research documents in Gale Primary Sources (GPS) archives, before transitioning seamlessly to Gale Digital Scholar Lab to create content sets, clean OCR text data and conduct analyses of this material to answer research questions. ... Read more
+The post Bridging the Gap: Gale Primary Sources and Gale Digital Scholar Lab appeared first on The Gale Review.]]></summary>
+        <author>
+            <name>Gale Review Team</name>
         </author>
     </entry>
     <entry>
