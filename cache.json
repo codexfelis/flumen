@@ -105,16 +105,6 @@
           "wordCount": 609,
           "title": "New ACH Deputy Secretary",
           "imageUrl": null
-        },
-        {
-          "id": "https://ach.org/?p=2640",
-          "author": "Roopika Risam",
-          "description": "We’re please to announce the results of the 2024 ACH elections. We had many excellent candidates who ran for office this year, and we’re grateful to have such an engaged community! Our Vice President(s)/President(s) Elect will be Liz Grumbach and Pamella Lach. They will serve as co-VP from 2024-2026 and co-presidents from 2026-2028. Our newly…Continue reading.",
-          "link": "https://ach.org/blog/2024/03/07/2024-ach-election-results/",
-          "publishedOn": "2024-03-07T12:33:11.000Z",
-          "wordCount": 580,
-          "title": "2024 ACH Election Results",
-          "imageUrl": null
         }
       ]
     },
@@ -230,6 +220,26 @@
       "feedUrl": "https://adho.org/rss.xml",
       "siteUrl": "https://adho.org",
       "articles": [
+        {
+          "id": "https://adho.org/?p=3617",
+          "author": "Nadezhda Povroznik",
+          "description": "One of ADHO’s most visible activities is its annual international conference, usually held in July or August in venues around the world. The Conference Coordinating Committee (CCC) is responsible for developing, improving and maintaining the ADHO Conference Protocol and accompanying guidelines, and coordinating the annual conference. The CCC is overseen by a Chair, a Chair-Elect and an… Read More »Call for Conference Coordinating Committee (CCC) Incoming Chair-Elect",
+          "link": "https://adho.org/2024/09/02/call-for-conference-coordinating-committee-ccc-incoming-chair-elect/",
+          "publishedOn": "2024-09-02T15:04:05.000Z",
+          "wordCount": null,
+          "title": "Call for Conference Coordinating Committee (CCC) Incoming Chair-Elect",
+          "imageUrl": null
+        },
+        {
+          "id": "https://adho.org/?p=3614",
+          "author": "Nadezhda Povroznik",
+          "description": "Purpose: The Treasurer is the financial manager for both ADHO and the ADHO Foundation (ADHO’s legal entity, based in the Netherlands), and is a member of the Executive Board. The Treasurer keeps track of and reports on the budget and advises the Executive and Constituent Organization Boards about financial decisions. The Deputy Treasurer advises and… Read More »Call for ADHO Deputy Treasurer (Incoming)",
+          "link": "https://adho.org/2024/09/02/call-for-adho-deputy-treasurer-incoming/",
+          "publishedOn": "2024-09-02T15:00:20.000Z",
+          "wordCount": null,
+          "title": "Call for ADHO Deputy Treasurer (Incoming)",
+          "imageUrl": null
+        },
         {
           "id": "https://adho.org/?p=3579",
           "author": "Alexandra Núñez",
@@ -1277,6 +1287,16 @@
       "feedUrl": "https://dig-hum.de/aktuelles/feed",
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
+        {
+          "id": "node/961",
+          "author": "434",
+          "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…",
+          "link": "https://dig-hum.de/aktuelles/call-for-hosts-dhd-2027",
+          "publishedOn": "2024-09-02T12:04:32.000Z",
+          "wordCount": 1441,
+          "title": "Call for Hosts DHd 2027",
+          "imageUrl": null
+        },
         {
           "id": "node/960",
           "author": "434",
@@ -2522,6 +2542,16 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=18292",
+          "author": "dotporter",
+          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 455, two treatises on alchemy. Probably written in Egypt, ca. 1400, based on the paper. Digital copies and a full record are available through Find.Record on Internet Archive, with a link to a PDF.",
+          "link": "https://schoenberginstitute.org/2024/09/02/manuscript-monday-penn-librarys-ljs-455-fawa%ca%bcid-al-%e1%b8%a5abib-zinjar-al-%e1%b8%a5ukama%ca%bc-video-orientation/",
+          "publishedOn": "2024-09-02T13:06:47.000Z",
+          "wordCount": 5393,
+          "title": "Manuscript Monday: Penn Library’s LJS 455 – Fawāʼid al-ḥabīb. Zinjār al-ḥukamāʼ (Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/08/screenshot-2024-08-27-at-9.09.32e280afam-1.png?w=1200"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=18290",
           "author": "dotporter",
@@ -5107,16 +5137,6 @@
           "wordCount": 1502,
           "title": "New DRI Member Case Study – Royal Irish Academy Publications",
           "imageUrl": "https://dri.ie/app/uploads/2024/03/coffee-3.png"
-        },
-        {
-          "id": "https://dri.ie/?post_type=news&p=24167",
-          "author": "Aine Madden",
-          "description": "The Digital Repository of Ireland (DRI) is supporting researchers to preserve their research data for long-term access and discovery through the Legacy Research Collection Deposit Pilot Scheme, run in collaboration with the Irish Data Stewardship Network (Sonraí). This Scheme offers researchers a route to deposit their research data for free in DRI’s CoreTrustSeal-certified trustworthy digital […]\nThe post Questions About the Legacy Data Preservation Pilot appeared first on Digital Repository Ireland.",
-          "link": "https://dri.ie/news/questions-about-the-legacy-data-preservation-pilot/",
-          "publishedOn": "2024-03-07T15:04:24.000Z",
-          "wordCount": 2191,
-          "title": "Questions About the Legacy Data Preservation Pilot",
-          "imageUrl": "https://dri.ie/app/uploads/2024/02/Pilot.jpg"
         }
       ]
     },
