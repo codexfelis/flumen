@@ -1839,16 +1839,6 @@
           "wordCount": 4450,
           "title": "The Shang Dynasty Has An Unexpected Ally: AI",
           "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/02/screenshot-2024-02-03-at-5.03.28e280afpm.png?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12478",
-          "author": "Agnes Sung",
-          "description": "In Part One, we explored how digital technology has transformed Silk Road archaeology through the digitization of archaeological sites and …",
-          "link": "https://digitalorientalist.com/2024/03/08/the-age-of-digital-technology-silk-road-archaeological-sites-and-artefacts-part-2/",
-          "publishedOn": "2024-03-08T14:00:00.000Z",
-          "wordCount": 5019,
-          "title": "The Age of Digital Technology: Silk Road Archaeological Sites and Artefacts (Part 2)",
-          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/02/screenshot-2024-02-21-at-9.37.21e280afpm.png?w=1200"
         }
       ]
     },
@@ -2024,6 +2014,16 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1302 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Academic Title: \n\nProfessor of History, West Chester University\n \n\n\n\nJanneken Smucker is Professor of History at West Chester University, specializing in digital and public history and material culture. In the classroom, she integrates technology and the humanities, working with students to create digital projects, including the award-winning Goin’ North: Stories from the First Great Migration to Philadelphia and Philadelphia Immigration. Janneken also consults on digital and interpretive projects for non-profits and museums and leads workshops on digital tools and strategies. Author of Amish Quilts: Crafting an American Icon (Johns Hopkins, 2013), Janneken lectures and writes about quilts for popular and academic audiences. Her recent book, A New Deal for Quilts, explores the ways the federal programs combating the Great Depression drew on quilts and quiltmaking as part of their relief and public relation efforts. The former co-editor of the Oral History Association’s journal, Oral History Review, she hosts and co-produces Running Stitch: A QSOS Podcast, drawing on oral histories with contemporary quiltmakers.\n\n\nFellowship Date: \n\nSeptember, 2024—June, 2025",
+          "link": "https://pricelab.sas.upenn.edu/fellows/smucker-janneken",
+          "publishedOn": "2024-09-03T18:10:55.000Z",
+          "wordCount": 433,
+          "title": "Janneken   Smucker",
+          "imageUrl": null
+        },
         {
           "id": "1301 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
@@ -2395,6 +2395,16 @@
       "feedUrl": "https://review.gale.com/category/digital-humanities/feed",
       "siteUrl": "https://review.gale.com",
       "articles": [
+        {
+          "id": "https://review.gale.com/?p=15498",
+          "author": "Gale Review Team",
+          "description": "│By Alan Thomas, AI Research Engineer at the Centre for Machine Intelligence, University of Sheffield│ Poor optical character recognition (OCR) quality is a major obstacle for humanities scholars seeking to make use of digitised primary sources such as historical newspapers. To improve the quality of noisily OCR’d historical documents, we introduce BLN600 – an open-access ... Read more",
+          "link": "https://review.gale.com/2024/09/03/using-large-language-models-for-post-ocr-correction/",
+          "publishedOn": "2024-09-03T09:27:21.000Z",
+          "wordCount": 2451,
+          "title": "Leveraging Large Language Models for Post-OCR Correction of Nineteenth-Century British Newspapers",
+          "imageUrl": null
+        },
         {
           "id": "https://review.gale.com/?p=15471",
           "author": "Gale Review Team",
@@ -5765,86 +5775,6 @@
           "publishedOn": "2024-03-21T19:37:36.000Z",
           "wordCount": null,
           "title": "JOB: Data Librarian (University of Nevada, Las Vegas)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=152243",
-          "author": "John Russell",
-          "description": "The Digital Preservation Coalition has made freely-available online Preserving Geospatial Data, written by Meagan A. Snow, Geospatial Data Visualization Librarian at the Geography & Map Division of the Library of Congress: This report is designed as a resource for use by librarians, archivists, and digital preservation specialists who may be new to the realm of ...read more",
-          "link": "https://dhandlib.org/2024/03/07/recommended-preserving-geospatial-data-dpc-technology-watch-report/?utm_source=rss&utm_medium=rss&utm_campaign=recommended-preserving-geospatial-data-dpc-technology-watch-report",
-          "publishedOn": "2024-03-08T01:47:14.000Z",
-          "wordCount": null,
-          "title": "RECOMMENDED: Preserving Geospatial Data: DPC Technology Watch Report",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=152245",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "The Journal of Interactive Technology and Pedagogy (JITP) invites submissions for a special issue on, “Digital Humanities: Labor, Political Economy and Activism in the Age of Digital Mediation.”  From the call: We are all digital humanists now: we are all interpellated as users of platforms, workers in the marketized university, subjects to a changing political ...read more",
-          "link": "https://dhandlib.org/2024/03/07/cfp-digital-humanities-labor-political-economy-and-activism-in-the-age-of-digital-mediation/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-digital-humanities-labor-political-economy-and-activism-in-the-age-of-digital-mediation",
-          "publishedOn": "2024-03-08T01:46:31.000Z",
-          "wordCount": null,
-          "title": "CFP: Digital Humanities: Labor, Political Economy and Activism in the Age of Digital Mediation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=152251",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "This year, the Florida Digital Humanities Consortium (FLDH) is celebrating its ten year anniversary, and hosting its annual event on 20 September 2024, at the University of Central Florida in Orlando, Florida, entitled, “Humanities in the Age of AI: Celebrating a Decade of Innovation.” From the call: This conference will focus on exploring the intricate ...read more",
-          "link": "https://dhandlib.org/2024/03/07/cfp-humanities-in-the-age-of-ai-celebrating-a-decade-of-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-humanities-in-the-age-of-ai-celebrating-a-decade-of-innovation",
-          "publishedOn": "2024-03-08T01:45:52.000Z",
-          "wordCount": 3158,
-          "title": "CFP: Humanities in the Age of AI: Celebrating a Decade of Innovation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=152248",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "The annual Text Encoding Initiative conference, TEI 2024, is set for 7–11 October 2024 in-person at Universidad del Salvador in Buenos Aires, Argentina and the organizers invite submissions for papers, posters, panels, demos, and workshops. This event, marking the Text Encoding Initiative’s twenty-fourth conference, is themed around, “Texts, Languages, and Communities,” which encourages contributions that ...read more",
-          "link": "https://dhandlib.org/2024/03/07/cfp-tei-2024-texts-languages-and-communities/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-tei-2024-texts-languages-and-communities",
-          "publishedOn": "2024-03-08T01:44:23.000Z",
-          "wordCount": 3162,
-          "title": "CFP: TEI 2024: Texts, Languages, and Communities",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=152253",
-          "author": "Nickoal Eichmann-Kalwara",
-          "description": "Throughout the month of March, the Alan Turing Institute is hosting AI UK Fringe 2024, a series of in-person and online events including talks and workshops exploring artificial intelligence. Topics relate directly to our work in library and information science, digital humanities, and data pedagogy. Here is a sample of events likely of interest to ...read more",
-          "link": "https://dhandlib.org/2024/03/07/event-ai-uk-fringe-2024-alan-turing-institute/?utm_source=rss&utm_medium=rss&utm_campaign=event-ai-uk-fringe-2024-alan-turing-institute",
-          "publishedOn": "2024-03-08T01:43:39.000Z",
-          "wordCount": null,
-          "title": "EVENT: AI UK Fringe 2024, Alan Turing Institute",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=152241",
-          "author": "John Russell",
-          "description": "From the announcement: Summary The Digital Scholarship Specialist partners with students, faculty, staff, and librarians to enhance learning, teaching, and scholarship through technologies and knowledge of emerging digital research methods across departments. You will join a network of functional and subject experts, contributing to the evolution of digital scholarship and consultation services at the University ...read more",
-          "link": "https://dhandlib.org/2024/03/07/job-digital-scholarship-specialist-university-of-michigan/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-scholarship-specialist-university-of-michigan",
-          "publishedOn": "2024-03-08T01:38:10.000Z",
-          "wordCount": null,
-          "title": "JOB: Digital Scholarship Specialist (University of Michigan)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=152233",
-          "author": "John Russell",
-          "description": "From the announcement: ROLE TITLE:  Research & Digital Humanities Librarian REPORTS TO: Dean of the Library — Summary of Position The Research & Digital Humanities Librarian provides research guidance, information literacy instruction, and digital technologies collaboration and support for faculty, academic staff and students through the lenses of the Library, the Center for Research and ...read more",
-          "link": "https://dhandlib.org/2024/03/07/job-research-digital-humanities-librarian-allegheny-college/?utm_source=rss&utm_medium=rss&utm_campaign=job-research-digital-humanities-librarian-allegheny-college",
-          "publishedOn": "2024-03-08T01:37:26.000Z",
-          "wordCount": null,
-          "title": "JOB: Research & Digital Humanities Librarian (Allegheny College)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=152239",
-          "author": "John Russell",
-          "description": "From the announcement: Position overview Salary range: Salary commensurate with qualifications and experience based on the University of California pay scales. Appointment is anticipated to be at the Assistant or Associate Librarian rank with a salary of $61,920 – $92,345. The posted UC salary scales set the minimum pay determined by rank and salary point ...read more",
-          "link": "https://dhandlib.org/2024/03/07/job-digital-scholarship-librarian-uc-irvine/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-scholarship-librarian-uc-irvine",
-          "publishedOn": "2024-03-08T01:36:29.000Z",
-          "wordCount": null,
-          "title": "JOB: Digital Scholarship Librarian (UC Irvine)",
           "imageUrl": null
         }
       ]

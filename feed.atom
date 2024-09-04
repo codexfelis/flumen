@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-09-03T08:26:50.125Z</updated>
+    <updated>2024-09-04T08:26:17.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Janneken   Smucker]]></title>
+        <id>1302 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/fellows/smucker-janneken"/>
+        <updated>2024-09-03T18:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Academic Title: 
+
+Professor of History, West Chester University
+ 
+
+
+
+Janneken Smucker is Professor of History at West Chester University, specializing in digital and public history and material culture. In the classroom, she integrates technology and the humanities, working with students to create digital projects, including the award-winning Goin’ North: Stories from the First Great Migration to Philadelphia and Philadelphia Immigration. Janneken also consults on digital and interpretive projects for non-profits and museums and leads workshops on digital tools and strategies. Author of Amish Quilts: Crafting an American Icon (Johns Hopkins, 2013), Janneken lectures and writes about quilts for popular and academic audiences. Her recent book, A New Deal for Quilts, explores the ways the federal programs combating the Great Depression drew on quilts and quiltmaking as part of their relief and public relation efforts. The former co-editor of the Oral History Association’s journal, Oral History Review, she hosts and co-produces Running Stitch: A QSOS Podcast, drawing on oral histories with contemporary quiltmakers.
+
+
+Fellowship Date: 
+
+September, 2024—June, 2025]]></summary>
+        <author>
+            <name>svarner@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging Large Language Models for Post-OCR Correction of Nineteenth-Century British Newspapers]]></title>
+        <id>https://review.gale.com/?p=15498</id>
+        <link href="https://review.gale.com/2024/09/03/using-large-language-models-for-post-ocr-correction/"/>
+        <updated>2024-09-03T09:27:21.000Z</updated>
+        <summary type="html"><![CDATA[│By Alan Thomas, AI Research Engineer at the Centre for Machine Intelligence, University of Sheffield│ Poor optical character recognition (OCR) quality is a major obstacle for humanities scholars seeking to make use of digitised primary sources such as historical newspapers. To improve the quality of noisily OCR’d historical documents, we introduce BLN600 – an open-access ... Read more]]></summary>
+        <author>
+            <name>Gale Review Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call for Conference Coordinating Committee (CCC) Incoming Chair-Elect]]></title>
         <id>https://adho.org/?p=3617</id>
@@ -6928,16 +6960,6 @@ to commence immediately or by agreement. The incumbent will be…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Age of Digital Technology: Silk Road Archaeological Sites and Artefacts (Part 2)]]></title>
-        <id>http://digitalorientalist.com/?p=12478</id>
-        <link href="https://digitalorientalist.com/2024/03/08/the-age-of-digital-technology-silk-road-archaeological-sites-and-artefacts-part-2/"/>
-        <updated>2024-03-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In Part One, we explored how digital technology has transformed Silk Road archaeology through the digitization of archaeological sites and …]]></summary>
-        <author>
-            <name>Agnes Sung</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DH Teaching Forum]]></title>
         <id>https://www.cdh.cam.ac.uk/events/37114/</id>
         <link href="https://www.cdh.cam.ac.uk/events/37114/"/>
@@ -6958,41 +6980,11 @@ to commence immediately or by agreement. The incumbent will be…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RECOMMENDED: Preserving Geospatial Data: DPC Technology Watch Report]]></title>
-        <id>https://dhandlib.org/?p=152243</id>
-        <link href="https://dhandlib.org/2024/03/07/recommended-preserving-geospatial-data-dpc-technology-watch-report/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recommended-preserving-geospatial-data-dpc-technology-watch-report"/>
-        <updated>2024-03-08T01:47:14.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Preservation Coalition has made freely-available online Preserving Geospatial Data, written by Meagan A. Snow, Geospatial Data Visualization Librarian at the Geography & Map Division of the Library of Congress: This report is designed as a resource for use by librarians, archivists, and digital preservation specialists who may be new to the realm of ...read more]]></summary>
-        <author>
-            <name>John Russell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CFP: Digital Humanities: Labor, Political Economy and Activism in the Age of Digital Mediation]]></title>
         <id>https://dhandlib.org/?p=152245</id>
         <link href="https://dhandlib.org/2024/03/07/cfp-digital-humanities-labor-political-economy-and-activism-in-the-age-of-digital-mediation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-digital-humanities-labor-political-economy-and-activism-in-the-age-of-digital-mediation"/>
         <updated>2024-03-08T01:46:31.000Z</updated>
         <summary type="html"><![CDATA[The Journal of Interactive Technology and Pedagogy (JITP) invites submissions for a special issue on, “Digital Humanities: Labor, Political Economy and Activism in the Age of Digital Mediation.”  From the call: We are all digital humanists now: we are all interpellated as users of platforms, workers in the marketized university, subjects to a changing political ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Digital Humanities: Labor, Political Economy and Activism in the Age of Digital Mediation]]></title>
-        <id>https://dhandlib.org/?p=152245</id>
-        <link href="https://dhandlib.org/2024/03/07/cfp-digital-humanities-labor-political-economy-and-activism-in-the-age-of-digital-mediation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-digital-humanities-labor-political-economy-and-activism-in-the-age-of-digital-mediation"/>
-        <updated>2024-03-08T01:46:31.000Z</updated>
-        <summary type="html"><![CDATA[The Journal of Interactive Technology and Pedagogy (JITP) invites submissions for a special issue on, “Digital Humanities: Labor, Political Economy and Activism in the Age of Digital Mediation.”  From the call: We are all digital humanists now: we are all interpellated as users of platforms, workers in the marketized university, subjects to a changing political ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Humanities in the Age of AI: Celebrating a Decade of Innovation]]></title>
-        <id>https://dhandlib.org/?p=152251</id>
-        <link href="https://dhandlib.org/2024/03/07/cfp-humanities-in-the-age-of-ai-celebrating-a-decade-of-innovation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-humanities-in-the-age-of-ai-celebrating-a-decade-of-innovation"/>
-        <updated>2024-03-08T01:45:52.000Z</updated>
-        <summary type="html"><![CDATA[This year, the Florida Digital Humanities Consortium (FLDH) is celebrating its ten year anniversary, and hosting its annual event on 20 September 2024, at the University of Central Florida in Orlando, Florida, entitled, “Humanities in the Age of AI: Celebrating a Decade of Innovation.” From the call: This conference will focus on exploring the intricate ...read more]]></summary>
         <author>
             <name>Nickoal Eichmann-Kalwara</name>
         </author>
@@ -7018,26 +7010,6 @@ to commence immediately or by agreement. The incumbent will be…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CFP: TEI 2024: Texts, Languages, and Communities]]></title>
-        <id>https://dhandlib.org/?p=152248</id>
-        <link href="https://dhandlib.org/2024/03/07/cfp-tei-2024-texts-languages-and-communities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-tei-2024-texts-languages-and-communities"/>
-        <updated>2024-03-08T01:44:23.000Z</updated>
-        <summary type="html"><![CDATA[The annual Text Encoding Initiative conference, TEI 2024, is set for 7–11 October 2024 in-person at Universidad del Salvador in Buenos Aires, Argentina and the organizers invite submissions for papers, posters, panels, demos, and workshops. This event, marking the Text Encoding Initiative’s twenty-fourth conference, is themed around, “Texts, Languages, and Communities,” which encourages contributions that ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: AI UK Fringe 2024, Alan Turing Institute]]></title>
-        <id>https://dhandlib.org/?p=152253</id>
-        <link href="https://dhandlib.org/2024/03/07/event-ai-uk-fringe-2024-alan-turing-institute/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-ai-uk-fringe-2024-alan-turing-institute"/>
-        <updated>2024-03-08T01:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Throughout the month of March, the Alan Turing Institute is hosting AI UK Fringe 2024, a series of in-person and online events including talks and workshops exploring artificial intelligence. Topics relate directly to our work in library and information science, digital humanities, and data pedagogy. Here is a sample of events likely of interest to ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EVENT: AI UK Fringe 2024, Alan Turing Institute]]></title>
         <id>https://dhandlib.org/?p=152253</id>
         <link href="https://dhandlib.org/2024/03/07/event-ai-uk-fringe-2024-alan-turing-institute/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-ai-uk-fringe-2024-alan-turing-institute"/>
@@ -7058,41 +7030,11 @@ to commence immediately or by agreement. The incumbent will be…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JOB: Digital Scholarship Specialist (University of Michigan)]]></title>
-        <id>https://dhandlib.org/?p=152241</id>
-        <link href="https://dhandlib.org/2024/03/07/job-digital-scholarship-specialist-university-of-michigan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-specialist-university-of-michigan"/>
-        <updated>2024-03-08T01:38:10.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: Summary The Digital Scholarship Specialist partners with students, faculty, staff, and librarians to enhance learning, teaching, and scholarship through technologies and knowledge of emerging digital research methods across departments. You will join a network of functional and subject experts, contributing to the evolution of digital scholarship and consultation services at the University ...read more]]></summary>
-        <author>
-            <name>John Russell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JOB: Research & Digital Humanities Librarian (Allegheny College)]]></title>
         <id>https://dhandlib.org/?p=152233</id>
         <link href="https://dhandlib.org/2024/03/07/job-research-digital-humanities-librarian-allegheny-college/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-research-digital-humanities-librarian-allegheny-college"/>
         <updated>2024-03-08T01:37:26.000Z</updated>
         <summary type="html"><![CDATA[From the announcement: ROLE TITLE:  Research & Digital Humanities Librarian REPORTS TO: Dean of the Library — Summary of Position The Research & Digital Humanities Librarian provides research guidance, information literacy instruction, and digital technologies collaboration and support for faculty, academic staff and students through the lenses of the Library, the Center for Research and ...read more]]></summary>
-        <author>
-            <name>John Russell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Research & Digital Humanities Librarian (Allegheny College)]]></title>
-        <id>https://dhandlib.org/?p=152233</id>
-        <link href="https://dhandlib.org/2024/03/07/job-research-digital-humanities-librarian-allegheny-college/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-research-digital-humanities-librarian-allegheny-college"/>
-        <updated>2024-03-08T01:37:26.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: ROLE TITLE:  Research & Digital Humanities Librarian REPORTS TO: Dean of the Library — Summary of Position The Research & Digital Humanities Librarian provides research guidance, information literacy instruction, and digital technologies collaboration and support for faculty, academic staff and students through the lenses of the Library, the Center for Research and ...read more]]></summary>
-        <author>
-            <name>John Russell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Digital Scholarship Librarian (UC Irvine)]]></title>
-        <id>https://dhandlib.org/?p=152239</id>
-        <link href="https://dhandlib.org/2024/03/07/job-digital-scholarship-librarian-uc-irvine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-librarian-uc-irvine"/>
-        <updated>2024-03-08T01:36:29.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: Position overview Salary range: Salary commensurate with qualifications and experience based on the University of California pay scales. Appointment is anticipated to be at the Assistant or Associate Librarian rank with a salary of $61,920 – $92,345. The posted UC salary scales set the minimum pay determined by rank and salary point ...read more]]></summary>
         <author>
             <name>John Russell</name>
         </author>
