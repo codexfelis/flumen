@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-09-04T08:26:17.237Z</updated>
+    <updated>2024-09-05T08:27:08.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Diversity in  Data Graduate Specialist Position]]></title>
+        <id>https://dh.rutgers.edu/?p=78164</id>
+        <link href="https://dh.rutgers.edu/diversity-in-data-grad-specialist/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=diversity-in-data-grad-specialist"/>
+        <updated>2024-09-04T16:49:44.000Z</updated>
+        <summary type="html"><![CDATA[As part of its Graduate Specialist program, the Rutgers New Brunswick Libraries seek a Diversity in Data Graduate Specialist to investigate issues of diversity relating to data science and statistical data and present on their findings to the Rutgers Community. It is expected that the Diversity in Data Graduate Specialist will develop and deliver presentations and workshops and be available for consultation on their areas of expertise. For Fall 2024, this work will be primarily online.  It is anticipated that the specialist will work approximately five hours per week on their topics with the aim of presenting open presentations and workshops on their findings and make available]]></summary>
+        <author>
+            <name>Francesca Giannetti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Janneken   Smucker]]></title>
         <id>1302 at https://pricelab.sas.upenn.edu</id>
@@ -6950,16 +6960,6 @@ to commence immediately or by agreement. The incumbent will be…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New ACH Deputy Secretary]]></title>
-        <id>https://ach.org/?p=2556</id>
-        <link href="https://ach.org/blog/2024/03/09/new-ach-deputy-secretary/"/>
-        <updated>2024-03-09T12:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Welcome our new Deputy Secretary/Secretary, Claudia Berger! Claudia Berger (they/she) is the Digital Humanities Librarian at Sarah Lawrence College and Visiting Assistant Professor at Pratt Institute teaching digital humanities in the School of Information. Their research centers around critical making in digital humanities research and digital environmental humanities. They also serve as an editor of dh+lib. When not doing…Continue reading.]]></summary>
-        <author>
-            <name>jwoowinter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DH Teaching Forum]]></title>
         <id>https://www.cdh.cam.ac.uk/events/37114/</id>
         <link href="https://www.cdh.cam.ac.uk/events/37114/"/>
@@ -6967,86 +6967,6 @@ to commence immediately or by agreement. The incumbent will be…]]></summary>
         <summary type="html"><![CDATA[Our termly online DH Teaching Forum is open to anyone at the University of Cambridge interested in teaching Digital Humanities or teaching the Humanities (and Social Sciences) digitally. They provide an informal space for peer learning and networking, skill sharing and discussion, and short invited talks and presentations on topics the group decides. This term's]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RECOMMENDED: Preserving Geospatial Data: DPC Technology Watch Report]]></title>
-        <id>https://dhandlib.org/?p=152243</id>
-        <link href="https://dhandlib.org/2024/03/07/recommended-preserving-geospatial-data-dpc-technology-watch-report/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=recommended-preserving-geospatial-data-dpc-technology-watch-report"/>
-        <updated>2024-03-08T01:47:14.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Preservation Coalition has made freely-available online Preserving Geospatial Data, written by Meagan A. Snow, Geospatial Data Visualization Librarian at the Geography & Map Division of the Library of Congress: This report is designed as a resource for use by librarians, archivists, and digital preservation specialists who may be new to the realm of ...read more]]></summary>
-        <author>
-            <name>John Russell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Digital Humanities: Labor, Political Economy and Activism in the Age of Digital Mediation]]></title>
-        <id>https://dhandlib.org/?p=152245</id>
-        <link href="https://dhandlib.org/2024/03/07/cfp-digital-humanities-labor-political-economy-and-activism-in-the-age-of-digital-mediation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-digital-humanities-labor-political-economy-and-activism-in-the-age-of-digital-mediation"/>
-        <updated>2024-03-08T01:46:31.000Z</updated>
-        <summary type="html"><![CDATA[The Journal of Interactive Technology and Pedagogy (JITP) invites submissions for a special issue on, “Digital Humanities: Labor, Political Economy and Activism in the Age of Digital Mediation.”  From the call: We are all digital humanists now: we are all interpellated as users of platforms, workers in the marketized university, subjects to a changing political ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: Humanities in the Age of AI: Celebrating a Decade of Innovation]]></title>
-        <id>https://dhandlib.org/?p=152251</id>
-        <link href="https://dhandlib.org/2024/03/07/cfp-humanities-in-the-age-of-ai-celebrating-a-decade-of-innovation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-humanities-in-the-age-of-ai-celebrating-a-decade-of-innovation"/>
-        <updated>2024-03-08T01:45:52.000Z</updated>
-        <summary type="html"><![CDATA[This year, the Florida Digital Humanities Consortium (FLDH) is celebrating its ten year anniversary, and hosting its annual event on 20 September 2024, at the University of Central Florida in Orlando, Florida, entitled, “Humanities in the Age of AI: Celebrating a Decade of Innovation.” From the call: This conference will focus on exploring the intricate ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFP: TEI 2024: Texts, Languages, and Communities]]></title>
-        <id>https://dhandlib.org/?p=152248</id>
-        <link href="https://dhandlib.org/2024/03/07/cfp-tei-2024-texts-languages-and-communities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-tei-2024-texts-languages-and-communities"/>
-        <updated>2024-03-08T01:44:23.000Z</updated>
-        <summary type="html"><![CDATA[The annual Text Encoding Initiative conference, TEI 2024, is set for 7–11 October 2024 in-person at Universidad del Salvador in Buenos Aires, Argentina and the organizers invite submissions for papers, posters, panels, demos, and workshops. This event, marking the Text Encoding Initiative’s twenty-fourth conference, is themed around, “Texts, Languages, and Communities,” which encourages contributions that ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVENT: AI UK Fringe 2024, Alan Turing Institute]]></title>
-        <id>https://dhandlib.org/?p=152253</id>
-        <link href="https://dhandlib.org/2024/03/07/event-ai-uk-fringe-2024-alan-turing-institute/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-ai-uk-fringe-2024-alan-turing-institute"/>
-        <updated>2024-03-08T01:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Throughout the month of March, the Alan Turing Institute is hosting AI UK Fringe 2024, a series of in-person and online events including talks and workshops exploring artificial intelligence. Topics relate directly to our work in library and information science, digital humanities, and data pedagogy. Here is a sample of events likely of interest to ...read more]]></summary>
-        <author>
-            <name>Nickoal Eichmann-Kalwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Digital Scholarship Specialist (University of Michigan)]]></title>
-        <id>https://dhandlib.org/?p=152241</id>
-        <link href="https://dhandlib.org/2024/03/07/job-digital-scholarship-specialist-university-of-michigan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-specialist-university-of-michigan"/>
-        <updated>2024-03-08T01:38:10.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: Summary The Digital Scholarship Specialist partners with students, faculty, staff, and librarians to enhance learning, teaching, and scholarship through technologies and knowledge of emerging digital research methods across departments. You will join a network of functional and subject experts, contributing to the evolution of digital scholarship and consultation services at the University ...read more]]></summary>
-        <author>
-            <name>John Russell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Research & Digital Humanities Librarian (Allegheny College)]]></title>
-        <id>https://dhandlib.org/?p=152233</id>
-        <link href="https://dhandlib.org/2024/03/07/job-research-digital-humanities-librarian-allegheny-college/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-research-digital-humanities-librarian-allegheny-college"/>
-        <updated>2024-03-08T01:37:26.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: ROLE TITLE:  Research & Digital Humanities Librarian REPORTS TO: Dean of the Library — Summary of Position The Research & Digital Humanities Librarian provides research guidance, information literacy instruction, and digital technologies collaboration and support for faculty, academic staff and students through the lenses of the Library, the Center for Research and ...read more]]></summary>
-        <author>
-            <name>John Russell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JOB: Digital Scholarship Librarian (UC Irvine)]]></title>
-        <id>https://dhandlib.org/?p=152239</id>
-        <link href="https://dhandlib.org/2024/03/07/job-digital-scholarship-librarian-uc-irvine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-librarian-uc-irvine"/>
-        <updated>2024-03-08T01:36:29.000Z</updated>
-        <summary type="html"><![CDATA[From the announcement: Position overview Salary range: Salary commensurate with qualifications and experience based on the University of California pay scales. Appointment is anticipated to be at the Assistant or Associate Librarian rank with a salary of $61,920 – $92,345. The posted UC salary scales set the minimum pay determined by rank and salary point ...read more]]></summary>
-        <author>
-            <name>John Russell</name>
         </author>
     </entry>
     <entry>
