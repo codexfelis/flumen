@@ -1411,6 +1411,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12975",
+          "author": "soniwadhwa",
+          "description": "With recent advancements in AI, including developments by Sarvam AI and Hanooman AI, creating a lot of hype around large …",
+          "link": "https://digitalorientalist.com/2024/09/10/ai-and-indian-languages-wishful-thinking/",
+          "publishedOn": "2024-09-10T13:00:00.000Z",
+          "wordCount": 5031,
+          "title": "AI and Indian Languages: Wishful Thinking?",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/08/do_coverimage-transformed.jpeg"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=13230",
           "author": "The Digital Orientalist",
           "description": "It has been another busy and exciting year for The Digital Orientalist. Our 10th anniversary was a special occasion, marked …",
@@ -1689,16 +1699,6 @@
           "wordCount": 4183,
           "title": "Introduction to Programming with Chinese",
           "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/02/code.png?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12432",
-          "author": "Zach Butler",
-          "description": "Introduction In my last few posts, I explored how Python could be used to do some codicological analysis of manuscripts …",
-          "link": "https://digitalorientalist.com/2024/03/15/criticus-a-tool-to-move-from-transcription-to-collation/",
-          "publishedOn": "2024-03-15T13:00:00.000Z",
-          "wordCount": 5309,
-          "title": "Criticus: A tool to move from transcription to collation",
-          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/03/criticus.png"
         }
       ]
     },
@@ -2012,26 +2012,6 @@
           "publishedOn": "2024-03-26T17:02:32.000Z",
           "wordCount": 287,
           "title": "Alex  Gil",
-          "imageUrl": null
-        },
-        {
-          "id": "1281 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Monday, June 10, 2024 - 9:00am—Thursday, June 13, 2024 - 5:00pm\n\n\n\nUniversity of Pennsylvania\n\n\n\nDream Lab is a week-long digital humanities training opportunity hosted by the University of Pennsylvania and designed to help humanists become more confident and thoughtful users, creators, and critics of digital technology. There are several courses to choose from, each of which combines technology instruction with practical application. Dream Lab is open to everyone but has been designed especially to serve early-stage scholars aspiring to be teaching faculty, research librarians, and archivists.\nVisit the Dream Lab Website to learn more about the courses we’ll be offering in summer 2024. Click on the Eventbrite link on top of the course page to register.\nFeel free to reach out to the Price Lab with any questions: price-lab@sas.upenn.edu\nDream Lab is organized by the Price Lab for Digital Humanities and the Penn Libraries.\n \n\n\nSubtitle: \n\nA week long digital humanities training institute\n\n\nImage for Left Column:",
-          "link": "https://pricelab.sas.upenn.edu/events/dream-lab",
-          "publishedOn": "2024-03-15T14:18:01.000Z",
-          "wordCount": 417,
-          "title": "Dream Lab",
-          "imageUrl": null
-        },
-        {
-          "id": "1280 at https://pricelab.sas.upenn.edu",
-          "author": "jenglish@upenn.edu",
-          "description": "Friday, April 5, 2024 (All day)—Sunday, April 7, 2024 (All day)\n\n\n\n \n\n\n\nAn International Symposium at the Price Lab for Digital Humanities, co-organized with the Section for Sociology of Literature, Uppsala University.\nThis symposium marks the rise in recent years of empirical reader studies: data-driven research into what, why, and how people read. The full emergence of this field has been a long time coming.  Literary scholars have never shown much interest in conducting empirical study of contemporary reading practices among ordinary, non-professional, non-academic people.  Janice Radway’s Reading the Romance (1984) is the glaring exception that proves the rule.  By far the most widely-cited study of amateur literary readers, Radway’s book has been more influential for its findings abou…",
-          "link": "https://pricelab.sas.upenn.edu/reader-studies-digital-age",
-          "publishedOn": "2024-03-15T12:23:37.000Z",
-          "wordCount": 808,
-          "title": "Reader Studies in the Digital Age",
           "imageUrl": null
         }
       ]

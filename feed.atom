@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-09-10T08:27:10.001Z</updated>
+    <updated>2024-09-11T08:28:19.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI and Indian Languages: Wishful Thinking?]]></title>
+        <id>http://digitalorientalist.com/?p=12975</id>
+        <link href="https://digitalorientalist.com/2024/09/10/ai-and-indian-languages-wishful-thinking/"/>
+        <updated>2024-09-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With recent advancements in AI, including developments by Sarvam AI and Hanooman AI, creating a lot of hype around large …]]></summary>
+        <author>
+            <name>soniwadhwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manuscript Monday: Penn Library’s LJS 456 – [Kitāb al-Siyāsah fī tadbīr al-riyāsah]. (Video Orientation)]]></title>
         <id>http://schoenberginstitute.org/?p=18303</id>
@@ -6703,65 +6713,6 @@ DHJewish conference Potsdam 2024]]></summary>
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 425, a treatise on music or melody, adapted by the Persian scribe Ruhbānī from a treatise written for the Sultan Maḥmūd of the Bahamanids, a Deccani dynasty. The final pages in Hindi use Sanskrit terms and includeContinue reading "Manuscript Monday: LJS 425 – Risālah-i Tawḍīḥ al-alḥān. = رساله توضيح الالحان. (Video Orientation)"]]></summary>
         <author>
             <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream Lab]]></title>
-        <id>1281 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/events/dream-lab"/>
-        <updated>2024-03-15T14:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Monday, June 10, 2024 - 9:00am—Thursday, June 13, 2024 - 5:00pm
-
-
-
-University of Pennsylvania
-
-
-
-Dream Lab is a week-long digital humanities training opportunity hosted by the University of Pennsylvania and designed to help humanists become more confident and thoughtful users, creators, and critics of digital technology. There are several courses to choose from, each of which combines technology instruction with practical application. Dream Lab is open to everyone but has been designed especially to serve early-stage scholars aspiring to be teaching faculty, research librarians, and archivists.
-Visit the Dream Lab Website to learn more about the courses we’ll be offering in summer 2024. Click on the Eventbrite link on top of the course page to register.
-Feel free to reach out to the Price Lab with any questions: price-lab@sas.upenn.edu
-Dream Lab is organized by the Price Lab for Digital Humanities and the Penn Libraries.
- 
-
-
-Subtitle: 
-
-A week long digital humanities training institute
-
-
-Image for Left Column:]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Criticus: A tool to move from transcription to collation]]></title>
-        <id>http://digitalorientalist.com/?p=12432</id>
-        <link href="https://digitalorientalist.com/2024/03/15/criticus-a-tool-to-move-from-transcription-to-collation/"/>
-        <updated>2024-03-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction In my last few posts, I explored how Python could be used to do some codicological analysis of manuscripts …]]></summary>
-        <author>
-            <name>Zach Butler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reader Studies in the Digital Age]]></title>
-        <id>1280 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/reader-studies-digital-age"/>
-        <updated>2024-03-15T12:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Friday, April 5, 2024 (All day)—Sunday, April 7, 2024 (All day)
-
-
-
- 
-
-
-
-An International Symposium at the Price Lab for Digital Humanities, co-organized with the Section for Sociology of Literature, Uppsala University.
-This symposium marks the rise in recent years of empirical reader studies: data-driven research into what, why, and how people read. The full emergence of this field has been a long time coming.  Literary scholars have never shown much interest in conducting empirical study of contemporary reading practices among ordinary, non-professional, non-academic people.  Janice Radway’s Reading the Romance (1984) is the glaring exception that proves the rule.  By far the most widely-cited study of amateur literary readers, Radway’s book has been more influential for its findings abou…]]></summary>
-        <author>
-            <name>jenglish@upenn.edu</name>
         </author>
     </entry>
     <entry>
