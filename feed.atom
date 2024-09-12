@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-09-11T08:28:19.783Z</updated>
+    <updated>2024-09-12T09:18:49.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mellon Seminar: Christine Roughan]]></title>
+        <id>1304 at https://pricelab.sas.upenn.edu</id>
+        <link href="https://pricelab.sas.upenn.edu/events/mellon-seminar-christine-roughan"/>
+        <updated>2024-09-11T19:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Monday, November 4, 2024 - 12:00pm
+
+
+
+Williams 623
+
+
+
+Christine Roughan is a Postdoctoral Research Associate with the Center for Digital Humanities and with Manuscript, Rare Book and Archive Studies. Christine earned her Ph.D. in the Ancient World from New York University in January 2023, where her doctoral work explored a premodern astronomical curriculum and its continued use in Greek and Arabic between the second and thirteenth centuries CE. Christine's research applies computational approaches to the study of manuscript transmissions in the Mediterranean world, particularly of mathematical and scientific works. During her postdoctoral term at Princeton, Christine is leveraging deep learning tools to classify and analyze visual data from digitized manuscripts, with a particular focus on paratextual material.
+The written outputs of manuscript cultures are often characterized by a degree of multiformity, and certain texts see particularly high amounts of variation. Works used for didactic purposes, for instance, often saw multiple interventions in the hands of contemporary scholars and teachers. While digital imaging initiatives have made great strides in making manuscript materials more accessible, the fact that this data is in image format has until recently presented a speedbump for research that would grapple with such highly variable traditions. But this is changing with the machine learning technologies available today. This talk will explore how these tools can facilitate access at scale into the texts of digitized manuscript collections, as well as support research into material beyond the main text column, whether that material is textual (e.g., marginal annotations) or visual (e.g., scientific diagrams).
+
+
+Image for Left Column:]]></summary>
+        <author>
+            <name>svarner@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Awards Committee members]]></title>
+        <id>https://adho.org/?p=3637</id>
+        <link href="https://adho.org/2024/09/11/call-for-awards-committee-members/"/>
+        <updated>2024-09-11T10:45:18.000Z</updated>
+        <summary type="html"><![CDATA[ADHO invites nominations and self-nominations for people interested in participating in the newly designed ADHO Awards Committee. Through its Award Committee, ADHO honors members of the DH community by acknowledging outstanding scholarly, pedagogical, and other contributions in the digital humanities, and through the awards program promoting the inclusivity and visibility of the digital humanities community… Read More »Call for Awards Committee members]]></summary>
+        <author>
+            <name>Nadezhda Povroznik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Executive Board Chair (Incoming as Chair-Elect)]]></title>
+        <id>https://adho.org/?p=3626</id>
+        <link href="https://adho.org/2024/09/11/call-for-executive-board-chair-incoming-as-chair-elect/"/>
+        <updated>2024-09-11T10:41:41.000Z</updated>
+        <summary type="html"><![CDATA[ADHO invites nominations and self-nominations for people interested in participating in the newly designed ADHO Awards Committee. Purpose: The role of EB Chair is to facilitate the executive and administrative functions of ADHO; the Chair has ultimate responsibility for all ADHO organization operations. They may also take on specific responsibilities for activities or initiatives which… Read More »Call for Executive Board Chair (Incoming as Chair-Elect)]]></summary>
+        <author>
+            <name>Nadezhda Povroznik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI and Indian Languages: Wishful Thinking?]]></title>
         <id>http://digitalorientalist.com/?p=12975</id>
