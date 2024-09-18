@@ -1361,6 +1361,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=13341",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Peichao Qin | University of Cambridge. Tired of struggling to find and type out complex oracle …",
+          "link": "https://digitalorientalist.com/2024/09/17/jingyuan-digital-platform-font-making-and-database-development-for-shang-oracle-bones-part-1/",
+          "publishedOn": "2024-09-17T13:00:00.000Z",
+          "wordCount": 5636,
+          "title": "Jingyuan Digital Platform: Font Making and Database Development for Shang Oracle Bones (Part 1)",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/09/jingyuan.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12982",
           "author": "soniwadhwa",
           "description": "This is a follow-up to part one on the “Future of the Commons” conference published earlier this week. While that …",
@@ -1639,16 +1649,6 @@
           "wordCount": 5634,
           "title": "Japan’s Imperial Household Agency: The Archives and Mausolea Department Catalog and Image Disclosure System",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/03/imperial_household_agency.jpg"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12508",
-          "author": "The Digital Orientalist",
-          "description": "This is a guest post by Dotno Dashdorj Pount. Dr. Pount graduate from the University of Pennsylvania, find more about …",
-          "link": "https://digitalorientalist.com/2024/03/22/prc-autonomous-region-local-histories-a-repository-of-rare-historical-materials/",
-          "publishedOn": "2024-03-22T13:00:00.000Z",
-          "wordCount": 5453,
-          "title": "PRC Autonomous Region Local Histories: a repository of rare historical materials",
-          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/03/unnamed.jpg?w=1200"
         }
       ]
     },
@@ -4466,6 +4466,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "7990 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 67 - September 2024\n\n            \nFederated Content Search Hackathon\nThe FCS hackathon that will take place as a post-conference event on 18 October in Barcelona is targeting developers who want to establish an endpoint to be connected to the FCS aggregator.\nIf you would be interested in attending such a hackathon in a virtual setting, please send a mail to fcs [at] clarin.eu (fcs[at]clarin[dot]eu), we are inventorising the interest for a virtual counterpart. This one will be in-person only. \nDeadline Centre Assessment Round approaching\nThe deadline for the upcoming B-centre assessment round is 31 October 2024.\nIf you would like to participate in this 24th round, please make sure to use:\nThe updated CoreTrustSeal 2023-2025 and AMT platform.\nThe latest version of the B-cent…",
+          "link": "https://www.clarin.eu/blog/centre-news-vol-67-september-2024",
+          "publishedOn": "2024-09-17T14:19:41.000Z",
+          "wordCount": 606,
+          "title": "Centre news vol. 67 - September 2024",
+          "imageUrl": null
+        },
         {
           "id": "6425 at https://www.clarin.eu",
           "author": "Julia Misersky",
