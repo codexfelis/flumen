@@ -211,6 +211,16 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=3753",
+          "author": "Alexandra Núñez",
+          "description": "We are happy to introduce and welcome Vera Zoricic as ADHO’s 2024 Communications Fellow! Vera will be working from Sept, 2024-Sept 2025 to manage ADHO’s website content, social media accounts, podcasts, newsletter and will share her expertise in digital humanities with us. It is great to have you!",
+          "link": "https://adho.org/2024/09/18/welcome-2024-communications-fellow-vera-zoricic/",
+          "publishedOn": "2024-09-18T09:41:28.000Z",
+          "wordCount": null,
+          "title": "Welcome 2024 Communications Fellow, Vera Zoricic",
+          "imageUrl": null
+        },
+        {
           "id": "https://adho.org/?p=3637",
           "author": "Nadezhda Povroznik",
           "description": "ADHO invites nominations and self-nominations for people interested in participating in the newly designed ADHO Awards Committee. Through its Award Committee, ADHO honors members of the DH community by acknowledging outstanding scholarly, pedagogical, and other contributions in the digital humanities, and through the awards program promoting the inclusivity and visibility of the digital humanities community… Read More »Call for Awards Committee members",
@@ -1138,6 +1148,16 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/962",
+          "author": "434",
+          "description": "An der Niedersächsischen Akademie der Wissenschaften zu Göttingen\nist zum 1. Januar 2025 in dem durch die Germania Sacra koordinierten Vorhaben „Forschungsdateninfrastruktur…",
+          "link": "https://dig-hum.de/aktuelles/stellenausschreibung-softwareentwicklerin-der-nieders%C3%A4chsischen-akademie-der",
+          "publishedOn": "2024-09-18T17:55:32.000Z",
+          "wordCount": 1282,
+          "title": "Stellenausschreibung Softwareentwickler/in an der Niedersächsischen Akademie der Wissenschaften zu Göttingen",
+          "imageUrl": null
+        },
+        {
           "id": "node/961",
           "author": "434",
           "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…",
@@ -1235,16 +1255,6 @@
           "publishedOn": "2024-03-29T08:20:55.071Z",
           "wordCount": 1314,
           "title": "Datenkurator - Technical preparations for Data Intake  (m/w/d) (TV-L, E 13, 100%)",
-          "imageUrl": null
-        },
-        {
-          "id": "node/951",
-          "author": "434",
-          "description": "Achtung: Verlängerte Bewerbungsfrist\nIm Rahmen des Verbundprojekts »Humanities Education in Research, Data, and Methods« (HERMES) – in den Teilvorhaben „Transferwerkstatt“ und „…",
-          "link": "https://dig-hum.de/aktuelles/projektstelle-f%C3%BCr-die-bereiche-open-educational-ressources-und-kompetenztransfer",
-          "publishedOn": "2024-03-23T08:19:29.411Z",
-          "wordCount": 1486,
-          "title": "Projektstelle für die Bereiche Open Educational Ressources und Kompetenztransfer Hochschulen-GLAM-Einrichtungen",
           "imageUrl": null
         }
       ]
@@ -2850,6 +2860,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/09/19/saving-troves-digitised.html",
+          "author": null,
+          "description": "I was recently contacted by a researcher who wanted to be able to automatically download the issues of a digitised periodical in Trove as PDFs. There was already a notebook in the GLAM Workbench that downloads the issues of a digitised newspaper as PDFs, but newspapers work differently to other digitised periodicals in Trove. While there was no corresponding notebook for other types of periodicals, all the necessary steps were documented in the Trove Data Guide, so it was just a matter of pulling together a few blocks of code.\nThere are three main steps:\nget the nla.obj identifiers for all the periodical’s issues\nget the number of pages in each issue\nconstruct a url to download each issue as a PDF using the nla.obj identifier and the number of pages\nGet issue identifiers\nVersion 3 of the T…",
+          "link": "https://updates.timsherratt.org/2024/09/19/saving-troves-digitised.html",
+          "publishedOn": "2024-09-19T02:46:22.000Z",
+          "wordCount": 419,
+          "title": "Saving Trove's digitised periodicals as PDFs",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-09-19-12-42-49.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/08/29/the-future-and.html",
           "author": null,
           "description": "Don’t panic! Historic Hansard is not closing down – on the contrary, I’m planning a major update in the next few months. But as I look to the future, I thought it was a good time to pull together a few threads documenting my adventures with Commonwealth Hansard.\nThe past\nCommonwealth Hansard is made available online through ParlInfo (there’s an alternative search interface here). The Parliamentary Library has invested a lot of time and effort in  converting the printed volumes into nicely-structured XML files which break up the sitting day into debates and speeches, and identify individual speakers. For the most part, there’s one XML file for each sitting day in each house. However, there’s currently a gap between 1981 and 1997 where no XML files are available.\nI started pulling data out o…",
@@ -3112,6 +3132,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5157 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "This interdisciplinary conference aims to explore the multifaceted roles of sports, culture, and arts in shaping diverse European societies throughout history. By going beyond traditional narratives of labour and economy, we seek to examine how these realms intersect with societal dynamics, identity formation, and community cohesion.\nMigration has long served as a conduit for the exchange and diffusion of sporting traditions, artistic expressions, and cultural identities across borders and continents. Similarly, sports, culture and arts serve as powerful mediums through which migrants navigate and negotiate their identities, fostering inclusion among migrant populations. This dynamic exchange between migration and what lies beyond work not only shapes the cultural landscapes of host nations but also enriches the global fabric of human experience.\nThe annual event is co-organised by the Centre de Documentation sur les Migrations Humaines (CDMH), a long-time AEMI member; the Ville de Dudelange and the Luxembourg Centre for Contemporary and Digital History (C²DH).\n \nSee the detailed programme.\n \n25-28  September 2024\nTown Hall, Salle Nic Birtz, Dudelange\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/diddeleng_gemeng_web.jpg?itok=c1UWVcQk\n  34th AEMI (Association of European migration institutions) conference.\n  25 September 2024 to 28 September 2024\n  Contemporary history of Luxembourg  Contemporary history of Europe\n  Migration history  Transnationalism\n  Conferences\n  Published  \nPhoto by Cornischong [CC BY-SA 3.0], via Wikimedia Commons.",
+          "link": "https://www.c2dh.uni.lu/events/beyond-work-sports-culture-and-arts-within-diverse-societies-europe-across-time",
+          "publishedOn": "2024-09-18T09:52:51.000Z",
+          "wordCount": 474,
+          "title": "BEYOND WORK: sports, culture and arts within diverse societies in Europe across time",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/diddeleng_gemeng_web.jpg?itok=goBbw7FE"
+        },
         {
           "id": "5156 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
