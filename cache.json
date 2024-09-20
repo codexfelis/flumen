@@ -1148,6 +1148,16 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/963",
+          "author": "434",
+          "description": "Liebe Mitglieder des DHd-Verbandes und Interessierte,\nfür unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…",
+          "link": "https://dig-hum.de/aktuelles/einladung-zum-dhd-community-forum-am-11102024",
+          "publishedOn": "2024-09-19T17:13:59.000Z",
+          "wordCount": 1042,
+          "title": "Einladung zum DHd-Community Forum am 11.10.2024",
+          "imageUrl": null
+        },
+        {
           "id": "node/962",
           "author": "434",
           "description": "An der Niedersächsischen Akademie der Wissenschaften zu Göttingen\nist zum 1. Januar 2025 in dem durch die Germania Sacra koordinierten Vorhaben „Forschungsdateninfrastruktur…",
@@ -1835,6 +1845,16 @@
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
         {
+          "id": "1305 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Monday, October 7, 2024 - 12:00pm\n\n\n\n623 Williams Hall\n\n\n\nDr. Tajah Ebram will talk about her current work with The Black Bibliography Project (BBP). The BBP is creating a digital database of Black book history with the aim of revealing the dynamic social networks and aesthetic practices specific to Black print cultures in the U.S.  During her talk, she will discuss her background in Black literary and cultural studies and how this informs her current work with the BBP. Her current research with the project is focused on developing and curating, in collaboration with graduate researchers, a corpus centering the print cultures of books authored by incarcerated Black writers and organizers of the late 20th century. The talk will explore the print cultures of Black prison movements while also attending to critical political, ethical and descriptive considerations involved in developing data about these works and writers. \n\nDr. Tajah Ebram is a cultural historian, teacher and community memory worker. She is currently the Black Studies Librarian at Rutgers University New Brunswick and the Rutgers lead for the Black Bibliography Project. Prior to her work at Rutgers, she was a Visiting Assistant Professor at Haverford College where she developed seminars around Black feminisms, carceral studies and Black environmentalism.  In 2020, she completed her PhD in English at the University of Pennsylvania where she focused on Philly Black freedom movements through the lenses of oral history, digital storytelling, and material culture.\n\n\n \n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/mellon-seminar-tajah-ebram",
+          "publishedOn": "2024-09-19T18:03:35.000Z",
+          "wordCount": 507,
+          "title": "Mellon Seminar: Tajah Ebram",
+          "imageUrl": null
+        },
+        {
           "id": "1304 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
           "description": "Monday, November 4, 2024 - 12:00pm\n\n\n\nWilliams 623\n\n\n\nChristine Roughan is a Postdoctoral Research Associate with the Center for Digital Humanities and with Manuscript, Rare Book and Archive Studies. Christine earned her Ph.D. in the Ancient World from New York University in January 2023, where her doctoral work explored a premodern astronomical curriculum and its continued use in Greek and Arabic between the second and thirteenth centuries CE. Christine's research applies computational approaches to the study of manuscript transmissions in the Mediterranean world, particularly of mathematical and scientific works. During her postdoctoral term at Princeton, Christine is leveraging deep learning tools to classify and analyze visual data from digitized manuscripts, with a particular focus on paratextual material.\nThe written outputs of manuscript cultures are often characterized by a degree of multiformity, and certain texts see particularly high amounts of variation. Works used for didactic purposes, for instance, often saw multiple interventions in the hands of contemporary scholars and teachers. While digital imaging initiatives have made great strides in making manuscript materials more accessible, the fact that this data is in image format has until recently presented a speedbump for research that would grapple with such highly variable traditions. But this is changing with the machine learning technologies available today. This talk will explore how these tools can facilitate access at scale into the texts of digitized manuscript collections, as well as support research into material beyond the main text column, whether that material is textual (e.g., marginal annotations) or visual (e.g., scientific diagrams).\n\n\nImage for Left Column:",
@@ -1991,6 +2011,21 @@
       "feedUrl": "https://radihum20.de/feed",
       "siteUrl": "https://radihum20.de/",
       "articles": [
+        {
+          "id": "https://radihum20.de/?p=1000",
+          "author": "Clara Helmig",
+          "description": "Wir sind aus der Sommerpause zurück und starten voller Energie in unsere siebte Staffel! Die Staffel widmet sich dem Thema digitales Publizieren. Und gleich in der ersten Folge begrüßen wir drei Experten, die das Thema seit Jahren prägen: Timo Steyer, Walter Scholger und Thomas Stäcker.  Die Drei waren oder sind die Convenor der 10 Jahre […]\nDer Beitrag RaDiHum20 spricht mit Timo, Walter und Thomas von der AG „Digitales Publizieren“ erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/radihum20-spricht-mit-timo-walter-und-thomas-von-der-ag-digitales-publizieren/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-spricht-mit-timo-walter-und-thomas-von-der-ag-digitales-publizieren",
+          "publishedOn": "2024-09-20T06:00:00.000Z",
+          "wordCount": 2924,
+          "title": "RaDiHum20 spricht mit Timo, Walter und Thomas von der AG „Digitales Publizieren“",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/Staffel_7_Folge_1_final.mp3",
+            "length": "44665596",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://radihum20.de/?p=991",
           "author": "Mareike Schumacher",
@@ -2859,6 +2894,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2024/09/20/preserving-the-history.html",
+          "author": null,
+          "description": "It’s pretty obvious that access to digitised resources, like Trove’s newspapers, has changed the practice of history in Australia. But how? I’m certain that the historiographical implications of the growth and development of online collections will become a topic of increasing interest to historians, and that exploration of this topic will lead to important insights into the relationship between what we keep, what we value, and what we know. But for this to happen we need to have data documenting changes in online collections. What became available when? How was it delivered to users? How did the search indexing work?\nIn general, GLAM collection interfaces exist in an eternal present – they’re not good at explaining changes, or communicating their own histories. Australian GLAM organisatio…",
+          "link": "https://updates.timsherratt.org/2024/09/20/preserving-the-history.html",
+          "publishedOn": "2024-09-20T05:18:34.000Z",
+          "wordCount": 2663,
+          "title": "Preserving the history of online collections (my love letter to future historians)",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-09-20-15-12-52.png"
+        },
         {
           "id": "http://wragge.micro.blog/2024/09/19/saving-troves-digitised.html",
           "author": null,
@@ -4891,6 +4936,16 @@
       "siteUrl": "https://www.jadh.org",
       "articles": [
         {
+          "id": "80 at https://www.jadh.org",
+          "author": "adminweb",
+          "description": "Executive Board:\nCo-opted member:\nAuditors:\nNominating Committee:",
+          "link": "https://www.jadh.org/node/80",
+          "publishedOn": "2024-09-19T23:54:09.000Z",
+          "wordCount": 182,
+          "title": "Administrators 2018-2024",
+          "imageUrl": null
+        },
+        {
           "id": "79 at https://www.jadh.org",
           "author": "adminweb",
           "description": "JADH2024 Conference Website が公開されています。以下のURLにアクセスしてみてください。\nhttps://jadh2024.l.u-tokyo.ac.jp/",
@@ -5007,6 +5062,116 @@
       "feedUrl": "https://dhandlib.org/feed/",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=172792",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "Kelda Habing and Lian Ruan (University of Illinois Fire Service Institute) have published a qualitative study on digital humanities practices from seven US academic libraries to provide insights into how varied academic libraries operate their DH programs, in Digital Transformation and Society. Using semi-structured interviews, they highlight practices around space, technology, staffing, instruction, and collaboration. ...read more",
+          "link": "https://dhandlib.org/2024/09/19/digital-humanities-in-us-academic-libraries-case-studies/?utm_source=rss&utm_medium=rss&utm_campaign=digital-humanities-in-us-academic-libraries-case-studies",
+          "publishedOn": "2024-09-19T20:33:13.000Z",
+          "wordCount": null,
+          "title": "RESOURCE: Digital Humanities in US Academic Libraries: Case Studies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172738",
+          "author": "Pamella Lach",
+          "description": "Proposals are now being accepted for the 10th annual Global Digital Humanities Symposium, being held virtually and in-person April 2-8, 2025 at Michigan State University. From the CFP: Digital Humanities (DH) at Michigan State University (MSU) is proud and thrilled to celebrate the 10th Global DH Symposium with a combination of virtual and in-person events ...read more",
+          "link": "https://dhandlib.org/2024/09/19/cfp-global-digital-humanities-symposium-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-global-digital-humanities-symposium-2025",
+          "publishedOn": "2024-09-19T20:32:40.000Z",
+          "wordCount": null,
+          "title": "CFP: Global Digital Humanities Symposium 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172790",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "One of the imperatives of digital humanities as a field is to seize knowledge production and decolonize the cultural record. As digital humanities practitioners in libraries and archives, this is especially the case given the proliferation of disinformation, censorship, and hegemonic narratives that aim to erase the destruction of peoples and their heritage by their ...read more",
+          "link": "https://dhandlib.org/2024/09/19/cfp-fighting-colonial-erasures-archiving-against-genocides-for-palestinian-liberation-and-global-decolonization/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-fighting-colonial-erasures-archiving-against-genocides-for-palestinian-liberation-and-global-decolonization",
+          "publishedOn": "2024-09-19T20:32:12.000Z",
+          "wordCount": 3786,
+          "title": "CFP: Fighting Colonial Erasures, Archiving Against Genocides for Palestinian Liberation and Global Decolonization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172788",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "Digital Humanities practitioners and librarians are increasingly engaging in data embodiment and visceralization. Towards this, “Crafting Encounters with Humanities Data” is a special issue of dh+lib that will explore ways of integrating critical making and data physicalization into library-based digital humanities pedagogy in a variety of forms and modalities, including workshops, course-related instruction, and more. ...read more",
+          "link": "https://dhandlib.org/2024/09/19/cfp-dhlib-special-issue-cfp-crafting-encounters-with-humanities-data/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-dhlib-special-issue-cfp-crafting-encounters-with-humanities-data",
+          "publishedOn": "2024-09-19T20:30:12.000Z",
+          "wordCount": 3094,
+          "title": "CFP: dh+lib Special Issue CFP: Crafting Encounters with Humanities Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172735",
+          "author": "Pamella Lach",
+          "description": "Code4Lib 2025 is soliciting proposals for prepared talks! From the call: Code4Lib 2025 is a loosely-structured conference that provides people working at the intersection of libraries/archives/museums/cultural heritage and technology with a chance to share ideas, be inspired, and forge collaborations. For more information about the Code4Lib community, please visit the Code4Lib website. The conference will ...read more",
+          "link": "https://dhandlib.org/2024/09/19/cfp-code4lib-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-code4lib-2025",
+          "publishedOn": "2024-09-19T20:29:17.000Z",
+          "wordCount": 3241,
+          "title": "CFP: Code4Lib 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172726",
+          "author": "Pamella Lach",
+          "description": "The #DHMakes Methodz Talks are informal gatherings of folks interested in vaguely DH-adjacent crafting+making, zero expertise required. Three virtual talks are scheduled for Fall 2024: Sam Blickhan on speedweve for mending socks Date: 10/15/2024 Time: 3-3:30pm ET Registration required: register here before day of event Zoom event taught by Sam Blickhan on speedweve for mending ...read more",
+          "link": "https://dhandlib.org/2024/09/19/event-dhmakes-methodz-talks/?utm_source=rss&utm_medium=rss&utm_campaign=event-dhmakes-methodz-talks",
+          "publishedOn": "2024-09-19T20:25:27.000Z",
+          "wordCount": 3177,
+          "title": "EVENT: #DHMakes Methodz Talks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172731",
+          "author": "Pamella Lach",
+          "description": "Registration is now open for #ACH2024, the annual virtual conference of the Association for Computers and the Humanities. ACH 2024 will be held virtually November 6-8, 2024. As the CFP explains, Amid rapid societal and technological transformations and historic elections worldwide, ACH fosters dialogue, spaces, and solidarity on equity and justice across local, transborder, and ...read more",
+          "link": "https://dhandlib.org/2024/09/19/event-ach-2024-virtual/?utm_source=rss&utm_medium=rss&utm_campaign=event-ach-2024-virtual",
+          "publishedOn": "2024-09-19T20:24:44.000Z",
+          "wordCount": 2922,
+          "title": "EVENT: ACH 2024 (virtual)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172724",
+          "author": "Pamella Lach",
+          "description": "Registration is open for the Digital Library Federation (DLF) 2024 Forum, happening online (virutally) October 22-23, 2024. The virtual forum features two days of sessions, including lightning talks, multiple concurrent sessions on a range of topics, and plenary talks. Registration includes live access to the virtual event and access to the virtual event recordings after ...read more",
+          "link": "https://dhandlib.org/2024/09/19/event-digital-library-federation-dlf-forum-virtual/?utm_source=rss&utm_medium=rss&utm_campaign=event-digital-library-federation-dlf-forum-virtual",
+          "publishedOn": "2024-09-19T20:21:24.000Z",
+          "wordCount": 2875,
+          "title": "EVENT: Digital Library Federation (DLF) Forum (virtual)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172733",
+          "author": "Pamella Lach",
+          "description": "The Council on Library and Information Resources (CLIR) announces its call for applications for Digitizing Hidden Special Collections and Archives: Amplifying Unheard Voices competitive grant. As the call for applications explains, this grant program focuses on: digitizing rare and unique content stewarded by collecting organizations in the US and Canada. Launched in 2021, the program ...read more",
+          "link": "https://dhandlib.org/2024/09/19/funding-opportunity-digitizing-hidden-collections-amplifying-unheard-voices/?utm_source=rss&utm_medium=rss&utm_campaign=funding-opportunity-digitizing-hidden-collections-amplifying-unheard-voices",
+          "publishedOn": "2024-09-19T20:20:37.000Z",
+          "wordCount": null,
+          "title": "FUNDING/OPPORTUNITY: Digitizing Hidden Collections: Amplifying Unheard Voices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172719",
+          "author": "Pamella Lach",
+          "description": "From the announcement: Provide strategic leadership for the design, development, and implementation of digital scholarship at Providence College. Remote hybrid work is available at a maximum of two days per week based on approval. Essential Duties: Develop and maintain applications, platforms, and tools that support digital scholarship projects and initiatives through the use of extensive ...read more",
+          "link": "https://dhandlib.org/2024/09/19/job-digital-scholarship-developer-providence-college-2/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-scholarship-developer-providence-college-2",
+          "publishedOn": "2024-09-19T20:19:35.000Z",
+          "wordCount": 1190,
+          "title": "JOB: Digital Scholarship Developer (Providence College)",
+          "imageUrl": "https://pa-hrsuite-production.s3.amazonaws.com/2928/docs/149765.jpg"
+        },
+        {
+          "id": "https://dhandlib.org/?p=172721",
+          "author": "Pamella Lach",
+          "description": "From the announcement: Michigan State University (MSU) Libraries seeks a creative, service-oriented professional to join the Digital Scholarship Lab as the Data and Immersive Visualization Librarian. As a member of a team of professionals in the Digital Scholarship Lab, the Data and Immersive Visualization Librarian will be a key contributor to the MSU Libraries’ services ...read more",
+          "link": "https://dhandlib.org/2024/09/19/job-data-and-immersive-visualization-librarian-michigan-state-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-data-and-immersive-visualization-librarian-michigan-state-university",
+          "publishedOn": "2024-09-19T20:18:44.000Z",
+          "wordCount": 1493,
+          "title": "JOB: Data and Immersive Visualization Librarian (Michigan State University)",
+          "imageUrl": null
+        },
         {
           "id": "https://dhandlib.org/?p=161484",
           "author": "Claudia Berger",
