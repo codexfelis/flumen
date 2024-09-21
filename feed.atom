@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-09-20T08:28:00.452Z</updated>
+    <updated>2024-09-21T08:25:22.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Combining Digital Resources to Investigate the Oral-formulaic Diction of Sanskrit Texts (Part 1)]]></title>
+        <id>http://digitalorientalist.com/?p=13366</id>
+        <link href="https://digitalorientalist.com/2024/09/20/combining-digital-resources-to-investigate-the-oral-formulaic-diction-of-sanskrit-texts-part-1/"/>
+        <updated>2024-09-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous posts on The Digital Orientalist, I introduced two types of linguistic resources dedicated to the study of …]]></summary>
+        <author>
+            <name>Erica Biagetti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RaDiHum20 spricht mit Timo, Walter und Thomas von der AG „Digitales Publizieren“]]></title>
         <id>https://radihum20.de/?p=1000</id>
@@ -6576,17 +6586,6 @@ It’s surprising difficult to find out what periodicals have actually been digi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New DRI Member Case Study – Royal Irish Academy Publications]]></title>
-        <id>https://dri.ie/news/case-studies-launch-copy/</id>
-        <link href="https://dri.ie/news/case-studies-ria-launch/"/>
-        <updated>2024-03-25T15:33:06.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to publish another information brochure in our Case Studies series. These studies offer an in-depth, detailed examination of some of the challenges facing our members and community. The case studies also illustrate the benefits afforded by membership of DRI, as well as additional support and training opportunities. In […]
-The post New DRI Member Case Study – Royal Irish Academy Publications appeared first on Digital Repository Ireland.]]></summary>
-        <author>
-            <name>Maeve O'Brien</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Manuscript Monday: LJS 419 – Herbal (Video Orientation)]]></title>
         <id>http://schoenberginstitute.org/?p=18046</id>
         <link href="https://schoenberginstitute.org/2024/03/25/manuscript-monday-ljs-419-herbal-video-orientation/"/>
@@ -6594,31 +6593,6 @@ The post New DRI Member Case Study – Royal Irish Academy Publications appeared
         <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 419, an illustrated herbal with three styles of illustration: one group of illustrations following medieval conventions, sometimes with fantastic elements such as human faces, on recto pages through most of the manuscript; another, rougher but more generallyContinue reading "Manuscript Monday: LJS 419 – Herbal (Video Orientation)"]]></summary>
         <author>
             <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10th annual Nebraska Forum on Digital Humanities is April 4-5]]></title>
-        <id>2693 at https://cdrh.unl.edu</id>
-        <link href="https://cdrh.unl.edu/10th-annual-nebraska-forum-digital-humanities-april-4-5"/>
-        <updated>2024-03-25T05:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: 
-
-
-
-
-Link: 
-
-10th annual Nebraska Forum on Digital Humanities is April 4-5
-
-
-
-The 10th annual Nebraska Forum on Digital Humanities is slated for April 4-5 in the Willa Cather Dining Complex at the University of Nebraska–Lincoln.
-This year’s forum, “From Exclusion to Inclusion: Creating Responsible and Equitable Information and AI Systems for Digital Cultural Heritage,” is sponsored by the Office of Research and Economic Development Grand Challenges Seed Grant and the Center for Digital Research in the Humanities. Registration is required, and all presentations and events are open to the public.
-A variety of scholars from around the world will discuss what it would take to develop artificial intelligence systems that manage cultural heritage materials (texts, images, videos and data) while generating new ways to contextualize the information, ask new questions and appreciate different perspectives. A key issue to be addressed in the development of this technology is making sure we are fair and unbiased in how we collect, describe and use these materials, while also teaching scholars how to understand both the technology and the social aspects involved.
-The CDRH has hosted this forum since 2006, highlighting the diverse intellectual activity of the digital humanities field and showcasing the work of early career scholars.
-There is more information on the  Nebraska Forum on Digital Humanities website.]]></summary>
-        <author>
-            <name>Anonymous</name>
         </author>
     </entry>
     <entry>
