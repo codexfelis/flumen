@@ -6,7 +6,7 @@ sources:
   - href: http://www.globaloutlookdh.org/news/feed
   - href: https://aa-dh.org/feed/
   - href: https://ach.org/feed/
-  - href: https://adhc.lib.ua.edu/feed
+  # - href: https://adhc.lib.ua.edu/feed # remove temporarily while they fix wordpress issues
   - href: https://adho.org/rss.xml # this one calls itself "News", but is  Alliance of Digital Humanities Organizations
   - href: https://archive.mith.umd.edu/mith-2020/feed/index.html
   - href: https://blogs.kcl.ac.uk/ddh/feed
