@@ -10,18 +10,7 @@
       "title": "UCLDH Blog",
       "feedUrl": "http://blogs.ucl.ac.uk/dh/feed/",
       "siteUrl": "https://blogs.ucl.ac.uk/dh",
-      "articles": [
-        {
-          "id": "https://blogs.ucl.ac.uk/dh/?p=8312",
-          "author": "Lucy Stagg",
-          "description": "We are delighted to announce the second edition of the Sloane Lab symposium series commencing on the 16th of April 2024, facilitated in collaboration with the Humanities Data Science & Methodology (HDSM) Oberseminar of TU Darmstadt, the UCL Centre for Digital Humanities (UCLDH) and the UCL Institute for Advanced Studies (UCL IAS). This seminar invites […]",
-          "link": "https://blogs.ucl.ac.uk/dh/2024/03/26/sloanelab-hdsmdarmstadt-seminar2024/",
-          "publishedOn": "2024-03-26T14:34:31.000Z",
-          "wordCount": 1330,
-          "title": "Sloane Lab and HDSM Darmstadt Seminar Series 2024: Critical and creative engagement with historical data",
-          "imageUrl": "https://blogs.ucl.ac.uk/dh/files/2024/03/sloane-lab-2024-series-93d8e595942521ca-1024x576.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "DHNB",
@@ -99,117 +88,20 @@
       ]
     },
     {
-      "title": "Alabama Digital Humanities Center",
-      "feedUrl": "https://adhc.lib.ua.edu/feed",
-      "siteUrl": "https://adhc.lib.ua.edu/",
-      "articles": [
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2611",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post Networks of Gothic appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/networksofgothic-project/",
-          "publishedOn": "2024-04-19T23:00:56.000Z",
-          "wordCount": 1599,
-          "title": "Networks of Gothic",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2600",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post Native American History appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/nativeamericanhy-project/",
-          "publishedOn": "2024-04-19T22:55:25.000Z",
-          "wordCount": 1810,
-          "title": "Native American History",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2595",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post Music Politics appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/musicpolitics-project/",
-          "publishedOn": "2024-04-19T22:54:34.000Z",
-          "wordCount": 1731,
-          "title": "Music Politics",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2590",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post Literary Landscapes appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/literarylandscapes-project/",
-          "publishedOn": "2024-04-19T22:51:53.000Z",
-          "wordCount": 1626,
-          "title": "Literary Landscapes",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2585",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post Knitting & History appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/knittinghistory-project/",
-          "publishedOn": "2024-04-19T22:48:58.000Z",
-          "wordCount": 1573,
-          "title": "Knitting & History",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2578",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post HydroMind appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/hydromind-project/",
-          "publishedOn": "2024-04-19T22:42:25.000Z",
-          "wordCount": 1743,
-          "title": "HydroMind",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2571",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post Global Foodways appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/globalfoodways-project/",
-          "publishedOn": "2024-04-19T22:36:43.000Z",
-          "wordCount": 1560,
-          "title": "Global Foodways",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2563",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post Game Archive appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/gamearchive-project/",
-          "publishedOn": "2024-04-19T22:24:19.000Z",
-          "wordCount": 1661,
-          "title": "Game Archive",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2542",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post HY 107 Early American History​ appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/hy107-project/",
-          "publishedOn": "2024-04-19T22:20:42.000Z",
-          "wordCount": 1689,
-          "title": "HY 107 Early American History​",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        },
-        {
-          "id": "https://adhc.lib.ua.edu/?p=2537",
-          "author": "adhcadmin",
-          "description": "Project Summary\nThe post Dirt Poor appeared first on Alabama Digital Humanities Center.",
-          "link": "https://adhc.lib.ua.edu/dirtpoor-project/",
-          "publishedOn": "2024-04-19T22:11:08.000Z",
-          "wordCount": 1690,
-          "title": "Dirt Poor",
-          "imageUrl": "https://adhc.lib.ua.edu/wp-content/uploads/projects.png"
-        }
-      ]
-    },
-    {
       "title": "News – Alliance of Digital Humanities Organizations",
       "feedUrl": "https://adho.org/rss.xml",
       "siteUrl": "https://adho.org",
       "articles": [
+        {
+          "id": "https://adho.org/?p=3757",
+          "author": "Nadezhda Povroznik",
+          "description": "The Local Organizers for DH2025 are happy to launch the website of the next Digital Humanities conference (https://dh2025.adho.org/) and call for proposals (https://dh2025.adho.org/call-for-proposals/). Welcome to the BlueSky (@dh2025lisbon.bsky.social) and Mastodon (@dh2025) accounts. The X will be announced soon. The email account for all questions about the conference is dh2025@fcsh.unl.pt.",
+          "link": "https://adho.org/2024/09/23/dh2025-announcement/",
+          "publishedOn": "2024-09-23T06:56:37.000Z",
+          "wordCount": null,
+          "title": "DH2025 Media",
+          "imageUrl": null
+        },
         {
           "id": "https://adho.org/?p=3753",
           "author": "Alexandra Núñez",
@@ -563,6 +455,116 @@
       "feedUrl": "https://dhandlib.org/feed",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=172792",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "Kelda Habing and Lian Ruan (University of Illinois Fire Service Institute) have published a qualitative study on digital humanities practices from seven US academic libraries to provide insights into how varied academic libraries operate their DH programs, in Digital Transformation and Society. Using semi-structured interviews, they highlight practices around space, technology, staffing, instruction, and collaboration. ...read more",
+          "link": "https://dhandlib.org/2024/09/19/digital-humanities-in-us-academic-libraries-case-studies/?utm_source=rss&utm_medium=rss&utm_campaign=digital-humanities-in-us-academic-libraries-case-studies",
+          "publishedOn": "2024-09-19T20:33:13.000Z",
+          "wordCount": 3087,
+          "title": "RESOURCE: Digital Humanities in US Academic Libraries: Case Studies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172738",
+          "author": "Pamella Lach",
+          "description": "Proposals are now being accepted for the 10th annual Global Digital Humanities Symposium, being held virtually and in-person April 2-8, 2025 at Michigan State University. From the CFP: Digital Humanities (DH) at Michigan State University (MSU) is proud and thrilled to celebrate the 10th Global DH Symposium with a combination of virtual and in-person events ...read more",
+          "link": "https://dhandlib.org/2024/09/19/cfp-global-digital-humanities-symposium-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-global-digital-humanities-symposium-2025",
+          "publishedOn": "2024-09-19T20:32:40.000Z",
+          "wordCount": 3283,
+          "title": "CFP: Global Digital Humanities Symposium 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172790",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "One of the imperatives of digital humanities as a field is to seize knowledge production and decolonize the cultural record. As digital humanities practitioners in libraries and archives, this is especially the case given the proliferation of disinformation, censorship, and hegemonic narratives that aim to erase the destruction of peoples and their heritage by their ...read more",
+          "link": "https://dhandlib.org/2024/09/19/cfp-fighting-colonial-erasures-archiving-against-genocides-for-palestinian-liberation-and-global-decolonization/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-fighting-colonial-erasures-archiving-against-genocides-for-palestinian-liberation-and-global-decolonization",
+          "publishedOn": "2024-09-19T20:32:12.000Z",
+          "wordCount": 3788,
+          "title": "CFP: Fighting Colonial Erasures, Archiving Against Genocides for Palestinian Liberation and Global Decolonization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172788",
+          "author": "Nickoal Eichmann-Kalwara",
+          "description": "Digital Humanities practitioners and librarians are increasingly engaging in data embodiment and visceralization. Towards this, “Crafting Encounters with Humanities Data” is a special issue of dh+lib that will explore ways of integrating critical making and data physicalization into library-based digital humanities pedagogy in a variety of forms and modalities, including workshops, course-related instruction, and more. ...read more",
+          "link": "https://dhandlib.org/2024/09/19/cfp-dhlib-special-issue-cfp-crafting-encounters-with-humanities-data/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-dhlib-special-issue-cfp-crafting-encounters-with-humanities-data",
+          "publishedOn": "2024-09-19T20:30:12.000Z",
+          "wordCount": 3096,
+          "title": "CFP: dh+lib Special Issue CFP: Crafting Encounters with Humanities Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172735",
+          "author": "Pamella Lach",
+          "description": "Code4Lib 2025 is soliciting proposals for prepared talks! From the call: Code4Lib 2025 is a loosely-structured conference that provides people working at the intersection of libraries/archives/museums/cultural heritage and technology with a chance to share ideas, be inspired, and forge collaborations. For more information about the Code4Lib community, please visit the Code4Lib website. The conference will ...read more",
+          "link": "https://dhandlib.org/2024/09/19/cfp-code4lib-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-code4lib-2025",
+          "publishedOn": "2024-09-19T20:29:17.000Z",
+          "wordCount": 3239,
+          "title": "CFP: Code4Lib 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172726",
+          "author": "Pamella Lach",
+          "description": "The #DHMakes Methodz Talks are informal gatherings of folks interested in vaguely DH-adjacent crafting+making, zero expertise required. Three virtual talks are scheduled for Fall 2024: Sam Blickhan on speedweve for mending socks Date: 10/15/2024 Time: 3-3:30pm ET Registration required: register here before day of event Zoom event taught by Sam Blickhan on speedweve for mending ...read more",
+          "link": "https://dhandlib.org/2024/09/19/event-dhmakes-methodz-talks/?utm_source=rss&utm_medium=rss&utm_campaign=event-dhmakes-methodz-talks",
+          "publishedOn": "2024-09-19T20:25:27.000Z",
+          "wordCount": 3168,
+          "title": "EVENT: #DHMakes Methodz Talks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172731",
+          "author": "Pamella Lach",
+          "description": "Registration is now open for #ACH2024, the annual virtual conference of the Association for Computers and the Humanities. ACH 2024 will be held virtually November 6-8, 2024. As the CFP explains, Amid rapid societal and technological transformations and historic elections worldwide, ACH fosters dialogue, spaces, and solidarity on equity and justice across local, transborder, and ...read more",
+          "link": "https://dhandlib.org/2024/09/19/event-ach-2024-virtual/?utm_source=rss&utm_medium=rss&utm_campaign=event-ach-2024-virtual",
+          "publishedOn": "2024-09-19T20:24:44.000Z",
+          "wordCount": 2917,
+          "title": "EVENT: ACH 2024 (virtual)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172724",
+          "author": "Pamella Lach",
+          "description": "Registration is open for the Digital Library Federation (DLF) 2024 Forum, happening online (virutally) October 22-23, 2024. The virtual forum features two days of sessions, including lightning talks, multiple concurrent sessions on a range of topics, and plenary talks. Registration includes live access to the virtual event and access to the virtual event recordings after ...read more",
+          "link": "https://dhandlib.org/2024/09/19/event-digital-library-federation-dlf-forum-virtual/?utm_source=rss&utm_medium=rss&utm_campaign=event-digital-library-federation-dlf-forum-virtual",
+          "publishedOn": "2024-09-19T20:21:24.000Z",
+          "wordCount": 2878,
+          "title": "EVENT: Digital Library Federation (DLF) Forum (virtual)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172733",
+          "author": "Pamella Lach",
+          "description": "The Council on Library and Information Resources (CLIR) announces its call for applications for Digitizing Hidden Special Collections and Archives: Amplifying Unheard Voices competitive grant. As the call for applications explains, this grant program focuses on: digitizing rare and unique content stewarded by collecting organizations in the US and Canada. Launched in 2021, the program ...read more",
+          "link": "https://dhandlib.org/2024/09/19/funding-opportunity-digitizing-hidden-collections-amplifying-unheard-voices/?utm_source=rss&utm_medium=rss&utm_campaign=funding-opportunity-digitizing-hidden-collections-amplifying-unheard-voices",
+          "publishedOn": "2024-09-19T20:20:37.000Z",
+          "wordCount": null,
+          "title": "FUNDING/OPPORTUNITY: Digitizing Hidden Collections: Amplifying Unheard Voices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=172719",
+          "author": "Pamella Lach",
+          "description": "From the announcement: Provide strategic leadership for the design, development, and implementation of digital scholarship at Providence College. Remote hybrid work is available at a maximum of two days per week based on approval. Essential Duties: Develop and maintain applications, platforms, and tools that support digital scholarship projects and initiatives through the use of extensive ...read more",
+          "link": "https://dhandlib.org/2024/09/19/job-digital-scholarship-developer-providence-college-2/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-scholarship-developer-providence-college-2",
+          "publishedOn": "2024-09-19T20:19:35.000Z",
+          "wordCount": 1190,
+          "title": "JOB: Digital Scholarship Developer (Providence College)",
+          "imageUrl": "https://pa-hrsuite-production.s3.amazonaws.com/2928/docs/149765.jpg"
+        },
+        {
+          "id": "https://dhandlib.org/?p=172721",
+          "author": "Pamella Lach",
+          "description": "From the announcement: Michigan State University (MSU) Libraries seeks a creative, service-oriented professional to join the Digital Scholarship Lab as the Data and Immersive Visualization Librarian. As a member of a team of professionals in the Digital Scholarship Lab, the Data and Immersive Visualization Librarian will be a key contributor to the MSU Libraries’ services ...read more",
+          "link": "https://dhandlib.org/2024/09/19/job-data-and-immersive-visualization-librarian-michigan-state-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-data-and-immersive-visualization-librarian-michigan-state-university",
+          "publishedOn": "2024-09-19T20:18:44.000Z",
+          "wordCount": null,
+          "title": "JOB: Data and Immersive Visualization Librarian (Michigan State University)",
+          "imageUrl": null
+        },
         {
           "id": "https://dhandlib.org/?p=161484",
           "author": "Claudia Berger",
@@ -1659,16 +1661,6 @@
           "wordCount": 4951,
           "title": "Video Games and the Humanities: A Call for Scholarly Games",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/03/seyahat-screen-1.png?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12457",
-          "author": "Hirohito TSUJI 辻󠄀 博仁",
-          "description": "Overview  The Imperial Household Agency in Tokyo is an administrative body under the Cabinet Office for affairs relating to the …",
-          "link": "https://digitalorientalist.com/2024/03/26/japans-imperial-household-agency-the-archives-and-mausolea-department-catalog-and-image-disclosure-system/",
-          "publishedOn": "2024-03-26T13:00:00.000Z",
-          "wordCount": 5634,
-          "title": "Japan’s Imperial Household Agency: The Archives and Mausolea Department Catalog and Image Disclosure System",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/03/imperial_household_agency.jpg"
         }
       ]
     },
@@ -1722,6 +1714,16 @@
       "feedUrl": "https://force11.org/rss",
       "siteUrl": "https://force11.org",
       "articles": [
+        {
+          "id": "https://force11.org/?p=151406",
+          "author": "Iratxe Puebla",
+          "description": "At the FORCE11 conference last month, we had many stimulating conversations about innovation in scholarly communications",
+          "link": "https://force11.org/post/advancing-scholarly-communications-together-lead-a-force11-working-group/",
+          "publishedOn": "2024-09-23T09:32:22.000Z",
+          "wordCount": 3738,
+          "title": "Advancing Scholarly Communications Together: Lead a FORCE11 Working Group!",
+          "imageUrl": null
+        },
         {
           "id": "https://force11.org/?p=151275",
           "author": "FORCE11 Admin",
@@ -1992,16 +1994,6 @@
           "publishedOn": "2024-04-03T11:24:03.000Z",
           "wordCount": 407,
           "title": "Armando  Navarro  Rojas",
-          "imageUrl": null
-        },
-        {
-          "id": "1282 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Senior Lecturer II and Associate Research Faculty of Digital Humanities in the Department of Spanish and Portuguese at Yale University",
-          "link": "https://pricelab.sas.upenn.edu/speakers/gil-alex-0",
-          "publishedOn": "2024-03-26T17:02:32.000Z",
-          "wordCount": 287,
-          "title": "Alex  Gil",
           "imageUrl": null
         }
       ]
@@ -2334,16 +2326,6 @@
           "wordCount": 2922,
           "title": "Exploring Community and Identity in Sexuality and Gender History – Archives of Sexuality and Gender: Community and Identity in North America",
           "imageUrl": "https://review.gale.com/wp-content/uploads/2024/03/pic-1-1.jpg"
-        },
-        {
-          "id": "https://review.gale.com/?p=15111",
-          "author": "Gale Review Team",
-          "description": "│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ Every March is Women’s History Month! In keeping with the themes of digital scholarship explored in the ‘Notes from our DH Correspondent’ series, and to celebrate a lesser-known historical female figure, in this month’s post I’ll discuss how I am exploring some of my text research data ... Read more\nThe post Women’s History Month in <i>Gale Digital Scholar Lab</i>: Named Entity Recognition, Python Notebooks, and an Intrepid Female Diarist appeared first on The Gale Review.",
-          "link": "https://review.gale.com/2024/03/26/womens-history-month-in-gale-digital-scholar-lab-named-entity-recognition-python-notebooks-and-an-intrepid-female-diarist/",
-          "publishedOn": "2024-03-26T07:00:00.000Z",
-          "wordCount": 2626,
-          "title": "Women’s History Month in Gale Digital Scholar Lab: Named Entity Recognition, Python Notebooks, and an Intrepid Female Diarist",
-          "imageUrl": "https://review.gale.com/wp-content/uploads/2024/03/14.-Notes-from-a-DH-Correspondent-mon-year-option-7.jpg"
         }
       ]
     },
@@ -2611,16 +2593,6 @@
           "wordCount": 5234,
           "title": "Manuscript Monday: LJS 426 – [al-Kullīyāt]. = [الكليات]. (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18046",
-          "author": "simsmss",
-          "description": "Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 419, an illustrated herbal with three styles of illustration: one group of illustrations following medieval conventions, sometimes with fantastic elements such as human faces, on recto pages through most of the manuscript; another, rougher but more generallyContinue reading \"Manuscript Monday: LJS 419 – Herbal (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/03/25/manuscript-monday-ljs-419-herbal-video-orientation/",
-          "publishedOn": "2024-03-25T13:00:00.000Z",
-          "wordCount": 5425,
-          "title": "Manuscript Monday: LJS 419 – Herbal (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
         }
       ]
     },
@@ -2795,16 +2767,6 @@
           "wordCount": 3424,
           "title": "Navigating the Western Movement of Artifacts: Mapping the Looted Benin Bronzes",
           "imageUrl": null
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8706",
-          "author": "Jacob Wolff",
-          "description": "By Jacob Wolff Whether you picture Highway 66 as a semiotic or literary landscape, that neon-lit drag shared by Jack Kerouac and Denise Scott Brown is worth revisiting. It’s, of course, immortalized...",
-          "link": "https://sites.temple.edu/tudsc/2024/03/25/mapping-transient-camps-and-border-checkpoints-on-route-66-during-the-great-depression/?utm_source=rss&utm_medium=rss&utm_campaign=mapping-transient-camps-and-border-checkpoints-on-route-66-during-the-great-depression",
-          "publishedOn": "2024-03-25T16:54:50.000Z",
-          "wordCount": 3424,
-          "title": "Mapping Transient Camps and Border Checkpoints on Route 66 during the Great Depression",
-          "imageUrl": null
         }
       ]
     },
@@ -2894,6 +2856,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2024/09/23/major-update-for.html",
+          "author": null,
+          "description": "The Trove newspapers section of the GLAM Workbench was updated last week. Over the last year I’ve been gradually updating notebooks to use version 3 of the Trove API, but when version 2 suddenly disappeared a couple of weeks ago I had to hurriedly pull everything together. The Trove newspapers section includes 23 notebooks and 6 datasets, so it’s not a small job. The changes include:\nupdated all notebooks to use version 3 of the Trove API\nremoved remaining datasets from the code repository and created dedicated data repositories for them, integrating them with Zenodo where appropriate\nadded metadata to all the notebooks – this is used to build an RO-Crate metadata file for the code repository\nupdated all the Python packages\nadded a voila.json file to configure Voilá\nNone of the functionality of the notebooks should have changed. There’s a slight difference in the Finding non-English newspapers in Trove notebook because the language detection library I was using is no longer maintained. I’ve swapped in py3langid and it seems to work well, though the results are a little different. Interestingly, where the previous library thought that bad OCR was ‘Maltese’, the new one detects it as ‘Latin’! There’s no change to the list of newspapers with non-English language content detected by the notebook.\n\r\nThe documentation pages have also been updated. The notebook pages are now built using data from the code repository’s RO-Crate file. They also include embedded HTML previews of the notebooks. If a notebook generates visualisations, the visualisations are usually included in the HTML, so you can explore the outputs without running the notebook – see, for example, the charts in Visualise the total number of newspaper articles in Trove by year and state. Most of the dataset pages now include links to explore the contents using Datasette-Lite.\nI still have to generate RO-Crate files for all the data repositories, but I wanted to get the code stuff finished first.",
+          "link": "https://updates.timsherratt.org/2024/09/23/major-update-for.html",
+          "publishedOn": "2024-09-23T01:15:42.000Z",
+          "wordCount": 388,
+          "title": "Major update for the Trove Newspapers section of the GLAM Workbench",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-09-23-11-09-14.png"
+        },
         {
           "id": "http://wragge.micro.blog/2024/09/20/preserving-the-history.html",
           "author": null,
@@ -3153,16 +3125,6 @@
           "wordCount": 634,
           "title": "Getting to know NED – born-digital periodicals in Trove",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-04-10-22-56-27.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/03/26/more-tools-and.html",
-          "author": null,
-          "description": "The Trove Periodicals section of the GLAM Workbench has been updated! Some changes were necessary to make use of version 3 of the Trove API, but I’ve also taken the chance to reorganise things a bit – starting with the name. This section used to be called ‘Trove journals’, reflecting the naming of Trove’s ‘Journals’ zone. But zones have gone, and periodicals are now spread across multiple categories, so I thought a name change was necessary to better reflect the type of content being examined.\nWhat periodicals have been digitised?\nIt’s surprising difficult to find out what periodicals have actually been digitised in Trove. There’s no straightforward list of titles as there is in the newspapers category. Over the years I’ve created a variety of lists and tools to try and overcome this. I’m …",
-          "link": "https://updates.timsherratt.org/2024/03/26/more-tools-and.html",
-          "publishedOn": "2024-03-26T04:35:02.000Z",
-          "wordCount": 560,
-          "title": "More tools and data for working with Trove's digitised periodicals",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-03-26-15-01-09.png"
         }
       ]
     },
@@ -3476,16 +3438,6 @@
           "wordCount": 520,
           "title": "À la recherche des Juifs spoliés : pillages et \"aryanisation\" au Luxembourg pendant la Seconde guerre mondiale",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/presentation_these_hollerich_web.png?itok=GeZLb6vq"
-        },
-        {
-          "id": "4984 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The Luxembourg steel industry and its main company, ARBED, have undergone a profound transformation since the mid-1970s. Triggered by the economic crisis of 1973, this was characterised by the modernisation and closure of plants, the specialisation of production, international expansion and a far-reaching reduction in the workforce, a process often summarised under the term deindustrialisation. Part of this corporate transformation was the acquisition of the former VEB Maxhütte Unterwellenborn in Thuringia in 1992 and its transformation into a modern and profitable steelworks, making around ninety per cent of the former workers redundant and leading to a delayed but similar process of deindustrialisation. The project examines the history of ARBED between 1973 and 2001, starting from this point of transformation in 1992, and analyses the preconditions and related developments of this takeover, as well as its implications and consequences for ARBED's activities in Thuringia and in Luxembourg. Using a transnational economic history approach, the project aims to analyse the interconnections between processes of deindustrialisation in Western and post-socialist Europe.\n \nWednesday, 17 April 2024\n14.00 - 15.00\nC²DH Open Space (4th floor, Maison des Sciences humaines)\n17 April 2024\n  Public history\n  Confronting Decline: Challenges of Deindustrialisation in Western Societies since the 1970s\n  Industrial history\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/transformation-arbed-1973-2001-between-western-european-and-post-socialist",
-          "publishedOn": "2024-03-27T10:20:49.000Z",
-          "wordCount": 469,
-          "title": "The transformation of ARBED 1973-2001. Between Western European and post-socialist deindustrialization.",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_research_seminars_content_list.png?itok=Nwm2C3Di"
         }
       ]
     },
@@ -4997,16 +4949,6 @@
           "wordCount": 3160,
           "title": "RLUK25 Conference call for papers",
           "imageUrl": "https://www.rluk.ac.uk/wp-content/uploads/2024/06/RLUK25-branding.jpg"
-        },
-        {
-          "id": "https://www.rluk.ac.uk/?p=14562",
-          "author": "Melanie Cheung",
-          "description": "Library spaces as research and cultural infrastructure 🗓 Thursday 23 May, 14:00 - 15:30 - virtual event (Zoom) 🖱 Register for this event Who should attend: This event is open to all, you do not need to work for an RLUK institution to attend. Colleagues involved in library space management or spatial redesign  [...]\nThe post RLUK Space Event – Library spaces as research and cultural infrastructure appeared first on Research Libraries UK.",
-          "link": "https://www.rluk.ac.uk/space-cultural-infrastructure/",
-          "publishedOn": "2024-03-26T11:36:13.000Z",
-          "wordCount": 2958,
-          "title": "RLUK Space Event – Library spaces as research and cultural infrastructure",
-          "imageUrl": "https://www.rluk.ac.uk/wp-content/uploads/2022/06/rluk-space-programme.jpg"
         }
       ]
     },

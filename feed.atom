@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-09-21T08:25:22.036Z</updated>
+    <updated>2024-09-23T09:49:40.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advancing Scholarly Communications Together: Lead a FORCE11 Working Group!]]></title>
+        <id>https://force11.org/?p=151406</id>
+        <link href="https://force11.org/post/advancing-scholarly-communications-together-lead-a-force11-working-group/"/>
+        <updated>2024-09-23T09:32:22.000Z</updated>
+        <summary type="html"><![CDATA[At the FORCE11 conference last month, we had many stimulating conversations about innovation in scholarly communications]]></summary>
+        <author>
+            <name>Iratxe Puebla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DH2025 Media]]></title>
+        <id>https://adho.org/?p=3757</id>
+        <link href="https://adho.org/2024/09/23/dh2025-announcement/"/>
+        <updated>2024-09-23T06:56:37.000Z</updated>
+        <summary type="html"><![CDATA[The Local Organizers for DH2025 are happy to launch the website of the next Digital Humanities conference (https://dh2025.adho.org/) and call for proposals (https://dh2025.adho.org/call-for-proposals/). Welcome to the BlueSky (@dh2025lisbon.bsky.social) and Mastodon (@dh2025) accounts. The X will be announced soon. The email account for all questions about the conference is dh2025@fcsh.unl.pt.]]></summary>
+        <author>
+            <name>Nadezhda Povroznik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major update for the Trove Newspapers section of the GLAM Workbench]]></title>
+        <id>http://wragge.micro.blog/2024/09/23/major-update-for.html</id>
+        <link href="https://updates.timsherratt.org/2024/09/23/major-update-for.html"/>
+        <updated>2024-09-23T01:15:42.000Z</updated>
+        <summary type="html"><![CDATA[The Trove newspapers section of the GLAM Workbench was updated last week. Over the last year I’ve been gradually updating notebooks to use version 3 of the Trove API, but when version 2 suddenly disappeared a couple of weeks ago I had to hurriedly pull everything together. The Trove newspapers section includes 23 notebooks and 6 datasets, so it’s not a small job. The changes include:
+updated all notebooks to use version 3 of the Trove API
+removed remaining datasets from the code repository and created dedicated data repositories for them, integrating them with Zenodo where appropriate
+added metadata to all the notebooks – this is used to build an RO-Crate metadata file for the code repository
+updated all the Python packages
+added a voila.json file to configure Voilá
+None of the functionality of the notebooks should have changed. There’s a slight difference in the Finding non-English newspapers in Trove notebook because the language detection library I was using is no longer maintained. I’ve swapped in py3langid and it seems to work well, though the results are a little different. Interestingly, where the previous library thought that bad OCR was ‘Maltese’, the new one detects it as ‘Latin’! There’s no change to the list of newspapers with non-English language content detected by the notebook.
+
+The documentation pages have also been updated. The notebook pages are now built using data from the code repository’s RO-Crate file. They also include embedded HTML previews of the notebooks. If a notebook generates visualisations, the visualisations are usually included in the HTML, so you can explore the outputs without running the notebook – see, for example, the charts in Visualise the total number of newspaper articles in Trove by year and state. Most of the dataset pages now include links to explore the contents using Datasette-Lite.
+I still have to generate RO-Crate files for all the data repositories, but I wanted to get the code stuff finished first.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Combining Digital Resources to Investigate the Oral-formulaic Diction of Sanskrit Texts (Part 1)]]></title>
         <id>http://digitalorientalist.com/?p=13366</id>
@@ -62,6 +101,26 @@ Nominating Committee:]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RESOURCE: Digital Humanities in US Academic Libraries: Case Studies]]></title>
+        <id>https://dhandlib.org/?p=172792</id>
+        <link href="https://dhandlib.org/2024/09/19/digital-humanities-in-us-academic-libraries-case-studies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=digital-humanities-in-us-academic-libraries-case-studies"/>
+        <updated>2024-09-19T20:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Kelda Habing and Lian Ruan (University of Illinois Fire Service Institute) have published a qualitative study on digital humanities practices from seven US academic libraries to provide insights into how varied academic libraries operate their DH programs, in Digital Transformation and Society. Using semi-structured interviews, they highlight practices around space, technology, staffing, instruction, and collaboration. ...read more]]></summary>
+        <author>
+            <name>Nickoal Eichmann-Kalwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: Global Digital Humanities Symposium 2025]]></title>
+        <id>https://dhandlib.org/?p=172738</id>
+        <link href="https://dhandlib.org/2024/09/19/cfp-global-digital-humanities-symposium-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-global-digital-humanities-symposium-2025"/>
+        <updated>2024-09-19T20:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Proposals are now being accepted for the 10th annual Global Digital Humanities Symposium, being held virtually and in-person April 2-8, 2025 at Michigan State University. From the CFP: Digital Humanities (DH) at Michigan State University (MSU) is proud and thrilled to celebrate the 10th Global DH Symposium with a combination of virtual and in-person events ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CFP: Global Digital Humanities Symposium 2025]]></title>
         <id>https://dhandlib.org/?p=172738</id>
         <link href="https://dhandlib.org/2024/09/19/cfp-global-digital-humanities-symposium-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-global-digital-humanities-symposium-2025"/>
@@ -77,6 +136,26 @@ Nominating Committee:]]></summary>
         <link href="https://dhandlib.org/2024/09/19/cfp-fighting-colonial-erasures-archiving-against-genocides-for-palestinian-liberation-and-global-decolonization/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-fighting-colonial-erasures-archiving-against-genocides-for-palestinian-liberation-and-global-decolonization"/>
         <updated>2024-09-19T20:32:12.000Z</updated>
         <summary type="html"><![CDATA[One of the imperatives of digital humanities as a field is to seize knowledge production and decolonize the cultural record. As digital humanities practitioners in libraries and archives, this is especially the case given the proliferation of disinformation, censorship, and hegemonic narratives that aim to erase the destruction of peoples and their heritage by their ...read more]]></summary>
+        <author>
+            <name>Nickoal Eichmann-Kalwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: Fighting Colonial Erasures, Archiving Against Genocides for Palestinian Liberation and Global Decolonization]]></title>
+        <id>https://dhandlib.org/?p=172790</id>
+        <link href="https://dhandlib.org/2024/09/19/cfp-fighting-colonial-erasures-archiving-against-genocides-for-palestinian-liberation-and-global-decolonization/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-fighting-colonial-erasures-archiving-against-genocides-for-palestinian-liberation-and-global-decolonization"/>
+        <updated>2024-09-19T20:32:12.000Z</updated>
+        <summary type="html"><![CDATA[One of the imperatives of digital humanities as a field is to seize knowledge production and decolonize the cultural record. As digital humanities practitioners in libraries and archives, this is especially the case given the proliferation of disinformation, censorship, and hegemonic narratives that aim to erase the destruction of peoples and their heritage by their ...read more]]></summary>
+        <author>
+            <name>Nickoal Eichmann-Kalwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFP: dh+lib Special Issue CFP: Crafting Encounters with Humanities Data]]></title>
+        <id>https://dhandlib.org/?p=172788</id>
+        <link href="https://dhandlib.org/2024/09/19/cfp-dhlib-special-issue-cfp-crafting-encounters-with-humanities-data/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-dhlib-special-issue-cfp-crafting-encounters-with-humanities-data"/>
+        <updated>2024-09-19T20:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Digital Humanities practitioners and librarians are increasingly engaging in data embodiment and visceralization. Towards this, “Crafting Encounters with Humanities Data” is a special issue of dh+lib that will explore ways of integrating critical making and data physicalization into library-based digital humanities pedagogy in a variety of forms and modalities, including workshops, course-related instruction, and more. ...read more]]></summary>
         <author>
             <name>Nickoal Eichmann-Kalwara</name>
         </author>
@@ -102,11 +181,41 @@ Nominating Committee:]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CFP: Code4Lib 2025]]></title>
+        <id>https://dhandlib.org/?p=172735</id>
+        <link href="https://dhandlib.org/2024/09/19/cfp-code4lib-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cfp-code4lib-2025"/>
+        <updated>2024-09-19T20:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Code4Lib 2025 is soliciting proposals for prepared talks! From the call: Code4Lib 2025 is a loosely-structured conference that provides people working at the intersection of libraries/archives/museums/cultural heritage and technology with a chance to share ideas, be inspired, and forge collaborations. For more information about the Code4Lib community, please visit the Code4Lib website. The conference will ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EVENT: #DHMakes Methodz Talks]]></title>
         <id>https://dhandlib.org/?p=172726</id>
         <link href="https://dhandlib.org/2024/09/19/event-dhmakes-methodz-talks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-dhmakes-methodz-talks"/>
         <updated>2024-09-19T20:25:27.000Z</updated>
         <summary type="html"><![CDATA[The #DHMakes Methodz Talks are informal gatherings of folks interested in vaguely DH-adjacent crafting+making, zero expertise required. Three virtual talks are scheduled for Fall 2024: Sam Blickhan on speedweve for mending socks Date: 10/15/2024 Time: 3-3:30pm ET Registration required: register here before day of event Zoom event taught by Sam Blickhan on speedweve for mending ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: #DHMakes Methodz Talks]]></title>
+        <id>https://dhandlib.org/?p=172726</id>
+        <link href="https://dhandlib.org/2024/09/19/event-dhmakes-methodz-talks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-dhmakes-methodz-talks"/>
+        <updated>2024-09-19T20:25:27.000Z</updated>
+        <summary type="html"><![CDATA[The #DHMakes Methodz Talks are informal gatherings of folks interested in vaguely DH-adjacent crafting+making, zero expertise required. Three virtual talks are scheduled for Fall 2024: Sam Blickhan on speedweve for mending socks Date: 10/15/2024 Time: 3-3:30pm ET Registration required: register here before day of event Zoom event taught by Sam Blickhan on speedweve for mending ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVENT: ACH 2024 (virtual)]]></title>
+        <id>https://dhandlib.org/?p=172731</id>
+        <link href="https://dhandlib.org/2024/09/19/event-ach-2024-virtual/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-ach-2024-virtual"/>
+        <updated>2024-09-19T20:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Registration is now open for #ACH2024, the annual virtual conference of the Association for Computers and the Humanities. ACH 2024 will be held virtually November 6-8, 2024. As the CFP explains, Amid rapid societal and technological transformations and historic elections worldwide, ACH fosters dialogue, spaces, and solidarity on equity and justice across local, transborder, and ...read more]]></summary>
         <author>
             <name>Pamella Lach</name>
         </author>
@@ -132,6 +241,26 @@ Nominating Committee:]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EVENT: Digital Library Federation (DLF) Forum (virtual)]]></title>
+        <id>https://dhandlib.org/?p=172724</id>
+        <link href="https://dhandlib.org/2024/09/19/event-digital-library-federation-dlf-forum-virtual/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=event-digital-library-federation-dlf-forum-virtual"/>
+        <updated>2024-09-19T20:21:24.000Z</updated>
+        <summary type="html"><![CDATA[Registration is open for the Digital Library Federation (DLF) 2024 Forum, happening online (virutally) October 22-23, 2024. The virtual forum features two days of sessions, including lightning talks, multiple concurrent sessions on a range of topics, and plenary talks. Registration includes live access to the virtual event and access to the virtual event recordings after ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUNDING/OPPORTUNITY: Digitizing Hidden Collections: Amplifying Unheard Voices]]></title>
+        <id>https://dhandlib.org/?p=172733</id>
+        <link href="https://dhandlib.org/2024/09/19/funding-opportunity-digitizing-hidden-collections-amplifying-unheard-voices/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=funding-opportunity-digitizing-hidden-collections-amplifying-unheard-voices"/>
+        <updated>2024-09-19T20:20:37.000Z</updated>
+        <summary type="html"><![CDATA[The Council on Library and Information Resources (CLIR) announces its call for applications for Digitizing Hidden Special Collections and Archives: Amplifying Unheard Voices competitive grant. As the call for applications explains, this grant program focuses on: digitizing rare and unique content stewarded by collecting organizations in the US and Canada. Launched in 2021, the program ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FUNDING/OPPORTUNITY: Digitizing Hidden Collections: Amplifying Unheard Voices]]></title>
         <id>https://dhandlib.org/?p=172733</id>
         <link href="https://dhandlib.org/2024/09/19/funding-opportunity-digitizing-hidden-collections-amplifying-unheard-voices/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=funding-opportunity-digitizing-hidden-collections-amplifying-unheard-voices"/>
@@ -147,6 +276,26 @@ Nominating Committee:]]></summary>
         <link href="https://dhandlib.org/2024/09/19/job-digital-scholarship-developer-providence-college-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-developer-providence-college-2"/>
         <updated>2024-09-19T20:19:35.000Z</updated>
         <summary type="html"><![CDATA[From the announcement: Provide strategic leadership for the design, development, and implementation of digital scholarship at Providence College. Remote hybrid work is available at a maximum of two days per week based on approval. Essential Duties: Develop and maintain applications, platforms, and tools that support digital scholarship projects and initiatives through the use of extensive ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOB: Digital Scholarship Developer (Providence College)]]></title>
+        <id>https://dhandlib.org/?p=172719</id>
+        <link href="https://dhandlib.org/2024/09/19/job-digital-scholarship-developer-providence-college-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-digital-scholarship-developer-providence-college-2"/>
+        <updated>2024-09-19T20:19:35.000Z</updated>
+        <summary type="html"><![CDATA[From the announcement: Provide strategic leadership for the design, development, and implementation of digital scholarship at Providence College. Remote hybrid work is available at a maximum of two days per week based on approval. Essential Duties: Develop and maintain applications, platforms, and tools that support digital scholarship projects and initiatives through the use of extensive ...read more]]></summary>
+        <author>
+            <name>Pamella Lach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOB: Data and Immersive Visualization Librarian (Michigan State University)]]></title>
+        <id>https://dhandlib.org/?p=172721</id>
+        <link href="https://dhandlib.org/2024/09/19/job-data-and-immersive-visualization-librarian-michigan-state-university/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=job-data-and-immersive-visualization-librarian-michigan-state-university"/>
+        <updated>2024-09-19T20:18:44.000Z</updated>
+        <summary type="html"><![CDATA[From the announcement: Michigan State University (MSU) Libraries seeks a creative, service-oriented professional to join the Digital Scholarship Lab as the Data and Immersive Visualization Librarian. As a member of a team of professionals in the Digital Scholarship Lab, the Data and Immersive Visualization Librarian will be a key contributor to the MSU Libraries’ services ...read more]]></summary>
         <author>
             <name>Pamella Lach</name>
         </author>
@@ -4314,116 +4463,6 @@ Der Beitrag DHd2024: RaDiHum20 spricht mit den DHd2024-Stipendiat*innen Melanie 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Networks of Gothic]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2611</id>
-        <link href="https://adhc.lib.ua.edu/networksofgothic-project/"/>
-        <updated>2024-04-19T23:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post Networks of Gothic appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Native American History]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2600</id>
-        <link href="https://adhc.lib.ua.edu/nativeamericanhy-project/"/>
-        <updated>2024-04-19T22:55:25.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post Native American History appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Music Politics]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2595</id>
-        <link href="https://adhc.lib.ua.edu/musicpolitics-project/"/>
-        <updated>2024-04-19T22:54:34.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post Music Politics appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Literary Landscapes]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2590</id>
-        <link href="https://adhc.lib.ua.edu/literarylandscapes-project/"/>
-        <updated>2024-04-19T22:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post Literary Landscapes appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knitting & History]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2585</id>
-        <link href="https://adhc.lib.ua.edu/knittinghistory-project/"/>
-        <updated>2024-04-19T22:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post Knitting & History appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HydroMind]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2578</id>
-        <link href="https://adhc.lib.ua.edu/hydromind-project/"/>
-        <updated>2024-04-19T22:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post HydroMind appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Foodways]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2571</id>
-        <link href="https://adhc.lib.ua.edu/globalfoodways-project/"/>
-        <updated>2024-04-19T22:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post Global Foodways appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game Archive]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2563</id>
-        <link href="https://adhc.lib.ua.edu/gamearchive-project/"/>
-        <updated>2024-04-19T22:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post Game Archive appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HY 107 Early American History​]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2542</id>
-        <link href="https://adhc.lib.ua.edu/hy107-project/"/>
-        <updated>2024-04-19T22:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post HY 107 Early American History​ appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dirt Poor]]></title>
-        <id>https://adhc.lib.ua.edu/?p=2537</id>
-        <link href="https://adhc.lib.ua.edu/dirtpoor-project/"/>
-        <updated>2024-04-19T22:11:08.000Z</updated>
-        <summary type="html"><![CDATA[Project Summary
-The post Dirt Poor appeared first on Alabama Digital Humanities Center.]]></summary>
-        <author>
-            <name>adhcadmin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating the largest Juren Dataset with ChatGPT: A Journey through Digital Humanities. (Part Two)]]></title>
         <id>http://digitalorientalist.com/?p=12691</id>
         <link href="https://digitalorientalist.com/2024/04/19/creating-the-largest-juren-dataset-with-chatgpt-a-journey-through-digital-humanities-part-two/"/>
@@ -6460,27 +6499,6 @@ You can also connect with ATRIUM on Twitter/X and LinkedIn.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The transformation of ARBED 1973-2001. Between Western European and post-socialist deindustrialization.]]></title>
-        <id>4984 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/transformation-arbed-1973-2001-between-western-european-and-post-socialist"/>
-        <updated>2024-03-27T10:20:49.000Z</updated>
-        <summary type="html"><![CDATA[The Luxembourg steel industry and its main company, ARBED, have undergone a profound transformation since the mid-1970s. Triggered by the economic crisis of 1973, this was characterised by the modernisation and closure of plants, the specialisation of production, international expansion and a far-reaching reduction in the workforce, a process often summarised under the term deindustrialisation. Part of this corporate transformation was the acquisition of the former VEB Maxhütte Unterwellenborn in Thuringia in 1992 and its transformation into a modern and profitable steelworks, making around ninety per cent of the former workers redundant and leading to a delayed but similar process of deindustrialisation. The project examines the history of ARBED between 1973 and 2001, starting from this point of transformation in 1992, and analyses the preconditions and related developments of this takeover, as well as its implications and consequences for ARBED's activities in Thuringia and in Luxembourg. Using a transnational economic history approach, the project aims to analyse the interconnections between processes of deindustrialisation in Western and post-socialist Europe.
- 
-Wednesday, 17 April 2024
-14.00 - 15.00
-C²DH Open Space (4th floor, Maison des Sciences humaines)
-17 April 2024
-  Public history
-  Confronting Decline: Challenges of Deindustrialisation in Western Societies since the 1970s
-  Industrial history
-  Research seminars
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Virtual Workshop: AI and Labor]]></title>
         <id>https://ach.org/?p=2643</id>
         <link href="https://ach.org/blog/2024/03/26/virtual-workshop-ai-and-labor/"/>
@@ -6488,16 +6506,6 @@ C²DH Open Space (4th floor, Maison des Sciences humaines)
         <summary type="html"><![CDATA[Tuesday, April 2, 2024, 3:30-4:30pm EDT Register here As scholars, practitioners, and activists have widely discussed, AI and other generative technologies require a rethinking of how workers can be protected. These technologies gather and use data generated by workers, generating issues such as wage discrimination and, in the long run, replacement of labor. In this…Continue reading.]]></summary>
         <author>
             <name>jwoowinter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alex  Gil]]></title>
-        <id>1282 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/speakers/gil-alex-0"/>
-        <updated>2024-03-26T17:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Senior Lecturer II and Associate Research Faculty of Digital Humanities in the Department of Spanish and Portuguese at Yale University]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
         </author>
     </entry>
     <entry>
@@ -6510,16 +6518,6 @@ C²DH Open Space (4th floor, Maison des Sciences humaines)
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sloane Lab and HDSM Darmstadt Seminar Series 2024: Critical and creative engagement with historical data]]></title>
-        <id>https://blogs.ucl.ac.uk/dh/?p=8312</id>
-        <link href="https://blogs.ucl.ac.uk/dh/2024/03/26/sloanelab-hdsmdarmstadt-seminar2024/"/>
-        <updated>2024-03-26T14:34:31.000Z</updated>
-        <summary type="html"><![CDATA[We are delighted to announce the second edition of the Sloane Lab symposium series commencing on the 16th of April 2024, facilitated in collaboration with the Humanities Data Science & Methodology (HDSM) Oberseminar of TU Darmstadt, the UCL Centre for Digital Humanities (UCLDH) and the UCL Institute for Advanced Studies (UCL IAS). This seminar invites […]]]></summary>
-        <author>
-            <name>Lucy Stagg</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Training: Relational Databases – Advanced]]></title>
         <id>https://scholarlytales.hcommons.org/?p=2073</id>
         <link href="https://scholarlytales.hcommons.org/2024/03/26/training-relational-databases-advanced/"/>
@@ -6529,70 +6527,6 @@ C²DH Open Space (4th floor, Maison des Sciences humaines)
 Continue reading “Training: Relational Databases – Advanced”…]]></summary>
         <author>
             <name>Laura Mesotten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan’s Imperial Household Agency: The Archives and Mausolea Department Catalog and Image Disclosure System]]></title>
-        <id>http://digitalorientalist.com/?p=12457</id>
-        <link href="https://digitalorientalist.com/2024/03/26/japans-imperial-household-agency-the-archives-and-mausolea-department-catalog-and-image-disclosure-system/"/>
-        <updated>2024-03-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Overview  The Imperial Household Agency in Tokyo is an administrative body under the Cabinet Office for affairs relating to the …]]></summary>
-        <author>
-            <name>Hirohito TSUJI 辻󠄀 博仁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RLUK Space Event – Library spaces as research and cultural infrastructure]]></title>
-        <id>https://www.rluk.ac.uk/?p=14562</id>
-        <link href="https://www.rluk.ac.uk/space-cultural-infrastructure/"/>
-        <updated>2024-03-26T11:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Library spaces as research and cultural infrastructure 🗓 Thursday 23 May, 14:00 - 15:30 - virtual event (Zoom) 🖱 Register for this event Who should attend: This event is open to all, you do not need to work for an RLUK institution to attend. Colleagues involved in library space management or spatial redesign  [...]
-The post RLUK Space Event – Library spaces as research and cultural infrastructure appeared first on Research Libraries UK.]]></summary>
-        <author>
-            <name>Melanie Cheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Women’s History Month in Gale Digital Scholar Lab: Named Entity Recognition, Python Notebooks, and an Intrepid Female Diarist]]></title>
-        <id>https://review.gale.com/?p=15111</id>
-        <link href="https://review.gale.com/2024/03/26/womens-history-month-in-gale-digital-scholar-lab-named-entity-recognition-python-notebooks-and-an-intrepid-female-diarist/"/>
-        <updated>2024-03-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ Every March is Women’s History Month! In keeping with the themes of digital scholarship explored in the ‘Notes from our DH Correspondent’ series, and to celebrate a lesser-known historical female figure, in this month’s post I’ll discuss how I am exploring some of my text research data ... Read more
-The post Women’s History Month in <i>Gale Digital Scholar Lab</i>: Named Entity Recognition, Python Notebooks, and an Intrepid Female Diarist appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Review Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More tools and data for working with Trove's digitised periodicals]]></title>
-        <id>http://wragge.micro.blog/2024/03/26/more-tools-and.html</id>
-        <link href="https://updates.timsherratt.org/2024/03/26/more-tools-and.html"/>
-        <updated>2024-03-26T04:35:02.000Z</updated>
-        <summary type="html"><![CDATA[The Trove Periodicals section of the GLAM Workbench has been updated! Some changes were necessary to make use of version 3 of the Trove API, but I’ve also taken the chance to reorganise things a bit – starting with the name. This section used to be called ‘Trove journals’, reflecting the naming of Trove’s ‘Journals’ zone. But zones have gone, and periodicals are now spread across multiple categories, so I thought a name change was necessary to better reflect the type of content being examined.
-What periodicals have been digitised?
-It’s surprising difficult to find out what periodicals have actually been digitised in Trove. There’s no straightforward list of titles as there is in the newspapers category. Over the years I’ve created a variety of lists and tools to try and overcome this. I’m …]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping Transient Camps and Border Checkpoints on Route 66 during the Great Depression]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8706</id>
-        <link href="https://sites.temple.edu/tudsc/2024/03/25/mapping-transient-camps-and-border-checkpoints-on-route-66-during-the-great-depression/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mapping-transient-camps-and-border-checkpoints-on-route-66-during-the-great-depression"/>
-        <updated>2024-03-25T16:54:50.000Z</updated>
-        <summary type="html"><![CDATA[By Jacob Wolff Whether you picture Highway 66 as a semiotic or literary landscape, that neon-lit drag shared by Jack Kerouac and Denise Scott Brown is worth revisiting. It’s, of course, immortalized...]]></summary>
-        <author>
-            <name>Jacob Wolff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 419 – Herbal (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18046</id>
-        <link href="https://schoenberginstitute.org/2024/03/25/manuscript-monday-ljs-419-herbal-video-orientation/"/>
-        <updated>2024-03-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, Curator, Digital Research Services at the University of Pennsylvania Library, presents a video orientation to LJS 419, an illustrated herbal with three styles of illustration: one group of illustrations following medieval conventions, sometimes with fantastic elements such as human faces, on recto pages through most of the manuscript; another, rougher but more generallyContinue reading "Manuscript Monday: LJS 419 – Herbal (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
         </author>
     </entry>
     <entry>
