@@ -2198,6 +2198,16 @@
       "siteUrl": "https://review.gale.com",
       "articles": [
         {
+          "id": "https://review.gale.com/?p=15543",
+          "author": "Gale Review Team",
+          "description": "│By Sarah L. Ketchley, Sr. Digital Humanities Specialist│ For the start of a new academic year, this month’s Notes from our DH Correspondent blog post is a useful resource indexing all the Notes posts to date. They are categorised below to support instructors to plan, build and deliver classroom DH curricula.  This is a great ... Read more\nThe post A Classroom Compendium: Digital Humanities Resources for a New School Year appeared first on The Gale Review.",
+          "link": "https://review.gale.com/2024/09/24/digital-humanities-resources/",
+          "publishedOn": "2024-09-24T06:00:00.000Z",
+          "wordCount": 2747,
+          "title": "A Classroom Compendium: Digital Humanities Resources for a New School Year",
+          "imageUrl": "https://review.gale.com/wp-content/uploads/2024/09/08.-Notes-from-a-DH-Correspondent-Sep.png"
+        },
+        {
           "id": "https://review.gale.com/?p=15498",
           "author": "Gale Review Team",
           "description": "│By Alan Thomas, AI Research Engineer at the Centre for Machine Intelligence, University of Sheffield│ Poor optical character recognition (OCR) quality is a major obstacle for humanities scholars seeking to make use of digitised primary sources such as historical newspapers. To improve the quality of noisily OCR’d historical documents, we introduce BLN600 – an open-access ... Read more",
@@ -2334,6 +2344,16 @@
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
       "articles": [
+        {
+          "id": "http://schoenberginstitute.org/?p=18306",
+          "author": "dotporter",
+          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 37, an incomplete abridgment in Arabic of Euclid’s Elements (also described in this video orientation), and LJS 460, an individual quire which used to be part of LJS 37. It was written in Fatimid Egypt, Iraq, orContinue reading \"Manuscript Monday: Penn Library’s LJS 37 and LJS 460 -[Ikhtiṣār lil-maqālāt min kitāb Uqlīdis](Video Orientation)\"",
+          "link": "https://schoenberginstitute.org/2024/09/23/manuscript-monday-penn-librarys-ljs-37-and-ljs-460-ikhti%e1%b9%a3ar-lil-maqalat-min-kitab-uqlidisvideo-orientation/",
+          "publishedOn": "2024-09-23T13:25:37.000Z",
+          "wordCount": 5369,
+          "title": "Manuscript Monday: Penn Library’s LJS 37 and LJS 460 -[Ikhtiṣār lil-maqālāt min kitāb Uqlīdis](Video Orientation)",
+          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/08/screenshot-2024-08-27-at-9.33.32e280afam.png?w=1200"
+        },
         {
           "id": "http://schoenberginstitute.org/?p=18297",
           "author": "dotporter",
@@ -2649,16 +2669,6 @@
           "publishedOn": "2024-04-08T09:18:21.000Z",
           "wordCount": 2688,
           "title": "Training: Structured Note-taking with Digital Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=2073",
-          "author": "Laura Mesotten",
-          "description": "The Artes Research team from KU Leuven Libraries Artes and the Faculty of Arts will organize a training on relational databases, given by Tom Gheldof, on Thursday 18 April, from 13h30 to 16h30, in the Colloquium (University Library, Leuven). Everyone is welcome to attend, but…\n\nContinue reading “Training: Relational Databases – Advanced”…",
-          "link": "https://scholarlytales.hcommons.org/2024/03/26/training-relational-databases-advanced/",
-          "publishedOn": "2024-03-26T14:25:05.000Z",
-          "wordCount": 2700,
-          "title": "Training: Relational Databases – Advanced",
           "imageUrl": null
         }
       ]
@@ -4751,46 +4761,6 @@
           "publishedOn": "2024-04-03T13:46:28.000Z",
           "wordCount": 505,
           "title": "Centre news vol. 65 - April 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "6057 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Call for Papers: DRDHum 2024\n\n            \nThe third edition of the Digital Research Data and Human Sciences (DRDHum 2024) conference at the University of Eastern Finland, Joensuu, aims to bring together researchers who have different areas of interest and expertise to discuss the themes of data compilation and management, and to share their knowledge and experience. The theme of the conference is 'Digital Humanities in the Age of AI'. \n \nWe encourage contributions from researchers and research groups who have implemented interdisciplinary research to participate in the event.\n \nImportant dates:\nSubmission of oral presentations and posters: 12 April 2024\nSubmission of workshop proposals: 12 April 2024\nAcceptance of abstracts: 01 June 2024\nConference: 10-12 December 2024\n \nPlenary speakers: Katherine Bode (Australian National University), Anna Foka (Uppsala University, Sweden), Michaela Mahlberg (University of Birmingham, UK), and Tony McEnery (University of Lancaster, UK).\n \nSee the Call for Papers for more information. \n\n      Karina Berger\n 28 March 2024",
-          "link": "https://www.clarin.eu/news/call-papers-drdhum-2024",
-          "publishedOn": "2024-03-28T13:09:30.000Z",
-          "wordCount": 498,
-          "title": "Call for Papers: DRDHum 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "6056 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Call for Papers: International CLaDA-BG Conference 2024\n\n            \n\n  \n  \n            \n    \nThe third edition of the CLaDA-BG Conference will be held in Sofia, Bulgaria, on 26-28 June, 2024.\nCLaDA-BG is the Bulgarian national research infrastructure for resources and technologies for linguistic, cultural and historical heritage, integrated within CLARIN and DARIAH. Its mission is to provide access to the necessary resources and technologies that support research in the Social Sciences and Humanities (SSH). Modelling and linking of various types of knowledge and its contexts is crucial for successful research in the interdisciplinary field of resources and technologies related to language, culture and history.\nThe conference aims to bring together \n    \nNatural Language Processing\nSee: h…",
-          "link": "https://www.clarin.eu/news/call-papers-international-clada-bg-conference-2024",
-          "publishedOn": "2024-03-28T12:43:44.000Z",
-          "wordCount": 672,
-          "title": "Call for Papers: International CLaDA-BG Conference 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "6055 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "CLARIN Newsflash: March 2024 Is Out\n\n            \n\n  \n  \n            \n    \nEvery month, CLARIN publishes a Newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.\nRead the most recent CLARIN Newsflash: March 2024\nSubscribing to it is the ideal way of staying informed.\nSubscribe here\nPast issues of the CLARIN Newsflash\nYou are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.\n\n      Karina Berger\n 28 March 2024",
-          "link": "https://www.clarin.eu/news/clarin-newsflash-march-2024-out",
-          "publishedOn": "2024-03-28T12:25:20.000Z",
-          "wordCount": 438,
-          "title": "CLARIN Newsflash: March 2024 Is Out",
-          "imageUrl": null
-        },
-        {
-          "id": "6053 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "ATRIUM Project: Launch of Communication Channels\n\n            \n\n  \n  \n            \n  \n\n\n\n      \n\nThe ATRIUM project (Advancing Frontier Research in the Arts & Humanities) has launched its new website, which can be accessed at www.atrium-research.eu. ATRIUM is a four-year European Commission-funded project with the aim of bridging four leading research infrastructures in the arts and humanities (DARIAH), archaeology (ARIADNE), languages (CLARIN), and scholarly communication (OPERAS). \nCLARIN is proud to be participating partner, along with several CLARIN nodes as beneficiaries: University of Sheffield (UK), Charles University, Prague (CZ), LM University, Munich (DE), Radboud University, Nijmegen (NL), and Athena-RC / ISLP (GR).\nThe Transnational Access Grant call will be of special interest to scholars interested in benefitting from this scheme, which aims to recruit and support approximately 200 arts and humanities researchers with mentorship and access to knowledge, data and tools from 14 different institutions across Europe. \nYou can also connect with ATRIUM on Twitter/X and LinkedIn.\n\n      Karina Berger\n 28 March 2024",
-          "link": "https://www.clarin.eu/news/atrium-project-launch-communication-channels",
-          "publishedOn": "2024-03-28T08:50:20.000Z",
-          "wordCount": 502,
-          "title": "ATRIUM Project: Launch of Communication Channels",
           "imageUrl": null
         }
       ]
