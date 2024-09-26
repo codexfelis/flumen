@@ -2867,6 +2867,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/09/26/wheres-missing-volume.html",
+          "author": null,
+          "description": "Visualisation is a great way to find problems in your data.\nAs part of the Everyday Heritage project, I’m working with a team to document the lives of Tasmania’s Chinese residents in the 19th and early 20th centuries. We’re using a variety of sources such as Trove’s newspapers, the Tasmanian Names Index, and the Tasmanian Post Office Directories. To help with the research, I converted all the PDF volumes of the Post Office Directories into a public, online, searchable database. Or at least, I thought I had.\nThe Tasmanian Post Office Directories database embeds metadata about each line of text in its results, so it’s easy to save items of interest using Zotero. A member of our team has already saved hundreds of entries this way. The other day I started pulling these entries out of Zotero us…",
+          "link": "https://updates.timsherratt.org/2024/09/26/wheres-missing-volume.html",
+          "publishedOn": "2024-09-26T02:58:54.000Z",
+          "wordCount": 629,
+          "title": "Where's 1920? Missing volume added to Tasmanian Post Office Directories!",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-09-26-12-27-41.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/09/23/major-update-for.html",
           "author": null,
           "description": "The Trove newspapers section of the GLAM Workbench was updated last week. Over the last year I’ve been gradually updating notebooks to use version 3 of the Trove API, but when version 2 suddenly disappeared a couple of weeks ago I had to hurriedly pull everything together. The Trove newspapers section includes 23 notebooks and 6 datasets, so it’s not a small job. The changes include:\nupdated all notebooks to use version 3 of the Trove API\nremoved remaining datasets from the code repository and created dedicated data repositories for them, integrating them with Zenodo where appropriate\nadded metadata to all the notebooks – this is used to build an RO-Crate metadata file for the code repository\nupdated all the Python packages\nadded a voila.json file to configure Voilá\nNone of the functionality of the notebooks should have changed. There’s a slight difference in the Finding non-English newspapers in Trove notebook because the language detection library I was using is no longer maintained. I’ve swapped in py3langid and it seems to work well, though the results are a little different. Interestingly, where the previous library thought that bad OCR was ‘Maltese’, the new one detects it as ‘Latin’! There’s no change to the list of newspapers with non-English language content detected by the notebook.\n\r\nThe documentation pages have also been updated. The notebook pages are now built using data from the code repository’s RO-Crate file. They also include embedded HTML previews of the notebooks. If a notebook generates visualisations, the visualisations are usually included in the HTML, so you can explore the outputs without running the notebook – see, for example, the charts in Visualise the total number of newspaper articles in Trove by year and state. Most of the dataset pages now include links to explore the contents using Datasette-Lite.\nI still have to generate RO-Crate files for all the data repositories, but I wanted to get the code stuff finished first.",
@@ -3149,6 +3159,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5164 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Discover how our generative AI solution is transforming access to the public archives of the European Parliament. By integrating character recognition, named entity extraction, and natural language prompt search, this generative AI innovation allows exploration of thousands of legislative documents from 1952 to 1994. Accessible online for all citizens, our solution contributes to the preservation of institutional memory and document accessibility, ensuring precise and multilingual search capabilities, while promoting a better understanding of the European Parliament's legislative heritage.\nDr. Ludovic Delépine has 30 years of experience in IT, in particular IT governance in public administration, enterprise architecture and digital transformation. He is currently Head of the Archives Unit in the Directorate-General of the Presidency. He has also been leading the thematic pole of IT governance of the Inter-Parliamentary Union for 7 years. He has previously been a teacher in IT at several French universities, as well as a researcher in CNRS-labeled laboratories in Artificial Intelligence.\nRead more on discriminative AI\nRead more on generative AI\n \nWednesday, 30 October 2024\n\n14.00 - 15.00\n\nC²DH Open Space (4th floor Maison des Sciences humaines)\nand online\n30 October 2024\n  Digital history & historiography\n  Archives  Artificial  intelligence  Digital methods  Digital tools\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/revolutionizing-historical-research-generative-ai-and-digitized-archives-european-parliament",
+          "publishedOn": "2024-09-25T06:51:02.000Z",
+          "wordCount": 477,
+          "title": "Revolutionizing Historical Research: Generative AI and the Digitized Archives of the European Parliament",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/meet_ask_the_archives_the_new_ai_tool_of_the_european_parliament_archives_full_width.jpg?itok=PAYYzx2H"
+        },
         {
           "id": "5162 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -4513,6 +4533,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "8413 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "CLARIN Newsflash September 2024 Is Out\n\n            \n\n  \n  \n            \n  \n\n\n\n      \n\nEvery month, CLARIN publishes a Newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.\nRead the most recent CLARIN Newsflash: September 2024\nSubscribing to it is the ideal way of staying informed.\nSubscribe here\nPast issues of the CLARIN Newsflash\n \nYou are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.\n\n      Julia Misersky\n 25 September 2024",
+          "link": "https://www.clarin.eu/news/clarin-newsflash-september-2024-is-out",
+          "publishedOn": "2024-09-25T11:35:51.000Z",
+          "wordCount": 366,
+          "title": "CLARIN Newsflash September 2024 Is Out",
+          "imageUrl": null
+        },
         {
           "id": "7990 at https://www.clarin.eu",
           "author": "Dieter Van Uytvanck",
