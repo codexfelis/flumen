@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-10-03T08:28:30.674Z</updated>
+    <updated>2024-10-04T08:28:33.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neuer Artikel zur genetischen Kritik und Semantic Web Technologien]]></title>
+        <id>news-236</id>
+        <link href="https://rise.unibas.ch/de/news/details/neuer-artikel-zur-genetischen-kritik-und-semantic-web-technologien/"/>
+        <updated>2024-10-04T07:32:29.000Z</updated>
+        <summary type="html"><![CDATA[News,
+                        Forschung
+                        
+Das Research Data Journal for the Humanities and Social Sciences veröffentlichte die Arbeit „Zwei Datensätze von genetischen Dossiers und autoralen Manuskripten“ von Elena Spadini.]]></summary>
+        <author>
+            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Update on DRI’s EDI Policy Progress]]></title>
         <id>https://dri.ie/?post_type=news&amp;p=37513</id>
