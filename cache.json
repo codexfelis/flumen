@@ -417,16 +417,6 @@
           "wordCount": 2300,
           "title": "Fall 2024 Events",
           "imageUrl": null
-        },
-        {
-          "id": "https://dh.rutgers.edu/?p=78108",
-          "author": "Francesca Giannetti",
-          "description": "by Francesca Giannetti and Joseph Goeller Last October, we assembled a panel of six outstanding speakers representing a range of perspectives to talk about open access and humanities scholarship. Open access in the sciences, a.k.a. Open Science, has become well established, especially so after the 2013 and 2022 Memoranda from the White House Office of Science and Technology Policy (OSTP) reinforcing the idea that everyone, not just scholars at wealthy institutions, should have access to important and useful research, especially so when that research is paid for with public money. What is less well appreciated is that the 2022 memo—also known as the Nelson memo—provides",
-          "link": "https://dh.rutgers.edu/open-humanities/?utm_source=rss&utm_medium=rss&utm_campaign=open-humanities",
-          "publishedOn": "2024-04-08T16:44:35.000Z",
-          "wordCount": 2887,
-          "title": "Open Humanities Panel",
-          "imageUrl": null
         }
       ]
     },
@@ -1110,6 +1100,16 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/964",
+          "author": "434",
+          "description": "Eintrittstermin: nächstmöglich\nBewerbungsfrist: 13.10.2024\nEntgeltgruppe: E 13 TV-H\nBefristung: 4 Jahre\nUmfang: Vollzeit\n \nDie 1527 gegründete Philipps-Universität bietet vielfach…",
+          "link": "https://dig-hum.de/aktuelles/wissenschaftlicher-mitarbeiterin-postdoktorandin-oder-doktorandin-der-philipps-universit%C3%A4t",
+          "publishedOn": "2024-10-05T08:26:11.224Z",
+          "wordCount": 1453,
+          "title": "Wissenschaftliche*r Mitarbeiter*in (Postdoktorand*in oder Doktorand*in) an der Philipps-Universität Marburg",
+          "imageUrl": null
+        },
+        {
           "id": "node/963",
           "author": "434",
           "description": "Liebe Mitglieder des DHd-Verbandes und Interessierte,\nfür unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…",
@@ -1312,6 +1312,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=13612",
+          "author": "Anaïs Wion",
+          "description": "The Malian radio station in Kayes, close to the Senegalese border, was founded in 1988, as part of an Italian …",
+          "link": "https://digitalorientalist.com/2024/10/04/digitising-the-archives-of-a-rural-radio-in-mali-a-transnational-project/",
+          "publishedOn": "2024-10-04T13:00:00.000Z",
+          "wordCount": 4761,
+          "title": "Digitising the Archives of a Rural Radio in Mali: A Transnational Project",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/radiokayesbandeaufb.jpg?w=1200"
+        },
         {
           "id": "http://digitalorientalist.com/?p=12146",
           "author": "James Harry Morris",
@@ -1696,35 +1706,13 @@
       "title": "LiLa: Linking Latin",
       "feedUrl": "https://lila-erc.eu/feed",
       "siteUrl": "https://lila-erc.eu",
-      "articles": [
-        {
-          "id": "https://lila-erc.eu/?p=3145",
-          "author": "Eleonora Litta",
-          "description": "The full text of the “De Trinitate” by Augustine of Hippo has been published and linked to the LiLa Knowledge Base. Start browsing the text here: https://lila-erc.eu/lodview/data/corpora/CIRCSELatinLibrary/id/corpus/De%20Trinitate or download the data from the github repository, here. And don’t forget to perform your advanced searches on the De Trinitate on the LiLa Search Interactive Platform.\nThe post Augustine’s De Trinitate in LiLa appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/augustines-de-trinitate-in-lila/",
-          "publishedOn": "2024-04-08T13:57:06.000Z",
-          "wordCount": 737,
-          "title": "Augustine’s De Trinitate in LiLa",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News – LiLa: Linking Latin",
       "feedUrl": "https://lila-erc.eu/news/feed/",
       "siteUrl": "https://lila-erc.eu",
-      "articles": [
-        {
-          "id": "https://lila-erc.eu/?p=3145",
-          "author": "Eleonora Litta",
-          "description": "The full text of the “De Trinitate” by Augustine of Hippo has been published and linked to the LiLa Knowledge Base. Start browsing the text here: https://lila-erc.eu/lodview/data/corpora/CIRCSELatinLibrary/id/corpus/De%20Trinitate or download the data from the github repository, here. And don’t forget to perform your advanced searches on the De Trinitate on the LiLa Search Interactive Platform.\nThe post Augustine’s De Trinitate in LiLa appeared first on LiLa: Linking Latin.",
-          "link": "https://lila-erc.eu/augustines-de-trinitate-in-lila/",
-          "publishedOn": "2024-04-08T13:57:06.000Z",
-          "wordCount": 737,
-          "title": "Augustine’s De Trinitate in LiLa",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Living with Machines",
@@ -2493,16 +2481,6 @@
           "wordCount": 5304,
           "title": "Manuscript Monday: LJS 429 – Natural Philosophy (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18090",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator for Digital Humanities at the University of Pennsylvania Library, presents a video orientation to the University of Pennsylvania Library’s LJS 427, Books II (materia medica), III (diseases arranged by part of the body), IV (diseases not specific to particular organs), and V (compound drugs, ointments, and electuaries) of Avicenna’s medical encyclopedia.Continue reading \"Manuscript Monday: LJS 427 – [Books II-V of al-Qānūn fī al-ṭibb]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/04/08/manuscript-monday-ljs-427-al-kulliyat-%d8%a7%d9%84%d9%83%d9%84%d9%8a%d8%a7%d8%aa-video-orientation-2/",
-          "publishedOn": "2024-04-08T12:53:54.000Z",
-          "wordCount": 5337,
-          "title": "Manuscript Monday: LJS 427 – [Books II-V of al-Qānūn fī al-ṭibb]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
         }
       ]
     },
@@ -2511,6 +2489,16 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=2146",
+          "author": "Leah Budke",
+          "description": "Are you a Digital Humanities student or early career researcher in Belgium who would like to discuss DH with other early career researchers in the Belgian DH community? If so, you might be interested in joining the DH Virtual Discussion…\n\nContinue reading “Webinar Series: DH Virtual Discussion Group for ECRs in Belgium – Fall 2024 Edition”…",
+          "link": "https://scholarlytales.hcommons.org/2024/10/03/webinar-series-dh-virtual-discussion-group-for-ecrs-in-belgium-fall-2024-edition/",
+          "publishedOn": "2024-10-03T09:19:15.000Z",
+          "wordCount": 2896,
+          "title": "Webinar Series: DH Virtual Discussion Group for ECRs in Belgium – Fall 2024 Edition",
+          "imageUrl": null
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=2132",
           "author": "Leah Budke",
@@ -2549,16 +2537,6 @@
           "publishedOn": "2024-04-19T09:55:10.000Z",
           "wordCount": 3252,
           "title": "Event: In-Person Meeting of DH (Usually Virtual) Discussion Group for ECRs in Belgium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=2082",
-          "author": "Laura Mesotten",
-          "description": "The Artes Research team from KU Leuven Libraries Artes will organize a training on structured note-taking with digital tools on Thursday 13 June, 10h to 12h at Agora Learning Centre, collaborative learning space (M00.E67). Everyone is welcome to attend but registration is…\n\nContinue reading “Training: Structured Note-taking with Digital Tools”…",
-          "link": "https://scholarlytales.hcommons.org/2024/04/08/training-structured-note-taking-with-digital-tools/",
-          "publishedOn": "2024-04-08T09:18:21.000Z",
-          "wordCount": 2688,
-          "title": "Training: Structured Note-taking with Digital Tools",
           "imageUrl": null
         }
       ]
@@ -4730,6 +4708,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/?post_type=news&p=37717",
+          "author": "Beth Knazook",
+          "description": "In early February, the Digital Repository of Ireland (DRI) announced a new pilot programme designed to support the sustainability of ‘legacy’ research collections, i.e. research materials from closed projects, not previously published in a data repository for long-term preservation and access. Researchers or research groups were eligible to apply for a single deposit allocation (one […]\nThe post Legacy Data Preservation Pilot Collections Published appeared first on Digital Repository of Ireland.",
+          "link": "https://dri.ie/news/legacy-data-collections-published/",
+          "publishedOn": "2024-10-04T08:47:45.000Z",
+          "wordCount": 2254,
+          "title": "Legacy Data Preservation Pilot Collections Published",
+          "imageUrl": "https://dri.ie/app/uploads/2024/03/Pilot.jpg"
+        },
         {
           "id": "https://dri.ie/?post_type=news&p=37513",
           "author": "Aine Madden",
