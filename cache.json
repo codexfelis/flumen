@@ -989,7 +989,28 @@
       "title": "Digital Humanities & Literary Cognition Lab",
       "feedUrl": "https://dhlc.cal.msu.edu/feed",
       "siteUrl": "https://dhlc.cal.msu.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://dhlc.cal.msu.edu/?p=891",
+          "author": "chambl91",
+          "description": "The Digital Humanities and Literary Cognition Lab—housed in the English Department—warmly invites you to our upcoming exhibit and conference showcasing pandemic art, Creativity in the Time of COVID-19: Art as Medicine. Our exhibit and conference are products of a $3M Mellon grant headed by Dr. Natalie Phillips, Dr. Julian Chambliss, and a dynamic team of undergraduate and […]",
+          "link": "https://dhlc.cal.msu.edu/2024/10/09/creativity-in-the-time-of-covid-19-art-as-medicine-2-day-conference-oct-10-11th-2-8pm-at-rcah-in-2nd-floor-of-sny-phi-hall/",
+          "publishedOn": "2024-10-09T18:19:21.000Z",
+          "wordCount": 1548,
+          "title": "Creativity in the Time of Covid-19: Art as Medicine | 2-day conference Oct 10 & 11th, 2-8pm at RCAH in 2nd floor of Sny-Phi Hall",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhlc.cal.msu.edu/?p=887",
+          "author": "chambl91",
+          "description": "The DHLC is embarking on a new partnership with Scholarly Editing: The Annual of the Association for Documentary Editing, which is designed to bolster the journal’s Voices and Perspective section. Scholarly Editing is a peer-reviewed, open-access annual whose editors seek to recover texts and artifacts that honor the lives of and contributions from and about […]",
+          "link": "https://dhlc.cal.msu.edu/2024/10/09/the-dhlc-is-partnering-with-scholarly-editing/",
+          "publishedOn": "2024-10-09T18:14:46.000Z",
+          "wordCount": 1608,
+          "title": "The DHLC is partnering with Scholarly Editing",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Digital Humanities Network",
@@ -1754,6 +1775,36 @@
       "feedUrl": "https://pricelab.sas.upenn.edu/rss.xml",
       "siteUrl": "https://pricelab.sas.upenn.edu",
       "articles": [
+        {
+          "id": "1310 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Wednesday, November 20, 2024 - 5:00pm\n\n\n\nWilliams 623\n\n\n\nOmeka is a content management system (CMS) designed by digital humanists at the Roy Rosenzweig Center for History and New Media at George Mason University. It allows you to create online collections and digital exhibits without knowing any code. Thinking about a tool like Omeka also gives us the opportunity to get into some of the most common questions in DH around maintenance, sustainability, collaboration, labor, digital representation, and the politics of metadata … and probably a few other things too. The goal of the workshop isn’t necessarily to promote Omeka (evene though it is an excellent tool for many applications) but rather to give you the information you need to decide if Omeka is right for you (and if it isn’t, what alternatives there might be).\n\n\nSubtitle: \n\nwith Stewart Varner\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/introduction-omeka",
+          "publishedOn": "2024-10-09T17:54:07.000Z",
+          "wordCount": 406,
+          "title": "Introduction to Omeka",
+          "imageUrl": null
+        },
+        {
+          "id": "1309 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Wednesday, October 30, 2024 - 5:00pm\n\n\n\nIn this workshop, I will introduce and demo a few very easy to use tools including:\nVoyant (easy Text Analysis)\nTimelineJS (easy Time Line builder)\nStoryMapper (easy interactive maping)\n \nI’ll also talk a little about free options for building quick websites. If you’ve already seen me do something like this before, it is unlikely that I will go over anything new so don’t feel compelled to come. On the other hand, if you haven’t seen it, it sounds like people often find it to be useful. \n\n\n \n\n\nSubtitle: \n\nWith Stewart Varner\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/3-or-4-simple-dh-tools",
+          "publishedOn": "2024-10-09T15:59:51.000Z",
+          "wordCount": 366,
+          "title": "3 or 4 Simple DH Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "1308 at https://pricelab.sas.upenn.edu",
+          "author": "svarner@upenn.edu",
+          "description": "Wednesday, October 16, 2024 - 5:00pm\n\n\n\nWilliam 623\n\n\n\nWhether you are very excited, very \"meh\", or distinctly unexcited about AI, Dr. Porter’s talk (and our ensuing discussion) will be extremely valuable to you. As usual, we will meet in Williams 623 and I’ll bring some snacks!\n\n\nSubtitle: \n\nWith J.D. Porter, DH Specialist\n\n\nImage for Left Column:",
+          "link": "https://pricelab.sas.upenn.edu/events/grad-working-group-what-humanists-need-know-about-artificial-intelligence",
+          "publishedOn": "2024-10-09T15:36:59.000Z",
+          "wordCount": 325,
+          "title": "Grad Working Group: Introduction to Artificial Intelligence for Non-Specialists",
+          "imageUrl": null
+        },
         {
           "id": "1307 at https://pricelab.sas.upenn.edu",
           "author": "svarner@upenn.edu",
