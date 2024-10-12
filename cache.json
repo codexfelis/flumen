@@ -1334,6 +1334,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=13659",
+          "author": "Zach Butler",
+          "description": "Introduction In my last post, I explored tools in a software package called Criticus that helps move from transcription to …",
+          "link": "https://digitalorientalist.com/2024/10/11/collating-greek-manuscripts/",
+          "publishedOn": "2024-10-11T13:00:00.000Z",
+          "wordCount": 5306,
+          "title": "Collating Greek Manuscripts",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/ga33.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=13553",
           "author": "Alice Casalini",
           "description": "In the field of Buddhist art, recent years have seen more and more digitization projects that center around the art …",
@@ -2501,16 +2511,6 @@
           "publishedOn": "2024-04-22T13:01:37.000Z",
           "wordCount": 5229,
           "title": "Manuscript Monday: LJS 430 – [De urinarum judiciis]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18095",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator for Digital Humanities at the University of Pennsylvania Library, presents a video Orientation to the University of Pennsylvania Library’s LJS 429, an illustrated introduction to natural philosophy, supposedly according to the principles of Isidore of Seville, but in fact representing later Aristotelian and Thomist thought and opposing the followers of DunsContinue reading \"Manuscript Monday: LJS 429 – Natural Philosophy (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/04/15/manuscript-monday-ljs-429-natural-philosophy-video-orientation/",
-          "publishedOn": "2024-04-15T12:58:39.000Z",
-          "wordCount": 5304,
-          "title": "Manuscript Monday: LJS 429 – Natural Philosophy (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
         }
       ]
@@ -4729,6 +4729,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/?post_type=news&p=37939",
+          "author": "Lorraine Marrey",
+          "description": "In this post, the second of our DPASSH blog series, we invited Sian McInerney, Collections & Research Manager from The Hunt Museum to talk to us about the DPASSH 2024 Conference and the experience of co-hosting. In January 2024, the DRI asked the Hunt Museum and the University of Limerick to cohost their biennial Digital […]\nThe post DPASSH Conference Blog: The Hunt Museum Perspective appeared first on Digital Repository of Ireland.",
+          "link": "https://dri.ie/news/dpassh-conference-blog-the-hunt-museum-perspective/",
+          "publishedOn": "2024-10-11T15:20:40.000Z",
+          "wordCount": 1919,
+          "title": "DPASSH Conference Blog: The Hunt Museum Perspective",
+          "imageUrl": "https://dri.ie/app/uploads/2024/10/SC-DPASSH-2.jpg"
+        },
         {
           "id": "https://dri.ie/?post_type=news&p=38259",
           "author": "Lorraine Marrey",
