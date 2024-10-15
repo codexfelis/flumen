@@ -2001,21 +2001,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://radihum20.de/wp-content/uploads/2024/04/Quo-Vadebas-4.png"
-        },
-        {
-          "id": "https://radihum20.de/?p=936",
-          "author": "Clara Helmig",
-          "description": "Heute geht es weiter mit unserer Mini-Serie mit Gastfolgen zur DHd2024. In diesem Special haben wir das Vergnügen, drei exklusive Episoden zu präsentieren, in denen Theresa Beckert, eine DH-Studentin (MA, 3. FS) der Universität Dresden und zugleich Doktorandin der ÄdL, ihre ersten Erfahrungen auf einer Konferenz der Digital Humanities teilt. Diese Folgen, die jeweils einen […]\nDer Beitrag DHd2024: Quo Vadebas II. Ein studentischer Erfahrungsbericht von Theresa Beckert erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/dhd2024-quo-vadebas-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhd2024-quo-vadebas-2",
-          "publishedOn": "2024-04-18T06:48:00.000Z",
-          "wordCount": 2619,
-          "title": "DHd2024: Quo Vadebas II. Ein studentischer Erfahrungsbericht von Theresa Beckert",
-          "enclosure": {
-            "url": "https://hnp9zs.podcaster.de/download/QuoVadebasTeil2_Schnitt_final.mp3",
-            "length": "30772667",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://radihum20.de/wp-content/uploads/2024/04/Quo-Vadebas-3.png"
         }
       ]
     },
@@ -2455,6 +2440,26 @@
       "feedUrl": "https://scholarlytales.hcommons.org/feed",
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=2165",
+          "author": "Laura Mesotten",
+          "description": "Have you been meaning to set up an appointment with Artes Research to ask about research data management for your project, an aspect of your research workflow, or a specific DH tool or method? You can now come to one…\n\nContinue reading “Event Series: DH@rts Drop-in Sessions (Fall 2024)”…",
+          "link": "https://scholarlytales.hcommons.org/2024/10/14/event-series-dhrts-drop-in-sessions-fall-2024/",
+          "publishedOn": "2024-10-14T10:48:52.000Z",
+          "wordCount": 1916,
+          "title": "Event Series: DH@rts Drop-in Sessions (Fall 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://scholarlytales.hcommons.org/?p=2154",
+          "author": "Rebecca Burke",
+          "description": "This event is only open to KU Leuven researchers and staff. The Artes Research team from KU Leuven Libraries Artes and the ABAP council will kick off the new academic year with a special “How Do You Do (It)?” (HDYDI)…\n\nContinue reading “Training: How Do You Do (It)? A behind-the-scenes look at research workflows (KU Leuven)”…",
+          "link": "https://scholarlytales.hcommons.org/2024/10/14/training-how-do-you-do-it-a-behind-the-scenes-look-at-research-workflows-ku-leuven-3/",
+          "publishedOn": "2024-10-14T10:12:24.000Z",
+          "wordCount": 1976,
+          "title": "Training: How Do You Do (It)? A behind-the-scenes look at research workflows (KU Leuven)",
+          "imageUrl": null
+        },
         {
           "id": "https://scholarlytales.hcommons.org/?p=2152",
           "author": "Rebecca Burke",
@@ -2969,26 +2974,6 @@
           "wordCount": 736,
           "title": "How to download all the images from a digitised collection in Trove (& learn some cool Trove tricks)",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-04-24-23-29-35.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/04/18/what-do-you.html",
-          "author": null,
-          "description": "In my work on the Trove Data Guide I’ve started sketching out a series of research pathways. These are intended as ways of connecting Trove data to tools and questions – providing examples of the steps involved in gathering, preparing, and using data to explore particular research topics.\nI’ve currently defined six pathways, roughly based on different types of data that you can get from Trove:\nText\nImages\nStructured data\nMaps and places\nNetworks and relationships\nCreating collections\n‘Creating collections’ is a bit different I suppose, as it’s meant to relate to the work of assembling research collections from data in Trove – for example, creating a collection of annotated newspaper articles in Omeka.\nI have some ideas, of course, about the types of tutorials and examples to include in each pathway, but I’m wondering what you would like to see. What would you like to be able to do with Trove data?\nYou might get some inspiration by browsing through what’s already in the Trove Data Guide and the GLAM Workbench, or perhaps you have a research question that’s foundered because you couldn’t get the data you needed out of Trove. If you have any ideas please share them via the TDG’s ideas board. This is a chance to get some of your gnarly Trove data problems solved!\nNote that the TDG links in this post go to the development version, which changes frequently. There is also a published version that doesn’t include the latest content.",
-          "link": "https://updates.timsherratt.org/2024/04/18/what-do-you.html",
-          "publishedOn": "2024-04-18T06:22:39.000Z",
-          "wordCount": 307,
-          "title": "What do you want to do with Trove data?",
-          "imageUrl": null
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/04/18/update-saving-trove.html",
-          "author": null,
-          "description": "You probably know that when you select the Download as Image option for a digitised newspaper article in Trove what you get back is not actually an image ­– it’s an HTML document, in which the original image has been sliced up to try and fit on an A4 page when printed. So this article:\n\r\nEnds up looking like this!!\n\r\nSo what do you do when you just want an image of an article as it appeared in the newspaper? Some years ago I figured out a workaround that involves scraping the OCR positional data that’s embedded in Trove’s newspaper viewer and cropping the article from a high-resolution image of the page. The method is documented in the GLAM Workbench and the Trove Data Guide, and I’ve packaged up the code in trove-newspapers-images so you can embed it in your own projects.\nI also created a…",
-          "link": "https://updates.timsherratt.org/2024/04/18/update-saving-trove.html",
-          "publishedOn": "2024-04-18T02:32:50.000Z",
-          "wordCount": 566,
-          "title": "Update! Saving Trove newspaper articles and pages as images",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/nla.news-article203234114-22060404.jpg"
         }
       ]
     },
@@ -4566,106 +4551,6 @@
           "wordCount": 304,
           "title": "CLARIN Newsflash: April 2024 Is Out",
           "imageUrl": null
-        },
-        {
-          "id": "6376 at https://www.clarin.eu",
-          "author": "root",
-          "description": "ZIM\n\n      \nZIM Centre for Information Modelling\n\n  root\n 18 April 2024\n\n\n            \nThe centre's focus is on applied research in the area of information and data processing in the humanities.\n\n      \n  \nWebsite\nhttps://zim.uni-graz.at/\nCentre type\nB\nStatus\nCertified\nExpertise\nDigital scholarly edition, long-term preservation, digital museology, semantic web technologies\nStrict versioning\nFalse\nAssessment dates\n B\n 26 May 2020\n\n 18 April 2022\n\n\n      \nCTS certificate\nhttps://www.coretrustseal.org/wp-content/uploads/2019/04/GAMS-Geisteswissenscha…\nCentre certification URL\nhttp://hdl.handle.net/11372/DOC-161\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n47.064, 15.4399\n\nZIM Centre for Information Modelling\n\n  \nFaculty for Arts and Humanities\nUniversity of Graz\nInstitute Centre for Information Modelling - Austrian Centre for Digital Humanities\nAddress\nElisabethstraße 59/III\n8010 Graz\nAustria\n\n          \nAdministrative contact\n  \nWalter Scholger\nwalter.scholger [at] uni-graz.at_test\n+433163802292\nContact website\nhttps://zim.uni-graz.at/\nTechnical contact\n  \nGerlinde Schneider\ngerlinde.schneider [at] uni-graz.at_test\n+433163808011\nContact website\nhttps://zim.uni-graz.at/",
-          "link": "https://www.clarin.eu/centres/zim",
-          "publishedOn": "2024-04-18T14:47:24.000Z",
-          "wordCount": 322,
-          "title": "ZIM",
-          "imageUrl": null
-        },
-        {
-          "id": "6375 at https://www.clarin.eu",
-          "author": "root",
-          "description": "UkrNLP-Corpora\n\n      \nCLARIN K-Centre for Ukrainian NLP and Corpora\n\n  root\n 18 April 2024\n\n\n            \nThe CLARIN K-Centre for Ukrainian Language (UkrNLP-Corpora) serves as a pivotal hub for language researchers, offering a comprehensive platform for Ukrainian language resources and tools.\n\n      \n  \nWebsite\nhttps://uacorpus.org/k-centre/\nCentre type\nK\nStrict versioning\nFalse\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n50.930099, 11.585155\n\nCLARIN K-Centre for Ukrainian \n    \nNatural Language Processing\nSee: http://en.wikipedia.org/wiki/Natural_language_processing\nInstitute of Slavic and Caucasus Studies\nInstitute of Slavic and Caucasus Studies\nUniversity of Jena\nAddress\nJenergasse 8\nJena\n07743\nUkraine\n\n          \nAdministrative contact\n  \nOlha Kanishcheva\nk.center.ukr [at] gmail.com_test\nTechnical contact\n  \nOlha Kanishcheva\nk.center.ukr [at] gmail.com_test\nMonitoring contacts\n  \nOlha Kanishcheva\nk.center.ukr [at] gmail.com_test",
-          "link": "https://www.clarin.eu/centres/ukrnlp-corpora",
-          "publishedOn": "2024-04-18T14:47:24.000Z",
-          "wordCount": 297,
-          "title": "UkrNLP-Corpora",
-          "imageUrl": null
-        },
-        {
-          "id": "6374 at https://www.clarin.eu",
-          "author": "root",
-          "description": "UdS\n\n      \nUniversität des Saarlandes\n\n  root\n 18 April 2024\n\n\n  \nWebsite\nhttp://fedora.clarin-d.uni-saarland.de/\nCentre type\nB\nStatus\nCertified\nExpertise\nCreation and annotation of corpora, empirical corpus linguistics, language variation and register analysis.\nPID status\nHandle via EPIC.\nRepository system\nFedora Commons\nStrict versioning\nFalse\nAssessment dates\n B\n 15 February 2019\n\n 15 February 2022\n\n\n      \nCTS certificate\nhttps://www.coretrustseal.org/wp-content/uploads/2019/02/CLARIND-UDS.pdf\nCentre certification URL\nhttp://hdl.handle.net/11372/DOC-92\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n49.256004, 7.039011\n\nUniversität des Saarlandes\n\n  \nSprachwissenschaft und Sprachtechnologie\nFakultät P\nUniversität des Saarlandes\nAddress\nCampus A2.2\n66123 Saarbrücken\nGermany\n\n          \nAdministrative contact\n  \nProf. Elke Teich\ne.teich [at] mx.uni-saarland.de_test\nTechnical contact\n  \nJörg Knappen\nj.knappen [at] mx.uni-saarland.de_test\n+49 681 3024484",
-          "link": "https://www.clarin.eu/centres/uds",
-          "publishedOn": "2024-04-18T14:47:24.000Z",
-          "wordCount": 297,
-          "title": "UdS",
-          "imageUrl": null
-        },
-        {
-          "id": "6373 at https://www.clarin.eu",
-          "author": "root",
-          "description": "TextLab\n\n      \nCLARINO Text Laboratory Centre\n\n  root\n 18 April 2024\n\n\n            \nGoal: We want our linguistic resources (corpora, tools and word lists) to be available to the CLARIN community.\n\n      \n  \nWebsite\nhttp://www.tekstlab.uio.no/clarino/\nCentre type\nC\nExpertise\nLanguage technology, corpora, grammatical tools and corpus tools\nPID status\nWe use the PID service from the National Library of Norway\nStrict versioning\nFalse\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n59.9421883, 10.722153\n\nCLARINO Text Laboratory Centre\n\n  \nDepartment of Lingusitics and Scandinavian Studies\nUniversity of Oslo\nThe Text laboratory\nAddress\nP.O. Box 1102 Blindern \n0317 Oslo\nNorway\n\n          \nAdministrative contact\n  \nJan Halvor Undlien\nj.h.undlien [at] iln.uio.no_test\n+47 22856747\nContact website\nhttp://www.hf.uio.no/iln/english/\nTechnical contact\n  \nKristin Hagen\ntekstlab-post [at] iln.uio.no_test\n+47 22857110\nContact website\nhttp://www.hf.uio.no/iln/english/about/organization/text-laboratory/",
-          "link": "https://www.clarin.eu/centres/textlab",
-          "publishedOn": "2024-04-18T14:47:24.000Z",
-          "wordCount": 305,
-          "title": "TextLab",
-          "imageUrl": null
-        },
-        {
-          "id": "6372 at https://www.clarin.eu",
-          "author": "root",
-          "description": "TRTC\n\n      \nCLARIN Knowledge Center for Terminology Resources and Translation Corpora (TRTC)\n\n  root\n 18 April 2024\n\n\n            \nHelpdesk, material and training about the preparation and documentation on terminology resources and translation corpora\n\n      \n  \nWebsite\nhttps://trtc.univie.ac.at\nCentre type\nK\nStatus\nCertified\nStrict versioning\nFalse\nAssessment dates\n K\n 8 March 2022\n\n 7 March 2025\n\n\n      \nCentre certification URL\nhttp://hdl.handle.net/11372/DOC-150\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n48.209117, 16.37708\n\nCLARIN Knowledge Center for Terminology Resources and Translation Corpora (TRTC)\n\n  \nCentre for Translation Studies\nUniversity of Vienna\nUniversity of Vienna, Centre for Translation Studies\nAddress\nGymnasiumstraße 50\n1190 Vienna\nAustria\n\n          \nAdministrative contact\n  \nVesna Lusicky\nclarin [at] univie.ac.at_test\nContact website\nhttps://trtc.univie.ac.at\nTechnical contact\n  \nVesna Lusicky\nclarin [at] univie.ac.at_test\nContact website\nhttps://trtc.univie.ac.at",
-          "link": "https://www.clarin.eu/centres/trtc",
-          "publishedOn": "2024-04-18T14:47:21.000Z",
-          "wordCount": 308,
-          "title": "TRTC",
-          "imageUrl": null
-        },
-        {
-          "id": "6371 at https://www.clarin.eu",
-          "author": "root",
-          "description": "TROLLing\n\n      \nThe Tromsø Repository of Language and Linguistics\n\n  root\n 18 April 2024\n\n\n            \nThe Tromsø Repository of Language and Linguistics (TROLLing) is a repository of linguistic data, (statistical) code, and other related materials. The repository is open access, which means that all information is available to everyone. All postings are accompanied by searchable metadata that identify the researchers, the languages and linguistic phenomena involved, the statistical methods applied, and scholarly publications based on the data (where relevant).\n\n      \n  \nWebsite\nhttps://trolling.uit.no/\nCentre type\nC\nPID status\nDOI\nRepository system\nDataverse\nStrict versioning\nFalse\nCTS certificate\nhttp://site.uit.no/dataverseno/2020/03/30/dataverseno-is-coretrustseal-certifie…\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n69.6798027, 18.9712161\n\nThe Tromsø Repository of Language and Linguistics\n\n  \nUniversity Library\nUiT The Arctic University of Norway\nUiT The Arctic University of Norway\nAddress\nPostboks 6050 Langnes 9037 Tromsø\n9037 Tromsø\nNorway\n\n          \nAdministrative contact\n  \nPhilipp Conzett\nphilipp.conzett [at] uit.no_test\n+4777645361\nContact website\nhttps://orcid.org/0000-0002-6754-7911\nTechnical contact\n  \nObiajulu Odu\nobiajulu.odu [at] uit.no_test\n+4777645299 \nContact website\nhttps://en.uit.no/om/enhet/ansatte/person?p_document_id=41242",
-          "link": "https://www.clarin.eu/centres/trolling",
-          "publishedOn": "2024-04-18T14:47:21.000Z",
-          "wordCount": 344,
-          "title": "TROLLing",
-          "imageUrl": null
-        },
-        {
-          "id": "6370 at https://www.clarin.eu",
-          "author": "root",
-          "description": "TG-rep\n\n      \nTextGrid Repository\n\n  root\n 18 April 2024\n\n\n            \nThe TextGrid Repository offers an extensive searchable and adaptable corpus of XML/\n    \nText Encoding Initiative\nSee: http://en.wikipedia.org/wiki/Text_Encoding_Initiative\nWebsite\nhttps://textgridrep.org/\nCentre type\nC\nStrict versioning\nFalse\nCTS certificate\nhttps://www.coretrustseal.org/wp-content/uploads/2020/05/TextGrid-Repository.pdf\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n51.53382, 9.93212\n\nTextGrid Repository\n\n  \nResearch and Development Department\nGöttingen State and University Library\nDARIAH-DE\nAddress\nPapendiek 14\n37073 Göttingen\nGermany\n\n          \nAdministrative contact\n  \nDARIAH-DE Coordination Office\ninfo [at] de.dariah.eu_test\nContact website\nhttps://de.dariah.eu/kontakt\nTechnical contact\n  \nDARIAH-DE Technical Support\nsupport [at] de.dariah.eu_test\nContact website\nhttps://de.dariah.eu/support",
-          "link": "https://www.clarin.eu/centres/tg-rep",
-          "publishedOn": "2024-04-18T14:47:21.000Z",
-          "wordCount": 278,
-          "title": "TG-rep",
-          "imageUrl": null
-        },
-        {
-          "id": "6369 at https://www.clarin.eu",
-          "author": "root",
-          "description": "Sprakbanken\n\n      \nSpråkbanken\n\n  root\n 18 April 2024\n\n\n            \nTo offer repository, resources and services. Additional A-services and virtual K-centre.\n\n      \n  \nWebsite\nhttp://spraakbanken.gu.se\nCentre type\nC\nRepository system\nLINDAT-Dspace\nStrict versioning\nTrue\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n57.6938986, 11.9815064\n\nSpråkbanken\n\n  \nDepartment of Swedish\nUniversity of Gothenburg\nSpråkbanken\nAddress\nBox 200\n405 30 Göteborg\nSweden\n\n          \nAdministrative contact\n  \nLars Borin\nsb-info [at] svenska.gu.se_test\nTechnical contact\n  \nLeif-Jöran Olsson \nsb-sysadmin [at] svenska.gu.se_test",
-          "link": "https://www.clarin.eu/centres/sprakbanken",
-          "publishedOn": "2024-04-18T14:47:21.000Z",
-          "wordCount": 256,
-          "title": "Sprakbanken",
-          "imageUrl": null
-        },
-        {
-          "id": "6368 at https://www.clarin.eu",
-          "author": "root",
-          "description": "Spanish K-Centre\n\n      \nSpanish CLARIN K-Centre\n\n  root\n 18 April 2024\n\n\n            \nDistributed CLARIN K Centre consisting of HiTZ – Basque Center for Language Technology (University of the Basque Country, Donostia), ILG – Instituto da Lingua Galega (Universidade de Santiago de Compostela, Santiago de Compostela), and UNED – LINHD: Laboratorio de Innovacion de Humanidades Digitales (Universidad Nacional de Educacion a Distancia, Madrid).\n\n      \n  \nWebsite\nhttps://www.clariah.es/k-centre/\nCentre type\nK\nStatus\nCertified\nExpertise\nServices to researchers working with Spanish texts and, additionally, HiTZ can afford experience in handling Basque texts and ILG Galician texts.\nStrict versioning\nFalse\nAssessment dates\n K\n 29 November 2021\n\n 28 November 2024\n\n\n      \nCentre certification URL\nhttp://hdl.handle.net/11372/DOC-111\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n43.3074524, -2.0107231\n\nSpanish CLARIN K-Centre\n\n  \nDepartment of Humanities\nUniversity of the Basque Country (UPV/EHU)\nHiTZ – Basque Center for Langauge Technology (University of the Basque Country), coord Spanish cons.\nAddress\nManuel de Lardizabal Pasealekua, 1\n20018 Donostia-San Sebastián\nSpain\n\n          \nAdministrative contact\n  \nMikel Iruskieta\nmikel.iruskieta [at] ehu.eus_test\n+34 946017569\nContact website\nhttp://ixa2.si.ehu.eus/iruskieta/\nTechnical contact\n  \nMikel Iruskieta\nmikel.iruskieta [at] ehu.eus_test\n+34 946017569\nContact website\nhttp://ixa2.si.ehu.eus/iruskieta/",
-          "link": "https://www.clarin.eu/centres/spanish-k-centre",
-          "publishedOn": "2024-04-18T14:47:19.000Z",
-          "wordCount": 374,
-          "title": "Spanish K-Centre",
-          "imageUrl": null
-        },
-        {
-          "id": "6367 at https://www.clarin.eu",
-          "author": "root",
-          "description": "SWELANG\n\n      \nCLARIN Knowledge Centre for The Languages of Sweden\n\n  root\n 18 April 2024\n\n\n            \nInformation service offering advice on the use of digital language resources and tools for the Swedish language, minority languages in Sweden, Swedish sign language, Swedish dialects et al.\n\n      \n  \nWebsite\nhttps://sweclarin.se/eng/centers/sprakradet\nCentre type\nK\nStatus\nCertified\nExpertise\nlanguage technology, corpus linguistics and language counseling\nStrict versioning\nFalse\nAssessment dates\n K\n 2 November 2021\n\n 1 November 2024\n\n\n      \nCentre certification URL\nhttps://hdl.handle.net/11372/DOC-136\nLocation\n\n    \nRecenter\n\n\n                  \n\n\n            \n59.334591, 18.06324\n\nCLARIN Knowledge Centre for The Languages of Sweden\n\n  \nSpråkrådet (The Language Council of Sweden)\nInstitute of Language and Folklore in Stockholm, Uppsala and Göteborg\nSpråkrådet (The Language Council of Sweden)\nAddress\nBox 20057\n104 60 Stockholm\nSweden\n\n          \nAdministrative contact\n  \nSWE-CLARIN_sprakochfolkminnen\nswe-clarin [at] sprakochfolkminnen.se_test\nContact website\nhttp://www.sprakochfolkminnen.se/swe-clarin\nTechnical contact\n  \nSWE-CLARIN_sprakochfolkminnen\nswe-clarin [at] sprakochfolkminnen.se_test\nContact website\nhttp://www.sprakochfolkminnen.se/swe-clarin",
-          "link": "https://www.clarin.eu/centres/swelang",
-          "publishedOn": "2024-04-18T14:47:19.000Z",
-          "wordCount": 332,
-          "title": "SWELANG",
-          "imageUrl": null
         }
       ]
     },
@@ -4834,6 +4719,16 @@
       "feedUrl": "https://www.rluk.ac.uk/feed",
       "siteUrl": "https://www.rluk.ac.uk/",
       "articles": [
+        {
+          "id": "https://www.rluk.ac.uk/?p=14871",
+          "author": "Melanie Cheung",
+          "description": "RLUK Members Meeting 7-8 November 2024 University of Edinburgh     Please click the purple icons on the map on the right for the different venues at the Members Meeting. Meeting venue: South Hall Complex (South Hall and Kirkland rooms) Dinner venue: Playfair Library Tour: University of Edinburgh Main  [...]\nThe post RLUK Members Meeting 2024 appeared first on Research Libraries UK.",
+          "link": "https://www.rluk.ac.uk/rluk-members-meeting-2024/",
+          "publishedOn": "2024-10-14T13:05:39.000Z",
+          "wordCount": 3071,
+          "title": "RLUK Members Meeting 2024",
+          "imageUrl": "https://www.rluk.ac.uk/wp-content/uploads/2018/07/RLUK-logo-blue-250.png"
+        },
         {
           "id": "https://www.rluk.ac.uk/?p=14793",
           "author": "Melanie Cheung",
