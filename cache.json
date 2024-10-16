@@ -391,7 +391,18 @@
       "title": "CUNY Digital Humanities Initiative",
       "feedUrl": "https://cunydhi.commons.gc.cuny.edu/feed",
       "siteUrl": "https://cunydhi.commons.gc.cuny.edu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cunydhi.commons.gc.cuny.edu/?p=2023",
+          "author": "Tuka Al-Sahlani",
+          "description": "It’s that time of year! Are you a member of the CUNY community working on […]",
+          "link": "https://cunydhi.commons.gc.cuny.edu/2024/10/15/call-for-participation-dhi-lightning-talks-fall-2024/",
+          "publishedOn": "2024-10-15T16:29:48.000Z",
+          "wordCount": 2809,
+          "title": "Call for Participation: DHI Lightning Talks Fall 2024",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Digital Humanities Initiative",
@@ -1324,6 +1335,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=13633",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Anna Osterlow. See bio at the end of this post. When looking at current scholarly …",
+          "link": "https://digitalorientalist.com/2024/10/15/african-tech-inventions-inclusive-ai-and-digital-innovation-a-historical-perspective/",
+          "publishedOn": "2024-10-15T13:00:00.000Z",
+          "wordCount": 5007,
+          "title": "African Tech Inventions, Inclusive AI and Digital Innovation: A Historical Perspective",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/jpg.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=13659",
           "author": "Zach Butler",
           "description": "Introduction In my last post, I explored tools in a software package called Criticus that helps move from transcription to …",
@@ -1582,16 +1603,6 @@
           "wordCount": 5463,
           "title": "A Parallel Treebank of Speeches by Narendra Modi, PM of India",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/04/erica-cover.png"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12691",
-          "author": "The Digital Orientalist",
-          "description": "This is a guest post by Jiajun Zou. See bio at the end of this post. Find part one here. Part …",
-          "link": "https://digitalorientalist.com/2024/04/19/creating-the-largest-juren-dataset-with-chatgpt-a-journey-through-digital-humanities-part-two/",
-          "publishedOn": "2024-04-19T13:00:00.000Z",
-          "wordCount": 6317,
-          "title": "Creating the largest Juren Dataset with ChatGPT: A Journey through Digital Humanities. (Part Two)",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/04/0081184ff2bf344eb8a94537eb8637d.png"
         }
       ]
     },
@@ -1986,21 +1997,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://radihum20.de/wp-content/uploads/2024/04/Quo-Vadebas-7.png"
-        },
-        {
-          "id": "https://radihum20.de/?p=957",
-          "author": "Clara Helmig",
-          "description": "Nach unserem Special zu DhD-Konferenzen von 2014 bis 2024 präsentieren wir heute die dritte Folge eines weiteren Sonderformats. Theresa Beckert, DH-Studentin (MA, 3. FS) der Uni Dresden und Doktorandin der ÄdL, war zum 1. Mal auf einer DH-Konferenz und hat ihre Eindrücke in einem Podcast festgehalten. Den Abschluss macht der letzte Konferenztag! In der dritten […]\nDer Beitrag DHd2024: Quo Vadebas III. Ein studentischer Erfahrungsbericht von Theresa Beckert erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/dhd2024-quo-vadebas-3/?utm_source=rss&utm_medium=rss&utm_campaign=dhd2024-quo-vadebas-3",
-          "publishedOn": "2024-04-19T06:53:00.000Z",
-          "wordCount": 2706,
-          "title": "DHd2024: Quo Vadebas III. Ein studentischer Erfahrungsbericht von Theresa Beckert",
-          "enclosure": {
-            "url": "https://hnp9zs.podcaster.de/download/Quo_vadebas_Tag3_final.mp3",
-            "length": "42853019",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://radihum20.de/wp-content/uploads/2024/04/Quo-Vadebas-4.png"
         }
       ]
     },
@@ -2441,6 +2437,16 @@
       "siteUrl": "https://scholarlytales.hcommons.org",
       "articles": [
         {
+          "id": "https://scholarlytales.hcommons.org/?p=2171",
+          "author": "Rebecca Burke",
+          "description": "Open Access Belgium would like to invite you to join the Open Access Network Event on the 12th of December to share best practices, foster community, and encourage knowledge-sharing on Open Access. By focusing on practical cases regarding predatory practices…\n\nContinue reading “Event: Open Access Belgium 2024”…",
+          "link": "https://scholarlytales.hcommons.org/2024/10/15/event-open-access-belgium-2024/",
+          "publishedOn": "2024-10-15T14:51:09.000Z",
+          "wordCount": 1849,
+          "title": "Event: Open Access Belgium 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://scholarlytales.hcommons.org/?p=2165",
           "author": "Laura Mesotten",
           "description": "Have you been meaning to set up an appointment with Artes Research to ask about research data management for your project, an aspect of your research workflow, or a specific DH tool or method? You can now come to one…\n\nContinue reading “Event Series: DH@rts Drop-in Sessions (Fall 2024)”…",
@@ -2508,16 +2514,6 @@
           "publishedOn": "2024-05-14T11:42:27.000Z",
           "wordCount": 3143,
           "title": "Preprints: Where are we now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://scholarlytales.hcommons.org/?p=2090",
-          "author": "Leah Budke",
-          "description": "Yes, you read it correctly; we are having another in-person meeting! As the name suggests, the DH Virtual Discussion Group for ECRs in Belgium is usually a virtual event. We meet on a monthly basis during the academic year to keep…\n\nContinue reading “Event: In-Person Meeting of DH (Usually Virtual) Discussion Group for ECRs in Belgium”…",
-          "link": "https://scholarlytales.hcommons.org/2024/04/19/event-in-person-meeting-of-dh-usually-virtual-discussion-group-for-ecrs-in-belgium-2/",
-          "publishedOn": "2024-04-19T09:55:10.000Z",
-          "wordCount": 3252,
-          "title": "Event: In-Person Meeting of DH (Usually Virtual) Discussion Group for ECRs in Belgium",
           "imageUrl": null
         }
       ]
@@ -4402,6 +4398,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "8552 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "Steven Krauwer Awards 2024\n\n            \n\n  \n  \n            \n  \n\n\n      \n\n \n2024 Steven Krauwer Award for CLARIN Achievements: Mikko Tolonen, Eetu Mäkelä, Jukka Suomela and Juoni Tuominen\nOrganisers of the Helsinki Digital Humanities Hackathon\nMikko Tolonen is professor in computational history at the University of Helsinki, Eetu Mäkelä is associate professor in human sciences and computing interaction at the University of Helsinki, Jukka Suomela is professor in computer science at Aalto University, and Juoni Tuominen is a researcher at the Institute for Social Sciences and Humanities at the University of Helsinki.\n \nReasons for Nomination\nThe  Helsinki Digital Humanities Hackathon (DHH24) was nominated for its ability to bridge the gap between computer science, data science, social scienc…",
+          "link": "https://www.clarin.eu/news/steven-krauwer-awards-2024",
+          "publishedOn": "2024-10-15T10:25:07.000Z",
+          "wordCount": 887,
+          "title": "Steven Krauwer Awards 2024",
+          "imageUrl": null
+        },
         {
           "id": "8413 at https://www.clarin.eu",
           "author": "Julia Misersky",
