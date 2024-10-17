@@ -1982,21 +1982,6 @@
           "wordCount": 2523,
           "title": "RaDiHum20 spricht mit Lea Schönberger vom Podcast “Informatik für die moderne Hausfrau”",
           "imageUrl": null
-        },
-        {
-          "id": "https://radihum20.de/?p=966",
-          "author": "Clara Helmig",
-          "description": "In der heutigen letzten Folge unserer Sonderstaffel zur DHd2024 bringen wir euch eine ganze Reihe neuer Eindrücke mit. Zu Gast haben wir die drei Reisestipendiat*innen: Melanie Seltmann (Linguistik & Informationswissenschaft, HU Berlin, Poster noch raussuchen), Jennifer ‘Jenny’ Ritter (; Uni Mainz) und Erik Renz (MA-Student Geschichte und Germanistik, Uni Rostock). Zu Beginn der Folge sammeln […]\nDer Beitrag DHd2024: RaDiHum20 spricht mit den DHd2024-Stipendiat*innen Melanie Seltmann, Jennifer Ritter und Erik Renz erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/dhd2024-stipendiatinnen/?utm_source=rss&utm_medium=rss&utm_campaign=dhd2024-stipendiatinnen",
-          "publishedOn": "2024-04-20T07:07:46.000Z",
-          "wordCount": 2888,
-          "title": "DHd2024: RaDiHum20 spricht mit den DHd2024-Stipendiat*innen Melanie Seltmann, Jennifer Ritter und Erik Renz",
-          "enclosure": {
-            "url": "https://hnp9zs.podcaster.de/download/Staffel_6_Reisestipendiat_innen_Rohschnitt.mp3",
-            "length": "44917424",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://radihum20.de/wp-content/uploads/2024/04/Quo-Vadebas-7.png"
         }
       ]
     },
@@ -4565,6 +4550,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/?post_type=news&p=38652",
+          "author": "Lorraine Marrey",
+          "description": "In this blog post DRI’s Training and Engagement Manager Lorraine Marrey talks to Senior Software Engineer Kathryn Cassidy and Archivist Kevin Long about the web archiving service currently being offered to DRI members. LM: Hello both, thank you for taking the time to explain in a bit more detail about the website archiving option open […]\nThe post Web Archiving for DRI Members appeared first on Digital Repository of Ireland.",
+          "link": "https://dri.ie/news/web-archiving-for-dri-members/",
+          "publishedOn": "2024-10-16T16:06:23.000Z",
+          "wordCount": 2150,
+          "title": "Web Archiving for DRI Members",
+          "imageUrl": "https://dri.ie/app/uploads/2024/10/Web-Archiving-.png"
+        },
         {
           "id": "https://dri.ie/?post_type=news&p=37939",
           "author": "Lorraine Marrey",
