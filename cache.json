@@ -1335,6 +1335,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=12932",
+          "author": "James Harry Morris",
+          "description": "In 2021, I wrote a short piece for the Digital Orientalist entitled “Denshi Jisho: Are they still worth your time?” …",
+          "link": "https://digitalorientalist.com/2024/10/18/returning-to-denshi-jisho-the-ongoing-benefits-of-electronic-dictionaries/",
+          "publishedOn": "2024-10-18T13:00:00.000Z",
+          "wordCount": 4892,
+          "title": "Returning to Denshi Jisho: The Ongoing Benefits of Electronic Dictionaries",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/06/img_2638.jpg?w=1129"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=13633",
           "author": "The Digital Orientalist",
           "description": "This is a guest post by Anna Osterlow. See bio at the end of this post. When looking at current scholarly …",
@@ -2403,16 +2413,6 @@
           "wordCount": 5350,
           "title": "Manuscript Monday: LJS 431 – Manuscript list of manuscript and printed books (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18097",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator for Digital Humanities at the University of Pennsylvania Library, presents a video Orientation to the University of Pennsylvania Library’s LJS 430, a manuscript copy of a printed edition of Montagnana’s work on the analysis of urine in diagnosing disease; text includes variants not in the first edition of 1487 but foundContinue reading \"Manuscript Monday: LJS 430 – [De urinarum judiciis]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/04/22/manuscript-monday-ljs-430-de-urinarum-judiciis-video-orientation/",
-          "publishedOn": "2024-04-22T13:01:37.000Z",
-          "wordCount": 5229,
-          "title": "Manuscript Monday: LJS 430 – [De urinarum judiciis]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2023/03/untitled-12.jpg?w=1200"
         }
       ]
     },
@@ -3298,36 +3298,6 @@
           "wordCount": 749,
           "title": "Le Luxembourg et la Shoah",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/luxembourg_et_la_shoah_revue_histoire_full_width.jpg?itok=T9237aET"
-        },
-        {
-          "id": "5002 at https://www.c2dh.uni.lu",
-          "author": "Gerben Zaagsma",
-          "description": "Remnants of material and visual cultures throughout history can be traced as millions of museum objects have been, and are, digitised and published online. The metadata of these online museum objects can be used as data to analyse the development of concepts, events or technological and social innovations in history by using information retrieval, quantitative and machine learning methods. They can also be used as primary sources to trace the history of and changes in the representation of concepts or events and their interpretation. How do online museum catalogue data reflect multiple perspectives on specific topics? Objects relating to, for example, female labour or ethnic minorities can be described in online catalogue metadata in a variety of ways. A drawing of an old Jew may be repres…",
-          "link": "https://www.c2dh.uni.lu/events/data-histories-and-museum-collections",
-          "publishedOn": "2024-04-22T14:29:40.000Z",
-          "wordCount": 698,
-          "title": "Data Histories and Museum Collections",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/lookandlearn.com-yw013534v.jpg?itok=HkjS_diZ"
-        },
-        {
-          "id": "5001 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Developed as part of the Land of Memory Interreg project, “Before the War” is a historical strategy board game that aims to provide an understanding of the issues and mechanisms related to wars. Players explore scenarios inspired by real-life historical events, and are given the chance to make crucial decisions and potentially rewrite history. World balance depends on the players’ ability to navigate diplomatic crises and maintain peace.\nProject coordinator Mélanie Petton and game designer Vincenzo Bianca will illustrate the game development process and share their insights on how play can provide an original approach to exploring and understanding complex political dynamics and societal issues.\nThe talk will be followed by a game session (in English or French) offering the audience the op…",
-          "link": "https://www.c2dh.uni.lu/events/war-collaborative-game",
-          "publishedOn": "2024-04-22T08:16:50.000Z",
-          "wordCount": 537,
-          "title": "Before the War: a Collaborative Game",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/history_at_play_before_the_war_full_width_new.png?itok=-KM_Rr1V"
-        },
-        {
-          "id": "5000 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The ProviLux research project focuses on the issue of looted cultural property in the collections of three institutions in Luxembourg: the National Library, the National Museum, and the Villa Vauban Art Collection, part of the City Museum of Luxembourg (Les 2 Musées de la Ville de Luxembourg). The signing of an agreement between the Jewish Consistory and the State of Luxembourg on January 27, 2021, marked a key moment in the launch of provenance research in the country's major cultural institutions. This initiative involves mapping wartime acquisitions, examining archival documentation and the provenance of art objects, and evaluating the data collected during the pilot phase of the ProviLux project.\nAnna Jagos will present the art collection of the Villa Vauban, which has been owned by th…",
-          "link": "https://www.c2dh.uni.lu/events/provenance-research-mnaha-national-library-and-musee-de-la-ville-villa-vauban",
-          "publishedOn": "2024-04-22T07:18:52.000Z",
-          "wordCount": 614,
-          "title": "Provenance Research at the MNAHA, the National Library and the Musée de la Ville – Villa Vauban",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_research_seminars_content_list.png?itok=Nwm2C3Di"
         }
       ]
     },
