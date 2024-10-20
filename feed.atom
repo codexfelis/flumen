@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-10-19T08:26:42.928Z</updated>
+    <updated>2024-10-20T08:28:45.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit Caroline und Martin von der Zeitschrift für Digitale Geisteswissenschaften (ZfdG)]]></title>
+        <id>https://radihum20.de/?p=1020</id>
+        <link href="https://radihum20.de/radihum20-spricht-mit-caroline-und-martin-von-der-zeitschrift-fuer-digitale-geisteswissenschaften-zfdg/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-spricht-mit-caroline-und-martin-von-der-zeitschrift-fuer-digitale-geisteswissenschaften-zfdg"/>
+        <updated>2024-10-20T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[In dieser neuen Folge von RaDiHum20 greifen wir das Thema Reputation ohne Paywall auf. Wer sich erinnert, weiß, dass Anfang Oktober in Darmstadt eine spannende Tagung stattfand, die sich genau mit diesem Thema beschäftigte. Ausgerichtet von der AG Digitales Publizieren des DHD-Verbandes, wurde dabei nicht nur intensiv über Open Access und wissenschaftliche Reputation diskutiert, sondern […]
+Der Beitrag RaDiHum20 spricht mit Caroline und Martin von der Zeitschrift für Digitale Geisteswissenschaften (ZfdG) erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Clara Helmig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Returning to Denshi Jisho: The Ongoing Benefits of Electronic Dictionaries]]></title>
         <id>http://digitalorientalist.com/?p=12932</id>
@@ -5103,16 +5114,6 @@ This documentary is inscribed in an ethnographic research which addresses the wa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Parallel Treebank of Speeches by Narendra Modi, PM of India]]></title>
-        <id>http://digitalorientalist.com/?p=12597</id>
-        <link href="https://digitalorientalist.com/2024/04/23/a-parallel-treebank-of-speeches-by-narendra-modi-pm-of-india/"/>
-        <updated>2024-04-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a guest post by Erica Biagetti In my first post as a guest contributor to the Digital Orientalist, I …]]></summary>
-        <author>
-            <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Newsletter]]></title>
         <id>https://www.cdh.cam.ac.uk/media/newsletter/</id>
         <link href="https://www.cdh.cam.ac.uk/media/newsletter/"/>
@@ -5129,38 +5130,6 @@ This documentary is inscribed in an ethnographic research which addresses the wa
         <summary type="html"><![CDATA[Convenor: Dr Estara Arrant (Cambridge University Library) This session is aimed at researchers who have never done any coding before. We will explore basic principles and approaches to navigating and working with code, using the popular programming language Python. Participants will use the Jupyter Notebooks platform to learn how to analyse texts. This will provide]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Das war die DHd2024!]]></title>
-        <id>node/956</id>
-        <link href="https://dig-hum.de/aktuelles/das-war-die-dhd2024"/>
-        <updated>2024-04-23T09:11:22.000Z</updated>
-        <summary type="html"><![CDATA[In schnellen Schritten geht es auf die DHd2025 in Bielefeld zu. Daher möchten wir uns an dieser Stelle noch einmal herzlich für die Konferenzbegleitungsbeiträge unserer…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le Luxembourg et la Shoah]]></title>
-        <id>5009 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/le-luxembourg-et-la-shoah"/>
-        <updated>2024-04-23T08:15:40.000Z</updated>
-        <summary type="html"><![CDATA[La Revue d’Histoire de la Shoah présente un ample dossier consacré à un pays dont le statut pendant la Seconde Guerre mondiale et la relation avec sa minorité juive sont très particuliers : le Grand-duché de Luxembourg. Au carrefour de la France, de la Belgique et de l’Allemagne, on estime actuellement que près de 5.000 personnes considérées comme juives y vivaient avant l’invasion allemande du 10 mai 1940 ; d’après l’état actuel des recherches, 1.227 sont mortes après avoir été déportées de Luxembourg, Belgique et France ; moins de 1.000 revinrent après la guerre au Luxembourg.
-La publication de ce premier ouvrage scientifique consacré à la persécution des juifs et à la mémoire de la Shoah au Luxembourg apporte un éclairage nouveau sur un sujet encore peu connu, replaçant ainsi le Grand-D…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Projects in Gale Digital Scholar Lab]]></title>
-        <id>https://review.gale.com/?p=15172</id>
-        <link href="https://review.gale.com/2024/04/23/building-projects-in-gale-digital-scholar-lab/"/>
-        <updated>2024-04-23T08:06:16.000Z</updated>
-        <summary type="html"><![CDATA[│By Sarah L. Ketchley, Senior Digital Humanities Specialist│ The outcomes of digital scholarship are often ‘non-traditional’, and may include digital exhibits, websites, databases, or interactive visualisations and narratives. The underlying organisational structure of such public scholarship is that of a project, usually with a distinct triggering research question and a definitive end point. Scholars may ... Read more
-The post Building Projects in Gale Digital Scholar Lab appeared first on The Gale Review.]]></summary>
-        <author>
-            <name>Gale Review Team</name>
         </author>
     </entry>
     <entry>
