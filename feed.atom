@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-10-22T08:28:39.118Z</updated>
+    <updated>2024-10-23T08:28:50.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Journal of JADH: CFP for vol.8]]></title>
+        <id>81 at https://www.jadh.org</id>
+        <link href="https://www.jadh.org/node/81"/>
+        <updated>2024-10-23T06:10:22.000Z</updated>
+        <summary type="html"><![CDATA[The Journal of the Japanese Association for Digital Humanities (in
+The JJADH is a peer-review and open-access journal, hosted with
+https://www.jstage.jst.go.jp/browse/jjadh/6/0/_contents/-char/en
+The JJADH is not limited to Japanese studies. The editorial board
+To submit your paper, please access the online submission system
+https://journals24.jadh.org/index.php/jadh/submission
+First please register with the journal by clicking the “register”
+Papers should be between 10 and 18 pages in length (4,000 to
+
+
+
+Please submit your paper (written in English) in MS-Word
+.doc, .docx) or LibreOffice (*.odt) format.
+Because this journal is an online publication, you may include
+For your references/bibliography, please follow the Chicago
+Please also follow CMS guidelines for other aspects of prose
+If you are not a native speaker of English, please have your
+Except in cases where a scholar is invited to submit, papers will
+Submissions will be accepted until February 1st, 2025.
+JJADH Editorial Board
+Christian Wittern (Kyoto University, Japan) Editor in Chief
+Gaétan Rappo (Doshisha University) Managing Editor
+Kiyonori Nagasaki (International Institute for Digital Humanities,
+Hilofumi Yamamoto (Tokyo Institute of Technology) Advisory
+Ikki Ohmukai (University of Tokyo)
+Thomas Dabbs (Aoyama Gakuin University)
+A. Charles Muller (University of Tokyo)
+Paul Arthur (University of Western Sydney, Australia)
+Susan Brown (University of Guelph)
+Bor Hodošček (Osaka University)
+Asanobu Kitamoto (National Institute of Informatics)
+Maki Miyake (Osaka University)
+Hajime Murai (Future University Hakodate)
+Yusuke Nakamura (University of Tokyo)
+Geoffrey Rockwell (University of Alberta, Canada)
+Ray Siemens (University of Victoria, Canada)]]></summary>
+        <author>
+            <name>adminweb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hellenistic Central Asia through the Eyes of GenAI – Part 1: Images]]></title>
+        <id>http://digitalorientalist.com/?p=13713</id>
+        <link href="https://digitalorientalist.com/2024/10/22/hellenistic-central-asia-through-the-eyes-of-genai-part-1-images/"/>
+        <updated>2024-10-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is part one of a three-part series on the biases about the Hellenistic Central Asia in generative artificial intelligence (AI) datasets. The first and most glaring use of generative AI involving Hellenistic Central Asia is AI-generated imagery. The history of Hellenistic Central Asia, much like most genres of history, is illustrated through this medium with very little regulation.]]></summary>
+        <author>
+            <name>Edward A. S. Ross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARIN2024 Annual Conference Summary]]></title>
+        <id>8565 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/clarin2024-annual-conference-summary"/>
+        <updated>2024-10-22T11:23:03.000Z</updated>
+        <summary type="html"><![CDATA[CLARIN2024 Annual Conference Summary 
+
+            
+The CLARIN2024 Annual Conference brought together academics and professionals from the wider humanities and social science communities to exchange ideas and experiences with the CLARIN infrastructure.
+  
+
+
+      
+
+
+
+
+  
+  
+            
+    
+This year, the CLARIN Annual Conference was a hybrid event in Barcelona, Spain. With more than 200 in-person participants and close to 150 online participants, this was an engaging and successful event. In addition to engaging keynote speeches, more than 20 abstract presentations, and interactive poster sessions, the conference also included the very first Building Bridges with Industry session. And as it is now becoming a tradition, during the conference dinner, the CLARINets (i.e., the CLARIN band) d…]]></summary>
+        <author>
+            <name>l.gusan@uu.nl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wissenschaftliche/r Mitarbeiter/in TU Chemnitz (Memetische Analysen)]]></title>
         <id>node/965</id>
@@ -15,6 +96,21 @@
 Die Technische Universität Chemnitz hat sich als…]]></summary>
         <author>
             <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New CLARIN Resource Family: Corpora of Disordered Speech]]></title>
+        <id>8564 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/new-clarin-resource-family-corpora-disordered-speech"/>
+        <updated>2024-10-22T07:46:18.000Z</updated>
+        <summary type="html"><![CDATA[New CLARIN Resource Family: Corpora of Disordered Speech
+
+            
+The CLARIN Resource Families (CRF) provide user-friendly overviews of available language resources in the CLARIN infrastructure for researchers from the digital humanities, social sciences and human language technologies. Many CRF are datasets of various types, including corpora, lexicons and software applications and tools. Until now, a missing resource family was the Corpora for Speech with Disorders (CSD), or the corpora with speech from individuals with language and speech disorders. 
+    
+CSD are invaluable resources for education and research. However, they are costly, hard to build, and can be difficult to share given various issues, such as the preservation of privacy and confidentiality of the participants, as …]]></summary>
+        <author>
+            <name>l.gusan@uu.nl</name>
         </author>
     </entry>
     <entry>
@@ -4906,35 +5002,6 @@ The post Plans, Charts, Images and Drawings: Eighteenth Century Collections Onli
         <summary type="html"><![CDATA[Dot Porter, SIMS Curator for Digital Humanities at the University of Pennsylvania Library, presents a video Orientation to the University of Pennsylvania Library’s LJS 431, a list of 33 works; at least 13 entries include publication information such as city of publication, printer, or date of publication; publishers include Robert Estienne of Paris and JoannesContinue reading "Manuscript Monday: LJS 431 – Manuscript list of manuscript and printed books (Video Orientation)"]]></summary>
         <author>
             <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editor’s Digest April 2024: Central and South Asian Studies]]></title>
-        <id>http://digitalorientalist.com/?p=12698</id>
-        <link href="https://digitalorientalist.com/2024/04/26/editors-digest-april-2024-central-and-south-asian-studies/"/>
-        <updated>2024-04-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the latest edition of the Editor’s Digest, a recurring feature introduced this academic year. This installment aims to …]]></summary>
-        <author>
-            <name>Rachael Griffiths</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ifph2024: 7th World Conference of the International Federation for Public History]]></title>
-        <id>5015 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/ifph2024-7th-world-conference-international-federation-public-history"/>
-        <updated>2024-04-26T09:56:39.000Z</updated>
-        <summary type="html"><![CDATA[The 7th World Conference of the International Federation for Public History (IFPH), will take place from 3 to 6 September 2024 at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg.
-Across this five-day conference, an international community of researchers and practitioners will gather to discuss the current opportunities and challenges within the field of public history. Attendees will be able to participate in a range of shared events including two keynote lectures, two roundtable discussions, thirty-six panels, four working-groups, four workshops and several social events. For more details and to view the full event programme please visit the conference website.  
-Launched in 2010, the IFPH is an organization that aspires to create international links between public historians and promote the development of a global network of Public History practitioners. The federation's primary purpose is to encourage, promote and coordinate, at an international level, contacts, teaching and research in public history. If you’d like to know more about the IFPH and become a member please visit the federation's website.
->> Registration to participate online or on-site is now open! <<
-3 September 2024 to 6 September 2024
-  Public history
-  Public History
-  Conferences
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>

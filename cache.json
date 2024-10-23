@@ -1315,6 +1315,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=13713",
+          "author": "Edward A. S. Ross",
+          "description": "This is part one of a three-part series on the biases about the Hellenistic Central Asia in generative artificial intelligence (AI) datasets. The first and most glaring use of generative AI involving Hellenistic Central Asia is AI-generated imagery. The history of Hellenistic Central Asia, much like most genres of history, is illustrated through this medium with very little regulation.",
+          "link": "https://digitalorientalist.com/2024/10/22/hellenistic-central-asia-through-the-eyes-of-genai-part-1-images/",
+          "publishedOn": "2024-10-22T13:00:00.000Z",
+          "wordCount": 5684,
+          "title": "Hellenistic Central Asia through the Eyes of GenAI – Part 1: Images",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/dalle-2024-10-17-12-12-17-hellenistic-bactria.webp?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=12932",
           "author": "James Harry Morris",
           "description": "In 2021, I wrote a short piece for the Digital Orientalist entitled “Denshi Jisho: Are they still worth your time?” …",
@@ -1563,16 +1573,6 @@
           "wordCount": 4952,
           "title": "The China Biographical Database (CBDB): An Introduction and Conversation with Professor Peter Bol",
           "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/04/screenshot-2024-04-03-at-18.21.27.png?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12698",
-          "author": "Rachael Griffiths",
-          "description": "Welcome to the latest edition of the Editor’s Digest, a recurring feature introduced this academic year. This installment aims to …",
-          "link": "https://digitalorientalist.com/2024/04/26/editors-digest-april-2024-central-and-south-asian-studies/",
-          "publishedOn": "2024-04-26T13:00:00.000Z",
-          "wordCount": 5211,
-          "title": "Editor’s Digest April 2024: Central and South Asian Studies",
-          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/04/pexels-photo-16290133.jpeg?w=800"
         }
       ]
     },
@@ -3193,16 +3193,6 @@
           "wordCount": 333,
           "title": "Lovó Esch: Quand nos grand-mères racontent l’histoire d’Esch",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/lovo_esch_full_width.jpg?itok=gzIQr51l"
-        },
-        {
-          "id": "5015 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The 7th World Conference of the International Federation for Public History (IFPH), will take place from 3 to 6 September 2024 at the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg.\nAcross this five-day conference, an international community of researchers and practitioners will gather to discuss the current opportunities and challenges within the field of public history. Attendees will be able to participate in a range of shared events including two keynote lectures, two roundtable discussions, thirty-six panels, four working-groups, four workshops and several social events. For more details and to view the full event programme please visit the conference website.  \nLaunched in 2010, the IFPH is an organization that aspires to create international links between public historians and promote the development of a global network of Public History practitioners. The federation's primary purpose is to encourage, promote and coordinate, at an international level, contacts, teaching and research in public history. If you’d like to know more about the IFPH and become a member please visit the federation's website.\n>> Registration to participate online or on-site is now open! <<\n3 September 2024 to 6 September 2024\n  Public history\n  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/ifph2024-7th-world-conference-international-federation-public-history",
-          "publishedOn": "2024-04-26T09:56:39.000Z",
-          "wordCount": 475,
-          "title": "ifph2024: 7th World Conference of the International Federation for Public History",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo-ifph-2024_full_width.png?itok=I4LZ_xad"
         }
       ]
     },
@@ -4259,6 +4249,26 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "8565 at https://www.clarin.eu",
+          "author": "l.gusan@uu.nl",
+          "description": "CLARIN2024 Annual Conference Summary \n\n            \nThe CLARIN2024 Annual Conference brought together academics and professionals from the wider humanities and social science communities to exchange ideas and experiences with the CLARIN infrastructure.\n  \n\n\n      \n\n\n\n\n  \n  \n            \n    \nThis year, the CLARIN Annual Conference was a hybrid event in Barcelona, Spain. With more than 200 in-person participants and close to 150 online participants, this was an engaging and successful event. In addition to engaging keynote speeches, more than 20 abstract presentations, and interactive poster sessions, the conference also included the very first Building Bridges with Industry session. And as it is now becoming a tradition, during the conference dinner, the CLARINets (i.e., the CLARIN band) d…",
+          "link": "https://www.clarin.eu/news/clarin2024-annual-conference-summary",
+          "publishedOn": "2024-10-22T11:23:03.000Z",
+          "wordCount": 920,
+          "title": "CLARIN2024 Annual Conference Summary",
+          "imageUrl": null
+        },
+        {
+          "id": "8564 at https://www.clarin.eu",
+          "author": "l.gusan@uu.nl",
+          "description": "New CLARIN Resource Family: Corpora of Disordered Speech\n\n            \nThe CLARIN Resource Families (CRF) provide user-friendly overviews of available language resources in the CLARIN infrastructure for researchers from the digital humanities, social sciences and human language technologies. Many CRF are datasets of various types, including corpora, lexicons and software applications and tools. Until now, a missing resource family was the Corpora for Speech with Disorders (CSD), or the corpora with speech from individuals with language and speech disorders. \n    \nCSD are invaluable resources for education and research. However, they are costly, hard to build, and can be difficult to share given various issues, such as the preservation of privacy and confidentiality of the participants, as …",
+          "link": "https://www.clarin.eu/blog/new-clarin-resource-family-corpora-disordered-speech",
+          "publishedOn": "2024-10-22T07:46:18.000Z",
+          "wordCount": 671,
+          "title": "New CLARIN Resource Family: Corpora of Disordered Speech",
+          "imageUrl": null
+        },
+        {
           "id": "8552 at https://www.clarin.eu",
           "author": "Julia Misersky",
           "description": "Steven Krauwer Awards 2024\n\n            \n\n  \n  \n            \n  \n\n\n      \n\n \n2024 Steven Krauwer Award for CLARIN Achievements: Mikko Tolonen, Eetu Mäkelä, Jukka Suomela and Juoni Tuominen\nOrganisers of the Helsinki Digital Humanities Hackathon\nMikko Tolonen is professor in computational history at the University of Helsinki, Eetu Mäkelä is associate professor in human sciences and computing interaction at the University of Helsinki, Jukka Suomela is professor in computer science at Aalto University, and Juoni Tuominen is a researcher at the Institute for Social Sciences and Humanities at the University of Helsinki.\n \nReasons for Nomination\nThe  Helsinki Digital Humanities Hackathon (DHH24) was nominated for its ability to bridge the gap between computer science, data science, social scienc…",
@@ -4542,6 +4552,16 @@
       "feedUrl": "https://www.jadh.org/rss.xml",
       "siteUrl": "https://www.jadh.org",
       "articles": [
+        {
+          "id": "81 at https://www.jadh.org",
+          "author": "adminweb",
+          "description": "The Journal of the Japanese Association for Digital Humanities (in\nThe JJADH is a peer-review and open-access journal, hosted with\nhttps://www.jstage.jst.go.jp/browse/jjadh/6/0/_contents/-char/en\nThe JJADH is not limited to Japanese studies. The editorial board\nTo submit your paper, please access the online submission system\nhttps://journals24.jadh.org/index.php/jadh/submission\nFirst please register with the journal by clicking the “register”\nPapers should be between 10 and 18 pages in length (4,000 to\n\n\n\nPlease submit your paper (written in English) in MS-Word\n.doc, .docx) or LibreOffice (*.odt) format.\nBecause this journal is an online publication, you may include\nFor your references/bibliography, please follow the Chicago\nPlease also follow CMS guidelines for other aspects of prose\nIf you are not a native speaker of English, please have your\nExcept in cases where a scholar is invited to submit, papers will\nSubmissions will be accepted until February 1st, 2025.\nJJADH Editorial Board\nChristian Wittern (Kyoto University, Japan) Editor in Chief\nGaétan Rappo (Doshisha University) Managing Editor\nKiyonori Nagasaki (International Institute for Digital Humanities,\nHilofumi Yamamoto (Tokyo Institute of Technology) Advisory\nIkki Ohmukai (University of Tokyo)\nThomas Dabbs (Aoyama Gakuin University)\nA. Charles Muller (University of Tokyo)\nPaul Arthur (University of Western Sydney, Australia)\nSusan Brown (University of Guelph)\nBor Hodošček (Osaka University)\nAsanobu Kitamoto (National Institute of Informatics)\nMaki Miyake (Osaka University)\nHajime Murai (Future University Hakodate)\nYusuke Nakamura (University of Tokyo)\nGeoffrey Rockwell (University of Alberta, Canada)\nRay Siemens (University of Victoria, Canada)",
+          "link": "https://www.jadh.org/node/81",
+          "publishedOn": "2024-10-23T06:10:22.000Z",
+          "wordCount": 528,
+          "title": "Journal of JADH: CFP for vol.8",
+          "imageUrl": null
+        },
         {
           "id": "80 at https://www.jadh.org",
           "author": "adminweb",
