@@ -201,16 +201,6 @@
           "wordCount": null,
           "title": "ADHO Podcast, Episode 6 is on air.",
           "imageUrl": null
-        },
-        {
-          "id": "https://adho.org/?p=3138",
-          "author": "Nadezhda Povroznik",
-          "description": "The Alliance of Digital Humanities Organizations (ADHO) seeks applicants for two 2024 Communications Fellowships, each of which comes with a stipend of €500 (Euros). Each year, Communications Fellows work with ADHO’s Communications Officer to manage ADHO’s public communications activities. The fellowship is well suited for graduate students, emerging scholars, and academic professionals who wish to… Read More »Call for Applications: 2024 ADHO Communications Fellowships",
-          "link": "https://adho.org/2024/05/03/call-for-applications-2024-adho-communications-fellowships/",
-          "publishedOn": "2024-05-03T07:28:35.000Z",
-          "wordCount": null,
-          "title": "Call for Applications: 2024 ADHO Communications Fellowships",
-          "imageUrl": null
         }
       ]
     },
@@ -1345,6 +1335,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=13703",
+          "author": "BRIAN Wong",
+          "description": "In March and May 2024, as a Training Fellow of the Centre of Data, Culture, and Society (CDCS) at the …",
+          "link": "https://digitalorientalist.com/2024/10/29/introducing-network-analysis-in-the-classroom/",
+          "publishedOn": "2024-10-29T13:00:00.000Z",
+          "wordCount": 5196,
+          "title": "Introducing Network Analysis in the Classroom",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/do_cover.jpg?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=13689",
           "author": "Ephrem A. Ishac",
           "description": "The recent rise of Artificial Intelligence (AI) chatbots like Gemini has opened up exciting new possibilities for interacting with and …",
@@ -1583,16 +1583,6 @@
           "wordCount": 4988,
           "title": "Far Cry 4: Deconstructing Hegemonic Narratives Through Games",
           "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/05/pexels-photo-16152405.jpeg?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12763",
-          "author": "Orestis Georgalas",
-          "description": "Introduction As the digitization of cultural heritage progresses on both a local and a global level, the importance of digital …",
-          "link": "https://digitalorientalist.com/2024/05/03/exploring-digitized-cultural-heritage-through-search-culture/",
-          "publishedOn": "2024-05-03T11:40:31.000Z",
-          "wordCount": 5800,
-          "title": "Exploring Digitized Cultural Heritage Through Search Culture",
-          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/05/screenshot-2024-05-01-at-7.09.40e280afpm.png?w=1200"
         }
       ]
     },
@@ -2575,6 +2565,16 @@
       "siteUrl": "https://uk.caa-international.org",
       "articles": [
         {
+          "id": "https://sites.caa-international.org/uk/?p=1403",
+          "author": "Alfie Lien - Talks",
+          "description": "Tickets and Schedule The CAAUK conference is centred on quantitative methods and computer applications in heritage. Friday, November 24thThe conference will kick off with registration from 12:30 to 13:00, followed by a welcome and housekeeping session with sessions from 13:15 … Continue reading →",
+          "link": "https://uk.caa-international.org/2024/10/29/caa-2024/",
+          "publishedOn": "2024-10-29T11:30:24.000Z",
+          "wordCount": 713,
+          "title": "CAA 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://sites.caa-international.org/uk/?p=1388",
           "author": "Alfie Lien - Talks",
           "description": "The Call for Papers has just been extended, and we invite you to share your research at the CAAUK 2024 Conference, held at Canterbury Christ Church University on 22nd-23rd November 2024! We invite the submission of papers and posters related … Continue reading →",
@@ -2854,6 +2854,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5211 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Aliénor Gandanger of the University of Luxembourg and Rachel Beck of the University of Limerick (Ireland) are proud to organise a webinar exploring the confluence of history and webcomic-making. The participants are all creators of historical comics and webcomics. The purpose of the webinar is for us to share our experiences, but not only that - we are also endeavouring to develop ‘history and webcomics’ as a field of study in its own right. By bringing the participants together, we hope to encourage collaboration between creator-historians and (academic) public historians. This event is unique in that it is the first time history-based webcomics have come under theoretical scrutiny.\n \nFriday, 15 November 2024\n11.00 - 13.00\nOnline\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/illustration_rachel_beck_full_width.jpg?itok=XAF4IREz\n  Aliénor Gandanger (University of Luxembourg) and Rachel Beck (University of Limerick) will explore the confluence of history and webcomic-making. \n  15 November 2024\n  Public history\n  History of popular culture  Media history\n  Conferences\n  Published  \n© Rachel Beck",
+          "link": "https://www.c2dh.uni.lu/events/exploring-confluence-public-history-and-webcomic-making",
+          "publishedOn": "2024-10-29T12:38:16.000Z",
+          "wordCount": 401,
+          "title": "Exploring the confluence of public history and webcomic-making",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/illustration_rachel_beck_full_width.jpg?itok=U1Wd8lgH"
+        },
         {
           "id": "5209 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
