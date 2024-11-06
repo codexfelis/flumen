@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-11-05T08:28:02.548Z</updated>
+    <updated>2024-11-06T08:28:55.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Intertextual Heatmap: Tantra of the Sun’s Reception in 14th century Tibet]]></title>
+        <id>http://digitalorientalist.com/?p=13912</id>
+        <link href="https://digitalorientalist.com/2024/11/05/an-intertextual-heatmap-tantra-of-the-suns-reception-in-14th-century-tibet/"/>
+        <updated>2024-11-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do you map 14th-century Buddhist intertextuality? Stanford scholar Elaine Lai shares how she created a digital heatmap to visualize textual connections between the "Tantra of the Sun" and its commentaries, offering new insights into citation patterns and textual authority.]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI to Review Government Records: New Work to Unlock Historically Significant Digital Records]]></title>
+        <id>5218 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/ai-review-government-records-new-work-unlock-historically-significant-digital-records"/>
+        <updated>2024-11-05T09:29:59.000Z</updated>
+        <summary type="html"><![CDATA[This talk presents ground-breaking new work on AI applied to the government records of the Cabinet Office, in order to automatically identify historically significant records to preserve and other records that can be deleted. The Cabinet Office is the UK central government department that supports the Prime Minister in the effective running of government. Its records are among the most important that are deposited in The National Archives, covering those of the Prime Minister, Cabinet proceedings, government efficiency and reform, and the formulation of legislation, among other areas.
+This talk, which is based on a co-authored article with David Canning (Cabinet Office), does not only describe a radically new methodology to appraise digital records, it also makes a significant theoretical …]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Horror – Game – Politics: A History of Ideas in the Horrific]]></title>
         <id>5217 at https://www.c2dh.uni.lu</id>
@@ -4637,36 +4658,6 @@ According to Heitman, the selection process was extremely difficult, but she had
         <summary type="html"><![CDATA[How do we tell stories of refugee stories differently? Refugee States is a project that challenges dominant narratives about forced migration. We partner with community organizations to co-create a counter-archive […]]]></summary>
         <author>
             <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLP Tools for Sinology: Introducing the WYD Platform]]></title>
-        <id>http://digitalorientalist.com/?p=12639</id>
-        <link href="https://digitalorientalist.com/2024/05/10/nlp-tools-for-sinology-introducing-the-wyd-platform/"/>
-        <updated>2024-05-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This entry introduces a platform that utilizes Machine Learning (ML) algorithms from the field of Natural Language Processing (NLP) to …]]></summary>
-        <author>
-            <name>Gian Rominger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BALTIC SUMMER SCHOOL OF DIGITAL HUMANITIES 2024]]></title>
-        <id>https://dhnb.eu/?p=2998</id>
-        <link href="https://dhnb.eu/baltic-summer-school-of-digital-humanities-2024/"/>
-        <updated>2024-05-10T07:05:19.000Z</updated>
-        <summary type="html"><![CDATA[Students, researchers, and GLAM professionals are welcome to enroll in the Sixth Baltic Summer School of Digital Humanities:  Large Language Models and Small Languages, which will be held on 22-26 July 2024 at the National Library of Latvia (NLL) in Riga and online. Register here: https://www.digitalhumanities.lv/bssdh/2024/registration/ This year, participants will have the opportunity to learn […]]]></summary>
-        <author>
-            <name>Anda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Textual Analysis of Linkin Park’s Discography with Voyant Tools]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8917</id>
-        <link href="https://sites.temple.edu/tudsc/2024/05/09/textual-analysis-of-linkin-parks-discography-with-voyant-tools/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=textual-analysis-of-linkin-parks-discography-with-voyant-tools"/>
-        <updated>2024-05-09T21:25:41.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Music as an art form is one of many layers, each encompassing an entirely different aspect of creativity to be shaped into one final product. While listening to a song, all...]]></summary>
-        <author>
-            <name>Crys Pikarski</name>
         </author>
     </entry>
     <entry>

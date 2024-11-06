@@ -16,18 +16,7 @@
       "title": "DHNB",
       "feedUrl": "http://dhnb.eu/feed",
       "siteUrl": "https://dhnb.eu",
-      "articles": [
-        {
-          "id": "https://dhnb.eu/?p=2998",
-          "author": "Anda",
-          "description": "Students, researchers, and GLAM professionals are welcome to enroll in the Sixth Baltic Summer School of Digital Humanities:  Large Language Models and Small Languages, which will be held on 22-26 July 2024 at the National Library of Latvia (NLL) in Riga and online. Register here: https://www.digitalhumanities.lv/bssdh/2024/registration/ This year, participants will have the opportunity to learn […]",
-          "link": "https://dhnb.eu/baltic-summer-school-of-digital-humanities-2024/",
-          "publishedOn": "2024-05-10T07:05:19.000Z",
-          "wordCount": 962,
-          "title": "BALTIC SUMMER SCHOOL OF DIGITAL HUMANITIES 2024",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "News – Global Outlook::Digital Humanities",
@@ -1335,6 +1324,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=13912",
+          "author": "The Digital Orientalist",
+          "description": "How do you map 14th-century Buddhist intertextuality? Stanford scholar Elaine Lai shares how she created a digital heatmap to visualize textual connections between the \"Tantra of the Sun\" and its commentaries, offering new insights into citation patterns and textual authority.",
+          "link": "https://digitalorientalist.com/2024/11/05/an-intertextual-heatmap-tantra-of-the-suns-reception-in-14th-century-tibet/",
+          "publishedOn": "2024-11-05T14:00:00.000Z",
+          "wordCount": 6001,
+          "title": "An Intertextual Heatmap: Tantra of the Sun’s Reception in 14th century Tibet",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/11/elaine_header.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=13739",
           "author": "The Digital Orientalist",
           "description": "This is a guest post by Enfu Zhang. See author bio at the end of the page. As the Tangut …",
@@ -1563,16 +1562,6 @@
           "wordCount": 5129,
           "title": "A Postcard from the World of Print: Algeria’s Place in the Digital Humanities",
           "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/05/alger_-_grande_poste.jpg?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12639",
-          "author": "Gian Rominger",
-          "description": "This entry introduces a platform that utilizes Machine Learning (ML) algorithms from the field of Natural Language Processing (NLP) to …",
-          "link": "https://digitalorientalist.com/2024/05/10/nlp-tools-for-sinology-introducing-the-wyd-platform/",
-          "publishedOn": "2024-05-10T13:00:00.000Z",
-          "wordCount": 4965,
-          "title": "NLP Tools for Sinology: Introducing the WYD Platform",
-          "imageUrl": "https://digitalorientalist.files.wordpress.com/2024/04/screenshot-2024-04-09-at-17.57.31.png?w=1200"
         }
       ]
     },
@@ -2462,16 +2451,6 @@
           "wordCount": 4208,
           "title": "Building and Topic Modeling a Corpus of Gothic Literature",
           "imageUrl": null
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8917",
-          "author": "Crys Pikarski",
-          "description": "Introduction Music as an art form is one of many layers, each encompassing an entirely different aspect of creativity to be shaped into one final product. While listening to a song, all...",
-          "link": "https://sites.temple.edu/tudsc/2024/05/09/textual-analysis-of-linkin-parks-discography-with-voyant-tools/?utm_source=rss&utm_medium=rss&utm_campaign=textual-analysis-of-linkin-parks-discography-with-voyant-tools",
-          "publishedOn": "2024-05-09T21:25:41.000Z",
-          "wordCount": 4314,
-          "title": "Textual Analysis of Linkin Park’s Discography with Voyant Tools",
-          "imageUrl": null
         }
       ]
     },
@@ -2814,6 +2793,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5218 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "This talk presents ground-breaking new work on AI applied to the government records of the Cabinet Office, in order to automatically identify historically significant records to preserve and other records that can be deleted. The Cabinet Office is the UK central government department that supports the Prime Minister in the effective running of government. Its records are among the most important that are deposited in The National Archives, covering those of the Prime Minister, Cabinet proceedings, government efficiency and reform, and the formulation of legislation, among other areas.\nThis talk, which is based on a co-authored article with David Canning (Cabinet Office), does not only describe a radically new methodology to appraise digital records, it also makes a significant theoretical …",
+          "link": "https://www.c2dh.uni.lu/events/ai-review-government-records-new-work-unlock-historically-significant-digital-records",
+          "publishedOn": "2024-11-05T09:29:59.000Z",
+          "wordCount": 667,
+          "title": "AI to Review Government Records: New Work to Unlock Historically Significant Digital Records",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_handson_history-content-list-grey.png?itok=0EHc2jFn"
+        },
         {
           "id": "5217 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
