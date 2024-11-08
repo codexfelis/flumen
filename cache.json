@@ -10,7 +10,18 @@
       "title": "UCLDH Blog",
       "feedUrl": "http://blogs.ucl.ac.uk/dh/feed/",
       "siteUrl": "https://blogs.ucl.ac.uk/dh",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blogs.ucl.ac.uk/dh/?p=8320",
+          "author": "Lucy Stagg",
+          "description": "A Guide to Finding Women in the Sloane Lab Knowledge Base, available to download here The Sloane Lab is pleased to announce the release of three new resources — an online exhibition, dataset, and research guide — developed by Dr Rosalind White, Sloane Lab Community Research Fellow at University College London, as part of her project In […]",
+          "link": "https://blogs.ucl.ac.uk/dh/2024/11/07/finding-women-in-the-sloane-lab-knowledge-base/",
+          "publishedOn": "2024-11-07T13:56:24.000Z",
+          "wordCount": 1523,
+          "title": "Finding Women in the Sloane Lab Knowledge Base",
+          "imageUrl": "https://sloanelab.org/wp-content/uploads/2024/11/guide.png"
+        }
+      ]
     },
     {
       "title": "DHNB",
@@ -1045,26 +1056,6 @@
           "publishedOn": "2024-07-29T14:37:47.000Z",
           "wordCount": 3144,
           "title": "CDHI Members Awarded SSHRC Partnership Grant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=9228",
-          "author": "DHN Admin",
-          "description": "CDHI is pleased to welcome Claire Battershill (Assistant Professor, iSchool and English) as Interim Faculty Director, 01 July to 31 December 2024, while Elspeth Brown, takes a six-month administrative leave […]",
-          "link": "https://dhn.utoronto.ca/welcoming-interim-faculty-director/?utm_source=rss&utm_medium=rss&utm_campaign=welcoming-interim-faculty-director",
-          "publishedOn": "2024-05-11T23:49:39.000Z",
-          "wordCount": 2743,
-          "title": "Welcoming Interim Faculty Director, Prof. Claire Battershill",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=9222",
-          "author": "DHN Admin",
-          "description": "How do we tell stories of refugee stories differently? Refugee States is a project that challenges dominant narratives about forced migration. We partner with community organizations to co-create a counter-archive […]",
-          "link": "https://dhn.utoronto.ca/refugee-states-oral-history-narrators-wanted/?utm_source=rss&utm_medium=rss&utm_campaign=refugee-states-oral-history-narrators-wanted",
-          "publishedOn": "2024-05-11T22:50:20.000Z",
-          "wordCount": 2832,
-          "title": "Refugee States: Oral History Narrators Wanted",
           "imageUrl": null
         }
       ]
@@ -2793,6 +2784,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5221 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Join us for a presentation by doctoral candidates Nicolas Arendt and Zoé Konsbruck, who will share their newest research on deindustrialization and the Luxembourg steel industry. Zoé will discuss the impact of the steel crisis on Luxembourg’s industrial towns and their adaptation to deindustrialization challenges. Nicolas will explore the significant transformation of the ARBED steel company and the acquisition and modernization of the former VEB Maxhütte Unterwellenborn in Thuringia in 1992.\n \nThursday, 28 November 2024\n18.30 - 20.00\nCentre nature et forêt Ellergronn - Hall C\n \nProgramme (6:30 pm – 8:00 pm):\nWelcome\nZoé Konsbruck – D’Stolkris an den Industriestied: Krisemanagement a nei Zukunftsperspektiven 1970-1990\nNicolas Arendt – D’ARBED am Spannungsfeld vun der ostdäitscher Transformatioun: D’Acquisitioun vun der Maxhütte Unterwellenborn 1992\nDiscussion and a Drink\n \nYour input (photos and documents) provides valuable insights into the history of deindustrialisation.\nThe event will be held in Luxembourgish, but everyone is welcome!\n \nOrganised in collaboration with  CNCI (Centre National de la Culture Industrielle) & Cockerill Mine Katzeberg\n \n\n\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/indu-1-c-191_wm.jpg?itok=WsPHqotx\n  Presentation of Current Research Projects by Zoé Konsbruck and Nicolas Arendt.\n  28 November 2024\n  Public history  Contemporary history of Luxembourg\n  Industrial history\n  Conferences\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/luxembourg-steel-industry-70s",
+          "publishedOn": "2024-11-07T11:42:19.000Z",
+          "wordCount": 439,
+          "title": "The Luxembourg Steel Industry Since the 70s",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/indu-1-c-191_wm.jpg?itok=0bf9VcTd"
+        },
         {
           "id": "5219 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
