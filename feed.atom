@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-11-08T08:27:32.541Z</updated>
+    <updated>2024-11-09T08:25:53.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using TEI to study Edward Sylvester Morse’s Japan Diaries in the Peabody Essex Museum Collection (Part 1)]]></title>
+        <id>http://digitalorientalist.com/?p=13756</id>
+        <link href="https://digitalorientalist.com/2024/11/08/using-tei-to-study-edward-sylvester-morses-japan-diaries-in-the-peabody-essex-museum-collection-part-1/"/>
+        <updated>2024-11-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TEI (text-encoding initiative) is a digital humanities method that enriches plain text transcriptions using .xml tags. It is most commonly …]]></summary>
+        <author>
+            <name>emma.donington</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finding Women in the Sloane Lab Knowledge Base]]></title>
         <id>https://blogs.ucl.ac.uk/dh/?p=8320</id>
@@ -4637,16 +4647,6 @@ Eintrittstermin: Zum nächstmöglichen…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building and Topic Modeling a Corpus of Gothic Literature]]></title>
-        <id>https://sites.temple.edu/tudsc/?p=8980</id>
-        <link href="https://sites.temple.edu/tudsc/2024/05/13/building-and-topic-modeling-a-corpus-of-gothic-literature/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=building-and-topic-modeling-a-corpus-of-gothic-literature"/>
-        <updated>2024-05-13T16:56:10.000Z</updated>
-        <summary type="html"><![CDATA[By SaraGrace Stefan Introduction How do we convey that which is beyond words? According to literary critic Teresa Goddu, gothic literature has historically served as the genre that allows authors to do...]]></summary>
-        <author>
-            <name>Saragrace Stefan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CDH Reactor]]></title>
         <id>https://www.cdh.cam.ac.uk/research/reactor/</id>
         <link href="https://www.cdh.cam.ac.uk/research/reactor/"/>
@@ -4657,45 +4657,12 @@ Eintrittstermin: Zum nächstmöglichen…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 435 – Maqālah fī al-ʻamal bi-al-yad. = مقالة في العمل باليد (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18121</id>
-        <link href="https://schoenberginstitute.org/2024/05/13/manuscript-monday-ljs-435-maqalah-fi-al-%ca%bbamal-bi-al-yad-%d9%85%d9%82%d8%a7%d9%84%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d8%a7%d9%84%d9%8a%d8%af-video-orientation/"/>
-        <updated>2024-05-13T12:49:43.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities at the University of Pennsylvania Libraries, presents a Video Orientation to the University of Pennsylvania Library’s LJS 435, which contains portions of a treatise on surgery. Parts of the second chapter and all of the third chapter of the 3-chapter treatise, which is the last of the 30Continue reading "Manuscript Monday: LJS 435 – Maqālah fī al-ʻamal bi-al-yad. = مقالة في العمل باليد (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Past CDH Reactors]]></title>
         <id>https://www.cdh.cam.ac.uk/research/reactor/past-cdh-reactors/</id>
         <link href="https://www.cdh.cam.ac.uk/research/reactor/past-cdh-reactors/"/>
         <updated>2024-05-13T11:11:20.000Z</updated>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Humanities Summer Fellowships awarded to four doctoral students]]></title>
-        <id>2697 at https://cdrh.unl.edu</id>
-        <link href="https://cdrh.unl.edu/digital-humanities-summer-fellowships-awarded-four-doctoral-students"/>
-        <updated>2024-05-13T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: 
-
-
-
-
-Link: 
-
-Digital Humanities Summer Fellowships awarded to four doctoral students
-
-
-
-The Center for Digital Research in the Humanities announced its 2024 cohort of Digital Humanities Summer Fellows.
-“This year we had the highest number of applications we’ve ever received, with lots of amazing, meritorious projects,” said Carrie Heitman, associate director and fellow of the CDRH and director of the 2024 Digital Humanities Summer Fellowships.
-According to Heitman, the selection process was extremely difficult, but she had help from the other members of the CDRH’s Student-Centered Committee who reviewed the applications with her. Kevin McMullen, Katrina Jagodinsky, and Laura Weakly helped Heitman bring together a dynamic group of young scholars who will continue to push the field of…]]></summary>
-        <author>
-            <name>Anonymous</name>
         </author>
     </entry>
     <entry>

@@ -257,16 +257,6 @@
           "wordCount": 1546,
           "title": "Undergrads expand stories behind historic slavery lawsuits",
           "imageUrl": null
-        },
-        {
-          "id": "2697 at https://cdrh.unl.edu",
-          "author": "Anonymous",
-          "description": "Image: \n\n\n\n\nLink: \n\nDigital Humanities Summer Fellowships awarded to four doctoral students\n\n\n\nThe Center for Digital Research in the Humanities announced its 2024 cohort of Digital Humanities Summer Fellows.\n“This year we had the highest number of applications we’ve ever received, with lots of amazing, meritorious projects,” said Carrie Heitman, associate director and fellow of the CDRH and director of the 2024 Digital Humanities Summer Fellowships.\nAccording to Heitman, the selection process was extremely difficult, but she had help from the other members of the CDRH’s Student-Centered Committee who reviewed the applications with her. Kevin McMullen, Katrina Jagodinsky, and Laura Weakly helped Heitman bring together a dynamic group of young scholars who will continue to push the field of…",
-          "link": "https://cdrh.unl.edu/digital-humanities-summer-fellowships-awarded-four-doctoral-students",
-          "publishedOn": "2024-05-13T05:13:00.000Z",
-          "wordCount": 1217,
-          "title": "Digital Humanities Summer Fellowships awarded to four doctoral students",
-          "imageUrl": null
         }
       ]
     },
@@ -1315,6 +1305,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=13756",
+          "author": "emma.donington",
+          "description": "TEI (text-encoding initiative) is a digital humanities method that enriches plain text transcriptions using .xml tags. It is most commonly …",
+          "link": "https://digitalorientalist.com/2024/11/08/using-tei-to-study-edward-sylvester-morses-japan-diaries-in-the-peabody-essex-museum-collection-part-1/",
+          "publishedOn": "2024-11-08T14:00:00.000Z",
+          "wordCount": 5200,
+          "title": "Using TEI to study Edward Sylvester Morse’s Japan Diaries in the Peabody Essex Museum Collection (Part 1)",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/screenshot-2024-10-20-at-19.19.25.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=13912",
           "author": "The Digital Orientalist",
           "description": "How do you map 14th-century Buddhist intertextuality? Stanford scholar Elaine Lai shares how she created a digital heatmap to visualize textual connections between the \"Tantra of the Sun\" and its commentaries, offering new insights into citation patterns and textual authority.",
@@ -2278,16 +2278,6 @@
           "wordCount": 5396,
           "title": "Manuscript Monday: LJS 436 – Ḍawʼ al-sirāj. = ضوء السراج.(Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/05/screenshot-2024-05-10-at-12.59.05e280afpm.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18121",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities at the University of Pennsylvania Libraries, presents a Video Orientation to the University of Pennsylvania Library’s LJS 435, which contains portions of a treatise on surgery. Parts of the second chapter and all of the third chapter of the 3-chapter treatise, which is the last of the 30Continue reading \"Manuscript Monday: LJS 435 – Maqālah fī al-ʻamal bi-al-yad. = مقالة في العمل باليد (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/05/13/manuscript-monday-ljs-435-maqalah-fi-al-%ca%bbamal-bi-al-yad-%d9%85%d9%82%d8%a7%d9%84%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a8%d8%a7%d9%84%d9%8a%d8%af-video-orientation/",
-          "publishedOn": "2024-05-13T12:49:43.000Z",
-          "wordCount": 5284,
-          "title": "Manuscript Monday: LJS 435 – Maqālah fī al-ʻamal bi-al-yad. = مقالة في العمل باليد (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.files.wordpress.com/2024/05/screenshot-2024-05-10-at-1.00.28e280afpm.png?w=1200"
         }
       ]
     },
@@ -2431,16 +2421,6 @@
           "publishedOn": "2024-06-17T14:30:00.000Z",
           "wordCount": 4015,
           "title": "Tunnel of Love: The First Makerspace Residency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=8980",
-          "author": "Saragrace Stefan",
-          "description": "By SaraGrace Stefan Introduction How do we convey that which is beyond words? According to literary critic Teresa Goddu, gothic literature has historically served as the genre that allows authors to do...",
-          "link": "https://sites.temple.edu/tudsc/2024/05/13/building-and-topic-modeling-a-corpus-of-gothic-literature/?utm_source=rss&utm_medium=rss&utm_campaign=building-and-topic-modeling-a-corpus-of-gothic-literature",
-          "publishedOn": "2024-05-13T16:56:10.000Z",
-          "wordCount": 4208,
-          "title": "Building and Topic Modeling a Corpus of Gothic Literature",
           "imageUrl": null
         }
       ]
