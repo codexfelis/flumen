@@ -1295,6 +1295,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=13865",
+          "author": "Maciej Kurzynski",
+          "description": "Recent years have witnessed a wave of fascinating research findings in both natural and artificial intelligence. While scholars remain cautious …",
+          "link": "https://digitalorientalist.com/2024/11/12/cognitive-stylometry-as-an-llm-based-methodology-in-chinese-literary-studies/",
+          "publishedOn": "2024-11-12T14:00:00.000Z",
+          "wordCount": 5319,
+          "title": "Cognitive Stylometry as an LLM-Based Methodology in Chinese Literary Studies",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/11/probability_space_hk.webp"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=13756",
           "author": "emma.donington",
           "description": "TEI (text-encoding initiative) is a digital humanities method that enriches plain text transcriptions using .xml tags. It is most commonly …",
@@ -1523,16 +1533,6 @@
           "wordCount": 5027,
           "title": "Linked Data: An Intensive Introduction by Terhi Nurmikko-Fuller",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/05/wikidata_in_the_linked_open_data_cloud_2020-08-20.svg_.png"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12485",
-          "author": "Hirohito TSUJI 辻󠄀 博仁",
-          "description": "Overview In June 2023, TOPPAN Corporation released an application for iOS, the Komonjo Camera 古文書カメラ. This was followed by an …",
-          "link": "https://digitalorientalist.com/2024/05/17/komonjo-camera-the-ai-app-for-reading-cursive-japanese-characters/",
-          "publishedOn": "2024-05-17T12:45:00.000Z",
-          "wordCount": 5678,
-          "title": "Komonjo Camera, the AI App for Reading Cursive Japanese Characters",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/03/mv-pc.png?w=1200"
         }
       ]
     },
@@ -2409,18 +2409,7 @@
       "title": "DH at Tufts",
       "feedUrl": "https://sites.tufts.edu/digitalhumanities/feed/",
       "siteUrl": "https://sites.tufts.edu/digitalhumanities",
-      "articles": [
-        {
-          "id": "https://sites.tufts.edu/digitalhumanities/?p=1132",
-          "author": "Peter Nadel",
-          "description": "A Four Course Sequence Tufts DH continues to innovate with its brand new digital humanities minor! See below for details: Minor requirements The four required digital humanities courses (or equivalent): DH 101: Introduction to Digital Humanities – introduces students to the history and motivation underlying the Digital Humanities and walks them through the basic Python […]",
-          "link": "https://sites.tufts.edu/digitalhumanities/2024/05/17/new-digital-humanities-minor-at-tufts/?utm_source=rss&utm_medium=rss&utm_campaign=new-digital-humanities-minor-at-tufts",
-          "publishedOn": "2024-05-17T20:19:32.000Z",
-          "wordCount": 2562,
-          "title": "New Digital Humanities Minor at Tufts",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "TEI: Text Encoding Initiative",
@@ -2735,6 +2724,16 @@
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
         {
+          "id": "5228 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "The lecture seeks to foster interdisciplinary discussions at the intersection of digital technology, contemporary artistic practices, and heritage imagery, exploring how these realms inspire new perspectives, creative expression, and critical inquiry, resonating with an audience curious about the evolving relationship between tradition and innovation. Drawing on two projects I have developed—CerCAST (Ceramics Route of Castelli) and LICA Routes (Locating Indonesian Cultural Archives)—the lecture demonstrates how crossing disciplinary boundaries can challenge and broaden current understandings of identity, heritage, and cultural narratives in an era shaped by digital hybridity. \nThrough cultural route visualization and artistic reinterpretation, these projects reveal how technology can uncov…",
+          "link": "https://www.c2dh.uni.lu/events/heritagex-where-material-culture-meets-technology-and-artistic-practice",
+          "publishedOn": "2024-11-12T13:29:25.000Z",
+          "wordCount": 697,
+          "title": "HeritageX: Where Material Culture Meets Technology and Artistic Practice",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/eko_saputra.jpg?itok=-zz6yYR4"
+        },
+        {
           "id": "5221 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
           "description": "Join us for a presentation by doctoral candidates Nicolas Arendt and Zoé Konsbruck, who will share their newest research on deindustrialization and the Luxembourg steel industry. Zoé will discuss the impact of the steel crisis on Luxembourg’s industrial towns and their adaptation to deindustrialization challenges. Nicolas will explore the significant transformation of the ARBED steel company and the acquisition and modernization of the former VEB Maxhütte Unterwellenborn in Thuringia in 1992.\n \nThursday, 28 November 2024\n18.30 - 20.00\nCentre nature et forêt Ellergronn - Hall C\n \nProgramme (6:30 pm – 8:00 pm):\nWelcome\nZoé Konsbruck – D’Stolkris an den Industriestied: Krisemanagement a nei Zukunftsperspektiven 1970-1990\nNicolas Arendt – D’ARBED am Spannungsfeld vun der ostdäitscher Transformatioun: D’Acquisitioun vun der Maxhütte Unterwellenborn 1992\nDiscussion and a Drink\n \nYour input (photos and documents) provides valuable insights into the history of deindustrialisation.\nThe event will be held in Luxembourgish, but everyone is welcome!\n \nOrganised in collaboration with  CNCI (Centre National de la Culture Industrielle) & Cockerill Mine Katzeberg\n \n\n\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/indu-1-c-191_wm.jpg?itok=WsPHqotx\n  Presentation of Current Research Projects by Zoé Konsbruck and Nicolas Arendt.\n  28 November 2024\n  Public history  Contemporary history of Luxembourg\n  Industrial history\n  Conferences\n  Published  \n    Hide image in content detail",
@@ -2743,6 +2742,16 @@
           "wordCount": 439,
           "title": "The Luxembourg Steel Industry Since the 70s",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/indu-1-c-191_wm.jpg?itok=0bf9VcTd"
+        },
+        {
+          "id": "5220 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Join us for an engaging discussion on the intersection of cultural heritage and community engagement, where we will explore the experiences of heritage conservation and the adaptive reuse through two case studies: Morecambe Winter Gardens in the UK and FerroForum in Luxembourg. Discover how these cultural landmarks tackled conservation challenges and fostered community engagement, providing valuable insights into how cultural heritage can remain relevant for future generations.\nHeritage sites contribute significantly to a community’s sense of identity and belonging. Recognising the importance of local knowledge, civic participation plays a vital role in the conservation and interpretation of the heritage. This conversation will explore how historians, artists and community members can coll…",
+          "link": "https://www.c2dh.uni.lu/events/cultural-heritage-and-community-involvement",
+          "publishedOn": "2024-11-06T13:59:49.000Z",
+          "wordCount": 840,
+          "title": "Cultural heritage and community involvement",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/ferroforum.jpg?itok=wu9Tlkir"
         },
         {
           "id": "5219 at https://www.c2dh.uni.lu",
