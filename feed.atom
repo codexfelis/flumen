@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-11-14T08:28:39.124Z</updated>
+    <updated>2024-11-15T08:28:50.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zwei Jahre fedihum.org: Die Mastodon-Instanz des DHd-Verbands hat Geburtstag]]></title>
+        <id>node/970</id>
+        <link href="https://dig-hum.de/aktuelles/zwei-jahre-fedihumorg-die-mastodon-instanz-des-dhd-verbands-hat-geburtstag"/>
+        <updated>2024-11-14T09:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Heute vor zwei Jahren, am 14. November 2022, rief der DHd-Verband fedihum.org ins Leben. 
+Der Verband wollte damit allen DH-Enthusiasten eine unabhängige Option im Zeitalter der…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facing the History Machine: Towards Histories of Digital History]]></title>
+        <id>5229 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/facing-history-machine-towards-histories-digital-history"/>
+        <updated>2024-11-14T09:06:03.000Z</updated>
+        <summary type="html"><![CDATA[In this talk, Gerben Zaagsma will discuss the history and genealogies of digital history within the broader context of how new technologies have shaped historical research practices and knowledge production since the late nineteenth century. To do so, he will first explore the current historiography and origin myths of digital history while advocating for greater consideration of disciplinary differences in histories of the digital humanities.
+In the second part, he discusses how we might frame a history of digital history. If an imagined “collective” memory exists, the history of digital history started in the 1960s in the United States and Western Europe, involved mostly digital electronic computing employed to support quantitative approaches, and occurred within national silos. As he wi…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cognitive Stylometry as an LLM-Based Methodology in Chinese Literary Studies]]></title>
         <id>http://digitalorientalist.com/?p=13865</id>
@@ -25,6 +47,25 @@
 Through cultural route visualization and artistic reinterpretation, these projects reveal how technology can uncov…]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARIN2025 in Vienna]]></title>
+        <id>8579 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/clarin2025-vienna"/>
+        <updated>2024-11-12T10:10:27.000Z</updated>
+        <summary type="html"><![CDATA[CLARIN2025 in Vienna
+
+            
+We are pleased to announce that the CLARIN Annual Conference 2025 will be held in Vienna, Austria! The conference will be held from 30 September to 2 October, and will be organised in collaboration with CLARIAH-AT.
+    
+The CLARIN Annual Conference is the annual event for those working on the construction and operation of CLARIN across Europe. It is organised for the wider humanities and social sciences communities in order to exchange ideas and experiences within the CLARIN infrastructure. This includes the design, construction and operation of the CLARIN infrastructure, the data, tools and services that it contains or for which there is a need, its actual use by researchers and teachers, its relation to other infrastructures and projects, and the CLARIN Knowledge Infrastructure.
+The conference brings together of accepted papers, members of national consortia and representatives of CLARIN centres, representatives from partner organisations, and many others who are interested in becoming part of the CLARIN community.
+
+      Christine Dijkstra
+ 12 November 2024]]></summary>
+        <author>
+            <name>Christine Dijkstra</name>
         </author>
     </entry>
     <entry>
