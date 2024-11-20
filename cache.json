@@ -1295,6 +1295,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14017",
+          "author": "The Digital Orientalist",
+          "description": "This is a guest post by Peichao Qin | University of Cambridge. In my earlier post, I introduced my newly launched “Jingyuan Digital …",
+          "link": "https://digitalorientalist.com/2024/11/19/jingyuan-digital-platform-font-making-and-database-development-for-shang-oracle-bones-part-2/",
+          "publishedOn": "2024-11-19T14:00:00.000Z",
+          "wordCount": 5316,
+          "title": "Jingyuan Digital Platform – Font Making and Database Development for Shang Oracle Bones (Part 2)",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/11/article-cover-geo.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=13814",
           "author": "Hirohito TSUJI 辻󠄀 博仁",
           "description": "The Imperial Household Agency is the government administrative body with jurisdiction over the Imperial Family of Japan. It is also …",
@@ -1523,16 +1533,6 @@
           "wordCount": 4760,
           "title": "The Consortium DISTAM (DIgital STudies Africa, Asia, Middle East): structuring DH in areal studies in France",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/05/lodo-distam-rouge.jpg"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=12896",
-          "author": "The Digital Orientalist",
-          "description": "This is a guest post by Joanne Bernardi. Overview This post introduces a series on digital pedagogy, specifically, designing and …",
-          "link": "https://digitalorientalist.com/2024/05/24/exploring-digital-humanities-in-the-classroom-part-1/",
-          "publishedOn": "2024-05-24T13:00:00.000Z",
-          "wordCount": 5375,
-          "title": "Exploring Digital Humanities in the Classroom (Part 1)",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/05/1.-mediate-dashboard-1.png?w=1200"
         }
       ]
     },
@@ -1863,6 +1863,21 @@
       "feedUrl": "https://radihum20.de/feed",
       "siteUrl": "https://radihum20.de/",
       "articles": [
+        {
+          "id": "https://radihum20.de/?p=1026",
+          "author": "Clara Helmig",
+          "description": "In der dritten Folge unserer siebten Staffel dürfen wir Nicola Mößner, Vertretungsprofessorin für theoretische Philosophie an der Leibniz Universität Hannover, bei uns begrüßen. Wir sprechen über die Veränderungen und Herausforderungen des digitalen Publizierens. Nicola bringt spannende Perspektiven aus der sozialen Erkenntnistheorie und Wissenschaftsphilosophie mit und beleuchtet, wie digitale Publikationsprozesse traditionelle wissenschaftliche Praktiken verändern. Dabei diskutieren […]\nDer Beitrag RaDiHum20 spricht mit Nicola Mößner erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/radihum20-spricht-mit-nicola-moessner/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-spricht-mit-nicola-moessner",
+          "publishedOn": "2024-11-20T08:00:00.000Z",
+          "wordCount": 2927,
+          "title": "RaDiHum20 spricht mit Nicola Mößner",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/Staffel_7_Folge3_final.mp3",
+            "length": "41678415",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://radihum20.de/?p=1020",
           "author": "Clara Helmig",
@@ -2669,16 +2684,6 @@
           "wordCount": 144,
           "title": "Commonwealth Hansard XML repository updates",
           "imageUrl": null
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/05/24/more-tools-for.html",
-          "author": null,
-          "description": "I’ve just added a couple of new notebooks to the Trove Newspaper & Gazette Harvester section of the GLAM Workbench.\nUsing the Trove Harvester as a Python package provides a basic example of using the trove-newspaper-harvester Python package. While there’s already a simple web app version of the harvester, I wanted a notebook version running in the JupyterLab interface that I could integrate with other tools and notebooks. All you need to do to harvest all the articles in a Trove newspaper search is paste in your Trove API key and the search query url from the Trove web interface.\n\r\nReshaping your newspaper harvest provides a slice and dice wonder tool for Trove newspaper harvests, enabling you to repackage OCRd text by decade, year, and  newspaper title. It saves the results as zip files, concatenated text files, or CSV files with embedded text. These repackaged slices should  suit a variety of text analysis tools and questions. I’ve be thinking about doing something like this for a while, and think it should be quite useful.\nIn my usual way, I started off writing a tutorial for the Trove Data Guide on ways of loading digitised newspaper data into text analysis tools and then realised I needed these notebooks to fill in some gaps in the data processing pipeline. So after a day or two of yak shaving I now have to get back to the tutorial.",
-          "link": "https://updates.timsherratt.org/2024/05/24/more-tools-for.html",
-          "publishedOn": "2024-05-24T05:10:21.000Z",
-          "wordCount": 291,
-          "title": "More tools for harvesting Trove newspaper articles",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-05-24-15-05-55.png"
         }
       ]
     },
@@ -2693,6 +2698,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5235 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "WW2.lu. Luxemb(o)urg in the Second World War is an online exhibition developed by the C²DH of the University of Luxembourg based on a 2021 convention with the Ministry of State. The aim of the exhibition is to present the history of Luxembourg during the Second World War, taking account of recent historical research. To this end, it relies on the advantages of the digital format. The exhibition makes it possible to approach the experiences of Luxembourgers from different perspectives by drawing on rich and often unknown documentation.\nBetween ‘Luxembourg’ and ‘Luxemburg’, the population faced the Germanisation efforts of the Nazi regime. The period of annexation shows a torn society whose first concern was to cope with everyday life in an exceptional situation. The online exhibition is int…",
+          "link": "https://www.c2dh.uni.lu/events/launch-ww2lu-luxembourg-second-world-war-online-exhibition",
+          "publishedOn": "2024-11-19T08:37:37.000Z",
+          "wordCount": 706,
+          "title": "Launch of the 'WW2.lu. Luxemb(o)urg in the Second World War' online exhibition",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/ww2_lu_online_exhibition_full_width.jpg?itok=hS2AEGUk"
+        },
         {
           "id": "5229 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -4118,6 +4133,16 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "8583 at https://www.clarin.eu",
+          "author": "Karina Berger",
+          "description": "Mobility Grant: Preparing Kielipankki Corpus for EuReCo\n\n            \n \nWritten by Harald Lüngen\nWith my CLARIN mobility grant, I visited CSC, the Finnish IT Centre for Science in Espoo, Finland, which hosts the Finnish corpus archive Kielipankki that is part of FIN-CLARIN.\n\nMy official stay according to the grant was from 29 August until 6 September 2024, but I got the opportunity by my employer to stay a bit longer at CSC, and I had planned the scope of my project for the extended stay. In my project, I wanted to prepare a subcorpus from the Kielipankki archives for the European Reference Corpus initiative EuReCo, and also to try and set up a KorAP instance for EuReCo at CSC.\n\nEuReCo is an initiative that aims to create (pairs of) comparable corpora by making existing corpora maintained …",
+          "link": "https://www.clarin.eu/blog/mobility-grant-preparing-kielipankki-corpus-eureco",
+          "publishedOn": "2024-11-19T11:02:39.000Z",
+          "wordCount": 1088,
+          "title": "Mobility Grant: Preparing Kielipankki Corpus for EuReCo",
+          "imageUrl": null
+        },
+        {
           "id": "8579 at https://www.clarin.eu",
           "author": "Christine Dijkstra",
           "description": "CLARIN2025 in Vienna\n\n            \nWe are pleased to announce that the CLARIN Annual Conference 2025 will be held in Vienna, Austria! The conference will be held from 30 September to 2 October, and will be organised in collaboration with CLARIAH-AT.\n    \nThe CLARIN Annual Conference is the annual event for those working on the construction and operation of CLARIN across Europe. It is organised for the wider humanities and social sciences communities in order to exchange ideas and experiences within the CLARIN infrastructure. This includes the design, construction and operation of the CLARIN infrastructure, the data, tools and services that it contains or for which there is a need, its actual use by researchers and teachers, its relation to other infrastructures and projects, and the CLARIN Knowledge Infrastructure.\nThe conference brings together of accepted papers, members of national consortia and representatives of CLARIN centres, representatives from partner organisations, and many others who are interested in becoming part of the CLARIN community.\n\n      Christine Dijkstra\n 12 November 2024",
@@ -4433,16 +4458,6 @@
           "wordCount": 1845,
           "title": "DPC Unconference 2024 Hosted by the DRI",
           "imageUrl": "https://dri.ie/app/uploads/2024/06/DPC-Unconference-Attendees.jpg"
-        },
-        {
-          "id": "https://dri.ie/news/new-collection-clare-memories-copy/",
-          "author": "Maeve O'Brien",
-          "description": "The Digital Repository of Ireland (DRI) is pleased to announce that a new collection – A Bird in the House, God Bless Her – has been published in the Repository through Folklore.ie. Folklore.ie is a living online archive that centres on the practice of artist and folklorist Michael Fortune. Collecting oral history and place-based recordings, […]\nThe post New Collection in DRI – Community Archive Scheme Winner Folkore.ie – A Bird in the House, God Bless Her appeared first on Digital Repository Ireland.",
-          "link": "https://dri.ie/news/new-collection-folklore-ie/",
-          "publishedOn": "2024-05-24T09:36:23.000Z",
-          "wordCount": 2252,
-          "title": "New Collection in DRI – Community Archive Scheme Winner Folkore.ie – A Bird in the House, God Bless Her",
-          "imageUrl": "https://dri.ie/app/uploads/2023/08/new-collection-2-2.png"
         }
       ]
     },
