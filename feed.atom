@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-11-21T08:29:35.663Z</updated>
+    <updated>2024-11-22T08:29:19.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -188,6 +188,17 @@ The conference brings together of accepted papers, members of national consortia
  12 November 2024]]></summary>
         <author>
             <name>Christine Dijkstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four new Collections in DRI from Clare Memories / Cuimhneamh an Chláir]]></title>
+        <id>https://dri.ie/news/new-collection-anpost-delivering-mail-copy/</id>
+        <link href="https://dri.ie/news/new-collection-clare-memories-collections/"/>
+        <updated>2024-11-12T09:28:06.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to announce that Clare Memories / Cuimhneamh an Chláir have ingested four new collections into the Repository – including expanding on their Women’s Stories collection and digitally preserving oral histories ranging from traditional farming accounts to Clare Traveller life. Revitalizing the practice of ‘going on cuaird’, Cuimhneamh […]
+The post Four new Collections in DRI from Clare Memories / Cuimhneamh an Chláir appeared first on Digital Repository of Ireland.]]></summary>
+        <author>
+            <name>Maeve O'Brien</name>
         </author>
     </entry>
     <entry>
@@ -4479,17 +4490,6 @@ and online
 Photo by Andrea De Santis from Unsplash, modified by AI.]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commonwealth Hansard XML repository updates]]></title>
-        <id>http://wragge.micro.blog/2024/05/26/commonwealth-hansard-xml.html</id>
-        <link href="https://updates.timsherratt.org/2024/05/26/commonwealth-hansard-xml.html"/>
-        <updated>2024-05-26T03:45:51.000Z</updated>
-        <summary type="html"><![CDATA[Hey Australian Hansard fans, I’ve done a complete reharvest of all of the Commonwealth Hansard XML files from 1901 to 1980 from ParlInfo. There’s been lots of improvements/corrections, and most of the file names have changed (they now have a version flag). The improvements seem to be ongoing, so I’ll try to harvest more regularly from now on. You can download the lot from the GitHub repository.
-I still need to load the updated XML into the Historic Hansard site, but that’s going to have to wait  for a month or two…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
