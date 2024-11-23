@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-11-22T08:29:19.113Z</updated>
+    <updated>2024-11-23T08:26:47.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Education and Technology: Understanding History through Anime Productions]]></title>
+        <id>http://digitalorientalist.com/?p=14045</id>
+        <link href="https://digitalorientalist.com/2024/11/22/education-and-technology-understanding-history-through-anime-productions/"/>
+        <updated>2024-11-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This guest post was written by Virgine Borges de Castilho Sacoman (UNISINOS). Learn more about her work here. Since I …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Six more volumes added to the searchable database of Tasmanian Post Office Directories!]]></title>
         <id>http://wragge.micro.blog/2024/11/21/six-more-volumes.html</id>
@@ -4452,44 +4462,6 @@ You are welcome to submit a news item with CLARIN-related news (or call for pape
 DDI Summer Speaker Series – Adel Iskandar first appeared on Digital Democracies Institute.]]></summary>
         <author>
             <name>Pranjali Mann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 437 – De re medicina. (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18126</id>
-        <link href="https://schoenberginstitute.org/2024/05/27/manuscript-monday-ljs-437-de-re-medicina-video-orientation/"/>
-        <updated>2024-05-27T12:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 437, a medical compendium of or treatise on simples (medicines made from one component, mostly botanical), with notes on their preparation and properties, grouped by first letter, but not arranged alphabetically within each letter group. A listContinue reading "Manuscript Monday: LJS 437 – De re medicina. (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creativity and AI]]></title>
-        <id>5031 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/creativity-and-ai"/>
-        <updated>2024-05-27T07:39:20.000Z</updated>
-        <summary type="html"><![CDATA[In his proposal for the Dartmouth summer research project (1955-1956), Nathaniel Rochester wondered whether injecting some randomness into a machine could make it creative. But how to control this randomness to prevent machines crashing and ensure the generated content’s relevance ? Seventy years later, the so-called « generative AI » seems to have solved the problem, or at least circumvented some obstacles. Despite the difficulty of estimating what goes on inside deep neural networks, we will briefly describe what « creativity » is about in generative AIs (interpolation in a latent space) and the current controversy over how to evaluate it using dedicated benchmarks. Then, drawing from literature and philosophy (Borges, Caillois, Bachelard), we will challenge the claim that it can be compared to human creativity. Finally, we will examine how these machines don’t have to be creative like humans to trigger an epochal change that we need to characterize.
-Alban Leveau-Vallier is a postdoctoral researcher at University Paris 8 and lecturer at Sciences Po Paris, he recently published IA, l’intuition et la création à l’épreuve des algorithmes (Champ Vallon).
- 
-Wednesday, 12 June 2024
-15.00  16.30
-Black Box, Maison des Sciences humaines
-Belval Campus
-11, Porte des Sciences
-L-4366 Esch-sur-Alzette
-and online
- 
-
-
-12 June 2024
-  Contemporary history of Europe
-  Artificial  intelligence
-  Conferences
-  Published  
-Photo by Andrea De Santis from Unsplash, modified by AI.]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>

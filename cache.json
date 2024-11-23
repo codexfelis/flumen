@@ -1325,6 +1325,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14045",
+          "author": "The Digital Orientalist",
+          "description": "This guest post was written by Virgine Borges de Castilho Sacoman (UNISINOS). Learn more about her work here. Since I …",
+          "link": "https://digitalorientalist.com/2024/11/22/education-and-technology-understanding-history-through-anime-productions/",
+          "publishedOn": "2024-11-22T14:00:00.000Z",
+          "wordCount": 5064,
+          "title": "Education and Technology: Understanding History through Anime Productions",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/11/image-6.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14017",
           "author": "The Digital Orientalist",
           "description": "This is a guest post by Peichao Qin | University of Cambridge. In my earlier post, I introduced my newly launched “Jingyuan Digital …",
@@ -2253,16 +2263,6 @@
           "wordCount": 5445,
           "title": "Manuscript Monday: LJS 438 – [Neoplatonic and neopythagorean translations]. (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/06/screenshot-2024-05-10-at-12.55.54e280afpm.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18126",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 437, a medical compendium of or treatise on simples (medicines made from one component, mostly botanical), with notes on their preparation and properties, grouped by first letter, but not arranged alphabetically within each letter group. A listContinue reading \"Manuscript Monday: LJS 437 – De re medicina. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/05/27/manuscript-monday-ljs-437-de-re-medicina-video-orientation/",
-          "publishedOn": "2024-05-27T12:54:05.000Z",
-          "wordCount": 5278,
-          "title": "Manuscript Monday: LJS 437 – De re medicina. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/05/screenshot-2024-05-10-at-12.57.14e280afpm.png?w=1200"
         }
       ]
     },
@@ -3097,16 +3097,6 @@
           "wordCount": 342,
           "title": "Kiara, a data orchestration engine",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_research_seminars_content_list.png?itok=Nwm2C3Di"
-        },
-        {
-          "id": "5031 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "In his proposal for the Dartmouth summer research project (1955-1956), Nathaniel Rochester wondered whether injecting some randomness into a machine could make it creative. But how to control this randomness to prevent machines crashing and ensure the generated content’s relevance ? Seventy years later, the so-called « generative AI » seems to have solved the problem, or at least circumvented some obstacles. Despite the difficulty of estimating what goes on inside deep neural networks, we will briefly describe what « creativity » is about in generative AIs (interpolation in a latent space) and the current controversy over how to evaluate it using dedicated benchmarks. Then, drawing from literature and philosophy (Borges, Caillois, Bachelard), we will challenge the claim that it can be compared to human creativity. Finally, we will examine how these machines don’t have to be creative like humans to trigger an epochal change that we need to characterize.\nAlban Leveau-Vallier is a postdoctoral researcher at University Paris 8 and lecturer at Sciences Po Paris, he recently published IA, l’intuition et la création à l’épreuve des algorithmes (Champ Vallon).\n \nWednesday, 12 June 2024\n15.00  16.30\nBlack Box, Maison des Sciences humaines\nBelval Campus\n11, Porte des Sciences\nL-4366 Esch-sur-Alzette\nand online\n \n\n\n12 June 2024\n  Contemporary history of Europe\n  Artificial  intelligence\n  Conferences\n  Published  \nPhoto by Andrea De Santis from Unsplash, modified by AI.",
-          "link": "https://www.c2dh.uni.lu/events/creativity-and-ai",
-          "publishedOn": "2024-05-27T07:39:20.000Z",
-          "wordCount": 470,
-          "title": "Creativity and AI",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/andrea-de-santis-zwd435-ewb4-unsplash_full_width.jpg?itok=Rfr_38Nc"
         }
       ]
     },
