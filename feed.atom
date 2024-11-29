@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-11-28T08:31:14.227Z</updated>
+    <updated>2024-11-29T08:30:24.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Reflection on Creating Inclusive Digital Collections]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=41746</id>
+        <link href="https://dri.ie/news/a-reflection-on-creating-inclusive-digital-collections/"/>
+        <updated>2024-11-28T16:33:37.000Z</updated>
+        <summary type="html"><![CDATA[On Tuesday 26 Nov, the Digital Repository of Ireland (DRI) hosted an online training session called ‘Creating Inclusive Digital Collections’ about inclusive approaches to creating metadata and describing cultural heritage collections. This event was aimed at digital archivists, cultural heritage professionals, community archivists, curators, librarians, and all those interested in learning more about enriching archives […]
+The post A Reflection on Creating Inclusive Digital Collections appeared first on Digital Repository of Ireland.]]></summary>
+        <author>
+            <name>Aine Madden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public History and Arts: How to Approach “Difficult” Histories]]></title>
+        <id>5244 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/public-history-and-arts-how-approach-difficult-histories"/>
+        <updated>2024-11-28T10:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Political violence is defined as the deliberate use of power and force to achieve political goals. It is characterized by both physical and psychological acts aimed at injuring or intimidating populations. In that sense, the word "difficult" in the title of this seminar refers to events in time that can be identified as acts of political violence.
+In such circumstances, any attempt to do public history can certainly have its challenges. From ensuring participation, to working with silence, considering the mental health of both the participants and the project leaders, or anticipating the social impact before making this research public. 
+During this seminar, Myriam Dalal will expand on the definition of the relatively new field of artistic research methodologies, which involves the creation of arts to help the practitioner/researcher improve, change or make their processes more effective, specific and articulated.
+Myriam Dalal will then discuss how artistic research methodologies can work with and help address some of the challenges of documenting “difficult” histories, based on examples from her research projects (1) tackling war, its photographic representation in the case of Lebanon and (2) migration/exile and the displacement/belonging experience in Luxembourg.
+ 
+Wednesday, 15 January 2015
+14.00 - 15.00
+
+C²DH Open Space (4th floor Maison des Sciences humaines)
+15 January 2025
+  Public history
+  Methodology  Public History
+  Research seminars
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Focus on Young Irish Lives and Experiences in the Legacy Data Preservation Pilot]]></title>
         <id>https://dri.ie/?post_type=news&amp;p=41357</id>
@@ -4467,18 +4502,6 @@ Full programme coming soon !
         <summary type="html"><![CDATA[There’s a new draft tutorial in the development version of the Trove Data Guide. It walks through the process of harvesting a collection of digitised newspaper articles from Trove, reshaping the harvest to create sub-collections, and then loading the data into the Keyword Analysis Tool provided by the Australian Text Analytics Platform (ATAP).
 
 Along the way it goes into a fair bit of detail about constructing searches, using the Trove Newspaper Harvester, and thinking about your data. Much of the information on creating and reshaping datasets would apply to using the digitised newspapers with other analysis tools as well.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Mirador on GitHub Pages]]></title>
-        <id>http://wragge.micro.blog/2024/06/02/running-mirador-on.html</id>
-        <link href="https://updates.timsherratt.org/2024/06/02/running-mirador-on.html"/>
-        <updated>2024-06-02T11:27:40.000Z</updated>
-        <summary type="html"><![CDATA[I’ve just created a GitHub repository template that you can use to get your own Mirador version 3 installation running in minutes. You can also configure it to display local or remote IIIF manifests. I was thinking that it could be useful for researchers who want to create their own customised Mirador workspaces to examine a particular set of documents, but don’t want to install any software or fiddle about on the command-line.
-
-I’ve been doing a lot with IIIF lately. First a GLAM Workbench notebook to save a collection of images from Trove as an IIIF manifest. Then a tutorial for the Trove Data Guide that walks through the whole process of generating an IIIF manifest from Trove, then loading the manifest into Tropy for analysis and annotation. I’ve also just about finished another tutori…]]></summary>
         <author>
             <name>Tim Sherratt</name>
         </author>

@@ -2704,16 +2704,6 @@
           "wordCount": 164,
           "title": "Keyword analysis of Trove newspapers with the GLAM Workbench & ATAP",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-06-03-14-56-53.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/06/02/running-mirador-on.html",
-          "author": null,
-          "description": "I’ve just created a GitHub repository template that you can use to get your own Mirador version 3 installation running in minutes. You can also configure it to display local or remote IIIF manifests. I was thinking that it could be useful for researchers who want to create their own customised Mirador workspaces to examine a particular set of documents, but don’t want to install any software or fiddle about on the command-line.\n\r\nI’ve been doing a lot with IIIF lately. First a GLAM Workbench notebook to save a collection of images from Trove as an IIIF manifest. Then a tutorial for the Trove Data Guide that walks through the whole process of generating an IIIF manifest from Trove, then loading the manifest into Tropy for analysis and annotation. I’ve also just about finished another tutori…",
-          "link": "https://updates.timsherratt.org/2024/06/02/running-mirador-on.html",
-          "publishedOn": "2024-06-02T11:27:40.000Z",
-          "wordCount": 483,
-          "title": "Running Mirador on GitHub Pages",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-06-01-14-33-34.png"
         }
       ]
     },
@@ -2728,6 +2718,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5244 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Political violence is defined as the deliberate use of power and force to achieve political goals. It is characterized by both physical and psychological acts aimed at injuring or intimidating populations. In that sense, the word \"difficult\" in the title of this seminar refers to events in time that can be identified as acts of political violence.\nIn such circumstances, any attempt to do public history can certainly have its challenges. From ensuring participation, to working with silence, considering the mental health of both the participants and the project leaders, or anticipating the social impact before making this research public. \nDuring this seminar, Myriam Dalal will expand on the definition of the relatively new field of artistic research methodologies, which involves the creation of arts to help the practitioner/researcher improve, change or make their processes more effective, specific and articulated.\nMyriam Dalal will then discuss how artistic research methodologies can work with and help address some of the challenges of documenting “difficult” histories, based on examples from her research projects (1) tackling war, its photographic representation in the case of Lebanon and (2) migration/exile and the displacement/belonging experience in Luxembourg.\n \nWednesday, 15 January 2015\n14.00 - 15.00\n\nC²DH Open Space (4th floor Maison des Sciences humaines)\n15 January 2025\n  Public history\n  Methodology  Public History\n  Research seminars\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/public-history-and-arts-how-approach-difficult-histories",
+          "publishedOn": "2024-11-28T10:24:47.000Z",
+          "wordCount": 475,
+          "title": "Public History and Arts: How to Approach “Difficult” Histories",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_research_seminars_content_list.png?itok=Nwm2C3Di"
+        },
         {
           "id": "5235 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -4369,6 +4369,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/?post_type=news&p=41746",
+          "author": "Aine Madden",
+          "description": "On Tuesday 26 Nov, the Digital Repository of Ireland (DRI) hosted an online training session called ‘Creating Inclusive Digital Collections’ about inclusive approaches to creating metadata and describing cultural heritage collections. This event was aimed at digital archivists, cultural heritage professionals, community archivists, curators, librarians, and all those interested in learning more about enriching archives […]\nThe post A Reflection on Creating Inclusive Digital Collections appeared first on Digital Repository of Ireland.",
+          "link": "https://dri.ie/news/a-reflection-on-creating-inclusive-digital-collections/",
+          "publishedOn": "2024-11-28T16:33:37.000Z",
+          "wordCount": 1951,
+          "title": "A Reflection on Creating Inclusive Digital Collections",
+          "imageUrl": null
+        },
         {
           "id": "https://dri.ie/?post_type=news&p=41357",
           "author": "Beth Knazook",
