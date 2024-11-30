@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2024-11-29T08:30:24.702Z</updated>
+    <updated>2024-11-30T08:27:20.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Appel à contributions : le champ numérique numéro spécial de la conférence 2024]]></title>
+        <id>https://csdh-schn.org/?p=1306</id>
+        <link href="https://csdh-schn.org/le-champ-numerique-appel-a-contributions/"/>
+        <updated>2024-11-29T19:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Digital Studies / Le champ numérique Numéro spécial de la conférence – 2024 La Société canadienne des humanités numériques (http://csdh-schn.org/) invite les participant.e.s à l’assemblée annuelle 2024 de Montréal (16‐19 juin) à soumettre leurs documents pour publication dans la revue de l’association, Digital Studies / Le champ numérique (https://www.digitalstudies.org/). Tous les participant.e.s à la conférence […]]]></summary>
+        <author>
+            <name>Faith Ruetas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Papers: Digital Studies 2024 Conference Issue]]></title>
+        <id>https://csdh-schn.org/?p=1304</id>
+        <link href="https://csdh-schn.org/digital-studies-call-for-papers/"/>
+        <updated>2024-11-29T19:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Digital Studies / Le champ numérique The Canadian Society for Digital Humanities (http://csdh-schn.org/) invites conference participants from the 2024 annual meeting in Montreal (16-19 June) to submit their conference papers for publication in the association’s journal, Digital Studies / Le champ numérique (https://www.digitalstudies.org/). All conference participants are welcome to submit their essays for consideration. The […]]]></summary>
+        <author>
+            <name>Faith Ruetas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editor’s Digest November 2024: Northeast Asian Studies]]></title>
+        <id>http://digitalorientalist.com/?p=14091</id>
+        <link href="https://digitalorientalist.com/2024/11/29/editors-digest-november-2024-northeast-asian-studies/"/>
+        <updated>2024-11-29T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Since my last Editor’s Digest back in February, the Northeast Asian Studies team alongside several guest contributors have published an …]]></summary>
+        <author>
+            <name>James Harry Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI Director Dr. Lisa Griffith appears on TransformGov Podcast]]></title>
+        <id>https://dri.ie/news/new-collection-clare-memories-collections-copy/</id>
+        <link href="https://dri.ie/news/transformgov-podcast-2024/"/>
+        <updated>2024-11-29T11:21:24.000Z</updated>
+        <summary type="html"><![CDATA[In September 2024, the Digital Repository of Ireland’s (DRI) Community Archive Scheme was awarded an Ireland eGovernment Award 2024 in the Open Data Category, which recognises initiatives that demonstrate comprehensive data accessibility, usability, and societal impact. As part of this award, our director Dr. Lisa Griffith was asked to participate in a podcast conversation for TransformGov – […]
+The post DRI Director Dr. Lisa Griffith appears on TransformGov Podcast appeared first on Digital Repository of Ireland.]]></summary>
+        <author>
+            <name>Maeve O'Brien</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Reflection on Creating Inclusive Digital Collections]]></title>
         <id>https://dri.ie/?post_type=news&amp;p=41746</id>
@@ -4482,28 +4523,6 @@ Full programme coming soon !
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 438 – [Neoplatonic and neopythagorean translations]. (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18130</id>
-        <link href="https://schoenberginstitute.org/2024/06/03/manuscript-monday-ljs-438-neoplatonic-and-neopythagorean-translations-video-orientation/"/>
-        <updated>2024-06-03T12:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 438, a collection of translations of Greek works in the traditions of Plato and Pythagoras, originally translated into Latin mostly in Florence in the 1460s and 1470s, with various connections to the Accademia platonica under the auspicesContinue reading "Manuscript Monday: LJS 438 – [Neoplatonic and neopythagorean translations]. (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyword analysis of Trove newspapers with the GLAM Workbench & ATAP]]></title>
-        <id>http://wragge.micro.blog/2024/06/03/keyword-analysis-of.html</id>
-        <link href="https://updates.timsherratt.org/2024/06/03/keyword-analysis-of.html"/>
-        <updated>2024-06-03T05:06:44.000Z</updated>
-        <summary type="html"><![CDATA[There’s a new draft tutorial in the development version of the Trove Data Guide. It walks through the process of harvesting a collection of digitised newspaper articles from Trove, reshaping the harvest to create sub-collections, and then loading the data into the Keyword Analysis Tool provided by the Australian Text Analytics Platform (ATAP).
-
-Along the way it goes into a fair bit of detail about constructing searches, using the Trove Newspaper Harvester, and thinking about your data. Much of the information on creating and reshaping datasets would apply to using the digitised newspapers with other analysis tools as well.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>

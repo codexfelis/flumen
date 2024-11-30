@@ -276,6 +276,26 @@
       "siteUrl": "https://csdh-schn.org",
       "articles": [
         {
+          "id": "https://csdh-schn.org/?p=1306",
+          "author": "Faith Ruetas",
+          "description": "Digital Studies / Le champ numérique Numéro spécial de la conférence – 2024 La Société canadienne des humanités numériques (http://csdh-schn.org/) invite les participant.e.s à l’assemblée annuelle 2024 de Montréal (16‐19 juin) à soumettre leurs documents pour publication dans la revue de l’association, Digital Studies / Le champ numérique (https://www.digitalstudies.org/). Tous les participant.e.s à la conférence […]",
+          "link": "https://csdh-schn.org/le-champ-numerique-appel-a-contributions/",
+          "publishedOn": "2024-11-29T19:17:33.000Z",
+          "wordCount": 1399,
+          "title": "Appel à contributions : le champ numérique numéro spécial de la conférence 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://csdh-schn.org/?p=1304",
+          "author": "Faith Ruetas",
+          "description": "Digital Studies / Le champ numérique The Canadian Society for Digital Humanities (http://csdh-schn.org/) invites conference participants from the 2024 annual meeting in Montreal (16-19 June) to submit their conference papers for publication in the association’s journal, Digital Studies / Le champ numérique (https://www.digitalstudies.org/). All conference participants are welcome to submit their essays for consideration. The […]",
+          "link": "https://csdh-schn.org/digital-studies-call-for-papers/",
+          "publishedOn": "2024-11-29T19:14:21.000Z",
+          "wordCount": 1364,
+          "title": "Call for Papers: Digital Studies 2024 Conference Issue",
+          "imageUrl": null
+        },
+        {
           "id": "https://csdh-schn.org/?p=1299",
           "author": "Faith Ruetas",
           "description": "May 30st – June 1st, 2025 | George Brown College, Toronto CFP Deadline: 13 January 2025 ConfTool URL: https://conftool.net/csdh-schn-2025/ (Appel en français ici) The Canadian Society for Digital Humanities (http://csdh-schn.org/) invites proposals for papers, panels, and digital demonstrations for its annual meeting, which will be held at George Brown College, as part of the 2025 […]",
@@ -1325,6 +1345,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14091",
+          "author": "James Harry Morris",
+          "description": "Since my last Editor’s Digest back in February, the Northeast Asian Studies team alongside several guest contributors have published an …",
+          "link": "https://digitalorientalist.com/2024/11/29/editors-digest-november-2024-northeast-asian-studies/",
+          "publishedOn": "2024-11-29T13:30:00.000Z",
+          "wordCount": 4535,
+          "title": "Editor’s Digest November 2024: Northeast Asian Studies",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2023/06/do_logo_.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14063",
           "author": "Rohan Chauhan",
           "description": "Aksharamukha, a free and open-source transliteration tool supporting 121 scripts and 21 romanization methods, enhances access to multilingual texts and facilitates cross-cultural communication.",
@@ -2253,16 +2283,6 @@
           "wordCount": 5467,
           "title": "Manuscript Monday: LJS 439 – [Book on the configuration of the orb]. (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/06/screenshot-2024-05-10-at-12.53.57e280afpm.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18130",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 438, a collection of translations of Greek works in the traditions of Plato and Pythagoras, originally translated into Latin mostly in Florence in the 1460s and 1470s, with various connections to the Accademia platonica under the auspicesContinue reading \"Manuscript Monday: LJS 438 – [Neoplatonic and neopythagorean translations]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/06/03/manuscript-monday-ljs-438-neoplatonic-and-neopythagorean-translations-video-orientation/",
-          "publishedOn": "2024-06-03T12:57:04.000Z",
-          "wordCount": 5445,
-          "title": "Manuscript Monday: LJS 438 – [Neoplatonic and neopythagorean translations]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/06/screenshot-2024-05-10-at-12.55.54e280afpm.png?w=1200"
         }
       ]
     },
@@ -2694,16 +2714,6 @@
           "wordCount": 263,
           "title": "Instant exhibitions with Trove and CollectionBuilder",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/cb-wragge-demo.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/06/03/keyword-analysis-of.html",
-          "author": null,
-          "description": "There’s a new draft tutorial in the development version of the Trove Data Guide. It walks through the process of harvesting a collection of digitised newspaper articles from Trove, reshaping the harvest to create sub-collections, and then loading the data into the Keyword Analysis Tool provided by the Australian Text Analytics Platform (ATAP).\n\r\nAlong the way it goes into a fair bit of detail about constructing searches, using the Trove Newspaper Harvester, and thinking about your data. Much of the information on creating and reshaping datasets would apply to using the digitised newspapers with other analysis tools as well.",
-          "link": "https://updates.timsherratt.org/2024/06/03/keyword-analysis-of.html",
-          "publishedOn": "2024-06-03T05:06:44.000Z",
-          "wordCount": 164,
-          "title": "Keyword analysis of Trove newspapers with the GLAM Workbench & ATAP",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-06-03-14-56-53.png"
         }
       ]
     },
@@ -4369,6 +4379,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/news/new-collection-clare-memories-collections-copy/",
+          "author": "Maeve O'Brien",
+          "description": "In September 2024, the Digital Repository of Ireland’s (DRI) Community Archive Scheme was awarded an Ireland eGovernment Award 2024 in the Open Data Category, which recognises initiatives that demonstrate comprehensive data accessibility, usability, and societal impact. As part of this award, our director Dr. Lisa Griffith was asked to participate in a podcast conversation for TransformGov – […]\nThe post DRI Director Dr. Lisa Griffith appears on TransformGov Podcast appeared first on Digital Repository of Ireland.",
+          "link": "https://dri.ie/news/transformgov-podcast-2024/",
+          "publishedOn": "2024-11-29T11:21:24.000Z",
+          "wordCount": 1564,
+          "title": "DRI Director Dr. Lisa Griffith appears on TransformGov Podcast",
+          "imageUrl": "https://dri.ie/app/uploads/2024/09/training3-003.png"
+        },
         {
           "id": "https://dri.ie/?post_type=news&p=41746",
           "author": "Aine Madden",
