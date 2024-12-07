@@ -2313,16 +2313,6 @@
           "wordCount": 5366,
           "title": "Manuscript Monday: LJS 441 – Kitāb al-Miṣbāḥ wa-nuzʹhat al-arwāḥ fī ʻilm… (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/06/screenshot-2024-05-10-at-12.49.37e280afpm.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18134",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 439, one of two known manuscripts of the Arabic original of the Book on the configuration of the orb, otherwise known through its use by Maimonides and through Latin translations, which are often attributed to the AbbasidContinue reading \"Manuscript Monday: LJS 439 – [Book on the configuration of the orb]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/06/10/manuscript-monday-ljs-439-book-on-the-configuration-of-the-orb-video-orientation/",
-          "publishedOn": "2024-06-10T13:00:21.000Z",
-          "wordCount": 5467,
-          "title": "Manuscript Monday: LJS 439 – [Book on the configuration of the orb]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/06/screenshot-2024-05-10-at-12.53.57e280afpm.png?w=1200"
         }
       ]
     },
@@ -2744,16 +2734,6 @@
           "wordCount": 358,
           "title": "Loading locations of Trove's digitised maps into the Gazetteer of Historical Australian Placenames",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-06-08-23-43-44.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/06/10/instant-exhibitions-with.html",
-          "author": null,
-          "description": "You’ve been collecting and annotating items relating to your research  project in a Trove List. You’d like to display the contents of your list as an online exhibition for others to explore. But how? One possible approach is now documented in the Trove Data Guide. I’ve added a tutorial which walks through the process of using a GLAM Workbench notebook to extract and process data from a Trove List, before uploading it to CollectionBuilder to create an instant exhibition.\n\r\nCollectionBuilder creates online exhibitions using static web technologies. It provides a GitHub Pages template repository, so all you need to do to create an exhibition is upload your metadata and images to GitHub. The GLAM Workbench notebook gets your list data from the Trove API, and enriches it a bit to take advantage of CollectionBuilder’s built-in visualisations. For example, if there’s any digitised maps in your list, the notebook will try and extract their coordinates from the digitised map viewer and add them to the metadata so that CollectionViewer can display the location on a map. The notebook also downloads images of newspaper articles and other digitsed resources, and links them to the metadata, ready for upload.\nCheck out the tutorial: Sharing a Trove List as a CollectionBuilder exhibition",
-          "link": "https://updates.timsherratt.org/2024/06/10/instant-exhibitions-with.html",
-          "publishedOn": "2024-06-10T11:38:04.000Z",
-          "wordCount": 263,
-          "title": "Instant exhibitions with Trove and CollectionBuilder",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/cb-wragge-demo.png"
         }
       ]
     },
@@ -4360,26 +4340,6 @@
           "publishedOn": "2024-06-25T10:46:42.000Z",
           "wordCount": 267,
           "title": "Behind the Scenes at CLARIN",
-          "imageUrl": null
-        },
-        {
-          "id": "6401 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "Rap Lyrics Corpora: Comparing Tools, Merging Data and Presenting in Paris\n\n            \nBy Alena Němcová Polická\nSince February 2023, preparations have been underway to reshape the RapCor database of the DIGITALIA MUNI ARTS infrastructure - a local node of LINDAT/CLARIAH-CZ - to enable long-term storage in order to open access to research data and to create a new repository system for francophone rap albums and lyrics. The specificity of the project lies in the fact that it is not only a database of linguistic data on French (focused mainly on the collection, morpho-semantic and lexicographic description of substandard expressions and on the lemmatisation of graphically unstable sociolectisms and dynamically evolving neologisms), but also a repository of dematerialised musical media for th…",
-          "link": "https://www.clarin.eu/blog/rap-lyrics-corpora-comparing-tools-merging-data-and-presenting-paris",
-          "publishedOn": "2024-06-10T14:44:02.000Z",
-          "wordCount": 889,
-          "title": "Rap Lyrics Corpora: Comparing Tools, Merging Data and Presenting in Paris",
-          "imageUrl": null
-        },
-        {
-          "id": "6400 at https://www.clarin.eu",
-          "author": "Dieter Van Uytvanck",
-          "description": "Centre news vol. 66 - June 2024\n\n            \nCentre Meeting\nThis week, on 12 and 13 June, the Centre Meeting will again be organized in Utrecht (NL) and online. Anyone interested in establishing a CLARIN centre is welcome to join, especially if you have an interest in technology and technical infrastructure. You can still sign up for virtual participation.\nCLARIN technical open hour, Monday 24 June at 11:00 CEST\nThe next edition of the CLARIN technology open hour is planned for Monday 24 June at 11:00 CEST. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nNew on the CLARIN forum\nAnonymization of audio\nGood Practices in Training With CLARIN Corpora\nESSLI 2025 Launched the call for courses and workshops\nPlanned Maintenance\nACDH-CH maintenance: 13 June 14:00-15:00 UTC\nMore information at https://status.clarin.eu/ \n\n      Dieter Van Uytvanck\n 10 June 2024\n\n\n    \ncentre news",
-          "link": "https://www.clarin.eu/blog/centre-news-vol-66-june-2024",
-          "publishedOn": "2024-06-10T10:18:23.000Z",
-          "wordCount": 374,
-          "title": "Centre news vol. 66 - June 2024",
           "imageUrl": null
         }
       ]
