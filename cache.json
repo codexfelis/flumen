@@ -344,16 +344,6 @@
           "wordCount": 1031,
           "title": "The 2024 CSDH/SCHN Outstanding Contribution Award: The Amplify Podcast Network",
           "imageUrl": null
-        },
-        {
-          "id": "https://csdh-schn.org/?p=1261",
-          "author": "Kyle Dase",
-          "description": "We are writing in response to concerns raised about our lack of a statement regarding McGill University’s treatment of the pro-Palestinian student encampment. Members of our community have expressed disappointment over our silence on the student protests occurring at multiple institutions. Both the executive and the program committee have been working tirelessly to ensure our […]",
-          "link": "https://csdh-schn.org/statement-of-support-for-the-pro-palestinian-student-encampment-at-mcgill/",
-          "publishedOn": "2024-06-14T21:45:16.000Z",
-          "wordCount": 1057,
-          "title": "Statement of Support for the Pro-Palestinian Student Encampment at McGill",
-          "imageUrl": null
         }
       ]
     },
@@ -2566,6 +2556,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2024/12/12/trovenewsbot-has-a.html",
+          "author": null,
+          "description": "@trovenewsbot has been around for more than eleven years now – originally sharing Trove newspaper articles on Twitter, and now on the Fediverse. But with the imminent closure of the botsin.space Mastodon instance, I’ve had to find it a new home. Say hello to the latest version: @trovenewsbot@wraggebots.net!\n\r\nInstead of just moving the bot to an existing instance, I decided to set up my own using GoToSocial. I thought this would give me more control, and encourage me to resurrect some more of my old Twitter bots. I installed GoToSocial on the smallest available DigitalOcean droplet, following the ‘bare metal’ instructions. Beyond the usual faffing around with permissions and DNS, I didn’t have any major problems. The GoToSocial documention is very comprehensive, and includes useful advice …",
+          "link": "https://updates.timsherratt.org/2024/12/12/trovenewsbot-has-a.html",
+          "publishedOn": "2024-12-12T01:41:35.000Z",
+          "wordCount": 387,
+          "title": "@trovenewsbot has a new home",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-12-12-12-36-16.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2024/11/21/six-more-volumes.html",
           "author": null,
           "description": "A couple of months ago I realised my big, searchable database of Tasmanian Post Office Directories was missing the volume from 1920. It took a bit of work to add it in, as described in this post. Unfortunately, I’d barely finished when I realised that a number of other years were also missing! Argh! The good news is that I’ve been steadily working through these missing volumes, adding one a week, and now I’m finally, finally finished!\n\r\nThe new volumes are:\n1920\n1933-34\n1941-42\n1942-43\n1943-44\n1945-46\nIn total there are now 54 volumes from 1890 to 1948. Every line of every volume has been OCRd and indexed, so you can run fulltext searches across all 54 volumes to find matching entries. The fulltext search also supports advanced operators like wildcards and booleans.\nAs I mentioned in relation to 1920, while these volumes can be downloaded as PDFs from Libraries Tasmania, they don’t contain any OCRd text – they’re not searchable (despite what Libraries Tasmania says here). The quality of the scans is also quite variable – tight bindings cut off text, pages are skewed, and lighting is inconsistent. This means that the OCR processing is far from perfect. There will be names missing from the search index as a result of this. However, because you can search across all volumes at once, the database makes it easier to find people, as you can pick them up in one year and follow them through subsequent volumes, filling in any gaps.\nIt would be great if Libraries Tasmania would add a link to the database from their Directories and almanacs page. I’ve sent a couple of emails but haven’t received a reply. It seems odd that they’d link to commercial offerings like FindMyPast, but not to the free, community-developed version!",
@@ -4132,6 +4132,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "8599 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 68 - December 2024\n\n            \nCentre Assessment Round Spring 2025\nThe deadline for the upcoming B-centre assessment round is 30 April 2025.\nIf you would like to participate in this 25th round, please make sure to use:\nThe updated CoreTrustSeal 2023-2025 and AMT platform.\nThe latest version of the B-centre checklist (7.4.1). \nRestructured Website Feedback\nThe CLARIN website has recently undergone a review, followed by a restructuring and redesign. This also goes for the CLARIN technology section. This was done with the aim of making the website more user-friendly, more suited to multiple audiences, and more focused.\nWe collect feedback on the updated website via this survey. All feedback is warmly welcomed!\nNew K-Centres Catalogue\nThere is a new way to browse and search for K-Centres on the website: the new CLARIN K-Centres catalogue is still being developed but is already fully functional. We are eager to collect your feedback. Please send us your thoughts about it to communications [at] clarin.eu (communications[at]clarin[dot]eu)\nThe CLARIN centres’ overview pages: https://www.clarin.eu/content/overview-clarin-centres and https://www.clarin.eu/content/certified-b-centres have also been revamped with new map libraries and automatic data synchronization from the CLARIN centre registry.\nNew on the CLARIN forum\nCuration dashboard v7\nTesting the Language Data Space connector\nATRIUM Researchers’ Survey - Participants Needed\nUpdated Federated Content Search (FCS) Aggregator (v3.13.0)\nRevamped FCS Endpoint Validator\nCfP: SemEval task on hallucination detection (Mu-SHROOM) \nHow to integrate the FCS Search into you own website\nPlanned Maintenance\ncuration dashboard deployment: 12 December 2024 between 11:00 and 12:00 CET\nMore information at https://status.clarin.eu/ \n\n      Dieter Van Uytvanck\n 11 December 2024\n\n\n    \ncentre news",
+          "link": "https://www.clarin.eu/blog/centre-news-vol-68-december-2024",
+          "publishedOn": "2024-12-11T15:01:23.000Z",
+          "wordCount": 529,
+          "title": "Centre news vol. 68 - December 2024",
+          "imageUrl": null
+        },
         {
           "id": "8598 at https://www.clarin.eu",
           "author": "Laura Gusan",
