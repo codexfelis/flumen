@@ -1295,6 +1295,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14255",
+          "author": "Ephrem A. Ishac",
+          "description": "For scholars and students of Syriac and Arabic, the vast digital text library of Archive.org has always held immense potential. …",
+          "link": "https://digitalorientalist.com/2024/12/17/recent-advancements-unlocking-syriac-and-arabic-texts-on-archive-org/",
+          "publishedOn": "2024-12-17T14:00:00.000Z",
+          "wordCount": 4721,
+          "title": "Recent Advancements: Unlocking Syriac and Arabic Texts on Archive.org",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/12/garshuni-in-mss-is-also-working-dca0dc90dca2dc97-dca0dca1-dc9ddc9adc92.-googlejpg.jpg?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14165",
           "author": "emineturkmen",
           "description": "It is fascinating to see how Ottoman Turkish texts are transcribed with the help of artificial intelligence (AI)-operated tools, such as Handwritten …",
@@ -2599,16 +2609,6 @@
           "wordCount": 234,
           "title": "Understanding Trove at the AHA annual conference",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/b2bab75987ea4fef.jpeg"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/06/21/who-is-the.html",
-          "author": null,
-          "description": "The Trove Data Guide aims to help researchers understand, access, and use data from Trove. But just because it’s about ‘data’ doesn’t mean  you need to be able to code. To understand Trove data and its  possibilities for research, you first need to understand Trove itself –  its history, its structure, its assumptions, and its limits. This  knowledge is useful to any Trove user.\nFor example, all Trove users would benefit from knowing more about works and versions, or how to use the ‘simple’ search box for complex queries. There’s also an introduction to what’s in (and not in) the digitised newspapers, and similar overviews for other digitised content such as books, parliamentary papers, and oral histories.\n\r\nNumber of newspapers articles in Trove by publication year, showing the change from 2011 to 2022\nSeveral sections document the way the web interface works (or doesn’t work). There’s a field guide to the various interfaces and identifiers you might come across, and details of options for downloading data. The Trove Data Guide fills many gaps in the official Trove  documentation, so check here if you run into problems, or can’t figure  out how to achieve a particular task. Perhaps you were wondering how to download digitised images at their highest available resolution?\nFor people who are more comfortable with code there are plenty of  useful snippets and complete working examples. For example there are  sections that document how to get metadata, text, and images from newspapers, and other digitised resources. There are also a series of ‘HOW TO’ pages that describe more complex data access methods.\nBut what can you do with Trove data? The Trove Data Guide’s Pathways provide detailed tutorials that lead you step by step through examples  of packaging Trove data for use with other digital tools. Use these  examples as a starting point in planning your own projects.",
-          "link": "https://updates.timsherratt.org/2024/06/21/who-is-the.html",
-          "publishedOn": "2024-06-21T05:32:29.000Z",
-          "wordCount": 367,
-          "title": "Who is the Trove Data Guide for?",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/newspapers-change.png"
         }
       ]
     },
@@ -4035,6 +4035,26 @@
           "publishedOn": "2024-12-09T15:37:30.000Z",
           "wordCount": 1404,
           "title": "Building Bridges with Industry at CLARIN2024",
+          "imageUrl": null
+        },
+        {
+          "id": "8595 at https://www.clarin.eu",
+          "author": "Laura Gusan",
+          "description": "Tour de CLARIN: Interview with Erika Rimkutė and Virginijus Dadurkevičius\n\n            \nThe conversation was led by Kristina Pahor de Maiti Tekavčič.\nCould you please briefly introduce yourselves?\n    \nErika: I became interested in corpus and computational linguistics around 2000. After defending my first research as a master's student at Vytautas Magnus University (VMU), I continued my career at the same university as a doctoral student, and now I am a senior researcher at VMU Digital Resources and Interdisciplinary Research Institute (SITTI). I also share the research conducted at this institute with the students of VMU Department of Lithuanian Studies.\n    \nVirginijus: I have been working on applied linguistics projects for a few decades now, mainly dictionaries, morphology, spell check…",
+          "link": "https://www.clarin.eu/blog/tour-de-clarin-interview-erika-rimkute-and-virginijus-dadurkevicius",
+          "publishedOn": "2024-12-02T10:04:32.000Z",
+          "wordCount": 2095,
+          "title": "Tour de CLARIN: Interview with Erika Rimkutė and Virginijus Dadurkevičius",
+          "imageUrl": null
+        },
+        {
+          "id": "8594 at https://www.clarin.eu",
+          "author": "Laura Gusan",
+          "description": "Introduction: CLARIN-LT\n\n            \nWritten by Jurgita Vaičenonienė\nWelcome to CLARIN-LT! In 2024, we are celebrating our 10-year anniversary – Lithuania became a full member of CLARIN ERIC on October 25, 2014, and a year later, a consortium of three partners was established. At present, the consortium includes six full partners: Vytautas Magnus University (coordinating institution), Kaunas Technology University, Vilnius University, and the newer consortium members Mykolas Romeris University, Baltic Institute of Advanced Technologies, and the Institute of Baltic Region History and Archaeology. Although the composition of our team members has changed over time, we have always been an interdisciplinary and international consortium. We are happy that the consortium has been recognised by th…",
+          "link": "https://www.clarin.eu/blog/introduction-clarin-lt",
+          "publishedOn": "2024-12-02T09:58:42.000Z",
+          "wordCount": 1112,
+          "title": "Introduction: CLARIN-LT",
           "imageUrl": null
         },
         {
