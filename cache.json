@@ -1295,6 +1295,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14227",
+          "author": "Aida Alavi",
+          "description": "The VoH Research Database Have you ever looked up at the night sky and thought, “I wonder what people hundreds …",
+          "link": "https://digitalorientalist.com/2024/12/20/visualizing-the-heavens-a-glimpse-into-the-max-planck-institutes-database-on-astral-knowledge/",
+          "publishedOn": "2024-12-20T14:00:00.000Z",
+          "wordCount": 4891,
+          "title": "Visualizing the Heavens: A Glimpse into the Max Planck Institute’s Database on Astral Knowledge",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/12/capture-decran-2024-12-14-a-02.12.22.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14255",
           "author": "Ephrem A. Ishac",
           "description": "For scholars and students of Syriac and Arabic, the vast digital text library of Archive.org has always held immense potential. …",
@@ -2213,16 +2223,6 @@
           "wordCount": 5320,
           "title": "Manuscript Monday: LJS 443 – [Collection of texts on the calendar]. (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/07/screenshot-2024-06-24-at-3.44.16e280afpm.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18139",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 442, a manual concerning the manufacture and use of gunpowder, ammunition, mines, grenades, flares, smokescreens, and traps, as well as the loading and firing of cannons. Concludes with a copy of the privileges of the guild ofContinue reading \"Manuscript Monday: LJS 442 – [Buch von den probierten Künsten]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/06/24/manuscript-monday-ljs-442-buch-von-den-probierten-kunsten-video-orientation/",
-          "publishedOn": "2024-06-24T13:09:34.000Z",
-          "wordCount": 5289,
-          "title": "Manuscript Monday: LJS 442 – [Buch von den probierten Künsten]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/06/screenshot-2024-05-10-at-12.51.00e280afpm.png?w=1200"
         }
       ]
     },
@@ -2957,16 +2957,6 @@
           "wordCount": 429,
           "title": "EUROPAST Mid-Project Conference",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/europast_mid-project_conference_full_width.jpg?itok=vQDh8stx"
-        },
-        {
-          "id": "5105 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "While historical video games set in Antiquity tend to focus on military gameplay, economic aspects such as resource exploitation and management have always been a significant part of the ludic depiction of the ancient world, from 4X grand strategy games, to city builders, to action-adventures. The talk takes a closer look at how economy and trade are (mis)represented and utilised in “ancient” video games, from Hamurabi (1973) to Builders of Egypt (2020).\nChristian Rollinger is Reader in Ancient History at the University of Trier and currently a Visiting Professor at the University of Potsdam. His research interests include the economic and cultural history of the late Roman republic, the late Roman empire, ancient monarchies generally, and Classical Receptions in modern popular media. He has previously published on antiquity in video games and is editor of Classical Antiquity in Video Games. Playing with the Ancient World (2020).\n \nThursday, 11 July 2024\n16:30 – 18:00\nBlack Box, Maison des Sciences Humaines, Belval Campus\nand online\n \n\n\n11 July 2024\n  Public history\n  Public History\n  Conferences\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/feasts-and-famines-video-games-and-ancient-economics",
-          "publishedOn": "2024-06-24T12:53:46.000Z",
-          "wordCount": 439,
-          "title": "Feasts and Famines: Video Games and Ancient Economics",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/c2dh_event_history_at_play_banner_rollinger_1380-720pixels.png?itok=Hct5yiq2"
         }
       ]
     },
@@ -4299,6 +4289,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/?post_type=news&p=42899",
+          "author": "Beth Knazook",
+          "description": "The Digital Repository of Ireland (DRI) is pleased to share news of another collection published from our 2024 Legacy Data Preservation Pilot. The pilot scheme was designed to capture and preserve at-risk data of enduring cultural and social value from completed research projects. The last collection to be published in 2024 provides striking evidence of grassroots […]\nThe post Remembering the Protest Against Water Charges in Ireland 10 Years On appeared first on Digital Repository of Ireland.",
+          "link": "https://dri.ie/news/remembering-the-protest-against-water-charges-in-ireland-10-years-on/",
+          "publishedOn": "2024-12-20T15:24:57.000Z",
+          "wordCount": 1814,
+          "title": "Remembering the Protest Against Water Charges in Ireland 10 Years On",
+          "imageUrl": "https://dri.ie/app/uploads/2024/03/Pilot.jpg"
+        },
         {
           "id": "https://dri.ie/news/new-collection-clare-memories-collections-copy/",
           "author": "Maeve O'Brien",
