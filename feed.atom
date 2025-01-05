@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-01-04T08:26:21.754Z</updated>
+    <updated>2025-01-05T08:25:15.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
@@ -3909,35 +3909,6 @@ The consortium is led by the CNRS, an…]]></summary>
         <updated>2024-07-10T11:03:16.000Z</updated>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellenausschreibung studentische*r Mitarbeitende*r  am Institut für die Geschichte der deutschen Juden in Hamburg]]></title>
-        <id>node/960</id>
-        <link href="https://dig-hum.de/aktuelles/stellenausschreibung-studentischer-mitarbeitender-am-institut-f%C3%BCr-die-geschichte-der"/>
-        <updated>2024-07-09T06:23:34.000Z</updated>
-        <summary type="html"><![CDATA[Stellenausschreibung studentische*r Mitarbeitende*r
-Sie arbeiten gerne mit historischen Quellen, bringen Erfahrungen aus der Digital History mit und haben vielleicht schon an…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updated datasets describing Trove's digitised newspapers]]></title>
-        <id>http://wragge.micro.blog/2024/07/09/updated-datasets-describing.html</id>
-        <link href="https://updates.timsherratt.org/2024/07/09/updated-datasets-describing.html"/>
-        <updated>2024-07-09T06:05:03.000Z</updated>
-        <summary type="html"><![CDATA[The Trove newspapers section of the GLAM Workbench includes a number of notebooks and datasets that document the context and content of the newspaper corpus. I’ve just updated a few of these datasets:
-Total number of issues per year for each newspaper in Trove
-Complete list of issues for every newspaper in Trove
-Trove newspapers with non-English language content
-Trove newspapers with articles published after 1954
-OCR corrections in Trove newspapers
-
-I’ve also used the issues data to update my visualisation of the number of digitised newspaper issues in Trove published every day from 1803 to 2021 (there’s a lot of data so it can take a little while to load!).
-The notebooks in the Trove newspapers section still need to be updated to work with version 3 of the Trove API. I’m part way through and should get it finished in the next few weeks. I’ll also be adding some more of this data into the Understanding the digitised newspapers section of the Trove Data Guide.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
