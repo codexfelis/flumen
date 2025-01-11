@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-01-10T08:28:20.448Z</updated>
+    <updated>2025-01-11T08:25:44.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The DiGA Project—Digitization of Gandhāran Artefacts – Part 2]]></title>
+        <id>http://digitalorientalist.com/?p=14454</id>
+        <link href="https://digitalorientalist.com/2025/01/10/the-diga-project-digitization-of-gandharan-artefacts-part-2/"/>
+        <updated>2025-01-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my last post, I discussed the DiGA project with two of its members – Dr Jessie Pons, project leader, …]]></summary>
+        <author>
+            <name>Alice Casalini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Humanities Summer Institute (DHSI) Tuition + Travel Support]]></title>
         <id>https://dhn.utoronto.ca/?p=9799</id>
@@ -4136,34 +4146,6 @@ While I was fiddling about with the content, I thought I should probably update 
         <summary type="html"><![CDATA[An event by the History and Philosophy of Computing (HaPoC) and Cambridge Digital Humanities Call for contributions Deadline: 15 August 2024 We are delighted to announce the 6th Workshop on the History and Philosophy of Programming (HaPoP-6). We invite contributions on the history and philosophy of programming broadly understood, including different conceptual and practical aspects]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: LJS 451 – [Commentary on the Doctrinale puerorum]. (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18240</id>
-        <link href="https://schoenberginstitute.org/2024/07/15/manuscript-monday-ljs-451-commentary-on-the-doctrinale-puerorum-video-orientation/"/>
-        <updated>2024-07-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 451, an anonymous commentary on a 12th-century didactic poem composed by the French Franciscan Alexander de Villa Dei addressing parts of speech, syntax, and rhetorical figures. Opening of a letter by Albert II, Duke of Austria, Styria,Continue reading "Manuscript Monday: LJS 451 – [Commentary on the Doctrinale puerorum]. (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARIN Joins ECHOES Consortium]]></title>
-        <id>6417 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/clarin-joins-echoes-consortium"/>
-        <updated>2024-07-15T08:42:39.000Z</updated>
-        <summary type="html"><![CDATA[CLARIN Joins ECHOES Consortium 
-
-            
-CLARIN 
-    
-European Research Infrastructure Consortium
-See: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
-ECHOES aims to create the ECCCH (European Collaborative Cloud for Cultural Heritage) as a shared platform for heritage professionals and researchers to access data, innovative scientific and training resources and advanced digital tools co-developed by the heritage community according to their specific needs. As such, ECHOES promotes a holistic approach to digital transformation, encouraging the co-construction of knowledge in collaboration with museums, libraries, archives, as well as artificial intelligence (AI).
-The consortium is led by the CNRS, an…]]></summary>
-        <author>
-            <name>Karina Berger</name>
         </author>
     </entry>
     <entry>

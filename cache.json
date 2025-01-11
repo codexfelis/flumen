@@ -1244,6 +1244,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14454",
+          "author": "Alice Casalini",
+          "description": "In my last post, I discussed the DiGA project with two of its members – Dr Jessie Pons, project leader, …",
+          "link": "https://digitalorientalist.com/2025/01/10/the-diga-project-digitization-of-gandharan-artefacts-part-2/",
+          "publishedOn": "2025-01-10T14:00:00.000Z",
+          "wordCount": 5432,
+          "title": "The DiGA Project—Digitization of Gandhāran Artefacts – Part 2",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/01/dmc-523-adn-m17-a-.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14464",
           "author": "The Digital Orientalist",
           "description": "This article was co-authored by guest contributors Raúl Cervera Álvarez (Universitat de Barcelona) and Celia Gonzalez Diaz (Universitat Autonoma de …",
@@ -2210,16 +2220,6 @@
           "wordCount": 5495,
           "title": "Manuscript Monday: Ms. Codex 1577 – Fiorecti del libro de Sancto Francesco [etc.]. (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/06/screenshot-2024-06-24-at-3.52.41e280afpm.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18240",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 451, an anonymous commentary on a 12th-century didactic poem composed by the French Franciscan Alexander de Villa Dei addressing parts of speech, syntax, and rhetorical figures. Opening of a letter by Albert II, Duke of Austria, Styria,Continue reading \"Manuscript Monday: LJS 451 – [Commentary on the Doctrinale puerorum]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/07/15/manuscript-monday-ljs-451-commentary-on-the-doctrinale-puerorum-video-orientation/",
-          "publishedOn": "2024-07-15T13:00:00.000Z",
-          "wordCount": 5262,
-          "title": "Manuscript Monday: LJS 451 – [Commentary on the Doctrinale puerorum]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/06/screenshot-2024-06-24-at-3.49.11e280afpm.png?w=1200"
         }
       ]
     },
@@ -4227,16 +4227,6 @@
           "publishedOn": "2024-07-31T08:57:01.000Z",
           "wordCount": 304,
           "title": "CLARIN Newsflash July 2024 Is Out",
-          "imageUrl": null
-        },
-        {
-          "id": "6417 at https://www.clarin.eu",
-          "author": "Karina Berger",
-          "description": "CLARIN Joins ECHOES Consortium \n\n            \nCLARIN \n    \nEuropean Research Infrastructure Consortium\nSee: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\nECHOES aims to create the ECCCH (European Collaborative Cloud for Cultural Heritage) as a shared platform for heritage professionals and researchers to access data, innovative scientific and training resources and advanced digital tools co-developed by the heritage community according to their specific needs. As such, ECHOES promotes a holistic approach to digital transformation, encouraging the co-construction of knowledge in collaboration with museums, libraries, archives, as well as artificial intelligence (AI).\nThe consortium is led by the CNRS, an…",
-          "link": "https://www.clarin.eu/news/clarin-joins-echoes-consortium",
-          "publishedOn": "2024-07-15T08:42:39.000Z",
-          "wordCount": 621,
-          "title": "CLARIN Joins ECHOES Consortium",
           "imageUrl": null
         }
       ]
