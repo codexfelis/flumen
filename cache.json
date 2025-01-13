@@ -2581,16 +2581,6 @@
           "wordCount": 598,
           "title": "Share your spreadsheet as a searchable online database using Datasette-Lite",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-07-19-11-04-14.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/07/17/home-renovations-at.html",
-          "author": null,
-          "description": "I had to update my sadly-neglected CV, so of course I ended up renovating the whole of my personal website at timsherratt.au.  To start with, I migrated my CV from Pages to Markdown. This made it easy to integrate the CV’s content into the site’s about me page. As i was updating the CV, I tried to get as many as possible of my publications and presentations into Zenodo for easy access and safekeeping. This means that the about me page now has a long list of publications and presentations, dating back more than 20 years, that are (almost) all available online.\n\r\nWhile I was fiddling about with the content, I thought I should probably update the theme as well. The site now uses Minimal Mistakes and will display in either dark or light mode depending on your system and browser settings. Hopefully I can ignore it for a few more years now!",
-          "link": "https://updates.timsherratt.org/2024/07/17/home-renovations-at.html",
-          "publishedOn": "2024-07-17T03:21:07.000Z",
-          "wordCount": 204,
-          "title": "Home renovations at timsherratt.au",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-07-17-13-18-59.png"
         }
       ]
     },
@@ -2605,6 +2595,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5338 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "In the framework of the Digital Shoah Memorial and the exhibition “Fruit Trees, Railway Tunnels, and Seamless Tubes. Luxembourgish presence in Romania (1890-1950)”, the C²DH and the Centre de Documentation sur les Migrations humaines, Dudelange, organise a symposium regarding Jewish migration from eastern Austria-Hungary and Romania to Luxembourg and vice versa, within the broader context of antisemitism in Russian-occupied Bukovina during the First World War, and in Romania in the first half of the 20th century. Two Romania-based specialists, Andrei Cușco and Bronwyn Cragg, will dive into the history of antisemitic discourse and violence, a driving force behind the emigration of Jews, as well as a Luxembourgish Jew’s first-hand experience of antisemitism in Romania, while Philippe Blasen from the C²DH/CDMH will retrace the migration of Jews from Romania to Luxembourg during the interwar period.\n \nProgramme\nModeration: Nora Chelaru, member of the «Présence luxembourgeoise en Roumanie (1890-1950)» project, CDMH\nAndrei Cușco, researcher at A.D Xenopol Institute of History, Iași\nRussian Military Occupation, Antisemitism, and the Politics of Ethnicity in a Multiethnic Borderland: The ‘Jewish Question’ in Bukovina (1914-1917)\nBronwyn Cragg, PhD student at A.I. Cuza University, Iași, member of the «Présence luxembourgeoise en Roumanie (1890-1950)» project, CDMH\nLuxembourgish Experiences of Romanian Antisemitism: Jean-Baptiste Duhr (1903-1976) and Maurice Kahn (1885-after 1947)\nPhilippe Blasen, postdoc researcher at the C²DH, University of Luxembourg, and associate researcher at CDMH\nRomania’s Jews in Luxembourg: Facing an Arbitrary Administration (ca. 1919-1933)\n \nTuesday, 25 February 2025\n16.00 - 19.00\nBlack Box, Maison des Sciences humaines, Belval Campus\nFree entrance\n \n\n\n\nSponsors: Claude and Claudine Blasen-Mergen\n25 February 2025\n  Contemporary history of Luxembourg\n  Migration history  WW1  WW2\n  Conferences\n  Published  \n\nImage source: SMBAN",
+          "link": "https://www.c2dh.uni.lu/events/jews-romania-and-luxembourg-entangled-history-1914-1947",
+          "publishedOn": "2025-01-13T07:56:38.000Z",
+          "wordCount": 541,
+          "title": "The Jews of Romania and Luxembourg: An Entangled History (1914-1947)",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/jews_of_romania_and_luxembourg_full_with.jpg?itok=1yL9K6HI"
+        },
         {
           "id": "5307 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
