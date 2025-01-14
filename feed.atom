@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-01-13T08:30:06.655Z</updated>
+    <updated>2025-01-14T08:27:13.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lawyers and capitalism. The History of Lawyers as Key Actors in the Development of Global Capitalism]]></title>
+        <id>5339 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/lawyers-and-capitalism-history-lawyers-key-actors-development-global-capitalism"/>
+        <updated>2025-01-13T08:24:35.000Z</updated>
+        <summary type="html"><![CDATA[The legal profession has long been identified as a power broker between political, corporate, state-bureaucratic and academic elites. Recent research has focused on the emergence of new professionals who are willing and able to work across national frontiers. As professional go-betweens, lawyers – alongside accountants, financial advisers or wealth managers – have become essential actors of the emerging “transnational legal field”, coordinating strategies across jurisdictions and forming a strong component of professional services firms.
+The objective of this workshop is threefold. First, it aims to take stock of the ongoing international and interdisciplinary debates. Second, it intends to focus on the historical dimension and to deepen our understanding of the changes over time of the le…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Jews of Romania and Luxembourg: An Entangled History (1914-1947)]]></title>
         <id>5338 at https://www.c2dh.uni.lu</id>
@@ -4112,36 +4123,6 @@ I’m using Datasette-Lite throughout the GLAM Workbench. For example, try click
         <updated>2024-07-18T13:23:36.000Z</updated>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHR2024 Information]]></title>
-        <id>discourse.computational-humanities-research.org-topic-2206</id>
-        <link href="https://discourse.computational-humanities-research.org/t/chr2024-information/2206"/>
-        <updated>2024-07-18T06:58:15.000Z</updated>
-        <summary type="html"><![CDATA[From December 4 to 6, 2024, the fifth edition of the CHR conference will take place at Aarhus University, Denmark
-Dates
-Deadline for new submissions: July 11, 2024, 23:59:59 UTC-12 (Anywhere on Earth)
-Deadline for updating submissions: July 15, 2024, 23:59:59 UTC-12 (Anywhere on Earth)
-Notifications of acceptance: September 16, 2024
-Final papers ready: October, 2024
-Conference: December 4 - December 6, 2024
-From the call for papers
-In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for process…]]></summary>
-        <author>
-            <name>melvin.wevers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[About the CHR2024 category]]></title>
-        <id>discourse.computational-humanities-research.org-topic-2205</id>
-        <link href="https://discourse.computational-humanities-research.org/t/about-the-chr2024-category/2205"/>
-        <updated>2024-07-18T06:40:08.000Z</updated>
-        <summary type="html"><![CDATA[This is a category related to CHR2024
-1 post - 1 participant
-Read full topic]]></summary>
-        <author>
-            <name>melvin.wevers</name>
         </author>
     </entry>
     <entry>
