@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-01-14T08:27:13.693Z</updated>
+    <updated>2025-01-15T08:27:37.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Analyzing Collation Files: Apatosaurus]]></title>
+        <id>http://digitalorientalist.com/?p=14636</id>
+        <link href="https://digitalorientalist.com/2025/01/14/analyzing-collation-files-apatosaurus/"/>
+        <updated>2025-01-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my last post, I explored how to collate TEI XML transcriptions of Greek New Testament manuscripts, yielding a TEI …]]></summary>
+        <author>
+            <name>Zach Butler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lawyers and capitalism. The History of Lawyers as Key Actors in the Development of Global Capitalism]]></title>
         <id>5339 at https://www.c2dh.uni.lu</id>
@@ -4101,19 +4111,6 @@ The post Coding for Humanists: Python Notebooks in Gale Digital Scholar Lab appe
         <summary type="html"><![CDATA[CDH Learning invites applications for new Methods Fellows for the academic year 2024/25. The Methods Fellowship programme offers teaching, research and professional staff and postgraduate students at the University of Cambridge the opportunity to develop and deliver innovative teaching in digital methods. They contribute to an interdisciplinary programme that attracts over 500 participants across the]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Share your spreadsheet as a searchable online database using Datasette-Lite]]></title>
-        <id>http://wragge.micro.blog/2024/07/19/share-your-spreadsheet.html</id>
-        <link href="https://updates.timsherratt.org/2024/07/19/share-your-spreadsheet.html"/>
-        <updated>2024-07-19T01:13:36.000Z</updated>
-        <summary type="html"><![CDATA[HASS researchers often compile data in spreadsheets. Sometimes they want to ‘publish’ this data online in a form that encourages others to use and explore – but how? I’ve just added a simple tool to the GLAM Workbench that helps you construct a url that will open a CSV file as a searchable database using Datasette-Lite.
-What’s Datasette?
-Datasette is a fantastic tool that helps you publish your data as an interactive website. There’s a few different varieties of Datasette, but Datasette-Lite is probably the easiest, as you don’t need to install any software. Datasette-Lite runs completely within your web browser, converting your data into into a searchable database on demand.
-I’m using Datasette-Lite throughout the GLAM Workbench. For example, try clicking the Explore in Datasette buttons …]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>

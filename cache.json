@@ -1244,6 +1244,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14636",
+          "author": "Zach Butler",
+          "description": "In my last post, I explored how to collate TEI XML transcriptions of Greek New Testament manuscripts, yielding a TEI …",
+          "link": "https://digitalorientalist.com/2025/01/14/analyzing-collation-files-apatosaurus/",
+          "publishedOn": "2025-01-14T14:00:00.000Z",
+          "wordCount": 4974,
+          "title": "Analyzing Collation Files: Apatosaurus",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/01/apparatus.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14454",
           "author": "Alice Casalini",
           "description": "In my last post, I discussed the DiGA project with two of its members – Dr Jessie Pons, project leader, …",
@@ -2550,16 +2560,6 @@
           "wordCount": 650,
           "title": "Explore Trove's digitised maps",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-08-16-12-39-50.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/07/19/share-your-spreadsheet.html",
-          "author": null,
-          "description": "HASS researchers often compile data in spreadsheets. Sometimes they want to ‘publish’ this data online in a form that encourages others to use and explore – but how? I’ve just added a simple tool to the GLAM Workbench that helps you construct a url that will open a CSV file as a searchable database using Datasette-Lite.\nWhat’s Datasette?\nDatasette is a fantastic tool that helps you publish your data as an interactive website. There’s a few different varieties of Datasette, but Datasette-Lite is probably the easiest, as you don’t need to install any software. Datasette-Lite runs completely within your web browser, converting your data into into a searchable database on demand.\nI’m using Datasette-Lite throughout the GLAM Workbench. For example, try clicking the Explore in Datasette buttons …",
-          "link": "https://updates.timsherratt.org/2024/07/19/share-your-spreadsheet.html",
-          "publishedOn": "2024-07-19T01:13:36.000Z",
-          "wordCount": 598,
-          "title": "Share your spreadsheet as a searchable online database using Datasette-Lite",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-07-19-11-04-14.png"
         }
       ]
     },
