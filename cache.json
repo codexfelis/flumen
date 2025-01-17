@@ -1004,10 +1004,61 @@
       ]
     },
     {
-      "title": "Digital Humanities Summer Institute (DHSI)",
+      "title": "Digital Humanities Summer Institute",
       "feedUrl": "https://dhsi.org/feed",
       "siteUrl": "https://dhsi.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://dhsi.openum.ca/?p=297",
+          "author": "paledavood",
+          "description": "Registration for DHSI 2025 ends on May 19th! Many courses fill up much sooner, so make sure to register sooner rather than later! Please note that there will be no on-site registrations this year.",
+          "link": "https://dhsi.org/2024/12/17/registration-ends-on-may-19th/",
+          "publishedOn": "2024-12-17T17:09:04.000Z",
+          "wordCount": 214,
+          "title": "Registration ends on May 19th!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhsi.openum.ca/?p=294",
+          "author": "paledavood",
+          "description": "Early bird registration, as well as registration with discounted codes for partners & sponsors, ends on April 1st!",
+          "link": "https://dhsi.org/2024/12/17/early-bird-registration-ends-on-april-1st/",
+          "publishedOn": "2024-12-17T17:06:08.000Z",
+          "wordCount": 202,
+          "title": "Early bird registration ends on April 1st!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhsi.openum.ca/?p=286",
+          "author": "paledavood",
+          "description": "DHSI week 2 will take place at the Université de Montréal from June 2, 2025 to June 6, 2025.",
+          "link": "https://dhsi.org/2024/12/16/dhsi-week-2/",
+          "publishedOn": "2024-12-16T20:45:56.000Z",
+          "wordCount": 198,
+          "title": "DHSI Week 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhsi.openum.ca/?p=268",
+          "author": "kkaustinen",
+          "description": "DHSI week 1 will take place at the Université de Montréal from May 26, 2025 to May 30, 2025.",
+          "link": "https://dhsi.org/2024/12/16/dhsi-week-1/",
+          "publishedOn": "2024-12-16T20:43:09.000Z",
+          "wordCount": 198,
+          "title": "DHSI week 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhsi.openum.ca/?p=72",
+          "author": "kkaustinen",
+          "description": "Registration for DHSI 2025 will take place through the Université de Montréal’s Center of Professional Development (PRAXIS) in mid-January. More information coming soon!",
+          "link": "https://dhsi.org/2024/11/27/test/",
+          "publishedOn": "2024-11-27T16:07:41.000Z",
+          "wordCount": 194,
+          "title": "Registration opening soon!",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Tagungen",
@@ -1157,6 +1208,16 @@
       "feedUrl": "https://digitaldemocracies.org/feed",
       "siteUrl": "https://digitaldemocracies.org",
       "articles": [
+        {
+          "id": "https://digitaldemocracies.org/?p=5998",
+          "author": "Alberto Lusoli",
+          "description": "Brooke Erin Duffy is an Associate Professor in the Department of Communication at Cornell University, where she is also a member of the Feminist, Gender, and Sexuality Studies faculty. Her […]\nDDI Speaker Series – Brooke Erin Duffy first appeared on Digital Democracies Institute.",
+          "link": "https://digitaldemocracies.org/ddi-speaker-series-brooke-erin-duffy/",
+          "publishedOn": "2025-01-15T19:10:33.000Z",
+          "wordCount": 3856,
+          "title": "DDI Speaker Series – Brooke Erin Duffy",
+          "imageUrl": "https://i0.wp.com/digitaldemocracies.org/wp-content/uploads/2021/02/DDI-SFU.png?fit=3600%2C600&ssl=1"
+        },
         {
           "id": "https://digitaldemocracies.org/?p=5943",
           "author": "Alberto Lusoli",
@@ -2424,6 +2485,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2025/01/17/changes-to-trove-newspapers-in.html",
+          "author": null,
+          "description": "Every Sunday I harvest information about the number of digitised newspaper articles in Trove. You can view the current results in the Trove Data Dashboard. By compiling all the data from 2024, you can find out what changed last year.\n6,241,739 digitised newspaper articles were added to Trove in 2024. The  rate of digitisation was pretty quick until the end of March when the  processing of the Melbourne Sun ended, then things flattened out a bit.\n\r\nWhile the number of articles with corrections, tags, and comments all  increased steadily across 2024, there seems to have been a bit of glitch indexing tags and comments causing some jumps in the totals.\n\r\nMost of the digitised newspaper articles were published in NSW (3,190,972), Victoria (2,680,855), and South Australia (363,483).\n\r\nThirty-eig…",
+          "link": "https://updates.timsherratt.org/2025/01/17/changes-to-trove-newspapers-in.html",
+          "publishedOn": "2025-01-17T06:42:59.000Z",
+          "wordCount": 707,
+          "title": "Changes to Trove newspapers in 2024",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/visualization13.png"
+        },
         {
           "id": "http://wragge.micro.blog/2024/12/12/trovenewsbot-has-a.html",
           "author": null,

@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-01-16T11:50:32.447Z</updated>
+    <updated>2025-01-17T08:26:47.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changes to Trove newspapers in 2024]]></title>
+        <id>http://wragge.micro.blog/2025/01/17/changes-to-trove-newspapers-in.html</id>
+        <link href="https://updates.timsherratt.org/2025/01/17/changes-to-trove-newspapers-in.html"/>
+        <updated>2025-01-17T06:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Every Sunday I harvest information about the number of digitised newspaper articles in Trove. You can view the current results in the Trove Data Dashboard. By compiling all the data from 2024, you can find out what changed last year.
+6,241,739 digitised newspaper articles were added to Trove in 2024. The  rate of digitisation was pretty quick until the end of March when the  processing of the Melbourne Sun ended, then things flattened out a bit.
+
+While the number of articles with corrections, tags, and comments all  increased steadily across 2024, there seems to have been a bit of glitch indexing tags and comments causing some jumps in the totals.
+
+Most of the digitised newspaper articles were published in NSW (3,190,972), Victoria (2,680,855), and South Australia (363,483).
+
+Thirty-eig…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDI Speaker Series – Brooke Erin Duffy]]></title>
+        <id>https://digitaldemocracies.org/?p=5998</id>
+        <link href="https://digitaldemocracies.org/ddi-speaker-series-brooke-erin-duffy/"/>
+        <updated>2025-01-15T19:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Brooke Erin Duffy is an Associate Professor in the Department of Communication at Cornell University, where she is also a member of the Feminist, Gender, and Sexuality Studies faculty. Her […]
+DDI Speaker Series – Brooke Erin Duffy first appeared on Digital Democracies Institute.]]></summary>
+        <author>
+            <name>Alberto Lusoli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analyzing Collation Files: Apatosaurus]]></title>
         <id>http://digitalorientalist.com/?p=14636</id>
@@ -497,6 +525,26 @@ A new CLARIN Resource Family was developed for Corpora of Disordered Speech. I
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Registration ends on May 19th!]]></title>
+        <id>https://dhsi.openum.ca/?p=297</id>
+        <link href="https://dhsi.org/2024/12/17/registration-ends-on-may-19th/"/>
+        <updated>2024-12-17T17:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Registration for DHSI 2025 ends on May 19th! Many courses fill up much sooner, so make sure to register sooner rather than later! Please note that there will be no on-site registrations this year.]]></summary>
+        <author>
+            <name>paledavood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early bird registration ends on April 1st!]]></title>
+        <id>https://dhsi.openum.ca/?p=294</id>
+        <link href="https://dhsi.org/2024/12/17/early-bird-registration-ends-on-april-1st/"/>
+        <updated>2024-12-17T17:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Early bird registration, as well as registration with discounted codes for partners & sponsors, ends on April 1st!]]></summary>
+        <author>
+            <name>paledavood</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recent Advancements: Unlocking Syriac and Arabic Texts on Archive.org]]></title>
         <id>http://digitalorientalist.com/?p=14255</id>
         <link href="https://digitalorientalist.com/2024/12/17/recent-advancements-unlocking-syriac-and-arabic-texts-on-archive-org/"/>
@@ -504,6 +552,26 @@ A new CLARIN Resource Family was developed for Corpora of Disordered Speech. I
         <summary type="html"><![CDATA[For scholars and students of Syriac and Arabic, the vast digital text library of Archive.org has always held immense potential. …]]></summary>
         <author>
             <name>Ephrem A. Ishac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHSI Week 2]]></title>
+        <id>https://dhsi.openum.ca/?p=286</id>
+        <link href="https://dhsi.org/2024/12/16/dhsi-week-2/"/>
+        <updated>2024-12-16T20:45:56.000Z</updated>
+        <summary type="html"><![CDATA[DHSI week 2 will take place at the Université de Montréal from June 2, 2025 to June 6, 2025.]]></summary>
+        <author>
+            <name>paledavood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHSI week 1]]></title>
+        <id>https://dhsi.openum.ca/?p=268</id>
+        <link href="https://dhsi.org/2024/12/16/dhsi-week-1/"/>
+        <updated>2024-12-16T20:43:09.000Z</updated>
+        <summary type="html"><![CDATA[DHSI week 1 will take place at the Université de Montréal from May 26, 2025 to May 30, 2025.]]></summary>
+        <author>
+            <name>kkaustinen</name>
         </author>
     </entry>
     <entry>
@@ -814,6 +882,16 @@ C²DH Open Space (4th floor Maison des Sciences humaines)
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Registration opening soon!]]></title>
+        <id>https://dhsi.openum.ca/?p=72</id>
+        <link href="https://dhsi.org/2024/11/27/test/"/>
+        <updated>2024-11-27T16:07:41.000Z</updated>
+        <summary type="html"><![CDATA[Registration for DHSI 2025 will take place through the Université de Montréal’s Center of Professional Development (PRAXIS) in mid-January. More information coming soon!]]></summary>
+        <author>
+            <name>kkaustinen</name>
         </author>
     </entry>
     <entry>
