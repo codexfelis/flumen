@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-01-19T08:24:20.983Z</updated>
+    <updated>2025-01-20T08:28:23.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit Nils Reiter über Peer-Reviewing]]></title>
+        <id>https://radihum20.de/?p=1048</id>
+        <link href="https://radihum20.de/radihum20-spricht-mit-nils-reiter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-spricht-mit-nils-reiter"/>
+        <updated>2025-01-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In der letzten Folge der siebten Staffel widmen wir uns dem Thema „Peer-Reviewing“ in den Digital Humanities. Unser Gast ist Nils Reiter, Professor für Digital Humanities und sprachliche Informationsverarbeitung an der Universität Köln. Mit seiner langjährigen Erfahrung als Reviewer und Programmkomitee-Vorsitzender der DHd2025 gibt er spannende Einblicke in die Herausforderungen und Entwicklungen dieses zentralen Prozesses […]
+Der Beitrag RaDiHum20 spricht mit Nils Reiter über Peer-Reviewing erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Clara Helmig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Report on Recent ADHO Annual Conferences: Multilingual DH in Focus]]></title>
         <id>http://digitalorientalist.com/?p=14648</id>
@@ -313,6 +324,23 @@ What is Douglass Day? 
 Douglass Day is an annual holiday celebrated on February 14th, the chosen birthday of Frederick Douglass. As Douglass never knew his actual birthdate, his family chose Valentine’s Day to commemorate his life. The holiday was established after Douglass’ passing in 1895, when influential activist Mary Church Terrell proposed a national holiday to honor his legacy. Douglass Day events were widespread in the early 20th century and served as inspiration for the creation of Black History Month. In 2017, a group at …]]></summary>
         <author>
             <name>svarner@upenn.edu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H2IOSC Training Environment]]></title>
+        <id>8613 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/h2iosc-training-environment"/>
+        <updated>2025-01-07T16:10:43.000Z</updated>
+        <summary type="html"><![CDATA[H2IOSC Training Environment
+
+            
+H2IOSC Training Environment
+ 
+The H2IOSC Training Environment platform was developed to address the growing need for a structured and accessible system to manage and deliver educational content, particularly for modular and reusable digital learning resources. Designed as part of the PNRR Humanities and Cultural Heritage Italian Open Science Cloud, the platform is a collaborative effort between ETT S.p.A. and the CNR Institute of Computational Linguistics ‘Antonio Zampolli’ of Pisa (CNR-ILC), part of CLARIN-IT. It aims to support modern teaching practices while managing training materials according to the FAIR principles within the CLARIN-IT community and beyond.
+ 
+From the student’s perspective, the platform allows the creation of an account with …]]></summary>
+        <author>
+            <name>Iulianna van der Lek-Ciudin</name>
         </author>
     </entry>
     <entry>
