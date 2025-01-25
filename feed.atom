@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-01-24T08:27:25.034Z</updated>
+    <updated>2025-01-25T08:25:23.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DHd-Gründungsmitglied und ehemalige Vorsitzende Prof. Dr. Claudine Moulin mit Bundesverdienstkreuz am Bande geehrt]]></title>
+        <id>node/977</id>
+        <link href="https://dig-hum.de/aktuelles/dhd-gr%C3%BCndungsmitglied-und-ehemalige-vorsitzende-prof-dr-claudine-moulin"/>
+        <updated>2025-01-24T16:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Unsere ehemalige Vorsitzende und Mitglied des Gründungsvorstands Prof. Dr. Claudine Moulin wurde gestern auf Vorschlag von Ministerpräsidentin a. D. Malu Dreyer von…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating LLMs for Linked Data Extraction from Chinese Texts: A Comparative Analysis]]></title>
+        <id>http://digitalorientalist.com/?p=14668</id>
+        <link href="https://digitalorientalist.com/2025/01/24/evaluating-llms-for-linked-data-extraction-from-chinese-texts-a-comparative-analysis/"/>
+        <updated>2025-01-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Background Historical Chinese texts and source notes, preserved in various forms including rare books, special collections, and modern academic databases, …]]></summary>
+        <author>
+            <name>Eric H. C. Chow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFP: Digital Humanities Showcase 2025]]></title>
         <id>https://dh.rutgers.edu/?p=78194</id>
@@ -4239,26 +4259,6 @@ The post Reflections on the WorldFAIR Project appeared first on Digital Reposito
         <summary type="html"><![CDATA[A public event at the Cambridge Social Data School with Watershed Investigations About Wondering what’s in your water? Now you can find out. Investigative journalists Rachel Salvidge and Leana Hosea present the Watershed Pollution Map, an interactive platform showing 120 datasets, ranging from river health, bathing water health, to historic landfill sites, sewage dumping, intensive]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDHI Members Awarded SSHRC Partnership Grant]]></title>
-        <id>https://dhn.utoronto.ca/?p=9361</id>
-        <link href="https://dhn.utoronto.ca/boye-carter-sshrc-pg/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=boye-carter-sshrc-pg"/>
-        <updated>2024-07-29T14:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Gatherings: Archival and Oral Histories of Performance awarded a Social Sciences and Humanities Research Council of Canada Partnership Grant for $2,500,000.00. CDHI is very pleased to announce that the research project Gatherings: […]]]></summary>
-        <author>
-            <name>DHN Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Ms. Codex 1640 – Manipulus florum peritorum. (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18247</id>
-        <link href="https://schoenberginstitute.org/2024/07/29/manuscript-monday-ms-codex-1640-manipulus-florum-peritorum-video-orientation/"/>
-        <updated>2024-07-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s Ms. Codex 1640, a compendium of extracts, mostly from Biblical, patristic, and later Christian literature, categorized by subject with the subjects in alphabetical order, designed as a reference work for use in writing sermons. Most of the subjectsContinue reading "Manuscript Monday: Ms. Codex 1640 – Manipulus florum peritorum. (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
         </author>
     </entry>
     <entry>
