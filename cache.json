@@ -2521,6 +2521,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2025/01/27/files-digitised-by-the-national.html",
+          "author": null,
+          "description": "In 2024, the National Archives of Australia digitised 254,953 files (down from 416,602 in 2023). This chart shows the number of files digitised per day in 2024.\nThe decrease in the total number of files digitised is probably related to the completion of the NAA’s five year project to digitise Second World War service records. Thanks to $10 million in government funding, the NAA has digitised more than a million service records since 2019. In 2023, 81% of records digitised were from series containing service records. This has dropped to around 40% in 2024. Here’s the total number of files digitised per year since February 2021.\nThe files digitised in 2024 came from 1,439 different series. Here’s the top twenty series by number of items digitised in 2024. You’ll see that as well as war recor…",
+          "link": "https://updates.timsherratt.org/2025/01/27/files-digitised-by-the-national.html",
+          "publishedOn": "2025-01-27T03:16:09.000Z",
+          "wordCount": 508,
+          "title": "Files digitised by the National Archives of Australia in 2024",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/visualization20.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2025/01/17/changes-to-trove-newspapers-in.html",
           "author": null,
           "description": "Every Sunday I harvest information about the number of digitised newspaper articles in Trove. You can view the current results in the Trove Data Dashboard. By compiling all the data from 2024, you can find out what changed last year.\n6,241,739 digitised newspaper articles were added to Trove in 2024. The  rate of digitisation was pretty quick until the end of March when the  processing of the Melbourne Sun ended, then things flattened out a bit.\n\r\nWhile the number of articles with corrections, tags, and comments all  increased steadily across 2024, there seems to have been a bit of glitch indexing tags and comments causing some jumps in the totals.\n\r\nMost of the digitised newspaper articles were published in NSW (3,190,972), Victoria (2,680,855), and South Australia (363,483).\n\r\nThirty-eig…",
@@ -4078,6 +4088,16 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "8632 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 69 - January 2025\n\n            \nCentre Meeting: save the date\nThe Centre Meeting is the yearly gathering for everyone who is involved in setting up or hosting a CLARIN centre, with a special focus on technical infrastructure. The 2025 edition will take place in hybrid form, participants can join in person in Utrecht virtually via Zoom.\nDetails will follow, but the date has been settled: 21 and 22 May.\nCLARIN technical open hour, Monday 27 January at 11:00 CET\nThe next edition of the https://www.clarin.eu/event/2025/technical-open-hour-january-2025 is planned for Monday 27 January at 11:00 CET. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nThe dates for the upcoming open hours are now also set.\nNew on the CLARIN forum\nCollection name improvement for DataCite OAI providers\nDieter Van Uytvanck\n 26 January 2025\n\n\n    \ncentre news",
+          "link": "https://www.clarin.eu/blog/centre-news-vol-69-january-2025",
+          "publishedOn": "2025-01-26T09:31:54.000Z",
+          "wordCount": 411,
+          "title": "Centre news vol. 69 - January 2025",
+          "imageUrl": null
+        },
+        {
           "id": "8630 at https://www.clarin.eu",
           "author": "Julia Misersky",
           "description": "CLARIN Newsflash January 2025 Is Out\n\n            \n Every month, CLARIN publishes a Newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.\nRead the most recent CLARIN Newsflash: January 2025\nSubscribing to it is the ideal way of staying informed.\nSubscribe here\nPast issues of the CLARIN Newsflash\n \nYou are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.\nJulia Misersky\n 22 January 2025",
@@ -4325,16 +4345,6 @@
           "publishedOn": "2024-09-17T14:19:41.000Z",
           "wordCount": 606,
           "title": "Centre news vol. 67 - September 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "6425 at https://www.clarin.eu",
-          "author": "Julia Misersky",
-          "description": "CLARIN Newsflash July 2024 Is Out\n\n            \n\n  \n  \n            \n  \n\n\n\n      \n\nEvery month, CLARIN publishes a Newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.\nRead the most recent CLARIN Newsflash: July 2024\nSubscribing to it is the ideal way of staying informed.\nSubscribe here\nPast issues of the CLARIN Newsflash\nYou are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.\n\n      Julia Misersky\n 31 July 2024",
-          "link": "https://www.clarin.eu/news/clarin-newsflash-july-2024-is-out",
-          "publishedOn": "2024-07-31T08:57:01.000Z",
-          "wordCount": 304,
-          "title": "CLARIN Newsflash July 2024 Is Out",
           "imageUrl": null
         }
       ]
