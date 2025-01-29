@@ -1308,6 +1308,21 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14773",
+          "author": "Edward A. S. Ross",
+          "description": "This is part two of a three-part series on the biases about Hellenistic Central Asia in generative artificial intelligence (AI) datasets. Since ChatGPT’s surge of popularity in November 2022, some theorize that generative AI tools could be the answer to uncovering how ancient music could have actually sounded.",
+          "link": "https://digitalorientalist.com/2025/01/28/hellenistic-central-asia-through-the-eyes-of-genai-part-2-music/",
+          "publishedOn": "2025-01-28T14:00:00.000Z",
+          "wordCount": 5359,
+          "title": "Hellenistic Central Asia through the Eyes of GenAI – Part 2: Music",
+          "enclosure": {
+            "url": "https://digitalorientalist.wordpress.com/wp-content/uploads/2025/01/1.-cassetteai-song-1.mp3",
+            "length": "270677",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/01/0.-suno-cover-art-4-long.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14668",
           "author": "Eric H. C. Chow",
           "description": "Background Historical Chinese texts and source notes, preserved in various forms including rare books, special collections, and modern academic databases, …",
@@ -2663,6 +2678,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5361 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Rooted in the ERC project Science at the Fair: Performing Knowledge and Technology in Western Europe (1850-1914), this lecture discusses the vibrant yet elusive world of nineteenth-century fairgrounds as hubs of cultural exchange, blending entertainment, science, technology, and visual culture. However, the scarcity and dispersion of source materials and artefacts presents substantial challenges for its historical research.\nThree case studies illustrate the approaches involved in locating and analyzing a diverse range of relevant source materials, including flyers, trade journals, and paintings: (1) unearthing fairground ephemera in the Brussels’ antique circuit, (2) digitizing Der Komet, a pioneering trade journal for fairground professionals, and (3) investigating the cosmorama paintings…",
+          "link": "https://www.c2dh.uni.lu/events/researching-nineteenth-century-fairground-ephemera-unconventional-pathways",
+          "publishedOn": "2025-01-28T12:02:59.000Z",
+          "wordCount": 540,
+          "title": "(Re)searching Nineteenth-Century Fairground Ephemera: (Un)conventional Pathways",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_handson_history-content-list-grey.png?itok=0EHc2jFn"
+        },
         {
           "id": "5355 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -4511,6 +4536,26 @@
       "feedUrl": "https://www.jadh.org/rss.xml",
       "siteUrl": "https://www.jadh.org",
       "articles": [
+        {
+          "id": "84 at https://www.jadh.org",
+          "author": "adminweb",
+          "description": "JADH2025: “Crossing the Gap: Rethinking Boundaries between the Humanities and Informatics”\nThe Japanese Association for Digital Humanities (JADH) is pleased to announce its 14th annual conference, to be held in person at Osaka University on September 19-21, 2025.\nIn recent years, the emergence of generative AI has brought about a profound shift in the balance between the Humanities and Informatics. In both fields, the areas where generative AI can take over seem to be expanding, simultaneously creating new possibilities for development and raising issues within these fields. In doing so, this development foregrounds critical issues regarding the very roles of the Humanities and Informatics—disciplines that form the core of Digital Humanities.\nThis symposium aims to explore how these discip…",
+          "link": "https://www.jadh.org/node/84",
+          "publishedOn": "2025-01-28T16:22:05.000Z",
+          "wordCount": 927,
+          "title": "Call for Papers: JADH2025",
+          "imageUrl": null
+        },
+        {
+          "id": "83 at https://www.jadh.org",
+          "author": "adminweb",
+          "description": "JADH2025: “Crossing the Gap: Rethinking Boundaries between the Humanities and Informatics”\nThe Japanese Association for Digital Humanities (JADH) is pleased to announce its 14th annual conference, to be held in person at Osaka University on September 19-21, 2025.\nIn recent years, the emergence of generative AI has brought about a profound shift in the balance between the Humanities and Informatics. In both fields, the areas where generative AI can take over seem to be expanding, simultaneously creating new possibilities for development and raising issues within these fields. In doing so, this development foregrounds critical issues regarding the very roles of the Humanities and Informatics—disciplines that form the core of Digital Humanities.\nThis symposium aims to explore how these discip…",
+          "link": "https://www.jadh.org/jadh2025cfp",
+          "publishedOn": "2025-01-28T16:20:07.000Z",
+          "wordCount": 927,
+          "title": "Call for Papers: JADH2025",
+          "imageUrl": null
+        },
         {
           "id": "82 at https://www.jadh.org",
           "author": "adminweb",
