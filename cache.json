@@ -27,7 +27,28 @@
       "title": "DHNB",
       "feedUrl": "http://dhnb.eu/feed",
       "siteUrl": "https://dhnb.eu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://dhnb.eu/?p=3345",
+          "author": "Matti La Mela",
+          "description": "I am pleased to announce the DHNB Annual General Members Meeting, to be held in conjunction with the DHNB2025 conference on March 6th, 2025, in Tartu and online. 18:00 – 19:00 Estonian time.   The AGM will be a hybrid event; on-site and online participation is welcome! Agenda and supporting documents will be sent out to all members 2 weeks before the […]",
+          "link": "https://dhnb.eu/the-dhnb-annual-general-members-meeting-2025/",
+          "publishedOn": "2025-02-03T15:23:27.000Z",
+          "wordCount": 620,
+          "title": "The DHNB Annual General Members Meeting 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhnb.eu/?p=3343",
+          "author": "Matti La Mela",
+          "description": "The elections for the DHNB board will take place between 16 February – 1 March. Our aim is to keep the DHNB community open and inclusive, and to support this goal, we are now inviting candidates to stand in the board elections. Altogether four of the nine positions on the board are open to be […]",
+          "link": "https://dhnb.eu/dhnb-board-elections-call-for-candidates/",
+          "publishedOn": "2025-02-03T15:21:21.000Z",
+          "wordCount": 648,
+          "title": "DHNB board elections – call for candidates",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "News – Global Outlook::Digital Humanities",
@@ -82,6 +103,16 @@
       "feedUrl": "https://adho.org/rss.xml",
       "siteUrl": "https://adho.org",
       "articles": [
+        {
+          "id": "https://adho.org/?p=4126",
+          "author": "Nadezhda Povroznik",
+          "description": "Digital Humanities Conference 2028 The Conference Coordinating Committee of the Alliance of Digital Humanities Organizations (ADHO) invites proposals to host the Digital Humanities Conference in 2028 (DH2028). Digital Humanities (DH) is ADHO’s annual international conference. ADHO’s constituent organizations are the Australasian Association for Digital Humanities (aaDH), the Association for Computers and the Humanities (ACH), the… Read More »DH2028: Call for Hosts",
+          "link": "https://adho.org/2025/02/03/dh2028-call-for-hosts/",
+          "publishedOn": "2025-02-03T20:50:15.000Z",
+          "wordCount": null,
+          "title": "DH2028: Call for Hosts",
+          "imageUrl": null
+        },
         {
           "id": "https://adho.org/2024/11/27/dh2025-new-submission-deadline-8-december-2024/",
           "author": "Nadezhda Povroznik",
@@ -1728,7 +1759,18 @@
       "title": "Computational Humanities Research - Latest topics",
       "feedUrl": "https://discourse.computational-humanities-research.org/latest.rss",
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
-      "articles": []
+      "articles": [
+        {
+          "id": "discourse.computational-humanities-research.org-topic-2263",
+          "author": "BarbaraMcGillivray",
+          "description": "Dear Computational Humanities Research Community,\nAs many of you know, we have been publishing our conference proceedings with CEUR Workshop Proceedings since the first edition of CHR back in 2020. CEUR has provided an accessible and open platform to share our work. However, our conference’s growth has led CEUR to inform us that they are no longer able to publish our proceedings, also considering that we’re not a computer science conference.\nThis presents both a challenge and an opportunity for us. We need to identify a new, sustainable solution that aligns with our values as a community: openness, accessibility, and inclusivity. We are committed to ensuring that the process of selecting a new venue is as participatory and transparent as possible, which is why we are reaching out to all of you for suggestions, ideas, and feedback.\nHere are some points to consider when proposing or evaluating alternatives:\nWe want to continue using TeX\nHow can we ensure that our proceedings remain freely accessible to researchers worldwide?\nWhat are the long-term implications in terms of costs, maintenance, and scalability?\nDoes the venue reflect the interdisciplinary nature of our work, particularly the balance between computational methods and humanities research?\nIf you have suggestions, please share them in the comments below.\nWe look forward to hearing your ideas!\n3 posts - 3 participants\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/call-for-input-finding-a-new-publication-venue-for-our-conference-proceedings/2263",
+          "publishedOn": "2025-02-03T13:59:27.000Z",
+          "wordCount": 402,
+          "title": "Call for input: finding a new publication venue for our conference proceedings",
+          "imageUrl": "https://discourse.computational-humanities-research.org/uploads/default/original/1X/e83227080f03d3299283aca047b56b9f8af06b57.png"
+        }
+      ]
     },
     {
       "title": "Blog Archives - Digital Scholarship",
@@ -2658,6 +2700,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5389 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Humming Home is a FNR-funded series of events that aim to look at how different cultures, community groups, and people use sound, music, and silence to talk about their history.\nWhat can music and history have in common? Can the sound tell us more about the past? What role does the voice have in this? And what about silence? Does it also speak? And does voice imply agency over history? How are sounds and their absence reflected in our political and cultural recollection of the past?\nOn Listening with Politics:\nIn 2023, Abu Hamdan founded Earshot, the world’s first organization using sound for the defense of human and environmental rights. Reflecting on its first year of operation, Abu Hamdan will be elaborating on the interrelations of art and activism and listening with politics. The pres…",
+          "link": "https://www.c2dh.uni.lu/events/humming-home-public-history-and-sound-part-2",
+          "publishedOn": "2025-02-03T09:21:28.000Z",
+          "wordCount": 928,
+          "title": "Humming Home, Public History and Sound (part 2)",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/lawrence-abu-hamdan_humming_home.jpg?itok=SaW6diJr"
+        },
         {
           "id": "5370 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -4686,6 +4738,21 @@
       "feedUrl": "https://rise.unibas.ch/de/657/feed.rss",
       "siteUrl": "https://rise.unibas.ch/de/",
       "articles": [
+        {
+          "id": "news-268",
+          "author": null,
+          "description": "News,\n                        Weiterbildung,\n                        Events,\n                        People\n                        \nIn unserem Newsletter informieren wir über unser aktualisiertes Kursangebot, die neue Mailingliste, Personalwechsel und unser Serviceangebot",
+          "link": "https://rise.unibas.ch/de/news/details/newsletter-fruehjahr-2025/",
+          "publishedOn": "2025-02-03T09:27:50.000Z",
+          "wordCount": 231,
+          "title": "Newsletter Frühjahr 2025",
+          "enclosure": {
+            "url": "https://rise.unibas.ch/fileadmin/_processed_/3/6/csm_news-print-background_d7bd1705cf.jpg",
+            "length": "670376",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://rise.unibas.ch/fileadmin/_processed_/3/6/csm_news-print-background_d7bd1705cf.jpg"
+        },
         {
           "id": "news-250",
           "author": null,
