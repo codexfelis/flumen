@@ -1319,6 +1319,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14838",
+          "author": "Maciej Kurzynski",
+          "description": "Tokenization, the process of transforming human text into machine-understandable units of meaning (tokens), is a foundational step in language modeling. …",
+          "link": "https://digitalorientalist.com/2025/02/04/to-merge-or-not-to-merge-the-pitfalls-of-chinese-tokenization-in-general-purpose-llms/",
+          "publishedOn": "2025-02-04T14:00:00.000Z",
+          "wordCount": 5555,
+          "title": "To Merge or Not to Merge: The Pitfalls of Chinese Tokenization in General-Purpose LLMs",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/02/tokenizationbackground-3.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14827",
           "author": "Mariana Zorkina",
           "description": "This year’s Editor’s Digest for Chinese Studies falls right after the Chinese New Year, so first of all let me …",
@@ -2547,6 +2557,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2025/02/05/ten-years-of-data-the.html",
+          "author": null,
+          "description": "I’ve created a new dataset containing 10 years of data that can be used to explore the workings of the National Archives of Australia’s access examination system.\n\r\nAustralian government records become available for public access after 20 years. But before being opened to the public, records go through a  process known as access examination to determine whether they should be withheld, either partially or completely. The grounds for exemption are laid out in the Archives Act and include things like national security and personal privacy. If a record is completely withheld from access, the NAA’s database, RecordSearch, records its access status as ‘closed’.\nOn or about 1 January every year since 2016, I’ve harvested details of files in RecordSearch with the access status of ‘closed’. On the day when the media is full of revelations from the public release of the latest batch of cabinet records, I thought it was important to find out what we couldn’t see, as well as what we could. I’ve now published all the annual harvests as a dataset on Zenodo.\nIt’s important to note that records can be re-examined and their access status can change. Also some ‘closed’ files are actually ‘withheld  pending advice’ – in these cases a final access decision hasn’t been made as the NAA has referred the files to their controlling agencies for advice. This means that this dataset should be treated as providing annual snapshots of an active system, not a cumulative record of closed files. Some of the complexities of the access examination system revealed by this data are discussed in the Inside Story article ‘Withheld pending advice’. I’m hoping to do some more analysis later this year.",
+          "link": "https://updates.timsherratt.org/2025/02/05/ten-years-of-data-the.html",
+          "publishedOn": "2025-02-05T02:26:30.000Z",
+          "wordCount": 357,
+          "title": "Ten years of data! The files you're not allowed to see in the National Archives of Australia",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/screenshot-from-2025-02-05-13-23-15.png"
+        },
         {
           "id": "http://wragge.micro.blog/2025/01/31/a-community-data-lab-cdl.html",
           "author": null,
@@ -4570,16 +4590,6 @@
           "wordCount": 1969,
           "title": "A Look at DRI’s Expert Advisory Group",
           "imageUrl": "https://dri.ie/app/uploads/2024/03/public-engagement-2-1.png"
-        },
-        {
-          "id": "https://dri.ie/?post_type=news&p=34223",
-          "author": "Lorraine Marrey",
-          "description": "This is the first in a series of blog posts about DPASSH conference 2024. Chair of the DPASSH organising committee and DRI’s Training and Engagement Manager Lorraine Marrey gives us an overview of this year’s conference. The Digital Repository of Ireland has been running DPASSH since 2015 and it has become a stalwart in the […]\nThe post Digital Preservation for the Arts, Social Sciences & Humanities (DPASSH) Conference 2024. appeared first on Digital Repository Ireland.",
-          "link": "https://dri.ie/news/dpassh-conference-2024/",
-          "publishedOn": "2024-08-09T14:46:50.000Z",
-          "wordCount": 1826,
-          "title": "Digital Preservation for the Arts, Social Sciences & Humanities (DPASSH) Conference 2024.",
-          "imageUrl": "https://dri.ie/app/uploads/2024/08/Panos-at-DPASSH-1.jpg"
         }
       ]
     },
