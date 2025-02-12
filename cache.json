@@ -989,6 +989,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14812",
+          "author": "BRIAN Wong",
+          "description": "Introduction In 2021, Japan’s NDL launched a project to digitise around 300,000 books (approximately 45 million digital images) in that …",
+          "link": "https://digitalorientalist.com/2025/02/11/unearthing-modern-japans-subterranean-networks-with-the-national-diet-librarys-ndl-full-text-search-system-part-1-kugimiya-iwao-and-the-circles-of-orthodox-christians/",
+          "publishedOn": "2025-02-11T14:00:00.000Z",
+          "wordCount": 6317,
+          "title": "Unearthing Modern Japan’s Subterranean Networks with the National Diet Library’s (NDL) Full-Text Search System (Part 1): Kugimiya Iwao and the Circles of Orthodox Christians",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/01/image-17.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14838",
           "author": "Maciej Kurzynski",
           "description": "Tokenization, the process of transforming human text into machine-understandable units of meaning (tokens), is a foundational step in language modeling. …",
@@ -1773,16 +1783,6 @@
           "wordCount": 353,
           "title": "En Marge Du Journal d'Helene Berr",
           "imageUrl": null
-        },
-        {
-          "id": "1298 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Academic Title: \n\nProfessor of History of Art\n\n\n\nJulie Nelson Davis specializes in the arts and material cultures of eighteenth- and nineteenth-century Japan, with a focus on prints, paintings, and illustrated books. One of the leaders in the field of ukiyo-e (“images of the floating world”), Davis takes an interdisciplinary approach to understanding these works in context, exploring issues related to artistic practice, authorship, gender, and censorship, among others. Selected as a Guggenheim Fellow for 2021, Davis is working on a new project about imitation, homage, and fabrication in ukiyo-e painting as well as second project on artist Katsushika Hokusai (1760-1849) and illustrated books.\n\n\nFellowship Date: \n\nAugust, 2024—August, 2025",
-          "link": "https://pricelab.sas.upenn.edu/fellows/nelson-julie",
-          "publishedOn": "2024-08-16T20:09:41.000Z",
-          "wordCount": 375,
-          "title": "Julie  Nelson",
-          "imageUrl": null
         }
       ]
     },
@@ -2406,16 +2406,6 @@
           "wordCount": 970,
           "title": "New Zotero translators for PROV and Queensland State Archives",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-08-22-11-53-45.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/08/16/explore-troves-digitised.html",
-          "author": null,
-          "description": "Trove contains thousands of digitised maps from the collections of the National Library of Australia, but they’re not always easy to find because of the way they’re arranged and described. To help you explore these maps I’ve created a new database and published it using Datasette.\nTry it now!\n\r\nTo get started, head to the map sheets table and search for some keywords. The results are displayed both as a cluster map using Leaflet, and as a table. To view the details of an individual map sheet, click on the id value.\n\r\nThe individual record displays a zoomable version of the map image. If the record includes geospatial coordinates, these are also displayed on a modern basemap. There are also options to download the map image as a JPEG or a high-resolution TIFF (if available). Where possible …",
-          "link": "https://updates.timsherratt.org/2024/08/16/explore-troves-digitised.html",
-          "publishedOn": "2024-08-16T03:27:20.000Z",
-          "wordCount": 650,
-          "title": "Explore Trove's digitised maps",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-08-16-12-39-50.png"
         }
       ]
     },
