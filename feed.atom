@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-02-14T08:27:50.651Z</updated>
+    <updated>2025-02-15T08:25:34.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Resources for Kanjur and Tanjur Studies: Introduction and Review]]></title>
+        <id>http://digitalorientalist.com/?p=14497</id>
+        <link href="https://digitalorientalist.com/2025/02/14/resources-for-kanjur-and-tanjur-studies-introduction-and-review/"/>
+        <updated>2025-02-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Resources for Kanjur & Tanjur Studies (rKTs) is an open-access digital platform that is currently the largest database of …]]></summary>
+        <author>
+            <name>Rachael Griffiths</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DH2027 is in Galway!]]></title>
         <id>https://adho.org/?p=4491</id>
@@ -4525,16 +4535,6 @@ While you can use it instead of commercial reference managers like EndNote, Zote
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Penn Library’s LJS 453 – [Commentaries on Aristotle]. (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18261</id>
-        <link href="https://schoenberginstitute.org/2024/08/19/manuscript-monday-penn-librarys-ljs-453-commentaries-on-aristotle-video-orientation/"/>
-        <updated>2024-08-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 453, 15th-century copies of 13th- and 14th-century Hebrew translations of 12th-century commentaries by Averroës on scientific works attributed to Aristotle (De caelo, De mundo, De generatione et corruptione, Meteorologica) and a Hebrew translation of Aristotle’s Book 9Continue reading "Manuscript Monday: Penn Library’s LJS 453 – [Commentaries on Aristotle]. (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best part of the Cambridge Data School?]]></title>
         <id>https://www.cdh.cam.ac.uk/media/blog/best-part-of-the-cambridge-data-school/</id>
         <link href="https://www.cdh.cam.ac.uk/media/blog/best-part-of-the-cambridge-data-school/"/>
@@ -4552,28 +4552,6 @@ While you can use it instead of commercial reference managers like EndNote, Zote
         <summary type="html"><![CDATA[What happens when you bring together dozens of actors, writers, designers and developers to experiment with technical theatre? The Cambridge Theatre Hackathon set out to find out. The inaugural event, supported by funding from Cambridge Digital Humanities, took place 19-20 May, 2023. The hybrid teams, with participants from around the world, created, rehearsed and performed]]></summary>
         <author>
             <name>CDH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Sustainable Shared Authority. Ensuring the Future of Rondo’s Past]]></title>
-        <id>5138 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/sustainable-shared-authority-ensuring-future-rondos-past"/>
-        <updated>2024-08-19T11:38:12.000Z</updated>
-        <summary type="html"><![CDATA[Rondo is a predominantly African American neighborhood in St. Paul, Minnesota, with a familiar story. Across the United States in the 1950s and 1960s, an estimated 1,600 communities of color were destroyed by highway construction. Rondo was one of these neighborhoods, sacrificed to the asphalt as cities across the country weaponized their arteries by building “white roads through Black bedrooms.”
-Marvin Anderson remembers what the City of St. Paul did to his neighborhood, and he has made it his life’s mission to Remember Rondo. In 2015, Mr. Anderson and Rebecca Wingo joined forces to create RememberingRondo.org, a vibrant history hub with a community-based digital archive, a map of Rondo’s historic businesses, and much more. While Wingo’s academic institution initially hosted the project, …]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archiving in times of climate crisis. Selecting, digitizing, analyzing for tomorrow]]></title>
-        <id>5137 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/archiving-times-climate-crisis-selecting-digitizing-analyzing-tomorrow"/>
-        <updated>2024-08-19T06:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Archiving has always been about selecting, preserving and making available. But while historians and archivists share a common interest in archived information, their vision of material relevance and record-keeping occasionally differ. Additionally to this ancient divide, digital archiving has brought new challenges for both communities.
-In this paper, I will first discuss conceptual continuity lines between analog and digital archiving of textual material at a general level. In a second step, I will examine both analog and digital archiving under the lens of their environmental footprint and the challenges it brings about in a context of resource shortage like the climate and biodiversity crisis. I will not concentrate solely on strategies pertaining to the archived material itself, but w…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>

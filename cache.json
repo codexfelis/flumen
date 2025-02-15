@@ -989,6 +989,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=14497",
+          "author": "Rachael Griffiths",
+          "description": "The Resources for Kanjur & Tanjur Studies (rKTs) is an open-access digital platform that is currently the largest database of …",
+          "link": "https://digitalorientalist.com/2025/02/14/resources-for-kanjur-and-tanjur-studies-introduction-and-review/",
+          "publishedOn": "2025-02-14T14:00:00.000Z",
+          "wordCount": 5232,
+          "title": "Resources for Kanjur and Tanjur Studies: Introduction and Review",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/01/rkts.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=14812",
           "author": "BRIAN Wong",
           "description": "Introduction In 2021, Japan’s NDL launched a project to digitise around 300,000 books (approximately 45 million digital images) in that …",
@@ -2015,16 +2025,6 @@
           "wordCount": 5487,
           "title": "Manuscript Monday: Penn Library’s LJS 454 – Seiyō senpaku zukai / 西洋舩舶圖解 (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/07/screenshot-2024-07-29-at-9.32.49e280afam.png"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18261",
-          "author": "simsmss",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 453, 15th-century copies of 13th- and 14th-century Hebrew translations of 12th-century commentaries by Averroës on scientific works attributed to Aristotle (De caelo, De mundo, De generatione et corruptione, Meteorologica) and a Hebrew translation of Aristotle’s Book 9Continue reading \"Manuscript Monday: Penn Library’s LJS 453 – [Commentaries on Aristotle]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/08/19/manuscript-monday-penn-librarys-ljs-453-commentaries-on-aristotle-video-orientation/",
-          "publishedOn": "2024-08-19T13:00:00.000Z",
-          "wordCount": 5577,
-          "title": "Manuscript Monday: Penn Library’s LJS 453 – [Commentaries on Aristotle]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/07/screenshot-2024-07-29-at-9.29.06e280afam.png"
         }
       ]
     },
@@ -2819,26 +2819,6 @@
           "wordCount": 689,
           "title": "Children as Contributors and Collaborators in Public History",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/patterson_talk_full_width.png?itok=c25RXLsp"
-        },
-        {
-          "id": "5138 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Rondo is a predominantly African American neighborhood in St. Paul, Minnesota, with a familiar story. Across the United States in the 1950s and 1960s, an estimated 1,600 communities of color were destroyed by highway construction. Rondo was one of these neighborhoods, sacrificed to the asphalt as cities across the country weaponized their arteries by building “white roads through Black bedrooms.”\nMarvin Anderson remembers what the City of St. Paul did to his neighborhood, and he has made it his life’s mission to Remember Rondo. In 2015, Mr. Anderson and Rebecca Wingo joined forces to create RememberingRondo.org, a vibrant history hub with a community-based digital archive, a map of Rondo’s historic businesses, and much more. While Wingo’s academic institution initially hosted the project, …",
-          "link": "https://www.c2dh.uni.lu/events/sustainable-shared-authority-ensuring-future-rondos-past",
-          "publishedOn": "2024-08-19T11:38:12.000Z",
-          "wordCount": 632,
-          "title": "A Sustainable Shared Authority. Ensuring the Future of Rondo’s Past",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/grotto_-_concordia_-_old_rondo_full_width.jpg?itok=nxQ0blvU"
-        },
-        {
-          "id": "5137 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Archiving has always been about selecting, preserving and making available. But while historians and archivists share a common interest in archived information, their vision of material relevance and record-keeping occasionally differ. Additionally to this ancient divide, digital archiving has brought new challenges for both communities.\nIn this paper, I will first discuss conceptual continuity lines between analog and digital archiving of textual material at a general level. In a second step, I will examine both analog and digital archiving under the lens of their environmental footprint and the challenges it brings about in a context of resource shortage like the climate and biodiversity crisis. I will not concentrate solely on strategies pertaining to the archived material itself, but w…",
-          "link": "https://www.c2dh.uni.lu/events/archiving-times-climate-crisis-selecting-digitizing-analyzing-tomorrow",
-          "publishedOn": "2024-08-19T06:28:20.000Z",
-          "wordCount": 568,
-          "title": "Archiving in times of climate crisis. Selecting, digitizing, analyzing for tomorrow",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_handson_history-content-list-grey.png?itok=0EHc2jFn"
         }
       ]
     },
