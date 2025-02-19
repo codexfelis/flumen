@@ -241,16 +241,6 @@
           "wordCount": 525,
           "title": "CAA ESC Election Results",
           "imageUrl": "https://caa-international.org/wp-content/themes/caa-theme-v2/images/favicon-light-mode.png"
-        },
-        {
-          "id": "https://caa-international.org/?p=18006",
-          "author": "Lisa Fischer",
-          "description": "Only a few days left to run for an Executive Steering Committee post!  Members of CAA’s Executive Steering Committee play a vital role in leading the organisation, supporting the annual conference, and encouraging the continued growth of a diverse and inspiring community. All current members are eligible to run for one of three open positions: […]",
-          "link": "https://caa-international.org/2024/08/22/call-for-officers-open-through-27-august/",
-          "publishedOn": "2024-08-22T22:37:55.000Z",
-          "wordCount": 558,
-          "title": "Call for Officers open through 27 August",
-          "imageUrl": "https://caa-international.org/wp-content/themes/caa-theme-v2/images/favicon-light-mode.png"
         }
       ]
     },
@@ -767,6 +757,16 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/978",
+          "author": "434",
+          "description": "Pressemitteilung der Herzog August Bibliothek Wolfenbüttel, 17.02.2025\nSeit der Veröffentlichung des ersten Sonderbands am 19. Februar 2015 hat sich die Zeitschrift für digitale…",
+          "link": "https://dig-hum.de/aktuelles/zeitschrift-f%C3%BCr-digitale-geisteswissenschaften-eine-dekade-im-dienst-der-digitalen",
+          "publishedOn": "2025-02-18T10:25:38.000Z",
+          "wordCount": 1206,
+          "title": "Zeitschrift für digitale Geisteswissenschaften:  Eine Dekade im Dienst der digitalen Transformation",
+          "imageUrl": null
+        },
+        {
           "id": "node/977",
           "author": "434",
           "description": "Unsere ehemalige Vorsitzende und Mitglied des Gründungsvorstands Prof. Dr. Claudine Moulin wurde gestern auf Vorschlag von Ministerpräsidentin a. D. Malu Dreyer von…",
@@ -978,6 +978,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=14948",
+          "author": "Ephrem A. Ishac",
+          "description": "Readers of The Digital Orientalist, you are among the first to know! Today’s post is dedicated to the release of …",
+          "link": "https://digitalorientalist.com/2025/02/18/from-vienna-to-the-world-launching-the-first-public-syriac-htr-model-on-transkribus/",
+          "publishedOn": "2025-02-18T14:00:00.000Z",
+          "wordCount": 5303,
+          "title": "From Vienna to the World: Launching the First Public Syriac HTR Model on Transkribus",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/02/isp-and-htr-.jpg?w=1200"
+        },
         {
           "id": "http://digitalorientalist.com/?p=14497",
           "author": "Rachael Griffiths",
@@ -1472,7 +1482,28 @@
       "title": "ALLC RSS",
       "feedUrl": "https://eadh.org/feed",
       "siteUrl": "https://eadh.org/feed",
-      "articles": []
+      "articles": [
+        {
+          "id": "1475 at https://eadh.org",
+          "author": "Communication Coordinator",
+          "description": "18 Feb 2025 - 00:00\n\n\n\nUniversity of Galway wins bid for ADHO DH2027\n\n\n\nThe Trustees and Executive Committee of the European Association of Digital Humanities are pleased to announce that the ADHO DH 2027 conference will be held at the University of Galway! The bid was sponsored by EADH, and we also nominated six potential Program Committee Co-Chairs. The ADHO Constituent Organizations Board formally voted on 12 February 2025 to accept the bid, and elected Dr. Órla Murphy and Prof. Dr. Christof Schöch to serve as PC Co-Chairs. The Local Organizing team in Ireland is headed by Dr. Raluca Tanasescu, who worked very hard with her team to organize the impressive bid in a short time span. Congratulations to Órla, Christof, Raluca, and to the University of Galway!",
+          "link": "https://eadh.org/news/2025/02/18/university-galway-wins-bid-adho-dh2027",
+          "publishedOn": "2025-02-18T16:33:00.000Z",
+          "wordCount": 472,
+          "title": "University of Galway wins bid for ADHO DH2027",
+          "imageUrl": null
+        },
+        {
+          "id": "1474 at https://eadh.org",
+          "author": "Communication Coordinator",
+          "description": "1 Jan 2025 - 00:00\n\n\n\nProfessor Melissa Terras MBE\n\n\n\nThe Trustees and Executive Committee wish to extend our deepest congratulations to Professor Melissa Terras, former Secretary of EADH, on her recognition as a Member of the Order of the British Empire (MBE) in the 2025 New Year’s Honours List for services to the Digital Humanities. Professor Terras has been a long-time supporter of EADH and an active and dedicated member of the Editorial Board of our journal, DSH Digital Scholarship in the Humanities. Congratulations to Melissa on this recognition of her extraordinary contributions to our discipline!",
+          "link": "https://eadh.org/news/2025/02/18/professor-melissa-terras-mbe",
+          "publishedOn": "2025-02-18T16:28:02.000Z",
+          "wordCount": 436,
+          "title": "Professor Melissa Terras MBE",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "eScripta",
@@ -2237,6 +2268,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2025/02/19/search-the-content-of-periodicals.html",
+          "author": null,
+          "description": "I’ve added a notebook to the GLAM Workbench that walks through the steps involved in creating a fully searchable database of content extracted from a periodical uploaded to Trove through the National eDeposit service (NED).\nWhy is this needed?\nI was contacted recently by a member of the team that publishes The Triangle, a community newsletter from the south coast of NSW. Issues of The Triangle from 2007 to the present have been uploaded to Trove through the National eDeposit service, but they were wondering whether it was possible to search across all their newsletters in Trove. Unfortunately, the answer is no.\nIssues of The Triangle are saved in Trove as PDFs with a searchable text layer. Individual issues can be browsed and searched using the built-in PDF viewer, but there seems to be no…",
+          "link": "https://updates.timsherratt.org/2025/02/19/search-the-content-of-periodicals.html",
+          "publishedOn": "2025-02-19T04:12:41.000Z",
+          "wordCount": 1252,
+          "title": "Search the content of periodicals uploaded to Trove through the National eDeposit service",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/screenshot-from-2025-02-19-14-44-59.png"
+        },
         {
           "id": "http://wragge.micro.blog/2025/02/05/ten-years-of-data-the.html",
           "author": null,
