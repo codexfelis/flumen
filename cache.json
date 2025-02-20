@@ -757,6 +757,16 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/979",
+          "author": "434",
+          "description": "Liebe DHd-Community, \nnach über zwei Jahren harter Arbeit ist es endlich soweit – der Startschuss für die neu gestaltete DHd-Website rückt immer näher. Wir freuen uns, den…",
+          "link": "https://dig-hum.de/aktuelles/die-neue-dhd-website-ist-bald-fertig",
+          "publishedOn": "2025-02-19T10:14:31.000Z",
+          "wordCount": 1145,
+          "title": "Die neue DHd-Website ist bald fertig!",
+          "imageUrl": null
+        },
+        {
           "id": "node/978",
           "author": "434",
           "description": "Pressemitteilung der Herzog August Bibliothek Wolfenbüttel, 17.02.2025\nSeit der Veröffentlichung des ersten Sonderbands am 19. Februar 2015 hat sich die Zeitschrift für digitale…",
@@ -1484,6 +1494,16 @@
       "siteUrl": "https://eadh.org/feed",
       "articles": [
         {
+          "id": "1476 at https://eadh.org",
+          "author": "Communication Coordinator",
+          "description": "19 Feb 2025 - 00:00\n\n\n\nCall for EADH Communication Manager\n\n\n\nCall for Communications Manager\nThe European Association for Digital Humanities (EADH) seeks applicants for the role of Communications Manager.\nWorking together with our Executive Committee, the Communications Manager will write news releases, maintain EADH's website, update its slider with new project descriptions, and disseminate news through our social media channels. The person fulfilling this role should anticipate spending approximately 2-3 hours per week on the position. The role comes with a small annual stipend of €2,000, paid in quarterly instalments. The role is well suited for those who wish to develop deeper knowledge of digital humanities in Europe and gain professional experience in social media and communications.\nDesired skills include:\nattention to detail\nsome knowledge of digital humanities communities in Europe\nexcellent written communication skills in English and in a second European language\nexperience creating and publishing content (Drupal or WordPress)\nexperience with social media platforms\nskills in graphic design (Photoshop, GIMP)\nTo apply, submit a CV or résumé and a short cover letter describing your interest in, and qualifications for, the position to Zoe Screti, the Secretary of EADH (secretary@eadh.org).\nThe application deadline is 28 February 2025.",
+          "link": "https://eadh.org/news/2025/02/19/call-eadh-communication-manager",
+          "publishedOn": "2025-02-19T16:26:27.000Z",
+          "wordCount": 539,
+          "title": "Call for EADH Communication Manager",
+          "imageUrl": null
+        },
+        {
           "id": "1475 at https://eadh.org",
           "author": "Communication Coordinator",
           "description": "18 Feb 2025 - 00:00\n\n\n\nUniversity of Galway wins bid for ADHO DH2027\n\n\n\nThe Trustees and Executive Committee of the European Association of Digital Humanities are pleased to announce that the ADHO DH 2027 conference will be held at the University of Galway! The bid was sponsored by EADH, and we also nominated six potential Program Committee Co-Chairs. The ADHO Constituent Organizations Board formally voted on 12 February 2025 to accept the bid, and elected Dr. Órla Murphy and Prof. Dr. Christof Schöch to serve as PC Co-Chairs. The Local Organizing team in Ireland is headed by Dr. Raluca Tanasescu, who worked very hard with her team to organize the impressive bid in a short time span. Congratulations to Órla, Christof, Raluca, and to the University of Galway!",
@@ -1516,6 +1536,16 @@
       "feedUrl": "https://force11.org/rss",
       "siteUrl": "https://force11.org",
       "articles": [
+        {
+          "id": "https://force11.org/?p=152664",
+          "author": "FORCE11 Admin",
+          "description": "Many of the FORCE11 Working Groups are actively recruiting members. We invite you to support the community’s work by joining them.",
+          "link": "https://force11.org/post/shape-the-future-of-scholarly-communications-join-force11-working-groups/",
+          "publishedOn": "2025-02-20T06:46:06.000Z",
+          "wordCount": 3637,
+          "title": "Shape the Future of Scholarly Communications – Join FORCE11 Working Groups",
+          "imageUrl": null
+        },
         {
           "id": "https://force11.org/?p=151445",
           "author": "Iratxe Puebla",
@@ -1822,6 +1852,21 @@
       "feedUrl": "https://radihum20.de/feed",
       "siteUrl": "https://radihum20.de/",
       "articles": [
+        {
+          "id": "https://radihum20.de/?p=1058",
+          "author": "Clara Helmig",
+          "description": "Willkommen zur ersten Folge unserer achten Staffel! Diesmal dreht sich alles um die DHd2025, die vom 3. bis 7. März in Bielefeld unter dem Motto „Under Construction“ stattfindet. Wir haben das Vergnügen in dieser Podcastfolge mit Berenike Hermann, Silke Schwandt und Marja Kersten aus dem Organisationsteam zu sprechen. Sie geben uns Einblicke in die Organisation […]\nDer Beitrag RaDiHum20 spricht mit Berenike, Silke und Marja vom Orgateam der DHd2025 erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/radihum20-spricht-dem-orgateam-der-dhd2025/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-spricht-dem-orgateam-der-dhd2025",
+          "publishedOn": "2025-02-20T07:10:00.000Z",
+          "wordCount": 2810,
+          "title": "RaDiHum20 spricht mit Berenike, Silke und Marja vom Orgateam der DHd2025",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/Folge1_Staffel8.mp3",
+            "length": "41775460",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://radihum20.de/?p=1048",
           "author": "Clara Helmig",
@@ -2268,6 +2313,26 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2025/02/20/the-primary-source-glam-collection.html",
+          "author": null,
+          "description": "I’ve created a new site (or in fact, renovated an old site) to aggregate news from GLAM collections (that’s galleries, libraries, archives, and museums) and help researchers using those collections. It’s called The Primary Source which is a bit of a bad history pun.\n\r\nWhy is is needed?\nBefore the nazi takeover of the old bird site, I had a list of GLAM organisation accounts which made it pretty easy to follow what was going on in Australia’s galleries, libraries, archives, and museums. Things are more fragmented now and surviving social media accounts seem dominated by event promotion, cute videos, and cultural heritage clickbait. There are a few blogs (though apparently the fashion is to call them ‘stories’), but functioning RSS feeds are rare. How can researchers find out about new GLAM …",
+          "link": "https://updates.timsherratt.org/2025/02/20/the-primary-source-glam-collection.html",
+          "publishedOn": "2025-02-20T05:31:54.000Z",
+          "wordCount": 741,
+          "title": "The Primary Source – GLAM collection news and help",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/screenshot-from-2025-02-20-16-27-47.png"
+        },
+        {
+          "id": "http://wragge.micro.blog/2025/02/20/national-archives-of-australia-digitisation.html",
+          "author": null,
+          "description": "Since March 2021, I’ve been harvesting details of newly-digitised files in the National Archives of Australia to help document long-term changes to online access. A few weeks ago, I summarised the data from 2024, and published annual compilations in Zenodo. I’ve now created an automatically-updated dashboard which displays digitisation progress in the past week, the current year, and since my harvests began.\n\r\nEach week, after the latest data harvest, a GitHub action runs a Jupyter notebook that pulls in the data, generates some visualisations and summaries, and saves the results as an HTML page. It’s similar to the Trove newspaper data dashboard. Check in every Sunday afternoon to see what’s changed!",
+          "link": "https://updates.timsherratt.org/2025/02/20/national-archives-of-australia-digitisation.html",
+          "publishedOn": "2025-02-20T03:41:46.000Z",
+          "wordCount": 166,
+          "title": "National Archives of Australia Digitisation Dashboard",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/screenshot-from-2025-02-20-14-35-04.png"
+        },
         {
           "id": "http://wragge.micro.blog/2025/02/19/search-the-content-of-periodicals.html",
           "author": null,

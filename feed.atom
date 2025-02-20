@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-02-19T08:29:17.074Z</updated>
+    <updated>2025-02-20T08:28:47.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit Berenike, Silke und Marja vom Orgateam der DHd2025]]></title>
+        <id>https://radihum20.de/?p=1058</id>
+        <link href="https://radihum20.de/radihum20-spricht-dem-orgateam-der-dhd2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-spricht-dem-orgateam-der-dhd2025"/>
+        <updated>2025-02-20T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Willkommen zur ersten Folge unserer achten Staffel! Diesmal dreht sich alles um die DHd2025, die vom 3. bis 7. März in Bielefeld unter dem Motto „Under Construction“ stattfindet. Wir haben das Vergnügen in dieser Podcastfolge mit Berenike Hermann, Silke Schwandt und Marja Kersten aus dem Organisationsteam zu sprechen. Sie geben uns Einblicke in die Organisation […]
+Der Beitrag RaDiHum20 spricht mit Berenike, Silke und Marja vom Orgateam der DHd2025 erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Clara Helmig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shape the Future of Scholarly Communications – Join FORCE11 Working Groups]]></title>
+        <id>https://force11.org/?p=152664</id>
+        <link href="https://force11.org/post/shape-the-future-of-scholarly-communications-join-force11-working-groups/"/>
+        <updated>2025-02-20T06:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Many of the FORCE11 Working Groups are actively recruiting members. We invite you to support the community’s work by joining them.]]></summary>
+        <author>
+            <name>FORCE11 Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Primary Source – GLAM collection news and help]]></title>
+        <id>http://wragge.micro.blog/2025/02/20/the-primary-source-glam-collection.html</id>
+        <link href="https://updates.timsherratt.org/2025/02/20/the-primary-source-glam-collection.html"/>
+        <updated>2025-02-20T05:31:54.000Z</updated>
+        <summary type="html"><![CDATA[I’ve created a new site (or in fact, renovated an old site) to aggregate news from GLAM collections (that’s galleries, libraries, archives, and museums) and help researchers using those collections. It’s called The Primary Source which is a bit of a bad history pun.
+
+Why is is needed?
+Before the nazi takeover of the old bird site, I had a list of GLAM organisation accounts which made it pretty easy to follow what was going on in Australia’s galleries, libraries, archives, and museums. Things are more fragmented now and surviving social media accounts seem dominated by event promotion, cute videos, and cultural heritage clickbait. There are a few blogs (though apparently the fashion is to call them ‘stories’), but functioning RSS feeds are rare. How can researchers find out about new GLAM …]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[National Archives of Australia Digitisation Dashboard]]></title>
+        <id>http://wragge.micro.blog/2025/02/20/national-archives-of-australia-digitisation.html</id>
+        <link href="https://updates.timsherratt.org/2025/02/20/national-archives-of-australia-digitisation.html"/>
+        <updated>2025-02-20T03:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Since March 2021, I’ve been harvesting details of newly-digitised files in the National Archives of Australia to help document long-term changes to online access. A few weeks ago, I summarised the data from 2024, and published annual compilations in Zenodo. I’ve now created an automatically-updated dashboard which displays digitisation progress in the past week, the current year, and since my harvests began.
+
+Each week, after the latest data harvest, a GitHub action runs a Jupyter notebook that pulls in the data, generates some visualisations and summaries, and saves the results as an HTML page. It’s similar to the Trove newspaper data dashboard. Check in every Sunday afternoon to see what’s changed!]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for EADH Communication Manager]]></title>
+        <id>1476 at https://eadh.org</id>
+        <link href="https://eadh.org/news/2025/02/19/call-eadh-communication-manager"/>
+        <updated>2025-02-19T16:26:27.000Z</updated>
+        <summary type="html"><![CDATA[19 Feb 2025 - 00:00
+
+
+
+Call for EADH Communication Manager
+
+
+
+Call for Communications Manager
+The European Association for Digital Humanities (EADH) seeks applicants for the role of Communications Manager.
+Working together with our Executive Committee, the Communications Manager will write news releases, maintain EADH's website, update its slider with new project descriptions, and disseminate news through our social media channels. The person fulfilling this role should anticipate spending approximately 2-3 hours per week on the position. The role comes with a small annual stipend of €2,000, paid in quarterly instalments. The role is well suited for those who wish to develop deeper knowledge of digital humanities in Europe and gain professional experience in social media and communications.
+Desired skills include:
+attention to detail
+some knowledge of digital humanities communities in Europe
+excellent written communication skills in English and in a second European language
+experience creating and publishing content (Drupal or WordPress)
+experience with social media platforms
+skills in graphic design (Photoshop, GIMP)
+To apply, submit a CV or résumé and a short cover letter describing your interest in, and qualifications for, the position to Zoe Screti, the Secretary of EADH (secretary@eadh.org).
+The application deadline is 28 February 2025.]]></summary>
+        <author>
+            <name>Communication Coordinator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die neue DHd-Website ist bald fertig!]]></title>
+        <id>node/979</id>
+        <link href="https://dig-hum.de/aktuelles/die-neue-dhd-website-ist-bald-fertig"/>
+        <updated>2025-02-19T10:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Liebe DHd-Community, 
+nach über zwei Jahren harter Arbeit ist es endlich soweit – der Startschuss für die neu gestaltete DHd-Website rückt immer näher. Wir freuen uns, den…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Search the content of periodicals uploaded to Trove through the National eDeposit service]]></title>
         <id>http://wragge.micro.blog/2025/02/19/search-the-content-of-periodicals.html</id>
