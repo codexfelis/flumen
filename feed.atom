@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-02-21T08:27:52.655Z</updated>
+    <updated>2025-02-22T08:25:01.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Medieval Georgian Manuscripts of Shahnameh Translations with Miniatures at the National Centre of  Manuscripts  of  Georgia (“Rostomiani”)]]></title>
+        <id>http://digitalorientalist.com/?p=15031</id>
+        <link href="https://digitalorientalist.com/2025/02/21/medieval-georgian-manuscripts-of-shahnameh-translations-with-miniatures-at-the-national-centre-of-manuscripts-of-georgia-rostomiani/"/>
+        <updated>2025-02-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest post by Helen Giunashvili | George Tsereteli Institute of Oriental Studies/Ilia State University  The Georgian manuscript tradition and …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RECOMMENDED: Data Rescue Efforts]]></title>
         <id>https://dhandlib.org/?p=183523</id>
@@ -4736,29 +4746,6 @@ The post Bridging the Gap: Gale Primary Sources and Gale Digital Scholar Lab app
 According to the group description:
 This group is aimed at collections  professionals such as archivists, librarians, records managers and  museum curators, as well as related professions such as IT  professionals, knowledge scientists, and those involved in standards  development, who serve in a range of critical roles: as experts in  ensuring access, preservation, and reuse of digital records, objects,  data, and collections; as provocateurs for good collections curation  practices; and as advocates for the construction of responsible and  sustainable infrastructures for information sharing.
 The group has been ru…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Penn Library’s LJS 454 – Seiyō senpaku zukai / 西洋舩舶圖解 (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18265</id>
-        <link href="https://schoenberginstitute.org/2024/08/26/manuscript-monday-penn-librarys-ljs-454-seiyo-senpaku-zukai-%e8%a5%bf%e6%b4%8b%e8%88%a9%e8%88%b6%e5%9c%96%e8%a7%a3-video-orientation/"/>
-        <updated>2024-08-26T13:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 454, a scroll of diagrams and text concerning the construction and compartmentalization of European ships, referred to as battleships, all on the recto side. At the top of the scroll is a thin piece of wood andContinue reading "Manuscript Monday: Penn Library’s LJS 454 – Seiyō senpaku zukai / 西洋舩舶圖解 (Video Orientation)"]]></summary>
-        <author>
-            <name>simsmss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More datasets added to GLAM Name Index Search – now almost 12 million rows of data!]]></title>
-        <id>http://wragge.micro.blog/2024/08/26/more-datasets-added.html</id>
-        <link href="https://updates.timsherratt.org/2024/08/26/more-datasets-added.html"/>
-        <updated>2024-08-26T07:54:48.000Z</updated>
-        <summary type="html"><![CDATA[The GLAM Name Index Search brings datasets from 10 Australian GLAM organisations together into a single  search interface. All these datasets index collections by people’s  names, so with one search you can find information about individuals  across a broad range of records, locations, and periods. It was created as an experiment during Family History Week in 2021, so I thought I’d update it for Family History Week 2024.
-The update added 18 new datasets, so the GLAM Name Index Search now includes 279 datasets from 10 organisations – almost 12 million rows of data!
-Start exploring now!
-Most of the datasets come from government open data portals, so the GLAM Name Index Search is also a demonstration the value of data sharing. By making these datasets openly available, GLAM organisations supp…]]></summary>
         <author>
             <name>Tim Sherratt</name>
         </author>
