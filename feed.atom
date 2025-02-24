@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-02-23T08:26:43.723Z</updated>
+    <updated>2025-02-24T08:29:58.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[15 years of work on Trove threatened by the NLA]]></title>
+        <id>http://wragge.micro.blog/2025/02/24/years-of-work-on-trove.html</id>
+        <link href="https://updates.timsherratt.org/2025/02/24/years-of-work-on-trove.html"/>
+        <updated>2025-02-24T01:02:48.000Z</updated>
+        <summary type="html"><![CDATA[On Friday, without warning, I received an email from the National Library of Australia informing me that my Trove API keys had been suspended. This threatens the future of 15 years of work helping people use and understand the possibilities of Trove for new types of research.
+What’s happened?
+Here’s the full text of the email:
+Your recently published work on the GLAM Workbench regarding extracting metadata and text from a National e-Deposit (NED) periodical has been brought to the Library’s attention.
+Trove API Terms of Use specify that developers may access metadata only and do not provide extended rights. We consider the use of an API to extract and save full text as being in violation of the Terms of Use.
+Effective immediately, the four API keys currently registered to you: glamworkbenc…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Medieval Georgian Manuscripts of Shahnameh Translations with Miniatures at the National Centre of  Manuscripts  of  Georgia (“Rostomiani”)]]></title>
         <id>http://digitalorientalist.com/?p=15031</id>
@@ -4627,102 +4642,6 @@ Commonwealth Hansard is made available online through ParlInfo (there’s an alt
 I started pulling data out o…]]></summary>
         <author>
             <name>Tim Sherratt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VCEditor 2.0 has received an NEH Digital Humanities Advancement Grant]]></title>
-        <id>http://schoenberginstitute.org/?p=18290</id>
-        <link href="https://schoenberginstitute.org/2024/08/28/vceditor-2-0-has-received-an-neh-digital-humanities-advancement-grant/"/>
-        <updated>2024-08-28T15:00:25.000Z</updated>
-        <summary type="html"><![CDATA[SIMS is thrilled to announce that the VisColl team has received a three-year grant from the National Endowment for the Humanities Digital Humanities Advancement Grants program to fund the VCEditor 2.0 Project. The grant will support work undertaken by staff in the Schoenberg Institute for Manuscript Studies and the Penn Libraries Digital Library Development team.Continue reading "VCEditor 2.0 has received an NEH Digital Humanities Advancement Grant"]]></summary>
-        <author>
-            <name>dotporter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAN: Movimiento Audiovisual en Nuevitas]]></title>
-        <id>1301 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/projects/man-movimiento-audiovisual-en-nuevitas"/>
-        <updated>2024-08-28T14:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Project Start Date: 
-
-August, 2024
-
-
-
-El Movimiento Audiovisual en Nuevitas (MAN) hace referencia a la gestión comunitaria (producción, alfabetización audiovisual, exhibición y distribución) que un grupo de jóvenes viene desarrollando en esta localidad desde el año 2007. Esta iniciativa en principio se encuentra deslindada de la institución política-cultural oficial cubana. Responde al concurso de los esfuerzos de sus integrantes y de los pobladores del municipio. En materia de formación profesional artística el núcleo central proviene de las Escuelas de Instructores de Arte en las especialidades de Teatro, Plástica, Música y Danza. La curva de aprendizaje en materia de realización audiovisual se sustenta en la práctica y participación en talleres, conferencias, cursos, festivales y otras experiencias educativa-formativas. Hasta la fecha se han producido alrededor de 100 materiales entre ficciones, documentales, videos musicales, video arte y carteles. Desde el año 2012 organizan la muestra de audiovisuales Hieroscopia con carácter anual. En ella se exhiben tanto las obras producidas por el MAN como de otros espacios de producción comunitaria en Cuba. El encuentro sirve también para el intercambio teórico sobre la práctica audiovisual aprovechando la presencia de realizadores, críticos, periodistas y en general, personal disímil que se dedica a lo cinematográfico en la isla. Por la constancia en el trabajo, la gestión de espacios para la creación y el debate y la vocación por la superación técnica y estética, el MAN se ha convertido en un foco del audiovisual cubano contemporáneo.
-
-
-Insert an Image: 
-
-
-
-
-Project Principal Investigator: 
-
-Armando   Navarro-Rojas]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Children as Contributors and Collaborators in Public History]]></title>
-        <id>5141 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/children-contributors-and-collaborators-public-history"/>
-        <updated>2024-08-28T13:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Over the past several decades, great strides have been made to democratize public history. As one of the main cultural sites where public history is engaged, museums play a critical role in not only educating the public, but, increasingly, learning from the public about the past, and its significance in the present and future. Ongoing calls for deeper and more diverse forms of participation, power sharing, and collaboration have brought a wider range of perspectives and participants into the processes of producing history for public engagement. But museum practitioners’ engagement with children often remains stuck in outmoded, hierarchical dynamics that fail to recognize children’s capacities as contributors and collaborators in public historical work. Very few museum institutions engage w…]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Marge Du Journal d'Helene Berr]]></title>
-        <id>1299 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/projects/en-marge-du-journal-dhelene-berr"/>
-        <updated>2024-08-27T20:29:59.000Z</updated>
-        <summary type="html"><![CDATA[The annotated diary of Helene Berr
-
-
-Project Start Date: 
-
-August, 2024
-
-
-
-Helene Berr (1921 – 1945) was a young Jewish woman living in Paris during the Nazi occupation. She recorded her experiences and particularly her community relationships in a diary. This project provides transcriptions and context for some of those diary entries.
-https://enmargedujournaldhb.com/
-
-
-Website: 
-
-En Marge Du Journal d'Helene Berr
-
-
-Principal Investigator(s): 
-
-Mélanie  Péron
-
-
-Insert an Image: 
-
-
-
-
-Co-Investigators: 
-
-Iris Péron, technical lead
-
-
-Project Principal Investigator: 
-
-Mélanie  Péron
-
-
-Project Team Heading: 
-
-Project Team Members]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
         </author>
     </entry>
     <entry>
