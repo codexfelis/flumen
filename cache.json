@@ -2247,6 +2247,16 @@
       "siteUrl": "https://sites.temple.edu/tudsc",
       "articles": [
         {
+          "id": "https://sites.temple.edu/tudsc/?p=9344",
+          "author": "Matt Shoemaker",
+          "description": "Two weeks ago a group of Temple students, faculty, and staff came together to explore a land poised to fall into the hands of a dark force. Those in attendance had to...",
+          "link": "https://sites.temple.edu/tudsc/2025/02/24/visiting-a-land-of-twilight/?utm_source=rss&utm_medium=rss&utm_campaign=visiting-a-land-of-twilight",
+          "publishedOn": "2025-02-24T19:57:34.000Z",
+          "wordCount": 3485,
+          "title": "Visiting a Land of Twilight",
+          "imageUrl": null
+        },
+        {
           "id": "https://sites.temple.edu/tudsc/?p=9295",
           "author": "Jessica Braum",
           "description": "In recent years, digital humanities tools have opened new avenues for research across various fields, enabling the visualization of complex data in ways previously unattainable. My ongoing project, which examines Kim Lim’s...",
@@ -2512,16 +2522,6 @@
           "wordCount": 419,
           "title": "Saving Trove's digitised periodicals as PDFs",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-09-19-12-42-49.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/08/29/the-future-and.html",
-          "author": null,
-          "description": "Don’t panic! Historic Hansard is not closing down – on the contrary, I’m planning a major update in the next few months. But as I look to the future, I thought it was a good time to pull together a few threads documenting my adventures with Commonwealth Hansard.\nThe past\nCommonwealth Hansard is made available online through ParlInfo (there’s an alternative search interface here). The Parliamentary Library has invested a lot of time and effort in  converting the printed volumes into nicely-structured XML files which break up the sitting day into debates and speeches, and identify individual speakers. For the most part, there’s one XML file for each sitting day in each house. However, there’s currently a gap between 1981 and 1997 where no XML files are available.\nI started pulling data out o…",
-          "link": "https://updates.timsherratt.org/2024/08/29/the-future-and.html",
-          "publishedOn": "2024-08-29T03:59:45.000Z",
-          "wordCount": 1261,
-          "title": "The future (and past) of Historic Hansard",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-08-29-13-39-41.png"
         }
       ]
     },
@@ -3980,6 +3980,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "8636 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "Embedding OSCARS Projects in the RI Landscape\n\n            \n Fostering Synergies at the CLARIN General Assembly in Leuven\n \nOn 6 February, the winning proposals of the first OSCARS Open Call for Open Science projects and services dealing with language data were invited to the CLARIN General Assembly (GA) meeting in Leuven, Belgium. In three sessions, four grant winners discussed their project plans, needs and open questions with representatives of CLARIN. Exchanges with the national nodes, the CLARIN \n    \nEuropean Research Infrastructure Consortium     see: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\n   Board of Directors and the representatives of the CLARIN's Central Hub were aimed at maximising sy…",
+          "link": "https://www.clarin.eu/blog/embedding-oscars-projects-ri-landscape",
+          "publishedOn": "2025-02-24T09:33:25.000Z",
+          "wordCount": 913,
+          "title": "Embedding OSCARS Projects in the RI Landscape",
+          "imageUrl": null
+        },
         {
           "id": "8632 at https://www.clarin.eu",
           "author": "Dieter Van Uytvanck",

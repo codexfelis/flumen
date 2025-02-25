@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-02-24T08:29:58.109Z</updated>
+    <updated>2025-02-25T08:29:11.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Visiting a Land of Twilight]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=9344</id>
+        <link href="https://sites.temple.edu/tudsc/2025/02/24/visiting-a-land-of-twilight/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=visiting-a-land-of-twilight"/>
+        <updated>2025-02-24T19:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Two weeks ago a group of Temple students, faculty, and staff came together to explore a land poised to fall into the hands of a dark force. Those in attendance had to...]]></summary>
+        <author>
+            <name>Matt Shoemaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedding OSCARS Projects in the RI Landscape]]></title>
+        <id>8636 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/embedding-oscars-projects-ri-landscape"/>
+        <updated>2025-02-24T09:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Embedding OSCARS Projects in the RI Landscape
+
+            
+ Fostering Synergies at the CLARIN General Assembly in Leuven
+ 
+On 6 February, the winning proposals of the first OSCARS Open Call for Open Science projects and services dealing with language data were invited to the CLARIN General Assembly (GA) meeting in Leuven, Belgium. In three sessions, four grant winners discussed their project plans, needs and open questions with representatives of CLARIN. Exchanges with the national nodes, the CLARIN 
+    
+European Research Infrastructure Consortium     see: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
+   Board of Directors and the representatives of the CLARIN's Central Hub were aimed at maximising sy…]]></summary>
+        <author>
+            <name>Julia Misersky</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 years of work on Trove threatened by the NLA]]></title>
         <id>http://wragge.micro.blog/2025/02/24/years-of-work-on-trove.html</id>
@@ -4629,19 +4657,6 @@ September, 2024—June, 2025]]></summary>
         <summary type="html"><![CDATA[For more information on Digital Research Storytelling, please visit our Digital Research Storytelling Workshop page The Critical Digital Humanities Initiative (CDHI), a tri-campus research initiative funded by the University of […]]]></summary>
         <author>
             <name>Matt Lefaive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The future (and past) of Historic Hansard]]></title>
-        <id>http://wragge.micro.blog/2024/08/29/the-future-and.html</id>
-        <link href="https://updates.timsherratt.org/2024/08/29/the-future-and.html"/>
-        <updated>2024-08-29T03:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Don’t panic! Historic Hansard is not closing down – on the contrary, I’m planning a major update in the next few months. But as I look to the future, I thought it was a good time to pull together a few threads documenting my adventures with Commonwealth Hansard.
-The past
-Commonwealth Hansard is made available online through ParlInfo (there’s an alternative search interface here). The Parliamentary Library has invested a lot of time and effort in  converting the printed volumes into nicely-structured XML files which break up the sitting day into debates and speeches, and identify individual speakers. For the most part, there’s one XML file for each sitting day in each house. However, there’s currently a gap between 1981 and 1997 where no XML files are available.
-I started pulling data out o…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
