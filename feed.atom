@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-02-27T08:28:39.659Z</updated>
+    <updated>2025-02-28T08:28:24.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Centre news vol. 70 - February 2025]]></title>
+        <id>8639 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/centre-news-vol-70-february-2025"/>
+        <updated>2025-02-27T12:26:25.000Z</updated>
+        <summary type="html"><![CDATA[Centre news vol. 70 - February 2025
+
+            
+New signing certificate for CLARIN SPF feeds
+From the 11th of February the CLARIN Service Provider Federation started using a new certificate to sign all metadata feeds of the CLARIN SPF. This change was necessary since the old certificate expired. The new public certificate can be found on our website (spf_signing_pub-2025-2030.crt).
+Reminder: Centre Assessment Round Spring 2025
+The deadline for the upcoming B-centre assessment round is 30 April 2025.
+If you would like to participate in this 25th round, please make sure to use:
+The updated CoreTrustSeal 2023-2025 and AMT platform.
+The latest version of the B-centre checklist (7.4.1). 
+CLARIN technical open hour, Monday 31 March at 11:00 CEST
+The next edition of the technical open hour is planned for Monday 31 March at 11:00 CEST. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!
+The dates for the upcoming open hours are now also set.
+New on the CLARIN forum
+Metadata FAQs
+Workshop on AI and Sustainability (28 Feb)
+Metadata university repository harvested in VLO: Radboud University PoC
+First Call for Papers: The 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)
+Technical Open Hours for 2025
+Dieter Van Uytvanck
+ 27 February 2025
+
+
+    
+centre news]]></summary>
+        <author>
+            <name>Dieter Van Uytvanck</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLARIN Newsflash February 2025 Is Out]]></title>
         <id>8637 at https://www.clarin.eu</id>
