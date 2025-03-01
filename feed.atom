@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-02-28T08:28:24.465Z</updated>
+    <updated>2025-03-01T08:26:48.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Editor’s Digest February 2025: Middle Eastern Studies]]></title>
+        <id>http://digitalorientalist.com/?p=15103</id>
+        <link href="https://digitalorientalist.com/2025/02/28/editors-digest-february-2025-middle-eastern-studies/"/>
+        <updated>2025-02-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the latest edition of the Editor’s Digest. My name is Maria S. Thomas, and I have been the …]]></summary>
+        <author>
+            <name>mariathoms03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebote: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz sucht drei Bibliotheksreferendar:innen (w/d/m)]]></title>
+        <id>node/981</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebote-staatsbibliothek-zu-berlin-preu%C3%9Fischer-kulturbesitz-sucht-drei"/>
+        <updated>2025-02-28T11:57:33.000Z</updated>
+        <summary type="html"><![CDATA[In der Staatsbibliothek zu Berlin - Preußischer Kulturbesitz können drei Bibliotheksreferendar:innen (w/d/m) als Beamt:innen auf Widerruf im Vorbereitungsdienst für die Laufbahn…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellenangebot: Wissenschaftliche_r Mitarbeiter_in (w/m/d) An der Jade Hochschule Wilhelmshaven/Oldenburg/Elsfleth im Projekt Provenienz- und Sammlungsforschung Digital (ProSaDi)]]></title>
+        <id>node/980</id>
+        <link href="https://dig-hum.de/aktuelles/stellenangebot-wissenschaftlicher-mitarbeiterin-wmd-der-jade-hochschule"/>
+        <updated>2025-02-28T11:41:30.000Z</updated>
+        <summary type="html"><![CDATA[„Besser Studieren“ ist das gelebte Motto der Jade Hochschule. In über 60 innovativen Studiengängen an den Studienorten Wilhelmshaven, Oldenburg und Elsfleth bilden wir über 6.000…]]></summary>
+        <author>
+            <name>434</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mad Science in Video Games: a Systems Theory Approach]]></title>
+        <id>5432 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/mad-science-video-games-systems-theory-approach"/>
+        <updated>2025-02-28T08:37:02.000Z</updated>
+        <summary type="html"><![CDATA[What happens when science goes off the rails, and how do digital games bring this to life? This talk explores how systems theory, a framework developed by German sociologist Niklas Luhmann, can help us understand the portrayal of “Mad Science” in video games. Systems theory views society as a network of self-contained systems, each governed by its own logic (medicine by “healthy/sick,” for instance, or mass media by “information/non-information). These systems help us manage crises, but they also create friction and uncertainty.
+In digital games, this friction is deliberately amplified. The hardware and software systems that underpin gameplay create challenges and disruptions, while game narratives exaggerate the breakdowns of other societal systems. Nowhere is this more vivid than in “Mad…]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating through Hamburg and Marseille’s Green and Blue Spaces: Urban planning in service of a Post-World War II imagined identity (1945-1973)]]></title>
+        <id>5431 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/navigating-through-hamburg-and-marseilles-green-and-blue-spaces-urban-planning-service-post"/>
+        <updated>2025-02-28T06:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Public urban green spaces are a key element of the “livable” city. They serve as social and recreational spaces, are free of charge, and generally met with positive sentiments. Yet, public urban green spaces are far from banal or neutral. They are products of policies and societal ideals that reach back to the post-World War II era.
+This Research Seminar talk is devoted to the topic of public urban green space creation as a tool for identity narration in the port cities of Hamburg and Marseille. Joined by a city partnership from 1958 onwards, Hamburg and Marseille’s municipal governments stood in close collaboration concerning urban development projects, including park construction. Carefully planned green spaces were developed to serve as an antidote to the negative port city stereotypes of being polluted and dangerous. As their respective countries’ second cities and largest ports, the municipal governments of Hamburg and Marseille supported one another in trying to prove that port cities were valuable beyond their importance for the national economy. What this looked like exactly, who was involved and who was left out, will be discussed in this presentation.
+ 
+Wednesday, 19 March 2015
+14.00 - 15.00
+
+C²DH
+ Open Space, 4th floor Maison des Sciences humaines
+
+19 March 2025
+  Digital history & historiography
+  Visual and material culture
+  Research seminars
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Centre news vol. 70 - February 2025]]></title>
         <id>8639 at https://www.clarin.eu</id>
@@ -4676,46 +4741,6 @@ September, 2024—June, 2025]]></summary>
         <summary type="html"><![CDATA[│By Alan Thomas, AI Research Engineer at the Centre for Machine Intelligence, University of Sheffield│ Poor optical character recognition (OCR) quality is a major obstacle for humanities scholars seeking to make use of digitised primary sources such as historical newspapers. To improve the quality of noisily OCR’d historical documents, we introduce BLN600 – an open-access ... Read more]]></summary>
         <author>
             <name>Gale Review Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Conference Coordinating Committee (CCC) Incoming Chair-Elect]]></title>
-        <id>https://adho.org/?p=3617</id>
-        <link href="https://adho.org/2024/09/02/call-for-conference-coordinating-committee-ccc-incoming-chair-elect/"/>
-        <updated>2024-09-02T15:04:05.000Z</updated>
-        <summary type="html"><![CDATA[One of ADHO’s most visible activities is its annual international conference, usually held in July or August in venues around the world. The Conference Coordinating Committee (CCC) is responsible for developing, improving and maintaining the ADHO Conference Protocol and accompanying guidelines, and coordinating the annual conference. The CCC is overseen by a Chair, a Chair-Elect and an… Read More »Call for Conference Coordinating Committee (CCC) Incoming Chair-Elect]]></summary>
-        <author>
-            <name>Nadezhda Povroznik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for ADHO Deputy Treasurer (Incoming)]]></title>
-        <id>https://adho.org/?p=3614</id>
-        <link href="https://adho.org/2024/09/02/call-for-adho-deputy-treasurer-incoming/"/>
-        <updated>2024-09-02T15:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Purpose: The Treasurer is the financial manager for both ADHO and the ADHO Foundation (ADHO’s legal entity, based in the Netherlands), and is a member of the Executive Board. The Treasurer keeps track of and reports on the budget and advises the Executive and Constituent Organization Boards about financial decisions. The Deputy Treasurer advises and… Read More »Call for ADHO Deputy Treasurer (Incoming)]]></summary>
-        <author>
-            <name>Nadezhda Povroznik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Penn Library’s LJS 455 – Fawāʼid al-ḥabīb. Zinjār al-ḥukamāʼ (Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18292</id>
-        <link href="https://schoenberginstitute.org/2024/09/02/manuscript-monday-penn-librarys-ljs-455-fawa%ca%bcid-al-%e1%b8%a5abib-zinjar-al-%e1%b8%a5ukama%ca%bc-video-orientation/"/>
-        <updated>2024-09-02T13:06:47.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 455, two treatises on alchemy. Probably written in Egypt, ca. 1400, based on the paper. Digital copies and a full record are available through Find.Record on Internet Archive, with a link to a PDF.]]></summary>
-        <author>
-            <name>dotporter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Hosts DHd 2027]]></title>
-        <id>node/961</id>
-        <link href="https://dig-hum.de/aktuelles/call-for-hosts-dhd-2027"/>
-        <updated>2024-09-02T12:04:32.000Z</updated>
-        <summary type="html"><![CDATA[DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…]]></summary>
-        <author>
-            <name>434</name>
         </author>
     </entry>
     <entry>

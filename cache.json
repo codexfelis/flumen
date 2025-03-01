@@ -202,26 +202,6 @@
           "wordCount": null,
           "title": "Call for Executive Board Chair (Incoming as Chair-Elect)",
           "imageUrl": null
-        },
-        {
-          "id": "https://adho.org/?p=3617",
-          "author": "Nadezhda Povroznik",
-          "description": "One of ADHO’s most visible activities is its annual international conference, usually held in July or August in venues around the world. The Conference Coordinating Committee (CCC) is responsible for developing, improving and maintaining the ADHO Conference Protocol and accompanying guidelines, and coordinating the annual conference. The CCC is overseen by a Chair, a Chair-Elect and an… Read More »Call for Conference Coordinating Committee (CCC) Incoming Chair-Elect",
-          "link": "https://adho.org/2024/09/02/call-for-conference-coordinating-committee-ccc-incoming-chair-elect/",
-          "publishedOn": "2024-09-02T15:04:05.000Z",
-          "wordCount": null,
-          "title": "Call for Conference Coordinating Committee (CCC) Incoming Chair-Elect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://adho.org/?p=3614",
-          "author": "Nadezhda Povroznik",
-          "description": "Purpose: The Treasurer is the financial manager for both ADHO and the ADHO Foundation (ADHO’s legal entity, based in the Netherlands), and is a member of the Executive Board. The Treasurer keeps track of and reports on the budget and advises the Executive and Constituent Organization Boards about financial decisions. The Deputy Treasurer advises and… Read More »Call for ADHO Deputy Treasurer (Incoming)",
-          "link": "https://adho.org/2024/09/02/call-for-adho-deputy-treasurer-incoming/",
-          "publishedOn": "2024-09-02T15:00:20.000Z",
-          "wordCount": null,
-          "title": "Call for ADHO Deputy Treasurer (Incoming)",
-          "imageUrl": null
         }
       ]
     },
@@ -847,6 +827,26 @@
       "siteUrl": "https://dig-hum.de/aktuelles",
       "articles": [
         {
+          "id": "node/981",
+          "author": "434",
+          "description": "In der Staatsbibliothek zu Berlin - Preußischer Kulturbesitz können drei Bibliotheksreferendar:innen (w/d/m) als Beamt:innen auf Widerruf im Vorbereitungsdienst für die Laufbahn…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebote-staatsbibliothek-zu-berlin-preu%C3%9Fischer-kulturbesitz-sucht-drei",
+          "publishedOn": "2025-02-28T11:57:33.000Z",
+          "wordCount": 1409,
+          "title": "Stellenangebote: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz sucht drei Bibliotheksreferendar:innen (w/d/m)",
+          "imageUrl": null
+        },
+        {
+          "id": "node/980",
+          "author": "434",
+          "description": "„Besser Studieren“ ist das gelebte Motto der Jade Hochschule. In über 60 innovativen Studiengängen an den Studienorten Wilhelmshaven, Oldenburg und Elsfleth bilden wir über 6.000…",
+          "link": "https://dig-hum.de/aktuelles/stellenangebot-wissenschaftlicher-mitarbeiterin-wmd-der-jade-hochschule",
+          "publishedOn": "2025-02-28T11:41:30.000Z",
+          "wordCount": 1635,
+          "title": "Stellenangebot: Wissenschaftliche_r Mitarbeiter_in (w/m/d) An der Jade Hochschule Wilhelmshaven/Oldenburg/Elsfleth im Projekt Provenienz- und Sammlungsforschung Digital (ProSaDi)",
+          "imageUrl": null
+        },
+        {
           "id": "node/979",
           "author": "434",
           "description": "Liebe DHd-Community, \nnach über zwei Jahren harter Arbeit ist es endlich soweit – der Startschuss für die neu gestaltete DHd-Website rückt immer näher. Wir freuen uns, den…",
@@ -1005,16 +1005,6 @@
           "wordCount": 1282,
           "title": "Stellenausschreibung Softwareentwickler/in an der Niedersächsischen Akademie der Wissenschaften zu Göttingen",
           "imageUrl": null
-        },
-        {
-          "id": "node/961",
-          "author": "434",
-          "description": "DHd20xx ist die jährliche, internationale Fachtagung der Digital Humanities im deutschsprachigen Raum (DHd, http://dig-hum.de) und die führende wissenschaftliche Konferenz für die…",
-          "link": "https://dig-hum.de/aktuelles/call-for-hosts-dhd-2027",
-          "publishedOn": "2024-09-02T12:04:32.000Z",
-          "wordCount": 1441,
-          "title": "Call for Hosts DHd 2027",
-          "imageUrl": null
         }
       ]
     },
@@ -1078,6 +1068,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=15103",
+          "author": "mariathoms03",
+          "description": "Welcome to the latest edition of the Editor’s Digest. My name is Maria S. Thomas, and I have been the …",
+          "link": "https://digitalorientalist.com/2025/02/28/editors-digest-february-2025-middle-eastern-studies/",
+          "publishedOn": "2025-02-28T14:00:00.000Z",
+          "wordCount": 4401,
+          "title": "Editor’s Digest February 2025: Middle Eastern Studies",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2023/06/do_logo_.png?w=1200"
+        },
         {
           "id": "http://digitalorientalist.com/?p=15074",
           "author": "James Harry Morris",
@@ -2141,16 +2141,6 @@
           "wordCount": 5422,
           "title": "Manuscript Monday: Penn Library’s LJS 456 – [Kitāb al-Siyāsah fī tadbīr al-riyāsah]. (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/08/screenshot-2024-08-27-at-9.14.53e280afam.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18292",
-          "author": "dotporter",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 455, two treatises on alchemy. Probably written in Egypt, ca. 1400, based on the paper. Digital copies and a full record are available through Find.Record on Internet Archive, with a link to a PDF.",
-          "link": "https://schoenberginstitute.org/2024/09/02/manuscript-monday-penn-librarys-ljs-455-fawa%ca%bcid-al-%e1%b8%a5abib-zinjar-al-%e1%b8%a5ukama%ca%bc-video-orientation/",
-          "publishedOn": "2024-09-02T13:06:47.000Z",
-          "wordCount": 5393,
-          "title": "Manuscript Monday: Penn Library’s LJS 455 – Fawāʼid al-ḥabīb. Zinjār al-ḥukamāʼ (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/08/screenshot-2024-08-27-at-9.09.32e280afam-1.png?w=1200"
         }
       ]
     },
@@ -2536,6 +2526,26 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5432 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "What happens when science goes off the rails, and how do digital games bring this to life? This talk explores how systems theory, a framework developed by German sociologist Niklas Luhmann, can help us understand the portrayal of “Mad Science” in video games. Systems theory views society as a network of self-contained systems, each governed by its own logic (medicine by “healthy/sick,” for instance, or mass media by “information/non-information). These systems help us manage crises, but they also create friction and uncertainty.\nIn digital games, this friction is deliberately amplified. The hardware and software systems that underpin gameplay create challenges and disruptions, while game narratives exaggerate the breakdowns of other societal systems. Nowhere is this more vivid than in “Mad…",
+          "link": "https://www.c2dh.uni.lu/events/mad-science-video-games-systems-theory-approach",
+          "publishedOn": "2025-02-28T08:37:02.000Z",
+          "wordCount": 575,
+          "title": "Mad Science in Video Games: a Systems Theory Approach",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/c2dh_event_history_at_play_banner_goergen_1380-720pixels.png?itok=PshmBopH"
+        },
+        {
+          "id": "5431 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Public urban green spaces are a key element of the “livable” city. They serve as social and recreational spaces, are free of charge, and generally met with positive sentiments. Yet, public urban green spaces are far from banal or neutral. They are products of policies and societal ideals that reach back to the post-World War II era.\nThis Research Seminar talk is devoted to the topic of public urban green space creation as a tool for identity narration in the port cities of Hamburg and Marseille. Joined by a city partnership from 1958 onwards, Hamburg and Marseille’s municipal governments stood in close collaboration concerning urban development projects, including park construction. Carefully planned green spaces were developed to serve as an antidote to the negative port city stereotypes of being polluted and dangerous. As their respective countries’ second cities and largest ports, the municipal governments of Hamburg and Marseille supported one another in trying to prove that port cities were valuable beyond their importance for the national economy. What this looked like exactly, who was involved and who was left out, will be discussed in this presentation.\n \nWednesday, 19 March 2015\n14.00 - 15.00\n\nC²DH\n Open Space, 4th floor Maison des Sciences humaines\n\n19 March 2025\n  Digital history & historiography\n  Visual and material culture\n  Research seminars\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/navigating-through-hamburg-and-marseilles-green-and-blue-spaces-urban-planning-service-post",
+          "publishedOn": "2025-02-28T06:37:21.000Z",
+          "wordCount": 514,
+          "title": "Navigating through Hamburg and Marseille’s Green and Blue Spaces: Urban planning in service of a Post-World War II imagined identity (1945-1973)",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_research_seminars_content_list.png?itok=Nwm2C3Di"
+        },
         {
           "id": "5394 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
