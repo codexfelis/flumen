@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-03-01T08:26:48.485Z</updated>
+    <updated>2025-03-02T08:25:52.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 stimmt euch auf die DHd2025 in Bielefeld ein]]></title>
+        <id>https://radihum20.de/?p=1067</id>
+        <link href="https://radihum20.de/radihum20-stimmt-euch-auf-die-dhd2025-in-bielefeld-ein/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-stimmt-euch-auf-die-dhd2025-in-bielefeld-ein"/>
+        <updated>2025-03-02T07:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In dieser Kurzfolge stimmt Jonathan euch auf die DHd2025 in Bielefeld ein. Hört euch an, was wir für euch geplant haben und wie ihr in der nächsten Folge selbst zu Gast sein könnt. Ein Highlight für uns ist der erstmalig stattfindende RaDiHum20-Podcast-Workshop „Coming soon – Podcast under Construction“. Fun Fact: An dem Konzept für diesen […]
+Der Beitrag RaDiHum20 stimmt euch auf die DHd2025 in Bielefeld ein erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Mareike Schumacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trove API users beware!  – the latest in the saga of my cancelled API keys]]></title>
+        <id>http://wragge.micro.blog/2025/03/02/trove-api-users-beware-the.html</id>
+        <link href="https://updates.timsherratt.org/2025/03/02/trove-api-users-beware-the.html"/>
+        <updated>2025-03-02T05:26:51.000Z</updated>
+        <summary type="html"><![CDATA[After my Trove API keys were cancelled without warning on 21 February, I reluctantly agreed to a meeting with the National Library of Australia. They had provided so little information in their emails, that it seemed to be the only way to find out what was really going on. I came out of the meeting shocked by the NLA’s change in attitude towards API use.
+TL;DR – you’re probably breaching the API terms of use
+All Trove API users need to be aware that the NLA now insists that accessing the ‘content’ of resources, rather than just the descriptive metadata, is a breach of the API terms of use. This includes the full text of digitised newspaper and journal articles that are included in API responses. Yes, that’s right, using the Trove API in the way that it has been designed and documented is a…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Editor’s Digest February 2025: Middle Eastern Studies]]></title>
         <id>http://digitalorientalist.com/?p=15103</id>
@@ -4709,38 +4732,6 @@ The post A Look at DRI’s Expert Advisory Group appeared first on Digital Repos
         <summary type="html"><![CDATA[As part of its Graduate Specialist program, the Rutgers New Brunswick Libraries seek a Diversity in Data Graduate Specialist to investigate issues of diversity relating to data science and statistical data and present on their findings to the Rutgers Community. It is expected that the Diversity in Data Graduate Specialist will develop and deliver presentations and workshops and be available for consultation on their areas of expertise. For Fall 2024, this work will be primarily online.  It is anticipated that the specialist will work approximately five hours per week on their topics with the aim of presenting open presentations and workshops on their findings and make available]]></summary>
         <author>
             <name>Francesca Giannetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Janneken   Smucker]]></title>
-        <id>1302 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/fellows/smucker-janneken"/>
-        <updated>2024-09-03T18:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Academic Title: 
-
-Professor of History, West Chester University
- 
-
-
-
-Janneken Smucker is Professor of History at West Chester University, specializing in digital and public history and material culture. In the classroom, she integrates technology and the humanities, working with students to create digital projects, including the award-winning Goin’ North: Stories from the First Great Migration to Philadelphia and Philadelphia Immigration. Janneken also consults on digital and interpretive projects for non-profits and museums and leads workshops on digital tools and strategies. Author of Amish Quilts: Crafting an American Icon (Johns Hopkins, 2013), Janneken lectures and writes about quilts for popular and academic audiences. Her recent book, A New Deal for Quilts, explores the ways the federal programs combating the Great Depression drew on quilts and quiltmaking as part of their relief and public relation efforts. The former co-editor of the Oral History Association’s journal, Oral History Review, she hosts and co-produces Running Stitch: A QSOS Podcast, drawing on oral histories with contemporary quiltmakers.
-
-
-Fellowship Date: 
-
-September, 2024—June, 2025]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leveraging Large Language Models for Post-OCR Correction of Nineteenth-Century British Newspapers]]></title>
-        <id>https://review.gale.com/?p=15498</id>
-        <link href="https://review.gale.com/2024/09/03/using-large-language-models-for-post-ocr-correction/"/>
-        <updated>2024-09-03T09:27:21.000Z</updated>
-        <summary type="html"><![CDATA[│By Alan Thomas, AI Research Engineer at the Centre for Machine Intelligence, University of Sheffield│ Poor optical character recognition (OCR) quality is a major obstacle for humanities scholars seeking to make use of digitised primary sources such as historical newspapers. To improve the quality of noisily OCR’d historical documents, we introduce BLN600 – an open-access ... Read more]]></summary>
-        <author>
-            <name>Gale Review Team</name>
         </author>
     </entry>
     <entry>

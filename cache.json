@@ -1924,16 +1924,6 @@
           "wordCount": 419,
           "title": "Mellon Seminar: Steve McLaughlin",
           "imageUrl": null
-        },
-        {
-          "id": "1302 at https://pricelab.sas.upenn.edu",
-          "author": "svarner@upenn.edu",
-          "description": "Academic Title: \n\nProfessor of History, West Chester University\n \n\n\n\nJanneken Smucker is Professor of History at West Chester University, specializing in digital and public history and material culture. In the classroom, she integrates technology and the humanities, working with students to create digital projects, including the award-winning Goin’ North: Stories from the First Great Migration to Philadelphia and Philadelphia Immigration. Janneken also consults on digital and interpretive projects for non-profits and museums and leads workshops on digital tools and strategies. Author of Amish Quilts: Crafting an American Icon (Johns Hopkins, 2013), Janneken lectures and writes about quilts for popular and academic audiences. Her recent book, A New Deal for Quilts, explores the ways the federal programs combating the Great Depression drew on quilts and quiltmaking as part of their relief and public relation efforts. The former co-editor of the Oral History Association’s journal, Oral History Review, she hosts and co-produces Running Stitch: A QSOS Podcast, drawing on oral histories with contemporary quiltmakers.\n\n\nFellowship Date: \n\nSeptember, 2024—June, 2025",
-          "link": "https://pricelab.sas.upenn.edu/fellows/smucker-janneken",
-          "publishedOn": "2024-09-03T18:10:55.000Z",
-          "wordCount": 433,
-          "title": "Janneken   Smucker",
-          "imageUrl": null
         }
       ]
     },
@@ -1942,6 +1932,21 @@
       "feedUrl": "https://radihum20.de/feed",
       "siteUrl": "https://radihum20.de/",
       "articles": [
+        {
+          "id": "https://radihum20.de/?p=1067",
+          "author": "Mareike Schumacher",
+          "description": "In dieser Kurzfolge stimmt Jonathan euch auf die DHd2025 in Bielefeld ein. Hört euch an, was wir für euch geplant haben und wie ihr in der nächsten Folge selbst zu Gast sein könnt. Ein Highlight für uns ist der erstmalig stattfindende RaDiHum20-Podcast-Workshop „Coming soon – Podcast under Construction“. Fun Fact: An dem Konzept für diesen […]\nDer Beitrag RaDiHum20 stimmt euch auf die DHd2025 in Bielefeld ein erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/radihum20-stimmt-euch-auf-die-dhd2025-in-bielefeld-ein/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-stimmt-euch-auf-die-dhd2025-in-bielefeld-ein",
+          "publishedOn": "2025-03-02T07:25:00.000Z",
+          "wordCount": 2255,
+          "title": "RaDiHum20 stimmt euch auf die DHd2025 in Bielefeld ein",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/Fu--llerfolge_S8E2.mp3",
+            "length": "5255657",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://radihum20.de/?p=1058",
           "author": "Clara Helmig",
@@ -2084,16 +2089,6 @@
           "wordCount": 2747,
           "title": "A Classroom Compendium: Digital Humanities Resources for a New School Year",
           "imageUrl": "https://review.gale.com/wp-content/uploads/2024/09/08.-Notes-from-a-DH-Correspondent-Sep.png"
-        },
-        {
-          "id": "https://review.gale.com/?p=15498",
-          "author": "Gale Review Team",
-          "description": "│By Alan Thomas, AI Research Engineer at the Centre for Machine Intelligence, University of Sheffield│ Poor optical character recognition (OCR) quality is a major obstacle for humanities scholars seeking to make use of digitised primary sources such as historical newspapers. To improve the quality of noisily OCR’d historical documents, we introduce BLN600 – an open-access ... Read more",
-          "link": "https://review.gale.com/2024/09/03/using-large-language-models-for-post-ocr-correction/",
-          "publishedOn": "2024-09-03T09:27:21.000Z",
-          "wordCount": 2451,
-          "title": "Leveraging Large Language Models for Post-OCR Correction of Nineteenth-Century British Newspapers",
-          "imageUrl": null
         }
       ]
     },
@@ -2373,6 +2368,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2025/03/02/trove-api-users-beware-the.html",
+          "author": null,
+          "description": "After my Trove API keys were cancelled without warning on 21 February, I reluctantly agreed to a meeting with the National Library of Australia. They had provided so little information in their emails, that it seemed to be the only way to find out what was really going on. I came out of the meeting shocked by the NLA’s change in attitude towards API use.\nTL;DR – you’re probably breaching the API terms of use\nAll Trove API users need to be aware that the NLA now insists that accessing the ‘content’ of resources, rather than just the descriptive metadata, is a breach of the API terms of use. This includes the full text of digitised newspaper and journal articles that are included in API responses. Yes, that’s right, using the Trove API in the way that it has been designed and documented is a…",
+          "link": "https://updates.timsherratt.org/2025/03/02/trove-api-users-beware-the.html",
+          "publishedOn": "2025-03-02T05:26:51.000Z",
+          "wordCount": 1460,
+          "title": "Trove API users beware!  – the latest in the saga of my cancelled API keys",
+          "imageUrl": null
+        },
         {
           "id": "http://wragge.micro.blog/2025/02/24/years-of-work-on-trove.html",
           "author": null,
