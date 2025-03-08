@@ -1209,6 +1209,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=15069",
+          "author": "Dr Elizabeth Bishop",
+          "description": "Dr Johannes Thomann (Visiting Researcher, Islamic Studies, Institute of Asian and Oriental Studies, IAOS; University of Zürich, UZH) is responsible …",
+          "link": "https://digitalorientalist.com/2025/03/07/digital-humanities-unexpected-encounters-at-dot-2025/",
+          "publishedOn": "2025-03-07T14:00:00.000Z",
+          "wordCount": 5344,
+          "title": "Digital Humanities: Unexpected Encounters at DOT 2025",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/03/1200px-kollegienhaus_universitaet-erlangen.jpg"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=15065",
           "author": "Hirohito TSUJI 辻󠄀 博仁",
           "description": "Call for Papers Abstract deadline: 31 March 2025Date of the conference: 31 May 2025 Submissions We are pleased to announce …",
@@ -2296,16 +2306,6 @@
           "wordCount": 5310,
           "title": "Manuscript Monday: Penn Library’s LJS 458 – Abscondita naturae (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/09/screenshot-2024-08-27-at-9.17.58e280afam.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18303",
-          "author": "dotporter",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 456, a popular treatise presented as a letter from Aristotle to Alexander the Great on statecraft, astronomy, astrology, magic, and medicine. Copy completed in A.H. 797 (1394; colophon, f. 22r); perhaps produced in Andalusia. Digital copies andContinue reading \"Manuscript Monday: Penn Library’s LJS 456 – [Kitāb al-Siyāsah fī tadbīr al-riyāsah]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/09/09/manuscript-monday-penn-librarys-ljs-456-kitab-al-siyasah-fi-tadbir-al-riyasah-video-orientation-2/",
-          "publishedOn": "2024-09-09T13:20:06.000Z",
-          "wordCount": 5422,
-          "title": "Manuscript Monday: Penn Library’s LJS 456 – [Kitāb al-Siyāsah fī tadbīr al-riyāsah]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/08/screenshot-2024-08-27-at-9.14.53e280afam.png?w=1200"
         }
       ]
     },
@@ -3100,26 +3100,6 @@
           "wordCount": 417,
           "title": "Making history, crossing worlds",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/carile_muller_full_width.jpg?itok=REj7C8Jk"
-        },
-        {
-          "id": "5150 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The LOVÓ project is part of the programme of the Biennale 2024 Esch capitale culturelle.\n\n \nWhat is LOVÓ?\n\nThe term LOVÓ combines the words \"love\" (in English) and \"avó\" (grandmother in Portuguese) to refer to the memory of the grandmothers of the Portuguese and Cape Verdean community in Esch. Led by Myriam Dalal and Thomas Cauvin, researchers from the University of Luxembourg, this project uses oral history and art to give a voice to several Portuguese-speaking grandmothers residing in Esch-sur-Alzette, who have made this city their home.\nLOVÓ explores the personal stories of these remarkable women, weaving a link between the private and public spheres, and between the individual and the collective. These grandmothers play an essential role as bearers of intangible cultural heritage, tran…",
-          "link": "https://www.c2dh.uni.lu/events/lovo-voices-portuguese-speaking-grandmothers-esch-sur-alzette",
-          "publishedOn": "2024-09-09T12:44:14.000Z",
-          "wordCount": 687,
-          "title": "LOVÓ: the voices of the Portuguese-speaking grandmothers of Esch-sur-Alzette",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/lovo_final_rectangle.png?itok=5v3pyv4R"
-        },
-        {
-          "id": "5149 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "L’influence des médias et la désinformation sont parmi les questions vives de nos sociétés contemporaines. Les reconfigurations des espaces médiatiques, notamment en ligne, conduisent à de nouvelles offres et de nouveaux usages de l’information. Le « cycle de rencontres sur l’influence des médias et la désinformation » organisé dans la Grande Région est une action culturelle qui souhaite stimuler le regard critique des citoyens sur l’actualité.\nEntre 2024 et 2026, l’Université de Lorraine (CREM - Céline Ségur et Laurence Corroy) et l’Université du Luxembourg (C²DH - Valérie Schafer) proposeront  6 conférences dans la Grande Région avec un.e chercheur.e en SHS et un.e journaliste. Chaque conférence traitera sous un angle différent de l’influence des médias.\nLe cycle « L’influence des médias…",
-          "link": "https://www.c2dh.uni.lu/events/medias-et-discours-haineux",
-          "publishedOn": "2024-09-09T08:02:52.000Z",
-          "wordCount": 733,
-          "title": "Médias et discours haineux",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/adobestock_634502865_web.jpg?itok=c2DEO5lT"
         }
       ]
     },
