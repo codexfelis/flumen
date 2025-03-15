@@ -871,26 +871,6 @@
           "wordCount": 3052,
           "title": "Digital Humanities Summer Institute (DHSI) Tuition + Travel Support",
           "imageUrl": null
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=9683",
-          "author": "DHN Admin",
-          "description": "CDHI is excited to welcome Dr. Emily Christina Murphy as our first Visiting Scholar in Residence (2024-25). Dr. Murphy is an Assistant Professor of Digital Humanities, English, and Cultural Studies […]",
-          "link": "https://dhn.utoronto.ca/cdhi-welcomes-visiting-scholar-in-residence-dr-emily-murphy/?utm_source=rss&utm_medium=rss&utm_campaign=cdhi-welcomes-visiting-scholar-in-residence-dr-emily-murphy",
-          "publishedOn": "2024-09-16T13:25:51.000Z",
-          "wordCount": 2596,
-          "title": "CDHI Welcomes Visiting Scholar in Residence, Dr. Emily Murphy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhn.utoronto.ca/?p=9681",
-          "author": "DHN Admin",
-          "description": "Creative Labour and Critical Futures (CLCF), based in the Department of Arts, Culture, and Media, has been awarded 3-years of funding by the UTSC Office of the Vice-Principal Research & Innovation Clusters of Scholarly Prominence program.",
-          "link": "https://dhn.utoronto.ca/cdhi-members-launch-creative-labour-and-critical-futures/?utm_source=rss&utm_medium=rss&utm_campaign=cdhi-members-launch-creative-labour-and-critical-futures",
-          "publishedOn": "2024-09-16T12:39:09.000Z",
-          "wordCount": 2821,
-          "title": "CDHI Members Launch Creative Labour and Critical Futures",
-          "imageUrl": null
         }
       ]
     },
@@ -1208,6 +1188,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=15203",
+          "author": "Aida Alavi",
+          "description": "Introduction A fundamental question in the history of science from antiquity to the premodern era is how people organized knowledge, …",
+          "link": "https://digitalorientalist.com/2025/03/14/m-classi-a-digital-tool-for-the-classification-of-sciences-in-islam-and-beyond/",
+          "publishedOn": "2025-03-14T13:00:00.000Z",
+          "wordCount": 5268,
+          "title": "M-Classi: A Digital Tool for the Classification of Sciences in Islam and Beyond",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/03/capture-decran-2025-03-11-a-13.40.02.png?w=1200"
+        },
         {
           "id": "http://digitalorientalist.com/?p=15222",
           "author": "So Miyagawa",
@@ -2276,16 +2266,6 @@
           "wordCount": 5369,
           "title": "Manuscript Monday: Penn Library’s LJS 37 and LJS 460 -[Ikhtiṣār lil-maqālāt min kitāb Uqlīdis](Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/08/screenshot-2024-08-27-at-9.33.32e280afam.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18297",
-          "author": "dotporter",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 458, Collection of over 400 recipes for medical, cosmetic, and culinary purposes, copied from both manuscript and printed sources. The medical recipes include treatments for the plague, syphilis, epilepsy, toothache, headache, scabies, eye ailments, fever, sciatica, andContinue reading \"Manuscript Monday: Penn Library’s LJS 458 – Abscondita naturae (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/09/16/manuscript-monday-penn-librarys-ljs-456-kitab-al-siyasah-fi-tadbir-al-riyasah-video-orientation/",
-          "publishedOn": "2024-09-16T13:13:05.000Z",
-          "wordCount": 5310,
-          "title": "Manuscript Monday: Penn Library’s LJS 458 – Abscondita naturae (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/09/screenshot-2024-08-27-at-9.17.58e280afam.png?w=1200"
         }
       ]
     },
@@ -4758,21 +4738,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/artikel_elena_2024-10.png"
-        },
-        {
-          "id": "news-234",
-          "author": null,
-          "description": "News,\n                        Weiterbildung,\n                        Events\n                        \nDas Netzwerk für Forschungsdatenmanagement und die Graduiertenschule für Geistes- und Sozialwissenschaften organisieren in Zusammenarbeit mit RISE einen umfassenden neuen Kurs zum Thema Forschungsdatenmanagement, der speziell auf die Forschungsbedürfnisse von Doktorand*innen zugeschnitten ist.",
-          "link": "https://rise.unibas.ch/de/news/details/geplanter-kurs-ueber-forschungsdatenmanagement-fuer-doktorandinnen-der-geistes-und-sozialwissenschaften/",
-          "publishedOn": "2024-09-16T11:18:34.000Z",
-          "wordCount": 312,
-          "title": "Kurs zu Forschungsdatenmanagement für Doktorand*innen der Geistes- und Sozialwissenschaften",
-          "enclosure": {
-            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/ssh_course_rdm.png",
-            "length": "100029",
-            "type": "image/png"
-          },
-          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/ssh_course_rdm.png"
         }
       ]
     },
