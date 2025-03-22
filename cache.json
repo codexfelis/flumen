@@ -192,16 +192,6 @@
           "wordCount": null,
           "title": "DH2027: Call for Hosts",
           "imageUrl": null
-        },
-        {
-          "id": "https://adho.org/?p=3757",
-          "author": "Nadezhda Povroznik",
-          "description": "The Local Organizers for DH2025 are happy to launch the website of the next Digital Humanities conference (https://dh2025.adho.org/) and call for proposals (https://dh2025.adho.org/call-for-proposals/). Welcome to the BlueSky (@dh2025lisbon.bsky.social) and Mastodon (@dh2025) accounts. The X will be announced soon. The email account for all questions about the conference is dh2025@fcsh.unl.pt.",
-          "link": "https://adho.org/2024/09/23/dh2025-announcement/",
-          "publishedOn": "2024-09-23T06:56:37.000Z",
-          "wordCount": null,
-          "title": "DH2025 Media",
-          "imageUrl": null
         }
       ]
     },
@@ -1079,6 +1069,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=15377",
+          "author": "Rachael Griffiths",
+          "description": "It has been almost a year since my last Editor’s Digest and in that time there have been a few …",
+          "link": "https://digitalorientalist.com/2025/03/21/editors-digest-march-2025-central-and-south-asian-studies-1/",
+          "publishedOn": "2025-03-21T13:00:00.000Z",
+          "wordCount": 4760,
+          "title": "Editor’s Digest March 2025: Central and South Asian Studies 1",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2023/06/do_logo_.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=15265",
           "author": "Rachael Griffiths",
           "description": "In the ever-expanding web of academic literature, exploring the research landscape and searching for publications can often feel complicated, overwhelming, …",
@@ -1725,16 +1725,6 @@
           "wordCount": 3534,
           "title": "Call for Nominations to the FORCE11 Board of Directors",
           "imageUrl": null
-        },
-        {
-          "id": "https://force11.org/?p=151406",
-          "author": "Iratxe Puebla",
-          "description": "At the FORCE11 conference last month, we had many stimulating conversations about innovation in scholarly communications",
-          "link": "https://force11.org/post/advancing-scholarly-communications-together-lead-a-force11-working-group/",
-          "publishedOn": "2024-09-23T09:32:22.000Z",
-          "wordCount": 3738,
-          "title": "Advancing Scholarly Communications Together: Lead a FORCE11 Working Group!",
-          "imageUrl": null
         }
       ]
     },
@@ -2136,16 +2126,6 @@
           "wordCount": 5365,
           "title": "Manuscript Monday: Penn Library’s LJS 462 – Algorismus … [etc.]. (Video Orientation)",
           "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/08/screenshot-2024-08-27-at-9.36.43e280afam.png?w=1200"
-        },
-        {
-          "id": "http://schoenberginstitute.org/?p=18306",
-          "author": "dotporter",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 37, an incomplete abridgment in Arabic of Euclid’s Elements (also described in this video orientation), and LJS 460, an individual quire which used to be part of LJS 37. It was written in Fatimid Egypt, Iraq, orContinue reading \"Manuscript Monday: Penn Library’s LJS 37 and LJS 460 -[Ikhtiṣār lil-maqālāt min kitāb Uqlīdis](Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/09/23/manuscript-monday-penn-librarys-ljs-37-and-ljs-460-ikhti%e1%b9%a3ar-lil-maqalat-min-kitab-uqlidisvideo-orientation/",
-          "publishedOn": "2024-09-23T13:25:37.000Z",
-          "wordCount": 5369,
-          "title": "Manuscript Monday: Penn Library’s LJS 37 and LJS 460 -[Ikhtiṣār lil-maqālāt min kitāb Uqlīdis](Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/08/screenshot-2024-08-27-at-9.33.32e280afam.png?w=1200"
         }
       ]
     },
@@ -2487,16 +2467,6 @@
           "wordCount": 629,
           "title": "Where's 1920? Missing volume added to Tasmanian Post Office Directories!",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-09-26-12-27-41.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/09/23/major-update-for.html",
-          "author": null,
-          "description": "The Trove newspapers section of the GLAM Workbench was updated last week. Over the last year I’ve been gradually updating notebooks to use version 3 of the Trove API, but when version 2 suddenly disappeared a couple of weeks ago I had to hurriedly pull everything together. The Trove newspapers section includes 23 notebooks and 6 datasets, so it’s not a small job. The changes include:\nupdated all notebooks to use version 3 of the Trove API\nremoved remaining datasets from the code repository and created dedicated data repositories for them, integrating them with Zenodo where appropriate\nadded metadata to all the notebooks – this is used to build an RO-Crate metadata file for the code repository\nupdated all the Python packages\nadded a voila.json file to configure Voilá\nNone of the functionality of the notebooks should have changed. There’s a slight difference in the Finding non-English newspapers in Trove notebook because the language detection library I was using is no longer maintained. I’ve swapped in py3langid and it seems to work well, though the results are a little different. Interestingly, where the previous library thought that bad OCR was ‘Maltese’, the new one detects it as ‘Latin’! There’s no change to the list of newspapers with non-English language content detected by the notebook.\n\r\nThe documentation pages have also been updated. The notebook pages are now built using data from the code repository’s RO-Crate file. They also include embedded HTML previews of the notebooks. If a notebook generates visualisations, the visualisations are usually included in the HTML, so you can explore the outputs without running the notebook – see, for example, the charts in Visualise the total number of newspaper articles in Trove by year and state. Most of the dataset pages now include links to explore the contents using Datasette-Lite.\nI still have to generate RO-Crate files for all the data repositories, but I wanted to get the code stuff finished first.",
-          "link": "https://updates.timsherratt.org/2024/09/23/major-update-for.html",
-          "publishedOn": "2024-09-23T01:15:42.000Z",
-          "wordCount": 388,
-          "title": "Major update for the Trove Newspapers section of the GLAM Workbench",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-09-23-11-09-14.png"
         }
       ]
     },

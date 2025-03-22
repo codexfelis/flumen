@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-03-21T08:29:40.438Z</updated>
+    <updated>2025-03-22T08:26:41.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Editor’s Digest March 2025: Central and South Asian Studies 1]]></title>
+        <id>http://digitalorientalist.com/?p=15377</id>
+        <link href="https://digitalorientalist.com/2025/03/21/editors-digest-march-2025-central-and-south-asian-studies-1/"/>
+        <updated>2025-03-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It has been almost a year since my last Editor’s Digest and in that time there have been a few …]]></summary>
+        <author>
+            <name>Rachael Griffiths</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CfP: Thematic Track AI in Digital Humanities, Computational Social Sciences and Economics Research (AI-HuSo) @ FedCSIS 2025]]></title>
         <id>1493 at https://eadh.org</id>
@@ -4542,55 +4552,6 @@ Photo by Metropolitan Transportation Authority of the State of New York, CC BY 2
 The post A Classroom Compendium: Digital Humanities Resources for a New School Year appeared first on The Gale Review.]]></summary>
         <author>
             <name>Gale Review Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscript Monday: Penn Library’s LJS 37 and LJS 460 -[Ikhtiṣār lil-maqālāt min kitāb Uqlīdis](Video Orientation)]]></title>
-        <id>http://schoenberginstitute.org/?p=18306</id>
-        <link href="https://schoenberginstitute.org/2024/09/23/manuscript-monday-penn-librarys-ljs-37-and-ljs-460-ikhti%e1%b9%a3ar-lil-maqalat-min-kitab-uqlidisvideo-orientation/"/>
-        <updated>2024-09-23T13:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 37, an incomplete abridgment in Arabic of Euclid’s Elements (also described in this video orientation), and LJS 460, an individual quire which used to be part of LJS 37. It was written in Fatimid Egypt, Iraq, orContinue reading "Manuscript Monday: Penn Library’s LJS 37 and LJS 460 -[Ikhtiṣār lil-maqālāt min kitāb Uqlīdis](Video Orientation)"]]></summary>
-        <author>
-            <name>dotporter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advancing Scholarly Communications Together: Lead a FORCE11 Working Group!]]></title>
-        <id>https://force11.org/?p=151406</id>
-        <link href="https://force11.org/post/advancing-scholarly-communications-together-lead-a-force11-working-group/"/>
-        <updated>2024-09-23T09:32:22.000Z</updated>
-        <summary type="html"><![CDATA[At the FORCE11 conference last month, we had many stimulating conversations about innovation in scholarly communications]]></summary>
-        <author>
-            <name>Iratxe Puebla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DH2025 Media]]></title>
-        <id>https://adho.org/?p=3757</id>
-        <link href="https://adho.org/2024/09/23/dh2025-announcement/"/>
-        <updated>2024-09-23T06:56:37.000Z</updated>
-        <summary type="html"><![CDATA[The Local Organizers for DH2025 are happy to launch the website of the next Digital Humanities conference (https://dh2025.adho.org/) and call for proposals (https://dh2025.adho.org/call-for-proposals/). Welcome to the BlueSky (@dh2025lisbon.bsky.social) and Mastodon (@dh2025) accounts. The X will be announced soon. The email account for all questions about the conference is dh2025@fcsh.unl.pt.]]></summary>
-        <author>
-            <name>Nadezhda Povroznik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major update for the Trove Newspapers section of the GLAM Workbench]]></title>
-        <id>http://wragge.micro.blog/2024/09/23/major-update-for.html</id>
-        <link href="https://updates.timsherratt.org/2024/09/23/major-update-for.html"/>
-        <updated>2024-09-23T01:15:42.000Z</updated>
-        <summary type="html"><![CDATA[The Trove newspapers section of the GLAM Workbench was updated last week. Over the last year I’ve been gradually updating notebooks to use version 3 of the Trove API, but when version 2 suddenly disappeared a couple of weeks ago I had to hurriedly pull everything together. The Trove newspapers section includes 23 notebooks and 6 datasets, so it’s not a small job. The changes include:
-updated all notebooks to use version 3 of the Trove API
-removed remaining datasets from the code repository and created dedicated data repositories for them, integrating them with Zenodo where appropriate
-added metadata to all the notebooks – this is used to build an RO-Crate metadata file for the code repository
-updated all the Python packages
-added a voila.json file to configure Voilá
-None of the functionality of the notebooks should have changed. There’s a slight difference in the Finding non-English newspapers in Trove notebook because the language detection library I was using is no longer maintained. I’ve swapped in py3langid and it seems to work well, though the results are a little different. Interestingly, where the previous library thought that bad OCR was ‘Maltese’, the new one detects it as ‘Latin’! There’s no change to the list of newspapers with non-English language content detected by the notebook.
-
-The documentation pages have also been updated. The notebook pages are now built using data from the code repository’s RO-Crate file. They also include embedded HTML previews of the notebooks. If a notebook generates visualisations, the visualisations are usually included in the HTML, so you can explore the outputs without running the notebook – see, for example, the charts in Visualise the total number of newspaper articles in Trove by year and state. Most of the dataset pages now include links to explore the contents using Datasette-Lite.
-I still have to generate RO-Crate files for all the data repositories, but I wanted to get the code stuff finished first.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
