@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-03-24T08:31:22.799Z</updated>
+    <updated>2025-03-25T08:30:45.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Centre news vol. 71 - March 2025]]></title>
+        <id>8775 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/centre-news-vol-71-march-2025"/>
+        <updated>2025-03-24T10:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Centre news vol. 71 - March 2025
+
+            
+Centre Meeting 2025 schedule and location
+The rough time schedule and detailed location information for the Centre Meeting on 21 and 22 May are now available on the CLARIN website. While the exact programme is being discussed and prepared, this should allow you to start booking travel and accommodation. 
+CLARIN technical open hour, Monday 31 March at 11:00 CEST
+The next edition of the technical open hour is planned for Monday 31 March at 11:00 CEST. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!
+The dates for the upcoming open hours are now also set.
+Security advice: Shibboleth SP version 3.5.0 available
+The CLARIN 
+    
+European Research Infrastructure Consortium     see: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
+Service Provider; a synonym for an AAI-enabled resource     see: Federated Identity
+
+   was updated to v3.5.0 to mitigate this vulnerability 
+If you are running a Shibboleth Service Provider yourself, please make sure to update it as well! 
+New on the CLARIN forum
+ECHOES Consultation: Help shape the Cultural Heritage Cloud
+ECHOES Cascading Grants: Funding opportunity for CHIs
+Newly added tool to the switchboard: OCTRA
+User data data anonymization
+
+      Dieter Van Uytvanck
+ 24 March 2025
+
+
+    
+centre news]]></summary>
+        <author>
+            <name>Dieter Van Uytvanck</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From My Perspective: Generative AI and Digital Humanities Questions]]></title>
         <id>https://dhlc.cal.msu.edu/?p=937</id>
@@ -4246,6 +4283,16 @@ Continue reading “Webinar Series: DH Virtual Discussion Group for ECRs in Belg
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Felt Time: Sculpting Emotional Movement Through Time and Change]]></title>
+        <id>https://sites.temple.edu/tudsc/?p=9376</id>
+        <link href="https://sites.temple.edu/tudsc/2024/10/01/felt-time-sculpting-emotional-movement-through-time-and-change-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=felt-time-sculpting-emotional-movement-through-time-and-change-2"/>
+        <updated>2024-10-01T19:20:58.000Z</updated>
+        <summary type="html"><![CDATA[By Carmel Dor The project I developed while in the Makerspace residency came from a body of work that explores the emotional qualities of moving through time during transformative moments of change....]]></summary>
+        <author>
+            <name>Hannah Tardie</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 Update on DRI’s EDI Policy Progress]]></title>
         <id>https://dri.ie/?post_type=news&amp;p=37513</id>
         <link href="https://dri.ie/news/2024-update-on-dris-edi-policy-progress/"/>
@@ -4374,56 +4421,6 @@ September, 2024—August, 2025]]></summary>
 The post DRI Citation Policy 2024 appeared first on Digital Repository of Ireland.]]></summary>
         <author>
             <name>Lorraine Marrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[History@Play - What If? Reimagining the Past Through Alternate Histories]]></title>
-        <id>5166 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/historyplay-what-if-reimagining-past-through-alternate-histories"/>
-        <updated>2024-09-26T11:20:38.000Z</updated>
-        <summary type="html"><![CDATA[What if the Nazis had won World War II? What if J.F. Kennedy had survived the assassination? What if the Cold War had ended in nuclear devastation?
-Games often engage with counterfactual history, exploring events that didn’t happen but might have, inviting players to consider not only how different outcomes could have shaped the world we live in today, but also why certain events unfolded the way they did.
-For this new appointment with History@Play, the C²DH is proud to once again team up with Rotondes, Game On, and the BTS school of Game Programming and Game Design to explore how video games reimagine the past.
-The GRAND SALLE will showcase a selection of video games that reimagine key historical moments and immerse players in alternate histories.
-In the STUDIOS, we will present a historical board game workshop in collaboration with the BTS school of Game Programming and Game Design.
-Working in teams, the participants will learn the ropes of game design by creating games that explore how different choices could have altered key moments in Luxembourg’s history.
- 
-Programme
-GRANDE SALLE
-Sat 26.10 >14:00 — 19:00
-Sun 27.10 >11:00 — 18:00
-Historical video game expo and demo
- 
-CONTAINER CITY - STUDIO 3&4
-Sat 26.10 >15.30 - 18.00
-Historical Board Game Workshop in collaboration with the BTS school of Game Programming and Game Design.
-maximum 30 participants. The workshop is free of cost, and places will be assigned on a first-come, first-served basis.
-Suitable for ages 14 and up.
-Language: English
-Registration will soon open for the board game workshop.
- 
-
-
-26 October 2024 to 27 October 2024
-  Public history
-  Media history
-  Outreach
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where's 1920? Missing volume added to Tasmanian Post Office Directories!]]></title>
-        <id>http://wragge.micro.blog/2024/09/26/wheres-missing-volume.html</id>
-        <link href="https://updates.timsherratt.org/2024/09/26/wheres-missing-volume.html"/>
-        <updated>2024-09-26T02:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Visualisation is a great way to find problems in your data.
-As part of the Everyday Heritage project, I’m working with a team to document the lives of Tasmania’s Chinese residents in the 19th and early 20th centuries. We’re using a variety of sources such as Trove’s newspapers, the Tasmanian Names Index, and the Tasmanian Post Office Directories. To help with the research, I converted all the PDF volumes of the Post Office Directories into a public, online, searchable database. Or at least, I thought I had.
-The Tasmanian Post Office Directories database embeds metadata about each line of text in its results, so it’s easy to save items of interest using Zotero. A member of our team has already saved hundreds of entries this way. The other day I started pulling these entries out of Zotero us…]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
