@@ -1079,6 +1079,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=15356",
+          "author": "dena shamsizadeh",
+          "description": "Decades ago, one of the main concerns of the cultural heritage community was the lack of digitized data. Although digitization …",
+          "link": "https://digitalorientalist.com/2025/03/28/bridging-narratives-and-data-researchspace-4-0-0-and-the-power-of-knowledge-graphs/",
+          "publishedOn": "2025-03-28T13:00:00.000Z",
+          "wordCount": 5818,
+          "title": "Bridging Narratives and Data: ResearchSpace 4.0.0 and the Power of Knowledge Graphs",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/03/image-13.png?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=15344",
           "author": "Daniel Wojahn",
           "description": "The first of three articles looking at how the Staatsbibliothek zu Berlin’s digital platform CrossAsia is changing the way Asian …",
@@ -2096,18 +2106,7 @@
       "title": "The Schoenberg Institute for Manuscript Studies",
       "feedUrl": "https://schoenberginstitute.org/feed",
       "siteUrl": "https://schoenberginstitute.org",
-      "articles": [
-        {
-          "id": "http://schoenberginstitute.org/?p=18311",
-          "author": "dotporter",
-          "description": "Dot Porter, SIMS Curator of Digital Humanities, presents a Video Orientation to the University of Pennsylvania Library’s LJS 462, a didactic poem in 284 lines of hexameter concerning integers (including, for the first time in Latin, zero) and their operations. Followed by an anonymous treatise in verse on the calendar, focusing on establishing feast andContinue reading \"Manuscript Monday: Penn Library’s LJS 462 – Algorismus … [etc.]. (Video Orientation)\"",
-          "link": "https://schoenberginstitute.org/2024/09/30/manuscript-monday-penn-librarys-ljs-462-algorismus-etc-video-orientation/",
-          "publishedOn": "2024-09-30T13:34:47.000Z",
-          "wordCount": 5365,
-          "title": "Manuscript Monday: Penn Library’s LJS 462 – Algorismus … [etc.]. (Video Orientation)",
-          "imageUrl": "https://schoenberginstitute.org/wp-content/uploads/2024/08/screenshot-2024-08-27-at-9.36.43e280afam.png?w=1200"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Scholarly Tales",
@@ -2269,16 +2268,6 @@
           "publishedOn": "2024-10-01T13:22:52.000Z",
           "wordCount": 4324,
           "title": "Felt Time: Sculpting Emotional Movement Through Time and Change",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sites.temple.edu/tudsc/?p=9167",
-          "author": "Francesca Lally",
-          "description": "What is Rock TV?  Rock TV is an ongoing interdisciplinary project that was born from an in-class presentation many years ago with nothing but an overhead projector, a slideshow, some pebbles from...",
-          "link": "https://sites.temple.edu/tudsc/2024/09/30/makerspace-residency-rock-tv/?utm_source=rss&utm_medium=rss&utm_campaign=makerspace-residency-rock-tv",
-          "publishedOn": "2024-09-30T15:41:53.000Z",
-          "wordCount": 3826,
-          "title": "Makerspace Residency: Rock TV",
           "imageUrl": null
         }
       ]
@@ -2810,16 +2799,6 @@
           "wordCount": 481,
           "title": "Removal, Reclamation, & Sustainability: Commemorating Wyandot History",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/field/image/rebecca_wingo_full_width.jpg?itok=7yCnRYK8"
-        },
-        {
-          "id": "5175 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "The most iconic monsters in modern pop culture, including the vampire, the zombie, Frankenstein’s monster and even the mummy, have been the subject of numerous critical studies that have explored their cultural dimensions – or, in other words, the social, historical and political significance of the narratives in which they appear. The werewolf, on the other hand, has often been reduced to “the beast within,” or a psychoanalytic analogue for the bestial side of man. Phases of the Moon: A Cultural History of the Werewolf Film (2020) redresses the balance by providing wolf men and she-wolves with the same level of cultural analysis as has been afforded to their fellow monsters.\nThis talk, drawn from Phases of the Moon, will explore the evolution of the werewolf from antiquity to modern cinem…",
-          "link": "https://www.c2dh.uni.lu/events/animal-out-cultural-evolution-werewolf",
-          "publishedOn": "2024-09-30T08:00:54.000Z",
-          "wordCount": 690,
-          "title": "The Animal is Out: The Cultural Evolution of the Werewolf",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/phases_-_lux_full_width.jpg?itok=91JG47iH"
         }
       ]
     },
