@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-03-30T08:27:24.995Z</updated>
+    <updated>2025-03-31T08:32:18.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nominations for 2025 CSDH/SCHN Outstanding Achievement Award]]></title>
+        <id>https://csdh-schn.org/?p=1341</id>
+        <link href="https://csdh-schn.org/nominations-for-2025-csdh-schn-outstanding-achievement-award/"/>
+        <updated>2025-03-31T00:21:10.000Z</updated>
+        <summary type="html"><![CDATA[This award acknowledges a Canadian researcher or a researcher at a Canadian institution who has made a significant contribution, over an extended career, to computing in the arts and humanities, whether theoretical, applied, or in the area of community building. The recipient of the 2025 award will be invited to accept the award and to address […]]]></summary>
+        <author>
+            <name>Faith Ruetas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Candidatures pour le Prix d’excellence SCHN/CSDH 2025]]></title>
+        <id>https://csdh-schn.org/?p=1339</id>
+        <link href="https://csdh-schn.org/candidatures-pour-le-prix-dexcellence-schn-csdh-2025/"/>
+        <updated>2025-03-31T00:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Ce prix récompense un·e chercheur·euse canadien·ne ou un·e chercheur·euse d’un établissement canadien qui a apporté une contribution significative aux humanités numériques et aux arts et sciences humaines computationnelles. Ce prix récompense une longue carrière, et des réalisations théoriques, appliquées, ou dans le domaine du développement communautaire. Le lauréat du prix 2025 sera invité à accepter […]]]></summary>
+        <author>
+            <name>Faith Ruetas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bridging Narratives and Data: ResearchSpace 4.0.0 and the Power of Knowledge Graphs]]></title>
         <id>http://digitalorientalist.com/?p=15356</id>
