@@ -1099,6 +1099,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=15417",
+          "author": "The Digital Orientalist",
+          "description": "This week’s post was written by Tomasz Sleziak. Sleziak is a scholar in Korean studies (particularly Korean but also global …",
+          "link": "https://digitalorientalist.com/2025/04/01/how-the-sounds-improperly-educate-the-people-korea-and-the-world-then-and-now/",
+          "publishedOn": "2025-04-01T13:00:00.000Z",
+          "wordCount": 6140,
+          "title": "How the Sounds (Im)properly Educate the People: Korea and the World, Then, and Now",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/03/imag0835.jpg?w=1200"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=15356",
           "author": "dena shamsizadeh",
           "description": "Decades ago, one of the main concerns of the cultural heritage community was the lack of digitized data. Although digitization …",
@@ -1592,16 +1602,6 @@
           "wordCount": 5672,
           "title": "The DiGA Project—Digitization of Gandhāran Artefacts: An Interview with Jessie Pons and Cristiano Moscatelli (Part 1)",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/09/dmc-171-adn-179.png?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=13612",
-          "author": "Anaïs Wion",
-          "description": "The Malian radio station in Kayes, close to the Senegalese border, was founded in 1988, as part of an Italian …",
-          "link": "https://digitalorientalist.com/2024/10/04/digitising-the-archives-of-a-rural-radio-in-mali-a-transnational-project/",
-          "publishedOn": "2024-10-04T13:00:00.000Z",
-          "wordCount": 4761,
-          "title": "Digitising the Archives of a Rural Radio in Mali: A Transnational Project",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/radiokayesbandeaufb.jpg?w=1200"
         }
       ]
     },
@@ -3855,6 +3855,26 @@
           "imageUrl": null
         },
         {
+          "id": "8777 at https://www.clarin.eu",
+          "author": "Laura Gusan",
+          "description": "Tour de CLARIN: Interview with Magali Paquot and Robert Fuchs\n\n            \nThe conversation was led by Kristina Pahor de Maiti Tekavčič\nCan you briefly present yourself and your connection to the Core Metadata Schema for Learner Corpora (LC-meta)?\n    \nMagali Paquot: I am an FNRS Senior Research Associate and Professor of Linguistics at UCLouvain, Belgium. My research focuses on learner corpora and explores key topics in Second Language Acquisition, including crosslinguistic influence, complexity, and phraseology, with a strong interest in methodological issues from corpus design to analysis. I coordinate the CLARIN Knowledge Centre for Learner Corpora, and I co-developed the Core Metadata Schema for Learner Corpora (LC-meta) together with Jennifer-Carmen Frey (Eurac Research), Egon Steml…",
+          "link": "https://www.clarin.eu/blog/tour-de-clarin-interview-magali-paquot-and-robert-fuchs",
+          "publishedOn": "2025-03-26T09:42:43.000Z",
+          "wordCount": 2278,
+          "title": "Tour de CLARIN: Interview with Magali Paquot and Robert Fuchs",
+          "imageUrl": null
+        },
+        {
+          "id": "8776 at https://www.clarin.eu",
+          "author": "Laura Gusan",
+          "description": "Introduction: CKL2CORPORA\n\n            \nWritten by Magali Paquot\nCKL2CORPORA was officially recognised as a K-centre by CLARIN on November 28, 2022. The centre offers expert knowledge on the compilation and use of L2 learner corpora, i.e., electronic collections of language data, produced by second or foreign language learners for theoretical and applied purposes. Expertise is shared in various ways, from answering theoretical, methodological, and technical questions sent via the helpdesk, to offering resources and providing training services.\nThe K-centre builds on more than 30 years of expertise in the study of learner corpora, from corpus design to corpus analysis and applications at the Centre for English Corpus Linguistics (CECL). In the late 1980s, the CECL pioneered learner corpus r…",
+          "link": "https://www.clarin.eu/blog/introduction-ckl2corpora",
+          "publishedOn": "2025-03-26T08:45:55.000Z",
+          "wordCount": 1729,
+          "title": "Introduction: CKL2CORPORA",
+          "imageUrl": null
+        },
+        {
           "id": "8775 at https://www.clarin.eu",
           "author": "Dieter Van Uytvanck",
           "description": "Centre news vol. 71 - March 2025\n\n            \nCentre Meeting 2025 schedule and location\nThe rough time schedule and detailed location information for the Centre Meeting on 21 and 22 May are now available on the CLARIN website. While the exact programme is being discussed and prepared, this should allow you to start booking travel and accommodation. \nCLARIN technical open hour, Monday 31 March at 11:00 CEST\nThe next edition of the technical open hour is planned for Monday 31 March at 11:00 CEST. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nThe dates for the upcoming open hours are now also set.\nSecurity advice: Shibboleth SP version 3.5.0 available\nThe CLARIN \n    \nEuropean Research Infrastructure Consortium     see: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\nService Provider; a synonym for an AAI-enabled resource     see: Federated Identity\n\n   was updated to v3.5.0 to mitigate this vulnerability \nIf you are running a Shibboleth Service Provider yourself, please make sure to update it as well! \nNew on the CLARIN forum\nECHOES Consultation: Help shape the Cultural Heritage Cloud\nECHOES Cascading Grants: Funding opportunity for CHIs\nNewly added tool to the switchboard: OCTRA\nUser data data anonymization\n\n      Dieter Van Uytvanck\n 24 March 2025\n\n\n    \ncentre news",
@@ -4250,16 +4270,6 @@
           "wordCount": 1852,
           "title": "A Bird in the House, God Bless Her: A Dublin Festival of History Event",
           "imageUrl": "https://dri.ie/app/uploads/2024/10/DFOH-1-1024x769.jpg"
-        },
-        {
-          "id": "https://dri.ie/?post_type=news&p=37717",
-          "author": "Beth Knazook",
-          "description": "In early February, the Digital Repository of Ireland (DRI) announced a new pilot programme designed to support the sustainability of ‘legacy’ research collections, i.e. research materials from closed projects, not previously published in a data repository for long-term preservation and access. Researchers or research groups were eligible to apply for a single deposit allocation (one […]\nThe post Legacy Data Preservation Pilot Collections Published appeared first on Digital Repository of Ireland.",
-          "link": "https://dri.ie/news/legacy-data-collections-published/",
-          "publishedOn": "2024-10-04T08:47:45.000Z",
-          "wordCount": 2254,
-          "title": "Legacy Data Preservation Pilot Collections Published",
-          "imageUrl": "https://dri.ie/app/uploads/2024/03/Pilot.jpg"
         }
       ]
     },
@@ -4432,21 +4442,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/ai_crash_course_series.png"
-        },
-        {
-          "id": "news-236",
-          "author": null,
-          "description": "News,\n                        Forschung\n                        \nDas Research Data Journal for the Humanities and Social Sciences veröffentlichte die Arbeit „Zwei Datensätze von genetischen Dossiers und autoralen Manuskripten“ von Elena Spadini.",
-          "link": "https://rise.unibas.ch/de/news/details/neuer-artikel-zur-genetischen-kritik-und-semantic-web-technologien/",
-          "publishedOn": "2024-10-04T07:32:29.000Z",
-          "wordCount": 278,
-          "title": "Neuer Artikel zur genetischen Kritik und Semantic Web Technologien",
-          "enclosure": {
-            "url": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/artikel_elena_2024-10.png",
-            "length": "1444389",
-            "type": "image/png"
-          },
-          "imageUrl": "https://rise.unibas.ch/fileadmin/user_upload/rise/Newsimages/artikel_elena_2024-10.png"
         }
       ]
     },

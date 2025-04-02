@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-04-01T08:31:49.184Z</updated>
+    <updated>2025-04-02T08:32:10.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How the Sounds (Im)properly Educate the People: Korea and the World, Then, and Now]]></title>
+        <id>http://digitalorientalist.com/?p=15417</id>
+        <link href="https://digitalorientalist.com/2025/04/01/how-the-sounds-improperly-educate-the-people-korea-and-the-world-then-and-now/"/>
+        <updated>2025-04-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This week’s post was written by Tomasz Sleziak. Sleziak is a scholar in Korean studies (particularly Korean but also global …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New Course in Gale Digital Scholar Lab: Introduction to Digital Humanities]]></title>
         <id>https://review.gale.com/?p=15886</id>
@@ -105,6 +115,37 @@ You are welcome to submit a news item with CLARIN-related news (or call for pape
 Newsflash]]></summary>
         <author>
             <name>Julia Misersky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tour de CLARIN: Interview with Magali Paquot and Robert Fuchs]]></title>
+        <id>8777 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/tour-de-clarin-interview-magali-paquot-and-robert-fuchs"/>
+        <updated>2025-03-26T09:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Tour de CLARIN: Interview with Magali Paquot and Robert Fuchs
+
+            
+The conversation was led by Kristina Pahor de Maiti Tekavčič
+Can you briefly present yourself and your connection to the Core Metadata Schema for Learner Corpora (LC-meta)?
+    
+Magali Paquot: I am an FNRS Senior Research Associate and Professor of Linguistics at UCLouvain, Belgium. My research focuses on learner corpora and explores key topics in Second Language Acquisition, including crosslinguistic influence, complexity, and phraseology, with a strong interest in methodological issues from corpus design to analysis. I coordinate the CLARIN Knowledge Centre for Learner Corpora, and I co-developed the Core Metadata Schema for Learner Corpora (LC-meta) together with Jennifer-Carmen Frey (Eurac Research), Egon Steml…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction: CKL2CORPORA]]></title>
+        <id>8776 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/introduction-ckl2corpora"/>
+        <updated>2025-03-26T08:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: CKL2CORPORA
+
+            
+Written by Magali Paquot
+CKL2CORPORA was officially recognised as a K-centre by CLARIN on November 28, 2022. The centre offers expert knowledge on the compilation and use of L2 learner corpora, i.e., electronic collections of language data, produced by second or foreign language learners for theoretical and applied purposes. Expertise is shared in various ways, from answering theoretical, methodological, and technical questions sent via the helpdesk, to offering resources and providing training services.
+The K-centre builds on more than 30 years of expertise in the study of learner corpora, from corpus design to corpus analysis and applications at the Centre for English Corpus Linguistics (CECL). In the late 1980s, the CECL pioneered learner corpus r…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
         </author>
     </entry>
     <entry>
@@ -4345,40 +4386,6 @@ Umfang: Vollzeit
 Die 1527 gegründete Philipps-Universität bietet vielfach…]]></summary>
         <author>
             <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digitising the Archives of a Rural Radio in Mali: A Transnational Project]]></title>
-        <id>http://digitalorientalist.com/?p=13612</id>
-        <link href="https://digitalorientalist.com/2024/10/04/digitising-the-archives-of-a-rural-radio-in-mali-a-transnational-project/"/>
-        <updated>2024-10-04T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Malian radio station in Kayes, close to the Senegalese border, was founded in 1988, as part of an Italian …]]></summary>
-        <author>
-            <name>Anaïs Wion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legacy Data Preservation Pilot Collections Published]]></title>
-        <id>https://dri.ie/?post_type=news&amp;p=37717</id>
-        <link href="https://dri.ie/news/legacy-data-collections-published/"/>
-        <updated>2024-10-04T08:47:45.000Z</updated>
-        <summary type="html"><![CDATA[In early February, the Digital Repository of Ireland (DRI) announced a new pilot programme designed to support the sustainability of ‘legacy’ research collections, i.e. research materials from closed projects, not previously published in a data repository for long-term preservation and access. Researchers or research groups were eligible to apply for a single deposit allocation (one […]
-The post Legacy Data Preservation Pilot Collections Published appeared first on Digital Repository of Ireland.]]></summary>
-        <author>
-            <name>Beth Knazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neuer Artikel zur genetischen Kritik und Semantic Web Technologien]]></title>
-        <id>news-236</id>
-        <link href="https://rise.unibas.ch/de/news/details/neuer-artikel-zur-genetischen-kritik-und-semantic-web-technologien/"/>
-        <updated>2024-10-04T07:32:29.000Z</updated>
-        <summary type="html"><![CDATA[News,
-                        Forschung
-                        
-Das Research Data Journal for the Humanities and Social Sciences veröffentlichte die Arbeit „Zwei Datensätze von genetischen Dossiers und autoralen Manuskripten“ von Elena Spadini.]]></summary>
-        <author>
-            <name>Aktuelles | Home | RISE | Research &amp; Infrastructure Support | Universität Basel</name>
         </author>
     </entry>
     <entry>
