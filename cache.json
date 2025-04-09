@@ -1179,6 +1179,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=15487",
+          "author": "James Harry Morris",
+          "description": "Over the past year, I have been working on a textual analysis project exploring Japanese understandings of Judaism, Israel, and …",
+          "link": "https://digitalorientalist.com/2025/04/08/on-voyant-tools-stopword-lists-and-japanese-textual-analysis-and-visualization/",
+          "publishedOn": "2025-04-08T13:00:00.000Z",
+          "wordCount": 5260,
+          "title": "On Voyant Tools, Stopword Lists, and Japanese Textual Analysis and Visualisation",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/04/cirrus1.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=15426",
           "author": "Daniel Wojahn",
           "description": "Header image generated with Ideogram.ai The CrossAsia Lab equips researchers in Asian Studies with practical tools to engage with data …",
@@ -1672,16 +1682,6 @@
           "wordCount": 5007,
           "title": "African Tech Inventions, Inclusive AI and Digital Innovation: A Historical Perspective",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/jpg.png"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=13659",
-          "author": "Zach Butler",
-          "description": "Introduction In my last post, I explored tools in a software package called Criticus that helps move from transcription to …",
-          "link": "https://digitalorientalist.com/2024/10/11/collating-greek-manuscripts/",
-          "publishedOn": "2024-10-11T13:00:00.000Z",
-          "wordCount": 5306,
-          "title": "Collating Greek Manuscripts",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/ga33.png?w=1200"
         }
       ]
     },
@@ -2387,6 +2387,26 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2025/04/09/more-than-million-rows-of.html",
+          "author": null,
+          "description": "The GLAM Name Index Search now includes more than 6 million rows of data from the Public Record Office Victoria, downloaded using their public API.\nThe GLAM Name Index Search brings together records that include the names of people from 10 Australian GLAM organisations. With a single search, you can find information about individuals across millions of rows of data.\n\r\nPrevious versions of the GLAM Name Index Search included a few datasets from the Public Record Office Victoria that had been shared through government open data portals. However, as I was exploring PROV’s public API recently, I realised that there were many more records that included people’s names.\nPeople’s names appear in a number of different fields in the PROV data – including family_name, description.name, and sams.descr…",
+          "link": "https://updates.timsherratt.org/2025/04/09/more-than-million-rows-of.html",
+          "publishedOn": "2025-04-09T05:28:46.000Z",
+          "wordCount": 606,
+          "title": "More than 6 million rows of data from Public Record Office Victoria added to the GLAM Name Index Search",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/screenshot-from-2025-04-09-15-19-57.png"
+        },
+        {
+          "id": "http://wragge.micro.blog/2025/04/09/introducing-provbot-sharing-photos-from.html",
+          "author": null,
+          "description": "With poor old TroveNewsBot killed by the NLA, my Mastodon feed has had less GLAM goodness of late. To try and fill the void I’ve created PROVBot, sharing photos from the Public Record Office Victoria.\n\r\nPROVBot makes use of the Public Record Office Victoria’s public API. At this stage it just selects and shares a random photograph once a day, but in the future I’ll probably add more features, such as the ability to respond to search queries.\nYou can find PROVBot on the Fediverse at https://wraggebots.net/@provbot. There’s also an RSS feed that you can pop into your preferred feed reader. The bot’s code is openly licensed and available on GitHub.",
+          "link": "https://updates.timsherratt.org/2025/04/09/introducing-provbot-sharing-photos-from.html",
+          "publishedOn": "2025-04-09T01:56:26.000Z",
+          "wordCount": 174,
+          "title": "Introducing PROVBot – sharing photos from Public Record Office Victoria",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/screenshot-from-2025-04-09-11-50-21.png"
+        },
         {
           "id": "http://wragge.micro.blog/2025/03/02/trove-api-users-beware-the.html",
           "author": null,
@@ -3894,6 +3914,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "8790 at https://www.clarin.eu",
+          "author": "Laura Gusan",
+          "description": "The First ECHOES Call is Open \n\n            \nWe are pleased to announce that CLARIN is part of the ECHOES Cascading Grants Programme, aimed at supporting data sharing, the enhancement of digital engagement, and collaboration within the Cultural Heritage Community. In this context, ECHOES works towards building the European Collaborative Cloud for Cultural Heritage (ECCCH), a shared platform designed for heritage professionals and researchers to access data, tools, and resources co-developed to meet the specific needs of the community.\n    \nThe First ECHOES Open Call for Cascading Grants, launched on 28 February 2025, invites stakeholders from the Cultural Heritage community to contribute datasets for the Cultural Heritage Cloud. The call encourages proposals that define the dataset’s intended user community, scope, expected outcomes, and broader benefits. A total of twelve projects will be funded, with each receiving up to €60,000. Eligible coordinators include any Cultural Heritage Institution (CHI) located in a Horizon Europe country, whether independently or as part of a consortium. Smaller, medium-size, and/or lesser resourced CHIs are particularly encouraged to submit their proposals. \nProposals are due by 23:59 CEST on 15 May 2025.\nTo assist applicants, the ECHOES team will host an online Q&A session on 17 April 2025, from 15:00-16:00 CEST via Zoom. This session will cover the application process, offer a submission platform demo, and address any questions. \nFor more information and to register for the Q&A session, visit the dedicated ECHOES page. \n\n      Laura Gusan\n 8 April 2025",
+          "link": "https://www.clarin.eu/news/first-echoes-call-is-open",
+          "publishedOn": "2025-04-08T14:50:29.000Z",
+          "wordCount": 504,
+          "title": "The First ECHOES Call is Open",
+          "imageUrl": null
+        },
         {
           "id": "8779 at https://www.clarin.eu",
           "author": "Julia Misersky",
