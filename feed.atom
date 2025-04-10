@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-04-09T08:34:06.944Z</updated>
+    <updated>2025-04-10T08:31:51.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using the Public Record Office Victoria's API to build an overview of their collection]]></title>
+        <id>http://wragge.micro.blog/2025/04/10/using-the-public-record-office.html</id>
+        <link href="https://updates.timsherratt.org/2025/04/10/using-the-public-record-office.html"/>
+        <updated>2025-04-10T03:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few weeks I’ve been exploring the Public Record Office Victoria’s public API. There’s not a lot of documentation, but there is a lot of data!
+What’s not immediately obvious is that the API includes information about a variety of different entities within the PROV’s model for archival description – not just items, but functions, agencies, series and more. You can limit your API requests to a particular entity using the category field. You can also request facet counts from the category field to tell you how many of each type of entity are available from the API.
+
+I’ve been documenting this sort of information in notebooks for inclusion in the forthcoming PROV section of the GLAM Workbench. But I thought it might be useful to pull a few things together as a standalone dashboard, providing an overview of the PROV collection. So, here it is!
+The dashboard tells you how many records are currently available through the API, and breaks down this count by entity, and category. It then works through the main entities – functions, agencies, series, items, and images – displaying a series of charts and tables that give you an idea what they’re actually made up of.
+
+
+The dashboard is hosted on GitHub and is automatically updated every Sunday. In the future, I’ll do more to highlight changes over time.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuition Support for DH@Guelph Summer Workshops]]></title>
+        <id>https://dhn.utoronto.ca/?p=9968</id>
+        <link href="https://dhn.utoronto.ca/dh-guelph-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dh-guelph-2025"/>
+        <updated>2025-04-09T17:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Deadline: Friday, April 25 at 4:00 pm EST Are you looking for more training in digital humanities tools and methods? CDHI is offering tuition support for graduate students, post-doctoral fellows, […]]]></summary>
+        <author>
+            <name>DHN Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHNB2025 main conference launches very soon, keynotes will be broadcasted]]></title>
+        <id>https://dhnb.eu/?p=3391</id>
+        <link href="https://dhnb.eu/dhnb2025-main-conference-launches-very-soon-keynotes-will-be-broadcasted/"/>
+        <updated>2025-04-09T12:09:19.000Z</updated>
+        <summary type="html"><![CDATA[DHNB pre-conference days with rich program of workshops, tutorials, and doctoral consortium are happily over. Main conference starts tomorrow with keynote presentation by Maciej Eder – “Text Analysis Is Easy, Unless It Is Not: Reliability Issues in Measuring Textual Similarities”. Conference opening and keynote tomorrow (5/3/25) at 11 Tallinn time) with the keynote speech by […]]]></summary>
+        <author>
+            <name>Mari Väina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More than 6 million rows of data from Public Record Office Victoria added to the GLAM Name Index Search]]></title>
         <id>http://wragge.micro.blog/2025/04/09/more-than-million-rows-of.html</id>
@@ -4505,28 +4542,6 @@ et en ligne
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DPASSH Conference Blog: The Hunt Museum Perspective]]></title>
-        <id>https://dri.ie/?post_type=news&amp;p=37939</id>
-        <link href="https://dri.ie/news/dpassh-conference-blog-the-hunt-museum-perspective/"/>
-        <updated>2024-10-11T15:20:40.000Z</updated>
-        <summary type="html"><![CDATA[In this post, the second of our DPASSH blog series, we invited Sian McInerney, Collections & Research Manager from The Hunt Museum to talk to us about the DPASSH 2024 Conference and the experience of co-hosting. In January 2024, the DRI asked the Hunt Museum and the University of Limerick to cohost their biennial Digital […]
-The post DPASSH Conference Blog: The Hunt Museum Perspective appeared first on Digital Repository of Ireland.]]></summary>
-        <author>
-            <name>Lorraine Marrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Bird in the House, God Bless Her: A Dublin Festival of History Event]]></title>
-        <id>https://dri.ie/?post_type=news&amp;p=38259</id>
-        <link href="https://dri.ie/news/folklore-dublin-festival-of-history-event/"/>
-        <updated>2024-10-10T15:10:19.000Z</updated>
-        <summary type="html"><![CDATA[On Wednesday 9th of October the Digital Repository of Ireland welcomed the winner of our 2024 Community Archive Scheme Michael Fortune of Folklore.ie to the Royal Irish Academy to talk to an audience about his collection of stories from the Irish Traveller community, A Bird in the House, God Bless Her.  Launched in 2019, the […]
-The post A Bird in the House, God Bless Her: A Dublin Festival of History Event appeared first on Digital Repository of Ireland.]]></summary>
-        <author>
-            <name>Lorraine Marrey</name>
         </author>
     </entry>
     <entry>

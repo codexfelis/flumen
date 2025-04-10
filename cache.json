@@ -29,6 +29,16 @@
       "siteUrl": "https://dhnb.eu",
       "articles": [
         {
+          "id": "https://dhnb.eu/?p=3391",
+          "author": "Mari Väina",
+          "description": "DHNB pre-conference days with rich program of workshops, tutorials, and doctoral consortium are happily over. Main conference starts tomorrow with keynote presentation by Maciej Eder – “Text Analysis Is Easy, Unless It Is Not: Reliability Issues in Measuring Textual Similarities”. Conference opening and keynote tomorrow (5/3/25) at 11 Tallinn time) with the keynote speech by […]",
+          "link": "https://dhnb.eu/dhnb2025-main-conference-launches-very-soon-keynotes-will-be-broadcasted/",
+          "publishedOn": "2025-04-09T12:09:19.000Z",
+          "wordCount": 652,
+          "title": "DHNB2025 main conference launches very soon, keynotes will be broadcasted",
+          "imageUrl": null
+        },
+        {
           "id": "https://dhnb.eu/?p=3389",
           "author": "Kadri Vider",
           "description": "First Keynote Speaker is Maciej Eder who is the director of the Institute of Polish Language (Polish Academy of Sciences), chair of the Committee of Linguistics at the Polish Academy of Sciences, principal investigator of the project Computational Literary Studies Infrastructure, co-founder of the Computational Stylistics Group, and the main developer of the R package […]",
@@ -862,6 +872,16 @@
       "feedUrl": "https://dhn.utoronto.ca/feed",
       "siteUrl": "https://dhn.utoronto.ca",
       "articles": [
+        {
+          "id": "https://dhn.utoronto.ca/?p=9968",
+          "author": "DHN Admin",
+          "description": "Deadline: Friday, April 25 at 4:00 pm EST Are you looking for more training in digital humanities tools and methods? CDHI is offering tuition support for graduate students, post-doctoral fellows, […]",
+          "link": "https://dhn.utoronto.ca/dh-guelph-2025/?utm_source=rss&utm_medium=rss&utm_campaign=dh-guelph-2025",
+          "publishedOn": "2025-04-09T17:53:55.000Z",
+          "wordCount": 3150,
+          "title": "Tuition Support for DH@Guelph Summer Workshops",
+          "imageUrl": null
+        },
         {
           "id": "https://dhn.utoronto.ca/?p=9905",
           "author": "DHN Admin",
@@ -2387,6 +2407,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2025/04/10/using-the-public-record-office.html",
+          "author": null,
+          "description": "Over the past few weeks I’ve been exploring the Public Record Office Victoria’s public API. There’s not a lot of documentation, but there is a lot of data!\nWhat’s not immediately obvious is that the API includes information about a variety of different entities within the PROV’s model for archival description – not just items, but functions, agencies, series and more. You can limit your API requests to a particular entity using the category field. You can also request facet counts from the category field to tell you how many of each type of entity are available from the API.\n\r\nI’ve been documenting this sort of information in notebooks for inclusion in the forthcoming PROV section of the GLAM Workbench. But I thought it might be useful to pull a few things together as a standalone dashboard, providing an overview of the PROV collection. So, here it is!\nThe dashboard tells you how many records are currently available through the API, and breaks down this count by entity, and category. It then works through the main entities – functions, agencies, series, items, and images – displaying a series of charts and tables that give you an idea what they’re actually made up of.\n\r\n\r\nThe dashboard is hosted on GitHub and is automatically updated every Sunday. In the future, I’ll do more to highlight changes over time.",
+          "link": "https://updates.timsherratt.org/2025/04/10/using-the-public-record-office.html",
+          "publishedOn": "2025-04-10T03:02:03.000Z",
+          "wordCount": 297,
+          "title": "Using the Public Record Office Victoria's API to build an overview of their collection",
+          "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/screenshot-from-2025-04-10-12-50-21.png"
+        },
         {
           "id": "http://wragge.micro.blog/2025/04/09/more-than-million-rows-of.html",
           "author": null,
@@ -4330,26 +4360,6 @@
           "wordCount": 2150,
           "title": "Web Archiving for DRI Members",
           "imageUrl": "https://dri.ie/app/uploads/2024/10/Web-Archiving-.png"
-        },
-        {
-          "id": "https://dri.ie/?post_type=news&p=37939",
-          "author": "Lorraine Marrey",
-          "description": "In this post, the second of our DPASSH blog series, we invited Sian McInerney, Collections & Research Manager from The Hunt Museum to talk to us about the DPASSH 2024 Conference and the experience of co-hosting. In January 2024, the DRI asked the Hunt Museum and the University of Limerick to cohost their biennial Digital […]\nThe post DPASSH Conference Blog: The Hunt Museum Perspective appeared first on Digital Repository of Ireland.",
-          "link": "https://dri.ie/news/dpassh-conference-blog-the-hunt-museum-perspective/",
-          "publishedOn": "2024-10-11T15:20:40.000Z",
-          "wordCount": 1919,
-          "title": "DPASSH Conference Blog: The Hunt Museum Perspective",
-          "imageUrl": "https://dri.ie/app/uploads/2024/10/SC-DPASSH-2.jpg"
-        },
-        {
-          "id": "https://dri.ie/?post_type=news&p=38259",
-          "author": "Lorraine Marrey",
-          "description": "On Wednesday 9th of October the Digital Repository of Ireland welcomed the winner of our 2024 Community Archive Scheme Michael Fortune of Folklore.ie to the Royal Irish Academy to talk to an audience about his collection of stories from the Irish Traveller community, A Bird in the House, God Bless Her.  Launched in 2019, the […]\nThe post A Bird in the House, God Bless Her: A Dublin Festival of History Event appeared first on Digital Repository of Ireland.",
-          "link": "https://dri.ie/news/folklore-dublin-festival-of-history-event/",
-          "publishedOn": "2024-10-10T15:10:19.000Z",
-          "wordCount": 1852,
-          "title": "A Bird in the House, God Bless Her: A Dublin Festival of History Event",
-          "imageUrl": "https://dri.ie/app/uploads/2024/10/DFOH-1-1024x769.jpg"
         }
       ]
     },
