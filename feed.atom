@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-04-10T08:31:51.120Z</updated>
+    <updated>2025-04-11T08:31:52.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update on Trove data access and my suspended API keys]]></title>
+        <id>http://wragge.micro.blog/2025/04/11/update-on-trove-data-access.html</id>
+        <link href="https://updates.timsherratt.org/2025/04/11/update-on-trove-data-access.html"/>
+        <updated>2025-04-11T05:27:16.000Z</updated>
+        <summary type="html"><![CDATA[On 21 February, my Trove API keys were cancelled without warning. A week later, I met with NLA staff and was shocked to be told that downloading ‘content’, such as the text of digitised newspaper articles, was regarded as a breach of the API terms of use. Without API access I can’t continue my work helping researchers make use of Trove. More generally though, the NLA’s actions threaten innovative digital research. This post tries to answer some questions raised by my first two posts, and provides some updates on recent actions by the NLA.
+What’s an API key?
+You might be wondering what an API key is and why it’s important. At its heart, it’s all about access to data. The Trove API delivers information from Trove in a form that computers can understand and process. This allows researchers to…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using the Public Record Office Victoria's API to build an overview of their collection]]></title>
         <id>http://wragge.micro.blog/2025/04/10/using-the-public-record-office.html</id>
@@ -4521,27 +4533,6 @@ Continue reading “Event Series: DH@rts Drop-in Sessions (Fall 2024)”…]]></
 Continue reading “Training: How Do You Do (It)? A behind-the-scenes look at research workflows (KU Leuven)”…]]></summary>
         <author>
             <name>Rebecca Burke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gagner sa vie sur Internet en tant que petit créateur de contenus]]></title>
-        <id>5185 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/gagner-sa-vie-sur-internet-en-tant-que-petit-createur-de-contenus"/>
-        <updated>2024-10-13T07:29:47.000Z</updated>
-        <summary type="html"><![CDATA[En 2018, Laurent Ridel, historien de formation, crée le blog Décoder les églises et les châteaux. Son but est d’aider le grand public dans leurs visites des monuments du Moyen Âge. L’enjeu est aussi de générer des revenus pour son auteur. Comment peut-on monétiser un site à vocation culturelle ? Le blogueur doit se transformer en infopreneur, un entrepreneur du web qui vend des produits d’informations. Quels sont les avantages et les difficultés de ce statut?
- 
-Mardi, 22 Octobre 2024
-11.00 - 12.00
-"Aquarium", 4e étage, Maison des Sciences humaines
-et en ligne
-22 October 2024
-  Public history
-  Digital methods  Media history
-  Conferences
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>

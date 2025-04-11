@@ -2408,6 +2408,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2025/04/11/update-on-trove-data-access.html",
+          "author": null,
+          "description": "On 21 February, my Trove API keys were cancelled without warning. A week later, I met with NLA staff and was shocked to be told that downloading ‘content’, such as the text of digitised newspaper articles, was regarded as a breach of the API terms of use. Without API access I can’t continue my work helping researchers make use of Trove. More generally though, the NLA’s actions threaten innovative digital research. This post tries to answer some questions raised by my first two posts, and provides some updates on recent actions by the NLA.\nWhat’s an API key?\nYou might be wondering what an API key is and why it’s important. At its heart, it’s all about access to data. The Trove API delivers information from Trove in a form that computers can understand and process. This allows researchers to…",
+          "link": "https://updates.timsherratt.org/2025/04/11/update-on-trove-data-access.html",
+          "publishedOn": "2025-04-11T05:27:16.000Z",
+          "wordCount": 2257,
+          "title": "Update on Trove data access and my suspended API keys",
+          "imageUrl": null
+        },
+        {
           "id": "http://wragge.micro.blog/2025/04/10/using-the-public-record-office.html",
           "author": null,
           "description": "Over the past few weeks I’ve been exploring the Public Record Office Victoria’s public API. There’s not a lot of documentation, but there is a lot of data!\nWhat’s not immediately obvious is that the API includes information about a variety of different entities within the PROV’s model for archival description – not just items, but functions, agencies, series and more. You can limit your API requests to a particular entity using the category field. You can also request facet counts from the category field to tell you how many of each type of entity are available from the API.\n\r\nI’ve been documenting this sort of information in notebooks for inclusion in the forthcoming PROV section of the GLAM Workbench. But I thought it might be useful to pull a few things together as a standalone dashboard, providing an overview of the PROV collection. So, here it is!\nThe dashboard tells you how many records are currently available through the API, and breaks down this count by entity, and category. It then works through the main entities – functions, agencies, series, items, and images – displaying a series of charts and tables that give you an idea what they’re actually made up of.\n\r\n\r\nThe dashboard is hosted on GitHub and is automatically updated every Sunday. In the future, I’ll do more to highlight changes over time.",
@@ -2879,16 +2889,6 @@
           "wordCount": 369,
           "title": "From Bremen to Esch: The International History of SUDenergie",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_research_seminars_content_list.png?itok=Nwm2C3Di"
-        },
-        {
-          "id": "5185 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "En 2018, Laurent Ridel, historien de formation, crée le blog Décoder les églises et les châteaux. Son but est d’aider le grand public dans leurs visites des monuments du Moyen Âge. L’enjeu est aussi de générer des revenus pour son auteur. Comment peut-on monétiser un site à vocation culturelle ? Le blogueur doit se transformer en infopreneur, un entrepreneur du web qui vend des produits d’informations. Quels sont les avantages et les difficultés de ce statut?\n \nMardi, 22 Octobre 2024\n11.00 - 12.00\n\"Aquarium\", 4e étage, Maison des Sciences humaines\net en ligne\n22 October 2024\n  Public history\n  Digital methods  Media history\n  Conferences\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/gagner-sa-vie-sur-internet-en-tant-que-petit-createur-de-contenus",
-          "publishedOn": "2024-10-13T07:29:47.000Z",
-          "wordCount": 373,
-          "title": "Gagner sa vie sur Internet en tant que petit créateur de contenus",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/1684949601450.jpeg?itok=AKGU-HF6"
         }
       ]
     },
