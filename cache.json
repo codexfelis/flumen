@@ -1235,16 +1235,6 @@
           "wordCount": 945,
           "title": "Beteiligung am Austausch zu „Praktiken der DH“",
           "imageUrl": null
-        },
-        {
-          "id": "node/965",
-          "author": "434",
-          "description": "Eintrittstermin: nächstmöglich • Bewerbungsfrist: 31.10.2024 • Entgeltgruppe: E 13 TV-L • Befristung: 31.3.2027 • Umfang: 50%\nDie Technische Universität Chemnitz hat sich als…",
-          "link": "https://dig-hum.de/aktuelles/wissenschaftlicher-mitarbeiterin-tu-chemnitz-memetische-analysen",
-          "publishedOn": "2024-10-22T08:28:00.604Z",
-          "wordCount": 1324,
-          "title": "Wissenschaftliche/r Mitarbeiter/in TU Chemnitz (Memetische Analysen)",
-          "imageUrl": null
         }
       ]
     },
@@ -1822,16 +1812,6 @@
           "wordCount": 5842,
           "title": "Artificial Intelligence for Garshuni-Arabic on Gemini",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/20241015_190615.jpg?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=13713",
-          "author": "Edward A. S. Ross",
-          "description": "This is part one of a three-part series on the biases about the Hellenistic Central Asia in generative artificial intelligence (AI) datasets. The first and most glaring use of generative AI involving Hellenistic Central Asia is AI-generated imagery. The history of Hellenistic Central Asia, much like most genres of history, is illustrated through this medium with very little regulation.",
-          "link": "https://digitalorientalist.com/2024/10/22/hellenistic-central-asia-through-the-eyes-of-genai-part-1-images/",
-          "publishedOn": "2024-10-22T13:00:00.000Z",
-          "wordCount": 5684,
-          "title": "Hellenistic Central Asia through the Eyes of GenAI – Part 1: Images",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/dalle-2024-10-17-12-12-17-hellenistic-bactria.webp?w=1200"
         }
       ]
     },
@@ -2162,6 +2142,21 @@
       "feedUrl": "https://radihum20.de/feed",
       "siteUrl": "https://radihum20.de/",
       "articles": [
+        {
+          "id": "https://radihum20.de/?p=1081",
+          "author": "Clara Helmig",
+          "description": "In der vierten Folge unserer achten Staffel widmen wir uns einem Thema, das vielleicht auf den ersten Blick etwas sperrig klingt, bei genauerem Hinsehen aber zentrale Fragen der DH berührt: der Nationalen Forschungsdateninfrastruktur, kurz: NFDI. Gemeinsam mit John Wood (NFDI4Memory), Sarah Pittroff (NFDI4Culture),  Christin Keller (NFDI4Objects) und Thorsten Trippel (Text+)  sprechen wir über die Rolle […]\nDer Beitrag RaDiHum20 spricht mit Verterter*innen der Humanities@NFDI erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/radihum20-spricht-mit-verterterinnen-der-humanitiesnfdi/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-spricht-mit-verterterinnen-der-humanitiesnfdi",
+          "publishedOn": "2025-04-20T06:00:00.000Z",
+          "wordCount": 3521,
+          "title": "RaDiHum20 spricht mit Verterter*innen der Humanities@NFDI",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/Folge4_Staffel8.mp3",
+            "length": "88364109",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://radihum20.de/?p=1069",
           "author": "Clara Helmig",
@@ -4388,26 +4383,6 @@
           "publishedOn": "2024-10-30T12:54:47.000Z",
           "wordCount": 352,
           "title": "CLARIN Newsflash October 2024 Is Out",
-          "imageUrl": null
-        },
-        {
-          "id": "8565 at https://www.clarin.eu",
-          "author": "l.gusan@uu.nl",
-          "description": "CLARIN2024 Annual Conference Summary \n\n            \nThe CLARIN2024 Annual Conference brought together academics and professionals from the wider humanities and social science communities to exchange ideas and experiences with the CLARIN infrastructure.\n  \n\n\n      \n\n\n\n\n  \n  \n            \n    \nThis year, the CLARIN Annual Conference was a hybrid event in Barcelona, Spain. With more than 200 in-person participants and close to 150 online participants, this was an engaging and successful event. In addition to engaging keynote speeches, more than 20 abstract presentations, and interactive poster sessions, the conference also included the very first Building Bridges with Industry session. And as it is now becoming a tradition, during the conference dinner, the CLARINets (i.e., the CLARIN band) d…",
-          "link": "https://www.clarin.eu/news/clarin2024-annual-conference-summary",
-          "publishedOn": "2024-10-22T11:23:03.000Z",
-          "wordCount": 920,
-          "title": "CLARIN2024 Annual Conference Summary",
-          "imageUrl": null
-        },
-        {
-          "id": "8564 at https://www.clarin.eu",
-          "author": "l.gusan@uu.nl",
-          "description": "New CLARIN Resource Family: Corpora of Disordered Speech\n\n            \nThe CLARIN Resource Families (CRF) provide user-friendly overviews of available language resources in the CLARIN infrastructure for researchers from the digital humanities, social sciences and human language technologies. Many CRF are datasets of various types, including corpora, lexicons and software applications and tools. Until now, a missing resource family was the Corpora for Speech with Disorders (CSD), or the corpora with speech from individuals with language and speech disorders. \n    \nCSD are invaluable resources for education and research. However, they are costly, hard to build, and can be difficult to share given various issues, such as the preservation of privacy and confidentiality of the participants, as …",
-          "link": "https://www.clarin.eu/blog/new-clarin-resource-family-corpora-disordered-speech",
-          "publishedOn": "2024-10-22T07:46:18.000Z",
-          "wordCount": 671,
-          "title": "New CLARIN Resource Family: Corpora of Disordered Speech",
           "imageUrl": null
         }
       ]

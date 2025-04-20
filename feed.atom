@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-04-19T08:27:15.974Z</updated>
+    <updated>2025-04-20T08:27:08.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit Verterter*innen der Humanities@NFDI]]></title>
+        <id>https://radihum20.de/?p=1081</id>
+        <link href="https://radihum20.de/radihum20-spricht-mit-verterterinnen-der-humanitiesnfdi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-spricht-mit-verterterinnen-der-humanitiesnfdi"/>
+        <updated>2025-04-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In der vierten Folge unserer achten Staffel widmen wir uns einem Thema, das vielleicht auf den ersten Blick etwas sperrig klingt, bei genauerem Hinsehen aber zentrale Fragen der DH berührt: der Nationalen Forschungsdateninfrastruktur, kurz: NFDI. Gemeinsam mit John Wood (NFDI4Memory), Sarah Pittroff (NFDI4Culture),  Christin Keller (NFDI4Objects) und Thorsten Trippel (Text+)  sprechen wir über die Rolle […]
+Der Beitrag RaDiHum20 spricht mit Verterter*innen der Humanities@NFDI erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Clara Helmig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RECOMMENDED: Static Web Methodology as a Sustainable Approach to Digital Humanities Projects]]></title>
         <id>https://dhandlib.org/?p=184931</id>
@@ -4646,68 +4657,6 @@ Geoffrey Rockwell (University of Alberta, Canada)
 Ray Siemens (University of Victoria, Canada)]]></summary>
         <author>
             <name>adminweb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hellenistic Central Asia through the Eyes of GenAI – Part 1: Images]]></title>
-        <id>http://digitalorientalist.com/?p=13713</id>
-        <link href="https://digitalorientalist.com/2024/10/22/hellenistic-central-asia-through-the-eyes-of-genai-part-1-images/"/>
-        <updated>2024-10-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is part one of a three-part series on the biases about the Hellenistic Central Asia in generative artificial intelligence (AI) datasets. The first and most glaring use of generative AI involving Hellenistic Central Asia is AI-generated imagery. The history of Hellenistic Central Asia, much like most genres of history, is illustrated through this medium with very little regulation.]]></summary>
-        <author>
-            <name>Edward A. S. Ross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARIN2024 Annual Conference Summary]]></title>
-        <id>8565 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/clarin2024-annual-conference-summary"/>
-        <updated>2024-10-22T11:23:03.000Z</updated>
-        <summary type="html"><![CDATA[CLARIN2024 Annual Conference Summary 
-
-            
-The CLARIN2024 Annual Conference brought together academics and professionals from the wider humanities and social science communities to exchange ideas and experiences with the CLARIN infrastructure.
-  
-
-
-      
-
-
-
-
-  
-  
-            
-    
-This year, the CLARIN Annual Conference was a hybrid event in Barcelona, Spain. With more than 200 in-person participants and close to 150 online participants, this was an engaging and successful event. In addition to engaging keynote speeches, more than 20 abstract presentations, and interactive poster sessions, the conference also included the very first Building Bridges with Industry session. And as it is now becoming a tradition, during the conference dinner, the CLARINets (i.e., the CLARIN band) d…]]></summary>
-        <author>
-            <name>l.gusan@uu.nl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wissenschaftliche/r Mitarbeiter/in TU Chemnitz (Memetische Analysen)]]></title>
-        <id>node/965</id>
-        <link href="https://dig-hum.de/aktuelles/wissenschaftlicher-mitarbeiterin-tu-chemnitz-memetische-analysen"/>
-        <updated>2024-10-22T08:28:00.604Z</updated>
-        <summary type="html"><![CDATA[Eintrittstermin: nächstmöglich • Bewerbungsfrist: 31.10.2024 • Entgeltgruppe: E 13 TV-L • Befristung: 31.3.2027 • Umfang: 50%
-Die Technische Universität Chemnitz hat sich als…]]></summary>
-        <author>
-            <name>434</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New CLARIN Resource Family: Corpora of Disordered Speech]]></title>
-        <id>8564 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/new-clarin-resource-family-corpora-disordered-speech"/>
-        <updated>2024-10-22T07:46:18.000Z</updated>
-        <summary type="html"><![CDATA[New CLARIN Resource Family: Corpora of Disordered Speech
-
-            
-The CLARIN Resource Families (CRF) provide user-friendly overviews of available language resources in the CLARIN infrastructure for researchers from the digital humanities, social sciences and human language technologies. Many CRF are datasets of various types, including corpora, lexicons and software applications and tools. Until now, a missing resource family was the Corpora for Speech with Disorders (CSD), or the corpora with speech from individuals with language and speech disorders. 
-    
-CSD are invaluable resources for education and research. However, they are costly, hard to build, and can be difficult to share given various issues, such as the preservation of privacy and confidentiality of the participants, as …]]></summary>
-        <author>
-            <name>l.gusan@uu.nl</name>
         </author>
     </entry>
     <entry>
