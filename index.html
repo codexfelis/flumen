@@ -48,6 +48,22 @@
     <p>A newsfeed and aggregator for the digital humanities by <a href="https://codexfelis.dev">Codex Felis</a></p>
 
     <section>
+      <h2>2025-04-28</h2>
+      <article>
+        <a href=https://updates.timsherratt.org/2025/04/28/the-glam-workbench-introduction-to.html target="_blank" rel="noopener noreferrer">
+          <h3>The GLAM Workbench introduction to how notebooks work now runs in Jupyter Lite<span aria-hidden="true"></span></h3>
+        </a>
+        <p class="dim">Source: <a href=https://updates.timsherratt.org/>Tim Sherratt</a> |
+          Reading time: 1 minutes </p>
+        <p>I’ve just updated my introduction to using Jupyter notebooks in the GLAM Workbench so that it runs in Jupyter Lite – that means no more waiting for cloud services to spin up, it all happens in your browser!
+All the Jupyter notebooks in GLAM Workbench can be run in the cloud using the free Binder service – either through the ARDC (requires authentication), or through the public, community-run service. While it’s usually just a matter of clicking a link, Binder can take a while to build the necessary computing environment, and sometimes it just fails. Jupyter Lite takes a different approach. Instead of building things in the cloud, it sets up everything it needs to run notebooks within your own browser.
+I’ve been experimenting with Jupyter Lite a bit over the past couple of years, waiting for the technology to reach the point where I could integrate it into the GLAM Workbench without greatly multiplying the maintenance burden. The obvious place to start was my introductory notebook, which demonstrates how Jupyter notebooks themselves work. Using live data from the National Museum of Australia API, it describes the basic structure of notebooks, and shows you how to edit and run code within them. I’ve now set things up so this notebook runs in Jupyter Lite.
+What does this mean? Previously, the link to the introductory notebook spun up a new Binder instance. Now, the link retrieves a static web page hosted on GitHub. As this page loads, it installs a Python kernel and everything else it needs to run the notebook within your browser. It’s a lot faster than waiting for Binder, and provides a smoother experience for new users. And because it’s just an ordinary web page, I can even embed a live, working version of the notebook within this blog post. Try it out!
+
+Jupyter Lite won’t currently work with every notebook in the GLAM Workbench. Some Python packages are difficult to install, and some data sources can’t be accessed due to CORS problems. But I’m planning to add Jupyter Lite options where I can.</p>
+      </article>
+    </section>
+    <section>
       <h2>2025-04-25</h2>
       <article>
         <a href=https://eadh.org/news/2025/04/25/call-nominations-join-eadh-executive-committee-2025-2028 target="_blank" rel="noopener noreferrer">
@@ -4319,39 +4335,6 @@ für unsere interdisziplinäre Community ist ein offener Austausch von großer B
       </article>
     </section>
     <section>
-      <h2>2024-10-30</h2>
-      <article>
-        <a href=https://www.clarin.eu/news/clarin-newsflash-october-2024-is-out target="_blank" rel="noopener noreferrer">
-          <h3>CLARIN Newsflash October 2024 Is Out<span aria-hidden="true"></span></h3>
-        </a>
-        <p class="dim">Source: <a href=https://www.clarin.eu/>CLARIN ERIC</a> |
-          Reading time: 1 minutes </p>
-        <p>CLARIN Newsflash October 2024 Is Out
-
-            
-
-  
-  
-            
-  
-
-
-
-      
-
-Every month, CLARIN publishes a Newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.
-Read the most recent CLARIN Newsflash: October 2024
-Subscribing to it is the ideal way of staying informed.
-Subscribe here
-Past issues of the CLARIN Newsflash
- 
-You are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.
-
-      Julia Misersky
- 30 October 2024</p>
-      </article>
-    </section>
-    <section>
       <h2>2024-10-15</h2>
       <article>
         <a href=https://scholarlytales.hcommons.org/2024/10/15/event-open-access-belgium-2024/ target="_blank" rel="noopener noreferrer">
@@ -5525,7 +5508,7 @@ Continue reading “Preprints: Where are we now?”…</p>
             src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi donations" class="kofiimg">Buy us
           coffee</span></a></div>
 
-    <p class="dim">Last updated 2025-04-27T08:28:10.058Z</p>
+    <p class="dim">Last updated 2025-04-28T09:22:10.363Z</p>
 
   </footer>
 </body>

@@ -2568,6 +2568,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2025/04/28/the-glam-workbench-introduction-to.html",
+          "author": null,
+          "description": "I’ve just updated my introduction to using Jupyter notebooks in the GLAM Workbench so that it runs in Jupyter Lite – that means no more waiting for cloud services to spin up, it all happens in your browser!\nAll the Jupyter notebooks in GLAM Workbench can be run in the cloud using the free Binder service – either through the ARDC (requires authentication), or through the public, community-run service. While it’s usually just a matter of clicking a link, Binder can take a while to build the necessary computing environment, and sometimes it just fails. Jupyter Lite takes a different approach. Instead of building things in the cloud, it sets up everything it needs to run notebooks within your own browser.\nI’ve been experimenting with Jupyter Lite a bit over the past couple of years, waiting for the technology to reach the point where I could integrate it into the GLAM Workbench without greatly multiplying the maintenance burden. The obvious place to start was my introductory notebook, which demonstrates how Jupyter notebooks themselves work. Using live data from the National Museum of Australia API, it describes the basic structure of notebooks, and shows you how to edit and run code within them. I’ve now set things up so this notebook runs in Jupyter Lite.\nWhat does this mean? Previously, the link to the introductory notebook spun up a new Binder instance. Now, the link retrieves a static web page hosted on GitHub. As this page loads, it installs a Python kernel and everything else it needs to run the notebook within your browser. It’s a lot faster than waiting for Binder, and provides a smoother experience for new users. And because it’s just an ordinary web page, I can even embed a live, working version of the notebook within this blog post. Try it out!\n\nJupyter Lite won’t currently work with every notebook in the GLAM Workbench. Some Python packages are difficult to install, and some data sources can’t be accessed due to CORS problems. But I’m planning to add Jupyter Lite options where I can.",
+          "link": "https://updates.timsherratt.org/2025/04/28/the-glam-workbench-introduction-to.html",
+          "publishedOn": "2025-04-28T01:51:42.000Z",
+          "wordCount": 415,
+          "title": "The GLAM Workbench introduction to how notebooks work now runs in Jupyter Lite",
+          "imageUrl": null
+        },
+        {
           "id": "http://wragge.micro.blog/2025/04/11/update-on-trove-data-access.html",
           "author": null,
           "description": "On 21 February, my Trove API keys were cancelled without warning. A week later, I met with NLA staff and was shocked to be told that downloading ‘content’, such as the text of digitised newspaper articles, was regarded as a breach of the API terms of use. Without API access I can’t continue my work helping researchers make use of Trove. More generally though, the NLA’s actions threaten innovative digital research. This post tries to answer some questions raised by my first two posts, and provides some updates on recent actions by the NLA.\nWhat’s an API key?\nYou might be wondering what an API key is and why it’s important. At its heart, it’s all about access to data. The Trove API delivers information from Trove in a form that computers can understand and process. This allows researchers to…",
@@ -4382,16 +4392,6 @@
           "publishedOn": "2024-11-12T10:10:27.000Z",
           "wordCount": 418,
           "title": "CLARIN2025 in Vienna",
-          "imageUrl": null
-        },
-        {
-          "id": "8567 at https://www.clarin.eu",
-          "author": "Julia Misersky",
-          "description": "CLARIN Newsflash October 2024 Is Out\n\n            \n\n  \n  \n            \n  \n\n\n\n      \n\nEvery month, CLARIN publishes a Newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.\nRead the most recent CLARIN Newsflash: October 2024\nSubscribing to it is the ideal way of staying informed.\nSubscribe here\nPast issues of the CLARIN Newsflash\n \nYou are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.\n\n      Julia Misersky\n 30 October 2024",
-          "link": "https://www.clarin.eu/news/clarin-newsflash-october-2024-is-out",
-          "publishedOn": "2024-10-30T12:54:47.000Z",
-          "wordCount": 352,
-          "title": "CLARIN Newsflash October 2024 Is Out",
           "imageUrl": null
         }
       ]
