@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-04-28T09:22:10.384Z</updated>
+    <updated>2025-04-29T08:33:46.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Journey Through the Digital Humanities: My Year at the DHLC]]></title>
+        <id>https://dhlc.cal.msu.edu/?p=974</id>
+        <link href="https://dhlc.cal.msu.edu/2025/04/29/a-journey-through-the-digital-humanities-my-year-at-the-dhlc/"/>
+        <updated>2025-04-29T01:34:11.000Z</updated>
+        <summary type="html"><![CDATA[By Cheyenne Symonette As a Graduate Research Assistant at the Digital Humanities and Literary Cognition Lab (DHLC) at Michigan State University, I had the privilege of working across a range of innovative and dynamic projects, each contributing to my growth as a scholar. From coordinating interdisciplinary research to serving as Associate Editor of the Voices […]]]></summary>
+        <author>
+            <name>chambl91</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The GLAM Workbench introduction to how notebooks work now runs in Jupyter Lite]]></title>
         <id>http://wragge.micro.blog/2025/04/28/the-glam-workbench-introduction-to.html</id>
@@ -245,6 +255,17 @@ You considerably contributed to the creation of the ParlaMint-UA corpus. Can you
         <summary type="html"><![CDATA[The Digital Humanities and Literary Cognition Lab (DHLC) has recently made significant progress in its interdisciplinary research. Below are brief updates on key projects currently being worked on: Creativity in the Time of COVID-19 (CTC-19)  The Creativity in the Time of COVID-19: Art as Medicine project, funded by a $3 million Mellon grant, began in […]]]></summary>
         <author>
             <name>chambl91</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit Vertreter*innen der Humanities@NFDI]]></title>
+        <id>https://radihum20.de/?p=1081</id>
+        <link href="https://radihum20.de/radihum20-spricht-mit-vertreterinnen-der-humanitiesnfdi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-spricht-mit-vertreterinnen-der-humanitiesnfdi"/>
+        <updated>2025-04-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In der vierten Folge unserer achten Staffel widmen wir uns einem Thema, das vielleicht auf den ersten Blick etwas sperrig klingt, bei genauerem Hinsehen aber zentrale Fragen der DH berührt: der Nationalen Forschungsdateninfrastruktur, kurz: NFDI. Gemeinsam mit John Wood (NFDI4Memory), Sarah Pittroff (NFDI4Culture),  Christin Keller (NFDI4Objects) und Thorsten Trippel (Text+)  sprechen wir über die Rolle […]
+Der Beitrag RaDiHum20 spricht mit Vertreter*innen der Humanities@NFDI erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Clara Helmig</name>
         </author>
     </entry>
     <entry>
@@ -4645,28 +4666,6 @@ The post RLUK libraries X research appeared first on Research Libraries UK.]]></
         <summary type="html"><![CDATA[This is a guest post by Enfu Zhang. See author bio at the end of the page. As the Tangut …]]></summary>
         <author>
             <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surfacing Legacy Data from the Dún Ailinne Excavation Archive]]></title>
-        <id>https://dri.ie/?post_type=news&amp;p=39728</id>
-        <link href="https://dri.ie/news/surfacing-legacy-data-from-the-dun-ailinne-excavation-archive/"/>
-        <updated>2024-10-31T16:15:01.000Z</updated>
-        <summary type="html"><![CDATA[This blog post features a new collection from the recent Legacy Data Preservation Pilot. The 2024 pilot was designed to capture and preserve at-risk data from completed research projects. There were 8 successful applicants to the scheme who worked with DRI staff and professional data stewards to ensure their research materials will remain accessible for the […]
-The post Surfacing Legacy Data from the Dún Ailinne Excavation Archive appeared first on Digital Repository of Ireland.]]></summary>
-        <author>
-            <name>Beth Knazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Einladung zum DHd Community Forum am 8.11.2024]]></title>
-        <id>node/969</id>
-        <link href="https://dig-hum.de/aktuelles/einladung-zum-dhd-community-forum-am-8112024"/>
-        <updated>2024-10-31T08:26:05.043Z</updated>
-        <summary type="html"><![CDATA[Liebe Mitglieder des DHd-Verbandes und Interessierte,
-für unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…]]></summary>
-        <author>
-            <name>434</name>
         </author>
     </entry>
     <entry>

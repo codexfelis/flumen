@@ -936,6 +936,16 @@
       "siteUrl": "https://dhlc.cal.msu.edu",
       "articles": [
         {
+          "id": "https://dhlc.cal.msu.edu/?p=974",
+          "author": "chambl91",
+          "description": "By Cheyenne Symonette As a Graduate Research Assistant at the Digital Humanities and Literary Cognition Lab (DHLC) at Michigan State University, I had the privilege of working across a range of innovative and dynamic projects, each contributing to my growth as a scholar. From coordinating interdisciplinary research to serving as Associate Editor of the Voices […]",
+          "link": "https://dhlc.cal.msu.edu/2025/04/29/a-journey-through-the-digital-humanities-my-year-at-the-dhlc/",
+          "publishedOn": "2025-04-29T01:34:11.000Z",
+          "wordCount": 2254,
+          "title": "A Journey Through the Digital Humanities: My Year at the DHLC",
+          "imageUrl": null
+        },
+        {
           "id": "https://dhlc.cal.msu.edu/?p=960",
           "author": "chambl91",
           "description": "The Digital Humanities and Literary Cognition Lab (DHLC) has recently made significant progress in its interdisciplinary research. Below are brief updates on key projects currently being worked on: Creativity in the Time of COVID-19 (CTC-19)  The Creativity in the Time of COVID-19: Art as Medicine project, funded by a $3 million Mellon grant, began in […]",
@@ -1194,16 +1204,6 @@
           "publishedOn": "2024-11-14T09:48:27.000Z",
           "wordCount": 1011,
           "title": "Zwei Jahre fedihum.org: Die Mastodon-Instanz des DHd-Verbands hat Geburtstag",
-          "imageUrl": null
-        },
-        {
-          "id": "node/969",
-          "author": "434",
-          "description": "Liebe Mitglieder des DHd-Verbandes und Interessierte,\nfür unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…",
-          "link": "https://dig-hum.de/aktuelles/einladung-zum-dhd-community-forum-am-8112024",
-          "publishedOn": "2024-10-31T08:26:05.043Z",
-          "wordCount": 1058,
-          "title": "Einladung zum DHd Community Forum am 8.11.2024",
           "imageUrl": null
         }
       ]
@@ -2162,6 +2162,21 @@
       "feedUrl": "https://radihum20.de/feed",
       "siteUrl": "https://radihum20.de/",
       "articles": [
+        {
+          "id": "https://radihum20.de/?p=1081",
+          "author": "Clara Helmig",
+          "description": "In der vierten Folge unserer achten Staffel widmen wir uns einem Thema, das vielleicht auf den ersten Blick etwas sperrig klingt, bei genauerem Hinsehen aber zentrale Fragen der DH berührt: der Nationalen Forschungsdateninfrastruktur, kurz: NFDI. Gemeinsam mit John Wood (NFDI4Memory), Sarah Pittroff (NFDI4Culture),  Christin Keller (NFDI4Objects) und Thorsten Trippel (Text+)  sprechen wir über die Rolle […]\nDer Beitrag RaDiHum20 spricht mit Vertreter*innen der Humanities@NFDI erschien zuerst auf RaDiHum 20.",
+          "link": "https://radihum20.de/radihum20-spricht-mit-vertreterinnen-der-humanitiesnfdi/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-spricht-mit-vertreterinnen-der-humanitiesnfdi",
+          "publishedOn": "2025-04-20T06:00:00.000Z",
+          "wordCount": 3521,
+          "title": "RaDiHum20 spricht mit Vertreter*innen der Humanities@NFDI",
+          "enclosure": {
+            "url": "https://hnp9zs.podcaster.de/download/Folge4_Staffel8.mp3",
+            "length": "88364109",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://radihum20.de/?p=1081",
           "author": "Clara Helmig",
@@ -4460,16 +4475,6 @@
           "wordCount": 2435,
           "title": "Four new Collections in DRI from Clare Memories / Cuimhneamh an Chláir",
           "imageUrl": "https://dri.ie/app/uploads/2023/12/new-collection-1.png"
-        },
-        {
-          "id": "https://dri.ie/?post_type=news&p=39728",
-          "author": "Beth Knazook",
-          "description": "This blog post features a new collection from the recent Legacy Data Preservation Pilot. The 2024 pilot was designed to capture and preserve at-risk data from completed research projects. There were 8 successful applicants to the scheme who worked with DRI staff and professional data stewards to ensure their research materials will remain accessible for the […]\nThe post Surfacing Legacy Data from the Dún Ailinne Excavation Archive appeared first on Digital Repository of Ireland.",
-          "link": "https://dri.ie/news/surfacing-legacy-data-from-the-dun-ailinne-excavation-archive/",
-          "publishedOn": "2024-10-31T16:15:01.000Z",
-          "wordCount": 1735,
-          "title": "Surfacing Legacy Data from the Dún Ailinne Excavation Archive",
-          "imageUrl": "https://dri.ie/app/uploads/2024/03/Pilot.jpg"
         }
       ]
     },
