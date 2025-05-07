@@ -1388,6 +1388,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=13155",
+          "author": "Rachael Griffiths",
+          "description": "One of the biggest challenges of working with large (and often incomplete) collections of data lies in how best to …",
+          "link": "https://digitalorientalist.com/2025/05/06/beyond-rows-and-columns-visualising-data-with-rawgraphs/",
+          "publishedOn": "2025-05-06T15:15:39.000Z",
+          "wordCount": 5429,
+          "title": "Beyond Rows and Columns: Visualising Data with RAWGraphs",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/05/3212441139_5ba38f93e0_b.jpg"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=15628",
           "author": "The Digital Orientalist",
           "description": "This is a guest post by Rose Ting-Yi Conference slides can be viewed here On March 3rd, 2025, I hosted a …",
@@ -1871,16 +1881,6 @@
           "wordCount": 5319,
           "title": "Cognitive Stylometry as an LLM-Based Methodology in Chinese Literary Studies",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/11/probability_space_hk.webp"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=13756",
-          "author": "emma.donington",
-          "description": "TEI (text-encoding initiative) is a digital humanities method that enriches plain text transcriptions using .xml tags. It is most commonly …",
-          "link": "https://digitalorientalist.com/2024/11/08/using-tei-to-study-edward-sylvester-morses-japan-diaries-in-the-peabody-essex-museum-collection-part-1/",
-          "publishedOn": "2024-11-08T14:00:00.000Z",
-          "wordCount": 5200,
-          "title": "Using TEI to study Edward Sylvester Morse’s Japan Diaries in the Peabody Essex Museum Collection (Part 1)",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/screenshot-2024-10-20-at-19.19.25.png?w=1200"
         }
       ]
     },
@@ -2701,6 +2701,16 @@
       "feedUrl": "https://updates.timsherratt.org/feed.xml",
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
+        {
+          "id": "http://wragge.micro.blog/2025/05/07/farewell-trove.html",
+          "author": null,
+          "description": "Over the last few months I’ve been grappling with the cancellation of my Trove API keys by the National Library of Australia. It may seem like a minor technical hiccup from the outside, but it’s had a major personal impact. For the sake of my health, I’ve decided to stop work on Trove, archive all my code repositories related to Trove, and move on. Farewell Trove.\nBut don’t panic! All of my Trove tools and resources available through the GLAM Workbench and elsewhere will remain online. They just won’t be updated. I’ll be adding explanatory notices to the affected resources over coming weeks. All of my stuff is openly licensed, so feel free to take what’s useful and develop it further yourself.\nI’ll also be adding warnings for researchers planning to use the Trove API in their projects. Given the fact that the NLA is willing to change the API terms of use to restrict access without any consultation, provides no transparency around acceptable use of full text content, and is willing to cancel API keys without warning, I can no longer recommend Trove as a reliable source for digital research. A PhD student could embark on a project in good faith, only to have the rules change mid-project.\nI think this is a critical issue for the research sector, and hard questions need to be asked of the NLA. But I can’t be the one to do this any more. I’m sick of being the person calling the NLA out on its bad behaviour. I’m sick of their gaslighting.\nI wanted to avoid making any dramatic gestures, but after talking it over with my partner last night, I realised my health is really suffering and I need to make a change. I also realised that even if my API keys were magically restored, I’d always be looking over my shoulder, wondering if I’d done something to offend the NLA gatekeepers. That’s not a good way to live. I’d rather spend my time working with organisations who value what I do.",
+          "link": "https://updates.timsherratt.org/2025/05/07/farewell-trove.html",
+          "publishedOn": "2025-05-07T03:51:34.000Z",
+          "wordCount": 388,
+          "title": "Farewell Trove",
+          "imageUrl": null
+        },
         {
           "id": "http://wragge.micro.blog/2025/05/05/slv-lab-and-glam-workbench.html",
           "author": null,
@@ -4208,6 +4218,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "8808 at https://www.clarin.eu",
+          "author": "Laura Gusan",
+          "description": "ATRIUM and Skills4EOSC Sessions\n\n            \n\n  \n  \n            \n    \nWe are pleased to announce that the ATRIUM (Advancing Frontier Research in the Arts & Humanities) and Skills4EOSC projects have successfully concluded a two-part training initiative focused on the FAIR-by-Design Methodology for the creation of learning materials. Specifically, this initiative aims to produce learning resources in line with  FAIR principles (Findable, Accessible, Interoperable, and Reusable), and to ‘FAIR-ify’ existing materials. The first session took place as a webinar open to the wider ATRIUM and Skills4EOSC community, and the second one consisted of a hands-on training for ATRIUM partners. You can watch the first session here. \n    \nAdditionally, in March and April, ATRIUM hosted its first TNA (Transnational Access Scheme) Showcase and Q&A sessions. These events highlighted some of the recipients of the TNA travel grants and offered insights into project outcomes and the different placements. Recordings of both sessions can be accessed on the ATRIUM YouTube channel.\n\n      Laura Gusan\n 6 May 2025",
+          "link": "https://www.clarin.eu/news/atrium-and-skills4eosc-sessions",
+          "publishedOn": "2025-05-06T10:05:27.000Z",
+          "wordCount": 414,
+          "title": "ATRIUM and Skills4EOSC Sessions",
+          "imageUrl": null
+        },
         {
           "id": "8800 at https://www.clarin.eu",
           "author": "Julia Misersky",

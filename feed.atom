@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-05-06T08:33:03.086Z</updated>
+    <updated>2025-05-07T08:33:37.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Farewell Trove]]></title>
+        <id>http://wragge.micro.blog/2025/05/07/farewell-trove.html</id>
+        <link href="https://updates.timsherratt.org/2025/05/07/farewell-trove.html"/>
+        <updated>2025-05-07T03:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few months I’ve been grappling with the cancellation of my Trove API keys by the National Library of Australia. It may seem like a minor technical hiccup from the outside, but it’s had a major personal impact. For the sake of my health, I’ve decided to stop work on Trove, archive all my code repositories related to Trove, and move on. Farewell Trove.
+But don’t panic! All of my Trove tools and resources available through the GLAM Workbench and elsewhere will remain online. They just won’t be updated. I’ll be adding explanatory notices to the affected resources over coming weeks. All of my stuff is openly licensed, so feel free to take what’s useful and develop it further yourself.
+I’ll also be adding warnings for researchers planning to use the Trove API in their projects. Given the fact that the NLA is willing to change the API terms of use to restrict access without any consultation, provides no transparency around acceptable use of full text content, and is willing to cancel API keys without warning, I can no longer recommend Trove as a reliable source for digital research. A PhD student could embark on a project in good faith, only to have the rules change mid-project.
+I think this is a critical issue for the research sector, and hard questions need to be asked of the NLA. But I can’t be the one to do this any more. I’m sick of being the person calling the NLA out on its bad behaviour. I’m sick of their gaslighting.
+I wanted to avoid making any dramatic gestures, but after talking it over with my partner last night, I realised my health is really suffering and I need to make a change. I also realised that even if my API keys were magically restored, I’d always be looking over my shoulder, wondering if I’d done something to offend the NLA gatekeepers. That’s not a good way to live. I’d rather spend my time working with organisations who value what I do.]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Rows and Columns: Visualising Data with RAWGraphs]]></title>
+        <id>http://digitalorientalist.com/?p=13155</id>
+        <link href="https://digitalorientalist.com/2025/05/06/beyond-rows-and-columns-visualising-data-with-rawgraphs/"/>
+        <updated>2025-05-06T15:15:39.000Z</updated>
+        <summary type="html"><![CDATA[One of the biggest challenges of working with large (and often incomplete) collections of data lies in how best to …]]></summary>
+        <author>
+            <name>Rachael Griffiths</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATRIUM and Skills4EOSC Sessions]]></title>
+        <id>8808 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/atrium-and-skills4eosc-sessions"/>
+        <updated>2025-05-06T10:05:27.000Z</updated>
+        <summary type="html"><![CDATA[ATRIUM and Skills4EOSC Sessions
+
+            
+
+  
+  
+            
+    
+We are pleased to announce that the ATRIUM (Advancing Frontier Research in the Arts & Humanities) and Skills4EOSC projects have successfully concluded a two-part training initiative focused on the FAIR-by-Design Methodology for the creation of learning materials. Specifically, this initiative aims to produce learning resources in line with  FAIR principles (Findable, Accessible, Interoperable, and Reusable), and to ‘FAIR-ify’ existing materials. The first session took place as a webinar open to the wider ATRIUM and Skills4EOSC community, and the second one consisted of a hands-on training for ATRIUM partners. You can watch the first session here. 
+    
+Additionally, in March and April, ATRIUM hosted its first TNA (Transnational Access Scheme) Showcase and Q&A sessions. These events highlighted some of the recipients of the TNA travel grants and offered insights into project outcomes and the different placements. Recordings of both sessions can be accessed on the ATRIUM YouTube channel.
+
+      Laura Gusan
+ 6 May 2025]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three Postdoctoral Fellowships in Digital Humanities at the University of Tartu]]></title>
         <id>1497 at https://eadh.org</id>
@@ -4870,16 +4917,6 @@ The post Four new Collections in DRI from Clare Memories / Cuimhneamh an Chláir
         <summary type="html"><![CDATA[This Blog Post engages with the Cartographies of Communication project that I am embarking on at the Loretta C. Duckworth Scholars Studio as a 2024-25 Graduate Fellow. Through this project I explore the genealogy of communication. The Featured image is a representation of one component of the project that traces the geographical locations where various scholarly traditions engage with and theorize human communication.]]></summary>
         <author>
             <name>Sreedhar Nemmani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using TEI to study Edward Sylvester Morse’s Japan Diaries in the Peabody Essex Museum Collection (Part 1)]]></title>
-        <id>http://digitalorientalist.com/?p=13756</id>
-        <link href="https://digitalorientalist.com/2024/11/08/using-tei-to-study-edward-sylvester-morses-japan-diaries-in-the-peabody-essex-museum-collection-part-1/"/>
-        <updated>2024-11-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TEI (text-encoding initiative) is a digital humanities method that enriches plain text transcriptions using .xml tags. It is most commonly …]]></summary>
-        <author>
-            <name>emma.donington</name>
         </author>
     </entry>
     <entry>
