@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-05-11T08:29:27.170Z</updated>
+    <updated>2025-05-12T08:34:05.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tour de CLARIN: Interview with Bojana Mikelenić]]></title>
+        <id>8811 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/tour-de-clarin-interview-bojana-mikelenic"/>
+        <updated>2025-05-12T08:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Tour de CLARIN: Interview with Bojana Mikelenić
+
+            
+The conversation was led by Kristina Pahor de Maiti Tekavčič
+Can you briefly introduce yourself and your research? What led you to start incorporating computational methods into your research?
+    
+I am a postdoctoral researcher at the Department of Romance Studies, Faculty of Humanities and Social Sciences, University of Zagreb, specialising in Spanish syntax, contrastive, and corpus linguistics. My research primarily focuses on Spanish and Croatian, examining syntactic and semantic structures through corpus-based methodologies. My doctoral dissertation analysed prepositional complements in Spanish and their equivalents in Croatian using a parallel corpus created for that research. Recently, I started working on other applicati…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interconnecting History and Archives for Migrant Agencies]]></title>
+        <id>5498 at https://www.c2dh.uni.lu</id>
+        <link href="https://www.c2dh.uni.lu/events/interconnecting-history-and-archives-migrant-agencies"/>
+        <updated>2025-05-12T07:45:47.000Z</updated>
+        <summary type="html"><![CDATA[The lecture will illustrate the path that led to the construction of a database on migration narratives, from an interdisciplinary perspective. In particular, the characteristics of the Horizon2020 project ITHACA (‘Interconnecting History and Archives for Migrant Agencies’, developed between 2021 and 2025) will be outlined. The aim of the project was to produce a repository that would enhance different dimensions of migration with the aim of influencing policy and informing public debate. The database therefore needed to combine several factors: time, space, narratives, representation and self-representation of migrants.
+
+
+Matteo Al Kalak is Full Professor of Early Modern History and Director of the Research Centre on Digital Humanities at the University of Modena and Reggio Emilia. He is responsible for teaching in the field of history, with a focus on the history of the modern age and the history of Christianity, in a cultural perspective. He has conducted research on the phenomena of dissent, conversion, reformism and the control of collective behaviour. He has authored several monographs and scientific articles.
+ 
+Wednesday, 25 June 2025
+
+14.00 -15.00
+C²DH Open Sapce (4th floor of the Maison des Sciences humaines)
+and online
+25 June 2025
+  Digital history & historiography
+  Data Science  Digital methods  Migration history
+  Hands-on History
+  Published  
+    Hide image in content detail]]></summary>
+        <author>
+            <name>Noëlle Schon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the Future of Library Cataloging with AI and Multilingual Embeddings]]></title>
         <id>http://digitalorientalist.com/?p=15716</id>
