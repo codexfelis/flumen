@@ -1378,6 +1378,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=15745",
+          "author": "Ephrem A. Ishac",
+          "description": "Last October 2024, I had the great privilege to be invited to give a paper at “The International Conference on …",
+          "link": "https://digitalorientalist.com/2025/05/13/beyond-artificial-intelligence-human-recognition-of-a-syriac-fragment-in-turfan/",
+          "publishedOn": "2025-05-13T14:25:49.000Z",
+          "wordCount": 5399,
+          "title": "Beyond Artificial Intelligence: Human Recognition of a Syriac Fragment in Turfan",
+          "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2025/05/ephrem-ishac-reading-the-new-discovered-fragemtn-in-turfan-ancient-site_21-oct-2024.jpg?fit=834%2C1200&ssl=1"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=15716",
           "author": "Eric H. C. Chow",
           "description": "This post was written together with Sai Deng (Metadata Librarian, University of Central Florida) and Lihong Zhu (Head of Library …",
@@ -1861,16 +1871,6 @@
           "wordCount": 5316,
           "title": "Jingyuan Digital Platform – Font Making and Database Development for Shang Oracle Bones (Part 2)",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/11/article-cover-geo.png?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=13814",
-          "author": "Hirohito TSUJI 辻󠄀 博仁",
-          "description": "The Imperial Household Agency is the government administrative body with jurisdiction over the Imperial Family of Japan. It is also …",
-          "link": "https://digitalorientalist.com/2024/11/15/pr-strategy-and-social-media-of-japans-imperial-household-agency/",
-          "publishedOn": "2024-11-15T16:07:09.000Z",
-          "wordCount": 6224,
-          "title": "PR Strategy and Social Media of Japan’s Imperial Household Agency",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/10/capture-3.jpg"
         }
       ]
     },
@@ -4198,6 +4198,16 @@
       "feedUrl": "https://www.clarin.eu/rss.xml",
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
+        {
+          "id": "8813 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 72 - May 2025\n\n            \nCentre Meeting 2025 coming up\nOn 21 and 22 May, centre representatives and/or their technical colleagues will gather for the Centre Meeting. Please note that this year's venue has changed from Utrecht to Leiden. If you intend to participate in person, please make sure to register by 14 May.\nOnline participation is possible too, in that case the registration deadline is 20 May.\nCLARIN technical open hour, Monday 26 May at 11:00 CEST\nThe next edition of the technical open hour is planned for Monday 26 May at 11:00 CEST. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nCentre certification for CLARIN.SI\nWe are pleased to announce that the CLARIN.SI Language Technology Centre in Ljubljana, Slovenia, has been successfully re-assessed as a CLARIN B-centre and has received a renewed B-centre certificate.\nAcademy of Sciences and Humanities in Hamburg as C-centre\nThe Academy of Sciences and Humanities in Hamburg is now included in the Virtual Language Observatory.\nNew on the CLARIN forum\nHow can I convert my DataCite records to CMDI?\nNew software releases\nSwitchboard version 2.4.5 has been released. This version includes some minor UI improvements as well as the usual security and dependency updates. Please check the release notes for details.\nCLARIN switchboard bridge plugin for B2Drop/Nextcloud version 3.0.0. This is a full rewrite making use of modern Nextcloud APIs. It also brings configurable user options to use the Switchboard as an in-page popup (experimental), or use different instances of the Switchboard (e.g. https://beta-switchboard.clarin.eu ). Please check the release notes for details and screenshots of the new features. Try it out by logging in to B2DROP.\nThe newest version of the Linkchecker provides charts that allow quick insights in the availability of links over time.\n\n      Dieter Van Uytvanck\n 13 May 2025\n\n\n    \ncentre news",
+          "link": "https://www.clarin.eu/news/centre-news-vol-72-may-2025",
+          "publishedOn": "2025-05-13T13:42:59.000Z",
+          "wordCount": 580,
+          "title": "Centre news vol. 72 - May 2025",
+          "imageUrl": null
+        },
         {
           "id": "8812 at https://www.clarin.eu",
           "author": "Laura Gusan",
