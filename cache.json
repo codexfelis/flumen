@@ -230,16 +230,6 @@
           "wordCount": 762,
           "title": "Call for Applications to Join CAA’s Scientific Committee (ScC)",
           "imageUrl": "https://caa-international.org/wp-content/themes/caa-theme-v2/images/favicon-light-mode.png"
-        },
-        {
-          "id": "https://caa-international.org/?p=18053",
-          "author": "Lisa Fischer",
-          "description": "Congratulations to the newly-elected CAA Officers: The elected officers will begin their three-year terms at the conclusion of the 2025 Annual General Meeting, to be held at the CAA2025 conference in Athens, Greece. Thank you to all of the members who voted, and to Josh, Karl, and Maria Elena for volunteering to serve in support […]",
-          "link": "https://caa-international.org/2024/11/20/caa-esc-election-results-2/",
-          "publishedOn": "2024-11-20T15:52:07.000Z",
-          "wordCount": 525,
-          "title": "CAA ESC Election Results",
-          "imageUrl": "https://caa-international.org/wp-content/themes/caa-theme-v2/images/favicon-light-mode.png"
         }
       ]
     },
@@ -2445,21 +2435,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://radihum20.de/?p=1026",
-          "author": "Clara Helmig",
-          "description": "In der dritten Folge unserer siebten Staffel dürfen wir Nicola Mößner, Vertretungsprofessorin für theoretische Philosophie an der Leibniz Universität Hannover, bei uns begrüßen. Wir sprechen über die Veränderungen und Herausforderungen des digitalen Publizierens. Nicola bringt spannende Perspektiven aus der sozialen Erkenntnistheorie und Wissenschaftsphilosophie mit und beleuchtet, wie digitale Publikationsprozesse traditionelle wissenschaftliche Praktiken verändern. Dabei diskutieren […]\nDer Beitrag RaDiHum20 spricht mit Nicola Mößner erschien zuerst auf RaDiHum 20.",
-          "link": "https://radihum20.de/radihum20-spricht-mit-nicola-moessner/?utm_source=rss&utm_medium=rss&utm_campaign=radihum20-spricht-mit-nicola-moessner",
-          "publishedOn": "2024-11-20T08:00:00.000Z",
-          "wordCount": 2927,
-          "title": "RaDiHum20 spricht mit Nicola Mößner",
-          "enclosure": {
-            "url": "https://hnp9zs.podcaster.de/download/Staffel_7_Folge3_final.mp3",
-            "length": "41678415",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2752,6 +2727,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2025/05/19/no-more-harvesting-data-from.html",
+          "author": null,
+          "description": "A couple of weeks ago I bid farewell to Trove due to the cancellation of my API keys and the NLA’s lack of transparency around changes to API access. Now it seems I have to wave goodbye to 16+ years of work on RecordSearch, the National Archives of Australia’s online database.\nI noticed this morning that my weekly harvest of recently digitised files in RecordSearch had failed. A quick check showed that my harvester was being blocked by Cloudflare’s bot protection software. I wasn’t really surprised. Websites are using tools like this to protect themselves against AI scraper bots, and I’d already seen it in action on another Australian government site. In the war between content providers and AI scrapers, researchers and digital preservation efforts are copping collateral damage.\nBut while …",
+          "link": "https://updates.timsherratt.org/2025/05/19/no-more-harvesting-data-from.html",
+          "publishedOn": "2025-05-19T07:57:26.000Z",
+          "wordCount": 695,
+          "title": "No more harvesting data from the National Archives of Australia",
+          "imageUrl": null
+        },
+        {
           "id": "http://wragge.micro.blog/2025/05/07/farewell-trove.html",
           "author": null,
           "description": "Over the last few months I’ve been grappling with the cancellation of my Trove API keys by the National Library of Australia. It may seem like a minor technical hiccup from the outside, but it’s had a major personal impact. For the sake of my health, I’ve decided to stop work on Trove, archive all my code repositories related to Trove, and move on. Farewell Trove.\nBut don’t panic! All of my Trove tools and resources available through the GLAM Workbench and elsewhere will remain online. They just won’t be updated. I’ll be adding explanatory notices to the affected resources over coming weeks. All of my stuff is openly licensed, so feel free to take what’s useful and develop it further yourself.\nI’ll also be adding warnings for researchers planning to use the Trove API in their projects. Given the fact that the NLA is willing to change the API terms of use to restrict access without any consultation, provides no transparency around acceptable use of full text content, and is willing to cancel API keys without warning, I can no longer recommend Trove as a reliable source for digital research. A PhD student could embark on a project in good faith, only to have the rules change mid-project.\nI think this is a critical issue for the research sector, and hard questions need to be asked of the NLA. But I can’t be the one to do this any more. I’m sick of being the person calling the NLA out on its bad behaviour. I’m sick of their gaslighting.\nI wanted to avoid making any dramatic gestures, but after talking it over with my partner last night, I realised my health is really suffering and I need to make a change. I also realised that even if my API keys were magically restored, I’d always be looking over my shoulder, wondering if I’d done something to offend the NLA gatekeepers. That’s not a good way to live. I’d rather spend my time working with organisations who value what I do.",
@@ -2954,6 +2939,16 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5501 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Since the 1970s, deindustrialization has fundamentally changed Western industrial societies. In North America and Europe, thousands of jobs have been lost in traditional industrial regions, in particular in the textile industry, coal mining, the iron and steel industry and shipbuilding. Even in the electronic consumer goods sector and the watch and photography industries, many millions of jobs have been eliminated or relocated to other regions of the world. There is no question that deindustrialization is one of the most far-reaching transformation processes in contemporary history, fundamentally changing landscapes, economic structures and socio-cultural environments.\nStarting from this observation, the conference, organized by the CONDE research group, will reflect on the impact and wide…",
+          "link": "https://www.c2dh.uni.lu/events/confronting-decline-conde-challenges-deindustrialization-european-societies-1970s",
+          "publishedOn": "2025-05-19T08:09:48.000Z",
+          "wordCount": 727,
+          "title": "Confronting Decline (CONDE) – Challenges of Deindustrialization in European Societies since the 1970s",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/poche_a_fontes_web.jpg?itok=o34uX8Yi"
+        },
         {
           "id": "5500 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
@@ -4615,6 +4610,16 @@
       "feedUrl": "https://dri.ie/news-type/blog/feed/",
       "siteUrl": "https://dri.ie/news-type/blog/",
       "articles": [
+        {
+          "id": "https://dri.ie/?post_type=news&p=52088",
+          "author": "Beth Knazook",
+          "description": "Collection stories series  The Digital Repository of Ireland (DRI) helps safeguard Ireland’s digital legacy by preserving and publishing social and cultural digital collections held by Irish institutions, generated by researchers in Ireland, or digital material pertaining to the island of Ireland.   In this new ‘collection stories’ blog series, we’re pleased to delve deeper into some […]\nThe post Collection stories – A Digital Botanical Archive of Robert Lloyd Praeger (1865–1953) appeared first on Digital Repository of Ireland.",
+          "link": "https://dri.ie/news/collection-stories-praeger-botanical-archive/",
+          "publishedOn": "2025-05-19T08:33:11.000Z",
+          "wordCount": 2120,
+          "title": "Collection stories – A Digital Botanical Archive of Robert Lloyd Praeger (1865–1953)",
+          "imageUrl": "https://dri.ie/app/uploads/2025/05/vh549r99q.jpg"
+        },
         {
           "id": "https://dri.ie/?post_type=news&p=52015",
           "author": "Beth Knazook",
