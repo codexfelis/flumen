@@ -1418,6 +1418,16 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=15800",
+          "author": "BRIAN Wong",
+          "description": "Part 1 can be read here. The Zaibatsu had dominated Japanese business and industry for decades before WWII. They monopolised …",
+          "link": "https://digitalorientalist.com/2025/05/20/unearthing-modern-japans-subterranean-networks-with-the-national-diet-librarys-ndl-full-text-search-system-part-2-private-capital-and-the-financing-of-historical-smes/",
+          "publishedOn": "2025-05-20T13:00:00.000Z",
+          "wordCount": 5389,
+          "title": "Unearthing Modern Japan’s Subterranean Networks with the National Diet Library’s (NDL) Full-Text Search System (Part 2): Private Capital and the Financing of Historical SMEs",
+          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/05/coverpirc.png"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=15793",
           "author": "The Digital Orientalist",
           "description": "The following is the schedule of the Digital Orientalist’s 2025 Virtual Conference “AI and the Digital Humanities for the Study …",
@@ -1901,16 +1911,6 @@
           "wordCount": 4621,
           "title": "Aksharamukha: The Automated Transliteration Tool to Simplify Script Conversion",
           "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/11/featured_image.png?w=1200"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=14045",
-          "author": "The Digital Orientalist",
-          "description": "This guest post was written by Virgine Borges de Castilho Sacoman (UNISINOS). Learn more about her work here. Since I …",
-          "link": "https://digitalorientalist.com/2024/11/22/education-and-technology-understanding-history-through-anime-productions/",
-          "publishedOn": "2024-11-22T14:00:00.000Z",
-          "wordCount": 5064,
-          "title": "Education and Technology: Understanding History through Anime Productions",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2024/11/image-6.png"
         }
       ]
     },
@@ -2934,6 +2934,26 @@
       "feedUrl": "https://www.c2dh.uni.lu/rss.xml",
       "siteUrl": "https://www.c2dh.uni.lu",
       "articles": [
+        {
+          "id": "5503 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Le « cycle de rencontres sur l’influence des médias et la désinformation » est une action culturelle qui souhaite stimuler le regard critique des citoyens sur l’actualité.\nEntre 2024 et 2026, l’Université de Lorraine (CREM – Céline Ségur et Laurence Corroy) et l’Université du Luxembourg (C²DH – Valérie Schafer) proposeront  6 conférences dans la Grande Région avec des chercheurs en SHS et des journalistes. Chaque conférence traite sous un angle différent de l’influence des médias.\nCette quatrième séance accueillera Antonio A. Casilli, Professeur à l’Institut Polytechnique de Paris.  Il a été élu by-fellow du Churchill College, Cambridge, en février 2024. Il est le cofondateur du programme de recherche DiPLab (Digital Platform Labor) et du réseau INDL (International Network on Digital Labor…",
+          "link": "https://www.c2dh.uni.lu/events/dans-les-coulisses-de-lintelligence-artificielle",
+          "publishedOn": "2025-05-21T07:05:12.000Z",
+          "wordCount": 589,
+          "title": "Dans les coulisses de l’intelligence artificielle",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/adobestock_634502865_web.jpg?itok=c2DEO5lT"
+        },
+        {
+          "id": "5502 at https://www.c2dh.uni.lu",
+          "author": "Noëlle Schon",
+          "description": "Artificial Intelligence (AI) has the potential to play a transformative role in supporting cultural heritage resilience during times of emergency through rapid documentation, digital reconstruction, threat assessment, and community engagement. This roundtable will explore the ethical frameworks – such as transparency, accountability, cultural sensitivity, and data sovereignty—that underpin responsible AI use in cultural heritage. It will also address how we can support the development of skills and ethical grounding among students, educators, and young professionals to work effectively at the intersection of technology and cultural heritage.\n \nPanellists\nEdward Gray – DARIAH, EU, France\nChristophe Jacobs – Limonade & Co, France\nIan Kisil – Leibniz-Institut für Europäische Geschichte, Germany\nJuan Francisco Aguilar Kons – University of Luxembourg\nJenny Kwok – Cambridge Digital Humanities, UK\nTaras Nazaruk – Lviv Center for Urban History, Ukraine\nModeration: Tugce Karatas – C²DH, University of Luxembourg\n \nAgenda\nOpening remarks (introduction of the roundtable + brief project overview and goals)\nStatements by experts\nDiscussion between experts\nQ&A session (engagement from the participant side; questions and possible interventions from the audience)\nClosing remarks\n \n26 May 2025\n15.30 - 17.00 (CET)\nOnline\n\n\n\nPlease register to receive the event link.\n \n\n\n \n\n  https://www.c2dh.uni.lu/sites/default/files/styles/full_width/public/ai_louvre_full_width.jpg?itok=tcnIIAJF\n  International roundtable hosted by the C²DH as part of the Erasmus+ AISTER project.\n  26 May 2025\n  Digital history & historiography\n  Artificial  intelligence  Digital hermeneutics\n  Published  \n    Hide image in content detail",
+          "link": "https://www.c2dh.uni.lu/events/ai-and-ethics-cultural-heritage-opportunities-risks-and-responsibilities",
+          "publishedOn": "2025-05-20T13:47:52.000Z",
+          "wordCount": 473,
+          "title": "AI and Ethics in Cultural Heritage: Opportunities, Risks and Responsibilities",
+          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/ai_louvre_full_width.jpg?itok=XYt7iX1F"
+        },
         {
           "id": "5501 at https://www.c2dh.uni.lu",
           "author": "Noëlle Schon",
