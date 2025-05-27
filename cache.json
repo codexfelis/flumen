@@ -1890,6 +1890,16 @@
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
       "articles": [
         {
+          "id": "discourse.computational-humanities-research.org-topic-2297",
+          "author": "fpianz",
+          "description": "Hi,\nI was checking the 2025 CfP and I couldn’t find any guidelines for reviewers.\nJust one example: is it appropriate for a reviewer to negatively evaluate the results of an article because the authors didn’t use a larger (paid) LLM?\nI know (I hope!) this is probably a case on which the CHR community would agree that beating the SotA and “going big” are not our research goals. Anyway, I think it would be useful to be explicit about this.\n1 post - 1 participant\nRead full topic",
+          "link": "https://discourse.computational-humanities-research.org/t/peer-review-guidelines-for-chr2025/2297",
+          "publishedOn": "2025-05-27T01:36:41.000Z",
+          "wordCount": 144,
+          "title": "Peer review guidelines for CHR2025",
+          "imageUrl": "https://discourse.computational-humanities-research.org/uploads/default/original/1X/e83227080f03d3299283aca047b56b9f8af06b57.png"
+        },
+        {
           "id": "discourse.computational-humanities-research.org-topic-2263",
           "author": "BarbaraMcGillivray",
           "description": "Dear Computational Humanities Research Community,\nAs many of you know, we have been publishing our conference proceedings with CEUR Workshop Proceedings since the first edition of CHR back in 2020. CEUR has provided an accessible and open platform to share our work. However, our conference’s growth has led CEUR to inform us that they are no longer able to publish our proceedings, also considering that we’re not a computer science conference.\nThis presents both a challenge and an opportunity for us. We need to identify a new, sustainable solution that aligns with our values as a community: openness, accessibility, and inclusivity. We are committed to ensuring that the process of selecting a new venue is as participatory and transparent as possible, which is why we are reaching out to all of you for suggestions, ideas, and feedback.\nHere are some points to consider when proposing or evaluating alternatives:\nWe want to continue using TeX\nHow can we ensure that our proceedings remain freely accessible to researchers worldwide?\nWhat are the long-term implications in terms of costs, maintenance, and scalability?\nDoes the venue reflect the interdisciplinary nature of our work, particularly the balance between computational methods and humanities research?\nIf you have suggestions, please share them in the comments below.\nWe look forward to hearing your ideas!\n3 posts - 3 participants\nRead full topic",
@@ -3183,16 +3193,6 @@
           "wordCount": 635,
           "title": "(Digital) Prosopography & Biography – Entering the Black Box of IO Secretariats",
           "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_handson_history-content-list-grey.png?itok=0EHc2jFn"
-        },
-        {
-          "id": "5244 at https://www.c2dh.uni.lu",
-          "author": "Noëlle Schon",
-          "description": "Political violence is defined as the deliberate use of power and force to achieve political goals. It is characterized by both physical and psychological acts aimed at injuring or intimidating populations. In that sense, the word \"difficult\" in the title of this seminar refers to events in time that can be identified as acts of political violence.\nIn such circumstances, any attempt to do public history can certainly have its challenges. From ensuring participation, to working with silence, considering the mental health of both the participants and the project leaders, or anticipating the social impact before making this research public. \nDuring this seminar, Myriam Dalal will expand on the definition of the relatively new field of artistic research methodologies, which involves the creation of arts to help the practitioner/researcher improve, change or make their processes more effective, specific and articulated.\nMyriam Dalal will then discuss how artistic research methodologies can work with and help address some of the challenges of documenting “difficult” histories, based on examples from her research projects (1) tackling war, its photographic representation in the case of Lebanon and (2) migration/exile and the displacement/belonging experience in Luxembourg.\n \nWednesday, 15 January 2015\n14.00 - 15.00\n\nC²DH Open Space (4th floor Maison des Sciences humaines)\n15 January 2025\n  Public history\n  Methodology  Public History\n  Research seminars\n  Published  \n    Hide image in content detail",
-          "link": "https://www.c2dh.uni.lu/events/public-history-and-arts-how-approach-difficult-histories",
-          "publishedOn": "2024-11-28T10:24:47.000Z",
-          "wordCount": 475,
-          "title": "Public History and Arts: How to Approach “Difficult” Histories",
-          "imageUrl": "https://www.c2dh.uni.lu/sites/default/files/styles/meta_thumbnail/public/logo_research_seminars_content_list.png?itok=Nwm2C3Di"
         }
       ]
     },
@@ -4249,6 +4249,16 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "8820 at https://www.clarin.eu",
+          "author": "Laura Gusan",
+          "description": "Switzerland Joins CLARIN ERIC as Member\n\n            \nAfter a productive period as an observer since January 2023, Switzerland officially became a member of CLARIN \n    \nEuropean Research Infrastructure Consortium     see: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\nCLARIN-CH as its representative body. Currently, CLARIN ERIC has 26 members and participating centres in three additional countries. \nFull membership of CLARIN aligns closely with CLARIN-CH’s mission to support researchers working with language resources and tools, and to foster an active and impactful sustainable national network dedicated to Open Science and FAIR principles.\nAbout CLARIN-CH\n    \nDr. Cristina Grisot, the National Coordina…",
+          "link": "https://www.clarin.eu/news/switzerland-joins-clarin-eric-member",
+          "publishedOn": "2025-05-26T09:18:20.000Z",
+          "wordCount": 670,
+          "title": "Switzerland Joins CLARIN ERIC as Member",
+          "imageUrl": null
+        },
+        {
           "id": "8813 at https://www.clarin.eu",
           "author": "Dieter Van Uytvanck",
           "description": "Centre news vol. 72 - May 2025\n\n            \nCentre Meeting 2025 coming up\nOn 21 and 22 May, centre representatives and/or their technical colleagues will gather for the Centre Meeting. Please note that this year's venue has changed from Utrecht to Leiden. If you intend to participate in person, please make sure to register by 14 May.\nOnline participation is possible too, in that case the registration deadline is 20 May.\nCLARIN technical open hour, Monday 26 May at 11:00 CEST\nThe next edition of the technical open hour is planned for Monday 26 May at 11:00 CEST. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nCentre certification for CLARIN.SI\nWe are pleased to announce that the CLARIN.SI Language Technology Centre in Ljubljana, Slovenia, has been successfully re-assessed as a CLARIN B-centre and has received a renewed B-centre certificate.\nAcademy of Sciences and Humanities in Hamburg as C-centre\nThe Academy of Sciences and Humanities in Hamburg is now included in the Virtual Language Observatory.\nNew on the CLARIN forum\nHow can I convert my DataCite records to CMDI?\nNew software releases\nSwitchboard version 2.4.5 has been released. This version includes some minor UI improvements as well as the usual security and dependency updates. Please check the release notes for details.\nCLARIN switchboard bridge plugin for B2Drop/Nextcloud version 3.0.0. This is a full rewrite making use of modern Nextcloud APIs. It also brings configurable user options to use the Switchboard as an in-page popup (experimental), or use different instances of the Switchboard (e.g. https://beta-switchboard.clarin.eu ). Please check the release notes for details and screenshots of the new features. Try it out by logging in to B2DROP.\nThe newest version of the Linkchecker provides charts that allow quick insights in the availability of links over time.\n\n      Dieter Van Uytvanck\n 13 May 2025\n\n\n    \ncentre news",
@@ -4594,16 +4604,6 @@
           "wordCount": 1564,
           "title": "DRI Director Dr. Lisa Griffith appears on TransformGov Podcast",
           "imageUrl": "https://dri.ie/app/uploads/2024/09/training3-003.png"
-        },
-        {
-          "id": "https://dri.ie/?post_type=news&p=41746",
-          "author": "Aine Madden",
-          "description": "On Tuesday 26 Nov, the Digital Repository of Ireland (DRI) hosted an online training session called ‘Creating Inclusive Digital Collections’ about inclusive approaches to creating metadata and describing cultural heritage collections. This event was aimed at digital archivists, cultural heritage professionals, community archivists, curators, librarians, and all those interested in learning more about enriching archives […]\nThe post A Reflection on Creating Inclusive Digital Collections appeared first on Digital Repository of Ireland.",
-          "link": "https://dri.ie/news/a-reflection-on-creating-inclusive-digital-collections/",
-          "publishedOn": "2024-11-28T16:33:37.000Z",
-          "wordCount": 1951,
-          "title": "A Reflection on Creating Inclusive Digital Collections",
-          "imageUrl": null
         }
       ]
     },

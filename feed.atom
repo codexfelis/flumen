@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-05-26T08:49:40.607Z</updated>
+    <updated>2025-05-27T08:33:10.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peer review guidelines for CHR2025]]></title>
+        <id>discourse.computational-humanities-research.org-topic-2297</id>
+        <link href="https://discourse.computational-humanities-research.org/t/peer-review-guidelines-for-chr2025/2297"/>
+        <updated>2025-05-27T01:36:41.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+I was checking the 2025 CfP and I couldn’t find any guidelines for reviewers.
+Just one example: is it appropriate for a reviewer to negatively evaluate the results of an article because the authors didn’t use a larger (paid) LLM?
+I know (I hope!) this is probably a case on which the CHR community would agree that beating the SotA and “going big” are not our research goals. Anyway, I think it would be useful to be explicit about this.
+1 post - 1 participant
+Read full topic]]></summary>
+        <author>
+            <name>fpianz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switzerland Joins CLARIN ERIC as Member]]></title>
+        <id>8820 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/switzerland-joins-clarin-eric-member"/>
+        <updated>2025-05-26T09:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Switzerland Joins CLARIN ERIC as Member
+
+            
+After a productive period as an observer since January 2023, Switzerland officially became a member of CLARIN 
+    
+European Research Infrastructure Consortium     see: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
+CLARIN-CH as its representative body. Currently, CLARIN ERIC has 26 members and participating centres in three additional countries. 
+Full membership of CLARIN aligns closely with CLARIN-CH’s mission to support researchers working with language resources and tools, and to foster an active and impactful sustainable national network dedicated to Open Science and FAIR principles.
+About CLARIN-CH
+    
+Dr. Cristina Grisot, the National Coordina…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DH2025: Registration Closes on 2 June]]></title>
         <id>https://adho.org/?p=4967</id>
@@ -4954,41 +4989,6 @@ Welcome to CLARIN-LT! In 2024, we are celebrating our 10-year anniversary – Li
 The post DRI Director Dr. Lisa Griffith appears on TransformGov Podcast appeared first on Digital Repository of Ireland.]]></summary>
         <author>
             <name>Maeve O'Brien</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Reflection on Creating Inclusive Digital Collections]]></title>
-        <id>https://dri.ie/?post_type=news&amp;p=41746</id>
-        <link href="https://dri.ie/news/a-reflection-on-creating-inclusive-digital-collections/"/>
-        <updated>2024-11-28T16:33:37.000Z</updated>
-        <summary type="html"><![CDATA[On Tuesday 26 Nov, the Digital Repository of Ireland (DRI) hosted an online training session called ‘Creating Inclusive Digital Collections’ about inclusive approaches to creating metadata and describing cultural heritage collections. This event was aimed at digital archivists, cultural heritage professionals, community archivists, curators, librarians, and all those interested in learning more about enriching archives […]
-The post A Reflection on Creating Inclusive Digital Collections appeared first on Digital Repository of Ireland.]]></summary>
-        <author>
-            <name>Aine Madden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public History and Arts: How to Approach “Difficult” Histories]]></title>
-        <id>5244 at https://www.c2dh.uni.lu</id>
-        <link href="https://www.c2dh.uni.lu/events/public-history-and-arts-how-approach-difficult-histories"/>
-        <updated>2024-11-28T10:24:47.000Z</updated>
-        <summary type="html"><![CDATA[Political violence is defined as the deliberate use of power and force to achieve political goals. It is characterized by both physical and psychological acts aimed at injuring or intimidating populations. In that sense, the word "difficult" in the title of this seminar refers to events in time that can be identified as acts of political violence.
-In such circumstances, any attempt to do public history can certainly have its challenges. From ensuring participation, to working with silence, considering the mental health of both the participants and the project leaders, or anticipating the social impact before making this research public. 
-During this seminar, Myriam Dalal will expand on the definition of the relatively new field of artistic research methodologies, which involves the creation of arts to help the practitioner/researcher improve, change or make their processes more effective, specific and articulated.
-Myriam Dalal will then discuss how artistic research methodologies can work with and help address some of the challenges of documenting “difficult” histories, based on examples from her research projects (1) tackling war, its photographic representation in the case of Lebanon and (2) migration/exile and the displacement/belonging experience in Luxembourg.
- 
-Wednesday, 15 January 2015
-14.00 - 15.00
-
-C²DH Open Space (4th floor Maison des Sciences humaines)
-15 January 2025
-  Public history
-  Methodology  Public History
-  Research seminars
-  Published  
-    Hide image in content detail]]></summary>
-        <author>
-            <name>Noëlle Schon</name>
         </author>
     </entry>
     <entry>
