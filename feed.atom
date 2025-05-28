@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-05-27T08:33:10.461Z</updated>
+    <updated>2025-05-28T08:33:37.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The UK Joins CLARIN ERIC as Member]]></title>
+        <id>8822 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/uk-joins-clarin-eric-member"/>
+        <updated>2025-05-27T14:18:45.000Z</updated>
+        <summary type="html"><![CDATA[The UK Joins CLARIN ERIC as Member
+
+            
+After participating in many forms since the start of CLARIN, including many years as an Observer, the UK has finally joined CLARIN 
+    
+European Research Infrastructure Consortium     see: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
+    
+Martin Wynne is the National Coordinator for CLARIN in the United Kingdom.
+
+UK membership of CLARIN has been supported by funding from the Arts and Humanities Research Council (AHRC), part of UK Research and Innovation, the major national funder in the university and research sector. At the national level, the AHRC is also responsible for the Infrastructure for Digital Arts and Humanities (iDAH) programme, which is par…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI publishes Annual Report for 2024]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=52754</id>
+        <link href="https://dri.ie/news/dri-publishes-annual-report-for-2024/"/>
+        <updated>2025-05-27T13:20:30.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to share our Annual Report for 2024 with members and the general public. This report details work undertaken by our team in 2024, including: the development of our five-year strategic plan, training and engagement activities, repository technical developments, EDI policy development, information on funded research projects and […]
+The post DRI publishes Annual Report for 2024 appeared first on Digital Repository of Ireland.]]></summary>
+        <author>
+            <name>Maeve O'Brien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hellenistic Central Asia through the Eyes of GenAI – Part 3: Deep Research]]></title>
+        <id>http://digitalorientalist.com/?p=15825</id>
+        <link href="https://digitalorientalist.com/2025/05/27/hellenistic-central-asia-through-the-eyes-of-genai-part-3-deep-research/"/>
+        <updated>2025-05-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is part three of a three-part series on the biases about Hellenistic Central Asia in generative artificial intelligence (AI) datasets. In this final part, I planned to discuss how Hellenistic Central Asia was biased in conversational AI models, such as ChatGPT 4o and Gemini 1.0, but newer “Deep Research” functions have since replaced and exponentially increased the capabilities of those legacy models.]]></summary>
+        <author>
+            <name>Edward A. S. Ross</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peer review guidelines for CHR2025]]></title>
         <id>discourse.computational-humanities-research.org-topic-2297</id>
@@ -476,6 +516,17 @@ Tracing the legacy of Edward Steichen (FoMLEG) is a C²DH research project.
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRI launches Digital Preservation Terminology: An Irish language glossary for Repositories and Archivists]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=51097</id>
+        <link href="https://dri.ie/news/dri-launches-digital-preservation-terminology-an-irish-language-glossary-for-repositories-and-archivists/"/>
+        <updated>2025-05-12T11:27:01.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is delighted to share that along with Gaois, part of Fiontar & Scoil na Gaeilge at Dublin City University, we have created a standardised set of Irish language terms relating to digital preservation – producing this list as a publication available on open access to the digital preservation community. […]
+The post DRI launches Digital Preservation Terminology: An Irish language glossary for Repositories and Archivists appeared first on Digital Repository of Ireland.]]></summary>
+        <author>
+            <name>Maeve O'Brien</name>
         </author>
     </entry>
     <entry>
@@ -4948,47 +4999,6 @@ Written by Jurgita Vaičenonienė
 Welcome to CLARIN-LT! In 2024, we are celebrating our 10-year anniversary – Lithuania became a full member of CLARIN ERIC on October 25, 2014, and a year later, a consortium of three partners was established. At present, the consortium includes six full partners: Vytautas Magnus University (coordinating institution), Kaunas Technology University, Vilnius University, and the newer consortium members Mykolas Romeris University, Baltic Institute of Advanced Technologies, and the Institute of Baltic Region History and Archaeology. Although the composition of our team members has changed over time, we have always been an interdisciplinary and international consortium. We are happy that the consortium has been recognised by th…]]></summary>
         <author>
             <name>Laura Gusan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appel à contributions : le champ numérique numéro spécial de la conférence 2024]]></title>
-        <id>https://csdh-schn.org/?p=1306</id>
-        <link href="https://csdh-schn.org/le-champ-numerique-appel-a-contributions/"/>
-        <updated>2024-11-29T19:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Digital Studies / Le champ numérique Numéro spécial de la conférence – 2024 La Société canadienne des humanités numériques (http://csdh-schn.org/) invite les participant.e.s à l’assemblée annuelle 2024 de Montréal (16‐19 juin) à soumettre leurs documents pour publication dans la revue de l’association, Digital Studies / Le champ numérique (https://www.digitalstudies.org/). Tous les participant.e.s à la conférence […]]]></summary>
-        <author>
-            <name>Faith Ruetas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Papers: Digital Studies 2024 Conference Issue]]></title>
-        <id>https://csdh-schn.org/?p=1304</id>
-        <link href="https://csdh-schn.org/digital-studies-call-for-papers/"/>
-        <updated>2024-11-29T19:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Digital Studies / Le champ numérique The Canadian Society for Digital Humanities (http://csdh-schn.org/) invites conference participants from the 2024 annual meeting in Montreal (16-19 June) to submit their conference papers for publication in the association’s journal, Digital Studies / Le champ numérique (https://www.digitalstudies.org/). All conference participants are welcome to submit their essays for consideration. The […]]]></summary>
-        <author>
-            <name>Faith Ruetas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editor’s Digest November 2024: Northeast Asian Studies]]></title>
-        <id>http://digitalorientalist.com/?p=14091</id>
-        <link href="https://digitalorientalist.com/2024/11/29/editors-digest-november-2024-northeast-asian-studies/"/>
-        <updated>2024-11-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Since my last Editor’s Digest back in February, the Northeast Asian Studies team alongside several guest contributors have published an …]]></summary>
-        <author>
-            <name>James Harry Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRI Director Dr. Lisa Griffith appears on TransformGov Podcast]]></title>
-        <id>https://dri.ie/news/new-collection-clare-memories-collections-copy/</id>
-        <link href="https://dri.ie/news/transformgov-podcast-2024/"/>
-        <updated>2024-11-29T11:21:24.000Z</updated>
-        <summary type="html"><![CDATA[In September 2024, the Digital Repository of Ireland’s (DRI) Community Archive Scheme was awarded an Ireland eGovernment Award 2024 in the Open Data Category, which recognises initiatives that demonstrate comprehensive data accessibility, usability, and societal impact. As part of this award, our director Dr. Lisa Griffith was asked to participate in a podcast conversation for TransformGov – […]
-The post DRI Director Dr. Lisa Griffith appears on TransformGov Podcast appeared first on Digital Repository of Ireland.]]></summary>
-        <author>
-            <name>Maeve O'Brien</name>
         </author>
     </entry>
     <entry>
