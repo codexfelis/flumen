@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-05-28T08:33:37.166Z</updated>
+    <updated>2025-05-29T08:33:20.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSDH/SCHN Congress 2025 Schedule]]></title>
+        <id>https://csdh-schn.org/?p=1355</id>
+        <link href="https://csdh-schn.org/csdh-schn-congress-2025-schedule/"/>
+        <updated>2025-05-28T23:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Click here for the conference schedule]]></summary>
+        <author>
+            <name>Faith Ruetas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The UK Joins CLARIN ERIC as Member]]></title>
         <id>8822 at https://www.clarin.eu</id>
