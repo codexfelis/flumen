@@ -113,6 +113,16 @@
       "siteUrl": "https://adho.org",
       "articles": [
         {
+          "id": "https://adho.org/?p=5129",
+          "author": "Nadezhda Povroznik",
+          "description": "The Local Organising Committee for DH2025 has extended the registration deadline! This extension gives you a bit more time to get registered for DH2025 in Lisbon. Whether you plan to join us in person or online, make sure to complete your registration by the relevant deadline. To register, please visit the ConfTool, where you will… Read More »DH2025: Extension to the deadline for registration",
+          "link": "https://adho.org/2025/05/30/dh2025-extension-to-the-deadline-for-registration/",
+          "publishedOn": "2025-05-30T12:04:06.000Z",
+          "wordCount": null,
+          "title": "DH2025: Extension to the deadline for registration",
+          "imageUrl": null
+        },
+        {
           "id": "https://adho.org/?p=4967",
           "author": "Nadezhda Povroznik",
           "description": "Join us in Lisbon for the DH2025 conference on “Building access and accessibility, open science to all citizens“, organised by NOVA FCSH, the second largest school of Universidade NOVA de Lisboa, for an unforgettable week of digital humanities exchange, inspiration, and community meetings. Register here: https://dh2025.adho.org/2025/03/08/registration-for-dh2025-open/ Deadline: June 2, 2025Let your colleagues know that the deadline… Read More »DH2025: Registration Closes on 2 June",
@@ -1377,6 +1387,16 @@
       "feedUrl": "https://digitalorientalist.com/feed/",
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
+        {
+          "id": "http://digitalorientalist.com/?p=15981",
+          "author": "So Miyagawa",
+          "description": "In my previous discussion, I examined AKU-PAL, the palaeographical database for hieratic script among ancient Egyptian writing systems. This article …",
+          "link": "https://digitalorientalist.com/2025/05/30/the-demotic-palaeographical-database-project-a-digital-repository-of-ancient-egyptian-demotic-script-and-text-corpora/",
+          "publishedOn": "2025-05-30T15:00:00.000Z",
+          "wordCount": 5717,
+          "title": "The Demotic Palaeographical Database Project: A Digital Repository of Ancient Egyptian Demotic Script and Text Corpora",
+          "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2025/05/screenshot-2025-05-31-at-15.45.08.png?fit=1200%2C593&ssl=1"
+        },
         {
           "id": "http://digitalorientalist.com/?p=15825",
           "author": "Edward A. S. Ross",
@@ -4526,26 +4546,6 @@
           "publishedOn": "2024-12-09T15:37:30.000Z",
           "wordCount": 1404,
           "title": "Building Bridges with Industry at CLARIN2024",
-          "imageUrl": null
-        },
-        {
-          "id": "8595 at https://www.clarin.eu",
-          "author": "Laura Gusan",
-          "description": "Tour de CLARIN: Interview with Erika Rimkutė and Virginijus Dadurkevičius\n\n            \nThe conversation was led by Kristina Pahor de Maiti Tekavčič.\nCould you please briefly introduce yourselves?\n    \nErika: I became interested in corpus and computational linguistics around 2000. After defending my first research as a master's student at Vytautas Magnus University (VMU), I continued my career at the same university as a doctoral student, and now I am a senior researcher at VMU Digital Resources and Interdisciplinary Research Institute (SITTI). I also share the research conducted at this institute with the students of VMU Department of Lithuanian Studies.\n    \nVirginijus: I have been working on applied linguistics projects for a few decades now, mainly dictionaries, morphology, spell check…",
-          "link": "https://www.clarin.eu/blog/tour-de-clarin-interview-erika-rimkute-and-virginijus-dadurkevicius",
-          "publishedOn": "2024-12-02T10:04:32.000Z",
-          "wordCount": 2095,
-          "title": "Tour de CLARIN: Interview with Erika Rimkutė and Virginijus Dadurkevičius",
-          "imageUrl": null
-        },
-        {
-          "id": "8594 at https://www.clarin.eu",
-          "author": "Laura Gusan",
-          "description": "Introduction: CLARIN-LT\n\n            \nWritten by Jurgita Vaičenonienė\nWelcome to CLARIN-LT! In 2024, we are celebrating our 10-year anniversary – Lithuania became a full member of CLARIN ERIC on October 25, 2014, and a year later, a consortium of three partners was established. At present, the consortium includes six full partners: Vytautas Magnus University (coordinating institution), Kaunas Technology University, Vilnius University, and the newer consortium members Mykolas Romeris University, Baltic Institute of Advanced Technologies, and the Institute of Baltic Region History and Archaeology. Although the composition of our team members has changed over time, we have always been an interdisciplinary and international consortium. We are happy that the consortium has been recognised by th…",
-          "link": "https://www.clarin.eu/blog/introduction-clarin-lt",
-          "publishedOn": "2024-12-02T09:58:42.000Z",
-          "wordCount": 1112,
-          "title": "Introduction: CLARIN-LT",
           "imageUrl": null
         }
       ]

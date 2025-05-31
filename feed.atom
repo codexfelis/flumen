@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-05-30T08:32:42.964Z</updated>
+    <updated>2025-05-31T08:29:58.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Demotic Palaeographical Database Project: A Digital Repository of Ancient Egyptian Demotic Script and Text Corpora]]></title>
+        <id>http://digitalorientalist.com/?p=15981</id>
+        <link href="https://digitalorientalist.com/2025/05/30/the-demotic-palaeographical-database-project-a-digital-repository-of-ancient-egyptian-demotic-script-and-text-corpora/"/>
+        <updated>2025-05-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous discussion, I examined AKU-PAL, the palaeographical database for hieratic script among ancient Egyptian writing systems. This article …]]></summary>
+        <author>
+            <name>So Miyagawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DH2025: Extension to the deadline for registration]]></title>
+        <id>https://adho.org/?p=5129</id>
+        <link href="https://adho.org/2025/05/30/dh2025-extension-to-the-deadline-for-registration/"/>
+        <updated>2025-05-30T12:04:06.000Z</updated>
+        <summary type="html"><![CDATA[The Local Organising Committee for DH2025 has extended the registration deadline! This extension gives you a bit more time to get registered for DH2025 in Lisbon. Whether you plan to join us in person or online, make sure to complete your registration by the relevant deadline. To register, please visit the ConfTool, where you will… Read More »DH2025: Extension to the deadline for registration]]></summary>
+        <author>
+            <name>Nadezhda Povroznik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSDH/SCHN Congress 2025 Schedule]]></title>
         <id>https://csdh-schn.org/?p=1355</id>
@@ -4977,38 +4997,6 @@ DDI Speaker Series – Chilana Parmit first appeared on Digital Democracies Inst
 The post Representations of Girls in History of Disabilities: Disabilities in Society, Seventeenth to Twentieth Century appeared first on The Gale Review.]]></summary>
         <author>
             <name>Gale Ambassadors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tour de CLARIN: Interview with Erika Rimkutė and Virginijus Dadurkevičius]]></title>
-        <id>8595 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/tour-de-clarin-interview-erika-rimkute-and-virginijus-dadurkevicius"/>
-        <updated>2024-12-02T10:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Tour de CLARIN: Interview with Erika Rimkutė and Virginijus Dadurkevičius
-
-            
-The conversation was led by Kristina Pahor de Maiti Tekavčič.
-Could you please briefly introduce yourselves?
-    
-Erika: I became interested in corpus and computational linguistics around 2000. After defending my first research as a master's student at Vytautas Magnus University (VMU), I continued my career at the same university as a doctoral student, and now I am a senior researcher at VMU Digital Resources and Interdisciplinary Research Institute (SITTI). I also share the research conducted at this institute with the students of VMU Department of Lithuanian Studies.
-    
-Virginijus: I have been working on applied linguistics projects for a few decades now, mainly dictionaries, morphology, spell check…]]></summary>
-        <author>
-            <name>Laura Gusan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction: CLARIN-LT]]></title>
-        <id>8594 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/introduction-clarin-lt"/>
-        <updated>2024-12-02T09:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: CLARIN-LT
-
-            
-Written by Jurgita Vaičenonienė
-Welcome to CLARIN-LT! In 2024, we are celebrating our 10-year anniversary – Lithuania became a full member of CLARIN ERIC on October 25, 2014, and a year later, a consortium of three partners was established. At present, the consortium includes six full partners: Vytautas Magnus University (coordinating institution), Kaunas Technology University, Vilnius University, and the newer consortium members Mykolas Romeris University, Baltic Institute of Advanced Technologies, and the Institute of Baltic Region History and Archaeology. Although the composition of our team members has changed over time, we have always been an interdisciplinary and international consortium. We are happy that the consortium has been recognised by th…]]></summary>
-        <author>
-            <name>Laura Gusan</name>
         </author>
     </entry>
     <entry>
