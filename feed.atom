@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-06-01T08:30:46.311Z</updated>
+    <updated>2025-06-02T08:34:53.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Propose a Course for DHSI 2026]]></title>
+        <id>https://dhsi.openum.ca/?p=757</id>
+        <link href="https://dhsi.org/2025/06/01/propose-a-course-for-dhsi-2026-2/"/>
+        <updated>2025-06-01T17:27:00.000Z</updated>
+        <summary type="html"><![CDATA[We are now receiving proposals for courses to be offered in 2026. We have a number of core offerings repeated annually, as well as number of community-proposed offerings that rotate from year to year (with some repetition). We welcome proposals for new community offerings — and especially so from members of the DHSI community. If […]]]></summary>
+        <author>
+            <name>Michael Sinatra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Demotic Palaeographical Database Project: A Digital Repository of Ancient Egyptian Demotic Script and Text Corpora]]></title>
         <id>http://digitalorientalist.com/?p=15981</id>
@@ -4945,27 +4955,6 @@ RISE bietet im Frühjahr 2025 eine umfassende Serie von KI-Kursen und Workshops 
         <summary type="html"><![CDATA[As Dominique Stutzmann points out in an article for the renowned French media outlet L’Histoire in 2017, paleography has undergone …]]></summary>
         <author>
             <name>Ilyes Mechentel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDI Speaker Series – Chilana Parmit]]></title>
-        <id>https://digitaldemocracies.org/?p=5943</id>
-        <link href="https://digitaldemocracies.org/ddi-speaker-series-chilana-parmit/"/>
-        <updated>2024-12-03T21:18:44.000Z</updated>
-        <summary type="html"><![CDATA[On July 3 2024, Dr. Chilana Parmit delivered a presentation titled, “Beyond ‘One size fits all.’ Designing for user diversity in software learning and help seeking” Parmit Chilana is Associate […]
-DDI Speaker Series – Chilana Parmit first appeared on Digital Democracies Institute.]]></summary>
-        <author>
-            <name>Alberto Lusoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Proposals: Graduate Student Seed Grants 2025-2026]]></title>
-        <id>https://dh.rutgers.edu/?p=78180</id>
-        <link href="https://dh.rutgers.edu/seed-grant-cfp2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=seed-grant-cfp2025"/>
-        <updated>2024-12-03T20:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Overview Deadline: February 1, 2025 Award: up to $1,000 Funding/Project Period: April 1, 2025–March 31, 2026 Download CFP The Rutgers Digital Humanities Initiative (DHI) invites proposals from graduate students in any Rutgers–New Brunswick humanities department or program for seed grants of up to $1,000 to support digital humanities projects in research and/or public outreach. These projects may, but need not, be related to the applicant’s dissertation research. Grants will support projects conducted during the 12 months from the date of award (i.e. April 1, 2025–March 30, 2026). Digital humanities encompasses scholarship that applies computing technologies in humanistic inquiry or studies computing technology humanistically. Examples of digital]]></summary>
-        <author>
-            <name>Francesca Giannetti</name>
         </author>
     </entry>
     <entry>
