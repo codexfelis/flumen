@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-06-06T08:32:51.321Z</updated>
+    <updated>2025-06-07T08:29:52.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prix pour réalisation exceptionnelle 2025 : Dr Michael Eberle Sinatra, Université de Montréal]]></title>
+        <id>https://csdh-schn.org/?p=1370</id>
+        <link href="https://csdh-schn.org/prix-pour-realisation-exceptionnelle-2025-dr-michael-eberle-sinatra-universite-de-montreal/"/>
+        <updated>2025-06-07T02:42:35.000Z</updated>
+        <summary type="html"><![CDATA[Nous sommes ravis d’annoncer que le lauréat du Prix CSDH/SCHN pour une contribution exceptionnelle est le Dr Michael Eberle Sinatra ! Le Dr Sinatra est professeur des humanités numériques à l’Université de Montréal. Formé au romantisme à Oxford et spécialiste de Leigh Hunt, il œuvre dans le domaine de l’édition numérique et des humanités numériques […]]]></summary>
+        <author>
+            <name>Faith Ruetas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 Award for Outstanding Achievement: Dr. Michael Eberle Sinatra, Université de Montréal]]></title>
         <id>https://csdh-schn.org/?p=1367</id>
@@ -5218,23 +5228,6 @@ centre news]]></summary>
         <summary type="html"><![CDATA[Those who have spoken to me about transcription might know that I swear by Furigana Bunko. Sadly, I rarely find …]]></summary>
         <author>
             <name>James Harry Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Bridges with Industry at CLARIN2024]]></title>
-        <id>8598 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/building-bridges-industry-clarin2024"/>
-        <updated>2024-12-09T15:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Building Bridges with Industry at CLARIN2024
-
-            
-The first industry track session at a CLARIN Annual Conference brought together academics, research infrastructure experts, and industry representatives from the Spanish industry landscape specialising in AI, language technologies, healthcare, customer support, and telecommunications. The session was organised in close collaboration with Albert Cañigueral and Maite Melero from the Barcelona Supercomputing Center and aimed to build bridges between industrial R&D, academic research, and existing resource infrastructures such as CLARIN ERIC. 
-    
-The Building Bridges with Industry session during the CLARIN2024 annual conference in Barcelona, Spain. 
-
-After a brief introduction by CLARIN Board of Directors member Henk van den Heuvel, …]]></summary>
-        <author>
-            <name>Laura Gusan</name>
         </author>
     </entry>
     <entry>
