@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-06-09T08:35:22.446Z</updated>
+    <updated>2025-06-10T08:34:37.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New dataset – Trove links shared on Twitter, 2009 to 2020]]></title>
+        <id>http://wragge.micro.blog/2025/06/10/new-dataset-trove-links-shared.html</id>
+        <link href="https://updates.timsherratt.org/2025/06/10/new-dataset-trove-links-shared.html"/>
+        <updated>2025-06-10T01:30:54.000Z</updated>
+        <summary type="html"><![CDATA[A few years ago, I harvested the details of tweets that included links to Trove. The data has just been sitting on my computer, so I thought I should package it up and share, in case it’s of use to anyone.
+The story is that back in 2021, I was working on the article ‘More than newspapers’ for a special section of History Australia focusing on Trove. I was thinking that I might include something about the way Trove newspaper articles were mobilised within online discussions about history – a topic I first explored in ‘Life on the outside: connections, contexts, and the wild, wild web’, my keynote for the Annual Conference of the Japanese Association of Digital Humanities in 2014. In the end, the article went in another direction, so I didn’t use the data.
+I remembered this recently and thou…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#JobOpportunities at the Chair of Digital History – Humboldt University, Berlin]]></title>
         <id>1500 at https://eadh.org</id>
@@ -5160,41 +5172,6 @@ Une brève présentation par la Dr. Myriam Dalal de…]]></summary>
         <summary type="html"><![CDATA[It is fascinating to see how Ottoman Turkish texts are transcribed with the help of artificial intelligence (AI)-operated tools, such as Handwritten …]]></summary>
         <author>
             <name>emineturkmen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARIN to Discontinue Presence on X from 2025]]></title>
-        <id>8601 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/clarin-discontinue-presence-x-2025"/>
-        <updated>2024-12-12T11:26:34.000Z</updated>
-        <summary type="html"><![CDATA[CLARIN to Discontinue Presence on X from 2025
-
-            
-CLARIN 
-    
-European Research Infrastructure Consortium
-See: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
-To stay up-to-date on latest developments, events, jobs, and more:
-Follow us on LinkedIn: CLARIN ERIC's LinkedIn page 
-Read our monthly Newsflash: Subscribe here!
-Check our website www.clarin.eu
-
-      Christine Dijkstra
- 12 December 2024]]></summary>
-        <author>
-            <name>Christine Dijkstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@trovenewsbot has a new home]]></title>
-        <id>http://wragge.micro.blog/2024/12/12/trovenewsbot-has-a.html</id>
-        <link href="https://updates.timsherratt.org/2024/12/12/trovenewsbot-has-a.html"/>
-        <updated>2024-12-12T01:41:35.000Z</updated>
-        <summary type="html"><![CDATA[@trovenewsbot has been around for more than eleven years now – originally sharing Trove newspaper articles on Twitter, and now on the Fediverse. But with the imminent closure of the botsin.space Mastodon instance, I’ve had to find it a new home. Say hello to the latest version: @trovenewsbot@wraggebots.net!
-
-Instead of just moving the bot to an existing instance, I decided to set up my own using GoToSocial. I thought this would give me more control, and encourage me to resurrect some more of my old Twitter bots. I installed GoToSocial on the smallest available DigitalOcean droplet, following the ‘bare metal’ instructions. Beyond the usual faffing around with permissions and DNS, I didn’t have any major problems. The GoToSocial documention is very comprehensive, and includes useful advice …]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>

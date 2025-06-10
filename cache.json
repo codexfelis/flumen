@@ -2848,6 +2848,16 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2025/06/10/new-dataset-trove-links-shared.html",
+          "author": null,
+          "description": "A few years ago, I harvested the details of tweets that included links to Trove. The data has just been sitting on my computer, so I thought I should package it up and share, in case it’s of use to anyone.\nThe story is that back in 2021, I was working on the article ‘More than newspapers’ for a special section of History Australia focusing on Trove. I was thinking that I might include something about the way Trove newspaper articles were mobilised within online discussions about history – a topic I first explored in ‘Life on the outside: connections, contexts, and the wild, wild web’, my keynote for the Annual Conference of the Japanese Association of Digital Humanities in 2014. In the end, the article went in another direction, so I didn’t use the data.\nI remembered this recently and thou…",
+          "link": "https://updates.timsherratt.org/2025/06/10/new-dataset-trove-links-shared.html",
+          "publishedOn": "2025-06-10T01:30:54.000Z",
+          "wordCount": 775,
+          "title": "New dataset – Trove links shared on Twitter, 2009 to 2020",
+          "imageUrl": "https://zenodo.org/badge/DOI/10.5281/zenodo.15627800.svg"
+        },
+        {
           "id": "http://wragge.micro.blog/2025/06/05/glam-workbench-preprint-for-building.html",
           "author": null,
           "description": "This is a preprint of my contribution to the publication ‘Building User-Friendly Toolkits and Platforms for Digital Humanities’. It provides a brief overview of the GLAM Workbench. I had to leave a lot out, but hopefully it provides a useful summary of what the GLAM Workbench is, and what I’d like it to be.\n\nThe GLAM Workbench is a collection of tools and resources created to help researchers use and explore the digital collections of GLAM organisations (galleries, libraries, archives, and museums).1 It’s mainly focused on collections from Australia and New Zealand, but some sections venture across international boundaries to explore topics such as web archives and Wikidata.\nGLAM organisations make a lot of rich cultural data available online, but getting that data in a machine-readable fo…",
@@ -3036,16 +3046,6 @@
           "wordCount": 707,
           "title": "Changes to Trove newspapers in 2024",
           "imageUrl": "https://cdn.uploads.micro.blog/8371/2025/visualization13.png"
-        },
-        {
-          "id": "http://wragge.micro.blog/2024/12/12/trovenewsbot-has-a.html",
-          "author": null,
-          "description": "@trovenewsbot has been around for more than eleven years now – originally sharing Trove newspaper articles on Twitter, and now on the Fediverse. But with the imminent closure of the botsin.space Mastodon instance, I’ve had to find it a new home. Say hello to the latest version: @trovenewsbot@wraggebots.net!\n\r\nInstead of just moving the bot to an existing instance, I decided to set up my own using GoToSocial. I thought this would give me more control, and encourage me to resurrect some more of my old Twitter bots. I installed GoToSocial on the smallest available DigitalOcean droplet, following the ‘bare metal’ instructions. Beyond the usual faffing around with permissions and DNS, I didn’t have any major problems. The GoToSocial documention is very comprehensive, and includes useful advice …",
-          "link": "https://updates.timsherratt.org/2024/12/12/trovenewsbot-has-a.html",
-          "publishedOn": "2024-12-12T01:41:35.000Z",
-          "wordCount": 387,
-          "title": "@trovenewsbot has a new home",
-          "imageUrl": "https://cdn.uploads.micro.blog/8371/2024/screenshot-from-2024-12-12-12-36-16.png"
         }
       ]
     },
@@ -4652,16 +4652,6 @@
           "publishedOn": "2024-12-18T08:41:11.000Z",
           "wordCount": 1066,
           "title": "2024: A Review",
-          "imageUrl": null
-        },
-        {
-          "id": "8601 at https://www.clarin.eu",
-          "author": "Christine Dijkstra",
-          "description": "CLARIN to Discontinue Presence on X from 2025\n\n            \nCLARIN \n    \nEuropean Research Infrastructure Consortium\nSee: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\nTo stay up-to-date on latest developments, events, jobs, and more:\nFollow us on LinkedIn: CLARIN ERIC's LinkedIn page \nRead our monthly Newsflash: Subscribe here!\nCheck our website www.clarin.eu\n\n      Christine Dijkstra\n 12 December 2024",
-          "link": "https://www.clarin.eu/news/clarin-discontinue-presence-x-2025",
-          "publishedOn": "2024-12-12T11:26:34.000Z",
-          "wordCount": 335,
-          "title": "CLARIN to Discontinue Presence on X from 2025",
           "imageUrl": null
         }
       ]
