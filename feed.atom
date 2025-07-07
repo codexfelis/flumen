@@ -2,10 +2,249 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-06-10T08:34:37.170Z</updated>
+    <updated>2025-07-07T08:36:12.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[eScriptorium Documentation]]></title>
+        <id>https://escripta.hypotheses.org/?p=601</id>
+        <link href="https://escripta.hypotheses.org/601"/>
+        <updated>2025-07-03T16:21:36.000Z</updated>
+        <summary type="html"><![CDATA[This site is a scientific blog on the Digital Humanities kraken/eScriptorium project and team at the EPHE-PSL, but if you are looking for eScriptorium documentation then please visit https://escriptorium.readthedocs.io/ If you wish to get...]]></summary>
+        <author>
+            <name>Peter A. Stokes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future of the past... in the present]]></title>
+        <id>http://wragge.micro.blog/2025/07/02/the-future-of-the-past.html</id>
+        <link href="https://updates.timsherratt.org/2025/07/02/the-future-of-the-past.html"/>
+        <updated>2025-07-02T02:26:45.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been on a bit of a self-archiving binge lately. It started because I needed to cut back some of my web hosting costs, and was looking at ways of bringing together a group of separately hosted Heroku apps onto a single Digital Ocean droplet. While taking stock of my various apps and experiments, I remembered there were some that hadn’t survived earlier migrations – in particular, the future of the past.
+The the future of the past was a weird little app built on top of a collection of 40,000 newspaper articles, harvested from Trove, that included the phrase ‘the future’. I created it as part of my Harold White Fellowship at the National Library of Australia in 2012, and told the story of its genesis in my fellowship lecture. In short, I extracted words with the highest TF-IDF values for…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mining for meanings]]></title>
+        <id>http://wragge.micro.blog/2025/06/30/mining-for-meanings.html</id>
+        <link href="https://updates.timsherratt.org/2025/06/30/mining-for-meanings.html"/>
+        <updated>2025-06-30T07:36:42.000Z</updated>
+        <summary type="html"><![CDATA[In 2012, I was lucky enough to be awarded a Harold White Fellowship by the National Library of Australia. I used my time to explore ways of using Trove’s digitised newspapers as data, and presented my work at a public lecture in May 2012. I spoke from notes and never got round to writing it all up. The recording made by the NLA has disappeared from their website, but is still available in the Internet Archive. The text below is a transcription of the recording made in June 2025 with some minor editing.
+You can also listen to the audio, browse the full set of slides, or download a PDF from Zenodo.
+
+Photograph by Christopher Brothers, 2012, nla.gov.au/nla.obj-1…
+I. Beyond discovery
+Thanks Marie-Louise and thanks to the library for this great opportunity. And of course thanks to all of you fo…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARIN Newsflash June 2025 is Out]]></title>
+        <id>8838 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/clarin-newsflash-june-2025-is-out"/>
+        <updated>2025-06-26T08:48:00.000Z</updated>
+        <summary type="html"><![CDATA[CLARIN Newsflash June 2025 is Out
+
+            
+Every month, CLARIN publishes a Newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.
+  
+
+
+
+      
+
+
+
+
+
+Read the most recent CLARIN Newsflash: June 2025
+Subscribing to it is the ideal way of staying informed.
+Subscribe here
+Past issues of the CLARIN Newsflash
+You are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.
+
+      Elisa Gorgaini
+ 26 June 2025]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog post | A Fellowship with Impact: Building a Legacy for Religious Archives]]></title>
+        <id>https://www.rluk.ac.uk/?p=15326</id>
+        <link href="https://www.rluk.ac.uk/blog-post-a-fellowship-with-impact-building-a-legacy-for-religious-archives/"/>
+        <updated>2025-06-25T14:55:15.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to publish this guest blog post by Jonathan Bush, Research Engagement and Collections Development Archivist at Durham University, and a Fellow (2021-22) from the AHRC-RLUK Professional Practice Fellowship Scheme. Jonathan's fellowship, Protecting dispersed collections: a framework for managing the at-risk heritage assets of Catholic religious orders, sought to understand the challenges  [...]
+The post Blog post | A Fellowship with Impact: Building a Legacy for Religious Archives appeared first on Research Libraries UK.]]></summary>
+        <author>
+            <name>Melanie Cheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-Centres now Curating CLARIN Resource Families]]></title>
+        <id>8836 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/news/k-centres-now-curating-clarin-resource-families"/>
+        <updated>2025-06-24T12:41:48.000Z</updated>
+        <summary type="html"><![CDATA[K-Centres now Curating CLARIN Resource Families
+
+            
+
+  
+  
+            
+    
+As the CLARIN Resource Families continue to mature and attract a growing number of users, the CLARIN Knowledge Infrastructure Committee (KIC) is calling on K-Centres to support the coordination and curation of these valuable resources from their area of expertise. Eight centres have already taken the lead, and others are warmly invited to join the initiative.
+Below is an overview of the Resource Families currently curated by K-Centres:
+Resource Families
+K-Centres 
+
+
+Corpora of Disordered Speech
+CLARIN Knowledge Centre for Atypical Communication Expertise (ACE)
+
+
+Multimodal Corpora
+CLARIN Knowledge Centre for Multimodal and Sensor-based Data (CLARIN-MULTISENS)
+
+
+Oral History Corpora
+CLARIN K-Centre for Oral Archives (K-OAr)
+
+
+Computer-Mediated Communication Corpora
+CLARIN Knowledge Centre for Computer-Mediated Communication and Social Media Corpora (CKCMC)
+
+
+L2 Learner Corpora
+CLARIN Knowledge Centre for Learner Corpora (CKL2CORPORA)
+
+
+Language Models 
+CLARIN K-centre for Large Language Models in SS&H (LLMs4SSH)
+
+
+Corpus Query Tools
+CLARIN Knowledge Centre for Digital Resources for the Languages in Ireland and Britain (DR-LIB)
+
+
+Dictionaries 
+CLARIN-ELEXIS Knowledge Centre for Lexicography (CLARIN-ELEXIS)
+
+
+
+Elisa Gorgaini
+ 24 June 2025]]></summary>
+        <author>
+            <name>Elisa Gorgaini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARIN ERIC Exchange Venice-Leuven 2025]]></title>
+        <id>8835 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/clarin-eric-exchange-venice-leuven-2025"/>
+        <updated>2025-06-24T08:39:38.000Z</updated>
+        <summary type="html"><![CDATA[CLARIN ERIC Exchange Venice-Leuven 2025
+
+            
+Blog post by Tatiana Tommasi
+    
+Fig. 1. The University Library in Leuven.
+
+I applied for a CLARIN Mobility Grant because it is a valuable opportunity to improve my PhD research, which is dedicated to the study of the epigraphic tradition (i.e., prints and manuscripts containing transcriptions of ancient inscriptions). My work adopts a methodology that combines a traditional approach with digital technologies, exploring in particular the possibilities offered by layout analysis and Handwritten Text Recognition (HTR) tools.
+Furthermore, I plan to create updated EpiDoc XML editions of several Latin inscriptions from the Venice region and to produce XML TEI (Text Encoding Initiative) digital editions of a selection of epigraphic manuscrip…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centre news vol. 73 - June 2025]]></title>
+        <id>8834 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/centre-news-vol-73-june-2025"/>
+        <updated>2025-06-23T17:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Centre news vol. 73 - June 2025
+
+            
+CLARIN-Dspace migration meeting next week 
+From Wednesday 2 July to Friday 4 July there will be a working meeting on migrating CLARIN-Dspace v5 to v7 in Pisa. There still are some funded participation slots available. 
+Read all about it on the event page.
+Centre Meeting 2025 presentations available
+The presentations given during the Centre Meeting are now available online. 
+CLARIN technical open hour, Monday 30 June at 11:00 CEST
+The next edition of the technical open hour is planned for Monday 30 June at 11:00 CEST. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!
+New on the CLARIN forum
+Release LexFCS Specification v0.3
+GOLD ontology is available again
+Call for Abstracts: CLIN 2025
+
+      Dieter Van Uytvanck
+ 23 June 2025
+
+
+    
+centre news]]></summary>
+        <author>
+            <name>Dieter Van Uytvanck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RaDiHum20 spricht mit Miriam Welz und Phillip Schrögel über Partizipation in den DH und der Wissenschaftskommunikation]]></title>
+        <id>https://radihum20.de/?p=1103</id>
+        <link href="https://radihum20.de/radihum20-spricht-mit-miriam-welz-und-phillip-schroegel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-spricht-mit-miriam-welz-und-phillip-schroegel"/>
+        <updated>2025-06-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bevor es inhaltlich losgeht, gibt es ein kleines internes Update: Das Host-Team hat Zuwachs bekommen. Wir freuen uns, dass Melanie Seltmann und Waltraud von Pippich nun fest mit dabei sind!! Mit dieser Folge starten wir in die neunte Staffel von RaDiHum20, und die steht ganz im Zeichen von Barrieren, Hürden und Partizipation in den Digital […]
+Der Beitrag RaDiHum20 spricht mit Miriam Welz und Phillip Schrögel über Partizipation in den DH und der Wissenschaftskommunikation erschien zuerst auf RaDiHum 20.]]></summary>
+        <author>
+            <name>Clara Helmig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A brief and biased history of Trove Twitter bots]]></title>
+        <id>http://wragge.micro.blog/2025/06/19/a-brief-and-biased-history.html</id>
+        <link href="https://updates.timsherratt.org/2025/06/19/a-brief-and-biased-history.html"/>
+        <updated>2025-06-19T01:08:35.000Z</updated>
+        <summary type="html"><![CDATA[The socials recently alerted me to an interesting article by Dominique Carlon, Jean Burgess, and Kateryna Kasianenko on the history of community-created Twitter bots. The article explores bot-making within the context of Twitter’s rise and fall, and provides a handy taxonomy of bot species. However, it doesn’t include any Australian bots amidst the examples. That’s a bit disappointing, as I remember the bot-building years as a time of great fun and creativity. My own contribution to the world of Twitter bots was mainly focused on Trove (what a surprise!), so I thought I might as well jot down a few incomplete and biased notes about the history of Trove Twitter bots.
+Trove tweeting trends
+It just so happens that I recently packaged up some data about Trove links shared on Twitter. Using thi…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irish Distillers makes 22,000 historical records between John Jameson & Son and publicans available to the Digital Repository of Ireland]]></title>
+        <id>https://dri.ie/?post_type=news&amp;p=53859</id>
+        <link href="https://dri.ie/news/irish-distillers-makes-22000-historical-records-between-john-jameson-son-and-publicans-available-to-the-digital-repository-of-ireland/"/>
+        <updated>2025-06-18T13:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Irish Distillers is the first Irish commercial organisation to partner with the Digital Repository of Ireland (DRI) and today marks the first transfer of digitised, freely accessible archival records under the partnership. Irish Distillers, producer of some of the world’s most well-known and successful Irish whiskeys, has today announced the availability of over 22,000 legal […]
+The post Irish Distillers makes 22,000 historical records between John Jameson & Son and publicans available to the Digital Repository of Ireland appeared first on Digital Repository of Ireland.]]></summary>
+        <author>
+            <name>Maeve O'Brien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities interns 2024/25]]></title>
+        <id>https://digitalhumanities.exeter.ac.uk/?p=1218</id>
+        <link href="https://digitalhumanities.exeter.ac.uk/2025/06/digital-humanities-interns-2024-25-2/"/>
+        <updated>2025-06-16T13:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Each year we ask our interns to write a post reflecting on their time working in the DH Lab. Here is Sam’s post: Hey, I’m Sam Harvey, and I’m a third year History and Archaeology student. I could not have imagined how much fun I would have had on this internship, it was an incredible […]]]></summary>
+        <author>
+            <name>Gemma Poulton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Archives Week goodies]]></title>
+        <id>http://wragge.micro.blog/2025/06/11/some-archives-week-goodies.html</id>
+        <link href="https://updates.timsherratt.org/2025/06/11/some-archives-week-goodies.html"/>
+        <updated>2025-06-11T06:40:11.000Z</updated>
+        <summary type="html"><![CDATA[It’s International Archives Week and I’m feeling a bit crook after being double-vaxxed yesterday, so instead of doing something productive, I’m just going to make a list of potentially handy archives-related resources from the Wonderful World of Wragge(TM).
+The theme of Archives Week is #ArchivesAreAccessible, which you’d have to regard as rather aspirational given the various ways access is limited by law, policy, practice, technology, and history. But what the heck, discussions about the meaning of access are always welcome. It’s also a little jarring to see the #ArchivesAreAccessible theme being promoted by the National Archives of Australia just a few weeks after they implemented new restrictions that make it impossible to get machine-readable data out of their online database, RecordS…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New dataset – Trove links shared on Twitter, 2009 to 2020]]></title>
         <id>http://wragge.micro.blog/2025/06/10/new-dataset-trove-links-shared.html</id>
@@ -911,6 +1150,24 @@ Tracing the legacy of Edward Steichen (FoMLEG) is a C²DH research project.
 The post DRI launches Digital Preservation Terminology: An Irish language glossary for Repositories and Archivists appeared first on Digital Repository of Ireland.]]></summary>
         <author>
             <name>Maeve O'Brien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction: HR-CLARIN]]></title>
+        <id>8812 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/introduction-hr-clarin"/>
+        <updated>2025-05-12T08:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: HR-CLARIN
+
+            
+Written by Daša Farkaš
+    
+The HR‑CLARIN provides language resources, technologies, expertise, and knowledge transfer to researchers in humanities and social sciences with a focus on Croatian language resources and tools, but also develops language technologies for other languages, e.g., Latin and Old-Church Slavonic.
+The HR-CLARIN consortium is composed of eight founding partners:
+The Faculty of Humanities and Social Sciences (FFZG) of the University of Zagreb is the largest in Croatia, carrying out research activities and executing university programs in the field of humanities and social sciences. It is also a significant cultural institution with an important impact on Croatian culture and society.
+The Institute of Croatian Language (IHJ) is a pub…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
         </author>
     </entry>
     <entry>
@@ -4672,58 +4929,6 @@ Image source: SMBAN]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JADH2025: 20-21 September at Osaka University]]></title>
-        <id>82 at https://www.jadh.org</id>
-        <link href="https://www.jadh.org/node/82"/>
-        <updated>2025-01-08T14:56:06.000Z</updated>
-        <summary type="html"><![CDATA[JADH2025 will be held on 20-21 September at Osaka University.]]></summary>
-        <author>
-            <name>adminweb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vincent Vandeghinste Joins the CLARIN ERIC Board of Directors]]></title>
-        <id>8614 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/vincent-vandeghinste-joins-clarin-eric-board-directors"/>
-        <updated>2025-01-08T10:40:36.000Z</updated>
-        <summary type="html"><![CDATA[Vincent Vandeghinste Joins the CLARIN ERIC Board of Directors
-
-            
-We are pleased to announce that Vincent Vandeghinste joined the CLARIN ERIC Board of Directors (
-    
-Board of Directors
-https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en
-
-   strategy and policy. 
-
-
-  
-  
-                
-                  
-              
-                  
-
-  
-
-
-      
-
-
-Vincent Vandeghinste
-
- 
-Currently, Vincent Vandeghinste is a senior researcher at the Dutch Language  Institute (Netherlands), where he is also a member of the senior management team. He is a guest professor at the Faculty of Arts of the University of Leuven (Belgium), where he teaches courses on machine translation and machine learning and is a member of the Centre for Computational Linguistics and of Leuven.AI.
-Vincent is an expert in language technologies, focusing on language technologies for inclusion, machine translation, language equality and language infrastructure. He has been involved in the creation of several language technology resources, including corpora and treebanks for Dutch, and several sign language data sets.
-Vincent has been involved with CLARIN in many ways: At the national level, he is founder and coordinator of CLARIN Belgium and K-Dutch, the CLARIN Knowledge Centre for Dutch, and he is involved in the CLARIAH-VL and CLARIAH-VL+ projects. He is also a member of the Knowledge Infrastructure Committee (KIC), and was the Programme Committee chair of CLARIN2024, as well as local organiser of CLARIN2023.
-Within the BoD, he plans to focus on knowledge infrastructure and user involvement.
-Julia Misersky
- 8 January 2025]]></summary>
-        <author>
-            <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Book launch: The Impact of War Experiences in Europe: The Conscription of Non-German Men and Women into the 'Wehrmacht' and 'Reichsarbeitsdienst' (1938–1945)]]></title>
         <id>5307 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/book-launch-impact-war-experiences-europe-conscription-non-german-men-and-women-wehrmacht-and"/>
@@ -4733,199 +4938,6 @@ This book is the result of the international conference in October 2022 on the w
 This publication is Volume 2 in the De Gruyter series "Studien zur transnationalen Zeitgeschichte …]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emily Steiner]]></title>
-        <id>1320 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/events/emily-steiner"/>
-        <updated>2025-01-07T19:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Monday, March 31, 2025 - 12:00pm
-
-
-
-Williams 623
-
-
-Subtitle: 
-
-English, Penn
-
-
-Image for Left Column:]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mellon Seminar: Rahul Mukherjee]]></title>
-        <id>1319 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/events/mellon-seminar-rahul-mukherjee"/>
-        <updated>2025-01-07T19:45:22.000Z</updated>
-        <summary type="html"><![CDATA[Monday, March 17, 2025 - 12:00pm
-
-
-
-Williams 623
-
-
-Subtitle: 
-
-English/Cinema & Media Studies, Penn
-
-
-Image for Left Column:]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tulia Falleti]]></title>
-        <id>1318 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/events/tulia-falleti"/>
-        <updated>2025-01-07T18:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Monday, February 24, 2025 - 1:30pm
-
-
-
-Williams Hall 623
-
-
-Subtitle: 
-
-Political Science, Penn / Dispossessions in the Americas
-
-
-Image for Left Column:]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Josh Plotkin]]></title>
-        <id>1317 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/events/josh-plotkin"/>
-        <updated>2025-01-07T18:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Monday, February 10, 2025 - 12:00pm
-
-
-
-Williams Hall 623
-
-
-Subtitle: 
-
-Biology, Penn
-
-
-Image for Left Column:]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akeil Robertson]]></title>
-        <id>1316 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/events/akeil-robertson"/>
-        <updated>2025-01-07T18:22:31.000Z</updated>
-        <summary type="html"><![CDATA[Monday, January 27, 2025 - 12:00pm
-
-
-
-Williams Hall 623
-
-
-Subtitle: 
-
-Graterford Archive
-
-
-Image for Left Column:]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frederick Douglass Day 2025]]></title>
-        <id>1315 at https://pricelab.sas.upenn.edu</id>
-        <link href="https://pricelab.sas.upenn.edu/events/frederick-douglass-day-2025"/>
-        <updated>2025-01-07T16:58:06.000Z</updated>
-        <summary type="html"><![CDATA[Friday, February 14, 2025 - 12:00pm
-
-
-
-RDDSx (First Floor Van Pelt Library)
-
-
-
-Join us as we celebrate Frederick Douglass' Birthday by taking part in the annual Douglass Day Transcribe-a-thon event organized by the Center for Black Digital Research at Penn State
-What is Douglass Day? 
-Douglass Day is an annual holiday celebrated on February 14th, the chosen birthday of Frederick Douglass. As Douglass never knew his actual birthdate, his family chose Valentine’s Day to commemorate his life. The holiday was established after Douglass’ passing in 1895, when influential activist Mary Church Terrell proposed a national holiday to honor his legacy. Douglass Day events were widespread in the early 20th century and served as inspiration for the creation of Black History Month. In 2017, a group at …]]></summary>
-        <author>
-            <name>svarner@upenn.edu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H2IOSC Training Environment]]></title>
-        <id>8613 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/h2iosc-training-environment"/>
-        <updated>2025-01-07T16:10:43.000Z</updated>
-        <summary type="html"><![CDATA[H2IOSC Training Environment
-
-            
-H2IOSC Training Environment
- 
-The H2IOSC Training Environment platform was developed to address the growing need for a structured and accessible system to manage and deliver educational content, particularly for modular and reusable digital learning resources. Designed as part of the PNRR Humanities and Cultural Heritage Italian Open Science Cloud, the platform is a collaborative effort between ETT S.p.A. and the CNR Institute of Computational Linguistics ‘Antonio Zampolli’ of Pisa (CNR-ILC), part of CLARIN-IT. It aims to support modern teaching practices while managing training materials according to the FAIR principles within the CLARIN-IT community and beyond.
- 
-From the student’s perspective, the platform allows the creation of an account with …]]></summary>
-        <author>
-            <name>Iulianna van der Lek-Ciudin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aozora Bunko: Notes on Usage]]></title>
-        <id>http://digitalorientalist.com/?p=14464</id>
-        <link href="https://digitalorientalist.com/2025/01/07/aozora-bunko-notes-on-usage/"/>
-        <updated>2025-01-07T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article was co-authored by guest contributors Raúl Cervera Álvarez (Universitat de Barcelona) and Celia Gonzalez Diaz (Universitat Autonoma de …]]></summary>
-        <author>
-            <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Scenes: Nicoletta Calzolari]]></title>
-        <id>8612 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/behind-scenes-nicoletta-calzolari"/>
-        <updated>2025-01-07T08:38:20.000Z</updated>
-        <summary type="html"><![CDATA[Behind the Scenes: Nicoletta Calzolari 
-
-            
-  
-  
-              
-
-
-      
-
- 
-In our 'Behind the Scenes' series, we introduce the people who work for and use our infrastructure. In the series, we feature pioneers, researchers, ambassadors, committee chairs, PhD students, and more. This month, one of CLARIN's pioneers, Nicoletta Calzolari, remembers the infrastructure's beginnings.   
- 
-Please introduce yourself. What is your background?
-After graduating in Philosophy, I started my career at the University of Pisa with a national ministerial grant in computational linguistics, a completely new field to me. I liked it a lot.
-At the beginning of the 1980s I was the first to start a quite new area of research – the acquisition of lexical information from machine-readable dictionaries …]]></summary>
-        <author>
-            <name>Karina Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Einladung zum DHd Community Forum am 10.01.2025]]></title>
-        <id>node/975</id>
-        <link href="https://dig-hum.de/aktuelles/einladung-zum-dhd-community-forum-am-10012025"/>
-        <updated>2025-01-07T07:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Liebe Mitglieder des DHd-Verbandes und Interessierte,
-für unsere interdisziplinäre Community ist ein offener Austausch von großer Bedeutung. Während die jährliche…]]></summary>
-        <author>
-            <name>434</name>
         </author>
     </entry>
     <entry>
@@ -4958,200 +4970,6 @@ and online
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PG Sindhi Library: Revisiting the Archive after 18 Months]]></title>
-        <id>http://digitalorientalist.com/?p=14398</id>
-        <link href="https://digitalorientalist.com/2025/01/03/pg-sindhi-library-revisiting-the-archive-after-18-months/"/>
-        <updated>2025-01-03T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Archives and archive building hold great potential within the theory and praxis of digital humanities in India. Sindhi, a minor …]]></summary>
-        <author>
-            <name>soniwadhwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethiopic Miracles: A Database to Link Images and Texts of Marian Miracles]]></title>
-        <id>http://digitalorientalist.com/?p=14322</id>
-        <link href="https://digitalorientalist.com/2024/12/31/ethiopic-miracles-a-database-to-link-images-and-texts-of-marian-miracles/"/>
-        <updated>2024-12-31T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The Princeton Ethiopian, Eritrean & Egyptian Miracles of Mary Project (PEMM), hosted by Princeton University, aims to bring together the …]]></summary>
-        <author>
-            <name>Anaïs Wion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editor’s Digest December 2024: Persian, Turkic, and Biblical Studies]]></title>
-        <id>http://digitalorientalist.com/?p=14393</id>
-        <link href="https://digitalorientalist.com/2024/12/27/editors-digest-december-2024-persian-turkic-and-biblical-studies/"/>
-        <updated>2024-12-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since September 2024, I have been the editor of the new section of The Digital Orientalist on Persian, Turkic, and …]]></summary>
-        <author>
-            <name>SARA ZANOTTA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Partition Revisited: Bridging History and Technology to Trace Refugee Rehabilitation]]></title>
-        <id>http://digitalorientalist.com/?p=14348</id>
-        <link href="https://digitalorientalist.com/2024/12/24/partition-revisited-bridging-history-and-technology-to-trace-refugee-rehabilitation/"/>
-        <updated>2024-12-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a guest post by Gursimran Kaur Butalia. The Partition of India in 1947 remains a deeply personal and …]]></summary>
-        <author>
-            <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering the Protest Against Water Charges in Ireland 10 Years On]]></title>
-        <id>https://dri.ie/?post_type=news&amp;p=42899</id>
-        <link href="https://dri.ie/news/remembering-the-protest-against-water-charges-in-ireland-10-years-on/"/>
-        <updated>2024-12-20T15:24:57.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Repository of Ireland (DRI) is pleased to share news of another collection published from our 2024 Legacy Data Preservation Pilot. The pilot scheme was designed to capture and preserve at-risk data of enduring cultural and social value from completed research projects. The last collection to be published in 2024 provides striking evidence of grassroots […]
-The post Remembering the Protest Against Water Charges in Ireland 10 Years On appeared first on Digital Repository of Ireland.]]></summary>
-        <author>
-            <name>Beth Knazook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visualizing the Heavens: A Glimpse into the Max Planck Institute’s Database on Astral Knowledge]]></title>
-        <id>http://digitalorientalist.com/?p=14227</id>
-        <link href="https://digitalorientalist.com/2024/12/20/visualizing-the-heavens-a-glimpse-into-the-max-planck-institutes-database-on-astral-knowledge/"/>
-        <updated>2024-12-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The VoH Research Database Have you ever looked up at the night sky and thought, “I wonder what people hundreds …]]></summary>
-        <author>
-            <name>Aida Alavi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RaDiHum20 spricht mit Ulrike, Frederike und Martina vom Review Journal for Digital Editions and Resources (RIDE)]]></title>
-        <id>https://radihum20.de/?p=1038</id>
-        <link href="https://radihum20.de/radihum20-spricht-mit-ride/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=radihum20-spricht-mit-ride"/>
-        <updated>2024-12-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In der vierten Folge unserer siebten Staffel beschäftigen wir uns mit dem Thema der Rezensionen für digitale Editionen. Dazu sprechen wir mit Ulrike Henny-Krahmer, Friederike Neuber und Martina Scholger, den Managing Editors des Review Journal for Digital Editions and Resources – kurz RIDE. Gemeinsam klären wir nicht nur, ob man „Riede [ˈʁiːdə]“ oder „Ride [ˈɹaɪd] […]
-Der Beitrag RaDiHum20 spricht mit Ulrike, Frederike und Martina vom Review Journal for Digital Editions and Resources (RIDE) erschien zuerst auf RaDiHum 20.]]></summary>
-        <author>
-            <name>Clara Helmig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LT4All 2025 Conference on Advancing Humanism through Language Technologies]]></title>
-        <id>8609 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/lt4all-2025-conference-advancing-humanism-through-language-technologies"/>
-        <updated>2024-12-18T12:35:13.000Z</updated>
-        <summary type="html"><![CDATA[LT4All 2025 Conference on Advancing Humanism through Language Technologies
-
-            
-  
-  
-                
-                  
-                  
-
-  
-
-
-      
-
-CLARIN and SADiLaR are happy to endorse the LT4All 2025 conference, which will be held from February 24 to 26, 2025, at the UNESCO Headquarters in Paris. 
-This event, organized by ELRA, SIGUL, and UNESCO within the framework of the International Decade of Indigenous Languages (IDIL), highlights the need for inclusive language technologies, building on the first LT4All conference in 2019. LT4All 2.0 will bring together leaders in language technology to explore ways to advance linguistic diversity and multilingual accessibility, empowering communities. The conference will feature three thematic tracks over three days: Achievements, Challenges, and Solutions, focusing not only on the development of language technologies but also on broader benefits for the community. Each day includes keynote sessions, panels, and poster presentations, fostering dialogue on the ethical, technical, and policy challenges of inclusive language technology development.
-Expressions of interest in participating in the programme are still open. For more details, please visit LT4All 2025.
-Iulianna van d…
- 18 December 2024
-
-
-    
-multilingualism
-language technologies
-UNESCO
-inclusive]]></summary>
-        <author>
-            <name>Iulianna van der Lek-Ciudin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARIN Newsflash December 2024 Is Out]]></title>
-        <id>8607 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/clarin-newsflash-december-2024-is-out"/>
-        <updated>2024-12-18T10:17:40.000Z</updated>
-        <summary type="html"><![CDATA[CLARIN Newsflash December 2024 Is Out
-
-            
- Every month, CLARIN publishes a Newsflash with an overview of what has been happening at CLARIN, the national consortia, etc.
-Read the most recent CLARIN Newsflash: December 2024
-Subscribing to it is the ideal way of staying informed.
-Subscribe here
-Past issues of the CLARIN Newsflash
- 
-You are welcome to submit a news item with CLARIN-related news (or call for papers, event announcement). You can do so by following the submission guidelines as described on the Newsflash page.
-Julia Misersky
- 18 December 2024]]></summary>
-        <author>
-            <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024: A Review]]></title>
-        <id>8606 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/2024-review"/>
-        <updated>2024-12-18T08:41:11.000Z</updated>
-        <summary type="html"><![CDATA[2024: A Review
-
-            
-Written by Darja Fišer
-2024 was another successful year for CLARIN! We welcomed new members (Spain and South Africa), increased the number of service and knowledge centres (now a total of 73), and worked hard to achieve two of our key strategic goals: improving interoperability and findability.
- 
-A new CLARIN Resource Family was developed for Corpora of Disordered Speech. It deals with a specific kind of speech data that is related to the recordings of individuals with communication disorders. These corpora are invaluable for education and research, but are costly and hard to build and can be difficult to share, given privacy and confidentiality issues. This new Resource Family currently lists around 20 corpora that are made available via CLARIN, covering nearl…]]></summary>
-        <author>
-            <name>Julia Misersky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Registration ends on May 19th!]]></title>
-        <id>https://dhsi.openum.ca/?p=297</id>
-        <link href="https://dhsi.org/2024/12/17/registration-ends-on-may-19th/"/>
-        <updated>2024-12-17T17:09:04.000Z</updated>
-        <summary type="html"><![CDATA[Registration for DHSI 2025 ends on May 19th! Many courses fill up much sooner, so make sure to register sooner rather than later! Please note that there will be no on-site registrations this year.]]></summary>
-        <author>
-            <name>paledavood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early bird registration ends on April 1st!]]></title>
-        <id>https://dhsi.openum.ca/?p=294</id>
-        <link href="https://dhsi.org/2024/12/17/early-bird-registration-ends-on-april-1st/"/>
-        <updated>2024-12-17T17:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Early bird registration, as well as registration with discounted codes for partners & sponsors, ends on April 1st!]]></summary>
-        <author>
-            <name>paledavood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent Advancements: Unlocking Syriac and Arabic Texts on Archive.org]]></title>
-        <id>http://digitalorientalist.com/?p=14255</id>
-        <link href="https://digitalorientalist.com/2024/12/17/recent-advancements-unlocking-syriac-and-arabic-texts-on-archive-org/"/>
-        <updated>2024-12-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For scholars and students of Syriac and Arabic, the vast digital text library of Archive.org has always held immense potential. …]]></summary>
-        <author>
-            <name>Ephrem A. Ishac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHSI Week 2]]></title>
-        <id>https://dhsi.openum.ca/?p=286</id>
-        <link href="https://dhsi.org/2024/12/16/dhsi-week-2/"/>
-        <updated>2024-12-16T20:45:56.000Z</updated>
-        <summary type="html"><![CDATA[DHSI week 2 will take place at the Université de Montréal from June 2, 2025 to June 6, 2025.]]></summary>
-        <author>
-            <name>paledavood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHSI week 1]]></title>
-        <id>https://dhsi.openum.ca/?p=268</id>
-        <link href="https://dhsi.org/2024/12/16/dhsi-week-1/"/>
-        <updated>2024-12-16T20:43:09.000Z</updated>
-        <summary type="html"><![CDATA[DHSI week 1 will take place at the Université de Montréal from May 26, 2025 to May 30, 2025.]]></summary>
-        <author>
-            <name>kkaustinen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Humming Home. Public history and Sound]]></title>
         <id>5294 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/humming-home-public-history-and-sound"/>
@@ -5162,16 +4980,6 @@ L’événement comprendra :
 Une brève présentation par la Dr. Myriam Dalal de…]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the (Digital) World of Ottoman Turkish Texts: The Digital Ottoman Corpora]]></title>
-        <id>http://digitalorientalist.com/?p=14165</id>
-        <link href="https://digitalorientalist.com/2024/12/13/exploring-the-digital-world-of-ottoman-turkish-texts-the-digital-ottoman-corpora/"/>
-        <updated>2024-12-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is fascinating to see how Ottoman Turkish texts are transcribed with the help of artificial intelligence (AI)-operated tools, such as Handwritten …]]></summary>
-        <author>
-            <name>emineturkmen</name>
         </author>
     </entry>
     <entry>
