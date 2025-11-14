@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codexfelis.github.io/flumen/index.html</id>
     <title>Flumen: Digital Humanities News Aggregator</title>
-    <updated>2025-11-02T08:28:35.456Z</updated>
+    <updated>2025-11-14T08:34:04.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://codexfelis.github.io/flumen/index.html"/>
     <link rel="self" href="https://codexfelis.github.io/flumen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A new way of searching Sands & Mac]]></title>
+        <id>http://wragge.micro.blog/2025/11/12/a-new-way-of-searching.html</id>
+        <link href="https://updates.timsherratt.org/2025/11/12/a-new-way-of-searching.html"/>
+        <updated>2025-11-12T11:25:21.000Z</updated>
+        <summary type="html"><![CDATA[In the fortnight I spent onsite at the State Library of Victoria, ‘Sands & Mac’ was mentioned many times. And no wonder. The Sands & McDougall’s directories are a goldmine for anyone researching family, local, or social history. They list thousands of names and addresses, enabling you to find individuals, and explore changing land use over time. When people ask the SLV’s librarians, ‘What can you tell me about the history of my house?’, Sands & Mac is one of the first resources consulted.
+The SLV has digitised 24 volumes of Sands & Mac, one every five years from 1860 to 1974. You can browse the contents of each volume in the SLV image viewer, using the partial contents listing to help you find your way to sections of interest. To search the full text content you need to use the PDF version…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMs for Spain’s Official Languages]]></title>
+        <id>8931 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/llms-spains-official-languages"/>
+        <updated>2025-11-12T10:15:09.000Z</updated>
+        <summary type="html"><![CDATA[LLMs for Spain’s Official Languages
+
+            
+
+  
+  
+            
+    
+ Written by Aritz Farwell and Ainara Estarrona 
+CLARIAH-ES consortium members, working through the ILENIA project, have developed several large language model families for Spain’s official languages, including Spanish, Catalan, Galician, Basque and Valencian. Part of the motivation behind the creation of these LLMs was the desire to promote 
+    
+Large Language Model(s)
+HiTZ, the Basque Center for Language Technology at the University of the Basque Country (EHU), created Latxa, a model family based on LLaMA models and comprising versions from 7 to 70 billion parameters. Launched at the beginning of 2024 and named after a breed of sheep native to the Basque Country that is famous for its cheese, Latxa was the first L…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HiTZketan: Deep Bilingual Speech-to-Speech Basque-Spanish Translation]]></title>
+        <id>8930 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/hitzketan-deep-bilingual-speech-speech-basque-spanish-translation"/>
+        <updated>2025-11-12T10:05:16.000Z</updated>
+        <summary type="html"><![CDATA[HiTZketan: Deep Bilingual Speech-to-Speech Basque-Spanish Translation
+
+            
+Written by Aritz Farwell, Ainara Estarrona, and Inma Hernáez
+    
+Demonstration of the translation system interface. 
+
+HiTZketan, or ‘in conversation’ in Basque, is a bilingual (Basque-Spanish) speech-to-speech translation system designed to facilitate seamless communication between Basque and Spanish speakers. Developed by the HiTZ Center at the University of the Basque Country (EHU), HiTZketan aims to expand the availability of comprehensive language technology for Basque and to provide real-time, natural, and personalised voice translations. The freely accessible system allows users to speak in either Basque or Spanish. It automatically transcribes their speech utilising Automatic Speech Recognition (ASR…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction: CLARIAH-ES]]></title>
+        <id>8929 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/introduction-clariah-es"/>
+        <updated>2025-11-12T09:48:05.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: CLARIAH-ES
+
+            
+Written by Aritz Farwell and Ainara Estarrona
+    
+The 12 nodes of CLARIAH-ES. 
+
+Expanding the Digital Scope of SSH in Spain
+CLARIAH-ES is the distributed digital research infrastructure that coordinates Spain's participation in the European Research Infrastructure Consortia CLARIN and DARIAH. Spain officially joined both European infrastructures as a full member in September 2023, following the work of the INTELE strategic network (2020-2022), which formulated a common proposal for a national CLARIAH-ES consortium. The consortium’s coordinating office is located at HiTZ, the Basque Center for Language Technology at the University of the Basque Country. It includes partners from twelve leading institutions and research groups across Spain that are ded…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities in Action: Tools for the Analysis of Historical Spanish-Language Press]]></title>
+        <id>8928 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/digital-humanities-action-tools-analysis-historical-spanish-language-press"/>
+        <updated>2025-11-12T09:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Digital Humanities in Action: Tools for the Analysis of Historical Spanish-Language Press
+
+            
+Written by Ainara Estarrona and Aritz Farwell 
+    
+International Hispanism Seminar in Soria, Spain, where CLARIAH-ES presented its winning project ‘Digital Humanities in Action: Tools for the Analysis of Historical Spanish-Language Press.’ The event, held July 2–4, 2025, brought together researchers from Spain, Colombia, Puerto Rico, and Argentina to explore digitisation, accessibility, and computational analysis of historical newspapers.
+
+CLARIAH-ES presented one of three projects that won the third edition of the International Hispanism Seminar Competition promoted by the Duques de Soria Foundation for Hispanic Science and Culture. This competition recognises the work of research team…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tour de CLARIN: Interview with María Teresa Almeida Marrero]]></title>
+        <id>8927 at https://www.clarin.eu</id>
+        <link href="https://www.clarin.eu/blog/tour-de-clarin-interview-maria-teresa-almeida-marrero-0"/>
+        <updated>2025-11-12T08:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Tour de CLARIN: Interview with María Teresa Almeida Marrero
+
+            
+The conversation was led by Kristina Pahor de Maiti Tekavčič
+    
+María Teresa Almeida Marrero holds a degree in Classical Philology and a Master’s in The Classical World and its Western Projection. She is currently completing her PhD, which explores the representation of women in the Renaissance through the lens of classical authors as transmitted in 16th-century florilegia. As a predoctoral researcher at the Institute for Textual Analysis and Applications (IATEXT) at the University of Las Palmas de Gran Canaria, she is part of the division of Rhetoric, Humanism, and Classical Tradition. Her research focuses on the influence of the classical world in shaping ideas about women, examining how Renaissance texts and com…]]></summary>
+        <author>
+            <name>Laura Gusan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Olufsen Collection: From 19th-Century Expeditions to Digital Museum Collection – Part 2]]></title>
+        <id>http://digitalorientalist.com/?p=17312</id>
+        <link href="https://digitalorientalist.com/2025/11/11/the-olufsen-collection-from-19th-century-expeditions-to-digital-museum-collection-part-2/"/>
+        <updated>2025-11-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest post by Aizat Ishembieva. This second installment compares the work of Professor Esther Fihl and her …]]></summary>
+        <author>
+            <name>The Digital Orientalist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online Teaching Resources on Shinto]]></title>
+        <id>http://digitalorientalist.com/?p=16213</id>
+        <link href="https://digitalorientalist.com/2025/11/07/online-teaching-resources-on-shinto/"/>
+        <updated>2025-11-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have taught an introductory English-language course to religions in Japan for several years making use of available online resources …]]></summary>
+        <author>
+            <name>James Harry Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Versatility of the Home in Mists – Oversea Edition]]></title>
+        <id>http://digitalorientalist.com/?p=16272</id>
+        <link href="https://digitalorientalist.com/2025/11/04/the-versatility-of-the-home-in-mists-oversea-edition/"/>
+        <updated>2025-11-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The database Home In Mists – Oversea edition 白雲深處人家海外站 is an edition based outside of China of a database by …]]></summary>
+        <author>
+            <name>maddalena poli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning the SLV's maps into data with Allmaps and some GLAM plumbing]]></title>
+        <id>http://wragge.micro.blog/2025/11/04/turning-the-slvs-maps-into.html</id>
+        <link href="https://updates.timsherratt.org/2025/11/04/turning-the-slvs-maps-into.html"/>
+        <updated>2025-11-04T04:02:53.000Z</updated>
+        <summary type="html"><![CDATA[I often describe what I do as GLAM data plumbing. Most of the time I’m not creating new tools, I’m figuring out what data is available and how I can connect it up to existing tools. It’s rarely straightforward, but if I can get all the pipes connected and data flowing in the right direction, suddenly new things become possible.
+Things like turning all the State Library of Victoria’s digitised maps into data.
+I’ve just created a workflow that uses AllMaps and IIIF to georeference the SLV’s digitised maps. There’s some technical details below, but the idea is pretty simple. A userscript links the SLV image viewer to Allmaps – so you just click on a button, and the digitised map opens, ready for georeferencing.
+Why is this useful? Georeferencing relates a digitised map to real world geography…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Me at 63...]]></title>
+        <id>http://wragge.micro.blog/2025/11/03/me-at.html</id>
+        <link href="https://updates.timsherratt.org/2025/11/03/me-at.html"/>
+        <updated>2025-11-03T06:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Originally published in Pharos, newsletter of the Professional Historian’s Association (Vic & Tas), October-November 2025, in the ‘Member Profile’ section.
+What was your first history related job? What path have you taken since then?
+In the early 1990s I started working for a small self-funded organisation called the Australian Science Archives Project. Our mission was to preserve and raise awareness of Australia’s scientific past. When the web came along, we realised it provided an enormous opportunity to communicate history to the public. So I taught myself web development and created the first archives website in Australia. Since then my work has continued to explore what happens when we release GLAM collections into online spaces where people can see and use them differently.
+What kind…]]></summary>
+        <author>
+            <name>Tim Sherratt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RECOMMENDED: Letters from Freedom: New Digital Resource]]></title>
         <id>https://dhandlib.org/?p=185680</id>
@@ -2564,16 +2720,6 @@ The post Learning from the Ground Up – Hacking History in Oxford with <i>Gale 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“AI and the Digital Humanities” The Schedule for DO’s Virtual Conference 2025]]></title>
-        <id>http://digitalorientalist.com/?p=15793</id>
-        <link href="https://digitalorientalist.com/2025/05/16/ai-and-the-digital-humanities-the-schedule-for-dos-virtual-conference-2025/"/>
-        <updated>2025-05-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following is the schedule of the Digital Orientalist’s 2025 Virtual Conference “AI and the Digital Humanities for the Study …]]></summary>
-        <author>
-            <name>The Digital Orientalist</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Put people first and research will thrive: Stories of human connection and perseverance underpin research sustainability]]></title>
         <id>https://dri.ie/?post_type=news&amp;p=52015</id>
         <link href="https://dri.ie/news/put-people-first-and-research-will-thrive/"/>
@@ -2725,16 +2871,6 @@ The post Put people first and research will thrive: Stories of human connection 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DH2026 is in Daejeon, South Korea]]></title>
-        <id>https://adho.org/?p=4907</id>
-        <link href="https://adho.org/2025/05/15/dh2026-is-in-daejeon-south-korea/"/>
-        <updated>2025-05-15T13:52:33.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Humanities 2026 (DH2026) Conference will take place in Daejeon, South Korea, from Monday, July 27 to Friday, July 31, 2026, under the theme “Engagement”. The event will be hosted by the Korean Association for Digital Humanities (KADH) in collaboration with Daejeon Metropolitan City. We look forward to sharing more details soon, including the… Read More »DH2026 is in Daejeon, South Korea]]></summary>
-        <author>
-            <name>Nadezhda Povroznik</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From the Bottom to the Top: The Rungis Marketplace and the Establishment of the European Common Market]]></title>
         <id>5500 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/bottom-top-rungis-marketplace-and-establishment-european-common-market"/>
@@ -2752,50 +2888,6 @@ C²DH Open Space (4th floor Maison des Sciences humaines)
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Artificial Intelligence: Human Recognition of a Syriac Fragment in Turfan]]></title>
-        <id>http://digitalorientalist.com/?p=15745</id>
-        <link href="https://digitalorientalist.com/2025/05/13/beyond-artificial-intelligence-human-recognition-of-a-syriac-fragment-in-turfan/"/>
-        <updated>2025-05-13T14:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Last October 2024, I had the great privilege to be invited to give a paper at “The International Conference on …]]></summary>
-        <author>
-            <name>Ephrem A. Ishac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centre news vol. 72 - May 2025]]></title>
-        <id>8813 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/news/centre-news-vol-72-may-2025"/>
-        <updated>2025-05-13T13:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Centre news vol. 72 - May 2025
-
-            
-Centre Meeting 2025 coming up
-On 21 and 22 May, centre representatives and/or their technical colleagues will gather for the Centre Meeting. Please note that this year's venue has changed from Utrecht to Leiden. If you intend to participate in person, please make sure to register by 14 May.
-Online participation is possible too, in that case the registration deadline is 20 May.
-CLARIN technical open hour, Monday 26 May at 11:00 CEST
-The next edition of the technical open hour is planned for Monday 26 May at 11:00 CEST. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!
-Centre certification for CLARIN.SI
-We are pleased to announce that the CLARIN.SI Language Technology Centre in Ljubljana, Slovenia, has been successfully re-assessed as a CLARIN B-centre and has received a renewed B-centre certificate.
-Academy of Sciences and Humanities in Hamburg as C-centre
-The Academy of Sciences and Humanities in Hamburg is now included in the Virtual Language Observatory.
-New on the CLARIN forum
-How can I convert my DataCite records to CMDI?
-New software releases
-Switchboard version 2.4.5 has been released. This version includes some minor UI improvements as well as the usual security and dependency updates. Please check the release notes for details.
-CLARIN switchboard bridge plugin for B2Drop/Nextcloud version 3.0.0. This is a full rewrite making use of modern Nextcloud APIs. It also brings configurable user options to use the Switchboard as an in-page popup (experimental), or use different instances of the Switchboard (e.g. https://beta-switchboard.clarin.eu ). Please check the release notes for details and screenshots of the new features. Try it out by logging in to B2DROP.
-The newest version of the Linkchecker provides charts that allow quick insights in the availability of links over time.
-
-      Dieter Van Uytvanck
- 13 May 2025
-
-
-    
-centre news]]></summary>
-        <author>
-            <name>Dieter Van Uytvanck</name>
         </author>
     </entry>
     <entry>
@@ -2835,58 +2927,6 @@ The post DRI launches Digital Preservation Terminology: An Irish language glossa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction: HR-CLARIN]]></title>
-        <id>8812 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/introduction-hr-clarin"/>
-        <updated>2025-05-12T08:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: HR-CLARIN
-
-            
-Written by Daša Farkaš
-    
-The HR‑CLARIN provides language resources, technologies, expertise, and knowledge transfer to researchers in humanities and social sciences with a focus on Croatian language resources and tools, but also develops language technologies for other languages, e.g., Latin and Old-Church Slavonic.
-The HR-CLARIN consortium is composed of eight founding partners:
-The Faculty of Humanities and Social Sciences (FFZG) of the University of Zagreb is the largest in Croatia, carrying out research activities and executing university programs in the field of humanities and social sciences. It is also a significant cultural institution with an important impact on Croatian culture and society.
-The Institute of Croatian Language (IHJ) is a pub…]]></summary>
-        <author>
-            <name>Laura Gusan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tour de Clarin: HR-CLARIN]]></title>
-        <id>8812 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/tour-de-clarin-hr-clarin"/>
-        <updated>2025-05-12T08:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Tour de Clarin: HR-CLARIN
-
-            
-Written by Daša Farkaš
-    
-The HR‑CLARIN provides language resources, technologies, expertise, and knowledge transfer to researchers in humanities and social sciences with a focus on Croatian language resources and tools, but also develops language technologies for other languages, e.g., Latin and Old-Church Slavonic.
-The HR-CLARIN consortium is composed of eight founding partners:
-The Faculty of Humanities and Social Sciences (FFZG) of the University of Zagreb is the largest in Croatia, carrying out research activities and executing university programs in the field of humanities and social sciences. It is also a significant cultural institution with an important impact on Croatian culture and society.
-The Institute of Croatian Language (IHJ) is a p…]]></summary>
-        <author>
-            <name>Laura Gusan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tour de CLARIN: Interview with Bojana Mikelenić]]></title>
-        <id>8811 at https://www.clarin.eu</id>
-        <link href="https://www.clarin.eu/blog/tour-de-clarin-interview-bojana-mikelenic"/>
-        <updated>2025-05-12T08:02:43.000Z</updated>
-        <summary type="html"><![CDATA[Tour de CLARIN: Interview with Bojana Mikelenić
-
-            
-The conversation was led by Kristina Pahor de Maiti Tekavčič
-Can you briefly introduce yourself and your research? What led you to start incorporating computational methods into your research?
-    
-I am a postdoctoral researcher at the Department of Romance Studies, Faculty of Humanities and Social Sciences, University of Zagreb, specialising in Spanish syntax, contrastive, and corpus linguistics. My research primarily focuses on Spanish and Croatian, examining syntactic and semantic structures through corpus-based methodologies. My doctoral dissertation analysed prepositional complements in Spanish and their equivalents in Croatian using a parallel corpus created for that research. Recently, I started working on other applicati…]]></summary>
-        <author>
-            <name>Laura Gusan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Interconnecting History and Archives for Migrant Agencies]]></title>
         <id>5498 at https://www.c2dh.uni.lu</id>
         <link href="https://www.c2dh.uni.lu/events/interconnecting-history-and-archives-migrant-agencies"/>
@@ -2909,30 +2949,6 @@ and online
     Hide image in content detail]]></summary>
         <author>
             <name>Noëlle Schon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Future of Library Cataloging with AI and Multilingual Embeddings]]></title>
-        <id>http://digitalorientalist.com/?p=15716</id>
-        <link href="https://digitalorientalist.com/2025/05/09/exploring-the-future-of-library-cataloging-with-ai-and-multilingual-embeddings/"/>
-        <updated>2025-05-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post was written together with Sai Deng (Metadata Librarian, University of Central Florida) and Lihong Zhu (Head of Library …]]></summary>
-        <author>
-            <name>Eric H. C. Chow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farewell Trove]]></title>
-        <id>http://wragge.micro.blog/2025/05/07/farewell-trove.html</id>
-        <link href="https://updates.timsherratt.org/2025/05/07/farewell-trove.html"/>
-        <updated>2025-05-07T03:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Over the last few months I’ve been grappling with the cancellation of my Trove API keys by the National Library of Australia. It may seem like a minor technical hiccup from the outside, but it’s had a major personal impact. For the sake of my health, I’ve decided to stop work on Trove, archive all my code repositories related to Trove, and move on. Farewell Trove.
-But don’t panic! All of my Trove tools and resources available through the GLAM Workbench and elsewhere will remain online. They just won’t be updated. I’ll be adding explanatory notices to the affected resources over coming weeks. All of my stuff is openly licensed, so feel free to take what’s useful and develop it further yourself.
-I’ll also be adding warnings for researchers planning to use the Trove API in their projects. Given the fact that the NLA is willing to change the API terms of use to restrict access without any consultation, provides no transparency around acceptable use of full text content, and is willing to cancel API keys without warning, I can no longer recommend Trove as a reliable source for digital research. A PhD student could embark on a project in good faith, only to have the rules change mid-project.
-I think this is a critical issue for the research sector, and hard questions need to be asked of the NLA. But I can’t be the one to do this any more. I’m sick of being the person calling the NLA out on its bad behaviour. I’m sick of their gaslighting.
-I wanted to avoid making any dramatic gestures, but after talking it over with my partner last night, I realised my health is really suffering and I need to make a change. I also realised that even if my API keys were magically restored, I’d always be looking over my shoulder, wondering if I’d done something to offend the NLA gatekeepers. That’s not a good way to live. I’d rather spend my time working with organisations who value what I do.]]></summary>
-        <author>
-            <name>Tim Sherratt</name>
         </author>
     </entry>
     <entry>
