@@ -242,26 +242,6 @@
           "wordCount": 1958,
           "title": "New issue ADHO Newsletter is out",
           "imageUrl": null
-        },
-        {
-          "id": "https://adho.org/?p=5129",
-          "author": "Nadezhda Povroznik",
-          "description": "The Local Organising Committee for DH2025 has extended the registration deadline! This extension gives you a bit more time to get registered for DH2025 in Lisbon. Whether you plan to join us in person or online, make sure to complete your registration by the relevant deadline. To register, please visit the ConfTool, where you will… Read More »DH2025: Extension to the deadline for registration",
-          "link": "https://adho.org/2025/05/30/dh2025-extension-to-the-deadline-for-registration/",
-          "publishedOn": "2025-05-30T12:04:06.000Z",
-          "wordCount": null,
-          "title": "DH2025: Extension to the deadline for registration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://adho.org/?p=4967",
-          "author": "Nadezhda Povroznik",
-          "description": "Join us in Lisbon for the DH2025 conference on “Building access and accessibility, open science to all citizens“, organised by NOVA FCSH, the second largest school of Universidade NOVA de Lisboa, for an unforgettable week of digital humanities exchange, inspiration, and community meetings. Register here: https://dh2025.adho.org/2025/03/08/registration-for-dh2025-open/ Deadline: June 2, 2025Let your colleagues know that the deadline… Read More »DH2025: Registration Closes on 2 June",
-          "link": "https://adho.org/2025/05/24/dh2025-registration-closes-on-2-june/",
-          "publishedOn": "2025-05-24T08:11:35.000Z",
-          "wordCount": null,
-          "title": "DH2025: Registration Closes on 2 June",
-          "imageUrl": null
         }
       ]
     },
@@ -1153,6 +1133,46 @@
       "siteUrl": "https://digitalorientalist.com",
       "articles": [
         {
+          "id": "http://digitalorientalist.com/?p=17467",
+          "author": "Sunayani Bhattacharya",
+          "description": "In designing an introductory Digital Humanities class, I am often faced with the question of how best to incorporate linguistic …",
+          "link": "https://digitalorientalist.com/2025/11/25/teaching-bengali-digital-texts-to-anglophone-undergraduates-what-voyant-reveals-about-the-infrastructural-bias-of-dh-tools/",
+          "publishedOn": "2025-11-25T14:00:00.000Z",
+          "wordCount": 5390,
+          "title": "Teaching Bengali Digital Texts to Anglophone Undergraduates: What Voyant Reveals about the Infrastructural Bias of DH Tools",
+          "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2025/11/image-31.png?fit=1200%2C647&ssl=1"
+        },
+        {
+          "id": "http://digitalorientalist.com/?p=17262",
+          "author": "The Digital Orientalist",
+          "description": "This contribution is based on a presentation given at The Digital Orientalist’s Virtual Conference 2025 (AI and the Digital Humanities) …",
+          "link": "https://digitalorientalist.com/2025/11/21/ai-ethics-and-the-humanities-a-perspective-from-buddhist-studies/",
+          "publishedOn": "2025-11-21T13:07:39.000Z",
+          "wordCount": 7016,
+          "title": "AI Ethics and the Humanities: A Perspective from Buddhist Studies",
+          "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2025/11/lai_do_cover-image.png?fit=1200%2C574&ssl=1"
+        },
+        {
+          "id": "http://digitalorientalist.com/?p=16348",
+          "author": "James Harry Morris",
+          "description": "Those of us who use languages written in the Latin alphabet likely don’t think much about how we input text. …",
+          "link": "https://digitalorientalist.com/2025/11/18/chorded-input-and-the-japanese-language-an-introduction-and-invitation/",
+          "publishedOn": "2025-11-18T14:00:00.000Z",
+          "wordCount": 5093,
+          "title": "Chorded Input and the Japanese Language: An Introduction and Invitation",
+          "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2025/08/macbook_pro_touchbar_jis_keyboard.jpg?fit=1200%2C471&ssl=1"
+        },
+        {
+          "id": "http://digitalorientalist.com/?p=17362",
+          "author": "Enes Yılandiloğlu",
+          "description": "This contribution is based on a presentation given at The Digital Orientalist’s Virtual Conference 2025 (AI and the Digital Humanities) …",
+          "link": "https://digitalorientalist.com/2025/11/14/mapping-eighteenth-century-british-travel-writing-on-the-orient/",
+          "publishedOn": "2025-11-14T14:00:00.000Z",
+          "wordCount": 5539,
+          "title": "Mapping Eighteenth-Century British Travel Writing on the Orient",
+          "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2025/11/enes-image.jpg?fit=1200%2C1032&ssl=1"
+        },
+        {
           "id": "http://digitalorientalist.com/?p=17312",
           "author": "The Digital Orientalist",
           "description": "This is a guest post by Aizat Ishembieva. This second installment compares the work of Professor Esther Fihl and her …",
@@ -1351,46 +1371,6 @@
           "wordCount": 4307,
           "title": "CFA: Join the DO Team 2025/26",
           "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2023/06/do_logo_.png?fit=1200%2C1200&ssl=1"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=15981",
-          "author": "So Miyagawa",
-          "description": "In my previous discussion, I examined AKU-PAL, the palaeographical database for hieratic script among ancient Egyptian writing systems. This article …",
-          "link": "https://digitalorientalist.com/2025/05/30/the-demotic-palaeographical-database-project-a-digital-repository-of-ancient-egyptian-demotic-script-and-text-corpora/",
-          "publishedOn": "2025-05-30T15:00:00.000Z",
-          "wordCount": 5717,
-          "title": "The Demotic Palaeographical Database Project: A Digital Repository of Ancient Egyptian Demotic Script and Text Corpora",
-          "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2025/05/screenshot-2025-05-31-at-15.45.08.png?fit=1200%2C593&ssl=1"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=15825",
-          "author": "Edward A. S. Ross",
-          "description": "This is part three of a three-part series on the biases about Hellenistic Central Asia in generative artificial intelligence (AI) datasets. In this final part, I planned to discuss how Hellenistic Central Asia was biased in conversational AI models, such as ChatGPT 4o and Gemini 1.0, but newer “Deep Research” functions have since replaced and exponentially increased the capabilities of those legacy models.",
-          "link": "https://digitalorientalist.com/2025/05/27/hellenistic-central-asia-through-the-eyes-of-genai-part-3-deep-research/",
-          "publishedOn": "2025-05-27T13:00:00.000Z",
-          "wordCount": 5829,
-          "title": "Hellenistic Central Asia through the Eyes of GenAI – Part 3: Deep Research",
-          "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2025/05/0.-chatgpt-o4-mini-cover-image.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=15829",
-          "author": "Maciej Kurzynski",
-          "description": "In her essay “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation,” Tara McPherson …",
-          "link": "https://digitalorientalist.com/2025/05/23/global-dh-vs-area-studies-questioning-the-china-and-the-west-rest-paradigm/",
-          "publishedOn": "2025-05-23T13:00:00.000Z",
-          "wordCount": 5202,
-          "title": "Global DH vs. Area Studies: Rethinking “China and the West (Rest)” Beyond Lenticular Logic",
-          "imageUrl": "https://i0.wp.com/digitalorientalist.com/wp-content/uploads/2025/05/disco_ball.png?fit=1200%2C800&ssl=1"
-        },
-        {
-          "id": "http://digitalorientalist.com/?p=15800",
-          "author": "BRIAN Wong",
-          "description": "Part 1 can be read here. The Zaibatsu had dominated Japanese business and industry for decades before WWII. They monopolised …",
-          "link": "https://digitalorientalist.com/2025/05/20/unearthing-modern-japans-subterranean-networks-with-the-national-diet-librarys-ndl-full-text-search-system-part-2-private-capital-and-the-financing-of-historical-smes/",
-          "publishedOn": "2025-05-20T13:00:00.000Z",
-          "wordCount": 5389,
-          "title": "Unearthing Modern Japan’s Subterranean Networks with the National Diet Library’s (NDL) Full-Text Search System (Part 2): Private Capital and the Financing of Historical SMEs",
-          "imageUrl": "https://digitalorientalist.com/wp-content/uploads/2025/05/coverpirc.png"
         }
       ]
     },
@@ -1398,18 +1378,7 @@
       "title": "Computational Humanities Research - Latest topics",
       "feedUrl": "https://discourse.computational-humanities-research.org/latest.rss",
       "siteUrl": "https://discourse.computational-humanities-research.org/latest",
-      "articles": [
-        {
-          "id": "discourse.computational-humanities-research.org-topic-2297",
-          "author": "fpianz",
-          "description": "Hi,\nI was checking the 2025 CfP and I couldn’t find any guidelines for reviewers.\nJust one example: is it appropriate for a reviewer to negatively evaluate the results of an article because the authors didn’t use a larger (paid) LLM?\nI know (I hope!) this is probably a case on which the CHR community would agree that beating the SotA and “going big” are not our research goals. Anyway, I think it would be useful to be explicit about this.\n1 post - 1 participant\nRead full topic",
-          "link": "https://discourse.computational-humanities-research.org/t/peer-review-guidelines-for-chr2025/2297",
-          "publishedOn": "2025-05-27T01:36:41.000Z",
-          "wordCount": 144,
-          "title": "Peer review guidelines for CHR2025",
-          "imageUrl": "https://discourse.computational-humanities-research.org/uploads/default/original/1X/e83227080f03d3299283aca047b56b9f8af06b57.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Blog Archives - Digital Scholarship",
@@ -2073,6 +2042,26 @@
       "siteUrl": "https://updates.timsherratt.org/",
       "articles": [
         {
+          "id": "http://wragge.micro.blog/2025/11/19/counting-down-to-the-end.html",
+          "author": null,
+          "description": "My stint as Creative Technologist-in-Residence at the State Library of Victoria LAB comes to an end in a few weeks time and I’m frantically trying to pull things together. I’ll be back on-site at the Library from 1 to 5 December for a few events, and to report back to staff on what I’ve been doing.\nOn Tuesday 2 December, there’ll be a public workshop on using and contributing to the GLAM Workbench. Here’s the blurb:\nMore and more GLAM organisations are looking to share their data to foster creativity and support new types of research. But how can you help potential users understand the possibilities of your data? This workshop will explore how GLAM organisations can create and share resources that encourage experimentation.\nThe GLAM Workbench is a large collection of tools, hacks, and tuto…",
+          "link": "https://updates.timsherratt.org/2025/11/19/counting-down-to-the-end.html",
+          "publishedOn": "2025-11-19T05:01:22.000Z",
+          "wordCount": 549,
+          "title": "Counting down... (to the end of my SLV residency)",
+          "imageUrl": "https://s3.amazonaws.com/micro.blog/opengraph/2025/11/19/5645875.png"
+        },
+        {
+          "id": "http://wragge.micro.blog/2025/11/16/some-sands-mac-tweaks-thanks.html",
+          "author": null,
+          "description": "I posted recently about my new fully-searchable version of the Sands & MacDougall directories. I’ve now moved on to try and pull together a number of the State Library of Victoria’s place-based collections into a new discovery interface. It’s going to be a busy couple of weeks as my residency ends in early December!\nI wanted to incorporate Sands & Mac search results into the new interface. Getting the data was easy because Datasette has a JSON API baked in. But what about the images? I could just display a thumbnail of the whole page, but it would be better to show a snippet of the actual entry. Thanks to IIIF and ALTO, I now can.\nIIIF makes it easy to cut small sections out of a larger image. You just put the coordinates of the desired section in the IIIF url. As I noted in my previous post, the ALTO files that contain the OCR data from Sands & Mac include the coordinates of every line, and every word. I just had to bring the two together.\nAll I did was update the code that extracts the data from the ALTO files to save the results as newline delimited JSON instead of a plain text file. Each line in each volume of Sands & Mac is now saved a JSON object that contains the text, as well as the height, width, vertical position, and horizontal position of the line within the page image. When I load up the SQLite database, I add the values for h, w, x, and y as well as the text for each line.\nWhat does this make possible?\nWhen you go to an individual entry, the page image now automatically pans and zooms so that the current entry is at the centre of the image viewer. I just updated the OpenSeadragon code to focus on the entry’s position.\nIf you share an entry on social media, a snipped out section of the page image showing the selected entry is displayed as there’s now an image META tag that points to an IIIF url.\nYou can retrieve entries via the API and use the coordinates to request snipped out images of them via IIIF.\nNice image snippets thanks to IIIF and ALTO (and a sneak prview of what's coming...)",
+          "link": "https://updates.timsherratt.org/2025/11/16/some-sands-mac-tweaks-thanks.html",
+          "publishedOn": "2025-11-16T04:17:26.000Z",
+          "wordCount": 457,
+          "title": "Some Sands & Mac tweaks thanks to ALTO and IIIF",
+          "imageUrl": "https://s3.amazonaws.com/micro.blog/opengraph/2025/11/16/5643233.png"
+        },
+        {
           "id": "http://wragge.micro.blog/2025/11/12/a-new-way-of-searching.html",
           "author": null,
           "description": "In the fortnight I spent onsite at the State Library of Victoria, ‘Sands & Mac’ was mentioned many times. And no wonder. The Sands & McDougall’s directories are a goldmine for anyone researching family, local, or social history. They list thousands of names and addresses, enabling you to find individuals, and explore changing land use over time. When people ask the SLV’s librarians, ‘What can you tell me about the history of my house?’, Sands & Mac is one of the first resources consulted.\nThe SLV has digitised 24 volumes of Sands & Mac, one every five years from 1860 to 1974. You can browse the contents of each volume in the SLV image viewer, using the partial contents listing to help you find your way to sections of interest. To search the full text content you need to use the PDF version…",
@@ -2221,16 +2210,6 @@
           "wordCount": 1831,
           "title": "GLAM Workbench ­– preprint for 'Building User-Friendly Toolkits and Platforms for Digital Humanities'",
           "imageUrl": "https://zenodo.org/badge/DOI/10.5281/zenodo.15597924.svg"
-        },
-        {
-          "id": "http://wragge.micro.blog/2025/05/19/no-more-harvesting-data-from.html",
-          "author": null,
-          "description": "A couple of weeks ago I bid farewell to Trove due to the cancellation of my API keys and the NLA’s lack of transparency around changes to API access. Now it seems I have to wave goodbye to 16+ years of work on RecordSearch, the National Archives of Australia’s online database.\nI noticed this morning that my weekly harvest of recently digitised files in RecordSearch had failed. A quick check showed that my harvester was being blocked by Cloudflare’s bot protection software. I wasn’t really surprised. Websites are using tools like this to protect themselves against AI scraper bots, and I’d already seen it in action on another Australian government site. In the war between content providers and AI scrapers, researchers and digital preservation efforts are copping collateral damage.\nBut while …",
-          "link": "https://updates.timsherratt.org/2025/05/19/no-more-harvesting-data-from.html",
-          "publishedOn": "2025-05-19T07:57:26.000Z",
-          "wordCount": 695,
-          "title": "No more harvesting data from the National Archives of Australia",
-          "imageUrl": null
         }
       ]
     },
@@ -3570,6 +3549,26 @@
       "siteUrl": "https://www.clarin.eu/",
       "articles": [
         {
+          "id": "8942 at https://www.clarin.eu",
+          "author": "Dieter Van Uytvanck",
+          "description": "Centre news vol. 76 - November 2025\n\n            \nCLARIN technical open hour, Monday 24 November at 11:00 CET\nThe next edition of the technical open hour is planned for Monday 24 November at 11:00 CET. You can join virtually and ask our developers and infrastructure specialists anything. Anyone is welcome to join!\nNew on the CLARIN forum\n\"CLARIN Tool Portal\" prototype available for testing\nCuration Dashboard 7.5 beta available for testing\nWorkshop: Methodological reflections and practical applications of LLMs for the Social Sciences and Humanities \nA survey on services, activities, resources, and tools of CLARIN.SI\nImprove your AI skills\nChrome XSLT removal late 2026\nNewly added tool to the switchboard: OCTRA\nCan I get VLO visitor statistics for records that originate from my centre or national consortium?\nLCC’s FCS Endpoint for NoSketchEngine\nSAW’s LexFCS Endpoint with Solr\nFAIR Metadata for Specialised Corpora - How can CLARIN support the communities?\n\n      Dieter Van Uytvanck\n 20 November 2025\n\n\n    \ncentre news",
+          "link": "https://www.clarin.eu/blog/centre-news-vol-76-november-2025",
+          "publishedOn": "2025-11-20T16:12:49.000Z",
+          "wordCount": 447,
+          "title": "Centre news vol. 76 - November 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "8939 at https://www.clarin.eu",
+          "author": "Julia Misersky",
+          "description": "OSCARS at the CLARIN Annual Conference 2025\n\n            \nStrengthening cross-disciplinary collaboration of RIs within the EOSC ecosystem\n \nThe CLARIN Annual Conference is the key event for users and developers of the CLARIN research infrastructure (\n    \nResearch Infrastructure\nCLARIN2025, held in Vienna, enabled the exchange of ideas and experiences within the community at large. CLARIN is one of the RIs participating in the  OSCARS project. The project supports the adoption of FAIR and Open Science practices through cross-disciplinary collaboration among the five \n    \nEuropean Open Science Cloud     see: https://www.clarin.eu/eosc\n\n   Science Clusters: ENVRI - Environmental Sciences, ESCAPE - Astronomy, Nuclear and Particle Physics, LS-RI - Life Sciences, PaNOSC - Photon and Neutron Sc…",
+          "link": "https://www.clarin.eu/blog/oscars-clarin-annual-conference-2025",
+          "publishedOn": "2025-11-18T07:57:57.000Z",
+          "wordCount": 1705,
+          "title": "OSCARS at the CLARIN Annual Conference 2025",
+          "imageUrl": null
+        },
+        {
           "id": "8931 at https://www.clarin.eu",
           "author": "Laura Gusan",
           "description": "LLMs for Spain’s Official Languages\n\n            \n\n  \n  \n            \n    \n Written by Aritz Farwell and Ainara Estarrona \nCLARIAH-ES consortium members, working through the ILENIA project, have developed several large language model families for Spain’s official languages, including Spanish, Catalan, Galician, Basque and Valencian. Part of the motivation behind the creation of these LLMs was the desire to promote \n    \nLarge Language Model(s)\nHiTZ, the Basque Center for Language Technology at the University of the Basque Country (EHU), created Latxa, a model family based on LLaMA models and comprising versions from 7 to 70 billion parameters. Launched at the beginning of 2024 and named after a breed of sheep native to the Basque Country that is famous for its cheese, Latxa was the first L…",
@@ -3798,26 +3797,6 @@
           "wordCount": 357,
           "title": "CLARIN Newsflash May 2025 is Out",
           "imageUrl": null
-        },
-        {
-          "id": "8822 at https://www.clarin.eu",
-          "author": "Laura Gusan",
-          "description": "The UK Joins CLARIN ERIC as Member\n\n            \nAfter participating in many forms since the start of CLARIN, including many years as an Observer, the UK has finally joined CLARIN \n    \nEuropean Research Infrastructure Consortium     see: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\n    \nMartin Wynne is the National Coordinator for CLARIN in the United Kingdom.\n\nUK membership of CLARIN has been supported by funding from the Arts and Humanities Research Council (AHRC), part of UK Research and Innovation, the major national funder in the university and research sector. At the national level, the AHRC is also responsible for the Infrastructure for Digital Arts and Humanities (iDAH) programme, which is par…",
-          "link": "https://www.clarin.eu/news/uk-joins-clarin-eric-member",
-          "publishedOn": "2025-05-27T14:18:45.000Z",
-          "wordCount": 716,
-          "title": "The UK Joins CLARIN ERIC as Member",
-          "imageUrl": null
-        },
-        {
-          "id": "8820 at https://www.clarin.eu",
-          "author": "Laura Gusan",
-          "description": "Switzerland Joins CLARIN ERIC as Member\n\n            \nAfter a productive period as an observer since January 2023, Switzerland officially became a member of CLARIN \n    \nEuropean Research Infrastructure Consortium     see: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en\nCLARIN-CH as its representative body. Currently, CLARIN ERIC has 26 members and participating centres in three additional countries. \nFull membership of CLARIN aligns closely with CLARIN-CH’s mission to support researchers working with language resources and tools, and to foster an active and impactful sustainable national network dedicated to Open Science and FAIR principles.\nAbout CLARIN-CH\n    \nDr. Cristina Grisot, the National Coordina…",
-          "link": "https://www.clarin.eu/news/switzerland-joins-clarin-eric-member",
-          "publishedOn": "2025-05-26T09:18:20.000Z",
-          "wordCount": 670,
-          "title": "Switzerland Joins CLARIN ERIC as Member",
-          "imageUrl": null
         }
       ]
     },
@@ -3981,16 +3960,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://rise.unibas.ch/fileadmin/_processed_/8/3/csm_rise_umzug_0cc39e9f3a.png"
-        },
-        {
-          "id": "news-289",
-          "author": null,
-          "description": "News,\n                        Forschung\n                        \nFür den Sammelband Digital Editing and Publishing in the Twenty-First Century haben Elena Spadini und José Luis Losada Palenzuela ein Kapitel mit dem Titel „Re-using data from editions“ verfasst.",
-          "link": "https://rise.unibas.ch/de/news/details/neues-buchkapitel-ueber-die-wiederverwendung-von-daten-in-digitalen-editionen/",
-          "publishedOn": "2025-05-21T13:20:56.000Z",
-          "wordCount": 351,
-          "title": "Neues Buchkapitel über die Wiederverwendung von Daten in digitalen Editionen",
-          "imageUrl": null
         }
       ]
     },
@@ -3999,6 +3968,116 @@
       "feedUrl": "https://dhandlib.org/feed/",
       "siteUrl": "https://dhandlib.org",
       "articles": [
+        {
+          "id": "https://dhandlib.org/?p=185704",
+          "author": "Rachel Starry",
+          "description": "The team behind America’s Essential Data, with support from the Federation of American Scientists (FAS), Public Environmental Data Partners (PEDP), and The Impact Project, has curated a list of United States federal datasets, variables, and data tools which have been terminated or removed from public online access in 2025. This resource – briefly renamed “Dearly ...read more",
+          "link": "https://dhandlib.org/recommended-confirmed-data-terminations-and-removals-from-the-americas-essential-data-project/?utm_source=rss&utm_medium=rss&utm_campaign=recommended-confirmed-data-terminations-and-removals-from-the-americas-essential-data-project",
+          "publishedOn": "2025-11-13T18:33:55.000Z",
+          "wordCount": 3052,
+          "title": "RECOMMENDED: Confirmed Data Terminations and Removals from the America’s Essential Data Project",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185702",
+          "author": "Ruth Carpenter",
+          "description": "Authors of “Exploring Data Detective Practices as a Class Activity” discuss their experiences as students and instructors in their data feminism course where they take on the role of ‘Data Detectives.’ In the course students learn data visualization and analysis tools as well as creating an “active practice through which we document our investigations of ...read more",
+          "link": "https://dhandlib.org/post-exploring-data-detective-practices-as-a-class-activity/?utm_source=rss&utm_medium=rss&utm_campaign=post-exploring-data-detective-practices-as-a-class-activity",
+          "publishedOn": "2025-11-13T18:33:32.000Z",
+          "wordCount": 3111,
+          "title": "POST: Exploring Data Detective Practices as a Class Activity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185714",
+          "author": "Ruth Carpenter",
+          "description": "AIxDesign is an independent organization working to “democratize AI literacy and critical discourse and prototype and practice new ways of understanding, talking about, and using AI” through community led projects. In this AI tool free resource, the Archival Images of AI Playbook  invites readers to “create better images of AI” by “remixing and reusing digital ...read more",
+          "link": "https://dhandlib.org/resource-archival-images-of-ai-playbook/?utm_source=rss&utm_medium=rss&utm_campaign=resource-archival-images-of-ai-playbook",
+          "publishedOn": "2025-11-13T18:30:47.000Z",
+          "wordCount": 3069,
+          "title": "RESOURCE: Archival Images of AI Playbook",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185720",
+          "author": "Rachel Starry",
+          "description": "Douglass Day is an annual event centered around crowd-sourcing transcription efforts to increase access to online collections of Black history and culture. Named in honor of Frederick Douglass and held every year on or around his birthday, February 14, Douglass Day has its roots in Black History Month and was revived in 2017 by the ...read more",
+          "link": "https://dhandlib.org/event-douglass-day-2026/?utm_source=rss&utm_medium=rss&utm_campaign=event-douglass-day-2026",
+          "publishedOn": "2025-11-13T18:29:53.000Z",
+          "wordCount": 3059,
+          "title": "EVENT: Douglass Day 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185722",
+          "author": "Ruth Carpenter",
+          "description": "On Monday, November 17, 2025, SWIB (Semantic Web in Libraries) forum will hold its 17th annual conference online. From their conference page: SWIB focuses on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from all over the world meet and ...read more",
+          "link": "https://dhandlib.org/event-semantic-web-in-libraries-swib-forum-2025/?utm_source=rss&utm_medium=rss&utm_campaign=event-semantic-web-in-libraries-swib-forum-2025",
+          "publishedOn": "2025-11-13T18:29:11.000Z",
+          "wordCount": 3060,
+          "title": "EVENT: Semantic Web in Libraries (SWIB) Forum 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185716",
+          "author": "Rachel Starry",
+          "description": "THATCamp (or “The Humanities and Technology Camp”) is a participant-driven learning opportunity hosted by the DH@MSU team at Michigan State University. This event will take place on January 30, 2026, from 9:30am-3:00pm Eastern Standard Time, fully on Zoom. Event organizers describe this as a flexible, family- and pet-friendly event for anyone interested in learning and ...read more",
+          "link": "https://dhandlib.org/event-thatcamp-spring-2026/?utm_source=rss&utm_medium=rss&utm_campaign=event-thatcamp-spring-2026",
+          "publishedOn": "2025-11-13T18:28:50.000Z",
+          "wordCount": 3106,
+          "title": "EVENT: THATCamp Spring 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185706",
+          "author": "Rachel Starry",
+          "description": "The Best Practices Exchange (BPE) Program Committee welcomes session proposals for the upcoming BPE unconference to be held May 18-20, 2026, in Indianapolis, IN, USA. From the BPE website: BPE is a community of practitioners in the area of the management and preservation of digital information who gather annually to share experiences and have honest ...read more",
+          "link": "https://dhandlib.org/cfp-best-practices-exchange-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-best-practices-exchange-2026",
+          "publishedOn": "2025-11-13T18:28:02.000Z",
+          "wordCount": 3218,
+          "title": "CFP: Best Practices Exchange 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185708",
+          "author": "Rachel Starry",
+          "description": "The International Association for Social Science Information Service & Technology (IASSIST) has shared a call for proposals for workshops, sessions, papers, posters, or other virtual presentations for their annual conference which will be held virtually on June 2-5, 2026. IASSIST is “an international organization of professionals working with information technology and data services to support ...read more",
+          "link": "https://dhandlib.org/cfp-iassist-virtual-conference-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-iassist-virtual-conference-2026",
+          "publishedOn": "2025-11-13T18:27:33.000Z",
+          "wordCount": 3171,
+          "title": "CFP: IASSIST Virtual Conference 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185719",
+          "author": "Ruth Carpenter",
+          "description": "DH@Guelph is an annual week-long opportunity featuring intensive DH workshops on a variety of subjects and tools held at the University of Guelph in Ontario, Canada, every summer. Next summer’s workshops will take place May 19-22, 2026, and proposals for workshops are due December 15, 2025. Proposals may be on any aspect of the digital ...read more",
+          "link": "https://dhandlib.org/cfp-dhguelph-summer-workshops-2/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-dhguelph-summer-workshops-2",
+          "publishedOn": "2025-11-13T18:27:20.000Z",
+          "wordCount": 3085,
+          "title": "CFP: DH@Guelph Summer Workshops",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185710",
+          "author": "Rachel Starry",
+          "description": "From the job posting: Temple University’s Charles Library is searching for a Digital Associate Archivist! Become a part of the Temple family and you will have access to the following: Full medical, dental, vision coverage Paid time off 12 Paid Holidays Tuition remission – eligible employees and their dependents can obtain a degree TUITION FREE ...read more",
+          "link": "https://dhandlib.org/job-digital-associate-archivist-temple-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-digital-associate-archivist-temple-university",
+          "publishedOn": "2025-11-13T18:24:30.000Z",
+          "wordCount": null,
+          "title": "JOB: Digital Associate Archivist (Temple University)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dhandlib.org/?p=185713",
+          "author": "Rachel Starry",
+          "description": "From the job posting: Position Title: Senior Director of Digital Scholarship and Scholarly Communication   Compensation: The minimum salary for this position is $85,000.   Department: University Libraries   About this opportunity: The Ball State University Libraries seeks a dynamic, effective, and visionary leader to head up our Digital Scholarship and Scholarly Communication team. The senior director will be responsible for  developing and growing the suite of services around open access publishing, scholarly communication, digital scholarship projects, and open educational resources. If you would like to be an essential part of developing and energizing our digital scholarship and scholarly communication programs, we want to talk to you! Apply today!   What you’ll do and what you’ll bring:   Position Function: Provides leadership and direction for the Ball State ...read more",
+          "link": "https://dhandlib.org/job-senior-director-of-digital-scholarship-and-scholarly-communication-ball-state-university/?utm_source=rss&utm_medium=rss&utm_campaign=job-senior-director-of-digital-scholarship-and-scholarly-communication-ball-state-university",
+          "publishedOn": "2025-11-13T18:24:06.000Z",
+          "wordCount": null,
+          "title": "JOB: Senior Director of Digital Scholarship and Scholarly Communication (Ball State University)",
+          "imageUrl": null
+        },
         {
           "id": "https://dhandlib.org/?p=185680",
           "author": "Caitlin Christian-Lamb",
@@ -4332,76 +4411,6 @@
           "publishedOn": "2025-06-04T17:00:51.000Z",
           "wordCount": 6672,
           "title": "“Mnemonic Bracelets”: Physicalization of Quantified-Self Data to Encourage Mindfulness of Time-Specific Emotions and Goals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=185429",
-          "author": "Pamella Lach",
-          "description": "Calling all readers! The dh+lib Review is resuming our summer “What Are You Reading” Series. During our regular summer break, we invite our community to share their summer reading choices. Guest editors will create brief posts to discuss what they are reading and why the dh+lib audience might want to read it too. The series ...read more",
-          "link": "https://dhandlib.org/recommended-dhlib-summer-reading-series/?utm_source=rss&utm_medium=rss&utm_campaign=recommended-dhlib-summer-reading-series",
-          "publishedOn": "2025-05-15T16:47:34.000Z",
-          "wordCount": 2960,
-          "title": "RECOMMENDED: dh+lib Summer Reading Series",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=185431",
-          "author": "Pamella Lach",
-          "description": "A recently published article in the Journal of Contemporary Archival Studies (JCAS Vol 12, Article 3) highlights the Gulf Coast LGBT Radio and Television Digitization Project. Written by Emily Vinson (University of Houston) and Bethany Scott (Yale University), “The Gulf Coast LGBT Radio and Television Digitization Project: Providing Equitable Access to Houston’s LGBTQ Broadcast History,” ...read more",
-          "link": "https://dhandlib.org/resource-gulf-coast-lgbt-radio-and-television-digitization-project/?utm_source=rss&utm_medium=rss&utm_campaign=resource-gulf-coast-lgbt-radio-and-television-digitization-project",
-          "publishedOn": "2025-05-15T16:47:07.000Z",
-          "wordCount": 3104,
-          "title": "RESOURCE: Gulf Coast LGBT Radio and Television Digitization Project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=185433",
-          "author": "Pamella Lach",
-          "description": "The Journal of Critical Digital Librarianship, an open-access and open peer review journal, invites submissions focused on “feminist, anti-racist, anti-colonial, queer, and/or anti-ableist perspectives on digital librarianship.” From the call for submissions: We accept article manuscripts, literature reviews, and reviews of digital collections, as well as relevant multimedia explorations such as podcast episodes, information visualizations, ...read more",
-          "link": "https://dhandlib.org/cfp-journal-of-critical-digital-librarianship/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-journal-of-critical-digital-librarianship",
-          "publishedOn": "2025-05-15T16:46:30.000Z",
-          "wordCount": 3070,
-          "title": "CFP: Journal of Critical Digital Librarianship",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=185435",
-          "author": "Pamella Lach",
-          "description": "The Centre de recherche interuniversitaire sur les humanités numériques (CRIHN) is hosting “Hermeneutica in Practice: Honoring the Work and Legacy of Stéfan Sinclair – A Conference on Text Analysis, Tool Building, and Critical Digital Humanities” September 10-12, 2025. From the call for proposals: We welcome submissions of papers, panels, and tool demonstrations for a bilingual ...read more",
-          "link": "https://dhandlib.org/cfp-hermeneutica-in-practice-honoring-the-work-and-legacy-of-stefan-sinclair/?utm_source=rss&utm_medium=rss&utm_campaign=cfp-hermeneutica-in-practice-honoring-the-work-and-legacy-of-stefan-sinclair",
-          "publishedOn": "2025-05-15T16:46:03.000Z",
-          "wordCount": 3347,
-          "title": "CFP: Hermeneutica in Practice: Honoring the Work and Legacy of Stéfan Sinclair",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=185444",
-          "author": "Pamella Lach",
-          "description": "H-NET Spaces invites applications for its 2025-2026 Cohort Program. This program supports projects that are still still in the early stages of development and/or scholars in need significant support and hands-on training in DH methods. The program provides additional support to scholars seeking to build a digital project with H-Net Spaces. Projects are open access ...read more",
-          "link": "https://dhandlib.org/funding-opportunity-2025-2026-h-net-spaces-cohort-program/?utm_source=rss&utm_medium=rss&utm_campaign=funding-opportunity-2025-2026-h-net-spaces-cohort-program",
-          "publishedOn": "2025-05-15T16:45:23.000Z",
-          "wordCount": 3078,
-          "title": "FUNDING/OPPORTUNITY: 2025-2026 H-Net Spaces Cohort Program",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=185446",
-          "author": "Pamella Lach",
-          "description": "The Association for Computers and the Humanities (ACH) DH in Libraries Special Interest Group (SIG) is looking for two new co-chairs for the next academic year. An MLIS is not required, just a passion for the role of libraries in digital humanities. ACH membership is required for the co-chairs (general members of the SIG do ...read more",
-          "link": "https://dhandlib.org/opportunity-ach-dh-in-libraries-special-interest-group-co-chairs/?utm_source=rss&utm_medium=rss&utm_campaign=opportunity-ach-dh-in-libraries-special-interest-group-co-chairs",
-          "publishedOn": "2025-05-15T16:44:49.000Z",
-          "wordCount": 2969,
-          "title": "OPPORTUNITY: ACH DH in Libraries Special Interest Group Co-Chairs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dhandlib.org/?p=185448",
-          "author": "Pamella Lach",
-          "description": "The Libraries & DH Special Interest Group of the Alliance of Digital Humanities Organizations (ADHO) is co-hosting Libraries & DH: Histories, Perspectives, Prospects Mini-Conference, a free gathering at this summer’s DH2025 Conference in Lisbon, Portugal. Being held Monday, July 14, 2025 from 1:30pm-8:00pm (UTC+0), this hybrid event “will consist of presentations, roundtables, and discussions of the ...read more",
-          "link": "https://dhandlib.org/event-libraries-dh-histories-perspectives-prospects/?utm_source=rss&utm_medium=rss&utm_campaign=event-libraries-dh-histories-perspectives-prospects",
-          "publishedOn": "2025-05-15T16:44:22.000Z",
-          "wordCount": 3100,
-          "title": "EVENT: Libraries & DH: Histories, Perspectives, Prospects",
           "imageUrl": null
         }
       ]
